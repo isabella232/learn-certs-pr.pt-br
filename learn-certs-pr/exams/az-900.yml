@@ -1,0 +1,61 @@
+### YamlMime:Examination
+title: Microsoft Azure Fundamentals
+metadata:
+  title: 'Exame AZ-900: Microsoft Azure Fundamentals'
+  description: 'Exame AZ-900: Microsoft Azure Fundamentals'
+uid: exam.az-900
+displayName: AZ-900
+summary: |-
+   <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 23 de outubro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/></div>
+
+  Este exame é projetado para candidatos que procuram demonstrar conhecimento de nível fundamental de serviços de nuvem e como esses serviços são fornecidos com Microsoft Azure. O exame destina-se a candidatos sem formação técnica, como os envolvidos na venda ou compra de soluções e serviços com base em nuvem ou que tenham algum conhecimento em soluções e serviços baseados em nuvem, bem como aqueles com formação técnica e que precisam validar seu nível de conhecimento fundamental   em serviços em nuvem. A experiência técnica de TI não é exigida, mas requer algum conhecimento ou experiência geral de TI.
+
+  Este exame pode ser feito como um primeiro passo opcional na aprendizagem sobre serviços da nuvem e como esses conceiros são exemplificados pelo Microsoft Azure. Ele pode ser feito como um precursor para exames de serviços da nuvem Microsoft Azure ou Microsoft. Embora fosse um primeiro passo benéfico, validar o conhecimento de nível fundamental, fazer este exame não é um pré-requisito antes de fazer qualquer outra certificação baseada no Azure.
+subTitle: 'Este exame mede a sua capacidade de compreender os seguintes conceitos: conceitos de nuvem; serviços essenciais do Azure; segurança, privacidade, conformidade e confiança; e preços e suporte do Azure.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-900
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- beginner
+skills:
+- O conteúdo deste exame foi atualizado em 23 de outubro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
+- Compreender os conceitos de nuvem (15-20%)
+- Compreender os principais serviços  do Azure (30-35%)
+- Entenda segurança, privacidade, conformidade e confiança (25-30%)
+- Compreender os preços e o suporte do Azure (20-25%)
+roles:
+- developer
+products:
+- azure
+courses:
+- uid: course.az-900t01
+paths:
+- uid: learn.cloud-foundations
+relatedCertifications:
+- related:
+    uid: certification.azure-fundamentals
+resources:
+- title: Certificação Caminhos de Aprendizagem
+  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Azure Fundamentals'.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Apoio aos exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Reveja e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exame e perguntas frequentes
+  description: Reveja as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

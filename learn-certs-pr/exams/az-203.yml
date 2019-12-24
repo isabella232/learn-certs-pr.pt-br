@@ -1,0 +1,96 @@
+### YamlMime:Examination
+title: Desenvolvimento de Soluções para Microsoft Azure
+metadata:
+  title: 'Exame AZ-203: Desenvolvendo  soluções para Microsoft Azure'
+  description: 'Exame AZ-203: Desenvolvendo  soluções para Microsoft Azure'
+uid: exam.az-203
+displayName: AZ-203
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 6 de novembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
+  
+  Os candidatos a este exame são Desenvolvedores do Azure que projetam e criam soluções em nuvem, como aplicativos e serviços. Eles participam de todas as fases do desenvolvimento, desde o design da solução, desenvolvimento e implantação, até o teste e a manutenção. Eles fazem parceria com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar a solução.
+  <br/>
+
+  Os candidatos devem ser proficientes no desenvolvimento de aplicativos e serviços usando as ferramentas e tecnologias do Azure, incluindo armazenamento, segurança, computação e comunicações.
+
+  Os candidatos devem ter pelo menos um ano de experiência no desenvolvimento de soluções escalonáveis em todas as fases de desenvolvimento de software e devem estar capacitados em pelo menos uma linguagem de programação suportada pela nuvem.
+subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: desenvolver a infraestrutura do Azure como uma solução de computação de serviços, desenvolver a Plataforma Azure como uma solução de computação de serviço, desenvolver para armazenamento do Azure, implementar a segurança no Azure, monitorar, solucionar problemas e otimizar soluções; e conectar e consumir serviços do Azure e serviços de terceiros.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHC
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-203&examname=Exam%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-203
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- intermediate
+skills:
+- O conteúdo deste exame foi atualizado em 6 de novembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
+- Desenvolva a solução Azure Infrastructure como uma solução de computação de serviço (10-15%)
+- Desenvolva a Plataforma Azure como uma solução de computação de serviço (20-25%)
+- Desenvolva para armazenamento  Azure (15-20%)
+- Implementar a segurança  Azure (10-15%)
+- Monitore, solucione problemas e otimize soluções (10-15%)
+- Ligar e consumir serviços Azure e serviços de terceiros (20-25%)
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-202
+courses:
+- uid: course.az-203t01
+- uid: course.az-203t02
+- uid: course.az-203t03
+- uid: course.az-203t04
+- uid: course.az-203t05
+- uid: course.az-203t06
+paths:
+- uid: learn.create-serverless-applications
+- uid: learn.connect-your-services-together
+- uid: learn.work-with-relational-data-in-azure
+- uid: learn.store-data-in-azure
+- uid: learn.deploy-a-website-with-azure-virtual-machines
+- uid: learn.manage-resources-in-azure
+- uid: learn.deploy-a-website-with-azure-app-service
+- uid: learn.data-science
+- uid: learn.secure-your-cloud-data
+- uid: learn.modern-data-warehouse
+- uid: learn.work-with-nosql-data-in-azure-cosmos-db
+- uid: learn.data-ai.intro-to-ml-with-python
+relatedCertifications:
+- related:
+    uid: certification.azure-developer
+resources:
+- title: Certificação Caminhos de Aprendizagem
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified:: Azure Developer Associate'.Associado Desenvolvedor Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Resposta ao exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Apoio aos exames de certificação
+  description: Obtenha ajuda  através dos fóruns de suporte da Microsoft Certification.. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+-- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre como solicitar uma acomodação para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exame e perguntas frequentes
+  description: Reveja as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

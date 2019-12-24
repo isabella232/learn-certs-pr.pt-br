@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Planejando e configurando uma plataforma de mensagem
+metadata:
+  title: 'Exame MS-200: Planejando e Configurando uma Plataforma de Mensagem'
+  description: 'Exame MS-200: Planejando e Configurando uma Plataforma de Mensagem'
+uid: exam.ms-200
+displayName: MS-200
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 4 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/></div>
+
+  Os candidatos a este exame são Messaging Administrators que implementam, configuram, gerenciam, solucionam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes corporativos no local e na nuvem.
+
+  Os Messaging Administrators são responsáveis por gerenciar a limpeza, a infraestrutura de mensagens, a configuração híbrida, a migração, a recuperação de desastres, a alta disponibilidade e o acesso do cliente.
+
+  Os Messaging Administrators colaboram com o Security Administrator e o Microsoft 365 Enterprise Administrator para implementar uma topologia híbrida segura que atenda às necessidades de negócios de uma organização moderna.
+
+  O Messaging Administrator deve ter um conhecimento prático dos tipos de autenticação, licenciamento e integração com os aplicativos do Microsoft 365.
+subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: gerenciar a moderna infraestrutura de mensagens;, gerenciar a topologia de fluxo de mensagens; e gerenciar destinatários e dispositivos.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-200&examname=Exam%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-200
+locales:
+- en
+levels:
+- intermediate
+skills:
+- O conteúdo deste exame foi atualizado em 4 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
+- Gerenciar a moderna infraestrutura de  mensagens (45-50%)
+- Gerenciar a topologia do fluxo de programa (35-40%)
+- Gerenciar destinatários e dispositivos (15-20%)
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-201
+courses:
+- uid: course.ms-200t01
+- uid: course.ms-200t02
+- uid: course.ms-200t03
+relatedCertifications:
+- related:
+    uid: certification.m365-messaging-administrator
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Resposta ao exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte  da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exame e perguntas frequentes
+  description: Reveja as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md
