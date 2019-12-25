@@ -1,0 +1,76 @@
+### YamlMime:Examination
+title: Projetando e implementando uma solução Azure AI
+metadata:
+  title: 'Exame AI-100: Projetando e implementando uma solução Azure AI'
+  description: 'Exame AI-100: Projetando e implementando uma solução Azure AI'
+uid: exam.ai-100
+displayName: AI-100
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 26 de novembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
+  
+  Os candidatos a este exame analisam os requisitos para soluções de AI, recomendam ferramentas e tecnologias apropriadas e implementam soluções que atendem aos requisitos de escalabilidade e desempenho.
+  <br/>
+
+  Os candidatos traduzem a visão de arquitetos de soluções e trabalham com cientistas de dados, engenheiros de dados, especialistas em IoT e desenvolvedores de AI para criar soluções completas de ponta a ponta. Os candidatos projetam e implementam aplicativos e agentes de IA que usam o Microsoft Azure Cognitive Services e o Azure Bot Service. Os candidatos podem recomendar soluções que usam tecnologias de código aberto.
+
+  Os candidatos compreendem os componentes que compõem o portfólio do  Azure AI e as opções de armazenamento de dados disponíveis.
+
+  Os candidatos implementam soluções de IA que usam Serviços Cognitivos, bots  Azure, Pesquisa Azure  e armazenamento de dados no Azure. Os candidatos compreendem  quando uma API personalizada deve ser desenvolvida para atender a requisitos específicos.
+subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: analisar os requisitos da solução, projetar soluções, integrar modelos de IA em soluções e implementar e gerenciar soluções.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fai-100
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- intermediate
+skills:
+- O conteúdo deste exame foi atualizado em 26 de novembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
+- Analisar os requisitos da solução (25-30%)
+- Projetar soluções  AI (40-45%)
+- Implementar e monitorar soluções  AI (25-30%)
+roles:
+- ai-engineer
+products:
+- azure
+- azure-cognitive-services
+- azure-bot-service
+- azure-machine-learning-service
+- azure-machine-learning-studio
+- azure-search
+courses:
+- uid: course.ai-100t01
+paths:
+- uid: learn.data-ai.publish-experiment-with-ml-studio
+- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.data-ai.translate-speech-with-speech-services
+- uid: learn.data-ai.create-bots-with-the-azure-bot-service
+- uid: learn.data-ai.classify-images-with-vision-services
+relatedCertifications:
+- related:
+    uid: certification.azure-ai-engineer
+resources:
+- title: Certificação Caminho de Aprendizagem 
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Engenheiro Associado do Azure AI.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Resposta ao exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Apoio aos exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exame e perguntas frequentes
+  description: Reveja as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

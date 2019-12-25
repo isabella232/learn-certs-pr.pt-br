@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: Tecnologias do Microsoft Azure Segurança
+metadata:
+  title: 'Exame AZ-500: Microsoft Azure Security Technologies'
+  description: 'Exame AZ-500: Microsoft Azure Security Technologies'
+uid: exam.az-500
+displayName: AZ-500
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 4 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/></div>
+
+  Os candidatos a este exame são engenheiros de segurança do Microsoft Azure que implementam controles de segurança, mantêm a postura de segurança, gerenciam a identidade e o acesso e protegem os dados, aplicativos e redes. Os candidatos identificam e corrigem vulnerabilidades usando uma variedade de ferramentas de segurança, implementam proteção contra ameaças e respondem a escalações de incidentes de segurança. Como engenheiro de segurança do Microsoft Azure, os candidatos costumam atuar como parte de uma equipe maior dedicada ao gerenciamento e à segurança baseados em nuvem, além de proteger ambientes híbridos como parte de uma infraestrutura de ponta a ponta.
+
+  Os candidatos a este exame devem ter fortes habilidades em scripting e automação; uma profunda compreensão da rede, virtualização e arquitetura cloud N-tier; e uma forte familiaridade com as capacidades de nuvem, produtos e serviços Microsoft Azure, e outros produtos e serviços da Microsoft.
+subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: gerenciar a identidade e acesso, implementar a proteção da plataforma, gerenciar operações de segurança e proteger dados e aplicativos.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
+practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-500
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- intermediate
+skills:
+- O conteúdo deste exame foi atualizado em 4 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
+- Gerenciar a identidade e acesso (20-25%)
+- Implementar a proteção da plataforma (35-40%)
+- Gerenciar operações de segurança (15-20%)
+- Proteção de dados e aplicativos (30-35%)
+roles:
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-policy
+- azure-virtual-network
+- azure-monitor
+- azure-key-vault
+courses:
+- uid: course.az-500t00
+relatedCertifications:
+- related:
+    uid: certification.azure-security-engineer
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Resposta ao exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Apoio aos exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Reveja e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exame e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

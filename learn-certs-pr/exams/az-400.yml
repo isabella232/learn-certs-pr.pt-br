@@ -1,0 +1,80 @@
+### YamlMime:Examination
+title: Soluções DevOps do Microsoft Azure
+metadata:
+  title: 'Exame AZ-400: Soluções Microsoft Azure DevOps'
+  description: 'Exame AZ-400: Soluções Microsoft Azure DevOps'
+uid: exam.az-400
+displayName: AZ-400
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 3 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/></div>
+
+  Os candidatos a este exame são profissionais do DevOps que combinam pessoas, processos e tecnologias para oferecer continuamente produtos e serviços valiosos que atendam às necessidades do usuário final e aos objetivos de negócios. Os profissionais do DevOps simplificam a entrega otimizando práticas, melhorando comunicações e colaboração e criando automação. Eles projetam e implementam estratégias para código de aplicação e infraestrutura que permitem a integração contínua, testes, entrega, monitoramento e feedback.
+
+  Os candidatos devem ser proficientes com as práticas do Agile. Eles devem estar familiarizados com a administração do Azure e o desenvolvimento do Azure e são especialistas em pelo menos uma dessas áreas. Os profissionais Azure DevOps devem ser capazes de projetar e implementar práticas DevOps para controle de versão, conformidade, infraestrutura como código, gerenciamento de configuração, build, versões e testes usando as tecnologias Azure.
+subTitle: 'Este exame mede a sua capacidade de projetar uma estratégia de DevOps e implementar o seguinte: Processos de desenvolvimento DevOps; gestão de dependências, ; infraestrutura de aplicativos; e integração, entrega e feedback contínuos.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-400&examname=Exam%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-400
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- advanced
+skills:
+- O conteúdo deste exame foi atualizado em 3 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
+- Desenhe uma estratégia DevOps (20-25%)
+- Implementar processos de desenvolvimento DevOps (20-25%)
+- Implementar integração contínua (10-15%)
+- Implementar entrega contínua (10–15%)
+- Implementar gerenciamento de dependências (5–10%)
+- Implementar infraestrutura de aplicativos (15-20%)
+- Implementar feedback contínuo (10–15%)
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+paths:
+- uid: learn.azdo.evolve-your-devops-practices
+- uid: learn.azdo.build-applications-with-azure-devops
+- uid: learn.azdo.deploy-applications-with-azure-devops
+- uid: learn.azdo.automate-deployments-azure-devops
+courses:
+- uid: course.az-400t01
+- uid: course.az-400t02
+- uid: course.az-400t03
+- uid: course.az-400t04
+- uid: course.az-400t05
+- uid: course.az-400t06
+- uid: course.az-400t07
+relatedCertifications:
+- related:
+    uid: certification.azure-devops
+resources:
+- title: Certificação Caminhos de Aprendizagem de certificação
+  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Azure DevOps Engineer Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Resposta ao exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Apoio aos exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Reveja e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exame e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md
