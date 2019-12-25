@@ -85,7 +85,7 @@ resources:
 - title: Apoio aos exames de certificação
   description: Obtenha ajuda  através dos fóruns de suporte da Microsoft Certification.. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
--- title: Painel de certificação
+- title: Painel de certificação
   description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
 - title: Solicitar acomodações
