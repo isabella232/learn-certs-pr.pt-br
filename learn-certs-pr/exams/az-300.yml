@@ -76,7 +76,7 @@ relatedCertifications:
     uid: certification.azure-solutions-architect
 resources:
 - title: Certificação Caminho de Aprendizagem de certificação
-  description: 'Descubra os recursos de treinamento para se tornar um  Microsoft Certified: Azure Solutions Architect Expert'.
+  description: 'Descubra os recursos de treinamento para se tornar um  Microsoft Certified: Azure Solutions Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

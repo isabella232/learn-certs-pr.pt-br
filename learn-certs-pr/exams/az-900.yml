@@ -42,7 +42,7 @@ relatedCertifications:
     uid: certification.azure-fundamentals
 resources:
 - title: Certificação Caminhos de Aprendizagem
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Azure Fundamentals'.
+  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Azure Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

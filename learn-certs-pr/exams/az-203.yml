@@ -74,7 +74,7 @@ relatedCertifications:
     uid: certification.azure-developer
 resources:
 - title: Certificação Caminhos de Aprendizagem
-  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified:: Azure Developer Associate'.Associado Desenvolvedor Azure.
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Associado Desenvolvedor Azure.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

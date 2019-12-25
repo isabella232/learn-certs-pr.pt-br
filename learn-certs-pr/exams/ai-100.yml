@@ -54,7 +54,7 @@ relatedCertifications:
     uid: certification.azure-ai-engineer
 resources:
 - title: Certificação Caminho de Aprendizagem 
-  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Engenheiro Associado do Azure AI.'.
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Engenheiro Associado do Azure AI.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
