@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 4 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 4 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
 
   Os candidatos a este exame são engenheiros de segurança do Microsoft Azure que implementam controles de segurança, mantêm a postura de segurança, gerenciam a identidade e o acesso e protegem os dados, aplicativos e redes. Os candidatos identificam e corrigem vulnerabilidades usando uma variedade de ferramentas de segurança, implementam proteção contra ameaças e respondem a escalações de incidentes de segurança. Como engenheiro de segurança do Microsoft Azure, os candidatos costumam atuar como parte de uma equipe maior dedicada ao gerenciamento e à segurança baseados em nuvem, além de proteger ambientes híbridos como parte de uma infraestrutura de ponta a ponta.
 
@@ -15,7 +15,7 @@ subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas té
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-500&examname=Exam%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-500&examname=Exame%20AZ-500:%20Microsoft%20Azure%20Security%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-500
 locales:
 - en
 - ja

@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-201
 displayName: MS-201
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 25 de novembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 25 de novembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
 
   Os candidatos a este exame são Messaging Administrators que implementam, configuram, gerenciam, solucionam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes corporativos no local e na nuvem.
 
@@ -18,7 +18,7 @@ summary: |-
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: planejar e implementar uma configuração e migração híbrida, proteger o ambiente de mensagens e gerenciar as configurações organizacionais.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk9
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-201&examname=Exam%20MS-201:%20Implementing%20a%20Hybrid%20and%20Secure%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-201
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-201&examname=Exame%20MS-201:%20Implementando%20uma%20plataforma%20de%20mensagem%20híbrida%20e%20segura&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-201
 locales:
 - en
 levels:

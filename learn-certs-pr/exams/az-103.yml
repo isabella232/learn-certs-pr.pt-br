@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-103
 displayName: AZ-103
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 4 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/></div>
+  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 4 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
 
   A partir do dia 1° de maio de 2019, você só precisa passar no Exam AZ-103 para ganhar esta certificação. Este novo exame combina as competências abrangidas no AZ-100 e AZ-101 (que foi retirado em 1° de maio de 2019), com a maioria da novo exame vindo do AZ-100.
 
@@ -17,7 +17,7 @@ subTitle: 'A partir de 1° de maio de 2019, você só precisa passar no Exame AZ
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-103&examname=Exam%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-103
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-103&examname=Exame%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-103
 locales:
 - en
 - ja

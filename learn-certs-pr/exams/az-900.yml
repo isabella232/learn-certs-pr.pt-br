@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-900
 displayName: AZ-900
 summary: |-
-   <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 23 de outubro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/></div>
+   <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 23 de outubro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
 
    Este exame é projetado para candidatos que procuram demonstrar conhecimento de nível fundamental de serviços de nuvem e como esses serviços são fornecidos com Microsoft Azure. O exame destina-se a candidatos sem formação técnica, como os envolvidos na venda ou compra de soluções e serviços com base em nuvem ou que tenham algum conhecimento em soluções e serviços baseados em nuvem, bem como aqueles com formação técnica e que precisam validar seu nível de conhecimento fundamental   em serviços em nuvem. A experiência técnica de TI não é exigida, mas requer algum conhecimento ou experiência geral de TI.
 
@@ -15,7 +15,7 @@ subTitle: 'Este exame mede a sua capacidade de compreender os seguintes conceito
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-900
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-900&examname=Exame%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-900
 locales:
 - en
 - ja
