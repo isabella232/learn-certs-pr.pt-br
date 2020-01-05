@@ -1,0 +1,120 @@
+### YamlMime:CertificationHome
+
+title: Certificações Microsoft
+summary: Receba uma certificação que comprova que você está em sintonia com os requisitos técnicos atuais. Selecione uma função de trabalho para descobrir os caminhos de certificação.
+
+roles:
+  - name: developer
+    summary: Os desenvolvedores projetam, constroem, testam e mantêm soluções em nuvem.
+    url: /learn/certifications/roles/developer
+  - name: administrator
+    summary: Os administradores implementam, monitoram e mantêm soluções da Microsoft.
+    url: /learn/certifications/roles/administrator
+  - name: solution-architect
+    summary: Os Solution Architects têm experiência em computação, rede, armazenamento e segurança.
+    url: /learn/certifications/roles/solutions-architect
+  - name: data-engineer
+    summary: Os Engenheiros de Dados projetam e implementam o gerenciamento, monitoramento, segurança e privacidade  dos dados usando o pacote completo de serviços de dados.
+    url: /learn/certifications/roles/data-engineer
+  - name: data-scientist
+    summary: Os Cientistas de Dados aplicam técnicas de aprendizagem de máquina para treinar, avaliar e implantar modelos que resolvem problemas de negócios.
+    url: /learn/certifications/roles/data-scientist
+  - name: ai-engineer
+    summary: Os Engenheiros de IA usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de IA da Microsoft.
+    url: /learn/certifications/roles/ai-engineer
+  - name: devops-engineer
+    summary: Os Engenheiros DevOps combinam pessoas, processos e tecnologias para oferecer continuamente produtos e serviços valiosos que atendam às necessidades do usuário final e aos objetivos de negócios.
+    url: /learn/certifications/roles/devops-engineer
+  - name: security-engineer
+    summary: Os Engenheiros de Segurança implementam controles de segurança e proteção contra ameaças, gerenciam identidade e acesso e protegem dados, aplicativos e redes.
+    url: /learn/certifications/roles/security-engineer
+  - name: functional-consultant
+    summary: Os Functional Consultants fazem uso do Microsoft Dynamics 365 para antecipar e planejar as necessidades dos clientes.
+    url: /learn/certifications/roles/functional-consultant
+
+
+certificationsSection:
+  title: Obtenha uma Certificação Microsoft
+  summary: "A Microsoft possui caminhos de certificação para várias funções técnicas. Cada uma dessas certificações consiste em ser aprovado em uma série de exames para obter a certificação"
+  tiers:
+    - title: Certificações básicas
+      summary: Ponto de partida. Ideal para aqueles que estão apenas começando na tecnologia ou pretendem mudar de carreira.
+      certifications:
+        - uid: certification.azure-fundamentals
+        - uid: certification.microsoft-365-fundamentals
+        - uid: certification.power-platform-fundamentals
+      browseLink:
+        text: Pesquisar certificações básicas
+        url: /learn/certifications/browse?levels=beginner&term=fundamentals 
+    - title: Certificações baseadas em função
+      summary: Escolha uma certificação baseada em função para começar a aprender habilidades valiosas de função.
+      certifications:
+        - uid: certification.azure-developer
+        - uid: certification.power-apps-and-d365-developer-associate
+        - uid: certification.d365-functional-consultant-sales
+      browseLink:
+        text: Pesquisar certificações baseadas em funções
+        url: /learn/certifications/browse?resource_type=certification
+    - title: Certificações adicionais
+      summary: Explore as certificações técnicas de especialidade, Microsoft Certified Educator e Microsoft Office.
+      certifications:
+        - uid: certification.azure-for-sap-workloads-specialty
+        - uid: certification.microsoft-certified-educator
+        - uid: certification.mos-word-expert-2019
+      browseLink:
+        text: Pesquisar certificações adicionais
+        url: /learn/certifications/browse?resource_type=certification
+
+trainingSection:
+  title: Como se preparar para a certificação
+  summary: A Microsoft entende que todos têm preferências de aprendizado diferentes, portanto oferecemos certificações e opções de treinamento ao longo de sua jornada de certificação.
+  items:
+  - image:
+      alt: Mulher olhando para um Microsoft Surface
+      src: /learn/certifications/images/image-working-lady-laptop.jpg
+    title: Caminhos de aprendizado gratuitos para preparação
+    summary: Com o aprendizado Microsoft, qualquer pessoa pode dominar os principais conceitos com rapidez de acordo com sua agenda. Seja um módulo único para aprender sobre uma tarefa principal ou explorar um tópico completo por meio de uma coleção de módulos relacionados.
+    browseLinks:
+    - text: Procurar todos os caminhos de aprendizado
+      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
+  - image:
+      alt: Homem se apresentando a quatro pessoas sentadas ao redor de uma mesa
+      src: /learn/certifications/images/image-working-group.jpg
+    title: Prepare-se com treinamento ministrado por instrutor
+    summary: Os Microsoft Learning Partners oferecem uma amplitude de soluções para se adaptarem às suas necessidades de aprendizado, capacitando você a alcançar suas metas de treinamento. Os Microsoft Certified Trainers completaram um treinamento rigoroso e cumpriram os requisitos rigorosos de certificação técnica.
+    browseLinks:
+    - text: Navegue por todos os treinamentos ministrados por instrutores 
+      url: /learn/certifications/courses/browse/
+
+resourcesSection:
+  title: Recursos de aprendizado
+  items:
+    - title: Parceiro de Aprendizado da Microsoft
+      summary: Nossa rede de parceiro mundial entrega treinamento flexível, baseado em soluções e personalizados nas tecnologias da Microsoft.
+      url: https://www.microsoft.com/pt-br/learning/partners.aspx
+    - title: Apoio às certificações e exames
+      summary: Obtenha ajuda através de fóruns . O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+      url: /learn/certifications/help
+    - title: Procurar todas as certificações e exames
+      summary: Explorar todas as certificações para levar sua carreira ao próximo nível.
+      url: /learn/certifications/browse
+
+statisticsSection:
+  title: Por que obter uma certificação
+  summary: As certificações oferecem a você uma vantagem profissional com evidências de habilidades baseadas em funções reconhecidas pelo setor.
+  video:
+    pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
+    iframeTitle: Certificações Microsoft
+    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    title: Vantagens das Certificações Microsoft
+    summary: Depois de receber uma certificação, 23% dos tecnólogos certificados pela Microsoft reportaram um aumento de até 20% no salário. Além do mais, a supervisão dos colegas muitas vezes é confiada aos funcionários certificados, os colocando mais perto de uma promoção.  Valor da —Certificação Pearson VUE 2017 folheto técnico.
+  items:
+    - title: 38%
+      summary: as vagas de TI estarão baseadas em nuvem até 2021.
+      note: IDC/Microsoft, competências em nuvem e influência organizacional* Como as habilidades em nuvem estão acelerando as carreiras do profissional de TI, maio de 2017
+    - title: 35%
+      summary: dos profissionais de TI dizem que são mais influentes durante as implantações em nuvem do que suas contrapartes durante as implantações de outras tecnologias.
+      note: IDC/Microsoft, competências em nuvem e influência organizacional* Como as habilidades em nuvem estão acelerando as carreiras do profissional de TI, maio de 2017
+    - title: 36.9%
+      summary: profissionais de TI afirmaram que a certificação os ajudou a realizar tarefas complexas com mais segurança.
+      note: Pearson VUE, The Value of IT Certification Survey, Janeiro 2017
