@@ -1,0 +1,41 @@
+### YamlMime:Certification
+title: Microsoft Certified Educator
+metadata:
+  title: Microsoft Certified Educator
+  description: Microsoft Certified Educator
+uid: certification.microsoft-certified-educator
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  A certificação Microsoft Certified Educator (MCE) atesta que os educadores possuem as competências e o conhecimento tecnológico como educadores globais necessários para proporcionar aos alunos uma experiência de aprendizado rica e personalizada.
+  A Certificação MCE é ideal para educadores em treinamento, o corpo docente de faculdades que formam professores e educadores em serviço.
+
+  A Microsoft oferece um currículo abrangente de e-learning, 21CLD, destinado a ajudar os educadores a se prepararem para esse exame rigoroso.
+
+  **Observação** O exame Microsoft Certified Educator avalia se os educadores compreendem como aplicar as ferramentas de tecnologia aos seis diferentes domínios de conteúdo, e não se têm competência para usar ferramentas de tecnologia específicas. Se estiver em busca de informações sobre como obter certificação para ministrar cursos relacionados a tecnologias e produtos Microsoft, visite a página [Microsoft Certified Trainer](https://www.microsoft.com/pt-br/learning/mct-certification.aspx).
+subTitle: A certificação Microsoft Certified Educator (MCE) atesta que os educadores possuem as competências e o conhecimento tecnológico como educadores globais necessários para proporcionar aos alunos uma experiência de aprendizado rica e personalizada.
+levels:
+- advanced
+skills:
+- Facilitar a colaboração do aluno
+- Facilitar a comunicação especializada
+- Facilitar a autorregulação
+- Facilitar a solução e inovação de problemas reais
+- Facilitar o uso de ferramentas de informação e comunicação dos alunos (ICT)
+- Usar ICT para ser um educador efetivo
+roles:
+- developer
+type: mce
+products:
+- windows
+exams:
+- uid: exam.62-193
+resources:
+- title: Projeto de pesquisa de Ensino e Aprendizagem inovadores (ITL)
+  description: Projeto de pesquisa de Ensino e Aprendizagem inovadores (ITL)
+  href: https://education.microsoft.com/GetTrained/ITL-Research
+- title: Guia de estudo
+  description: Encontre materiais de treinamento para preparar-se para o exame
+  href: http://aka.ms/MCEStudyGuide
+- title: Repetir Exame
+  description: Kit digital para a campanha Ensine o futuro hoje (pôster, folha de dados e domínio de objetivo do exame MCE)
+  href: http://aka.ms/MCEAssets

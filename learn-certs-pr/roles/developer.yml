@@ -1,0 +1,78 @@
+### YamlMime:Role 
+title: Developer 
+metadata: 
+  title: Developer 
+  description: Os desenvolvedores projetam, constroem, testam e realizam a manutenção de soluções. Os desenvolvedores implementam aplicativos e serviços em parceria com a Solution Architects e clientes.
+uid: role.developer 
+summary: | 
+  Os desenvolvedores projetam, constroem, testam e realizam a manutenção de soluções. Os desenvolvedores implementam aplicativos e serviços em parceria com a Solution Architects e clientes. 
+subTitle: Os desenvolvedores projetam, constroem, testam e mantêm soluções em nuvem.
+certificationPaths: 
+- title: Azure Developer
+  linkedInKeywords: Azure Developer
+  uid: certification-path.developer 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-developer
+    levels:
+    - intermediate 
+- title: Dynamics 365 Finance and Operations Apps Developer
+  linkedInKeywords: Dynamics 365 Finance and Operations Apps Developer
+  uid: certification.d365-finance-and-operations-apps-developer-associate
+  prerequisites: 
+  - uid: certification.d365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.d365-finance-and-operations-apps-developer-associate
+    levels:
+    - intermediate 
+- title: Microsoft 365 Developer
+  linkedInKeywords: Microsoft 365 Developer
+  uid: certification.m365-developer-associate
+  prerequisites: 
+  - uid: certification.microsoft-365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.m365-developer-associate
+    levels:
+    - intermediate 
+- title: Power Apps + Dynamics 365 Developer
+  linkedInKeywords: Power Apps + Dynamics 365 Developer
+  uid: certification.power-apps-and-d365-developer-associate
+  prerequisites: 
+  - uid: certification.power-platform-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.power-apps-and-d365-developer-associate
+    levels:
+    - intermediate 
+certifications:
+- uid: certification.azure-developer
+  requiredExams:
+  - uid: exam.az-203
+- uid: certification.d365-finance-and-operations-apps-developer-associate
+  requiredExams:
+  - uid: exam.mb-300
+  - uid: exam.mb-500
+- uid: certification.m365-developer-associate
+  requiredExams:
+  - uid: exam.ms-600
+- uid: certification.power-apps-and-d365-developer-associate
+  requiredExams:
+  - uid: exam.pl-900
+resources:
+- title: Guia de Treinamento e Certificações Microsoft
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de Treinamento e Certificações
+  description: Escolha seu caminho para o sucesso com este cartaz de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Apoio às certificações
+  href: ../help.md
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.

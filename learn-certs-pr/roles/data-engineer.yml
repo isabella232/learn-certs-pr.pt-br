@@ -1,0 +1,36 @@
+### YamlMime:Role 
+title: Engenheiro de Dados 
+metadata: 
+  title: Engenheiro de Dados 
+  description: Os Engenheiros de Dados projetam e implementam o gerenciamento, monitoramento, segurança e privacidade dos dados usando o pacote completo de serviços de dados.
+uid: role.data-engineer 
+summary: | 
+  Os Engenheiros de Dados projetam e implementam o gerenciamento, monitoramento, segurança e privacidade  dos dados usando o pacote completo de serviços de dados.
+subTitle: Os Engenheiros de Dados projetam e implementam o gerenciamento, monitoramento, segurança e privacidade dos dados usando o pacote completo de serviços de dados.
+certificationPaths: 
+- title: Engenheiro de Dados Azure
+  linkedInKeywords: Engenheiro de Dados Azure
+  uid: certification-path.azure-data-engineer 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-data-engineer
+    levels:
+    - intermediate  
+certifications:
+- uid: certification.azure-data-engineer
+  requiredExams:
+  - uid: exam.dp-200
+  - uid: exam.dp-201
+resources:
+- title: Guia de Treinamento e Certificações Microsoft
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz  de Treinamento e Certificações
+  description: Escolha seu caminho para o sucesso com este cartaz de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Apoio às certificações
+  href: ../help.md
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.

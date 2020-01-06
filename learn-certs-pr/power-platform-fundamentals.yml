@@ -1,0 +1,47 @@
+### YamlMime:Certification
+title: Microsoft Certified Power Platform Fundamentals
+metadata:
+  title: Microsoft Certified Power Platform Fundamentals
+  description: Prove que você entende os principais recursos da Power Platform - desde o valor do negócio e os principais recursos do produto até a criação de um aplicativo básico Power Apps canvas, conectando fontes de dados, automatizando com o Microsoft Flow e criando um painel de controle do Power BI.
+uid: certification.power-platform-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Prove que você entende os principais recursos da Power Platform - desde o valor do negócio e os principais recursos do produto até a criação de um aplicativo básico Power Apps canvas, conectando fontes de dados, automatizando com o Microsoft Flow e criando um painel de controle do Power BI.
+subTitle: Prove que você entende os principais recursos da Power Platform - desde o valor do negócio e os principais recursos do produto até a criação de um aplicativo básico Power Apps canvas, conectando fontes de dados, automatizando com o Microsoft Flow e criando um painel de controle do Power BI.
+levels:
+- beginner
+skills:
+- Entender o valor comercial da Power Platform
+- Compreender os componentes principais da Power Platform
+- Demonstrar o valor comercial do Power BI
+- Demonstrar o valor comercial dos Power Apps
+- Demonstrar o valor comercial do Microsoft Flow
+roles:
+- business-user
+- functional-consultant
+type: fundamentals
+products:
+- power-platform
+courses:
+- uid: course.pl-900t00
+paths:
+- uid: learn-bizapps.wwl.power-plat-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43KLw
+exams:
+- uid: exam.pl-900
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetir exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Apoio às certificações
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx

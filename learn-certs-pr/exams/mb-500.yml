@@ -1,0 +1,72 @@
+### YamlMime:Examination
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
+metadata:
+  title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
+  description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
+uid: exam.mb-500
+displayName: MB-500
+summary: |-
+  Este exame destina-se aos desenvolvedores que trabalham com aplicativos de Finanças e Operações no Microsoft Dynamics 365 implementam e aprimoram os aplicativos para atender aos requisitos dos negócios. Os candidatos fornecem soluções totalmente abrangentes usando padrões de codificação de aplicativo padronizado, recursos extensíveis e integrações externas.
+
+  Os candidatos são responsáveis por desenvolver a lógica de negócio por meio de X++, criar e modificar relatórios e espaços de trabalho de Finanças e Operações, personalizar interfaces de usuário, fornecer terminais e APIs para dar suporte aos aplicativos de Power Platform e sistemas externos, realizar testes, monitorar performance, analisar e manipular dados, criar projetos técnicos e detalhes de implementação e implementar políticas de permissão e requisitos de segurança.
+
+  Os candidatos participam da migração de dados e objetos de sistemas legados e externos, integração de aplicativos de Finança e Operações com outros sistemas, implementação do processo de gerenciamento do ciclo de vida do aplicativo, planejamento do design funcional de soluções e gerenciamento de ambientes de Finanças e Operações por meio do Lifecycle Services (LCS).
+  
+  Os candidatos devem ter um profundo conhecimento e experiência no uso do framework subjacente, estruturas de dados e objetos associados às soluções de Finanças e Operações.
+  
+  Os candidatos devem ter experiência com produtos que incluem Visual Studio, Azure DevOps, ferramentas LCS ou SQL Server Management Studio.
+  
+  Os candidatos devem ter experiência no desenvolvimento de códigos com o uso de linguagens de programação orientadas a objetos, analisando e manipulando dados usando o código Transact-SQL e criando e executando comandos e scripts do Windows PowerShell.
+subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: planejar a arquitetura e design da solução, aplicar ferramentas de desenvolvedor, projetar e desenvolver elementos AOT, desenvolver e testar códigos, implementar relatórios, integrar e gerenciar soluções de dados e implementar a segurança e otimizar o desempenho.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-500&examname=MB-500:%20Microsoft%20Dynamics%20365:%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-500
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Planejar a Arquitetura e Design de Soluções (10-15%)
+- Aplicar Ferramentas de Desenvolvedor (10-15%)
+- Projetar e Desenvolver Elementos de AOT (20-25%)
+- Desenvolver e Testar Códigos (10-15%)
+- Implementar Relatórios (10-15%)
+- Integrar e Gerenciar Soluções de Dados (10-15%)
+- Implementar a Segurança e Otimizar o Desempenho (10-15%)
+roles:
+- developer
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+courses:
+- uid: course.mb-500t00
+paths:
+- uid: learn-dynamics.introduction-develop-dynamics-365-finance-operations
+- uid: learn-dynamics.build-dynamics-365-finance-operations
+- uid: learn-dynamics.extending-dynamics-365-finance-operations
+- uid: learn-dynamics.connect-to-dynamics-365-finance-operations
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+relatedCertifications:
+- related:
+    uid: certification.d365-finance-and-operations-apps-developer-associate
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Repetir exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Ajuda para exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

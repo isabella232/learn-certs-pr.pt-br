@@ -1,0 +1,65 @@
+### YamlMime:Examination
+title: 'Microsoft Power Apps + Dynamics 365 Developer (beta)'
+metadata:
+  title: 'Exame MB-400: Microsoft Power Apps + Dynamics 365 Developer (beta)'
+  description: 'Exame MB-400: Microsoft Power Apps + Dynamics 365 Developer (beta)'
+uid: exam.mb-400
+displayName: MB-400
+summary: |-
+  Os candidatos a este exame são desenvolvedores que trabalham com aplicativos controlados por modelos do Microsoft Power Apps no Dynamics 365 para projetar, desenvolver, proteger e expandir uma implementação do Dynamics 365. Os candidatos implementam componentes da solução que inclui aprimoramentos de aplicativo, experiência de usuário personalizada, integrações de sistema, conversões de dados, automação de processo personalizada e visualizações personalizadas.
+
+  Os candidatos devem ter sólido conhecimento de aplicativos controlados por modelos do Power Apps no Dynamics 365, incluindo compreensão profunda de personalização, configuração, integração e extensibilidade, assim como as limitações e restrições. Os candidatos devem ter uma compreensão básica das práticas de DevOps para aplicativos controlados por modelos do Power Apps no Dynamics 365. Os candidatos devem expor, armazenar e relatar dados.
+
+  Os candidatos devem ter experiência de desenvolvimento que inclui JavaScript, TypeScript, C#, HTML, .NET, Microsoft Azure, Office 365, RESTful Web Services, ASP.NET e PowerBI.
+subTitle: 'Este teste mede a sua capacidade de realizar as seguintes tarefas técnicas: criar um projeto técnico, configurar o Common Data Service (CDS), criar e configurar Power Apps, configurar a automação de processos de negócios, expandir a experiência do usuário e a plataforma e desenvolver integrações.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-400&examname=Exame%20MB-400:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-400
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Criar um Projeto Técnico (10-15%)
+- Configurar o Common Data Service (CDS) (15-20%)
+- Criar e configurar Power Apps (10-15%)
+- Configurar a automação de processos de negócios (10-15%)
+- Expandir a experiência do usuário (15-20%)
+- Expandir a plataforma (15-20%)
+- Desenvolver integrações (10-15%)
+roles:
+- developer
+products:
+- dynamics
+- dynamics-customer-engagement
+exams:
+- uid: exam.mb-200
+courses:
+- uid: course.mb-400t00
+paths:
+- uid: learn-dynamics.extend-power-platform-common-data-service
+- uid: learn-dynamics.extend-power-platform-model-driven-apps
+- uid: learn-dynamics.introduction-development
+- uid: learn-dynamics.extend-portals
+relatedCertifications:
+- related:
+    uid: certification.power-apps-and-d365-developer-associate
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Repetir exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Ajuda para exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

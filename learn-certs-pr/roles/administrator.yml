@@ -1,0 +1,130 @@
+### YamlMime:Role 
+title: Administrator 
+metadata: 
+  title: Administrator 
+  description: Os administradores implementam, monitoram e mantêm soluções da Microsoft, incluindo os principais serviços relacionados a computação, armazenamento, rede e segurança.
+uid: role.administrator 
+summary: | 
+  Os administradores implementam, monitoram e mantêm soluções da Microsoft, incluindo os principais serviços relacionados a computação, armazenamento, rede e segurança.
+subTitle: Os administradores implementam, monitoram e mantêm soluções da Microsoft.
+certificationPaths: 
+- title: Azure Administrator
+  linkedInKeywords: Azure Administrator
+  uid: certification-path.azure-administrator 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-administrator
+    levels:
+    - intermediate
+  - uid: certification.azure-devops
+    levels:
+    - advanced      
+- title: Microsoft 365 Certified Messaging Administrator Associate
+  linkedInKeywords: Microsoft 365 Certified Messaging Administrator Associate
+  uid: certification.m365-messaging-administrator
+  prerequisites: 
+  - uid: certification.microsoft-365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.m365-messaging-administrator
+    levels:
+    - intermediate  
+  - uid: certification.m365-enterprise-administrator
+    levels:
+    - advanced
+- title: Microsoft 365 Certified Modern Desktop Administrator Associate
+  linkedInKeywords: Microsoft 365 Certified Modern Desktop Administrator Associate
+  uid: certification.modern-desktop
+  prerequisites: 
+  - uid: certification.microsoft-365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.modern-desktop
+    levels:
+    - intermediate  
+  - uid: certification.m365-enterprise-administrator
+    levels:
+    - advanced
+- title: Microsoft 365 Certified Security Administrator Associate
+  linkedInKeywords: Microsoft 365 Certified Security Administrator Associate
+  uid: certification.m365-security-administrator
+  prerequisites: 
+  - uid: certification.microsoft-365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.m365-security-administrator
+    levels:
+    - intermediate  
+  - uid: certification.m365-enterprise-administrator
+    levels:
+    - advanced
+- title: Microsoft 365 Certified Teamwork Administrator Associate
+  linkedInKeywords: Microsoft 365 Certified Teamwork Administrator Associate
+  uid: certification.m365-teamwork-administrator
+  prerequisites: 
+  - uid: certification.microsoft-365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.m365-teamwork-administrator
+    levels:
+    - intermediate  
+  - uid: certification.m365-enterprise-administrator
+    levels:
+    - advanced
+- title: Microsoft Teams Administrator
+  linkedInKeywords: Microsoft Teams Administrator
+  uid: certification.m365-teams-administrator-associate
+  prerequisites: 
+  - uid: certification.microsoft-365-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.m365-teams-administrator-associate
+    levels:
+    - intermediate
+certifications:
+- uid: certification.azure-administrator
+  requiredExams:
+  - uid: exam.az-103 
+- uid: certification.azure-devops
+  requiredExams:
+  - uid: exam.az-400
+- uid: certification.m365-messaging-administrator
+  requiredExams:
+  - uid: exam.ms-200
+  - uid: exam.ms-201
+- uid: certification.modern-desktop
+  requiredExams:
+  - uid: exam.md-100
+  - uid: exam.md-101
+- uid: certification.m365-security-administrator
+  requiredExams:
+  - uid: exam.ms-500
+- uid: certification.m365-teamwork-administrator
+  requiredExams:
+  - uid: exam.ms-300
+  - uid: exam.ms-301
+- uid: certification.m365-enterprise-administrator
+  requiredExams:
+  - uid: exam.ms-100
+  - uid: exam.ms-101
+- uid: certification.m365-teams-administrator-associate
+  requiredExams:
+  - uid: exam.ms-700
+resources:
+- title: Guia de Treinamento e Certificações Microsoft
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de Treinamento e Certificações
+  description: Escolha seu caminho para o sucesso com este cartaz de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Apoio às certificações
+  href: ../help.md
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.

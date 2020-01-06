@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: 'Desenvolvendo Aplicativos e Soluções com o Microsoft 365 Core Services (beta)'
+metadata:
+  title: 'Exame MS-600: Desenvolvendo Aplicativos e Soluções com o Microsoft 365 Core Services (beta)'
+  description: 'Exame MS-600: Desenvolvendo Aplicativos e Soluções com o Microsoft 365 Core Services (beta)'
+uid: exam.ms-600
+displayName: MS-600
+summary: |-
+  Os candidatos a este exame são os desenvolvedores do Microsoft 365 que projetam, constroem,  testam e mantêm aplicativos e soluções otimizadas para as necessidades de produtividade e colaboração das organizações por meio da plataforma Microsoft 365.
+
+  Os candidatos a este exame são proficientes em identidade Microsoft e Microsoft Graph. Eles têm conhecimento geral sobre elementos de IU (incluindo Adaptive Cards e UI Fabric), Pontos de Integração (incluindo Microsoft Teams, Suplementos (Add-ins) do Office, Estrutura do SharePoint e determinação das metas da plataforma de carga de trabalho.
+
+  Os candidatos devem ter experiência no desenvolvimento de soluções no Microsoft Teams, Suplementos do Office ou estrutura do SharePoint através de todas as fases de desenvolvimento de software. Eles devem ter entendimento básico de REST APIs, JSON, OAuth2, OData, OpenID Connect, Identidades Microsoft (incluindo contas do Azure AD e da Microsoft), Azure AD B2C e conceitos de permissão/consentimento.
+subTitle: 'Este teste mede a sua capacidade de realizar as seguintes tarefas técnicas: implementar o Microsoft Identity, desenvolver aplicativos com o Microsoft Graph, expandir e personalizar o SharePoint e expandir o Teams e o Office.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-600&examname=Exame%20MS-600:%20Desenvolvendo%20Aplicativos%20e%20Soluções%20com%20o%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-600
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Implementar o Microsoft Identity (20-25%)
+- Construir aplicativos com o Microsoft Graph (20-25%)
+- Expandir e Personalizar o SharePoint (20-25%)
+- Expandir o Teams (15-20%)
+- Expandir o Office (15-20%)
+roles:
+- developer
+products:
+- m365
+paths:
+- uid: learn-m365-pr.extend-office-fundamentals
+relatedCertifications:
+- related:
+    uid: certification.m365-developer-associate
+resources:
+- title: Caminhos de aprendizado de certificação
+  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Desenvolvedor Associado.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Repetir exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Ajuda para exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

@@ -1,0 +1,54 @@
+### YamlMime:Examination
+title: 'Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+metadata:
+  title: 'Exame MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+  description: 'Exame MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+uid: exam.mb-600
+displayName: MB-600
+summary: |-
+  Os Solution Architects para aplicativos controlados por modelos do Microsoft Power Apps no Dynamics 365 lideram implementações bem-sucedidas e se concentram em como as soluções atendem às necessidades técnicas e de negócios mais abrangentes das organizações.
+
+  O Solution Architect tem conhecimento funcional e técnico dos aplicativos controlados por modelos da Plataforma Power no Dynamics 365, como Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing e Dynamics 365 Sales, soluções em nuvem da Microsoft e tecnologias de terceiros. O Solution Architect aplica conhecimento e experiência durante o projeto como um todo. O Solution Architect realiza trabalho proativo e preventivo para aumentar o valor do investimento do cliente e promover a saúde organizacional. Essa função requer a capacidade de identificar oportunidades para resolver problemas de negócios.
+
+  Os Solution Architects têm experiência em disciplinas funcionais e técnicas da Plataforma Power e aplicativos controlados por modelos no Dynamics 365. Os Solution Architects devem poder facilitar as decisões do projeto por meio do desenvolvimento, configuração, integração, infraestrutura, segurança, disponibilidade, armazenamento e gerência da mudança. Essa função equilibra as necessidades de negócios de um projeto, ao mesmo tempo em que atende aos requisitos funcionais e não funcionais.
+  
+  <div style="color:red"><br/><strong>OBSERVAÇÃO&#58; Este exame não estará disponível até 31 de dezembro de 2019</strong></div>
+subTitle: 'Esse exame mede a sua capacidade de realizar as seguintes tarefas técnicas: realizar a previsão de soluções e análise de requisitos; arquitetar uma solução; e implementar a solução.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-600&examname=Exame%20MB-600:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-600
+locales:
+- en
+levels:
+- advanced
+skills:
+- Executar Previsão de Solução e Análise de Requisitos (30-35%)
+- Arquitetura de uma solução (45-50%)
+- Implementar a solução (20-15%)
+roles:
+- solution-architect
+products:
+- dynamics
+- power-apps
+relatedCertifications:
+- related:
+    uid: certification.power-apps-and-d365-solution-architect-expert
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Repetir exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Ajuda para exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

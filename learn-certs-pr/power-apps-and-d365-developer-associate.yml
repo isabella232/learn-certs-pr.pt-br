@@ -1,0 +1,70 @@
+### YamlMime:Certification
+title: 'Certificação Microsoft: Power Apps + Dynamics 365 Developer Associate'
+metadata:
+  title: 'Certificação Microsoft: Power Apps + Dynamics 365 Developer Associate'
+  description: Os desenvolvedores que trabalham com o Microsoft Power Apps e o Dynamics 365 são responsáveis por projetar, desenvolver, proteger e expandir uma implementação do Dynamics 365. Os candidatos implementam componentes da solução que inclui aprimoramentos de aplicativo, experiência de usuário personalizada, integrações de sistema, conversões de dados, automação de processo personalizada e visualizações personalizadas.
+uid: certification.power-apps-and-d365-developer-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Os desenvolvedores que trabalham com o Microsoft Power Apps e o Dynamics 365 são responsáveis por projetar, desenvolver, proteger e expandir uma implementação do Dynamics 365. Os candidatos implementam componentes da solução que inclui aprimoramentos de aplicativo, experiência de usuário personalizada, integrações de sistema, conversões de dados, automação de processo personalizada e visualizações personalizadas.
+subTitle: Os desenvolvedores que trabalham com o Microsoft Power Apps e o Dynamics 365 são responsáveis por projetar, desenvolver, proteger e expandir uma implementação do Dynamics 365.
+levels:
+- intermediate
+skills:
+- Realizar descoberta, planejamento e análise
+- Gerenciar o projeto da experiência do usuário
+- Gerenciar entidades e dados
+- Implementar a segurança
+- Implementar a integração
+- Executar a implementação e teste de soluções
+- Criar um Projeto Técnico
+- Configurar o Common Data Service (CDS)
+- Criar e configurar Power Apps
+- Configurar a automação de processos de negócios
+- Expandir a experiência do usuário
+- Expandir a plataforma
+- Desenvolver integrações
+roles:
+- developer
+type: role-based
+products:
+- dynamics
+- dynamics-customer-engagement
+courses:
+- uid: course.mb-400t00
+- uid: course.mb-200t01
+- uid: course.mb-200t02
+- uid: course.mb-200t03
+- uid: course.mb-200t04
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.get-started-portals
+- uid: learn-dynamics.work-with-portals
+- uid: learn-dynamics.extend-power-platform-common-data-service
+- uid: learn-dynamics.extend-power-platform-model-driven-apps
+- uid: learn-dynamics.introduction-development
+- uid: learn-dynamics.extend-portals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42Fcm
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-400
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetir exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Apoio às certificações
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx

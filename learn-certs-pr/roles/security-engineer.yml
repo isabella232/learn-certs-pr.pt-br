@@ -1,0 +1,37 @@
+### YamlMime:Role 
+title: Engenheiros de Segurança
+metadata: 
+  title: Engenheiros de Segurança 
+  description: Os Engenheiros de Segurança implementam controles de segurança e proteção contra ameaças, gerenciam identidade e acesso e protegem dados, aplicativos e redes. 
+uid: role.security-engineer 
+summary: | 
+  Os Engenheiros de Segurança implementam controles de segurança e proteção contra ameaças, gerenciam identidade e acesso e protegem dados, aplicativos e redes.
+subTitle: Os Engenheiros de Segurança implementam controles de segurança e proteção contra ameaças, gerenciam identidade e acesso e protegem dados, aplicativos e redes.
+certificationPaths: 
+- title: Engenheiros de Segurança Azure 
+  linkedInKeywords: Engenheiros de Segurança Azure 
+  uid: certification-path.azure-security-engineer 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-security-engineer
+    levels:
+    - intermediate
+   
+certifications:
+- uid: certification.azure-security-engineer
+  requiredExams:
+  - uid: exam.az-500
+resources:
+- title: Guia de Treinamento e Certificações Microsoft
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de Treinamento e Certificações
+  description: Escolha seu caminho para o sucesso com este cartaz de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Apoio às certificações
+  href: ../help.md
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+

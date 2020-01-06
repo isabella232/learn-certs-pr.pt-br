@@ -1,0 +1,35 @@
+### YamlMime:Role 
+title: AI Engineer 
+metadata: 
+  title: AI Engineer 
+  description: Os  Engenheiros de IA usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de IA da Microsoft. 
+uid: role.ai-engineer 
+summary: | 
+  Os  Engenheiros de IA usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de IA da Microsoft.
+subTitle: Os  Engenheiros de IA usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de IA da Microsoft.
+certificationPaths: 
+- title: Engenheiros de IA Azure 
+  linkedInKeywords: Engenheiros de IA Azure 
+  uid: certification-path.azure-ai-engineer 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-ai-engineer
+    levels:
+    - intermediate  
+certifications:
+- uid: certification.azure-ai-engineer
+  requiredExams:
+  - uid: exam.ai-100
+resources:
+- title: Guia de Treinamento e Certificações Microsoft
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de Treinamento e Certificações
+  description: Escolha seu caminho para o sucesso com este cartaz de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Apoio às certificações
+  href: ../help.md
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.

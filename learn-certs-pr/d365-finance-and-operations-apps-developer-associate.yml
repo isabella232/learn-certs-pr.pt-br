@@ -1,0 +1,64 @@
+### YamlMime:Certification
+title: 'Certificação Microsoft: Dynamics 365: Finance and Operations Apps Developer Associate'
+metadata:
+  title: 'Certificação Microsoft: Dynamics 365: Finance and Operations Apps Developer Associate'
+  description: Os desenvolvedores que trabalham com aplicativos de Finanças e Operações no Microsoft Dynamics 365 implementam e aprimoram  aplicativos para atender aos requisitos dos negócios. Os candidatos fornecem soluções totalmente abrangentes usando padrões de codificação de aplicativo padronizado, recursos extensíveis e integrações externas.
+uid: certification.d365-finance-and-operations-apps-developer-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Os desenvolvedores que trabalham com aplicativos de Finanças e Operações no Microsoft Dynamics 365 implementam e aprimoram  aplicativos para atender aos requisitos dos negócios. Os candidatos fornecem soluções totalmente abrangentes usando padrões de codificação de aplicativo padronizado, recursos extensíveis e integrações externas.
+subTitle: Os desenvolvedores que trabalham com aplicativos de Finanças e Operações no Microsoft Dynamics 365 implementam e aprimoram  aplicativos para atender aos requisitos dos negócios.
+levels:
+- intermediate
+skills:
+- Uso de funcionalidade comuns e ferramentas de implementação 
+- Configurar segurança, processos e opções
+- Realizar migração de dados
+- Validar e oferecer suporte à solução
+- Planejar a Arquitetura e Design de Soluções
+- Aplicar ferramentas de desenvolvedor
+- Projetar e desenvolver elementos de AOT
+- Desenvolver e Testar Códigos
+- Implementar relatórios
+- Integrar e gerenciar soluções de dados
+- Implementar a Segurança e Otimizar o Desempenho
+roles:
+- developer
+type: role-based
+products:
+- dynamics
+- dynamics-finance-operations
+courses:
+- uid: course.mb-500t00
+- uid: course.mb-300t01
+- uid: course.mb-300t02
+- uid: course.mb-300t03
+paths:
+- uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.configure-your-organization-in-finance-and-ops
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.introduction-develop-dynamics-365-finance-operations
+- uid: learn-dynamics.build-dynamics-365-finance-operations
+- uid: learn-dynamics.extending-dynamics-365-finance-operations
+- uid: learn-dynamics.connect-to-dynamics-365-finance-operations
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42MYW
+exams:
+- uid: exam.mb-300
+- uid: exam.mb-500
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetir exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Apoio às certificações
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx

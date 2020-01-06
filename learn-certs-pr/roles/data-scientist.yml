@@ -1,0 +1,35 @@
+### YamlMime:Role 
+title: Cientista de Dados
+metadata: 
+  title: Cientista de Dados
+  description: Os Cientistas de Dados aplicam técnicas de aprendizagem de máquina para treinar, avaliar e implantar modelos que resolvem problemas de negócios.
+uid: role.data-scientist 
+summary: | 
+  Os Cientistas de Dados aplicam técnicas de aprendizagem de máquina para treinar, avaliar e implantar modelos que resolvem problemas de negócios.
+subTitle: Os Cientistas de Dados aplicam técnicas de aprendizagem de máquina para treinar, avaliar e implantar modelos que resolvem problemas de negócios.
+certificationPaths: 
+- title: Cientista de Dados Azure
+  linkedInKeywords: Cientista de Dados Azure
+  uid: certification-path.azure-data-scientist 
+  prerequisites: 
+  - uid: certification.azure-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.azure-data-scientist
+    levels:
+    - intermediate  
+certifications:
+- uid: certification.azure-data-scientist
+  requiredExams:
+    - uid: exam.dp-100
+resources:
+- title: Guia de Treinamento e Certificações Microsoft
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de Treinamento e Certificações
+  description: Escolha seu caminho para o sucesso com este cartaz de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Apoio às certificações
+  href: ../help.md
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
