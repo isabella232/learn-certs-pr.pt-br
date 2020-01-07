@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Field Service
+metadata:
+  title: 'Exame MB-240: Microsoft Dynamics 365 Field Service'
+  description: 'Exame MB-240: Microsoft Dynamics 365 Field Service'
+uid: exam.mb-240
+displayName: MB-240
+summary: |-
+  Os candidatos a este exame são consultores funcionais do Microsoft Dynamics 365 Customer Engagement com experiência em atendimento ao cliente. Os candidatos são responsáveis pela implementação de soluções que gerem recursos que completam o ciclo de vida de serviço de campo.
+
+  Os candidatos implementam os processos de manutenção projetadas em colaboração com equipes internas e externas. Esta colaboração inclui a configuração das áreas de administração padrão do aplicativo Field Service, implementação da solução Connected Field Service (IoT) e do aplicativo móvel e implementação de todas as personalizações necessárias adicionais. Os candidatos são responsáveis pela configuração e implantação do aplicativo Field Service em conjunto com o aplicativo de serviço básico ao cliente.
+
+  Os candidatos devem ter conhecimento sobre como configurar e personalizar componentes do aplicativo Field Service, incluindo serviços de configuração, recursos, características, incidentes, integração de inventário, contratos de serviços, agendamento de recursos, ordens de trabalho, tarefas de serviço, funções de usuário de serviço de campo, configurações de serviço de campo, a solução Connected Field Service (IoT) e configuração do aplicativo móvel Field Service.
+subTitle: 'Este exame avalia a sua capacidade de realizar as seguintes tarefas técnicas: configurar aplicativos de Field Service, gerenciar ordens de serviço, agendar e expedir ordens de serviço, gerenciar a mobilidade de serviços de campo, gerenciar estoque e compras e gerenciar ativos e contratos.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-240&examname=Exame%20MB-240:%20Microsoft%20Dynamics%20365%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-240
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Configurar aplicativos de Field Service (20-25%)
+- Gerenciar ordens de serviço (15-20%)
+- Agendar e despachar ordens de serviço (20-25%)
+- Gerenciar mobilidade de Field Service (10-15%)
+- Gerenciar inventário e compras (10-15%)
+- Gerenciar ativos e contratos (10-15%)
+roles:
+- functional-consultant
+products: 
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-200
+courses:
+- uid: course.mb-240t01
+- uid: course.mb-240t02
+- uid: course.mb-240t03
+paths:
+- uid: learn-bizapps.implementing-dyn365-field-service
+- uid: learn-bizapps.universal-resource-scheduling
+relatedCertifications:
+- related:
+    uid: certification.d365-functional-consultant-field-service
+resources:
+- title: Caminhos de aprendizado de certificação
+  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Dynamics 365 Field Service Functional Consultant Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Ajuda para exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

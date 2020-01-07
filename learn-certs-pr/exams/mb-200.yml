@@ -1,0 +1,80 @@
+### YamlMime:Examination
+title: Microsoft Power Platform + Dynamics 365 Core
+metadata:
+  title: 'Exame MB-200: Microsoft Power Platform + Dynamics 365 Core'
+  description: 'Exame MB-200: Microsoft Power Platform + Dynamics 365 Core'
+uid: exam.mb-200
+displayName: MB-200
+summary: |-
+  Os candidatos a este exame são consultores funcionais que têm acesso aos recursos e funcionalidades do produto licenciado da empresa. Como consultor funcional, o candidato está ciente das versões integradas dos recursos, mas não trabalha principalmente com esses pacotes de produtos.
+  <br/>
+
+  Os candidatos são os principais responsáveis por configurar o sistema para atender às necessidades do cliente, executar tarefas de design relacionadas à implementação de novos recursos e funcionalidades e implementar e testar alterações no sistema.
+
+  Os candidatos planejam o design funcional de soluções, implementam um processo de gerenciamento do ciclo de vida de aplicativos (ALM), migram dados e objetos de sistemas legados e externos, integram a Power Platform com outros sistemas e gerenciam o ambiente da Power Platform.
+subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: realizar descobertas, planejamento e análise, gerenciar projetos de experiência do usuário, gerenciar entidades e dados, implementar a segurança, implementar a integração e executar soluções de implementação e testes.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-200&examname=Exame%20MB-200:%20Microsoft%20Power%20Platform%20+%20Dynamics%20365%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-200
+locales:
+- en
+- ja
+levels:
+- intermediate
+skills:
+- Realizar a descoberta, planejamento e análise (5-10%)
+- Gerenciar o design da experiência do usuário (20-25%)
+- Gerenciar entidades e dados (15-20%)
+- Implementar a segurança (5-10%)
+- Implementar a integração (15-20%)
+- Realizar a implementação e testes de soluções (25-30%)
+roles:
+- functional-consultant
+products: 
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-210
+- uid: exam.mb-220
+- uid: exam.mb-230
+- uid: exam.mb-240
+courses:
+- uid: course.mb-200t01
+- uid: course.mb-200t02
+- uid: course.mb-200t03
+- uid: course.mb-200t04
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.get-started-portals
+- uid: learn-dynamics.work-with-portals
+relatedCertifications:
+- related:
+    uid: certification.d365-functional-consultant-sales
+- related:
+    uid: certification.d365-functional-consultant-customer-service
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Ajuda para exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

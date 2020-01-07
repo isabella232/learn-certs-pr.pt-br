@@ -1,0 +1,45 @@
+### YamlMime:Examination
+title: Microsoft Word (Word e Word 2019)
+metadata:
+  title: 'MO-100: Microsoft Word (Word e Word 2019)'
+  description: 'MO-100: Microsoft Word (Word e Word 2019)'
+uid: exam.mo-100
+displayName: MO-100
+summary: |-
+  Um estudante que recebe esta certificação tem aproximadamente 150 horas de instrução e experiência prática com relação ao produto, competência comprovada em nível de associado do setor e está pronto para entrar no mercado de trabalho. Eles podem demonstrar a aplicação correta dos principais recursos do Word e concluir tarefas de maneira independente.
+subTitle: Esse exame avalia a competência na aplicação correta dos principais recursos do Word a ao criar e editar documentos para diversas finalidades e situações. O exame abrange a capacidade de criar e manter relatórios com aparência profissional, boletins informativos de várias colunas, currículos e correspondências comerciais.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
+scheduleExamUrl: http://www.certiport.com/locator
+locales:
+- en
+levels: 
+- intermediate
+skills:
+- Gerenciar documentos (20-25%)
+- Inserir e formatar texto, parágrafos e seções (20-25%)
+- Gerenciar tabelas e listas (15-20%)
+- Criar e gerenciar referências (5-10%)
+- Inserir e formatar elementos gráficos (15-20%)
+- Gerenciar a colaboração de documentos (5-10%)
+roles:
+- developer
+products:
+- office 
+- office-word
+relatedCertifications:
+- related:
+    uid: certification.mos-word-2019
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

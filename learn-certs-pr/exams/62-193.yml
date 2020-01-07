@@ -1,0 +1,51 @@
+### YamlMime:Examination
+title: Instrução tecnológica para educadores
+metadata:
+  title: 'Exame 62-193: Instrução tecnológica para educadores'
+  description: 'Exame 62-193: Instrução tecnológica para educadores'
+uid: exam.62-193
+displayName: 62-193
+summary: |-
+  Os candidatos para este exame incluem indivíduos que estão se preparando para se tornarem educadores de sala de aula, educadores atuais, docentes de treinamento de professores ou faculdades pré-serviço, administradores educacionais ou outros profissionais em busca de fornecer a validação da competência.
+
+  O MCE&#58; O teste de certificação para instrução tecnológica para educadores é um exame de nível intermediário destinada a ser uma medida válida e confiável das competências como medido pela estrutura do 21st Century Learning Design (design de aprendizagem do século 21) (21CLD).
+subTitle: Os candidatos para este exame incluem indivíduos que estão se preparando para se tornarem educadores de sala de aula, educadores atuais, docentes de treinamento de professores ou faculdades pré-serviço, administradores educacionais ou outros profissionais em busca de fornecer a validação da competência.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=62-193&examname=Instrução%20tecnológica%20para%20educadores&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2F62-193
+locales:
+- en
+- de
+- fr
+- zh-cn
+- es
+- pt
+- ru
+- pl
+- ja
+levels: 
+- beginner
+skills:
+- Facilitar a colaboração do aluno
+- Facilitar a comunicação especializada
+- Facilitar a construção de conhecimento
+- Facilitar a autorregulação
+- Facilitar a solução e inovação de problemas reais
+- Facilitar o uso de ferramentas de informação e comunicação dos alunos (ICT)
+- Usar ICT para ser um educador efetivo
+roles:
+- developer
+products:
+- azure
+relatedCertifications:
+- related:
+    uid: certification.microsoft-certified-educator
+resources:
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: 'Word 2016 Expert: Criação de Documentos para uma Comunicação Eficaz'
+metadata:
+  title: 'Exame 77-726: Word 2016 Expert: Criação de Documentos para uma Comunicação Eficaz'
+  description: 'Exame 77-726: Word 2016 Expert: Criação de Documentos para uma Comunicação Eficaz'
+uid: exam.77-726
+displayName: 77-726
+summary: |
+  Os candidatos ao Nível Especialista para o teste Word 2016 utilizam de forma proficiente os recursos avançados do Word 2016 para gestão de documento e conteúdo e para formatação avançada. 
+
+  Os candidatos criam e gerenciam documentos profissionais de quatro ou mais páginas para uma variedade de propósitos e situações específicos. Eles personalizam seus ambientes do Word para atender às necessidades do projeto e para aumentar a produtividade. Exemplos de documentos de nível especialista incluem um plano de negócios, um trabalho de pesquisa, um livro, um folheto especializado e uma mala direta. As funções dos candidatos podem incluir editores, gerentes de projetos, funcionários de informações comerciais, professores, entre outros. 
+
+  Os testes de certificação do Microsoft Office Specialist (MOS) 2016 introduzem um novo formato baseado em desempenho para melhorar o teste de conhecimento, habilidades e capacidades de um candidato usando os programas do MOS 2016&#58;
+  - As instruções da tarefa do teste MOS 2016 geralmente não incluem o nome do comando, como em versões anteriores. Por exemplo, evita-se o uso de nomes de funções e elas são substituídas por descritores. Isso significa que os candidatos devem entender a finalidade e o uso comum da funcionalidade do programa, a fim de concluir com sucesso as tarefas em cada projeto. 
+  - O formato de teste MOS 2016 incorpora múltiplos projetos.
+subTitle: Os candidatos ao Nível Especialista para o teste Word 2016 utilizam de forma proficiente os recursos avançados do Word 2016 para gestão de documento e conteúdo e para formatação avançada. 
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XXRD
+scheduleExamUrl: http://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- ja
+- ko
+- nb
+levels: 
+- intermediate
+skills:
+- Gerenciar opções e configurações de documento (35-40%)
+- Projetar documentos avançados (20-25%)
+- Criar referências avançadas (20-25%)
+- Criar elementos personalizados do Word (15-20%)
+roles:
+- developer
+products:
+- office
+relatedCertifications:
+- related:
+    uid: certification.mos-word-2016-expert
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

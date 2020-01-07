@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: 'Access 2016: Core Database Management, Manipulation, and Query Skills'
+metadata:
+  title: 'Exame 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
+  description: 'Exame 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
+uid: exam.77-730
+displayName: 77-730
+summary: |
+  Candidatos bem-sucedidos no teste do Access 2016 têm um entendimento fundamental sobre o ambiente do aplicativo. Eles entendem os princípios básicos de design de banco de dados e são capazes de concluir as tarefas independentemente. Eles conhecem e demonstram a correta aplicação dos principais recursos do Access 2016 e demonstram a habilidade em criar e manter objetos de bancos de dados básicos do Access, incluindo tabelas, relações, formulários de entrada de dados, relatórios multinível e consultas multitabela.
+
+  Os testes de certificação do Microsoft Office Specialist (MOS) 2016 introduzem um novo formato baseado em desempenho para melhorar o teste de conhecimento, habilidades e capacidades de um candidato usando os programas do MOS 2016&#58;
+  - As instruções da tarefa do teste MOS 2016 geralmente não incluem o nome do comando, como em versões anteriores. Por exemplo, evita-se o uso de nomes de funções e elas são substituídas por descritores. Isso significa que os candidatos devem entender a finalidade e o uso comum da funcionalidade do programa, a fim de concluir com sucesso as tarefas em cada projeto.
+  - O formato de teste MOS 2016 incorpora múltiplos projetos.
+subTitle: Candidatos bem-sucedidos no teste do Access 2016 têm um entendimento fundamental sobre o ambiente do aplicativo. Eles entendem os princípios básicos de design de banco de dados e são capazes de concluir as tarefas independentemente. Eles conhecem e demonstram a correta aplicação dos principais recursos do Access 2016 e demonstram a habilidade em criar e manter objetos de bancos de dados básicos do Access, incluindo tabelas, relações, formulários de entrada de dados, relatórios multinível e consultas multitabela.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
+scheduleExamUrl: http://www.certiport.com/locator
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- es
+- fr
+- ja
+- ko
+- nb
+levels: 
+- intermediate
+skills:
+- Criar e gerenciar um banco de dados (20-25%)
+- Construir tabelas (25-30%)
+- Criar consultas (20-25%)
+- Criar formulários (15-20%)
+- Criar relatórios (15-20%)
+roles:
+- developer
+products:
+- office-access
+relatedCertifications:
+- related:
+    uid: certification.mos-access-2016
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

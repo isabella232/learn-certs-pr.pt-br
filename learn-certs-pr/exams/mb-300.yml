@@ -1,0 +1,72 @@
+### YamlMime:Examination
+title: 'Microsoft Dynamics 365: Core Finance and Operations'
+metadata:
+  title: 'Exame MB-300: Microsoft Dynamics 365: Core Finance and Operations'
+  description: 'Exame MB-300: Microsoft Dynamics 365: Core Finance and Operations'
+uid: exam.mb-300
+displayName: MB-300
+summary: |-
+  Os candidatos a este exame são consultores funcionais que analisam os requisitos de negócio e transformam esses requisitos em processos de negócio plenamente realizados e soluções que implementam as práticas recomendadas da indústria. Os candidatos atuam como um recurso fundamental na implementação e configuração de aplicativos para atender aos requisitos de negócios.
+  <br/>
+
+  Os candidatos a este exame têm uma compreensão fundamental dos princípios contábeis e operações financeiras de empresas, serviço ao cliente, serviço de campo, manufatura, varejo e conceitos de gestão da cadeia de suprimentos.
+
+  Os candidatos a este exame normalmente se especializam em um ou mais conjuntos de recursos do Microsoft Dynamics 365 Finance and Operations, incluindo finanças, fabricação e gestão de cadeia de suprimentos.
+subTitle: 'Este exame avalia a sua capacidade de realizar as seguintes tarefas técnicas: uso da funcionalidade comum e ferramentas de implementação, configurar a segurança, processos e opções, efetuar a migração de dados e validação e apoio à solução.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-300&examname=Exame%20MB-300:%20Microsoft%20Dynamics%20365:%20Core%20Finance%20and%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-300
+locales:
+- en
+- ja
+levels:
+- intermediate
+skills:
+- Usar funcionalidade comum e ferramentas de implementação (20-25%)
+- Configurar segurança, processos e opções (45-50%)
+- Realizar a migração de dados (15-20%)
+- Validar e dar suporte à solução (15-20%)
+roles:
+- functional-consultant
+products: 
+- dynamics
+- dynamics-finance-operations
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+- uid: exam.mb-320
+- uid: exam.mb-330
+courses:
+- uid: course.mb-300t01
+- uid: course.mb-300t02
+- uid: course.mb-300t03
+paths:
+- uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.configure-your-organization-in-finance-and-ops
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.configure-analytics-reporting-finance-operations
+relatedCertifications:
+- related:
+    uid: certification.d365-functional-consultant-financials
+- related:
+    uid: certification.d365-functional-consultant-manufacturing
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Ajuda para exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

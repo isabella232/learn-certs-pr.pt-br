@@ -1,0 +1,66 @@
+### YamlMime:Examination
+title: Projetar e implementar uma solução Data Science no Azure
+metadata:
+  title: 'Exame DP-100: Projetar e implementar uma solução Data Science no Azure'
+  description: 'Exame DP-100: Projetar e implementar uma solução Data Science no Azure'
+uid: exam.dp-100
+displayName: DP-100
+summary: |-
+  Os candidatos a este exame aplicam o rigor científico e as técnicas de exploração de dados para obter informações acionáveis e comunicar os resultados aos interessados. Os candidatos usam técnicas de aprendizado de máquina para treinar, avaliar e implementar modelos para criar soluções de AI que satisfaçam os objetivos de negócios. Os candidatos usam aplicativos que envolvem processamento de linguagem natural, fala, visão computacional e análise preditiva. 
+
+  Os candidatos atuam como parte de uma equipe multidisciplinar que incorpora considerações éticas, de privacidade e de governança na solução. Os candidatos normalmente têm experiência em matemática, estatística e ciência da computação.
+subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: definir e preparar o ambiente de desenvolvimento, preparar dados para modelagem, realizar engenharia de recursos e desenvolver modelos.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=DP-100&examname=Exame%20DP-100:%20Projetar%20e%20implementar%20uma%20solução%20Data%20Science%20no%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fdp-100
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- intermediate
+skills:
+- Definir e preparar o ambiente de desenvolvimento (15-20%)
+- Preparar dados para modelagem (25-30%)
+- Realizar a engenharia de recursos (15-20%)
+- Desenvolver modelos (40-45%)
+roles:
+- data-scientist
+products:
+- azure
+- azure-data-science-vm
+courses:
+- uid: course.dp-100t01
+paths:
+- uid: learn.data-ai.explore-data-science-tools-in-azure
+- uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
+- uid: learn.data-ai.get-started-with-azure-dsvm
+- uid: learn.modern-data-warehouse
+- uid: learn.data-science
+- uid: learn.data-ai.intro-to-ml-with-python
+relatedCertifications:
+- related:
+    uid: certification.azure-data-scientist
+resources:
+- title: Caminhos de aprendizado de certificação
+  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Cientista de Dados Associado Azure.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Repetir exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Ajuda para exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

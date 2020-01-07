@@ -1,0 +1,47 @@
+### YamlMime:Certification
+title: 'Certificação Microsoft: Fundamentos do Dynamics 365'
+metadata:
+  title: 'Certificação Microsoft: Fundamentos do Dynamics 365'
+  description: 'Prove que você compreende o Microsoft Dynamics 365, a Power Platform, conceitos de nuvem, opções de licenciamento, implementação e de versão.'
+uid: certification.d365-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Prove que você compreende o Microsoft Dynamics 365, a Power Platform, conceitos de nuvem, opções de licenciamento, implementação e de versão.
+subTitle: Prove que você compreende o Microsoft Dynamics 365, a Power Platform, conceitos de nuvem, opções de licenciamento, implementação e de versão.
+levels:
+- beginner
+skills:
+- Entender Dynamics 365
+- Entender os conceitos de nuvem
+- Entender implementações e versões
+roles:
+- functional-consultant
+type: fundamentals
+products:
+- dynamics
+courses:
+- uid: course.mb-900t01
+paths:
+- uid: learn-dynamics.dyn-power-plat-bus-app-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj0
+exams:
+- uid: exam.mb-900
+resources:
+- title: Caminhos de aprendizado de certificação
+  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Dynamics 365 Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetir Exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx

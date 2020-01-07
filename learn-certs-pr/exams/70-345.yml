@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Criação e implementação Microsoft Exchange Server 2016
+metadata:
+  title: 'Exame 70-345: Criação e implementação Microsoft Exchange Server 2016'
+  description: 'Exame 70-345: Criação e implementação Microsoft Exchange Server 2016'
+uid: exam.70-345
+displayName: 70-345
+summary: |-
+  Os candidatos a este exame são consultores de TI ou administradores seniores que atuam como líderes técnicos em uma equipe de administradores. Os candidatos devem estar familiarizados com os requisitos de integração do Microsoft Exchange Server com o Skype for Business e o Office 365.
+
+  Os candidatos devem ter um mínimo de três anos de experiência na concepção e gerenciamento de servidores Exchange e serem responsáveis pelo ambiente de mensagens do Exchange 2016 em um ambiente corporativo.
+subTitle: Os candidatos a este exame são consultores de TI ou administradores seniores que atuam como líderes técnicos em uma equipe de administradores. Os candidatos devem estar familiarizados com os requisitos de integração do Microsoft Exchange Server com o Skype for Business e o Office 365.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8do
+practiceTestUrl: https://www.mindhub.com/70-345-designing-and-deploying-microsoft-exchange/p/MU-70-345?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=345&examname=Criação%20e%20implementação%20Microsoft%20Exchange%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2F70-345
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels: 
+- advanced
+skills:
+- Planejar, implementar, gerenciar e solucionar problemas de bancos de dados de caixa de correio (15-20%)
+- Planejar, implementar, gerenciar e solucionar problemas dos serviços de acesso do cliente (15-20%)
+- Planejar, implementar, gerenciar e solucionar problemas dos serviços de transporte (15-20%)
+- Planejar, implementar e gerenciar a infraestrutura, destinatários e segurança do Exchange (15-20%)
+- Planejar, implementar e gerenciar o cumprimento, arquivamento, eDiscovery e auditoria (10-15%)
+- Implementar e gerenciar a coexistência, cenários híbridos, migração e federação (10-15%)
+roles:
+- administrator
+products:
+- m365
+courses:
+- uid: course.20345-1
+- uid: course.20345-2
+relatedCertifications:
+- related:
+    uid: certification.mcse-productivity-certification
+resources:
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

@@ -1,0 +1,48 @@
+### YamlMime:Certification
+title: Microsoft Certified Azure Fundamentals
+metadata:
+  title: Microsoft Certified Azure Fundamentals
+  description: 'Prove que você entende os conceitos de nuvem, os principais Serviços do Azure, o sistema de preços e suporte do Azure e os fundamentos da segurança, privacidade, conformidade e confiança na nuvem.'
+uid: certification.azure-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Prove que você entende os conceitos de nuvem, os principais Serviços do Azure, o sistema de preços e suporte do Azure e os fundamentos da segurança, privacidade, conformidade e confiança na nuvem.
+subTitle: Prove que você entende os conceitos de nuvem, os principais Serviços do Azure, o sistema de preços e suporte do Azure e os fundamentos da segurança, privacidade, conformidade e confiança na nuvem.
+levels:
+- beginner
+skills:
+- Entender os conceitos de nuvem
+- Entender os principais serviços do Azure
+- Entender a segurança, privacidade, conformidade e confiança
+- Entender a precificação e suporte do Azure
+roles:
+- developer
+type: fundamentals
+products:
+- azure
+courses:
+- uid: course.az-900t01
+paths:
+- uid: learn.cloud-foundations
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
+exams:
+- uid: exam.az-900
+resources:
+- title: Caminhos de aprendizado de certificação
+  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Azure Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetir Exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx

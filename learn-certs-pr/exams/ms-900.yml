@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Microsoft 365 Fundamentals
+metadata:
+  title: 'Exame MS-900: Microsoft 365 Fundamentals'
+  description: 'Exame MS-900: Microsoft 365 Fundamentals'
+uid: exam.ms-900
+displayName: MS-900
+summary: |-
+  Este exame foi projetado para candidatos que desejam demonstrar conhecimento básico sobre as considerações e os benefícios da adoção de serviços em nuvem em geral e o modelo de nuvem Software as a Service (SaaS). Este exame também abordará o conhecimento das opções disponíveis e os benefícios obtidos pela implementação das ofertas de serviços na nuvem da Microsoft 365.
+
+  Este exame pode ser considerado um precursor para exames de computação em nuvem e tecnologias, como o Office 365, o Microsoft Intune, o Azure Information Protection (AIP) e o Windows 10.
+subTitle: Prove que você compreende os conceitos de cloud, serviços básicos e conceitos do Microsoft 365, segurança, conformidade, privacidade e confiabilidade do Microsoft 365 e preços e suporte do Microsoft 365.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
+practiceTestUrl: https://us.mindhub.com/p/MU-MS-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-900&examname=Exame%20MS-900:%20Microsoft%20365%20Fundamentalss&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-900
+locales:
+- en
+- ja
+levels:
+- beginner
+skills:
+- Compreender os conceitos de nuvem (15-20%)
+- Compreender os principais serviços e conceitos do Microsoft 365 (30-35%)
+- Compreender os conceitos de segurança, conformidade, privacidade e confiabilidade do Microsoft 365 (25-30%)
+- Compreender os preços e suporte do Microsoft 365 (25-30%)
+roles:
+- administrator
+products:
+- m365
+- windows
+- office-365
+courses:
+- uid: course.ms-900t01
+paths:
+- uid: learn-m365.microsoft-365-fundamentals
+relatedCertifications:
+- related:
+    uid: certification.microsoft-365-fundamentals
+resources:
+- title: Caminhos de aprendizado de certificação
+  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Ajuda para exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md
+

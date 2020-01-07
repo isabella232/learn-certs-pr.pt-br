@@ -1,0 +1,65 @@
+### YamlMime:Certification
+title: 'Certificação Microsoft: Dynamics 365 Field Service Functional Consultant Associate'
+metadata:
+  title: 'Certificação Microsoft: Dynamics 365 Field Service Functional Consultant Associate'
+  description: 'Os Consultores Funcionais do Microsoft Dynamics 365 para Field Service configuram o aplicativo Field Service, implementam soluções que gerenciam o ciclo de vida do serviço de campo e implementam a solução Connected Field Service (IoT).'
+uid: certification.d365-functional-consultant-field-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Os Consultores Funcionais do Microsoft Dynamics 365 para Field Service configuram o aplicativo Field Service, implementam soluções que gerenciam o ciclo de vida do serviço de campo e implementam a solução Connected Field Service (IoT).
+subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 para Field Service configuram o aplicativo Field Service, implementam soluções que gerenciam o ciclo de vida do serviço de campo e implementam a solução Connected Field Service (IoT).
+levels:
+- intermediate
+skills:
+- Realizar descoberta, planejamento e análise
+- Gerenciar o projeto da experiência do usuário
+- Gerenciar entidades e dados
+- Implementar segurança
+- Implementar integração
+- Realizar a implementação e teste de soluções
+- Configurar aplicativos de Field Service
+- Gerenciar ordens de serviço
+- Agendar e despachar ordens de serviço
+- Gerenciar mobilidade do Field Service
+- Gerenciar inventário e compras
+- Gerenciar inventário e acordos
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics
+- dynamics-field-service
+courses:
+- uid: course.mb-200t01
+- uid: course.mb-200t02
+- uid: course.mb-200t03
+- uid: course.mb-200t04
+- uid: course.mb-240t01
+- uid: course.mb-240t02
+- uid: course.mb-240t03
+paths:
+- uid: learn-bizapps.implementing-dyn365-field-service
+- uid: learn-bizapps.universal-resource-scheduling
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUiZ
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-240
+resources:
+- title: Caminhos de aprendizado de certificação
+  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Dynamics 365 Field Service Functional Consultant Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Repetir Exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx

@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: Microsoft Dynamics 365 Sales
+metadata:
+  title: 'Exame MB-210: Microsoft Dynamics 365 Sales'
+  description: 'Exame MB-210: Microsoft Dynamics 365 Sales'
+uid: exam.mb-210
+displayName: MB-210
+summary: |-
+  Os candidatos a este exame são consultores funcionais do Dynamics 365 com experiência em vendas. Os candidatos são responsáveis pela implementação de soluções que possibilitam um ciclo de vida de vendas a ser realizado de forma apropriada e eficaz para atender às metas de receita, estratégias de negócios e objetivos da empresa.
+  <br/>
+
+  Os candidatos são responsáveis por configurar e expandir as principais funcionalidades de leads, contatos, contas, oportunidades e entidades de suporte para mapear os processos de vendas em uso na empresa. Eles identificam oportunidades de usar o Power Apps em aplicativos móveis, o Microsoft Flow para integração de aplicativos, fluxos de processos de negócios e outras ferramentas de automação para construir um aplicativo que suporte e acelere o “processo de aumento da receita”. 
+
+  Os candidatos devem ter um sólido conhecimento de negócios e, de preferência, experiência no mundo de vendas em uma ou mais funções de vendas.
+subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: executar configuração, gerenciar entidades de vendas básicas e gerenciar entidades de vendas.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-210&examname=Exame%20MB-210:%20Microsoft%20Dynamics%20365%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-210
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Realizar a configuração (40-45%)
+- Gerenciar principais entidades de vendas (20-25%)
+- Gerenciar entidades de vendas (35-40%)
+roles:
+- functional-consultant
+products: 
+- dynamics
+- dynamics-sales
+exams:
+- uid: exam.mb-200
+courses:
+- uid: course.mb-210t01
+paths:
+- uid: learn-dynamics.dynamics-365-for-sales
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-bizapps.applying-goal-management
+relatedCertifications:
+- related:
+    uid: certification.d365-functional-consultant-sales
+resources:
+- title: Caminhos de aprendizado de certificação
+  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Dynamics 365 Sales Functional Consultant Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Ajuda para exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

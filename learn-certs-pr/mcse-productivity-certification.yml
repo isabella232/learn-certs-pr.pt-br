@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: Especialista de Soluções de Produtividade MCSE
+metadata:
+  title: Especialista de Soluções de Produtividade MCSE
+  description: Especialista de Soluções de Produtividade MCSE
+uid: certification.mcse-productivity-certification
+iconUrl: /media/learn/certification/badges/mcse-badge.svg
+summary: |-
+  Esta certificação valida sua capacidade de migrar sua empresa para a nuvem, aumentar a produtividade e flexibilidade do usuário, reduzir perdas de dados e melhorar a segurança de dados da sua organização. Esta certificação pode ser usada para satisfazer um dos requisitos para se tornar um [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/pt-br/learning/m365-enterprise-administrator.aspx)
+  
+  Para se tornar um Especialista de Soluções de Produtividade MCSE, é preciso preencher os seguintes requisitos&#58;
+  - Receber uma certificação de pré-requisito
+    - Opção de pré-requisito 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/pt-br/learning/mcsa-windows-server-certification.aspx)
+    - Opção de pré-requisito 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/pt-br/learning/mcsa-windows-server-2016-certification.aspx)
+  - Deverá ser aprovado em um dos seguintes exames
+    - [70-333&#58; Implementando Enterprise Voice com Skype for Business 2015](/learn/certifications/exams/70-333)
+    - [70-334&#58; Soluções básicas do Microsoft Skype for Business](/learn/certifications/exams/70-334)
+    - [70-339&#58; Gerenciando Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
+    - [70-345&#58; Projetando e implementando Microsoft Exchange Server 2016](/learn/certifications/exams/70-345)
+subTitle: Esta certificação valida sua capacidade de migrar sua empresa para a nuvem, aumentar a produtividade e flexibilidade do usuário, reduzir perdas de dados e melhorar a segurança de dados da sua organização. Esta certificação pode ser usada para satisfazer um dos requisitos para se tornar Microsoft 365 Certified Enterprise Administrator Expert
+levels:
+- advanced
+skills:
+- none
+roles:
+- administrator
+type: role-based
+products:
+- m365
+courses:
+- uid: course.20334
+- uid: course.20345-1
+- uid: course.20345-2
+- uid: course.20339-1
+- uid: course.20339-2
+- uid: course.40409
+exams:
+- uid: exam.70-345
+- uid: exam.70-339
+- uid: exam.70-333
+resources:
+- title: 訓練和認證指南
+  description: 透過一份簡潔的訓練和認證指南探索所有認證。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 認證海報
+  description: 查看關於基礎知識、角色型和專業認證的概述。
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 重測
+  description: 查看兩份可幫助您提高成功幾率的好提議。
+  href: deals.md
+- title: 支持認證
+  description: 透過Microsoft認證支持論壇獲得幫助。論壇版主將在週一至週五之間的一個工作日內回覆。
+  href: help.md
+- title: 認證儀錶板
+  description: 檢閱並管理您的預定測驗、證書和成績單。
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx

@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Transição de Certificação do Desenvolvedor do Microsoft Azure
+metadata:
+  title: 'Exame AZ-202: Transição de Certificação do Desenvolvedor do Microsoft Azure'
+  description: 'Exame AZ-202: Transição de Certificação do Desenvolvedor do Microsoft Azure'
+uid: exam.az-202
+displayName: AZ-202
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAME FOI DESATIVADO EM 31 DE MARCHA DE 2019. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão</div>
+  <br/> 
+  Este exame destina-se apenas aos candidatos que tenham feito o [Exame 70-532](https://www.microsoft.com/pt-br/learning/exam-70-532.aspx)&#58; Desenvolvimento de Microsoft Azure Solutions. Se você não fez o Exame 532, não poderá obter uma certificação fazendo este exame.
+
+  O exame de transição destina-se a pessoas que já demonstraram habilidades no domínio de conteúdo, aprovando os exames existentes que os novos exames de certificação baseados em função substituirão. Eles cobrem o delta entre a certificação atual e o que esperamos que as pessoas que ganham a nova certificação possam fazer. Não queremos testar novamente pessoas com o mesmo conteúdo em que elas já demonstraram competência ao passar no exame existente.
+
+  Os exames de transição abrangem novos conteúdos líquidos, conteúdo que não foi abordado com profundidade suficiente e conteúdo sobre aspectos da tecnologia que provavelmente mudaram desde que alguém fez o exame. Como resultado, o exame de transição não é mais curto do que um exame típico, mas mais focado nas principais tarefas e habilidades que não foram avaliadas no exame ou certificação existente que está sendo substituído.
+
+  Os candidatos para este exame são os Desenvolvedores do Azure que projetam e criam soluções em nuvem, como aplicativos e serviços. Eles participam de todas as fases do desenvolvimento, desde o design da solução, desenvolvimento e implantação, até o teste e a manutenção. Eles fazem parceria com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar a solução.
+
+  Os candidatos devem ser proficientes no desenvolvimento de aplicativos e serviços usando as ferramentas e tecnologias do Azure, incluindo armazenamento, segurança, computação e comunicações.
+
+  Os candidatos devem ter pelo menos um ano de experiência no desenvolvimento de soluções escalonáveis em todas as fases de desenvolvimento de software e devem estar capacitados em pelo menos uma linguagem de programação suportada pela nuvem.
+subTitle: 'Este exame destina-se apenas aos candidatos que tenham feito [Exame 70-532](https://www.microsoft.com/pt-br/learning/exam-70-532.aspx): Desenvolvimento de Microsoft Azure Solutions. Se você não fez o Exame 532, você não ganhará uma certificação fazendo este exame'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJV3
+scheduleExamUrl: https://examregistration.microsoft.com/
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Desenvolver para armazenamento em nuvem (15-20%)
+- Criar soluções de plataforma como serviço (PaaS) (30-35%)
+- Soluções seguras em nuvem (5-10%)
+- Desenvolver para um modelo de nuvem do Azure (25-30%)
+- Implementar soluções de integração de nuvem (15-20%)
+retirementDate: 03/31/2019
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-203
+relatedCertifications:
+- related:
+    uid: certification.azure-developer
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

@@ -1,0 +1,82 @@
+### YamlMime:Examination
+title: Implementando uma solução de dados do Azure
+metadata:
+  title: 'Exame DP-200: Implementando uma solução de dados do Azure'
+  description: 'Exame DP-200: Implementando uma solução de dados do Azure'
+uid: exam.dp-200
+displayName: DP-200
+summary: |-
+  Os candidatos a este exame são engenheiros de dados do Microsoft Azure que colaboram com as partes interessadas da empresa para identificar e atender aos requisitos de dados para implementar soluções que usam os serviços de dados do Azure.
+
+  Os engenheiros de dados do Azure são responsáveis por implementar tarefas relacionadas aos dados que incluem provisionamento de serviços de armazenamento de dados, importação de dados de streaming e em lotes, transformação de dados, implementação de requisitos de segurança, implementação de políticas de retenção de dados, identificação de gargalos de desempenho e acesso a fontes de dados externas.
+
+  Os candidatos a este exame devem ser capazes de implementar soluções de dados com o uso dos seguintes serviços do Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics (anteriormente Azure SQL DW), Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks e Azure Blob storage.
+subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: implementar soluções de armazenamento de dados, gerenciar e desenvolver processamento de dados e monitorar e otimizar soluções de dados.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
+practiceTestUrl: https://us.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=DP-200&examname=Exame%20DP-200:%20Implementando%20uma%20solução%20de%20dados%20do%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fdp-200
+locales:
+- en
+- ja
+- zh-cn
+- ko
+levels:
+- intermediate
+skills:
+- Implementar soluções de armazenamento de dados (40-45%)
+- Gerenciar e desenvolver processamento de dados (25-30%)
+- Monitorar e otimizar soluções de dados (30-35%)
+roles:
+- data-engineer
+products:
+- azure
+- azure-cosmos-db
+- azure-data-lake
+- azure-sql-data-warehouse
+- azure-databricks
+- azure-notebooks
+- azure-stream-analytics
+- azure-sql-database
+- azure-storage
+- azure-monitor
+- azure-hdinsight
+exams:
+- uid: exam.dp-201
+courses:
+- uid: course.dp-200t01
+paths:
+- uid: learn.data-ai.azure-for-the-data-engineer
+- uid: learn.store-data-in-azure
+- uid: learn.work-with-relational-data-in-azure
+- uid: learn.work-with-nosql-data-in-azure-cosmos-db
+- uid: learn.data-ai.data-processing-with-azure-adls
+- uid: learn.data-ai.implement-data-streaming-with-asa
+- uid: learn.data-ai.implement-sql-data-warehouse
+- uid: learn.modern-data-warehouse
+- uid: learn.data-science
+relatedCertifications:
+- related:
+    uid: certification.azure-data-engineer
+resources:
+- title: Caminhos de aprendizado de certificação
+  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Azure Data Engineer Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Ajuda para exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

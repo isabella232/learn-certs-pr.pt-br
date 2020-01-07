@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: 'Word 2016: Criação de Documento Principal, Colaboração e Comunicação'
+metadata:
+  title: 'Exame 77-725: Word 2016: Criação de Documento Principal, Colaboração e Comunicação'
+  description: 'Exame 77-725: Word 2016: Criação de Documento Principal, Colaboração e Comunicação'
+uid: exam.77-725
+displayName: 77-725
+summary: |
+  Candidatos bem-sucedidos para o teste do Word 2016 têm conhecimento fundamental do ambiente do Word e capacidade para concluir tarefas de maneira independente. Eles demonstram a aplicação correta dos principais recursos do Word 2016 criando e editando dois ou três documentos de páginas para uma variedade de finalidades e situações. Entre os exemplos de documentos, estão relatórios de aparência profissional, boletins informativos com diversas colunas, currículos e correspondências empresariais. 
+
+  Os testes de certificação do Microsoft Office Specialist (MOS) 2016 introduzem um novo formato baseado em desempenho para melhorar o teste de conhecimento, habilidades e capacidades de um candidato usando os programas do MOS 2016&#58;
+  - As instruções da tarefa do teste MOS 2016 geralmente não incluem o nome do comando, como em versões anteriores. Por exemplo, evita-se o uso de nomes de funções e elas são substituídas por descritores. Isso significa que os candidatos devem entender a finalidade e o uso comum da funcionalidade do programa, a fim de concluir com sucesso as tarefas em cada projeto. 
+  - O formato de teste MOS 2016 incorpora múltiplos projetos. 
+subTitle: Candidatos bem-sucedidos para o teste do Word 2016 têm conhecimento fundamental do ambiente do Word e capacidade para concluir tarefas de maneira independente. Eles demonstram a aplicação correta dos principais recursos do Word 2016 criando e editando dois ou três documentos de páginas para uma variedade de finalidades e situações. Entre os exemplos de documentos, estão relatórios de aparência profissional, boletins informativos com diversas colunas, currículos e correspondências empresariais. 
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
+scheduleExamUrl: http://www.certiport.com/locator
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nb
+- nl
+- pl
+- pt-br
+- ro
+- ru
+- th
+- tr
+levels: 
+- intermediate
+skills:
+- Criar e gerenciar documentos (25-30%)
+- Formatar texto, parágrafos e seções (25-30%)
+- Criar tabelas e listas (20-25%)
+- Criar e gerenciar referências (5-10%)
+- Inserir e formatar elementos gráficos (20-25%)
+roles:
+- developer
+products:
+- office-word
+
+relatedCertifications:
+- related:
+    uid: certification.mos-word-2016
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

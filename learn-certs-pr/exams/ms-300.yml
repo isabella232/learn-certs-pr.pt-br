@@ -1,0 +1,68 @@
+### YamlMime:Examination
+title: Implementação do Microsoft 365 Teamwork
+metadata:
+  title: 'Exame MS-300: Implementação do Microsoft 365 Teamwork'
+  description: 'Exame MS-300: Implementação do Microsoft 365 Teamwork'
+uid: exam.ms-300
+displayName: MS-300
+summary: |-
+  Os candidatos a este exame são os Administradores do Teamwork responsáveis por configurar, implantar e gerenciar as cargas de trabalho do Office 365 e do Azure que se concentram na colaboração e adoção eficientes e eficazes. Os Administradores do Teamwork gerenciam aplicativos, serviços e infraestrutura de suporte para atender aos requisitos de negócios. O Administrador do Teamwork deve ser capaz de implementar, gerenciar, migrar e proteger o SharePoint (online, no local e híbrido), o OneDrive e o Teams.
+  <br/>
+
+  O Administrador do Teamwork está envolvido nas decisões relativas à governança e trabalha com outros administradores para implementar muitas das decisões tomadas pelos órgãos de governança. O Administrador do Teamwork colabora com o Administrador de Mensagens para configurar opções e segurança relacionadas a tarefas de e-mail, o Administrador de Voz para integrar recursos de voz nas organizações e o Administrador de Segurança para garantir a segurança de ponta a ponta.
+  
+  Os candidatos a este exame têm uma compreensão básica dos pontos de integração com os seguintes aplicativos e serviços&#58; Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner e Project. O administrador entende como integrar aplicativos e serviços de terceiros, incluindo aplicativos da linha de negócios. Os candidatos também entendem os conceitos de gerenciamento do SQL Server, o Active Directory do Azure, o PowerShell, a rede, a administração de servidores do Windows, o Sistema de Nome de Domínio (DNS), o gerenciamento de dispositivos móveis do Active Directory e os sistemas operacionais alternativos.
+subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: configurar e gerenciar o SharePoint Online, configurar e gerenciar o OneDrive for Business, configurar e gerenciar equipes e configurar e gerenciar integrações de carga de trabalho.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI2
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-300&examname=Exame%20MS-300:%20Implementação%20do%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-300
+locales:
+- en
+- ja
+levels:
+- intermediate
+skills:
+- Configurar e gerenciar o SharePoint Online (35-40%)
+- Configurar e gerenciar o OneDrive for Business (25-30%)
+- Configurar e gerenciar o Teams (20-25%)
+- Configurar e gerenciar integrações de carga de trabalho (15-20%)
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+courses:
+- uid: course.ms-300t01
+- uid: course.ms-300t02
+- uid: course.ms-300t03
+- uid: course.ms-300t04
+relatedCertifications:
+- related:
+    uid: certification.m365-teamwork-administrator
+resources:
+- title: Caminhos de aprendizado de certificação
+  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Teamwork Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Ajuda para exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

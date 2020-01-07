@@ -1,0 +1,41 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Word Associate (Word e Word 2019)'
+metadata:
+  title: 'Microsoft Office Specialist: Word Associate (Word e Word 2019)'
+  description: 'Esta certificação demonstra que você possui as habilidades necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist (MOS) em um programa Office específico.'
+uid: certification.mos-word-2019
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Esta certificação demonstra que você possui as habilidades necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist (MOS) em um programa Office específico.
+subTitle: Esta certificação demonstra que você possui as habilidades necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist (MOS) em um programa Office específico.
+levels:
+- intermediate
+skills:
+- gerenciar documentos
+- Formatar texto, parágrafos e seções
+- Gerenciar tabelas e listas
+- Criar e gerenciar referências
+- Inserir e formatar elementos gráficos
+- Gerenciar colaboração de documentos
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-word
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WMVz
+exams:
+- uid: exam.mo-100
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Repetir exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Apoio às certificações
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx

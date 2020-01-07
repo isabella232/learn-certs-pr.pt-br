@@ -1,0 +1,66 @@
+### YamlMime:Examination
+title: Transição de Certificação do Microsoft Azure Solutions Architect
+metadata:
+  title: 'Exame AZ-302: Transição de Certificação do Microsoft Azure Solutions Architect'
+  description: 'Exame AZ-302: Transição de Certificação do Microsoft Azure Solutions Architect'
+uid: exam.az-302
+displayName: AZ-302
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAME FOI DESATIVADO EM 30 DE JUNHO DE 2019. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão</div>
+  <br/> 
+  Este exame destina-se apenas aos candidatos que tenham feito o [Exame 70-535](https://www.microsoft.com/pt-br/learning/exam-70-535.aspx)&#58; Criando Microsoft Azure Solutions. Se você não fez o Exame 535, não poderá obter uma certificação fazendo este exame.
+
+  O exame de transição destina-se a pessoas que já demonstraram habilidades no domínio de conteúdo, aprovando os exames existentes que os novos exames de certificação baseados em função substituirão. Eles cobrem o delta entre a certificação atual e o que esperamos que as pessoas que ganham a nova certificação possam fazer. Não queremos testar novamente pessoas com o mesmo conteúdo em que elas já demonstraram competência ao passar no exame existente.
+
+  Os exames de transição abrangem novos conteúdos líquidos, conteúdo que não foi abordado com profundidade suficiente e conteúdo sobre aspectos da tecnologia que provavelmente mudaram desde que alguém fez o exame. Como resultado, o exame de transição não é mais curto do que um exame típico, mas mais focado nas principais tarefas e habilidades que não foram avaliadas no exame ou certificação existente que está sendo substituído.
+
+  Os candidatos a esse exame são os Azure Solution Architects, que aconselham os interessados?e traduzem os requisitos de negócios em soluções seguras, escalonáveis e confiáveis.
+
+  Os candidatos devem ter experiência e conhecimento avançados em vários aspectos das operações de IT, incluindo rede, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança. Essa função exige gerenciar como as decisões em cada área afetam uma solução geral.
+
+  Os candidatos devem ser proficientes na administração do Azure, no desenvolvimento do Azure e no DevOps e ter habilidades de nível de especialista em pelo menos um desses domínios.
+subTitle: 'Este exame destina-se apenas aos candidatos que tenham feito [Exame 70-535](https://www.microsoft.com/pt-br/learning/exam-70-535.aspx): Criando Microsoft Azure Solutions. Se você não fez o Exame 535, você não ganhará uma certificação fazendo este exame.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwC
+scheduleExamUrl: https://examregistration.microsoft.com/
+locales:
+- en
+levels:
+- advanced
+skills:
+- Determinar os requisitos de carga de trabalho (15-20%)
+- Desenvolver estratégias de Identidade e Segurança (5-10%)
+- Desenvolver uma estratégia de continuidade de negócios (15-20%)
+- Implementar Cargas de Trabalho e Segurança (5-10%)
+- Desenvolver para a cloud (45-50%)
+- Implementar Autenticação e Dados Seguros (5-10%)
+retirementDate: 06/30/2019
+roles:
+- solution-architect
+products:
+- azure
+exams:
+- uid: exam.az-300
+- uid: exam.az-301
+relatedCertifications:
+- related:
+    uid: certification.azure-solutions-architect
+resources:
+- title: Caminhos de aprendizado de certificação
+  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Especialista em  Solutions Architect Azure.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Ajuda para exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Consulte as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md
