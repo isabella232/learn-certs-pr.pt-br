@@ -1067,7 +1067,7 @@ Se tiver perguntas gerais sobre o registro do exame, entre em contato com o [Cen
 
 **Como faço para solicitar uma acomodação?**
 
-Se você precisar de equipamento especial ou outra acomodação ao realizar um exame, poderá solicitar uma acomodação por meio da [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) usando o “Sistema de Solicitação de Ajustes Razoáveis” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Mais detalhes são fornecidos na seção [Acomodações especiais ao fazer um exame](#special-accommodations-when-taking-exams) acima.
+Se você precisar de equipamento especial ou outra acomodação ao realizar um exame, poderá solicitar uma acomodação por meio da [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) usando o “Sistema de Solicitação de Ajustes Razoáveis” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Mais detalhes são fornecidos na seção Acomodações especiais ao fazer um exame acima.
 
 **Por que preciso enviar documentação?**
 
