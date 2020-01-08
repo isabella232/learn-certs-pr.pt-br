@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 Em todo o mundo, parceiros e clientes procuram a Microsoft para entregar as certificações e exames de qualidade mais alta. As políticas do exame da Certificação Microsoft foram criadas para apoiar os objetivos do programa de certificação, incluindo:
 
-## Políticas de segurança e reaplicação
+## <a name="security-policies"></a> Políticas de segurança e reaplicação
 
 A Microsoft conta com políticas específicas que abrangem áreas da segurança pertinentes aos exames Microsoft Certified Professional (MCP).
 
@@ -517,7 +517,7 @@ Para mais informações, visite: [Crédito NCCRS para Certificações Microsoft]
 
 Baixar: [Formulário de serviço de transcrição](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## Como contestar um item do exame de Certificação Microsoft
+## <a name="policies-5"></a> Como contestar um item do exame de Certificação Microsoft
 
 [Cada pergunta do exame é cuidadosamente revisada](https://www.microsoft.com/pt-br/learning/certification-exams.aspx) por uma bancada de especialistas técnicos e peritos que analisam todas as perguntas visando a precisão, clareza e relevância. Se você acredita que determinada pergunta encontrada em uma Certificação Microsoft seja inválida, solicite uma avaliação da pergunta seguindo as etapas descritas abaixo. Você deve enviar um formulário de contestação de item de exame dentro de 30 dias após fazer o exame.
 
@@ -553,7 +553,7 @@ Se você precisar de equipamento especial ou outra acomodação ao realizar um e
 
 Se você precisar de mais tempo porque o exame não está disponível no seu idioma nativo, se precisar de equipamento especial ou gostaria de solicitar qualquer outra acomodação ao fazer um exame, você pode solicitar uma acomodação através do Certiport seguindo o processo descrito [aqui](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations).
 
-### Política de cancelamento e reagendamento:
+### <a name="cancellation-and-reschedule-policy"></a> Política de cancelamento e reagendamento:
 
 - Não há cobrança se você reprogramar ou cancelar um agendamento de exame pelo menos 6 dias úteis antes do agendamento.
 - Se você cancelar ou reprogramar seu exame dentro de 5 dias úteis do seu horário de exames registrado, uma taxa será aplicada.

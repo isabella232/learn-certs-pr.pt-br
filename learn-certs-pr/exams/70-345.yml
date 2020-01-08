@@ -43,7 +43,7 @@ relatedCertifications:
 - related:
     uid: certification.mcse-productivity-certification
 resources:
-- title: Exam Replay
+- title: Repetir Exame
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
 - title: Painel de certificação
