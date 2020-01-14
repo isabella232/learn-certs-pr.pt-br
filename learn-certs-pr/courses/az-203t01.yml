@@ -1,0 +1,79 @@
+### YamlMime:Course
+title: Desenvolver soluções de computação de Infraestrutura Azure como Serviço
+metadata:
+  title: 'Curso AZ-203T01-A: Desenvolver soluções de computação de Infraestrutura Azure como Serviço'
+  description: 'Curso AZ-203T01-A: Desenvolver soluções de computação de Infraestrutura Azure como Serviço'
+uid: course.az-203t01
+courseNumber: 'AZ-203T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  Neste curso, os alunos obterão o conhecimento e as habilidades necessárias para implementar os serviços e recursos do Azure IaaS em suas soluções de desenvolvimento. O curso aborda o provisionamento de máquinas virtuais usando o serviço em lotes para a implementação/manutenção de recursos e como criar soluções em contêiner usando o serviço de Kubernetes do Azure.
+
+  #### Perfil do público
+  - Os estudantes deste curso estão interessados no desenvolvimento do Azure ou na aprovação no exame de certificação Microsoft Azure Developer Associate.
+prerequisitesSection: |-
+  - Os estudantes devem ter 1-2 anos de experiência como desenvolvedor. Este curso pressupõe que os alunos saibam codificar e tenham conhecimento básico do Azure.
+  - É recomendável que os estudantes tenham alguma experiência no PowerShell ou CLI do Azure ou experiência profissional no portal do Azure e pelo menos em uma linguagem de programação suportada pelo Azure. A maioria dos exemplos deste curso é apresentada em C# .NET.
+outlineSection: |-
+ ### Módulo 1&#58; Implementação de soluções que usam máquinas virtuais
+  Os estudantes aprenderão a planejar a implementação de VM de maneira apropriada. O curso aborda a criação de VMs usando o Portal do Azure, PowerShell e códigos. Ele também aborda a criação e o uso de modelos ARM (Azure Resource Manager) para implementações repetíveis e como usar o Azure Disk Encryption para proteger as informações na máquina virtual.
+  #### Lições
+  - Provisionamento de VMs
+  - Criação de modelos de ARM
+  - Configuração do Azure Disk Encryption para VMs
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Aprender a criar e implementar máquinas virtuais usando o Portal do Azure, PowerShell e códigos.
+  - Aprender a criar e implementar o ARM usando o Portal do Azure e o Visual Studio.
+  - Compreender as diferentes opções de criptografia e aprender a criptografar implementações existentes e novas.
+
+
+  ### Módulo 2&#58; Implementar trabalhos em lote usando os serviços em lotes do Azure
+  O Lote do Azure cria e gerencia um pool de nós de computação (máquinas virtuais), instala os aplicativos que você deseja executar e agenda tarefas para serem executadas nos nós.
+  #### Lições
+  - Visão geral do Lote do Azure
+  - Execução de trabalho em lotes usando a CLI do Azure e o Portal do Azure
+  - Execução de tarefas em lotes usando arquivos de código
+  - Gerenciamento de trabalhos em lotes usando o API de serviços em lotes
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender o funcionamento dos serviços em lotes do Azure
+  - Aprender a criar e executar tarefas em lotes usando a CLI do Azure
+  - Aprender a criar e executar tarefas em lotes usando os códigos
+  - Aprender a usar a API de serviços em lotes do Azure para gerenciamento de tarefas
+
+
+  ### Módulo 3&#58; Criação de soluções contidas
+  É possível criar e executar aplicativos modernos, portáteis e baseados em microsserviços que utilizam o Kubernetes para orquestrar e gerenciar a disponibilidade desses componentes de aplicativo. O Kubernetes é compatível com aplicativos com e sem estado à medida que as equipes avançam na adoção de aplicativos baseados em microsserviços.
+  #### Lições
+  - Criação de cluster de Serviço Kubernetes Gerenciado do Azure (AKS)
+  - Criação de imagens contidas para soluções
+  - Publicar uma imagem no Registro de Contêiner do Azure
+  - Execução de contêineres usando o Azure Container Instance ou AKS
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Conhecer os conceitos básicos do AKS
+  - Aprender a implementar clusters de AKS
+  - Publicar uma imagem no Registro de Contêiner do Azure
+  - Aprender sobre as instâncias de contêiner do Azure e como implementá-las

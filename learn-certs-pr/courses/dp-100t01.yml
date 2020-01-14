@@ -1,0 +1,58 @@
+### YamlMime:Course
+title: Criação e implementação de uma solução Data Science no Azure
+metadata:
+  title: 'Curso DP-100T01-A: Criação e implementação de uma solução Data Science no Azure'
+  description: 'Curso DP-100T01-A: Criação e implementação de uma solução Data Science no Azure'
+uid: course.dp-100t01
+courseNumber: 'DP-100T01-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-scientist
+products:
+- azure
+- azure-data-science-vm
+exams:
+- uid: exam.dp-100
+summary: |-
+  Obtenha o conhecimento necessário sobre como usar os serviços do Azure para desenvolver, treinar e implementar soluções de aprendizado de máquina. O curso começa com uma visão geral dos serviços do Azure que oferecem suporte à ciência de dados. A partir daí, ele se concentra no uso do serviço de ciência de dados premier do Azure, o serviço Azure Machine Learning, para automatizar o pipeline de ciência de dados. Este curso concentra-se no Azure e não ensina o estudante a realizar ciência de dados. Presume-se que os alunos já sabem disso.
+
+  #### Perfil do público
+  Este curso destina-se a data scientists e pessoas com responsabilidades administrativas no treinamento e na implementação de modelos de aprendizado de máquina.
+prerequisitesSection: |-
+  Antes de participar deste curso, os estudantes devem&#58;
+  - Obter a [certificação do Azure Fundamentals](https://docs.microsoft.com/pt-br/learn/certifications/azure-fundamentals).
+  - Ter compreensão da ciência de dados, incluindo como preparar dados, treinar modelos e avaliar modelos concorrentes para selecionar o melhor.
+  - Ter noções de programação na linguagem de programação Python e como usar as bibliotecas do Python&#58; pandas, scikit-learn, matplotlib e seaborn.
+outlineSection: |-
+  ### Módulo 1&#58; Fazendo ciência de dados no Azure
+  O estudante aprenderá sobre o processo de ciência de dados e a função do Data Scientist.  Em seguida, o estudante compreenderá como os serviços do Azure podem oferecer suporte e aumentar o processo de ciência de dados.
+  #### Lições
+  - Introdução ao processo de ciência de dados
+  - Visão geral das opções de ciência de dados do Azure
+  - Introdução ao Azure Notebooks
+
+
+  ### Módulo 2&#58; Fazendo ciência de dados como Azure Machine Learning
+  O estudante aprenderá a usar o serviço Azure Machine Learning (AML) para automatizar o processo de ciência de dados ponta a ponta.
+  #### Lições
+  - Introdução ao serviço AML
+  - Registro e implementação de ML com serviço AML
+
+
+  ### Módulo 3&#58; Automatização do aprendizado de máquina com o serviço AML
+  Neste módulo, o estudante aprenderá sobre o pipeline de aprendizado de máquina e como o AutoML e o HyperDrive do serviço AML podem automatizar algumas de suas partes mais trabalhosas.
+  #### Lições
+  - Automatizar a seleção do modelo de aprendizado de máquina
+  - Automatizar o ajuste do hiperparâmetro com o HyperDrive
+
+
+  ### Módulo 4&#58; Gerenciar e monitorar modelos de aprendizado de máquina com o serviço AML
+  Neste módulo, o estudante aprenderá a gerenciar e monitorar automaticamente os modelos de aprendizado de máquina no serviço AML.
+  #### Lições
+  - Gerenciamento e monitoração de modelos de aprendizado de máquina

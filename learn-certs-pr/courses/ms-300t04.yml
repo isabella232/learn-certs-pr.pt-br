@@ -1,0 +1,93 @@
+### YamlMime:Course
+title: Habilitar cargas de trabalho do Office 365 para Colaboração
+metadata:
+  title: 'Curso MS-300T04-A: Habilitar cargas de trabalho do Office 365 para Colaboração'
+  description: 'Curso MS-300T04-A: Habilitar cargas de trabalho do Office 365 para Colaboração'
+uid: course.ms-300t04
+courseNumber: 'MS-300T04-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Avaliar as ferramentas tecnológicas disponíveis
+- skill: Analisar requisitos de negócios
+- skill: Desenvolver governança para transformação digital
+- skill: Implementar governança de gerenciamento de aplicativos
+- skill: Gerenciar a adoção e alteração de usuários
+- skill: Monitorar soluções de colaboração
+- skill: Avaliar as cargas de trabalho de colaboração do Office 365
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  Transformar o trabalho em equipe e a colaboração dentro e fora da organização se torna mais crítico em um espaço de trabalho moderno. Neste curso, você aprenderá como aproveitar as cargas de trabalho de colaboração do Office 365 para melhorar a produtividade de suas organizações, como Yammer, Stream, PowerApps e Flow. Avaliaremos os conjuntos de ferramentas colaborativos disponíveis e analisaremos os requisitos de negócios. Você também aprenderá como planejar e desenvolver a governança para a transformação digital, incluindo a adoção pelo usuário e o gerenciamento de mudanças. 
+  
+  Este curso foi desenvolvido para profissionais de TI que implantam e gerenciam a infraestrutura de trabalho em equipe em sua organização. 
+  
+  Este é o último de uma série de quatro cursos para o Teamwork Administrator. Esses cursos ajudam a se preparar para o exame MS-300&#58; Implantando o Microsoft 365 Teamwork.
+
+  #### Perfil do público
+  Este curso é para a função de Teamwork Administrator do Microsoft 365. A função é responsável por configurar, implantar e gerenciar cargas de trabalho do Office 365 e Azure que se concentram na colaboração e adoção eficientes e eficazes. Eles gerenciam aplicativos, serviços e infraestrutura de suporte para atender aos requisitos de negócios. O administrador está ciente e pode diferenciar entre produtos e serviços, mas não pode gerenciar diretamente cada produto ou serviço.
+
+  O administrador do Teamwork deve ser capaz de implantar, gerenciar, migrar e proteger o SharePoint (online, no local e híbrido), o OneDrive e Teams. 
+  
+  O Teamwork Administrator tem um entendimento fundamental dos pontos de integração com os seguintes aplicativos e serviços&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planejador e Projeto. O administrador entende como integrar aplicativos e serviços de terceiros, incluindo aplicativos da linha de negócios.
+prerequisitesSection: |-
+ Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
+  - Experiência com o Windows PowerShell
+  - Compreensão básica do Active Directory e do Azure AD.
+  - Compreensão básica de gerenciamento de dispositivos móveis e sistemas operacionais alternativos (Android e macOS)
+outlineSection: |-
+  ### Módulo 1&#58; Avaliando as cargas de trabalho de colaboração do Office 365
+  O Office 365 inclui muitos recursos que podem ser usados ​​para criar soluções de colaboração. O componente principal para criar soluções de colaboração é o SharePoint Online, mas outros recursos, como o Yammer e o Stream, também podem ser usados. Você precisa entender como o SharePoint Online e outros recursos do Office 365 se comparam com soluções de terceiros ao projetar sua solução. Você também precisa analisar os requisitos de negócios para garantir que sua solução atenda às necessidades de negócios.
+  #### Lições
+  - Avaliar as ferramentas tecnológicas disponíveis
+  - Analisar requisitos de negócios
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Avaliar as ferramentas tecnológicas disponíveis
+  - Analisar requisitos de negócios
+
+
+  ### Módulo 2&#58; Planejamento e desenvolvimento da governança
+  A implantação e o gerenciamento bem-sucedidos de tecnologia da informação (TI) requerem uma metodologia consistente e bem definida. Governança são os processos que você segue para definir as políticas e procedimentos para implantar e gerenciar a TI, incluindo soluções de colaboração. Você precisa considerar a governança para gerenciamento de aplicativos, adoção de usuários, gerenciamento de mudanças e monitoramento.
+  #### Lições
+  - Desenvolvimento de governança para transformação digital
+  - Implementar governança de gerenciamento de aplicativos
+  - Adoção de usuários e gerenciamento de mudanças
+  - Monitorar soluções de colaboração
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Desenvolver governança para transformação digital
+  - Implementar governança de gerenciamento de aplicativos
+  - Gerenciar a adoção e alteração de usuários
+  - Monitorar soluções de colaboração
+
+
+  ### Módulo 3&#58; Gerenciando cargas de trabalho de colaboração do Office 365
+  No Office 365, existem muitos aplicativos e recursos que você pode usar para colaboração. Você precisa entender como configurar esses aplicativos e recursos para atender às necessidades da sua organização. Neste módulo, você aprenderá sobre o gerenciamento de grupos do Office 365, Power BI, Microsoft Stream, Yammers, Flow e PowerApps.
+  #### Lições
+  - Gerenciando cargas de trabalho de colaboração do Office 365
+  - Gerenciando recursos de Stream
+  - Gerenciando recursos do Yammer
+  - Gerenciando recursos de fluxo e PowerApps
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Cargas de trabalho de colaboração do ManageOffice 365
+  - Recursos do ManageStream
+  - Recursos do ManageYammer
+  - Recursos de ManageFlow e PowerApps

@@ -1,2 +1,21 @@
-- name: Microsoft Certifications
+- name: Certificações Microsoft
   href: index.yml
+- name: Ofertas
+  href: deals.md
+- name: Licenciamento por volume
+  href: volume-licensing-program.md
+- name: Certificações, exames e cursos desativados
+  expanded: false
+  items:
+  - name: Certificações desativadas
+    href: retired-certifications.md
+  - name: Exames desativados
+    href: retired-certification-exams.md 
+  - name: Cursos desativados
+    href: retired-courses.md
+- name: Certificação MCT
+  href: mct-certification.md
+- name: Políticas de exames e perguntas frequentes
+  href: certification-exam-policies.md
+- name: Ajuda para certificação
+  href: help.md

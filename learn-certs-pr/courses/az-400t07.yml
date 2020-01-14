@@ -1,0 +1,80 @@
+### YamlMime:Course
+title: Desenvolvimento de estratégia DevOps
+metadata:
+  title: 'Curso AZ-400T07-A: Desenvolvimento de estratégia DevOps'
+  description: 'Curso AZ-400T07-A: Desenvolvimento de estratégia DevOps'
+uid: course.az-400t07
+courseNumber: 'AZ-400T07-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planejar a transformação com objetivos e cronogramas compartilhados.
+- skill: Selecionar um projeto e identificar métricas e KPIs do projeto.
+- skill: Criar uma equipe e estrutura organizacional ágil.
+- skill: Desenvolver uma estratégia de qualidade do projeto.
+- skill: Planejar práticas seguras de desenvolvimento e regras de conformidade.
+- skill: Migrar e consolidar artefatos.
+- skill: Migrar e integrar medidas de controle de origem.
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Este curso fornece o conhecimento e as habilidades para projetar uma estratégia de DevOps. Os estudantes aprenderão a planejar a transformação, selecionar um projeto e criar estruturas de equipe. Os estudantes também aprenderão a desenvolver estratégias de qualidade e segurança. O planejamento para migração e consolidação de artefatos e controle de origem também será abordado.
+
+  #### Perfil do público
+  Os estudantes deste curso estão interessados no planejamento de projetos DevOps ou em serem aprovados no exame de certificação Soluções de Microsoft Azure DevOps.
+prerequisitesSection: |-
+  - Conhecimento básico do Azure, controle de versão, desenvolvimento de software Agile e noções básicas de desenvolvimento de software. A experiência em uma organização que produz software é desejável.
+  - Além disos, é recomendável que você tenha experiência profissional em IDEs, bem como algum conhecimento do portal do Azure. No entanto, os estudantes que não possuam formação técnica nessas tecnologias, mas desejam saber mais sobre as práticas do DevOps como uma mudança de cultura, devem ser capazes de seguir as explicações processuais e expositivas da integração contínua.
+outlineSection: |-
+  ### Módulo 1&#58; Planejamento de DevOps
+  Neste módulo, os alunos aprenderão sobre planejamento de transformação, seleção de projetos e estruturas de equipe.
+  #### Lições
+  - Planejamento de transformação
+  - Seleção de projetos
+  - Estruturas da equipe
+
+
+  #### Laboratório&#58; Planejamento ágil e gerenciamento de portfólio com Azure Boards
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Planejar a transformação com objetivos e cronogramas compartilhados
+  - Selecionar um projeto e identificar métricas e KPIs do projeto
+  - Criar uma equipe e estrutura organizacional ágil
+
+
+  ### Módulo 2&#58; Planejamento da qualidade e segurança
+  Neste módulo, os alunos aprenderão sobre o desenvolvimento de uma estratégia de qualidade e o planejamento para um desenvolvimento seguro.
+  #### Lições
+  - Planejamento de estratégia de qualidade
+  - Planejamento de desenvolvimento seguro
+
+
+  #### Laboratório&#58; Gerenciamento de sinalizador de recursos com LaunchDarkly e AzureDevOps
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Desenvolver uma estratégia de qualidade do projeto
+  - Planejar práticas seguras de desenvolvimento e regras de conformidade.
+
+
+  ### Módulo 3&#58; Migração e consolidação de artefatos e ferramentas
+  Neste módulo, os alunos aprenderão sobre a migração e consolidação de artefatos e a migração e integração de medidas de controle de origem.
+  #### Lições
+  - Migração e consolidação de artefatos
+  - Migração e integração do controle de origem
+
+
+  #### Laboratório&#58; Integração do Azure Repos e Azure Pipelines com o Eclipse
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Migrar e consolidar artefatos
+  - Migrar e integrar medidas de controle de origem

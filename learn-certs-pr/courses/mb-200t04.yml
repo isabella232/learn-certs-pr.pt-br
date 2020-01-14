@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: 'Dynamics 365: Teste e implantação da Power Platform'
+metadata:
+  title: 'Curso MB-200T04-A: Dynamics 365: Teste e implantação da Power Platform'
+  description: 'Curso MB-200T04-A: Dynamics 365: Teste e implantação da Power Platform'
+uid: course.mb-200t04
+courseNumber: 'MB-200T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Habilite e atualize aplicativos primários.
+- skill: Instale aplicativos de terceiros.
+- skill: Configure soluções gerenciadas e não gerenciadas.
+- skill: Soluções de atualização e correção.
+- skill: Distribua soluções.
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  A Microsoft Power Platform ajuda as organizações a otimizar suas operações automatizando tarefas rotineiras e padronizando as melhores práticas. Este treinamento fornece uma visão geral de alto nível dos recursos do Microsoft Dynamics 365 e da Power Platform e fornece uma base para outras ofertas de treinamento do Microsoft Dynamics 365 e Power Platform.
+
+  Neste curso, nossos especialistas reconhecidos globalmente guiam os alunos pelas soluções de gerenciamento e sua implantação.
+
+  #### Perfil do público
+  Um consultor funcional do Dynamics 365 Customer Engagement é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+prerequisitesSection: |-
+  Familiaridade dos aplicativos de negócios e o desejo de personalizá-los e implementá-los para os negócios.
+outlineSection: |-
+  ### Módulo 1&#58; Gerenciar instâncias e aplicativos
+  Neste módulo, os alunos aprenderão como habilitar e atualizar aplicativos de terceiros, instalar aplicativos de terceiros e configurar usando portais de administrador.
+  #### Lições
+  - Visão geral
+  - Gerenciar aplicativos
+  - Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Habilitar e atualizar aplicativos de terceiros
+  - Instale aplicativos de terceiros
+
+
+  ### Módulo 2&#58; Gerenciar soluções
+  Neste módulo, os alunos aprenderão como criar, gerenciar e implantar soluções.
+  #### Lições
+  - Conceitos de solução
+  - Planejamento e criação de soluções
+  - Trabalhando com componentes da solução
+  - Distribuindo soluções
+  - Trabalhando com soluções gerenciadas
+  - Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar, gerenciar e implantar personalizações com soluções
+
+
+  ### Módulo 3&#58; Considerações adicionais sobre implantação
+  Neste módulo, os alunos aprenderão como configurar para dispositivos móveis e implantar componentes como o Microsoft Flow.
+  #### Lições
+  - Configurar
+  - Configuração geral móvel
+  - Configuração móvel
+  - Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar para celular
+  - Implantar componentes
+
+
+  ### Módulo 4&#58; Documentação e teste
+  Neste módulo, os alunos aprenderão como projetar planos de teste e executar ajustes de desempenho.
+  #### Lições
+  - Criando planos de teste
+  - Teste de interface do usuário
+  - Otimização e ajuste de desempenho
+  - Documentação
+  - Interagir com o cliente
+  - Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar e usar planos de teste
+  - Localizar ferramentas de ajuste de desempenho

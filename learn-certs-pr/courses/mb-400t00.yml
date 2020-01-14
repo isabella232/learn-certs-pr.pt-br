@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: 'Microsoft PowerApps + Dynamics 365 Developer'
+metadata:
+  title: 'Curso MB-400T00-A: Microsoft PowerApps + Dynamics 365 Developer '
+  description: 'Curso MB-400T00-A: Microsoft PowerApps + Dynamics 365 Developer '
+uid: course.mb-400t00
+courseNumber: 'MB-400T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Criar e documentar um modelo de dados
+- skill: Implementar entidades e campos
+- skill: Criar e manter soluções
+- skill: Processos de negócios automatizados
+- skill: Estenda a experiência do usuário
+- skill: Desenvolver integrações
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-400
+summary: |-
+  A Microsoft Power Platform ajuda as organizações a otimizar suas operações automatizando tarefas rotineiras e padronizando as melhores práticas de negócios. Um desenvolvedor PowerApps é um desenvolvedor de software profissional que estende a Power Platform para resolver problemas de negócios complexos. Neste curso, os Desenvolvedores do PowerApps desenvolverão seus conhecimentos existentes sobre a Power Platform, pilha da Microsoft e ferramentas e práticas de desenvolvimento padrão. Os desenvolvedores do PowerApps aprenderão como estimar esforço e escopo; validar requisitos e projetar arquitetura técnica; criar modelos de dados; determinar ferramentas de implementação; e documentar seu design técnico. Os tópicos gerais incluirão a implementação de segurança e acessibilidade do usuário; gerenciamento de ambientes; estendendo o Common Data Service; criando e usando recursos da web; e trabalhando com plug-ins.
+
+  #### Perfil do público
+  
+  Um desenvolvedor PowerApps é responsável por projetar, desenvolver, proteger, estender e integrar uma implementação de plataforma. O desenvolvedor implementa componentes da solução que incluem aprimoramentos de aplicativos, experiência personalizada do usuário, integrações de sistemas, conversões de dados, automação de processos e visualizações personalizadas. 
+ 
+prerequisitesSection: |-
+  Antes de participar deste curso, os alunos devem ter&#58;
+  
+  - Um entendimento básico da Power Platform.
+  - Experiência em desenvolvimento de software com o Microsoft stack e o Visual Studio.
+  - Experiência na administração de soluções no Azure (preferencial).
+outlineSection: |-
+  ### Módulo 1&#58; Introdução ao desenvolvimento com a Power Platform
+  
+  Neste módulo, os alunos aprenderão sobre os recursos do desenvolvedor e como aproveitá-los para estender a Power Platform.
+
+  #### Lições
+  Introdução aos recursos do desenvolvedor do Power Platform
+  - Usar ferramentas de desenvolvedor para estender a Power Platform
+  - Introdução à extensão da Power Platform
+  
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  
+  - Identificar a funcionalidade das ferramentas do desenvolvedor
+  - Utilizar ferramentas de desenvolvedor
+
+  ### Módulo 2&#58; - Estendendo o Serviço de Dados Comuns da Power Platform
+  
+  Neste módulo, os alunos aprenderão como e quando usar plug-ins ou outras ferramentas para estender o Common Data Service.
+  
+  #### Lições
+  - Introdução ao serviço de dados comum para desenvolvedores
+  - Estender plug-ins
+  
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  
+  - Escrever um plug-in
+  - Usar um plug-in para estender o serviço de dados comum
+
+  ### Módulo 3&#58; Estendendo a experiência do usuário da Power Platform
+  
+  Neste módulo, os alunos aprenderão como aproveitar os recursos da Web e o script do cliente para estender a experiência do usuário da Power Platform.
+  
+  #### Lições
+  - Introdução aos recursos da web
+  - Executar ações comuns com script do cliente
+  - Automatizar fluxos de processos de negócios com script do cliente
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+
+  - Usar recursos da web
+  - Escrever script do cliente
+  - Estender fluxos de processos de negócios

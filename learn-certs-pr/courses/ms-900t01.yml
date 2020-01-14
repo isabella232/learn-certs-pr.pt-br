@@ -1,0 +1,98 @@
+### YamlMime:Course
+title: Microsoft 365 Fundamentals
+metadata:
+  title: 'Curso MS-900T01-A: Microsoft 365 Fundamentals'
+  description: 'Curso MS-900T01-A: Microsoft 365 Fundamentals'
+uid: course.ms-900t01
+courseNumber: 'MS-900T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Diferenciar os vários modelos de serviço em nuvem.
+- skill: Identificar as principais diferenças entre o Microsoft 365 e o Office 365.
+- skill: Planejar a migração para os serviços do Microsoft 365.
+- skill: Identificar as principais diferenças entre os serviços locais da Microsoft e os serviços em nuvem do Microsoft 365.
+- skill: Definir a mobilidade corporativa no Microsoft 365.
+- skill: Identificar como os serviços do Microsoft 365 oferecem suporte ao trabalho em equipe.
+- skill: Descrever identidades, incluindo nuvem, local e identidade híbrida.
+- skill: Descrever o gerenciamento e a proteção de dispositivos em nuvem, incluindo o uso do Intune.
+- skill: Descrever a proteção de dados, incluindo o uso do Azure Information Protection.
+- skill: Descrever a conformidade em geral e os recursos de conformidade no Microsoft 365.
+- skill: Descrever assinaturas, licenças, cobrança e suporte do Microsoft 365
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-user
+- administrator
+products:
+- m365
+- windows
+- office-365
+exams:
+- uid: exam.ms-900
+summary: |-
+  Este curso fornece conhecimento básico sobre as considerações e benefícios da adoção de serviços em nuvem e do modelo de nuvem Software como Serviço (SaaS), com foco específico nas ofertas de serviços em nuvem do Microsoft 365. Você começará aprendendo sobre os fundamentos da nuvem, incluindo uma visão geral da computação em nuvem e, especificamente, dos serviços em nuvem da Microsoft. Você será apresentado ao Microsoft Azure e examinará as diferenças entre o Microsoft 365 e o Office 365. Você realizará uma revisão aprofundada do Microsoft 365, incluindo uma comparação dos serviços locais da Microsoft com os serviços em nuvem do Microsoft 365, uma revisão da mobilidade corporativa no Microsoft 365 e uma análise de como os serviços do Microsoft 365 fornecem colaboração. O curso analisa como a segurança, a conformidade, a privacidade e a confiança são tratadas no Microsoft 365 e termina com uma análise das assinaturas, licenças, cobrança e suporte do Microsoft 365.
+
+  #### Perfil do público
+  Este curso foi desenvolvido para profissionais de TI que desejam implantar e gerenciar serviços em nuvem em sua organização ou que simplesmente desejam adquirir conhecimento básico sobre os fundamentos da nuvem. Isso inclui as considerações e os benefícios da adoção de serviços em nuvem em geral e do modelo de nuvem Software como Serviço (SaaS) especificamente, com foco geral nas ofertas de serviços em nuvem do Microsoft 365.
+prerequisitesSection: |-
+  Este curso foi desenvolvido
+  para profissionais de TI que desejam implantar e gerenciar serviços em nuvem em sua
+  organização. Os alunos devem ter o seguinte histórico&#58;
+  - Conhecimento geral de TI ou qualquer experiência geral Trabalhando em um ambiente de TI
+  - Experiência geral (nível de vendas) nos produtos Microsoft correspondentes no local, como Exchange Server, SharePoint, Office Professional, AD RMS e outros
+  - Experiência em atender aos requisitos comerciais/legais/de segurança para TI
+outlineSection: |-
+  ### Módulo 1&#58; Conceitos de nuvem
+  #### Lições
+  - Princípios da computação em nuvem
+  - Serviços em Nuvem da Microsoft
+  - Migrando para serviços em nuvem
+
+
+  #### Laboratório&#58; Fundamentos da nuvem
+  - Exercício 1&#58; Determinar o modelo de nuvem apropriado (laboratório baseado em papel)
+
+
+  ### Módulo 2&#58; Serviços principais do Microsoft 365
+  #### Lições
+  - Serviços principais do Microsoft 365
+  - Serviços locais da Microsoft e serviços em nuvem no Microsoft 365
+  - Gerenciamento unificado de terminais no Microsoft 365
+  - Trabalho em equipe no Microsoft 365
+
+
+  #### Laboratório&#58; Habilitando e configurando um inquilino do Microsoft 365
+  - Exercício 1&#58; Ativando e configurando um inquilino do Microsoft 365
+  - Exercício 2&#58; Explorando o Portal de Usuário e Administrador do Microsoft 365
+  - Exercício 3&#58; Configurando novas contas de usuário e grupo
+
+
+  ### Módulo 3&#58; Segurança, conformidade, privacidade e confiança no Microsoft 365
+  #### Lições
+  - Organizational Security Fundamentals
+  - Recursos de segurança no Microsoft 365
+  - Gerenciamento de identidade e acesso
+  - Proteção de dispositivo e dados no Microsoft 365
+  - Conformidade no Microsoft 365
+
+
+  #### Laboratório&#58; Segurança no Microsoft 365
+  - Exercício 1&#58; Gerenciando usuários e dispositivos no Azure Active Directory
+  - Exercício 2&#58; Avaliar proteção de identidade
+  - Exercício 3&#58; Explore ferramentas para conformidade
+
+
+  ### Módulo 4&#58; Preços e suporte do Microsoft 365
+  #### Lições
+  - Assinaturas, licenças e cobrança do Microsoft 365
+  - Suporte no Microsoft 365
+
+
+  #### Laboratório&#58; Gerenciando assinaturas, licenciamento e suporte no M365
+  - Exercício 1&#58; Explore interfaces para cobrança e assinaturas
+  - Exercício 2&#58; Adicionar licenças de avaliação ao inquilino
+  - Exercício 3&#58; Revise as opções de suporte'

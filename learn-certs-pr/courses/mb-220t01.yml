@@ -1,0 +1,127 @@
+### YamlMime:Course
+title: Definir configurações e funcionalidade principal no Dynamics 365 for Marketing
+metadata:
+  title: 'Curso MB-220T01-A: Definir configurações e funcionalidade principal no Dynamics 365 for Marketing'
+  description: 'Curso MB-220T01-A: Definir configurações e funcionalidade principal no Dynamics 365 for Marketing'
+uid: course.mb-220t01
+courseNumber: 'MB-220T01-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Definir configuração avançada
+- skill: Gerenciar conteúdo de marketing, modelos e integrações
+- skill: Criar e gerenciar leads
+- skill: Avaliar a prontidão de vendas através de modelos de pontuação de leads
+- skill: Projetar e criar formulários e páginas de marketing
+- skill: Criar e gerenciar segmentos, centrais de assinaturas, listas e inscrição dupla
+- skill: Projetar e criar mensagens de email
+- skill: Configurar e iniciar jornadas de clientes
+- skill: Ver, entender e gerenciar as percepções dos clientes
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-marketing
+exams:
+- uid: exam.mb-220
+summary: |-
+  Transformação, organização e crescimento de marketing começam aqui. Com o Dynamics 365 for Marketing, os clientes em potencial podem se transformar em relacionamentos comerciais. Encontre e alimente mais leads prontos para vendas, indo além do marketing básico por email. Conecte vendas e marketing, automatize processos e tome decisões mais inteligentes para maximizar o ROI do marketing.
+
+  Este curso analisa a configuração do aplicativo de marketing necessária para começar. Ele mergulha na criação, gerenciamento e pontuação de leads. A partir daí, o curso aborda a criação de formulários e páginas de marketing. Em seguida, os alunos aprendem como dividir leads e contatos por meio de segmentação para ajudar a concentrar os esforços de marketing. Em seguida, os alunos aprendem a criar mensagens de marketing por email usando a funcionalidade avançada de designer. Então, todas as peças são unidas à jornada do cliente. O Dynamics 365 for Marketing permite que as jornadas dos clientes criem um modelo que ajude a guiar os membros de um segmento de marketing selecionado por esse processo usando mensagens automatizadas, geração de atividades, pontos de decisão interativos e muito mais. Por fim, os alunos aprendem a visualizar, entender e gerenciar as percepções dos clientes.
+
+  Aprenda todas as configurações e funcionalidades principais do Dynamics 365 for Marketing através de demonstrações personalizadas, verifique questões de conhecimento e laboratórios de aprendizado práticos.
+
+  #### Perfil do público
+  Este curso foi desenvolvido para profissionais de TI ou de marketing que desejam aprender a aproveitar o Dynamics 365 for Marketing para empresas.
+prerequisitesSection: |-
+ Antes de participar deste curso, os estudantes devem&#58;
+  - Uma compreensão dos conceitos básicos do Dynamics 365 e conhecimento dos princípios, estratégias e procedimentos de marketing
+outlineSection: |-
+  ### Módulo 1&#58; Configuração de aplicativos de marketing
+  Neste módulo, os alunos aprenderão sobre configurações avançadas, conteúdo de marketing, modelos e integrações no Dynamics 365 for Marketing.
+  #### Lições
+  - Definir configuração avançada
+  - Gerenciar conteúdo e modelos de marketing
+  - Gerenciar integrações do LinkedIn e do Power BI
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Definir configurações avançadas, como o&#58; organização, gerenciamento de negócios, conteúdo, marketing e configurações de eventos
+  - Gerenciar conteúdo e modelos de marketing  
+
+
+  ### Módulo 2&#58; Leads
+  Este módulo analisará como criar, gerenciar e pontuar leads.
+  #### Lições
+  - Criar e gerenciar leads
+  - Avaliar a prontidão das vendas
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar e gerenciar leads
+  - Sincronizar leads do LinkedIn
+  - Avaliar a prontidão de vendas usando modelos de pontuação de leads
+
+
+  ### Módulo 3&#58; Formulários e páginas de marketing
+  Este módulo abordará como criar formulários e páginas de marketing.
+  #### Lições
+  - Criar formulários de marketing
+  - Criar páginas de marketing
+  - Gerenciar marketing na internet
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar formulários de marketing e incorporá-los nas páginas de marketing
+  - Criar uma página de marketing
+  - Visualizar, validar e entrar ao vivo com uma página de marketing
+  - Criar formulário de marketing e modelos de página
+
+
+  ### Módulo 4&#58; Segmentos e listas
+  Este módulo abordará como gerenciar segmentos, centrais de assinaturas, listas e inscrição dupla.
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar segmentos estáticos e dinâmicos
+  - Criar uma lista de assinaturas
+  - Configurar uma página da central de assinaturas
+  - Configurar e ativar um processo de aceitação dupla
+
+
+  ### Módulo 5&#58; E-mails de marketing
+  Este módulo abordará como criar mensagens de email no Dynamics 365 for Marketing.
+  #### Lições
+  - Criar mensagens de e-mail
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar e criar mensagens de email
+  - Visualizar, validar e entrar no ar com mensagens de email
+  - Salvar uma mensagem de email como modelo
+
+
+  ### Módulo 6&#58; Jornadas do cliente
+  Este módulo revisará o processo de criação da jornada do cliente.
+  #### Lições
+  - Criar jornadas do cliente
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar uma jornada do cliente a partir de um modelo
+  - Identificar blocos e propriedades da jornada do cliente
+  - Validar e entrar ao vivo com uma jornada do cliente
+  - Criar uma jornada do cliente com base na conta
+  - Compreender os recursos do calendário de marketing
+
+
+  ### Módulo 7&#58; Insights
+  Este módulo demonstrará como visualizar, entender e gerenciar as percepções dos clientes.
+  #### Lições
+  - Insights de mercado
+  - Insights sobre o cliente
+  - Insights de execução de marketing
+  - Insights de gerenciamento de leads
+  - Insights de marketing na internet
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Localizar informações
+  - Entender insights de marketing, como&#58; URL de contato, segmento, jornada do cliente, email de marketing, lead, pontuação de lead, formulário de marketing, página de marketing, site e redirecionamento

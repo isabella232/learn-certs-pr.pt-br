@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: Desenvolver soluções de computação de Plataforma Azure como Serviço
+metadata:
+  title: 'Curso AZ-203T02-A: Desenvolver soluções de computação de Plataforma Azure como Serviço'
+  description: 'Curso AZ-203T02-A: Desenvolver soluções de computação de Plataforma Azure como Serviço'
+uid: course.az-203t02
+courseNumber: 'AZ-203T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  Neste curso, os alunos obterão o conhecimento e as habilidades necessárias para implementar os recursos e serviços da Plataforma do Azure como Serviço em suas soluções de desenvolvimento. Os estudantes aprenderão a criar e gerenciar recursos do Serviço de Aplicativo do Azure, integrar a sincronização de push e offline em seus aplicativos móveis e como documentar uma API. Os alunos também aprenderão a criar e testar o Azure Functions.
+
+  #### Perfil do público
+  - Os estudantes deste curso estão interessados no desenvolvimento do Azure ou na aprovação no exame de certificação Microsoft Azure Developer Associate.
+  - Os estudantes devem ter 1-2 anos de experiência como desenvolvedor. Este curso pressupõe que os alunos saibam codificar e tenham conhecimento básico do Azure.
+prerequisitesSection: |-
+  - Os estudantes devem ter 1-2 anos de experiência como desenvolvedor. Este curso pressupõe que os alunos saibam codificar e tenham conhecimento básico do Azure.
+  - É recomendável que os estudantes tenham alguma experiência no PowerShell ou CLI do Azure ou experiência profissional no portal do Azure e pelo menos em uma linguagem de programação suportada pelo Azure. A maioria dos exemplos deste curso é apresentada em C# .NET.
+outlineSection: |-
+  ### Módulo 1&#58; Criação de Web Apps usando o Serviço de Aplicativo
+  O recurso Web Apps do Serviço de Aplicativo do Azure (ou Web Apps) permite hospedar aplicativos Web, APIs REST e back-ends móveis. O Web Apps otimiza os recursos do Microsoft Azure em seu aplicativo por meio de segurança, balanceamento de carga, dimensionamento automático e gerenciamento automatizado.
+  #### Lições
+  - Conceitos básicos do Serviço de Aplicativo do Azure
+  - Criação de aplicativos da Web com o Serviço de Aplicativo do Azure
+  - Criação de tarefas em segundo plano usando WebJobs no Serviço de Aplicativo do Azure
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender os conceitos e recursos básicos do Serviço de Aplicativo
+  - Criar aplicativos Web com o Serviço de Aplicativo usando a CLI e o Portal do Azure e o PowerShell
+  - Criar WebJobs contínuos e acionados
+
+
+  ### Módulo 2&#58; Criação de aplicativos móveis com o Serviço de Aplicativo do Azure
+  O recurso Mobile Apps do Serviço de Aplicativo do Azure oferece aos desenvolvedores corporativos e integradores de sistemas uma plataforma de desenvolvimento de aplicativos móveis altamente escalável e disponível a nível global.
+  #### Lições
+  - Introdução aos aplicativos móveis no Service de Aplicativo
+  - Ativação de notificações push para seu aplicativo
+  - Ativação da sincronização offline para seu aplicativo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Enviar o aplicativo por push ao serviço Mobile App
+  - Registrar aplicativos para notificações push
+
+
+  ### Módulo 3&#58; Criação de aplicativos de API com o Serviço de Aplicativo do Azure
+  Este módulo descreve como criar e documentar uma API do Serviço de Aplicativo do Azure.
+  #### Lições
+  - Criação de APIs
+  - Uso do Swagger para documentar uma API
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar uma instância de APIM e criar uma nova API
+  - Usar o Swashbuckle para criar objetos Swagger no ASP.NET Core
+
+
+  ### Módulo 4&#58; Implementação do Azure Functions
+  O Azure Functions é uma solução que executa pequenos blocos de código, ou “funções”, na nuvem. É possível escrever apenas o código necessário para o problema em questão, sem se preocupar com um aplicativo inteiro ou com a infraestrutura para executá-lo.
+  #### Lições
+  - Visão geral do Azure Functions
+  - Desenvolvimento do Azure Functions usando o Visual Studio
+  - Implementação de funções duráveis
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender os recursos e funcionalidades básicas do Azure Functions
+  - Criar funções, associações e gatilhos
+  - Conhecer os padrões comuns para funções duráveis e ser capaz de criá-los

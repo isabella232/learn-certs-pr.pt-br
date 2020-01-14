@@ -1,0 +1,126 @@
+### YamlMime:Course
+title: Configurando o Windows 10
+metadata:
+  title: 'Curso MD-100T02-A: Configurando o Windows 10'
+  description: 'Curso MD-100T02-A: Configurando o Windows 10'
+uid: course.md-100t02
+courseNumber: 'MD-100T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configure dispositivos e drivers para Windows.
+- skill: Configure o armazenamento para Windows.
+- skill: Definir as configurações de rede no Windows.
+- skill: Configurar o gerenciamento remoto do Windows.
+- skill: Configurar e gerencie aplicativos no Windows.
+- skill: Configurar o Internet Explorer.
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  In Neste curso, os alunos aprenderão como dar suporte às tarefas de configuração
+  associado ao Windows 10. Os alunos desenvolverão habilidades que incluem gerenciamento
+  armazenamento, arquivos, drivers e impressoras, além de como configurar a rede
+  conectividade para Windows 10 Este curso também abordará o gerenciamento e implantação de
+  aplicativos.
+
+  #### Perfil do público
+  Candidatos
+  para este exame, profissionais de TI que realizam instalação, configuração,
+  gerenciamento local geral e manutenção dos principais serviços do Windows 10.
+  Os candidatos também podem estar familiarizados com os cenários empresariais e com serviços integrados na nuvem.
+  serviços.
+prerequisitesSection: |-
+  Candidatos
+  para este exame, profissionais de TI que realizam instalação, configuração,
+  gerenciamento local geral e manutenção dos principais serviços do Windows 10.
+  Os candidatos também podem estar familiarizados com os cenários empresariais e com serviços integrados na nuvem.
+  serviços.
+outlineSection: |-
+  ### Módulo 1&#58; Configurando Periféricos e Drivers
+  Este módulo abordará a configuração do dispositivo. Os alunos aprenderão como os drivers de dispositivo funcionam e como instalá-los. Os alunos também serão apresentados ao gerenciamento e configuração de periféricos de hardware, como impressoras.
+  #### Lições
+  - Gerenciando dispositivos e drivers
+  - Gerenciando impressoras
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os conceitos relacionados aos drivers
+  - Instalar um driver de dispositivo
+  - Descrever conceitos de gerenciamento de impressoras
+  - Configurar impressão no lado do cliente e Gerenciar propriedades do servidor de impressão
+
+
+  ### Módulo 2&#58; Configurando a rede
+  Neste módulo, os alunos aprenderão sobre os conceitos de rede. Este módulo apresentará o IPv4 e o IPv6 e conceitos como DNS.  Os alunos aprenderão como definir as configurações de rede no Windows, bem como aprenderão sobre as tecnologias de rede sem fio. O módulo será concluído com métodos de gerenciamento do Windows remotamente.
+  #### Lições
+  - Configurar a conectividade da rede de IP
+  - Implementar resolução de nome
+  - Implementar conectividade de rede sem fio
+  - Visão geral de acesso remoto
+  - Gerenciamento remoto
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os diferentes tipos de aplicativos
+  - Instalar aplicativos manualmente e usando métodos automatizados
+  - Gerenciar a implantação de aplicativos usando a Windows Store
+  - Aprender sobre os recursos do navegador da Web no Windows 10
+
+
+  ### Módulo 3&#58; Configurando o armazenamento
+  Este módulo abrange a configuração e o gerenciamento de armazenamento no Windows 10.  Os alunos serão apresentados a opções de armazenamento local, na nuvem e virtual. Este curso também abordará a configuração do armazenamento em dispositivos clientes e introduzirá espaços de armazenamento.
+  #### Lições
+  - Visão geral das opções de armazenamento
+  - Usando o OneDrive
+  - Gerenciamento de discos, partições e volumes
+  - Manutenção de discos e volumes
+  - Gerenciando espaços de armazenamento
+
+
+  #### Laboratório&#58; Laboratório de Prática&#58; Gerenciando o armazenamento
+  - Adicionando um disco
+  - Criando um volume simples
+  - Compactando uma pasta
+  - Ativando cotas de disco
+  - Criando um espaço de armazenamento
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever as opções e os benefícios do armazenamento local, na nuvem e virtual
+  - Configurar o OneDrive
+  - Configure partições e volumes de disco local.
+  - Descrever os recursos e benefícios dos espaços de armazenamento.
+
+
+  ### Módulo 4&#58; Gerenciando aplicativos no Windows 10
+  Neste módulo, os alunos serão apresentados ao gerenciamento de aplicativos no Windows 10. Este módulo abordará os diferentes tipos de aplicativos e métodos de instalação suportados.  Os alunos aprenderão como instalar aplicativos usando métodos manuais e automatizados, bem como gerenciar a entrega de aplicativos usando a Windows Store. Por fim, este módulo abordará as diferenças entre o Internet Explorer e o Microsoft Edge.
+  #### Lições
+  - Fornecer aplicativos para usuários
+  - Gerenciar aplicativos universais do Windows
+  - A loja do Windows
+  - Navegadores da Web no Windows 10
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os diferentes tipos de aplicativos
+  - Instalar aplicativos manualmente e usando métodos automatizados
+  - Gerenciar a implantação de aplicativos usando a Windows Store
+  - Aprender sobre os recursos do navegador da Web no Windows 10
+
+
+  ### Módulo 5&#58; Conclusão do Curso
+  #### Lições
+  - Exame Final
+
+
+  #### Laboratório&#58; Graded Lab

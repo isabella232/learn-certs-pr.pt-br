@@ -1,0 +1,68 @@
+### YamlMime:Course
+title: Agendamento de Recursos Universal para Dynamics 365 for Field Service
+metadata:
+  title: 'Curso MB-240T03-A: Agendamento de Recursos Universal para Dynamics 365 for Field Service'
+  description: 'Curso MB-240T03-A: Agendamento de Recursos Universal para Dynamics 365 for Field Service'
+uid: course.mb-240t03
+courseNumber: 'MB-240T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificar os principais componentes usados ​​para agendar itens.
+- skill: Configurar o aplicativo para aproveitar melhor os recursos de agendamento.
+- skill: Aproveitar os recursos de agendamento para localizar e agendar recursos para o trabalho.
+- skill: Adaptar o aplicativo para melhor representar as necessidades organizacionais.
+- skill: Desenvolver soluções que podem ser usadas para agendar recursos únicos ou múltiplos.
+- skill: Identificar as opções de extensão disponíveis como parte do Universal Resource Scheduling.
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  Qualquer organização que requer recursos para executar serviços precisa ser capaz de identificar e agendar com eficiência, com base nos requisitos definidos pelas necessidades da organização. A solução Universal Resource Scheduling do Dynamics 365 permite que as organizações gerenciem e agendem esses recursos com mais eficiência, fornecendo um conjunto de ferramentas configurável.
+
+  Este curso fornecerá aos alunos as habilidades necessárias para configurar e consumir as ferramentas disponíveis para gerenciar com mais eficiência os recursos organizacionais. Os principais tópicos incluem a identificação de onde começar, bem como as considerações organizacionais que orientarão as decisões de agendamento de recursos. Um foco principal será sobre como aproveitar melhor as ferramentas disponíveis para localizar e agendar recursos, como o uso do quadro de agendamento e do assistente de agendamento. Além disso, examinaremos os cenários de personalização, como ativar itens para agendamento, definir opções do quadro de agendamento, trabalhar com vários quadros de agendamento e estender a funcionalidade principal de agendamento.     
+
+  Este curso ajuda os alunos a entender melhor o que é importante para as organizações ao agendar recursos e se concentra nas considerações de implementação que auxiliam no projeto de soluções mais eficientes e alinhadas com os objetivos organizacionais e do cliente. 
+
+prerequisitesSection: |-
+  Compreensão básica dos recursos, funcionalidades e navegação do Dynamics 365.
+outlineSection: |-
+  ### Módulo 1&#58; Programação Universal de Recursos
+  #### Lições
+  - Visão geral e configuração do Universal Resource Scheduling (URS)
+  - Ativando entidades para URS
+  - Considerações de customização e automação da entidade
+
+
+  ### Módulo 2&#58; Gerenciando opções de agendamento
+  #### Lições
+  - Usar o quadro de agendamento
+  - Itens de agendamento
+  - Reagendar e substituir recursos
+  - Agendamento de tripulação e pool de recursos
+
+
+  ### Módulo 3&#58; Personalizando o Quadro de Programação
+  #### Lições
+  - Configure o quadro de agendamento
+  - Criar quadros de agendamento adicionais
+  - Aproveite as visualizações do Dynamics 365 com o quadro de agendamento
+  - Configurar consultas e filtros do quadro de agendamento
+  - Trabalhando com grupos de requisitos
+
+
+  ### Módulo 4&#58; Otimização de agendamento de recursos
+  #### Lições
+  - Visão geral da otimização de agendamento de recursos
+  - Definindo metas de otimização
+  - Definindo escopos de otimização
+  - Definindo perfis de otimização

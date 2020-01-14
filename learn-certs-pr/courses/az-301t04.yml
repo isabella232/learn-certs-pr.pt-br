@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: Desenvolver uma estratégia de infraestrutura
+metadata:
+  title: 'Curso AZ-301T04-A: Desenvolver uma estratégia de infraestrutura'
+  description: 'Curso AZ-301T04-A: Desenvolver uma estratégia de infraestrutura'
+uid: course.az-301t04
+courseNumber: 'AZ-301T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever vários padrões retirados dos padrões de design de nuvem.
+- skill: Distribuir o tráfego de rede em várias cargas por meio de balanceadores de carga.
+- skill: Projetar um cenário de conectividade híbrido entre a nuvem e no local.
+- skill: Projetar um conjunto de disponibilidades para uma ou mais máquinas virtuais.
+- skill: Descrever as diferenças entre falhas e atualizar os domínios.
+- skill: Autorar um modelo de ARM para conjunto de escala de máquina virtual.
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  Aprenda a descrever estratégias de DNS e IP para VNETs no Azure, compare as opções de conectividade para conectividade ad hoc e híbrida, distribua o tráfego de rede em várias cargas usando balanceadores de carga e projete um cenário híbrido de conectividade entre nuvem e no local.
+
+  #### Perfil do público
+  Os arquitetos de soluções de nuvem bem-sucedidos iniciam essa função com experiência prática em sistemas operacionais, virtualização, infraestrutura de nuvem, estruturas de armazenamento, cobrança e rede.
+outlineSection: |-
+  ### Módulo 1&#58; Padrões de arquitetura de aplicativos no Azure
+  Este módulo apresenta e analisa padrões e arquiteturas comuns do Azure, conforme prescrito pela equipe de Padrões e Práticas da Microsoft. Cada padrão é agrupado em categorias de desempenho, resiliência e escalabilidade e descrito no contexto de padrões semelhantes dentro da categoria.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Localizar e consultar a documentação de padrões de design de nuvem.
+  Localizar e consultar o centro de arquitetura do Azure.
+  - Descrever vários padrões retirados dos padrões de design de nuvem.
+
+
+  ### Módulo 2&#58; Construção de aplicativos de servidor baseados em IaaS do Azure (ADSK)
+  Este módulo identifica as cargas de trabalho que são implementadas de maneira ideal por meio de serviços de infraestrutura como serviço no Azure. O módulo se concentra nos conjuntos de escala de máquina virtual (VM) e nos serviços VM no Azure e na melhor forma de implementar cargas de trabalho nesses serviços usando as melhores práticas e recursos, como conjuntos de disponibilidade.
+
+  #### Laboratório&#58; Construção de aplicativos de servidor baseados em IaaS do Azure.
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Projetar um conjunto de disponibilidades para uma ou mais máquinas virtuais.
+  - Descrever as diferenças entre falhas e atualizar os domínios.
+  - Autorar um modelo de Azure Resource Manager (ARM) para conjunto de escala de máquina virtual.
+  - Vincular uma máquina virtualizada a um domínio no Azure ou a uma rede híbrida.
+
+
+  ### Módulo 3&#58; Ligação de componentes de aplicativos do Azure em rede
+  Este módulo descreve as várias opções de rede e conectividade disponíveis para soluções implementadas no Azure. O módulo explora as opções de conectividade que variam de conexões ad hoc a cenários de conectividade híbrida de longo prazo. O módulo também discute alguns dos problemas de desempenho e segurança relacionados ao balanceamento de cargas de trabalho em várias instâncias de computação ao conectar a infraestrutura local à nuvem e ao criar gateways para dados locais.
+
+  #### Laboratório&#58; Implementação da infraestrutura de rede para uso nas soluções do Azure
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever estratégias de DNS e IP para VNETs no Azure.
+  - Comparar as opções de conectividade ad-hoc e híbrida.
+  - Distribuir o tráfego de rede em várias cargas por meio de balanceadores de carga.
+  - Projetar um cenário de conectividade híbrido entre a nuvem e no local.
+
+
+  ### Módulo 4&#58; Integração de componentes da solução Azure usando os serviços de mensagens
+  Este módulo descreve e compara os serviços de integração e de mensagens disponíveis para soluções hospedadas na plataforma Azure. Os serviços de mensagens descritos incluem filas de armazenamento do Azure, filas de barramento de serviço, retransmissão de barramento de serviço, hubs IoT, hubs de eventos e hubs de notificação. Os serviços de integração incluem o Azure Functions e os aplicativos lógicos.
+
+  #### Laboratório&#58; Integração de componentes da solução Azure usando os serviços de mensagens
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Comparar as filas de armazenamento às filas do barramento de serviço.
+  - Identificar quando usar o Azure Functions ou aplicativos lógicos para os componentes de integração em uma solução.
+  - Descrever as diferenças entre os hubs IoT, hubs de eventos e Time Series Insights.

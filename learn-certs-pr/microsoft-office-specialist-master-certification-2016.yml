@@ -1,0 +1,51 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+  description: 'Microsoft Office Specialist: Microsoft Office 2016 Master Specialist'
+uid: certification.microsoft-office-specialist-master-certification-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Esta certificação demonstra que você possui o nível mais profundo das habilidades necessárias para dominar os programas Office obtendo uma certificação Microsoft Office Specialist Master.
+  
+  Para obter uma certificação Microsoft Office Specialist Master, você deve preencher os seguintes requisitos&#58;
+
+  - Ser aprovado em cada um dos três exames obrigatórios
+    - [77-726&#58; Word 2016 Expert&#58; Criação de documentos para uma comunicação eficaz](/learn/certifications/exams/77-726)
+    - [77-728&#58; Excel 2016 Expert&#58; Interpretando dados para obtenção de insights](/learn/certifications/exams/77-728)
+    - [77-729&#58; PowerPoint 2016&#58; Habilidades básicas de design e entrega de apresentações](/learn/certifications/exams/77-729)
+  - Ser aprovado em um dos seguintes exames opcionais 
+    - [77-730&#58; Access 2016&#58; Habilidades básicas de gerenciamento, manipulação e consulta de banco de dados](/learn/certifications/exams/77-730)
+    - [77-731&#58; Outlook 2016&#58; Habilidades básicas de comunicação, colaboração e e-mail](/learn/certifications/exams/77-731)
+  
+subTitle: Esta certificação demonstra que você possui o nível mais profundo das habilidades necessárias para dominar os programas Office obtendo uma certificação Microsoft Office Specialist Master.
+levels:
+- advanced
+skills:
+- Microsoft Office Excel 2016 (obrigatório)
+- Microsoft Office PowerPoint 2016 (obrigatório)
+- Microsoft Office Word 2016 (obrigatório)
+- Microsoft Office Access 2016 (selecione um)
+- Microsoft Office Outlook 2016 (selecione um)
+roles:
+- business-user
+type: mos
+products:
+- office
+exams:
+- uid: exam.77-726
+- uid: exam.77-728
+- uid: exam.77-729
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Resposta ao exame
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx

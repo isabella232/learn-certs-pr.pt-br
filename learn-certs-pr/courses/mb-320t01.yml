@@ -1,0 +1,167 @@
+### YamlMime:Course
+title: Configurar e usar fabricação discreta no Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Curso MB-320T01-A: Configurar e usar a fabricação discreta no Dynamics 365 for Finance and Operations '
+  description: 'Curso MB-320T01-A: Configurar e usar a fabricação discreta no Dynamics 365 for Finance and Operations '
+uid: course.mb-320t01
+courseNumber: 'MB-320T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  As organizações usam o Dynamics 365 for Finance and Operations para executar de maneira mais inteligente as operações conectadas, selecionando os processos de fabricação mais adequados, melhorando os procedimentos operacionais, simplificando o gerenciamento de recursos, acelerando a entrega do produto e aumentando a qualidade e a satisfação do cliente. Este curso discute como configurar e usar a fabricação discreta no Dynamics 365 for Finance and Operations.
+
+  #### Perfil do público
+  Um Consultor Funcional do Dynamics 365 for Finance and Operations é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+prerequisitesSection: |-
+  Compreensão básica dos conceitos de ERP e CRM.
+outlineSection: |-
+  ### Módulo 1&#58; Introdução ao controle de produção
+  Este módulo explica os conceitos usados ​​no módulo de controle de Produção em Finanças e Operações.
+
+  #### Lições
+  - Introdução
+  - Comparar manufatura discreta, enxuta e de processo
+  - Configurar controle de produção para fabricação unificada
+  - Compreender o planejamento de capacidade
+  - Razão geral e módulo de controle de produção
+  - Laboratórios práticos
+  - Sumário
+
+
+  Neste módulo, os alunos aprenderam sobre o&#58;
+  - Metodologias de fabricação discretas, enxutas e de processo
+  - Fabricação unificada
+  - Como configurar o controle de produção para fabricação unificada
+  - Planejador de capacidade
+  - Interconectividade entre o razão geral e os módulos de controle de produção
+  - Pools de produção
+  - Como trabalhar com chaves de alocação
+
+
+  ### Módulo 2&#58; Introdução à Manufatura Discreta
+  Embora os processos de fabricação de cada entidade legal sejam únicos, dependendo da natureza do ambiente de produção, os principais elementos conceituais usados ​​no módulo de controle de produção são frequentemente muito semelhantes.
+  #### Lições
+  - Introdução
+  - Compreender os status discretos do processo de produção
+  - Compreender a Lista de Materiais (BOM)
+  - Trabalhando com configurações de BOM e item
+  - Criar BOM
+  - Ordens de produção
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam sobre o&#58;
+  - Conceitos de fabricação discretos
+  - Estátuas do processo de produção
+  - Fases de produção
+  - BOMs
+  - Recursos
+  - Rotas e Operações
+
+
+  ### Módulo 3&#58; Configurar fabricação discreta
+  Antes de poder trabalhar no módulo de controle de produção e criar ordens de produção, é necessário configurar os parâmetros de produção. Os parâmetros selecionados têm impacto direto na ordem de produção e no ciclo de vida da produção. Os parâmetros podem ser definidos por empresa ou site, o que determina se o Dynamics 365 for Finance and Operations usa os parâmetros no nível da empresa ou os parâmetros específicos do site. Parâmetros, ordens de produção e ciclo de vida revisam como esses parâmetros são definidos, como os nomes dos diários são usados, como as ordens de produção são criadas e as maneiras pelas quais eles são processados ​​através da fabricação com base em seu status e no ciclo de vida da produção. Esta lição explica como configurar a manufatura discreta no Finance and Operations.
+
+  #### Lições
+  - Introdução
+  - Preparar contabilidade para produção
+  - Configurar parâmetros de controle de produção
+  - Configurar calendário e recursos
+  - Configurar operações e rotas.
+  - Laboratório prático
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Configurar dimensões de estoque na produção
+  - Configurar parâmetros, ordens de produção e status
+  - Configurar agendas e recursos
+  - Configurar operações e rotas.
+
+
+  ### Módulo 4&#58; Criar e concluir ordens de produção
+  O ciclo de vida de uma ordem de produção reflete as etapas reais que são tomadas para fabricar um produto. Começa com a criação de uma ordem de produção e termina com um produto acabado e fabricado, pronto para o cliente. A ordem de produção recebe um status que reflete onde está no ciclo de vida da produção. Este módulo revisa os estágios Release, Start, Report como concluído e End no ciclo de vida da produção na ordem em que são conduzidos. Liberar, Iniciar e Relatório como concluídos são considerados parte do controle de produção
+  #### Lições
+  - Introdução
+  - Planejamento, programação e subcontratação de capacidade
+  - Sucata e resíduos
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam&#58;
+  - Compreender o planejamento de capacidade
+  - Criar ordens de produção discretas
+  - Agendar uma ordem de produção
+  - Processar pedidos de produção
+  - Controle e produção final
+
+
+  ### Módulo 5&#58; Trabalhar com planilha de custos
+  Este módulo descreve como configurar uma planilha de custos que inclui material e fabricação, bem como como a configuração afeta os resultados do cálculo da BOM. Os alunos aprenderão como configurar e gerenciar a planilha de custos no Finance and Operations.
+
+
+  Neste módulo, os alunos aprenderam&#58;
+  - Como trabalhar com a planilha de custos
+
+
+  ### Módulo 6&#58; Usar execução de fabricação
+  A execução da fabricação destina-se principalmente a ser usada pelas empresas de fabricação. Os trabalhadores podem registrar o tempo e o consumo de itens nos trabalhos de produção e atividades do projeto usando o formulário Registro de trabalhos. Todos os registros são aprovados e subsequentemente transferidos para os módulos relevantes do Dynamics 365 for Finance and Operations. A aprovação e a transferência contínuas de registros oferecem aos gerentes a capacidade de rastrear facilmente os custos reais nas ordens de produção.
+  #### Lições
+  - Introdução
+  - Compreender as execuções de fabricação
+  - Identificar funções
+  - Considerações de planejamento
+  - Configurar execução de fabricação
+  - Controle de produção
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam a&#58;
+  - Compreender a execução da fabricação
+  - Identificar as funções na execução da fabricação
+  - Processar pedidos de produção
+  - Compreender os fluxos de trabalho do processo para gerenciar uma produção
+
+
+  ### Módulo 7&#58; Introdução à configuração do produto
+  A configuração do produto é uma ferramenta de configuração de produto baseada em restrições que usa a tecnologia de produto Microsoft Solver Foundation (MSF) projetada para modelagem e solução de restrições. Pode-se usar a configuração do produto para criar e manter modelos de configuração do produto e reutilizar componentes e tipos de atributos. Atributos, restrições, subcomponentes, requisitos do usuário, linhas da lista de materiais (BOM) e operações de rota são implicitamente reutilizadas ao reutilizar um componente. Os componentes também podem reutilizar definições de restrição de tabela. Este módulo explica como começar a configurar o produto no Finance and Operations.
+  #### Lições
+  - Introdução
+  - Compreender o modelo de configuração do produto
+  - Construir um modelo de configuração do produto
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam sobre o&#58;
+  - A terminologia que é importante para entender os conceitos e processos associados à configuração do produto
+  - Cenário de ponta a ponta da configuração do produto
+  - As diferentes áreas que abrangem o processo de configuração do produto
+  - O modelo de configuração do produto
+  - Como construir um modelo de configuração do produto
+
+
+  ### Módulo 8&#58; Conclusão do Curso
+  Avaliação final e resumo do curso, bem como uma pesquisa pós-curso.
+  #### Lições
+  - Avaliação final
+  - Resumo do curso
+  - Pesquisa pós-curso
+
+
+  Os alunos terão concluído o curso.

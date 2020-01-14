@@ -1,0 +1,107 @@
+### YamlMime:Course
+title: Protegendo o Windows 10
+metadata:
+  title: 'Curso MD-100T03-A: Protegendo o Windows 10'
+  description: 'Curso MD-100T03-A: Protegendo o Windows 10'
+uid: course.md-100t03
+courseNumber: 'MD-100T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever os métodos para proteger o Windows 10
+- skill: Configurar acesso e autenticação da conta
+- skill: Configurar permissões a arquivos e pastas
+- skill: Criar políticas de segurança
+- skill: Descrever ameaças e métodos comuns para mitigá-los
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  Neste curso, os alunos aprenderão como proteger o sistema operacional Windows 10 e proteger os dados no dispositivo. Os alunos serão apresentados a métodos comuns usados ​​para autenticação e controle de acesso. Este curso ensinará como configurar permissões de arquivo e pasta e criar políticas de segurança. Os alunos também serão apresentados aos diferentes tipos de ameaças externas e a como aproveitar recursos como criptografia e firewalls, além de ferramentas como o Windows Defender.
+
+  #### Perfil do público
+  Os candidatos para este exame são profissionais de TI que realizam a instalação, configuração, gerenciamento local geral e manutenção de serviços básicos do Windows 10. Os candidatos também podem estar familiarizados com os cenários empresariais e com serviços integrados na nuvem.
+prerequisitesSection: |-
+  Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
+  - Entendimento básico de redes de computadores e conceitos de hardware.
+  - Entendimento básico dos conceitos de SO e aplicativo.
+  - Experiência com o uso do sistema operacional Windows.
+outlineSection: |-
+  ### Módulo 1&#58; Configurando Autorização e Autenticação
+  Este módulo apresenta as ferramentas e os recursos do Windows 10 para autorizar o acesso aos clientes Windows 10. Os alunos aprenderão sobre métodos de como os usuários entram no Windows 10.  Este módulo também cobre a restrição do que os usuários podem ou não fazer em um dispositivo através de métodos como Controle de Conta de Usuário (UAC) e tipos de conta.
+  #### Lições
+  - Usando configurações de segurança para mitigar ameaças
+  - Configurar UAC
+  - Implementar o registro do dispositivo
+  - Autenticação
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os diferentes métodos para proteger dados e o sistema operacional Windows 10.
+  - Descrever os diferentes tipos de contas de usuário e serviço.
+  - Configurar o Windows Hello.
+  - Configurando controle de conta do usuário.
+
+
+  ### Módulo 2&#58; Configurando acesso e uso de dados
+  Neste módulo, os alunos aprenderão sobre permissões. Este módulo abordará considerações para diferentes sistemas de arquivos. Os alunos aprenderão como configurar permissões de arquivo e pasta, além de pastas compartilhadas. O módulo concluirá com a definição de configurações por métodos como diretiva local e de grupo.
+  #### Lições
+  - Visão geral dos sistemas de arquivos
+  - Configurando e gerenciando o acesso a arquivos
+  - Configurando e gerenciando pastas compartilhadas
+  - Gerenciar segurança com políticas
+
+
+  #### Laboratório&#58; Configurando e gerenciando permissões e compartilhamentos
+  - Criando, gerenciando e compartilhando uma pasta
+  - Usando condições para controlar o acesso e permissões efetivas
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever as diferenças e os benefícios dos sistemas de arquivos suportados.
+  - Configurar permissões a arquivos e pastas.
+  - Configurar pastas compartilhadas.
+  - Proteger o Windows através das configurações de diretiva local.
+
+
+  ### Módulo 3&#58; Configurando a proteção contra ameaças
+  Este módulo apresenta aos alunos a proteção de dispositivos contra ameaças externas. Os alunos aprenderão sobre os diferentes tipos de ameaças comuns. Este módulo ensinará os alunos sobre o uso de criptografia, firewalls e IPSec para ajudar a proteger contra ameaças. O módulo concluirá como configurar e usar o Windows Defender e o AppLocker.
+  #### Lições
+  - Proteção contra malware e ameaças
+  - Windows Defender
+  - Regras de segurança de conexão
+  - Métodos avançados de proteção
+
+
+  #### Laboratório&#58; Laboratório de Prática&#58; Gerenciando a segurança de rede
+  - Criando e testando regras de entrada
+  - Criando e testando regras de saída
+  - Criando e testando regras de Segurança de Conexão
+  - Configurando o Windows Defender
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Identificar ameaças de segurança comuns
+  - Descrever os métodos pelos quais você pode mitigar essas ameaças de segurança comuns.
+  - Descrever os diferentes métodos de criptografia.
+  - Descrever como o firewall do Windows pode proteger o dispositivo.
+  - Descrever os benefícios do uso do IPSec.
+  - Descrever os diferentes recursos do Windows Defender.
+  - Descrever os benefícios do uso do AppLocker.
+
+
+  ### Módulo 4&#58; Conclusão do Curso
+  #### Lições
+  - Exame Final
+
+
+  #### Laboratório&#58; Graded Lab

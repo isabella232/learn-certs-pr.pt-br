@@ -1,0 +1,71 @@
+### YamlMime:Course
+title: Implementação de gerenciamento de dependência
+metadata:
+  title: 'Curso AZ-400T04-A: Implementação de gerenciamento de dependência'
+  description: 'Curso AZ-400T04-A: Implementação de gerenciamento de dependência'
+uid: course.az-400t04
+courseNumber: 'AZ-400T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Recomendar ferramentas e práticas de gerenciamento de artefatos
+- skill: Pacotes comuns abstratos para permitir o compartilhamento e a reutilização
+- skill: Inspecionar a base de código para identificar as dependências de código que podem ser convertidas em pacotes
+- skill: Identificar e recomendar tipos e versões de pacotes padronizados na solução
+- skill: Reestruturar os pipelines de desenvolvimento existentes para implementar a estratégia de versão que publica pacotes
+- skill: Gerenciar segurança e conformidade
+- skill: Inspecionar os pacotes de software de código aberto para garantir a conformidade com a segurança e a licença, alinhando-se aos padrões corporativos
+- skill: Configurar o pipeline de desenvolvimento para acessar a segurança do pacote e a classificação da licença
+- skill: Configurar acesso seguro a feeds de pacotes
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Este curso fornece o conhecimento e as habilidades para implementar o gerenciamento de dependências. Os estudantes aprenderão a desenvolver uma estratégia de gerenciamento de dependências e a gerenciar a segurança e conformidade.
+
+  #### Perfil do público
+  Os estudantes deste curso estão interessados na implementação de dependência ou em serem aprovados no exame de certificação Soluções de Microsoft Azure DevOps.
+prerequisitesSection: |-
+  Conhecimento básico sobre o Azure, controle de versão, desenvolvimento de software Agile e noções básicas de desenvolvimento de software. A experiência em uma organização que produz software é desejável.
+outlineSection: |-
+  ### Módulo 1&#58; Criação de uma estratégia de gerenciamento de dependências
+  #### Lições
+  - Introdução
+  - Dependências de empacotamento
+  - Gerenciamento de pacotes
+  - Implementação de uma estratégia de versão
+
+
+  #### Laboratório&#58; Atualização de pacotes
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Recomendar ferramentas e práticas de gerenciamento de artefatos
+  - Resumir pacotes comuns para permitir o compartilhamento e a reutilização
+  - Inspecionar a base de código para identificar dependências de código a serem convertidas em pacotes
+  - Identificar e recomendar tipos de pacote padronizado e versões em toda a solução
+  - Refatorar pipelines de compilação existentes para implementar a estratégia de versão de publicação de pacotes
+  - Gerenciar segurança e conformidade
+
+
+  ### Módulo 2&#58; Gerenciar a segurança e conformidade
+  #### Lições
+  - Introdução
+  - Segurança do pacote
+  - Software livre
+  - Integração de verificações de licença e vulnerabilidade
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Inspecionar os pacotes de software de código aberto para garantir a conformidade com a segurança e a licença, alinhando-se aos padrões corporativos
+  - Configurar o pipeline de desenvolvimento para acessar a segurança do pacote e a classificação da licença
+  - Configurar acesso seguro a feeds de pacotes

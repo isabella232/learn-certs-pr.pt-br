@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: Projetando e implementando uma solução Azure AI
+metadata:
+  title: 'Curso AI-100T01-A: Projetando e implementando uma solução Azure AI'
+  description: 'Curso AI-100T01-A: Projetando e implementando uma solução Azure AI'
+uid: course.ai-100t01
+courseNumber: 'AI-100T01-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- ai-engineer
+products:
+- azure
+- azure-cognitive-services
+- azure-bot-service
+- azure-machine-learning-service
+- azure-machine-learning-studio
+- azure-search
+exams:
+- uid: exam.ai-100
+summary: |-
+  Obtenha o conhecimento necessário para projetar a solução do Azure AI criando um Bot de chat de suporte ao cliente usando inteligência artificial da plataforma Microsoft Azure, incluindo entendimento do idioma e funcionalidade de IA integrada aos Serviços Cognitivos do Azure.
+
+  #### Perfil do público
+  Este curso destina-se a arquitetos de soluções em nuvem, designers de inteligência artificial do Azure e desenvolvedores de IA.
+prerequisitesSection: |-
+  Antes de participar deste curso, os estudantes devem&#58;
+  - Conhecer os fundamentos do Azure
+  - Ter compreensão das tecnologias de armazenamento do Azure
+  - Ter experiência em C#
+outlineSection: |-
+  ### Módulo 1&#58; Apresentação dos Serviços Cognitivos do Azure
+  O estudante aprenderá sobre os Serviços Cognitivos disponíveis no Microsoft Azure e seu papel na arquitetura de soluções de IA.
+  #### Lições
+  - Visão geral dos Serviços Cognitivos do Azure
+  - Criação de um serviço cognitivo no portal do Azure
+  - Acesso e teste de um serviço cognitivo
+
+
+  ### Módulo 2&#58; Criação de Bots
+  O aluno aprenderá sobre o Microsoft Bot Framework e serviços de Bot.
+  #### Lições
+  - Introdução ao servidor de Bot
+  - Criação de um Bot de chat básico
+  - Realização de testes com emulador de Bot
+
+
+  ### Módulo 3&#58; Aprimoramento de Bots com QnA Maker
+  O estudante aprenderá sobre o QnA Maker e como integrar os Bots e o QnA Maker para criar uma base de conhecimento útil para interações do usuário.
+  #### Lições
+  - Introdução ao QnA Maker
+  - Implementação de uma base de conhecimento com o QnA Maker
+  - Integração do QnA com um Bot
+
+
+  ### Módulo 4&#58; Aprenda a criar funcionalidades de reconhecimento de voz com o LUIS
+  O estudante aprenderá sobre o reconhecimento de voz com intenções e entidades (LUIS) e como criar intenções e entidades para apoiar uma solução de processamento de idioma natural.
+  #### Lições
+  - Introdução ao reconhecimento de voz
+  - Criação de um novo serviço LUIS
+  - Construção de LUIS
+
+
+  ### Módulo 5&#58; Aprimoramento de Bots com LUIS
+  O estudante aprenderá sobre a integração do LUIS com um Bot para entender melhor as intenções dos usuários ao interagir com o Bot.
+  #### Lições
+  - Visão geral do reconhecimento de voz para aplicativos de IA
+  - Integração do LUIS e Bot para criar uma solução baseada em IA
+
+
+  ### Módulo 6&#58; Integração de serviços cognitivos a Bots e Agentes
+  O estudantes aprenderá sobre a integração de Bots e Agentes aos Serviços Cognitivos do Azure para obtenção de recursos avançados, como análise de sentimentos, análise de imagem e texto e detecção de OCR e objeto.
+  #### Lições
+  - Compreensão dos serviços cognitivos para Interações com Bots
+  - Realização de uma análise de sentimentos para o seu Bot com o Text Analytics
+  - Detecção de idioma em um Bot com os serviços cognitivos de idioma
+  - Integração do Computer Vision com Bots

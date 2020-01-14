@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: Microsoft Azure Fundamentals 
+metadata:
+  title: 'Curso AZ-900T01-A: Microsoft Azure Fundamentals'
+  description: 'Curso AZ-900T01-A: Microsoft Azure Fundamentals'
+uid: course.az-900t01
+courseNumber: 'AZ-900T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compreender os conceitos gerais de computação em nuvem
+- skill: Conhecer os principais serviços disponíveis no Microsoft Azure
+- skill: Compreender a segurança, privacidade, conformidade e confiabilidade do Microsoft Azure
+- skill: Compreender os modelos de preços e suporte disponíveis na Microsoft
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-900
+summary: |-
+  Este curso fornecerá conhecimentos básicos de serviços em nuvem e como esses serviços são fornecidos com o Microsoft Azure. O curso pode ser feito como uma primeira etapa opcional para aprender sobre os serviços em nuvem e o Microsoft Azure antes de fazer outros cursos sobre serviços em nuvem do Microsoft Azure ou Microsoft.
+
+  O curso abordará conceitos gerais de computação em nuvem, bem como modelos e serviços gerais de computação em nuvem, como nuvem pública, privada e híbrida e infraestrutura como serviço (IaaS), plataforma como serviço (PaaS) e software como serviço (SaaS).
+
+  Além disso, descreverá alguns serviços e soluções principais do Azure, bem como os principais serviços de pilar do Azure relacionados à segurança, privacidade, conformidade e confiabilidade. Por último, descreverá os serviços de preços e suporte disponíveis no Azure.
+
+  #### Perfil do público
+  Não há pré-requisitos para fazer este curso. Ele se destina a quem deseja saber mais sobre o Microsoft Azure.
+prerequisitesSection: |-
+  Não há pré-requisitos para fazer este curso. A experiência técnica de TI não é exigida, mas requer algum conhecimento ou experiência geral de TI.
+
+outlineSection: |-
+  ### Módulo 1&#58; Conceitos de nuvem
+  Neste módulo, você aprenderá os conceitos básicos de nuvem.
+  #### Lições
+  - Objetivos de aprendizado
+  - Por que serviços em nuvem?
+  Infraestrutura como serviço (IaaS), plataforma como serviço (PaaS) e software como serviço (SaaS)
+  - Modelos de nuvem pública, privada e híbrida
+
+  Depois de concluir este módulo, os estudantes estarão aptos a&#58;
+  - Compreender os conceitos gerais de computação em nuvem
+
+
+  ### Módulo 2&#58; Serviços essenciais do Azure
+  Neste módulo, você aprenderá os principais serviços básicos disponíveis no Microsoft Azure.
+  #### Lições
+  - Componentes arquitetônicos básicos do Azure
+  - Serviços e produtos básicos do Azure
+  - Soluções do Azure
+  - Ferramentas de gerenciamento do Azure
+
+  Depois de concluir este módulo, os estudantes estarão aptos a&#58;
+  - Compreender os principais serviços disponíveis com
+  Microsoft Azure
+
+  ### Módulo 3&#58; Segurança, privacidade, conformidade e confiabilidade
+  Neste módulo, você aprenderá sobre segurança, privacidade, conformidade e confiabilidade do Microsoft Azure.
+  #### Lições
+  - Proteção da conectividade de rede no Azure
+  - Serviços de identidade básicos do Azure
+  - Ferramentas e recursos de segurança
+  - Metodologias de governança do Azure
+  - Monitoramento e relatórios do Azure
+  - Padrões de privacidade, conformidade e proteção de dados no Azure
+
+  Depois de concluir este módulo, os estudantes estarão aptos a&#58;
+  - Compreender
+  a segurança, privacidade, conformidade e confiabilidade do Microsoft Azure
+
+  ### Módulo 4&#58; Tabela de preços e suporte do Azure
+  Neste módulo, você se concentrará nos modelos de preços e suporte disponíveis na Microsoft.
+  #### Lições
+  - Assinaturas do Azure
+  - Planejamento e gerenciamento de custos
+  - Opções de suporte disponíveis no Azure
+  - Ciclo de vida dos serviços no Azure
+
+  Depois de concluir este módulo, os estudantes estarão aptos a&#58;
+  - Compreender os modelos de preços e suporte disponíveis na Microsoft

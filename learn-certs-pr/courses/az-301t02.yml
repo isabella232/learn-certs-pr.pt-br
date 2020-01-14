@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: Projetando uma solução de plataforma de dados
+metadata:
+  title: 'Curso AZ-301T02-A: Projetando uma solução de plataforma de dados'
+  description: 'Curso AZ-301T02-A: Projetando uma solução de plataforma de dados'
+uid: course.az-301t02
+courseNumber: 'AZ-301T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Determinar a opção de preço ideal para armazenamento do Azure com base nos requisitos de uma solução.
+- skill: Identificar os limites de desempenho para o serviço de armazenamento do Azure.
+- skill: Determine o tipo de blob de armazenamento a ser usado como componente específico da solução.
+- skill: Usar o serviço de arquivos do Azure para operações SMB.
+- skill: Identificar soluções que se beneficiem do uso de dispositivos físicos ou virtuais do StorSimple.
+- skill: Comparar e contrastar os serviços de monitoramento de aplicativos, a plataforma do Azure e a rede.
+- skill: Criar um esquema de alerta para uma solução hospedada no Azure.
+- skill: Selecionar a opção de backup apropriada para infraestrutura e dados hospedados no Azure.
+- skill: Automatizar a implementação de recursos futuros para fins de recuperação ou dimensionamento de backup.
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-301
+summary: |-
+  Aprenda a comparar e contrastar várias opções de banco de dados no Azure, identificar opções de fluxo de dados para ingestão de dados em larga escala e identificar opções de armazenamento de dados a longo prazo.
+
+  #### Perfil do público
+  Os arquitetos de soluções de nuvem bem-sucedidos iniciam essa função com experiência prática em sistemas operacionais, virtualização, infraestrutura de nuvem, estruturas de armazenamento, cobrança e rede.
+outlineSection: |-
+  ### Módulo 1&#58; Fazer backup das soluções do Azure com o armazenamento do Azure
+  Este módulo descreve quantos serviços do Azure usam o serviço de armazenamento do Azure como um armazenamento secundário para outra solução de aplicativo no Azure. O módulo analisa em detalhes os aspectos críticos do uso do armazenamento do Azure como um serviço suplementar para uma solução completa do Azure.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Determinar a opção de preço ideal para armazenamento do Azure com base nos requisitos de uma solução.
+  - Identificar os limites de desempenho para o serviço de armazenamento do Azure.
+  - Determinar o tipo de blob de armazenamento a ser usado como componente específico da solução.
+  - Usar o serviço de arquivos do Azure para operações SMB.
+  - Identificar soluções que se beneficiem do uso de dispositivos físicos ou virtuais do StorSimple.
+
+
+  ### Módulo 2&#58; Comparando opções de banco de dados no Azure
+  Este módulo compara as várias opções de armazenamento de dados relacionais e não relacionais disponíveis no Azure. As opções são descritas como grupos, como bancos de dados relacionais (banco de dados SQL do Azure, MySQL e PostgreSQL no Azure), não relacionais (Azure Cosmos DB e tabelas de armazenamento), streaming (Stream Analytics) e armazenamento (Data Factory, Data Warehouse e Data Lake).
+
+  #### Laboratório&#58; Implementação de instâncias de banco de dados no Azure
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Comparar e contrastar os serviços de monitoramento de aplicativos, a plataforma do Azure e a rede.
+  - Identificar opções de streaming de dados para ingestão de dados em grande escala.
+  - Identificar opções de armazenamento de dados a longo prazo.
+
+
+  ### Módulo 3&#58; Monitoramento e automatização de soluções do Azure
+  Este módulo abrange as soluções de monitoramento e automação disponíveis depois que uma solução do Azure tiver sido arquitetada, projetada e possivelmente implementada. O módulo analisa os serviços usados para monitorar aplicativos individuais, a plataforma do Azure e os componentes de rede. Este módulo também abrange opções de automação e backup para habilitar cenários de continuidade de negócios para soluções hospedadas no Azure.
+
+  #### Laboratório&#58; Implementação de soluções de gerenciamento de configuração no Azure
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Comparar e contrastar os serviços de monitoramento de aplicativos, a plataforma do Azure e a rede.
+  - Criar um esquema de alerta para uma solução hospedada no Azure.
+  - Selecionar a opção de backup apropriada para infraestrutura e dados hospedados no Azure.
+  - Automatizar a implementação de recursos futuros para fins de recuperação ou dimensionamento de backup.

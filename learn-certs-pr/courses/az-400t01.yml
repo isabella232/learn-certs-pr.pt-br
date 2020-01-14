@@ -1,0 +1,109 @@
+### YamlMime:Course
+title: Implementação de processos de desenvolvimento de DevOps
+metadata:
+  title: 'Curso AZ-400T01-A: Implementação de processos de desenvolvimento de DevOps'
+  description: 'Curso AZ-400T01-A: Implementação de processos de desenvolvimento de DevOps'
+uid: course.az-400t01
+courseNumber: 'AZ-400T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever as vantagens do uso do controle de origem
+- skill: Migrar do TFVC para o Git
+- skill: Dimensionar o Git para DevOps corporativos
+- skill: Implementar e gerenciar a infraestrutura de construção
+- skill: Gerenciar configurações e segredos do aplicativo
+- skill: Implementar uma estratégia de DevOps móvel
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Este curso fornece o conhecimento e as habilidades para implementar os processos de DevOps. Os estudantes aprenderão a usar o controle de origem, dimensionar o Git para uma empresa e implementar e gerenciar a infraestrutura de construção.
+
+  #### Perfil do público
+  Os estudantes deste curso estão interessados na implementação de processos de DevOps ou em serem aprovados no exame de certificação Soluções de Microsoft Azure DevOps.
+prerequisitesSection: |-
+  Conhecimento básico sobre o Azure, controle de versão, desenvolvimento de software Agile e noções básicas de desenvolvimento de software. A experiência em uma organização que produz software é desejável.
+outlineSection: |-
+  ### Módulo 1&#58; Introdução ao controle de origem
+  #### Lições
+  - O que é controle de origem?
+  - Vantagens do controle de origem
+  - Tipos de sistemas de controle de origem
+  - Introdução ao Azure Repos
+  - Migração do Team Foundation Version Control (TFVC) para o Git
+  - Autenticação no Git Repos
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever as vantagens do uso do controle de origem
+  - Migrar do TFVC para o Git
+
+
+  ### Módulo 2&#58; Dimensionamento do Git para DevOps corporativos
+  #### Lições
+  - Como estruturar o repositório Git
+  - Fluxos de trabalho de branching do Git
+  - Colaboração com Pull Requests
+  - Por que se preocupar com os GitHooks?
+  - Promovendo o código aberto interno
+  - Versão do Git
+  - Projetos públicos
+  - Arquivos do Git
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Dimensionar o Git para DevOps corporativos
+
+
+  ### Módulo 3&#58; Implementação e gerenciamento de infraestrutura de compilação
+  #### Lições
+  - O conceito de pipelines no DevOps
+  - Azure Pipelines
+  - Avaliar o uso de agentes hospedados em relação aos agentes privados
+  - Pools de agentes
+  - Pipelines e simultaneidade
+  - Projetos Azure DevOps e Open Source
+  - Pipelines do Azure YAML x Visual Designer
+  - Configuração de agentes privados
+  - Integração do Jenkins ao Azure Pipelines
+  - Controle de origem externa de integração com Azure Pipelines
+  - Análise e integração de desenvolvimentos em várias fases do Docker
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar e gerenciar a infraestrutura de compilação
+
+
+  ### Módulo 4&#58; Gerenciamento de configurações e segredos de aplicativos
+  #### Lições
+  - Introdução à segurança
+  - Implementação de processo de desenvolvimento seguro e compatível
+  - Reexaminando dados de configuração do aplicativo
+  - Gerenciamento de segredos, tokens e certificados
+  - Implementação de ferramentas para gerenciar segurança e conformidade no pipeline
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Gerenciar configurações e segredos do aplicativo
+
+
+  ### Módulo 5&#58; Implementação de estratégias de DevOps móvel
+  #### Lições
+  - Introdução aos DevOps móvel
+  - Introdução ao Visual Studio App Center
+  - Gerenciamento de conjuntos de dispositivos de destino e grupos de distribuição
+  - Gerenciamento de conjuntos de dispositivos de teste da IU de destino
+  - Fornecimento de dispositivos de teste para implementação
+  - Criação de grupos de distribuição públicos e privados
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar uma estratégia de DevOps móvel

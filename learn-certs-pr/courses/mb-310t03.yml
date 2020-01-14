@@ -1,0 +1,231 @@
+### YamlMime:Course
+title: Configurar e usar orçamento, ativos fixos e funcionalidade adicional no Finance and Operations
+metadata:
+  title: 'Curso MB-310T03-A: Configurar e usar orçamento, ativos fixos e funcionalidade adicional no Finance and Operations'
+  description: 'Curso MB-310T03-A: Configurar e usar orçamento, ativos fixos e funcionalidade adicional no Finance and Operations'
+uid: course.mb-310t03
+courseNumber: 'MB-310T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  As organizações usam o Dynamics 365 for Finance and Operations para elevar seu desempenho financeiro, aumentando a lucratividade, otimizando a produtividade da força de trabalho, reduzindo as despesas operacionais, adaptando-se rapidamente às alterações de requisitos e simplificando o gerenciamento de ativos. Este curso discute como configurar e usar orçamento, ativos fixos e funcionalidade adicional no Dynamics 365 for Finance and Operations.
+
+  #### Perfil do público
+  Um Consultor Funcional do Dynamics 365 for Finance and Operations é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+prerequisitesSection: |-
+  Compreensão básica dos conceitos de ERP e CRM.
+outlineSection: |-
+  ### Módulo 1&#58; Configurar verificações pós-datadas
+  Cheques pré-datados são emitidos para efetuar e receber pagamentos em uma data futura. Portanto, o cheque não pode ser descontado até a data especificada. O Microsoft Dynamics 365 for Finance and Operations oferece suporte ao ciclo completo de gerenciamento de cheques pré-datados em Contas a receber e Contas a pagar. Este tópico explica como configurar e processar verificações pré-datadas.
+
+  #### Lições
+  - Introdução
+  - Gerenciar verificações pós-datadas
+  - Laboratórios práticos
+  - Resumo do módulo
+  
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Processar verificações pré-datadas
+  - Configurar cheques pré-datados
+  - Registrar e lançar um cheque pré-datado para um cliente
+  - Liquidar um cheque pré-datado de um cliente
+  - Registrar e lançar um cheque pós-datado para um fornecedor
+  - Liquidar um cheque pós-datado de um fornecedor
+
+
+  ### Módulo 2&#58; Configurar e usar processos básicos de orçamento e controle de orçamento
+  Toda organização, seja privada ou pública, define metas financeiras e operacionais criando orçamentos. Quando o orçamento é estabelecido, a gerência monitora as atividades dentro da estrutura do orçamento. Este módulo fornece informações sobre como configurar e usar o orçamento básico e o controle do orçamento.
+  #### Lições
+  - Introdução
+  - Configurar componentes de orçamento básicos
+  - Configurar componentes de controle de orçamento
+  - Criar e testar entradas de registro do orçamento
+  - Usar consultas e relatórios
+  - Laboratórios práticos
+  - Resumo do módulo
+  
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Configurar componentes de orçamento básicos
+  - Configurar componentes de controle de orçamento
+  - Usar perguntas e relatórios
+  - Criar e usar entradas de registro do orçamento
+
+
+  ### Módulo 3&#58; Configurar e usar processos de planejamento de orçamento
+  Com a funcionalidade de planejamento de orçamento, é possível consolidar vários planos de orçamento de um nível inferior em um plano de orçamento pai único em um nível superior da organização. Isso é chamado de planejamento de orçamento de abordagem ascendente, que permite que um planejador de orçamento agregue outros planos em um plano corporativo ou de alto nível para orçamento. Pode-se também adotar a abordagem de cima para baixo, que exige o desenvolvimento de um único plano de orçamento em um nível mais alto da organização e a alocação do orçamento para os níveis mais baixos da organização. Use esse método quando se confiar em transações financeiras históricas da empresa e crie um plano centralizado que possa ser alocado em diferentes unidades operacionais definidas por uma hierarquia da organização com a finalidade de planejar o orçamento. O planejador de orçamento, como uma etapa final do planejamento de orçamento, gera a entrada do registro de orçamento com base no plano de orçamento. Uma organização pode configurar o planejamento orçamentário e, em seguida, configurar processos colaborativos de planejamento orçamentário para atender suas políticas, procedimentos e requisitos para a preparação do orçamento. Este módulo explica como configurar e testar os processos de planejamento de orçamento.
+
+  #### Lições
+  - Introdução
+  - Configurar componentes de planejamento de orçamento
+  - Laboratório Prático
+  - Resumo do módulo
+  
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Configurar componentes de planejamento de orçamento
+  - Criar um modelo de plano de orçamento
+  - Configurar processos de orçamento
+  - Criar um plano de orçamento usando o assistente de plano de orçamento
+
+
+  ### Módulo 4&#58; Configurar o gerenciamento de ativos fixos
+  Este módulo começa com a explicação dos conceitos de ativos fixos e mostra aos alunos como configurar e usar o módulo de ativos fixos no Dynamics 365 for Finance and Operations.
+
+  #### Lições
+  - Introdução
+  - Configurar componentes de ativos imobilizados
+  - Ativar integração de ativos fixos
+  - Criar ativos imobilizados
+  - Laboratórios práticos
+  - Resumo do módulo
+  
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Configurar componentes de ativos imobilizados
+  - Configurar parâmetros de ativos imobilizados
+  - Ativar integração de ativos fixos com compras
+  - Criar ativos imobilizados
+
+
+  ### Módulo 5&#58; Gerenciar ativos fixos
+  Para registrar transações de ativos fixos usando diários, é necessário criar pelo menos um nome de diário usando o tipo de diário Lançar ativos fixos na configuração do módulo Contabilidade. Se forem necessários orçamentos para ativos fixos, é necessário também criar um nome de diário que use o tipo de diário Orçamento de ativo fixo. Este módulo explica como processar e gerenciar ativos fixos.
+
+  #### Lições
+  - Introdução
+  - Executar tarefas de ativos fixos
+  - Laboratórios práticos
+  - Resumo do módulo
+  
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Realizar aquisição de ativos fixos
+  - Executar depreciação de ativos fixos
+  - Realizar alienação de ativos fixos
+
+
+  ### Módulo 6&#58; Configurar e usar a contabilidade de custos
+  A contabilidade de custos permite coletar dados de várias fontes, como contabilidade, subcontas, orçamentos e informações estatísticas. Pode-se analisar, resumir e avaliar os dados de custo, para que a gerência possa tomar as melhores decisões possíveis para atualizações de preços, orçamentos, controle de custos e assim por diante. Os dados de origem usados ​​para a análise de custos são tratados independentemente na contabilidade de custos. Portanto, as atualizações na contabilidade de custos não afetam os dados de origem.
+
+  #### Lições
+  - Introdução
+  - Área de trabalho de controle de custos
+  - Laboratório prático
+  - Resumo do módulo
+  
+
+  Neste módulo, os alunos aprenderam sobre o&#58;
+  - Área de trabalho de controle de custos
+  - Como criar um relatório de contabilidade de custos usando o Assistente relatório de contabilidade de custos
+
+
+  ### Módulo 7&#58; Configurar e usar processos periódicos
+  No Razão, os procedimentos de fechamento podem ser concluídos por um período ou um ano. Os processos de fechamento preparam o sistema para um novo período. Existem muitas tarefas, como preparar arquivamentos, fechamento de estoque, consolidação e muito mais precisa ser concluído primeiro. Para preparar o sistema para um novo ano, o processo de fechamento do final do ano deve ser executado. Cada organização possui diferentes processos e etapas que executa no final de um período.
+  #### Lições
+  - Introdução
+  - Reconciliações bancárias
+  - Configurar fechamento do período financeiro
+  - Preparar arquivamentos periódicos
+  - Executar processos de reavaliação de moeda estrangeira
+  - Realizar consolidações financeiras
+  - Final do processo no final do ano
+  - Laboratórios práticos
+  - Resumo do módulo
+  
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Configurar fechamento do período financeiro
+  - Reconciliar bancos
+  - Executar processos de fechamento periódico e de encerramento do ano
+  - Preparar arquivamentos periódicos
+  - Configurar e testar o processo do fornecedor 1099s
+  - Executar processos de reavaliação de moeda estrangeira
+  - Executar processos de consolidação e eliminação financeira
+  - Usar relatórios financeiros para criar demonstrações financeiras
+  - Processar relatórios fiscais de final de ano
+
+
+  ### Módulo 8&#58; Configurar a Estrutura de Relatório Eletrônico
+  O Relatório Eletrônico Genérico (GER) ou simplesmente Relatório Eletrônico (ER) é uma ferramenta configurável para relatórios regulatórios, pagamentos e faturamento eletrônico. O mecanismo de ER é direcionado a usuários corporativos em vez de desenvolvedores. Como os formatos são configurados em vez do código, os processos de criação e ajuste de formatos para documentos eletrônicos são mais rápidos e fáceis. O ER atualmente suporta os formatos de texto TEXT, XML, PDF, Microsoft Word e planilha OPENXML. No entanto, uma interface de extensão fornece suporte para formatos adicionais.
+
+  #### Lições
+  - Introdução
+  - Configurar relatórios eletrônicos
+  - Designer de fórmula em relatórios eletrônicos
+  - Laboratório Prático
+  - Resumo do módulo
+  
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Configurar ER
+  - Criar configurações de ER
+  - Executar processos de fechamento periódico e de encerramento do ano
+  - Designer de fórmula em ER
+
+
+  ### Módulo 9&#58; Configurar recursos localizados
+  O Dynamics 365 for Finance and Operations inclui funcionalidade para os países e regiões documentados no guia de localização de produto e disponibilidade de tradução. Este módulo explica como configurar alguns exemplos de recursos regionais no Finance and Operations. Leia as informações na página Localização e recursos regulamentares para se manter atualizado com a funcionalidade regional do Finance and Operations para todos os países/regiões.
+  #### Lições
+  - Introdução
+  - Localização e recursos regulatórios
+  - Classificação dos recursos de localização mexicana
+  - Entender o mecanismo tributário global
+  - Compreender os recursos de estabelecimentos fiscais e documentos para localização brasileira
+  - Letra de câmbio
+  - Faturas eletrônica
+  - Laboratórios práticos
+  - Resumo do módulo
+  
+
+  Neste módulo, os alunos aprenderam sobre o&#58;
+  - Localização e recursos regulatórios
+  - Classificação dos recursos de localização
+  - Como aplicar o contexto do país e região
+  - Como configurar e demonstrar os recursos de estabelecimentos fiscais e documentos fiscais para uma localização brasileira
+  - Teste do processo de Letra de Câmbio
+  - Configurar e usar notas promissórias
+  - Configurar e testar faturas eletrônica (CFDI) para uma localização mexicana
+
+
+  ### Módulo 10&#58; Configurar o gerenciamento financeiro para o setor público
+  O setor público, também conhecido como setor estadual e local, é predominantemente um setor de serviços que gerencia o bem-estar de seus cidadãos. O setor do setor público inclui organizações nas áreas de municípios, educação, saúde, segurança pública, obras públicas e infraestrutura, defesa nacional, tributação e vários programas sociais.
+  #### Lições
+  - Introdução
+  - Configurar fundos para o setor público
+  - Configurar hierarquias financeiras derivadas
+  - Configurar códigos de cobrança para faturas de texto livre
+  - Laboratórios práticos
+  - Resumo do módulo
+  
+
+  Neste módulo, os alunos aprenderam&#58;
+  - Estabelecer fundos para o setor público
+  - Compreender os métodos de reconciliação do Banco
+  - Configurar dimensões derivadas
+  - Configurar hierarquias financeiras derivadas para o setor público
+  - Funcionalidade avançada de entradas do razão para o setor público
+  - Configurar códigos de cobrança para faturas de texto livre
+
+
+  ### Módulo 11&#58; Conclusão do Curso
+  Avaliação final e resumo do curso, bem como uma pesquisa pós-curso.
+  #### Lições
+  - Avaliação final
+  - Resumo do curso
+  - Pesquisa pós-curso
+  
+
+  Os alunos terão concluído o curso.

@@ -1,0 +1,131 @@
+### YamlMime:Course
+title: Configurar e usar o gerenciamento da cadeia de suprimentos no Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Curso MB-330T03-A: Configurar e usar o gerenciamento da cadeia de suprimentos no Dynamics 365 for Finance and Operations'
+  description: 'Curso MB-330T03-A: Configurar e usar o gerenciamento da cadeia de suprimentos no Dynamics 365 for Finance and Operations'
+uid: course.mb-330t03
+courseNumber: 'MB-330T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  As organizações usam o Dynamics 365 for Finance and Operations para automatizar e otimizar sua cadeia de suprimentos modernizando a logística dos negócios, fornecendo respostas oportunas aos clientes, avançando com informações preditivas, simplificando as compras e unificando os processos das vendas à realização. Este curso discute como configurar e usar o gerenciamento de armazém e transporte no Dynamics 365 for Finance and Operations.
+
+  #### Perfil do público
+  Um Consultor Funcional do Dynamics 365 for Finance and Operations é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+prerequisitesSection: |-
+  Compreensão básica dos conceitos de ERP e CRM.
+outlineSection: |-
+  ### Módulo 1&#58; Usar Gerenciamento de Depósito
+  O módulo de gerenciamento de armazém do Dynamics 365 for Finance and Operations ajuda a gerenciar processos de armazém em empresas de manufatura, distribuição e varejo.
+
+  Possui uma ampla variedade de recursos para oferecer suporte às instalações do armazém em um nível ideal, a qualquer momento. O gerenciamento de armazém é totalmente integrado a outros processos de negócios em Finanças e Operações, como transporte, fabricação, controle de qualidade, compra, transferência, vendas e devoluções.
+  #### Lições
+  - Introdução
+  - Configurar gerenciamento de armazém
+  - Compreender hierarquias de reserva
+  - Diretivas de localização e modelos de trabalho
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Configurar parâmetros do gerenciamento de armazém
+  - Criar armazéns e locais
+  - Configurar pools de trabalho, zonas, formato de localização e perfis
+  - Criar hierarquias de reserva
+  - Configurar diretivas de localização
+  - Configurar ondas
+  - Configurar cargas
+  - Configurar status do inventário
+  - Configurar contagem de ciclos
+  - Configurar embalagem e conteinerização
+  - Configurar e gerar etiquetas
+
+
+  ### Módulo 2&#58; Configurar dispositivos móveis para gerenciamento de armazém
+  Este tópico explica como definir a configuração do dispositivo móvel para Gerenciamento de armazém no Finance and Operations.
+  #### Lições
+  - Introdução
+  - Configurar dispositivos móveis
+  - Laboratório Prático
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam a&#58;
+  - Criar novas classes de trabalho
+  - Configurar dispositivos móveis
+  - Configurar itens de menu para atividades e consultas
+  - Configurar itens de menu para Criar trabalho para outro trabalhador ou processo
+  - Configurar itens de menu para processar o trabalho existente
+  - Definir o layout dos menus do dispositivo móvel
+  - Configurar a aparência básica dos dispositivos móveis
+  - Criar usuários de dispositivos móveis
+  - Configurar layouts de etiquetas e Definir configurações para imprimir etiquetas
+
+
+  ### Módulo 3&#58; Usar gerenciamento de depósito
+  Antes de usar o dispositivo móvel para gerenciamento de armazém, o aplicativo deve ser instalado. Este tópico explica como usar os processos de gerenciamento de armazém no Finance and Operations.
+  #### Lições
+  - Introdução
+  - Configurar dispositivo móvel
+  - Operações de entrada
+  - Contagem de ciclo
+  - Transferências e reabastecimento
+  - Operações de saída
+  - Seleção de cluster
+  - Embalagem e contentorização
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam como executar o&#58;
+  - Operações de entrada
+  - Operações de saída
+  - Seleção de cluster
+  - Embalagem e contentorização
+  - Contagem de ciclo
+  - Transferências e reabastecimento
+
+
+  ### Módulo 4&#58; Configurar Gerenciamento de Transporte
+  Este módulo fornece uma visão geral da funcionalidade de gerenciamento de Transporte no Microsoft Dynamics 365 for Finance and Operations e ensina como configurar e usar o gerenciamento de Transporte.
+  #### Lições
+  - Introdução
+  - Planejamento e configuração do gerenciamento de transporte
+  - Procedimentos
+  - Fluxos de roteamento e transporte
+  - Motores de transporte e gerenciamento de frete
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam como executar o&#58;
+  - Planejamento de transportes
+  - Roteamento
+  - Avaliação
+  - Operações de entrada
+  - Carregar processos
+  - Operações de saída
+
+
+  ### Módulo 5&#58; Conclusão do Curso
+  Avaliação final e resumo do curso, bem como uma pesquisa pós-curso.
+  #### Lições
+  - Avaliação final
+  - Resumo do curso
+  - Pesquisa pós-curso
+
+
+  Os alunos terão concluído o curso.

@@ -1,0 +1,71 @@
+### YamlMime:Course
+title: Definindo uma estratégia de mensagens híbridas
+metadata:
+  title: 'Curso MS-201T01-A: Definindo uma estratégia de mensagens híbridas'
+  description: 'Curso MS-201T01-A: Definindo uma estratégia de mensagens híbridas'
+uid: course.ms-201t01
+courseNumber: 'MS-201T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planejar migrações de caixa de correio
+- skill: Planejar migrações IMAP
+- skill: Planejar transição e migrações em etapas
+- skill: Executar migrações avançadas
+- skill: Compreender os requisitos de implantação híbrida do Exchange
+- skill: Executar o Assistente de Configuração Híbrida
+- skill: Implantar e gerenciar um servidor de Transporte de Borda
+- skill: Configurar uma implantação híbrida usando o HCW
+- skill: Implementar funcionalidade híbrida avançada
+- skill: Solucionar problemas de implantações híbridas
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-201
+summary: |-
+  Este curso apresenta aos alunos o mundo das mensagens híbridas. Os alunos aprenderão como implantar um ambiente híbrido para uma organização do Exchange e como migrar caixas de correio para o Exchange Online. Eles começarão examinando as opções de migração de caixas de correio disponíveis e depois se concentrarão no planejamento de uma implantação híbrida. Por fim, os alunos aprenderão como implementar e solucionar problemas de uma implantação híbrida.
+
+  #### Perfil do público
+  O Administrador de Mensagens implanta, configura, gerencia e
+  soluciona problemas de destinatários, permissões, proteção de mensagens, fluxo de mensagens e pastas públicas em ambientes corporativos locais e na nuvem. As responsabilidades incluem gerenciar a higiene das mensagens, a infraestrutura de mensagens e a configuração e migração híbridas. O Administrador de Mensagens também implementa e gerencia a recuperação de desastres, a alta disponibilidade e o acesso do cliente. Para implementar uma topologia híbrida segura que atenda às necessidades comerciais de uma organização moderna, o Administrador de Mensagens deve colaborar com o Security Administrator e o Microsoft 365 Enterprise Administrator. O Messaging Administrator deve ter um conhecimento prático dos tipos de autenticação, licenciamento e integração com aplicativos do Microsoft 365.
+prerequisitesSection: |-
+  - Conhecimento proficiente do DNS.
+  - Entendimento básico de mensagens no servidor do Exchange ou no Exchange Online.
+  - Entendimento básico da infraestrutura do Active Directory e do controlador de domínio, juntamente com o gerenciamento de identidades.
+  - Experiência funcional básica com serviços do Microsoft 365 e sincronização de diretórios.
+  - Pelo menos 5 anos de experiência geral em TI.
+outlineSection: |-
+  ### Módulo 1&#58; Executando migrações de caixa de correio
+  #### Lições
+  - Planejando Migrações de Caixa de Correio
+  - Executando migrações IMAP
+  - Executando migrações de transição e em etapas
+  - Executando migrações avançadas
+
+
+  ### Módulo 2&#58; Planejando um ambiente híbrido
+  #### Lições
+  - Trocar requisitos de implantação híbrida
+  - Planejar a execução do Assistente de configuração híbrida
+
+
+  ### Módulo 3&#58; Implantando e solucionando problemas de um ambiente híbrido
+  #### Lições
+  - Implantar e gerenciar um servidor de Transporte de Borda
+  - Configurando uma implantação híbrida usando o HCW
+  - Implementar funcionalidade híbrida avançada
+  - Solucionar problemas de implantações híbridas
+
+
+  ### Módulo 4&#58; Laboratório - Implantação e Gerenciamento Híbridos
+
+  #### Laboratório&#58; Implantação e gerenciamento híbridos
+  - Exercício 1&#58; Executar uma migração de caixa de correio para o Microsoft 365
+  - Exercício 2&#58; Gerenciar cenários híbridos

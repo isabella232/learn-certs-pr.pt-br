@@ -1,0 +1,101 @@
+### YamlMime:Course
+title: Gerenciando os Serviços de Conteúdo do Office 365
+metadata:
+  title: 'Curso MS-300T01-A: Gerenciando os Serviços de Conteúdo do Office 365'
+  description: 'Curso MS-300T01-A: Gerenciando os Serviços de Conteúdo do Office 365'
+uid: course.ms-300t01
+courseNumber: 'MS-300T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurar conjuntos de sites do SharePoint
+- skill: Gerenciar limites de armazenamento do conjunto de sites
+- skill: Implantar o cliente de sincronização do OneDrive for Business
+- skill: Usar a política de grupo para controlar as configurações do cliente de sincronização do OneDrive
+- skill: Gerenciar o compartilhamento externo de dados no SharePoint Online e no OneDrive for Business
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  O conteúdo é o ativo digital mais crítico para todas as organizações. Neste curso, você aprenderá como planejar, configurar e gerenciar o Conjunto de Sites do SharePoint e o OneDrive for Business para habilitar serviços de conteúdo modernos que transformam o ciclo de vida do conteúdo. Especificamente, este curso discute a estrutura moderna do site do SharePoint, como sites de hub do SharePoint. Ele fornece práticas recomendadas para a adoção e implantação do OneDrive for Business em sua organização. Também abrange compartilhamento, segurança e monitoramento no SharePoint Online e no OneDrive for business.
+
+  Este curso foi desenvolvido para profissionais de TI que implantam e gerenciam a infraestrutura de trabalho em equipe em sua organização. 
+
+  Este é o primeiro de uma série de quatro cursos para a função de Administrador do trabalho em equipe. Esses cursos ajudam a se preparar para o exame MS-300&#58; Implantando o Microsoft 365 Teamwork.
+
+  #### Perfil do público
+  Este curso é para a função de Teamwork Administrator do Microsoft 365. A função é responsável por configurar, implantar e gerenciar cargas de trabalho do Office 365 e Azure que se concentram na colaboração e adoção eficientes e eficazes. Eles gerenciam aplicativos, serviços e infraestrutura de suporte para atender aos requisitos de negócios. O administrador está ciente e pode diferenciar entre produtos e serviços, mas não pode gerenciar diretamente cada produto ou serviço.
+
+  O administrador do Teamwork deve ser capaz de implantar, gerenciar, migrar e proteger o SharePoint (online, no local e híbrido), o OneDrive e Teams.
+
+  O Teamwork Administrator tem um entendimento fundamental dos pontos de integração com os seguintes aplicativos e serviços&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planejador e Projeto. O administrador entende como integrar aplicativos e serviços de terceiros, incluindo aplicativos da linha de negócios.
+prerequisitesSection: |-
+  Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
+  - Experiência com o Windows PowerShell
+  - Compreensão básica do Active Directory e do Azure AD.
+  - Compreensão básica de gerenciamento de dispositivos móveis e sistemas operacionais alternativos (Android e macOS)
+outlineSection: |-
+  ### Módulo 1&#58; Planejar e configurar o conjunto de sites do SharePoint
+  Este módulo é sobre planejamento, configuração e gerenciamento de conjuntos de sites do SharePoint. Ele discute como os administradores do SharePoint usam o SharePoint Admin Center para gerenciar o ciclo de vida dos conjuntos de sites em sua organização.
+  #### Lições
+  - Visão geral do SharePoint Online
+  - Configurar conjunto de sites
+  - Gerenciar conjunto de sites
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Explicar os conceitos do conjunto de sites
+  - Crie conjuntos de sites
+  - Gerenciar limites de armazenamento do conjunto de sites
+  - Criar e configurar sites de hub do SharePoint
+  - Descrever como usar o Centro de Administração do SharePoint para gerenciar conjuntos de sites
+
+
+  ### Módulo  2&#58; Configurar e gerenciar o OneDrive for Business
+  Este módulo explica como planejar a implantação do OneDrive for Business. Ele discute diferentes abordagens para implantar o OneDrive for Business com base em diferentes cenários. Ele também apresenta os recursos para gerenciar conteúdo no OneDrive for Business.
+
+  #### Lições
+  - Visão geral do OneDrive for Business
+  - Implantar o OneDrive for Business
+  - Gerenciar o OneDrive for Business
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Gerenciar limites de armazenamento dos usuários
+  - Configurar retenção de dados no OneDrive for Business
+  - Usar a política de grupo para controlar as configurações do cliente de sincronização do OneDrive
+  - Descrever métodos diferentes para implantar o OneDrive for Business
+  - Descrever como usar o Centro de administração do OneDrive para gerenciar o OneDrive for Business
+
+
+  ### Módulo 3&#58; Compartilhamento, segurança e monitoramento no SharePoint e OneDrive
+  Este módulo é focado no compartilhamento, segurança e monitoramento no SharePoint e OneDrive.  Especificamente, discutimos o planejamento e o gerenciamento do compartilhamento externo, bem como o controle de acesso no SharePoint e no OneDrive.  Ele também discute como usar o Centro de Administração do Office 365 para monitorar as atividades no SharePoint online e no OneDrive for Business.
+
+
+  #### Lições
+  - Gerenciar o compartilhamento no SharePoint e OneDrive
+  - Gerenciar segurança no SharePoint e OneDrive
+  - Monitorar o SharePoint e o OneDrive
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever o compartilhamento externo no SharePoint Online e no OneDrive for Business
+  - Descrever as opções para gerenciar o acesso do dispositivo ao SharePoint Online e OneDrive for Business
+  - Exibir relatórios do Office 365 que medem o SharePoint Online e o OneDrive para uso comercial
+
+
+  ### Módulo 4&#58; Conclusão do Curso
+
+  #### Laboratório&#58; Criando e configurando conjunto de sites

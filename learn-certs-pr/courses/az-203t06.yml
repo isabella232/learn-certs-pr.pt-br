@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Conectar e consumir serviços Azure e serviços de terceiros
+metadata:
+  title: 'Curso AZ-203T06-A: Conectar e consumir serviços Azure e serviços de terceiros'
+  description: 'Curso AZ-203T06-A: Conectar e consumir serviços Azure e serviços de terceiros'
+uid: course.az-203t06
+courseNumber: 'AZ-203T06-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  Este curso envolve a comunicação entre aplicativos e serviços. Os estudantes aprenderão a criar e gerenciar suas próprias APIs usando o gerenciamento de APIs e como usar os diferentes serviços baseados em eventos e mensagens no Azure em suas soluções de desenvolvimento. Durante o curso, os alunos aprendem a criar e integrar esses recursos usando o Portal do Azure, a CLI do Azure, REST e o código do aplicativo.
+
+  #### Perfil do público
+  - Os estudantes deste curso estão interessados no desenvolvimento do Azure ou na aprovação no exame de certificação Microsoft Azure Developer Associate.
+  - Os estudantes devem ter 1-2 anos de experiência como desenvolvedor. Este curso pressupõe que os alunos saibam codificar e tenham conhecimento básico do Azure.
+  - É recomendável que os estudantes tenham alguma experiência no PowerShell ou CLI do Azure ou experiência profissional no portal do Azure e pelo menos em uma linguagem de programação suportada pelo Azure. A maioria dos exemplos deste curso é apresentada em C# .NET.
+prerequisitesSection: |-
+ - Os estudantes devem ter 1-2 anos de experiência como desenvolvedor. Este
+  curso pressupõe que os alunos saibam codificar e tenham conhecimento básico
+  do Azure.
+ - Recomenda-se que os alunos tenham alguma experiência
+  no PowerShell ou CLI do Azure, experiência profissional no portal do Azure e pelo menos
+  em uma linguagem de programação suportada pelo Azure. A maioria dos exemplos deste curso
+  é apresentada em C# .NET.
+outlineSection: |-
+  ### Módulo 1&#58; Desenvolvimento de aplicativo lógico com o Serviço de Aplicativo
+  Os aplicativos lógicos permitem criar soluções que integram aplicativos, dados, sistemas e serviços em empresas ou organizações, automatizando tarefas e processos de negócios como fluxos de trabalho. Este módulo descreve o que são e como criá-los.
+  #### Lições
+  - Visão geral dos aplicativos lógicos do Azure
+  - Criação de aplicativos lógicos usando o Visual Studio
+  - Criação de conectores personalizados para aplicativos lógicos
+  - Criação de modelos personalizados para aplicativos lógicos
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Entender como criar e gerenciar aplicativos lógicos do Azure
+
+
+  ### Módulo 2&#58; Integração do Azure Search às soluções
+  Azure Search é uma solução em nuvem de pesquisa como serviço que fornece APIs e ferramentas aos desenvolvedores para que adicionem uma experiência de pesquisa rica em conteúdo privado e heterogêneo em aplicativos Web, móveis e corporativos. Neste módulo, os estudantes aprenderão como integrar o Azure Search às suas soluções.
+  #### Lições
+  - Criação e consulta de índice de Azure Search
+  - Pesquisa de texto completo no Azure Search
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Prover o serviço, criar um índice, carregar dados e executar pesquisas
+
+
+  ### Módulo 3&#58; Gerenciamento de API
+  O gerenciamento de API (APIM) permite às organizações publicar APIs para desenvolvedores externos, internos e parceiros para otimizar seus dados e serviços.
+  #### Lições
+  - Introdução ao serviço de gerenciamento de API
+  - Proteção de APIs
+  - Definição de políticas de API
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Prover o serviço APIM usando o Portal do Azure, proteger as APIs com assinaturas e certificados de cliente e usar políticas de API para modificar o comportamento de uma API
+
+
+  ### Módulo 4&#58; Desenvolver soluções baseadas em eventos
+  Este módulo abrange o desenvolvimento de soluções baseadas em eventos no Azure, integrando a Grade de Eventos do Azure, os Hubs de Eventos e os Hubs de Notificação nos seus aplicativos.
+  #### Lições
+  - Implementação de soluções que usam a Grade de Evento do Azure
+  - Implementação de soluções que usam o Hub de Eventos do Azure
+  - Implementação de soluções que usam os Hubs de Notificação do Azure
+
+  Depois de concluir este módulo, os estudantes estarão aptos a&#58;
+  - Conhecer como os serviços funcionam e como integrá-los às suas soluções
+
+
+  ### Módulo 5&#58; Desenvolver soluções baseadas em mensagens
+  O Barramento de Serviço do Microsoft Azure é um agente de mensagens de integração corporativa totalmente gerenciado. O Barramento de Serviço é comumente usado para separar aplicativos e serviços um do outro e consiste em uma plataforma confiável e segura para transferência de dados e estado assíncrona. O armazenamento de filas do Azure é um serviço que possibilita armazenar um grande número de mensagens que podem ser acessadas de qualquer lugar do mundo por meio de chamadas autenticadas usando HTTP ou HTTPS.
+  #### Lições
+  - Implementação de soluções que usam o Barramento de Serviço do Azure
+  - Implementação de soluções que usam serviços de armazenamento de filas do Azure
+
+  Depois de concluir este módulo, os estudantes estarão aptos a&#58;
+  - Compreender como utilizar os serviços baseados em mensagens do Azure em suas soluções

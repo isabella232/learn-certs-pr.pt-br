@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: Monitorar, solucionar problemas e otimizar soluções Azure
+metadata:
+  title: 'Curso AZ-203T05-A: Monitorar, diagnosticar problemas e otimizar soluções do Azure'
+  description: 'Curso AZ-203T05-A: Monitorar, diagnosticar problemas e otimizar soluções do Azure'
+uid: course.az-203t05
+courseNumber: 'AZ-203T05-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  Neste curso, os estudantes obterão o conhecimento e as habilidades necessárias para garantir que os aplicativos hospedados no Azure estejam funcionando com eficiência e conforme o esperado. Os estudantes aprenderão sobre o funcionamento do Azure Monitor e como usar ferramentas como o Log Analytics e o Application Insights para entender melhor o que acontece no aplicativo. Os estudantes também aprenderão a implementar o dimensionamento automático, instrumentalizar suas soluções para oferecer suporte ao monitoramento e ao log e usar as opções de cache e CDN do Azure para aprimorar a experiência do usuário final.
+
+  #### Perfil do público
+  - Os estudantes deste curso estão interessados no desenvolvimento do Azure ou na aprovação no exame de certificação Microsoft Azure Developer Associate.
+  - Os estudantes devem ter 1-2 anos de experiência como desenvolvedor. Este curso pressupõe que os alunos saibam codificar e tenham conhecimento básico do Azure.
+prerequisitesSection: |-
+  - Os estudantes devem ter 1-2 anos de experiência como desenvolvedor. Este curso pressupõe que os alunos saibam codificar e tenham conhecimento básico do Azure.
+  - É recomendável que os estudantes tenham alguma experiência no PowerShell ou CLI do Azure ou experiência profissional no portal do Azure e pelo menos em uma linguagem de programação suportada pelo Azure. A maioria dos exemplos deste curso é apresentada em C# .NET.
+outlineSection: |-
+  ### Módulo 1&#58; Introdução ao Azure Monitor
+  O Azure Monitor é o serviço central que inclui todas as ferramentas necessárias para monitorar e otimizar sua solução.
+  #### Lições
+  - Visão geral do Azure Monitor
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender o funcionamento do Azure Monitor
+  - Conhecer onde e como o Azure Monitor coleta dados
+
+
+  ### Módulo 2&#58; Desenvolvimento de código para garantir a escalabilidade de aplicativos e serviços
+  Este módulo aborda como os aplicativos são dimensionados e como realizar certos diagnósticos de problemas.
+  #### Lições
+  - Implementação do dimensionamento automático
+  - Implementação de código para incluir instâncias de aplicativos singleton
+  - Implementação de código para processamento de falhas transitórias
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender os padrões de dimensionamento automático e práticas recomendadas para dimensionar suas soluções
+  - Usar a CLI do Azure para se comunicar com uma cópia específica de um recurso
+  - Resolver falhas transitórias na sua solução
+
+
+  ### Módulo 3&#58; Instrumentalização de soluções para dar suporte ao monitoramento e log
+  Este módulo aborda a adição de código ao seu aplicativo para envio de dados ao Azure Monitor.
+  #### Lições
+  - Configuração da instrumentalização em um aplicativo ou servidor usando o Application Insights
+  - Análise e diagnóstico de problemas usando o Azure Monitor
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Adicionar o código padrão a páginas da Web, aplicativos de console e aplicativos de área de trabalho do Windows para dar suporte à telemetria
+  - Usar painéis e outras ferramentas para monitorar e diagnosticar problemas do aplicativo
+
+
+  ### Módulo 4&#58; Integração de cache e entrega de conteúdo nas soluções
+  Este módulo mostra aos estudantes como usar o Cache do Azure para Redis e CDNs do Azure para entregar ativos aos usuários mais rapidamente.
+  #### Lições
+  - Cache do Azure para Redis
+  - Desenvolvimento de armazenamento em CDNs
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender como o Cache do Azure para Redis funciona e como configurar e interagir com ele
+  - Gerenciar CDNs do Azure

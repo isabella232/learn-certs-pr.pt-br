@@ -1,0 +1,314 @@
+### YamlMime:Course
+title: Windows 10
+metadata:
+  title: 'Curso MD-100T00-A: Windows 10'
+  description: 'Curso MD-100T00-A: Windows 10'
+uid: course.md-100t00
+courseNumber: 'MD-100T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Instalar e configurar o Windows 10
+- skill: Configure Atualizações para Windows.
+- skill: Configure dispositivos e drivers para Windows.
+- skill: Configure o armazenamento para Windows.
+- skill: Defina as configurações de rede e gerenciamento remoto no Windows.
+- skill: Configure e gerencie navegadores e aplicativos no Windows.
+- skill: Configure o acesso e autenticação da conta.
+- skill: Configurar permissões a arquivos e pastas.
+- skill: Descrever métodos para proteger o Windows 10, ameaças comuns e métodos para atenuá-los.
+- skill: Solucionar problemas de instalações de aplicativos e Windows.
+- skill: Solucionar problemas de hardware e driver.
+- skill: Solucionar problemas de arquivo e executar recuperações.
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  Neste curso, os alunos aprenderão como oferecer suporte e configurar áreas de trabalho do Windows 10 em um ambiente organizacional. Os alunos desenvolverão habilidades que incluem aprender a instalar, personalizar e atualizar os sistemas operacionais Windows 10. Os alunos aprenderão como gerenciar armazenamento, arquivos e dispositivos, bem como configurar a conectividade de rede para o Windows 10. Os alunos também aprenderão como proteger o sistema operacional Windows 10 e proteger os dados no dispositivo. Por fim, os alunos aprenderão como gerenciar e solucionar problemas do Windows 10.
+
+  #### Perfil do público
+  Os candidatos para este exame são profissionais de TI que realizam a instalação, configuração, gerenciamento local geral e manutenção de serviços básicos do Windows 10. Os candidatos também podem estar familiarizados com os cenários empresariais e com serviços integrados na nuvem.
+prerequisitesSection: |-
+  - Entendimento básico de redes de computadores e conceitos de hardware.
+  - Entendimento básico dos conceitos de SO e aplicativo.
+  - Experiência com o uso do sistema operacional Windows.
+outlineSection: |-
+  ### Módulo 1&#58; Instalando o Windows
+  Este módulo abrange a instalação do sistema operacional Windows 10.  Os alunos aprenderão as diferentes edições do Windows 10, requisitos e novos recursos introduzidos. Este módulo aborda como instalar o sistema operacional, bem como métodos para migrações e atualização. Os alunos também aprenderão sobre as ferramentas comuns usadas no processo de implantação.
+  #### Lições
+  - Apresentando o Windows 10
+  - Edições e requisitos do Windows 10
+  - Opções de implantação
+  - Atualização para o Windows 10
+  - Ferramentas de implantação
+
+
+  #### Laboratório&#58; Atualização no local do Win7 para o Win 10
+
+  #### Laboratório&#58; Migrando configurações do usuário usando a USMT
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreendendo as diferentes edições e recursos do Windows 10.
+  - Entenda as opções de instalação do cliente Windows 10.
+  - Praticar a instalação do Windows 10.
+  - Migrar conteúdo usando a ferramenta de migração de estado do usuário.
+
+
+  ### Módulo 2&#58; Configuração e personalização pós-instalação
+  Este módulo abrange tarefas comuns de pós-instalação no Windows 10. Os alunos aprenderão como personalizar a interface do usuário, além de usar o painel de controle e o aplicativo de configurações para definir configurações comuns do sistema operacional. Este curso também apresentará aos alunos o Windows PowerShell.  Este módulo abordará como os drivers de dispositivo funcionam e como eles funcionam. Os alunos também serão apresentados a gerenciar e configurar periféricos de hardware, como impressoras.
+  #### Lições
+  - Configurar e personalizar o menu Iniciar do Windows
+  - Opções de configuração comuns
+  - Métodos de configuração avançados
+  - Gerenciando drivers e dispositivos
+
+
+  #### Laboratório&#58; Usando o aplicativo Configurações e o Painel de controle
+
+  #### Laboratório&#58; Usando objetos de diretiva de grupo
+
+  #### Laboratório&#58; Usando o PowerShell para configurar o Windows
+
+  #### Laboratório&#58; Gerenciando impressoras locais e de rede
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Personalize a interface do usuário do Windows 10
+  - Defina configurações específicas do dispositivo, como planos de energia e opções de dispositivos móveis
+  - Use o painel de controle do Windows e o aplicativo de configuração para Definir configurações
+  - Execute tarefas usando o Windows PowerShell.
+  - Descrever os conceitos relacionados aos drivers.
+  - Descrever conceitos de gerenciamento de impressoras.
+  - Configurar impressão no lado do cliente e Gerenciar propriedades do servidor de impressão.
+
+
+  ### Módulo 3&#58; Atualizando o Windows no Windows 10
+  Neste módulo, os alunos aprenderão a manter o Windows 10 atualizado. Os alunos serão apresentados ao novo modelo de serviço do Windows e como ele se aplica a vários cenários. Os alunos aprenderão os vários métodos diferentes para atualizar o Windows e os aplicativos, além de gerenciar atualizações usando ferramentas como política de grupo e Windows Update for Business.
+  #### Lições
+  - Modelo de Serviço do Windows
+  - Atualizando o Windows
+
+
+  #### Laboratório&#58; Atualizando o Windows 10
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever o modelo de manutenção do Windows.
+  - Definir as configurações de atualização do Windows.
+  - Descrever a atualização do Windows usando o WSUS.
+  - Descrever a atualização do Windows usando o Windows update for Business.
+  - Configurar a atualização do Windows usando a diretiva de grupo.
+
+
+  ### Módulo 4&#58; Configurando a rede
+  Neste módulo, os alunos aprenderão sobre os conceitos de rede. Este módulo apresentará o IPv4 e o IPv6 e conceitos como DNS.  Os alunos aprenderão como definir as configurações de rede no Windows, bem como aprenderão sobre as tecnologias de rede sem fio. O módulo será concluído com métodos de gerenciamento do Windows remotamente.
+  #### Lições
+  - Configurar a conectividade da rede de IP
+  - Implementar resolução de nome
+  - Implementar conectividade de rede sem fio
+  - Visão geral de acesso remoto
+  - Gerenciamento remoto
+
+
+  #### Laboratório&#58; Configurando a conectividade de rede
+
+  #### Laboratório&#58; Configurando e testando a resolução de nomes
+
+  #### Laboratório&#58; Gerenciamento remoto
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar a conectividade da rede de IP
+  - Descrever como a resolução de nomes funciona.
+  - Descrever tecnologias de acesso remoto como VPNs.
+  - Configurar o Windows para gerenciamento e acesso remoto.
+
+
+  ### Módulo 5&#58; Configurando o armazenamento
+  Este módulo abrange a configuração e o gerenciamento de armazenamento no Windows 10.  Os alunos serão apresentados a opções de armazenamento local, na nuvem e virtual. Este curso também abordará a configuração do armazenamento em dispositivos clientes e introduzirá espaços de armazenamento.
+  #### Lições
+  - Visão geral das opções de armazenamento
+  - Gerenciando o armazenamento local
+  - Manutenção de discos e volumes
+  - Gerenciando espaços de armazenamento
+
+
+  #### Laboratório&#58; Gerenciando o armazenamento
+
+  #### Laboratório&#58; Pastas de compressão
+
+  #### Laboratório&#58; Habilitando cotas de disco
+
+  #### Laboratório&#58; Criando um espaço de armazenamento
+
+  #### Laboratório&#58; Sincronizando arquivos com o OneDrive
+
+  - Descrever as opções e os benefícios do armazenamento local, na nuvem e virtual.
+  - Configurar o OneDrive.
+  - Configurar partições e volumes de disco local.
+  - Descrever os recursos e benefícios dos espaços de armazenamento.
+
+
+  ### Módulo 6&#58; Gerenciando aplicativos no Windows 10
+  Neste módulo, os alunos serão apresentados ao gerenciamento de aplicativos no Windows 10. Este módulo abordará os diferentes tipos de aplicativos e métodos de instalação suportados.  Os alunos aprenderão como instalar aplicativos usando métodos manuais e automatizados, bem como gerenciar a entrega de aplicativos usando a Windows Store. Por fim, este módulo abordará as diferenças entre o Internet Explorer e o Microsoft Edge.
+
+  #### Lições
+  - Fornecer aplicativos para usuários
+  - Gerenciar aplicativos universais do Windows
+  - Navegadores da Web no Windows 10
+
+
+  #### Laboratório&#58; Sideloading App
+
+  #### Laboratório&#58; Instalando e atualizando aplicativos da Microsoft Store
+
+  #### Laboratório&#58; Configurando o Modo Enterprise do Internet Explorer
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os diferentes tipos de aplicativos.
+  - Instalar aplicativos manualmente e usando métodos automatizados.
+  - Gerenciar a implantação de aplicativos usando a Windows Store.
+  - Aprenda sobre os recursos do navegador da Web no Windows 10.
+
+
+  ### Módulo 7&#58; Configurando Autorização e Autenticação
+  Este módulo apresenta as ferramentas e os recursos do Windows 10 para autorizar o acesso aos clientes Windows 10. Os alunos aprenderão sobre métodos de como os usuários entram no Windows 10.  Este módulo também cobre a restrição do que os usuários podem ou não fazer em um dispositivo através de métodos como UAC e tipos de conta.
+  #### Lições
+  - Autenticação
+  - Configurando controle de conta do usuário
+  - Implementar o registro do dispositivo
+
+
+  #### Laboratório&#58; Entrando em um domínio
+
+  #### Laboratório&#58; Criando diretivas de segurança
+
+  #### Laboratório&#58; Configurando o UAC
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os diferentes métodos para proteger dados e o sistema operacional Windows 10.
+  - Descrever os diferentes tipos de contas de usuário e serviço.
+  - Configurar o Windows Hello.
+  - Configurando controle de conta do usuário.
+
+
+  ### Módulo 8&#58; Configurando acesso e uso de dados
+  Neste módulo, os alunos aprenderão sobre permissões. Este módulo abordará considerações para diferentes sistemas de arquivos. Os alunos aprenderão como configurar permissões de arquivo e pasta, além de pastas compartilhadas. O módulo concluirá com a definição de configurações por métodos como diretiva local e de grupo.
+  #### Lições
+  - Visão geral dos sistemas de arquivos
+  - Configurando e gerenciando o acesso a arquivos
+  - Configurando e gerenciando pastas compartilhadas
+
+
+  #### Laboratório&#58; Criando, gerenciando e compartilhando uma pasta
+
+  #### Laboratório&#58; Usando condições para controlar o acesso e permissões efetivas
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever as diferenças e os benefícios dos sistemas de arquivos suportados.
+  - Configurar permissões a arquivos e pastas.
+  - Configurar pastas compartilhadas.
+  - Proteger o Windows através das configurações de diretiva local.
+
+
+  ### Módulo 9&#58; Configurando proteção contra ameaças e segurança avançada
+  Este módulo apresenta aos alunos a proteção de dispositivos contra ameaças externas. Os alunos aprenderão sobre os diferentes tipos de ameaças comuns. Este módulo ensinará os alunos sobre o uso de criptografia, firewalls e IPSec para ajudar a proteger contra ameaças. O módulo concluirá como configurar e usar o Windows Defender e o AppLocker.
+  #### Lições
+  - Proteção contra malware e ameaças
+  - Windows Defender
+  - Regras de segurança de conexão
+  - Métodos avançados de proteção
+
+
+  #### Laboratório&#58; Configurando o Windows Defender
+
+  #### Laboratório&#58; Criando regras de firewall
+
+  #### Laboratório&#58; Criando regras de segurança de conexão
+
+  #### Laboratório&#58; Usando EFS
+
+  #### Laboratório&#58; Usando o Bitlocker
+
+  #### Laboratório&#58; Configurando o AppLocker
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Identificar ameaças de segurança comuns.
+  - Descrever os métodos pelos quais você pode mitigar essas ameaças de segurança comuns.
+  - Descrever os diferentes métodos de criptografia.
+  - Descrever como o firewall do Windows pode proteger o dispositivo.
+  - Descrever os benefícios do uso do IPSec.
+  - Descrever os diferentes recursos do Windows Defender.
+  - Descrever os benefícios do uso do AppLocker.
+
+
+  ### Módulo 10&#58; Suporte ao ambiente Windows 10
+  ### Este módulo cobrirá a arquitetura do Windows 10 e ambientes comuns. Os alunos serão apresentados às várias ferramentas usadas na manutenção do Windows. Este módulo também discutirá metodologias para solucionar problemas de maneira eficaz e como gerenciar e otimizar proativamente o Windows 10.
+
+  #### Lições
+  - Arquitetura do Windows
+  - Ferramentas de suporte e diagnóstico
+  - Monitorando e solucionando problemas de desempenho do computador
+
+
+  #### Laboratório&#58; Monitorando Eventos
+
+  #### Laboratório&#58; Monitorando a confiabilidade e o desempenho
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a arquitetura do Windows.
+  - Descrever os principais estágios da solução de problemas.
+  - Descrever o objetivo e os benefícios das várias ferramentas no Windows.
+  - Usar as ferramentas de monitoramento para estabelecer uma linha de base de desempenho
+  - Otimizar o desempenho em clientes Windows 10.
+
+
+  ### Módulo 11&#58; Solução de problemas de arquivos e aplicativos
+  Este módulo ajuda os alunos a planejar o backup e a recuperação de arquivos.  Os alunos aprenderão como planejar e configurar estratégias de proteção de dados e como executar vários métodos de recuperação de arquivos e sistemas.  Este módulo também inclui métodos comuns para solucionar problemas de instalação de aplicativos, problemas de compatibilidade e resolver problemas do navegador.
+  #### Lições
+  - Recuperação de arquivos no Windows 10
+  Solução de problemas do aplicativo
+
+
+  #### Laboratório&#58; Usando o histórico de arquivos para recuperar arquivos
+
+  #### Laboratório&#58; Solução de problemas de aplicativos da área de trabalho
+
+  #### Laboratório&#58; Solucionando problemas de compatibilidade de aplicativos
+
+  #### Laboratório&#58; Solução de problemas do Microsoft Edge
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os diferentes métodos de recuperação de arquivos.
+  - Configurar o Windows 10 para oferecer suporte à recuperação individual de arquivos e sistemas.
+  - Recuperar um dispositivo usando a função Redefinir este PC
+  - Resolver problemas de compatibilidade de aplicativos com o Kit de Ferramentas de Compatibilidade de Aplicativos
+  - Solucionar problemas comuns do navegador.
+
+
+  ### Módulo 12&#58; Solucionando problemas do sistema operacional
+  Neste módulo, os alunos aprenderão como solucionar problemas de inicialização e serviço relacionados ao sistema operacional.  Este módulo ensinará as diferentes opções de inicialização e recuperação e como solucionar diferentes serviços do Windows.
+  #### Lições
+  - Solucionando problemas de inicialização do Windows
+  - Solucionando problemas de serviço do sistema operacional
+
+
+  #### Laboratório&#58; Recuperando usando Redefinir este PC
+
+  #### Laboratório&#58; Recuperando usando um ponto de restauração
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os vários métodos para identificar e recuperar problemas de inicialização.
+  - Descrever quando usar as várias opções de inicialização avançada.
+  - Identificar e desativar um serviço com falha.
+  - Identificar e atenuar cenários comuns de conta bloqueada.
+
+
+  ### Módulo 13&#58; Solução de problemas de hardware e drivers
+  Este módulo apresenta a solução de problemas de hardware.  Os alunos aprenderão sobre o gerenciamento de drivers e como solucionar problemas de dispositivos. Os alunos também aprenderão as etapas para solucionar problemas de hardware do sistema e periféricos externos, como unidades e impressoras USB, incluindo métodos de diagnóstico e correção.
+  #### Lições
+  - Solução de problemas de falhas do driver do dispositivo
+  - Visão geral da solução de problemas de hardware
+  - Solucionando problemas de falhas físicas
+
+
+  #### Laboratório&#58; Recuperando usando a reversão de driver
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Solucionar e corrigir os problemas do driver.
+  - Solucionar problemas de periféricos
+  - Diagnosticar e substituir o hardware.

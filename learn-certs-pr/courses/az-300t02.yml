@@ -1,0 +1,83 @@
+### YamlMime:Course
+title: Implementando cargas de trabalho e segurança
+metadata:
+  title: 'Curso AZ-300T02-A: Implementação de cargas de trabalho e segurança'
+  description: 'Curso AZ-300T02-A: Implementação de cargas de trabalho e segurança'
+uid: course.az-300t02
+courseNumber: 'AZ-300T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Avaliar e realizar a migração de servidor para o Azure
+- skill: Implementação e gerenciamento de serviços de aplicativo
+- skill: Implementação de redes virtuais avançadas
+- skill: Proteção de identidades usando o Azure AD
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  Este curso ensina os profissionais de TI a descobrir, avaliar, planejar e implementar uma migração de recursos e infraestrutura locais para o Azure. Os estudantes aprenderão a usar o Azure Migrate para executar a fase de descoberta e avaliação crítica para uma migração bem-sucedida. Os estudantes também aprenderão a usar o Azure Site Recovery para realizar a migração real de cargas de trabalho para o Azure. O curso se concentra principalmente no uso do ASR em uma infraestrutura Hyper-V para preparar e concluir o processo de migração. 
+
+  Além disso, os estudantes aprenderão a implementar recursos de computação sem servidor, como Azure Functions, Grade de Eventos e Barramento de Serviço. Os estudantes saberão como a Autenticação Multifator do Azure pode ajudar a proteger o acesso aos dados e aplicativos, que permite atender à demanda dos clientes por um processo de logon simples. Além disso, os alunos aprenderão como usar o Privileged Identity Management do Azure Active Directory para gerenciar, controlar e monitorar o acesso aos recursos do Azure em sua organização.
+
+  Saiba como gerenciar e manter a infraestrutura dos principais aplicativos e serviços da Web que os desenvolvedores criam e implementam. Os estudantes aprenderão como o Serviço de Aplicativo do Azure é usado como uma Plataforma como Serviço (PaaS) para implementar aplicativos em nuvem para ambientes da Web e móveis.
+
+  Por último, os alunos receberão noções gerais de como implementar recursos avançados de rede, como o Application Gateway, como configurar o balanceamento de carga, como integrar redes locais às redes virtuais do Azure e como usar o Observador de Rede para monitorar e diagnosticar problemas.
+
+  #### Perfil do público
+  Os arquitetos de soluções do Azure bem-sucedidos iniciam essa função com experiência em sistemas operacionais, virtualização, infraestrutura de nuvem, estruturas de armazenamento, cobrança e rede.
+outlineSection: |-
+  ### Módulo 1&#58; Avaliar e realizar a migração de servidor para o Azure
+  Este módulo abrange a migração de cargas de trabalho para um novo ambiente, seja outro datacenter ou uma nuvem pública, e a definição de objetivos claros para a migração. Os objetivos de migração podem se basear na tecnologia e nos negócios e as vantagens para os negócios de uma organização. As atividades incluem componentes do processo de migração do Azure&#58; criação de projetos, criação de coletores, avaliação da preparação e estimativa de custos. Além disso, você receberá uma visão geral do Azure Site Recovery (ASR), que inclui cenários ponta a ponta.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Avaliar e realizar a migração do servidor para o Azure
+
+
+  ### Módulo 2&#58; Implementação e gerenciamento de serviços de aplicativo
+  Este módulo inclui os seguintes tópicos&#58; implementação e gerenciamento de aplicativos Web, segurança do serviço de aplicativo, conceitos de computação sem servidor, gerenciamento de grade de eventos, gerenciamento de barramento de serviço e gerenciamento de aplicativos lógicos.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar e gerenciar serviços de aplicativo
+
+
+  ### Módulo 3&#58; Implementação de rede virtual avançada
+  Este módulo inclui os seguintes tópicos&#58; Azure Load Balancer, gateway de aplicativo do Azure, conexões VPN entre sites, bem como uma visão geral do ExpressRoute, que permite que as empresas estendam redes locais para a nuvem da Microsoft através de uma conexão privada dedicada facilitada por um provedor de conectividade.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar uma rede virtual avançada
+
+
+  ### Módulo 4&#58; Proteção de identidades
+  Este módulo inclui os seguintes tópicos, com ênfase na identidade e funções&#58; proteção de identidade do Azure AD, domínios e locatários do Azure, usuários e grupos do Azure, Azure Functions, bem como uma visão geral das opções de integração do Azure AD que se concentram no Azure AD Connect para integrar diretórios locais ao Azure Active Directory.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Proteção de identidades usando o Azure AD.

@@ -1,0 +1,129 @@
+### YamlMime:Course
+title: Migração de dados e preparação para ativação com o Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Curso MB-300T03-A: Migração de dados e preparação para ativação com o Dynamics 365 for Finance and Operations'
+  description: 'Curso MB-300T03-A: Migração de dados e preparação para ativação com o Dynamics 365 for Finance and Operations'
+uid: course.mb-300t03
+courseNumber: 'MB-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-300
+summary: |-
+  As organizações usam o Dynamics 365 for Finance and Operations para reduzir custos operacionais e responder rapidamente às mudanças nas necessidades de negócios. Essa solução permite que as organizações atinjam esses objetivos.
+
+  Este curso discute a migração de dados e a preparação da ativação do Microsoft Dynamics 365 for Finance and Operations.
+
+  #### Perfil do público
+  Um Consultor Funcional do Dynamics 365 for Finance and Operations é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+prerequisitesSection: |-
+  Compreensão básica dos conceitos de ERP e CRM.
+outlineSection: |-
+  ### Módulo 1&#58; Preparar dados para migração e migrar dados
+  Esta unidade explora padrões de integração, cenários e soluções para Finanças e Operações. Embora esta unidade não inclua detalhes técnicos sobre como usar ou configurar todos os padrões de integração ou como trabalhar com código de amostra, é sempre aconselhável conhecer as ferramentas de integração disponíveis.
+  #### Lições
+  - Introdução
+  - Entender o recurso BYOD
+  - Executar uma migração de teste e Validar saída
+  - Resumo do módulo
+  
+
+  Quando chega a hora da migração de dados, quanto mais se sabe, mais fácil é controlar a complexidade operacional e reduzir custos. A continuidade dos negócios do cliente deve ser a prioridade. Neste módulo, os alunos aprenderão como preparar dados para uma migração bem-sucedida, identificando fatores importantes, como sistemas legados e dados estáticos e comuns.
+  
+  
+  Neste módulo, os alunos aprenderam como&#58;
+  - Escolher uma estratégia de integração de dados (importação/exportação)
+  - Identificar cenários e ferramentas comuns de migração em finanças e operações
+  - Entender o recurso traga seu próprio banco de dados (BYOD)
+  - Identificar sistemas relevantes (legados)
+  - Identificar e importar dados estáticos comuns entre os setores
+  - Criar e revisar planos de teste para migração de dados
+  - Identificar e extrair dados de origem
+  - Identificar entidades e elementos de dados relevantes
+  - Gerar mapeamento de campo entre estruturas de dados de origem e destino
+  - Executar uma migração de teste e Validar saída
+  - Apoiar a transição entre os sistemas existentes e migrados
+
+
+  ### Módulo 2&#58; Usar gerenciamento de dados
+  Neste módulo, os alunos terão uma visão geral dos conceitos básicos da plataforma de gerenciamento de dados. Os alunos também aprenderão como importar e exportar dados no Dynamics 365 for Finance and Operations usando o espaço de trabalho Gerenciamento de dados.
+
+  Por fim, eles aprenderão como usar os recursos de integração recorrente assíncrona da plataforma de gerenciamento de dados. A estrutura de gerenciamento de dados pode ser usada para gerenciar entidades de dados e pacotes de entidades de dados no Finance and Operations.
+  #### Lições
+  - Introdução
+  Compreender o gerenciamento e integração de dados
+  - Espaço de trabalho de gerenciamento de dados
+  - Modelos no gerenciamento de dados
+  - Importar, exportar e copiar dados para uma entidade legal
+  - Laboratórios práticos
+  - Resumo do módulo
+  
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Identificar o padrão correto para um determinado cenário para usar o Data Management Platform for Integration usando entidades de Dados
+  - Trabalhar com a área de trabalho Gerenciamento de dados
+  - Exportar dados de uma entidade legal
+  - Importar dados para uma entidade legal
+  - Trabalhar com tarefas de importação e exportação de dados
+  - Limpar as tabelas de preparação
+
+
+  ### Módulo 3&#58; Executar teste de aceitação do usuário
+  Para testar e avaliar a solução do cliente antes da entrada em operação, é necessário ter um ambiente do Dynamics 365 for Finance and Operations que possua todas as configurações e possíveis personalizações por meio de extensões.
+
+  É sempre benéfico ter uma metodologia para garantir que a criação e o teste sejam organizados e planejados adequadamente para cenários de caso de teste curtos, eficientes e focados em funções.
+  #### Lições
+  - Introdução
+  - Criar e executar casos de teste para aceitação do usuário
+  - Laboratório Prático
+  - Resumo do módulo
+  
+
+  Neste módulo, os alunos aprenderam sobre o&#58;
+  - Como entender a correlação entre casos de teste e requisitos de negócios
+  - Práticas recomendadas para registrar casos de teste
+  - Gravador de tarefas
+  - Como criar uma biblioteca de BPM de teste de aceitação de cenário
+  - Como sincronizar e configurar seu plano de teste no Azure DevOps
+  - Como executar testes
+
+
+  ### Módulo 4&#58; Prepare-se para ir ao vivo
+  Todo o trabalho árduo se torna um sucesso ao mover a solução implementada no Dynamics 365 for Finance and Operations para o ambiente de produção. Esse é um estágio crucial e final dessa experiência emocionante de concluir uma implementação.
+
+  O objetivo é um cliente feliz, uma solução de qualidade e tranqüilidade durante esta importante fase, conhecida como entrada em operação. Não se pode garantir o sucesso sem saber como se preparar para a ativação do Finance and Operations e o estágio final da implementação.
+
+  #### Lições
+  - Introdução
+  - Prepare-se para ir ao vivo
+  - Resumo do módulo
+  
+
+  Neste módulo, os alunos terão aprendido como&#58;
+  - Preparar-se para ir ao vivo
+  - Concluir a metodologia de serviços de ciclo de vida (LCS)
+  - Executar o teste de aceitação do usuário (UAT) para sua solução
+  - Compreender a avaliação de entrada em funcionamento do FastTrack
+  - Solicitar o ambiente de produção
+
+
+  ### Módulo 5&#58; Conclusão do Curso
+  Avaliação final e resumo do curso, bem como uma pesquisa pós-curso.
+  #### Lições
+  - Avaliação final
+  - Resumo do curso
+  - Pesquisa pós-curso
+  
+
+  Os alunos terão concluído o curso.

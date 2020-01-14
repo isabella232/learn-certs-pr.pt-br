@@ -1,0 +1,293 @@
+### YamlMime:Course
+title: Gerenciamento do Microsoft Exchange Server 2016/2019
+metadata:
+  title: 'Curso 20345-1-B: Gerenciamento do Microsoft Exchange Server 2016/2019'
+  description: 'Curso 20345-1-B: Gerenciamento do Microsoft Exchange Server 2016/2019'
+uid: course.20345-1
+courseNumber: '20345-1-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Implementar o Exchange Server.
+- skill: Planejar e configurar o armazenamento para o Exchange Server.
+- skill: Criar e gerenciar vários objetos de destinatário no Exchange Server.
+- skill: Executar tarefas de gerenciamento de destinatários e gerenciamento do servidor Exchange usando os cmdlets do Exchange Server.
+- skill: Implementar serviços de acesso para cliente no Exchange Server.
+- skill: Gerenciar a alta disponibilidade no Exchange Server.
+- skill: Implementar a recuperação de desastres no Exchange Server.
+- skill: Configurar e gerenciar o transporte de mensagens no Exchange Server.
+- skill: Configurar a segurança de mensagens no Exchange Server.
+- skill: Monitorar e diagnosticar problemas no Exchange Server.
+- skill: Configure as permissões de controle de acesso baseado em funções do Exchange Server e configurar o log de auditoria para administradores e usuários.
+- skill: Implementar e gerenciar a integração com o Exchange Online.
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.70-345
+summary: |-
+  Este curso ensina os profissionais de TI a administrar e dar suporte ao Exchange Server. O curso aborda como instalar e configurar o Exchange Server. Ele também aborda como gerenciar destinatários de e-mail e pastas públicas, incluindo como executar operações em massa usando o shell de gerenciamento do Exchange. Além disso, o curso aborda como gerenciar a conectividade do cliente, transporte e limpeza de mensagens e implementações do Exchange Server de alta disponibilidade. Ele também aborda como implementar soluções de recuperação de desastres. Por último, o curso aborda como manter e monitorar uma implementação do Exchange Server e como administrar o Exchange Online em uma implementação do Office 365.
+
+  #### Perfil do público
+  O público deste curso inclui administradores de mensagens de nível corporativo no Exchange Server. Os especialistas de TI e os profissionais de suporte técnico que desejam aprender sobre o Exchange Server também podem fazer este curso. Os estudantes que frequentam este curso tenham pelo menos dois anos de experiência na área de TI, geralmente nas áreas de administração do Windows Server, administração de rede, serviço de assistência ou administração de sistemas. Além disso, devem ter alguma experiência com os conceitos do Exchange Server, mas a experiência anterior no gerenciamento do Exchange Server não é uma exigência.
+prerequisitesSection: |-
+  - Além de experiência profissional, os estudantes que fizerem esse curso devem ter o seguinte conhecimento técnico&#58;
+  - Mínimo de dois anos de experiência na administração do Windows Server.
+  - Mínimo de dois anos de experiência profissional em Active Directory Domain Services (AD DS).
+  - Mínimo de dois anos de experiência profissional em resolução de nomes, incluindo sistema de nome de domínios (DNS).
+  - Compreensão dos conceitos de TCP/IP e redes.
+  - Compreensão de conceitos de segurança, como autenticação e autorização.
+  - Compreensão do SMTP (Simple Mail Transfer Protocol).
+  - Conhecimento prático de tecnologias de infraestrutura de chave pública (PKI), incluindo Serviços de Certificados do Active Directory (AD CS).
+outlineSection: |-
+  ### Módulo 1&#58; Implementação do Exchange Server
+  Este módulo descreve os principais recursos e a arquitetura do Exchange Server. Ele também explica os pré-requisitos e requisitos para implementação do Exchange Server. Além disso, descreve como usar o centro de administração do Exchange e o shell de gerenciamento do Exchange para gerenciamento do Exchange Server.
+  #### Lições
+  - Visão geral do Exchange Server
+  - Arquitetura do Exchange Server
+  - Requisitos para Exchange Server
+  - Implementação do Exchange Server
+  - Ferramentas de gerenciamento do Exchange Server
+
+
+  #### Laboratório&#58; Implementação do Exchange Server
+  - Avaliação de requisitos e pré-requisitos para instalação do Exchange Server 2019
+  - Implementação do Exchange Server 2019
+  - Verificação da funcionalidade do Exchange Server
+  - Instalação do Exchange Server 2019 no Windows Server Core 2019 (opcional)
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os principais recursos e a arquitetura do Exchange Server.
+  - Descrever a arquitetura do Exchange Server.
+  - Descrever os requisitos e opções para implementação do Exchange Server.
+  - Implementação do Exchange Server.
+  - Descrever como usar as ferramentas de gerenciamento para gerenciar o Exchange Server.
+
+
+  ### Módulo 2&#58; Gerenciamento do armazenamento do Exchange Server 2016
+  Este módulo descreve os recursos dos bancos de dados de caixa de correio e as opções de armazenamento disponíveis para o Exchange Server. Ele também descreve como configurar os bancos de dados e o armazenamento da caixa de correio do Exchange Server.
+  #### Lições
+  - Bancos de dados de caixa de correio do Exchange Server
+  - Armazenamento do Exchange Server
+  - Configuração de bancos de dados de caixa de correio e armazenamento do Exchange Server
+
+
+  #### Laboratório&#58; Configuração do armazenamento do Exchange Server
+  - Criação e configuração de bancos de dados de caixa de correio
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os recursos dos bancos de dados de caixa de correio do Exchange Server.
+  - Descrever as opções de armazenamento disponíveis para o Exchange Server.
+  - Configurar os bancos de dados de caixa de correio e armazenamento do Exchange Server.
+
+
+  ### Módulo 3&#58; Gerenciamento de objetos do destinatário
+  Este módulo descreve como gerenciar as caixas de correio de usuário, compartilhadas, de recursos, de pastas públicas e de arbitragem no Exchange Server. Ele também descreve como gerenciar contatos, usuários de e-mail e grupos de distribuição no Exchange Server. Por último, descreve como configurar as listas de endereços e as políticas de endereço de e-mail e catálogo de endereços no Exchange Server.
+  #### Lições
+  - Gerenciando caixas de correio do usuário
+  - Gerenciando outros tipos de caixas de correio
+  - Gerenciando outros objetos do destinatário
+  - Configuração de políticas e listas de endereços
+
+
+  #### Laboratório&#58; Gerenciamento de objetos de destinatário
+  - Configuração de objetos do destinatário
+  - Gerenciamento de caixas de correio de pastas públicas
+
+
+  #### Laboratório&#58; Configuração de listas de endereços e políticas
+  - Gerenciamento de políticas de endereço de e-mail
+  - Gerenciamento de listas de endereços e políticas do catálogo de endereços
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Gerenciar caixas de correio do usuário no Exchange Server.
+  - Gerenciar caixas de correio compartilhadas, de recursos, de pastas públicas e de arbitragem no Exchange Server.
+  - Gerenciar contatos, usuários de e-mail e grupos de distribuição no Exchange Server.
+  Configurar as listas de endereços e as políticas de endereço de e-mail e catálogo de endereços no Exchange Server.
+
+
+  ### Módulo 4&#58; Gerenciamento de destinatários e de servidores do Exchange usando cmdlets do Exchange Server
+  Este módulo descreve como gerenciar destinatários usando os cmdlets do Exchange Server. Ele também descreve como gerenciar servidores do Exchange usando cmdlets e scripts do Exchange Server.
+  #### Lições
+  - Visão geral do shell de gerenciamento do Exchange
+  - Gerenciamento de servidores do Exchange usando os cmdlets do shell de gerenciamento do Exchange
+  - Gerenciamento de servidores do Exchange por meio de scripts
+
+
+  #### Laboratório&#58; Gerenciamento do Exchange Server e de objetos do destinatário usando o shell de gerenciamento do Exchange
+  - Uso do shell de gerenciamento do Exchange para gerenciar destinatários
+  - Uso do shell de gerenciamento do Exchange para gerenciar o Exchange Server
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Gerenciar destinatários usando os cmdlets do Exchange Server.
+  - Gerenciar servidores do Exchange usando cmdlets do Exchange Server.
+  - Gerenciar servidores do Exchange usando scripts.
+
+
+  ### Módulo 5&#58; Implementação da conectividade do cliente
+  Este módulo descreve como configurar e gerenciar os serviços de acesso ao cliente no Exchange Server. Ele também descreve as opções de conectividade do cliente para o Exchange Server e como configurar o Outlook na web. Além disso, descreve como configurar as mensagens móveis para o Exchange Server.
+  #### Lições
+  - Configuração dos serviços de acesso ao cliente
+  - Gerenciamento de serviços de acesso ao cliente
+  - Conectividade do cliente no Exchange Server
+  - Configuração do Outlook na Web
+  - Configuração das mensagens móveis
+
+
+  #### Laboratório&#58; Configuração dos serviços de acesso ao cliente
+  - Configuração de namespaces para acesso ao cliente
+  - Configuração de certificados para acesso ao cliente
+  - Configuração de dicas de e-mail personalizadas
+
+
+  #### Laboratório&#58; Implementação e configuração de serviços de acesso ao cliente no Exchange Server
+  - Configuração do Exchange Server para Outlook
+  - Configuração do Outlook na Web
+  - Configuração do Microsoft Exchange ActiveSync
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar serviços de acesso ao cliente no Exchange Server.
+  - Gerenciar de serviços de acesso ao cliente.
+  - Descrever a conectividade do cliente e a publicação dos serviços do Exchange Server.
+  - Configurar o Outlook na Web.
+  - Configure mensagens móveis no Exchange Server.
+
+
+  ### Módulo 6&#58; Gerenciar a alta disponibilidade no Exchange Server
+  Este módulo descreve as opções de alta disponibilidade para o Exchange Server. Ele também descreve como configurar bancos de dados de caixa de correio e serviços de acesso ao cliente de alta disponibilidade usando métodos de balanceamento de carga.
+  #### Lições
+  - Alta disponibilidade no Exchange Server
+  - Configuração dos bancos de dados de caixa de correio de alta disponibilidade
+  - Configuração de alta disponibilidade dos serviços de acesso ao cliente
+
+
+  #### Laboratório&#58; Implementação de DAGs
+  - Criação e configuração de DAGs
+
+
+  #### Laboratório&#58; Implementação e teste de alta disponibilidade
+  - Implementação de uma solução de alta disponibilidade para serviços de acesso ao cliente
+  - Teste de configuração de alta disponibilidade
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a alta disponibilidade no Exchange Server.
+  - Configurar bancos de dados de caixa de correio de alta disponibilidade.
+  - Configurar serviços de acesso ao cliente com alta disponibilidade.
+
+
+  ### Módulo 7&#58; Implementação da recuperação de desastres para o Exchange Server
+  Este módulo descreve os recursos de backup e recuperação do Exchange Server e os detalhes que devem ser considerados ao criar um plano de backup.
+  #### Lições
+  - Implementação de backup do Exchange Server
+  - Implementação de recuperação do Exchange Server
+
+
+  #### Laboratório&#58; Backup de dados do Exchange Server
+  - Fazer backup de um banco de dados de caixa de correio do Exchange Server
+
+
+  #### Laboratório&#58; Recuperação de dados do Exchange Server
+  - Recuperação da caixa de correio do Exchange Server
+  - Recuperação de um membro do grupo de disponibilidade do banco de dados (DAG) (opcional)
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Fazer backup de dados do Exchange Server.
+  - Recuperar os dados do Exchange Server usando os backups configurados.
+
+
+  ### Módulo 8&#58; Configuração e gerenciamento de transporte de mensagens
+  Este módulo descreve o transporte de mensagens no Exchange Server. Ele também descreve como configurar o transporte de mensagens e como gerenciar regras de transporte no Exchange Server.
+  #### Lições
+  - Visão geral do transporte de mensagens
+  - Configuração do transporte de mensagens
+  - Gerenciamento de regras de transporte
+
+
+  #### Laboratório&#58; Configuração e gerenciamento de transporte de mensagens
+  - Configuração do transporte de mensagens
+  - Monitoramento e verificação da entrega de mensagens
+  - Configuração de isenção de responsabilidade da regra de transporte
+  - Configuração de uma política de DLP para dados financeiros
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever o transporte de mensagens no Exchange Server.
+  - Configurar o transporte de mensagens no Exchange Server.
+  - Gerenciar regras de transporte no Exchange Server.
+
+
+  ### Módulo 9&#58; Configuração da segurança de mensagens
+  Este módulo descreve como implementar e gerenciar um servidor de Transporte de Borda para segurança de mensagens. Ele também descreve como implementar soluções antivírus e antispam para o Exchange Server.
+  #### Lições
+  - Implementação e gerenciamento de um servidor de Transporte de Borda para segurança de mensagens
+  - Implementação de uma solução antivírus para o Exchange Server
+  - Implementação de uma solução antispam para o Exchange Server
+
+
+  #### Laboratório&#58; Configuração da segurança de mensagens no Exchange Server
+  - Configuração e teste do EdgeSync
+  - Configuração de recursos de proteção antivírus, antispam e malware
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar e gerenciar um servidor de Transporte de Borda para segurança de mensagens.
+  - Implementar uma solução antivírus para o Exchange Server.
+  - Implementar uma solução antispam para o Exchange Server.
+
+
+  ### Módulo 10&#58; Monitoramento e diagnóstico de problemas do Exchange Server
+  Este módulo descreve como configurar o monitoramento de desempenho e diagnosticar problemas no Exchange Server.
+  #### Lições
+  - Monitoramento do Exchange Server
+  - Diagnóstico de problemas do Exchange Server
+
+
+  #### Laboratório&#58; Monitoramento e diagnóstico de problemas do Exchange Server
+  - Monitoramento do Exchange Server
+  - Diagnóstico de problemas de disponibilidade do banco de dados
+  - Diagnóstico de problemas de servidores de acesso ao cliente
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar o monitoramento de desempenho no Exchange Server.
+  - Diagnosticar problemas do Exchange Server.
+
+
+  ### Módulo 11&#58; Proteção e manutenção do Exchange Server
+  Este módulo descreve como proteger o Exchange Server usando o RBAC (controle de acesso baseado em função). Ele também descreve como configurar o log de auditoria no Exchange Server e como manter e atualizar o Exchange Server.
+  #### Lições
+  - Proteção do Exchange Server por meio de RBAC
+  - Configuração do log de auditoria no Exchange Server
+  - Manutenção do Exchange Server
+
+
+  #### Laboratório&#58; Proteção e manutenção do Exchange Server
+  - Configuração de permissões do Exchange Server
+  - Configuração do log de auditoria
+  - Manutenção do Exchange Server
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Proteger o Exchange Server usando o RBAC.
+  - Configurar o log de auditoria no Exchange Server.
+  - Manter e atualizar o Exchange Server.
+
+
+  ### Módulo 12&#58; Implementação e gerenciamento de implementações do Exchange Online
+  Este módulo descreve o Exchange Online e o Office 365 e como gerenciá-los. Ele também descreve como implementar uma migração para o Exchange Online.
+  #### Lições
+  - Visão geral do Exchange Online e Office 365
+  - Gerenciamento do Exchange Online
+  - Implementação a migração para o Exchange Online
+  - Gerenciamento de um ambiente híbrido
+
+
+  #### Laboratório&#58; Gerenciamento do Exchange Online
+  - Gerenciamento do Exchange Online
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Fornecer uma visão geral do Exchange Online e do Office 365.
+  - Gerenciar o Exchange Online.
+  - Implementar a migração para o Exchange Online.

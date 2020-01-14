@@ -1,0 +1,85 @@
+### YamlMime:Course
+title: Desenvolvimento de serviços de armazenamento do Azure
+metadata:
+  title: 'Curso AZ-203T03-A: Desenvolvimento de serviços de armazenamento do Azure'
+  description: 'Curso AZ-203T03-A: Desenvolvimento de serviços de armazenamento do Azure'
+uid: course.az-203t03
+courseNumber: 'AZ-203T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+exams:
+- uid: exam.az-203
+summary: |-
+  Neste curso, os estudantes obterão o conhecimento e as habilidades necessárias para utilizar os serviços e recursos de armazenamento do Azure em suas soluções de desenvolvimento. O curso abrange o armazenamento de Tabelas do Azure, Azure Cosmos DB, Azure Blob e desenvolvimento em bancos de dados relacionais no Azure.
+
+  #### Perfil do público
+  - Os estudantes deste curso estão interessados no desenvolvimento do Azure ou na aprovação no exame de certificação Microsoft Azure Developer Associate.
+prerequisitesSection: |-
+  - Os estudantes devem ter 1-2 anos de experiência como desenvolvedor. Este curso pressupõe que os alunos saibam codificar e tenham conhecimento básico do Azure.
+  - É recomendável que os estudantes tenham alguma experiência no PowerShell ou CLI do Azure ou experiência profissional no portal do Azure e pelo menos em uma linguagem de programação suportada pelo Azure. A maioria dos exemplos deste curso é apresentada em C# .NET.
+outlineSection: |-
+  ### Módulo 1&#58; Desenvolvimento de soluções com base no Armazenamento da Tabela do Azure
+  O Armazenamento da Tabela do Azure é um serviço que armazena dados estruturados do NoSQL na nuvem, fornecendo um repositório de chaves/atributos com design sem esquema. Uma vez que o armazenamento da tabela não possui esquema, é fácil adaptar seus dados à medida que as necessidades do seu aplicativo evoluem.
+  #### Lições
+  - Visão geral do Armazenamento da Tabela do Azure
+  - Autorização no armazenamento de tabela
+  - API REST do serviço de tabela
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender os recursos e usos do Armazenamento da Tabela do Azure
+  - Saber como usar a autorização de chave compartilhada
+  - Saber como usar o serviço REST de Armazenamento da Tabela do Azure para gerenciar dados
+
+
+  ### Módulo 2&#58; Desenvolvimento de soluções que usam o armazenamento do Azure Cosmos DB
+  Este módulo abrange o armazenamento do Azure Cosmos DB. Ele orienta os estudantes sobre como funciona, como gerenciar contêineres e itens, além de criar e atualizar documentos usando arquivos de código.
+  #### Lições
+  - Visão geral do Azure Cosmos DB
+  - Gerenciamento de contêineres e itens
+  - Criação e atualização de documentos usando arquivos de código
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender os recursos e funcionalidades básicas do Azure Cosmos DB
+  - Gerenciar contêineres e itens
+  - Criar e gerenciar documentos
+
+
+  ### Módulo 3&#58; Desenvolver soluções que usam um banco de dados relacional
+  O banco de dados SQL é um serviço gerenciado de banco de dados relacional de uso geral no Microsoft Azure compatível com estruturas como dados relacionais e espaciais, JSON e XML.
+  #### Lições
+  - Visão geral do Azure SQL
+  - Criação, leitura, atualização e exclusão de tabelas de banco de dados usando arquivos de código
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Conhecer o funcionamento do serviço do banco de dados SQL do Azure
+  - Realizar operações condicionais utilizando arquivos de código
+
+
+  ### Módulo 4&#58; Desenvolvimento de soluções que usam armazenamento de blob do Microsoft Azure
+  O armazenamento de blob do Azure é a solução de armazenamento de objetos na nuvem da Microsoft. O armazenamento de blob é otimizado para armazenar grandes quantidades de dados não estruturados. Dados não estruturados são aqueles que não aderem a um determinado modelo ou definição de dados, como texto ou dados binários.
+  #### Lições
+  - Visão geral do armazenamento de blob do Azure
+  - Trabalhando com armazenamento de blob do Azure
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender quando e por que usar o armazenamento de blob do Azure
+  - Definir e recuperar propriedades e metadados de armazenamento de blob
+  - Replicar e copiar blobs

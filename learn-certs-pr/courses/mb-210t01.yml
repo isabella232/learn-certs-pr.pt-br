@@ -1,0 +1,92 @@
+### YamlMime:Course
+title: Dynamics 365 para envolvimento do cliente para vendas
+metadata:
+  title: 'Curso MB-210T01-A: Dynamics 365 para envolvimento do cliente para vendas'
+  description: 'Curso MB-210T01-A: Dynamics 365 para envolvimento do cliente para vendas'
+uid: course.mb-210t01
+courseNumber: 'MB-210T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Instalar e configurar o aplicativo
+- skill: Identificar cenários de vendas comuns
+- skill: Concluir um ciclo de vendas
+- skill: Configurar catálogo de produtos
+- skill: Gerenciar os registros de clientes
+- skill: Utilizar ferramentas de análise com dados do cliente
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+exams:
+- uid: exam.mb-210
+summary: |-
+  O Microsoft Dynamics 365 for Sales é um aplicativo de ponta a ponta para gerenciar o tratamento de clientes e potenciais clientes; auxilia no rastreamento de dados em relação às metas de vendas, automatizando as melhores práticas, aprendendo com os dados e muito mais.
+
+  Nossa equipe de especialistas reconhecidos globalmente leva os alunos passo a passo, do lead à oportunidade, ao negócio fechado. Usando as opções de automação e personalização disponíveis do aplicativo, os alunos aprenderão como permitir que a equipe de vendas seja a pessoa mais produtiva.
+
+  #### Perfil do público
+  Um consultor funcional do Dynamics 365 Customer Engagement é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+prerequisitesSection: |-
+  Familiaridade dos aplicativos de negócios e o desejo de personalizá-los e implementá-los para os negócios.
+outlineSection: |-
+  ### Módulo 1&#58; Visão geral de vendas
+  Neste módulo, os alunos aprenderão o básico de vendas no Dynamics 365. Eles instalam e configuram o aplicativo, além de aprender sobre funções de segurança, termos-chave e modelo de dados.
+  #### Lições
+  - Visão geral de vendas
+  - Configuração de vendas
+  - Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Instalar e configurar o aplicativo
+  - Identificar cenários de vendas comuns
+
+
+  ### Módulo 2&#58; Trabalhando com oportunidades
+  Neste módulo, os alunos aprenderão como gerenciar registros de dados do cliente, usar ferramentas de vendas integradas e liderar uma oportunidade.
+  #### Lições
+  - Gerenciar clientes
+  - Trabalhando com oportunidades
+  - Inteligência incorporada
+  - Playbooks
+  - Ferramentas de vendas integradas
+  - Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar registros do cliente
+  - Usar ferramentas de vendas
+
+
+  ### Módulo 3&#58; Cotações para pedidos
+  Neste módulo, os alunos aprenderão como usar cotações e pedidos para usar ainda mais o Dynamics 365 for Sales para gerenciar oportunidades de vendas para negócios fechados.
+  #### Lições
+  - Visão geral do processamento de pedidos
+  - Gerenciar catálogo de produtos
+  - Criar e gerenciar orçamentos
+  - Criar e gerenciar pedidos e faturas
+  - Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar e usar o catálogo de produtos
+  - Adicionar orçamentos às oportunidades
+  - Concluir uma venda com um pedido
+
+
+  ### Módulo 4&#58; Análise de vendas e insights
+  Neste módulo, os alunos aprenderão como criar e usar metas, integrar-se ao PowerBI e ativar o Sales AI.
+  #### Lições
+  - Visão geral
+  - Power BI
+  - AI para Vendas
+  - Resumo dos módulos
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar e usar metas
+  - Integrar-se ao PowerBI
+  - Ativar funcionalidade de IA de vendas

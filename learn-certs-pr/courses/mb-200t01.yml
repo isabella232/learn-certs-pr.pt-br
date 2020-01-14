@@ -1,0 +1,110 @@
+### YamlMime:Course
+title: 'Dynamics 365: Aplicativos Power Platform'
+metadata:
+  title: 'Curso MB-200T01-A: Dynamics 365: Aplicativos Power Platform'
+  description: 'Curso MB-200T01-A: Dynamics 365: Aplicativos Power Platform'
+uid: course.mb-200t01
+courseNumber: 'MB-200T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificar os componentes da plataforma.
+- skill: Entenda as opções de administrador.
+- skill: Modele efetivamente dados.
+- skill: Crie um aplicativo orientado a modelo básico na Power Platform.
+- skill: Crie um aplicativo de tela básico na Power Platform.
+- skill: Gerencie o acesso do usuário a dados e funcionalidade usando segurança.
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  A Microsoft Power Platform ajuda as organizações a otimizar suas operações automatizando tarefas rotineiras e padronizando as melhores práticas. Este treinamento fornece uma visão geral de alto nível dos recursos do Microsoft Dynamics 365 e da Power Platform e fornece uma base para outras ofertas de treinamento do Microsoft Dynamics 365 e Power Platform.
+
+  Neste curso, nossos especialistas reconhecidos globalmente compartilham com os alunos o conhecimento básico para prepará-los para a criação de aplicativos na Power Platform.
+
+  #### Perfil do público
+  Um consultor funcional do Dynamics 365 Customer Engagement é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+prerequisitesSection: |-
+  Este curso foi desenvolvido para pessoas que aspiram à função de administrador do Microsoft 365 Enterprise e concluíram um dos caminhos de certificação do administrador de carga de trabalho do Microsoft 365.
+outlineSection: |-
+  ### Módulo 1&#58; Visão geral da plataforma
+  Neste módulo, os alunos aprenderão o básico da Power Platform.  Eles visitarão os vários portais e opções do administrador, além de instalar aplicativos.
+  #### Lições
+  - Visão geral
+  - Configurar ambientes da Power Platform
+  - Criar aplicativos
+  - Descoberta e planejamento
+  - Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Identificar componentes comuns da plataforma e seus usos
+
+
+  ### Módulo 2&#58; Modelagem de dados
+  Neste módulo, os alunos aprenderão como modelar dados efetivamente usando as entidades, atributos e relacionamentos da plataforma.
+  #### Lições
+  - Fundamentos do modelo de dados
+  - Relacionamentos
+  - Outras opções de entidade
+  - Outras opções de campo
+  - Internacionalização
+  - Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar e usar relacionamentos e entidades
+
+
+  ### Módulo 3&#58; Aplicativos orientados a modelo
+  Neste módulo, os alunos aprenderão sobre aplicativos orientados a modelos e como configurá-los e usá-los.
+  #### Lições
+  - Configurar aplicativos orientados a modelo
+  - Configurar formulários controlados por modelo
+  - Configurar visualizações
+  - Configurar gráficos controlados por modelo
+  - Configurar painéis controlados por modelo
+  - Configurar relatórios
+  - Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar e modificar formulários, visualizações, painéis e outros componentes da experiência do usuário
+
+
+  ### Módulo 4&#58; Aplicativos de tela
+  Neste módulo, os alunos aprenderão como criar e usar aplicativos de tela, bem como as diferenças entre aplicativos de tela e aplicativos orientados a modelo.
+  #### Lições
+  - Fundamentos da aplicação
+  - Trabalhar com dados e serviços
+  - Personalizar a experiência do usuário
+  - Integração com aplicativos controlados por modelo
+  - Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar um aplicativo de tela
+  - Trabalhar com dados CDS
+
+
+  ### Módulo 5&#58; Segurança
+  Neste módulo, os alunos aprenderão como o modelo de segurança da plataforma gerencia as experiências dos usuários e o acesso a dados e funcionalidades.
+  #### Lições
+  - Visão geral de segurança
+  - Unidades de negócios
+  - Gerenciar funções de segurança
+  - Gerenciar equipes
+  - Configurar segurança de hierarquia
+  - Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar e usar unidades de negócios
+  - Criar, modificar e usar funções de segurança

@@ -1,0 +1,96 @@
+### YamlMime:Course
+title: 'Microsoft Dynamics 365: Desenvolvedor de aplicativos de finanças e operações '
+metadata:
+  title: 'Curso MB-500T00-A: Microsoft Dynamics 365: Desenvolvedor de aplicativos de finanças e operações '
+  description: 'Curso MB-500T00-A: Microsoft Dynamics 365: Desenvolvedor de aplicativos de finanças e operações '
+uid: course.mb-500t00
+courseNumber: 'MB-500T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-500
+summary: |-
+  Treinamento para desenvolvedores. Os desenvolvedores de aplicativos financeiros e operacionais do Microsoft Dynamics 365 implementam e estendem aplicativos para atender aos requisitos dos negócios. Os candidatos fornecem soluções completamente realizadas usando padrões de codificação de aplicativo padronizado, recursos estensíveis e integrações externas.
+
+  #### Perfil do público
+  
+  Desenvolvedores de aplicativos de operações e finanças do Microsoft Dynamics 365  
+
+outlineSection: |-
+  ### Destaques do Curso
+  
+  ### Módulo 1&#58; Visão geral e arquitetura
+  
+  Descrever o ecossistema do Dynamics 365 e os principais componentes do software Dynamics 365 Finance and Operations (FO), descrever a arquitetura do D365FO, descrever considerações relevantes de design e implantação do D365FO
+  
+  #### Laboratório&#58; Configuração do ambiente de desenvolvimento e criação de projeto/modelo
+  
+  ### Módulo 2&#58; Ferramentas de desenvolvimento
+
+  Gerenciar implementações de sistema usando o Lifecycle Services, personalizar o D365FO usando o Visual Studio, gerenciar código fonte e artefatos usando o controle de versão, trabalhar com outras ferramentas de desenvolvimento para concluir tarefas
+  
+  #### Laboratório&#58; Controle de origem usando DevOps
+
+  ### Módulo 3&#58; Design da solução
+  Determinar os componentes necessários da pilha de aplicativos e a arquitetura do servidor, Implementar Gerenciamento do Ciclo de Vida do Aplicativo (ALM), Projetar uma solução para o D365FO
+
+  #### Laboratório&#58; Desenvolvimento da estrutura de dados
+  
+  ### Módulo 4&#58; Elementos de AOT
+  
+  Criar formulários, criar e estender tabelas, criar tipos de dados estendidos (EDT) e enumerações, criar classes e estender elementos AOT
+  
+  #### Laboratório&#58; Extensão e desenvolvimento de metadados
+  
+  ### Módulo 5&#58; Desenvolvimento e Teste de Código
+  
+  Desenvolver código X ++, Desenvolver código orientado a objeto, Estender a funcionalidade FO D365, Descrever estrutura e ferramentas de teste, Executar teste de unidade
+  
+  #### Laboratório&#58; Extensão e Desenvolvimento de Código
+  
+  ### Módulo 6&#58; Migração de dados
+  
+  Descrever ferramentas e metodologias de migração, Planejar estratégia de migração, Preparar dados para migração e migrar dados
+
+  #### Laboratório&#58; Exportação/importação de dados usando a entidade de dados
+  
+  #### Laboratório&#58; Transferência de Dados Recorrente
+  
+  ### Módulo 7&#58; Estruturas
+  
+  Implementar a funcionalidade FO D365
+  
+  #### Laboratório&#58; Framework SysExtension
+  
+  ### Módulo 8&#58; Integração
+  
+  Identificar padrões e cenários de integração de dados, Implementar conceitos e soluções de integração de dados, Implementar integrações recorrentes, Integrar o D365FO ao Microsoft Azure, Solucionar problemas de erros de integração, Implementar a API do Pacote de Gerenciamento de Dados
+  
+  #### Laboratório&#58; Integração OData
+
+  #### Laboratório&#58; Integração de aplicativos lógicos
+  
+  #### Laboratório&#58; Chamando um serviço da Web externo
+
+  ### Módulo 9&#58; Comunicação
+  
+  Descrever os recursos e limitações das ferramentas de relatório no D365FO, projetar, criar e revisar relatórios do Dynamics, projetar, criar e revisar
+  Áreas de trabalho do Dynamics, Projete, crie e revise fontes de dados que se conectam a armazenamentos de dados externos ao D365FO
+
+  #### Laboratório&#58; Relatórios do Power BI da F&O
+  
+  ### Módulo 10&#58; Segurança e desempenho
+  
+  Descrever e implementar ferramentas de desempenho e ferramentas de monitoramento do ambiente LCS, implementar políticas e requisitos de segurança baseados em função, aplicar técnicas fundamentais de otimização de desempenho, otimizar o desempenho para processos em lote, otimizar o desempenho da interface do usuário, otimizar o desempenho da interface do usuário, aprimorar o desempenho da integração, otimizar o desempenho do relatório
+  
+  #### Laboratório&#58; Funcionalidade assíncrona e sandbox

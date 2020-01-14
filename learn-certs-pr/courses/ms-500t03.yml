@@ -1,0 +1,116 @@
+### YamlMime:Course
+title: Implementando o Microsoft 365 Information Protection
+metadata:
+  title: 'Curso MS-500T03-A: Implementando o Microsoft 365 Information Protection'
+  description: 'Curso MS-500T03-A: Implementando o Microsoft 365 Information Protection'
+uid: course.ms-500t03
+courseNumber: 'MS-500T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Implementar o gerenciamento de direitos de informação.
+- skill: Proteger mensagens no Office 365.
+- skill: Configurar políticas de prevenção de perda de dados.
+- skill: Implantar e gerenciar o Cloud App Security.
+- skill: Implementar a proteção de informações do Azure para Microsoft 365.
+- skill: Implementar a proteção de informações do Windows para dispositivos.
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-500
+summary: |-
+  Proteção de informações é o conceito de localização e classificação de dados em qualquer lugar em que residam. Neste curso, você aprenderá sobre as tecnologias de proteção de informações que ajudam a proteger seu ambiente do Microsoft 365. Especificamente, este curso discute conteúdo gerenciado por direitos de informação, criptografia de mensagens, além de rótulos, políticas e regras que dão suporte à prevenção de perda de dados e proteção de informações. Por fim, o curso explica a implantação do Microsoft Cloud App Security.
+
+  #### Perfil do público
+  Este curso é para a função de administrador de segurança do Microsoft 365. Essa função colabora com o Administrador Corporativo do Microsoft 365, as partes interessadas nos negócios e outros administradores de carga de trabalho para planejar e implementar estratégias de segurança e garante que as soluções estejam em conformidade com as políticas e regulamentos da organização. 
+  
+  Essa função protege proativamente os ambientes corporativos do Microsoft 365. As responsabilidades incluem responder a ameaças, implementar, gerenciar e monitorar soluções de segurança e conformidade para o ambiente Microsoft 365. Eles respondem a incidentes, investigações e aplicação da governança de dados.
+
+  O Security Administrator Associate Microsoft 365 está familiarizado com as cargas de trabalho do Microsoft 365 e possui fortes habilidades e experiência em proteção de identidade, proteção de informações, proteção contra ameaças, gerenciamento de segurança e governança de dados. Essa função se concentra no ambiente Microsoft 365 e inclui ambientes híbridos.
+prerequisitesSection: |-
+  Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
+  - Entendimento conceitual básico do Microsoft Azure
+  - Experiência com dispositivos Windows 10
+  - Experiência com o Office 365
+  - Entendimento básico de autorização e autenticação
+  - Entendimento básico de redes de computadores
+  - Conhecimento prático de gerenciamento de dispositivos móveis
+outlineSection: |-
+  ### Módulo 1&#58; Proteção de Informações
+  Este módulo explica o gerenciamento de direitos de informação no Exchange e no SharePoint. Também descreve as tecnologias de criptografia usadas para proteger as mensagens. O módulo apresenta como implementar o Azure Information Protection e o Windows Information Protection.
+  #### Lições
+  - Gerenciamento de direitos de informação
+  - Extensão de email segura na Internet multiuso
+  - Criptografia de mensagens do Office 365
+  - Proteção de Informações do Azure
+  - Proteção avançada de informações
+  - Proteção de informações do Windows
+
+
+  #### Laboratório&#58; Prevenção de perda de dados
+  - Criar e licenciar usuários em sua organização
+  - Configurar a inscrição automática do MDM
+  - Configurar AIP e WIP
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever as diferentes opções de criptografia do Microsoft 365.
+  - Descrever o uso de S/MIME.
+  - Descrever como o Office 365 Message Encryption funciona.
+  - Configurar rótulos e políticas para a proteção de informações do Azure.
+  - Definir as configurações avançadas do serviço AIP para modelos de serviços de gerenciamento de direitos (RMS).
+  - Planejar uma implantação de políticas de proteção de informações do Windows.
+
+
+  ### Módulo 2&#58; Prevenção de perda de dados
+  Este módulo é sobre prevenção de perda de dados no Microsoft 365.  Você aprenderá sobre como criar políticas, editar regras e personalizar as notificações do usuário.
+  #### Lições
+  - Prevenção de perda de dados explicada
+  - Políticas de prevenção de perda de dados
+  - Políticas DLP personalizadas
+  - Criando uma política DLP para proteger documentos
+  - Dicas de Política
+
+
+  #### Laboratório&#58; Prevenção de perda de dados
+  - Criar e licenciar usuários em sua organização
+  - Criar uma política de DLP
+  - Testando políticas de DLP
+
+  Depois de concluir este módulo, os alunos devem ser capazes de&#58;
+  - Descrever prevenção de perda de dados (DLP).
+  - Reconhecer como as ações e as condições funcionam juntas para o DLP.
+  - Usar modelos de política para implementar políticas de DLP para obter informações mais usadas.
+  - Descrever os diferentes modelos internos para políticas de DLP.
+  - Configurar as regras corretas para proteger o conteúdo.
+  - Descrever como modificar as regras existentes das políticas de DLP.
+  - Configurar a opção de substituição do usuário para uma regra DLP.
+  - Descrever como trabalhar com propriedades gerenciadas para políticas de DLP.
+  - Explicar como o SharePoint Online cria propriedades rastreadas a partir de documentos.
+  - Descrever a experiência do usuário quando um usuário cria um email que contém informações confidenciais.
+
+
+  ### Módulo 3&#58; Segurança de aplicativos na nuvem
+  Este módulo é sobre segurança de aplicativos em nuvem para o Microsoft 365.  O módulo explicará a descoberta na nuvem, conectores de aplicativos, políticas e alertas.
+  #### Lições
+  Explicação sobre segurança de aplicativos na nuvem
+  - Usando informações de segurança de aplicativos na nuvem
+  - Segurança do Office 365 Cloud App
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a segurança do aplicativo em nuvem.
+  - Explicar como implantar a segurança de aplicativos em nuvem.
+  - Controlar seus aplicativos em nuvem com políticas.
+  - Solucionar problemas de segurança de aplicativos em nuvem.
+  - Usar o catálogo de aplicativos em nuvem.
+  - Usar o Painel de descoberta da nuvem.
+  - Prepare-se para o Office 365 Cloud App Security.
+  - Gerenciar permissões de aplicativos em nuvem.

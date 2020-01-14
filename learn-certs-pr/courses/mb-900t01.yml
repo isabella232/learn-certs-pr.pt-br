@@ -1,0 +1,65 @@
+### YamlMime:Course
+title: Dynamics 365 fundamentals
+metadata:
+  title: 'Curso MB-900T01-A: Dynamics 365 fundamentals'
+  description: 'Curso MB-900T01-A: Dynamics 365 fundamentals'
+uid: course.mb-900t01
+courseNumber: 'MB-900T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificar as principais funcionalidades e módulos do Dynamics 365
+- skill: Descrever os conceitos de nuvem
+- skill: Descrever o modelo de segurança do Dynamics 365
+- skill: Explicar considerações de licenciamento e implantação
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+exams:
+- uid: exam.mb-900
+summary: |-
+  O Dynamics 365 é uma ferramenta multifacetada para o envolvimento do cliente, operações unificadas, marketing, varejo e gerenciamento de talentos. Este curso familiarizará o aluno com a funcionalidade do Dynamics 365 e o valor comercial. O curso abordará aplicativos do Dynamics 365, a Power Platform, conceitos de nuvem, modelo de segurança e considerações de licenciamento.
+
+prerequisitesSection: |-
+  Um entendimento básico dos princípios de TI e interesse no Dynamics 365.
+outlineSection: |-
+  ### Módulo 1&#58; Introdução aos aplicativos de negócios
+  Neste módulo, todos os módulos e funcionalidades de aplicativos de negócios serão introduzidos, com foco no envolvimento do cliente, nas operações unificadas, na Power Platform e nos aplicativos de negócios correspondentes.
+  #### Lições
+  - Visão geral dos aplicativos
+  - Aplicativos para o envolvimento do cliente
+  - Aplicativos para operações unificadas
+  - A Power Platform
+  - Conceitos básicos do aplicativo
+
+
+  ### Módulo 2&#58; Conceitos de nuvem
+  Neste módulo, discutimos conceitos de nuvem de alto nível e apresentamos a oferta de nuvem da Microsoft, Azure, examinando seu relacionamento com o Dynamics 365.
+  #### Lições
+  - Visão geral da arquitetura em nuvem
+  - Diferentes tipos de serviços na nuvem disponíveis
+  Comparando ofertas de nuvem com ofertas locais correspondentes
+
+
+  ### Módulo 3&#58; Gerenciando implantações e liberações
+  Neste módulo, abordamos considerações importantes de implementação, incluindo tipos de implantações, cadências de liberação e design de modelo de segurança.
+  #### Lições
+  - Tipos de implantações
+  - Tipos de lançamentos
+  - Conceitos e funções de segurança
+  - Funções e equipes
+  - GDPR
+
+
+  ### Módulo 4&#58; Licenciamento, integração e suporte
+  Este módulo permite que o aluno inicie o Dynamics 365 explorando opções de licenciamento e encontrando suporte à implementação.
+  #### Lições
+  - Localizando e trabalhando com um parceiro
+  - Opções de licença
+  - Como configurar

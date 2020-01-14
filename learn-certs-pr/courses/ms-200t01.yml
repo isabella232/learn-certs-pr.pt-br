@@ -1,0 +1,88 @@
+### YamlMime:Course
+title: Compreendendo a infraestrutura moderna de mensagens
+metadata:
+  title: 'Curso MS-200T01-A: Compreendendo a infraestrutura moderna de mensagens'
+  description: 'Curso MS-200T01-A: Compreendendo a infraestrutura moderna de mensagens'
+uid: course.ms-200t01
+courseNumber: 'MS-200T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compreender a arquitetura moderna de mensagens
+- skill: Implantar e gerenciar uma arquitetura moderna de mensagens
+- skill: Criar e gerenciar destinatários do Exchange
+- skill: Gerenciar endereços de email, listas e recursos
+- skill: Planejar bancos de dados de caixa de correio
+- skill: Criar e gerenciar bancos de dados de caixa de correio
+- skill: Gerenciar autenticação para mensagens
+- skill: Definir configurações organizacionais
+- skill: Configurar compartilhamento organizacional
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-200
+summary: |-
+  Neste curso, os alunos aprenderão sobre a arquitetura da moderna infraestrutura de mensagens com o Exchange Server e o Exchange Online e como implantar mensagens em diferentes cenários e organizações. Eles serão guiados pelo processo de implantação inicial e apresentados às ferramentas de gerenciamento de mensagens. Os alunos aprenderão como criar e gerenciar diferentes tipos de destinatários e como criar e gerenciar bancos de dados de caixa de correio do Exchange Server, que servem como locais de armazenamento para todos os dados de mensagens. Por fim, eles serão apresentados às configurações organizacionais da infraestrutura de mensagens, como gerenciar a autenticação para o seu ambiente de mensagens, configurar cotas para usuários da organização e configurar o compartilhamento da organização com a federação.
+
+  #### Perfil do público
+  O Administrador de Mensagens implanta, configura, gerencia e
+  soluciona problemas de destinatários, permissões, proteção de mensagens, fluxo de mensagens e público
+  pastas em ambientes corporativos locais e na nuvem. Responsabilidades
+  incluem gerenciamento de higiene de mensagens, infraestrutura de mensagens e configuração híbrida
+  e migração. O Administrador de Mensagens também implementa e gerencia desastres
+  recuperação, alta disponibilidade e acesso do cliente. Para implementar um híbrido seguro
+  topologia que atenda às necessidades comerciais de uma organização moderna, o Administrador de Mensagens
+  deve colaborar com o Security Administrator e o Microsoft 365 Enterprise Administrator.
+  O Administrador de Mensagens deve ter um conhecimento prático dos tipos de autenticação,
+  licenciamento e integração com aplicativos Microsoft 365.
+prerequisitesSection: |-
+  - Conhecimento proficiente do DNS.
+  - Entendimento básico de mensagens no servidor do Exchange ou no Exchange Online.
+  - Entendimento básico da infraestrutura do Active Directory e do controlador de domínio, juntamente com o gerenciamento de identidades.
+  - Experiência funcional básica com serviços do Microsoft 365 e sincronização de diretórios.
+  - Pelo menos 5 anos de experiência geral em TI.
+outlineSection: |-
+  ### Módulo 1&#58; Gerenciando a infraestrutura moderna de mensagens
+  #### Lições
+  - Visão geral da arquitetura moderna de mensagens
+  - Implantando a moderna infraestrutura de mensagens
+  - Gerenciar uma infraestrutura moderna de mensagens
+
+
+  ### Módulo 2&#58; Gerenciando objetos e recursos de destinatários
+  #### Lições
+  - Trocar destinatários
+  - Criando e gerenciando destinatários do Exchange
+  - Gerenciando endereços de email, listas e recursos
+
+
+  ### Módulo 3&#58; Gerenciando bancos de dados de caixa de correio
+  #### Lições
+  - Bancos de dados de caixa de correio no servidor de troca
+  - Planejamento de bancos de dados de caixa de correio
+  - Criando e gerenciando bancos de dados de caixa de correio
+  - Solucionando problemas de bancos de dados de caixa de correio
+
+
+  ### Módulo 4&#58; Gerenciando configurações organizacionais
+  #### Lições
+  - Gerenciar autenticação para mensagens
+  - Definindo configurações organizacionais
+  - Projetando soluções para acesso externo
+
+
+  ### Módulo 5&#58; Conclusão do Curso
+
+  #### Laboratório&#58; Gerenciando a infraestrutura de destinatários
+  - Criando um destinatário no local
+  - Criando um destinatário na nuvem
+  - Criando um grupo de Distribuição local
+  - Criando um grupo de Distribuição na nuvem
+  - Criando um grupo do Office 365

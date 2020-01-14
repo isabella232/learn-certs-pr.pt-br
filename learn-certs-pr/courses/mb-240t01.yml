@@ -1,0 +1,60 @@
+### YamlMime:Course
+title: Configurando o Serviço de Campo do Dynamics 365
+metadata:
+  title: 'Curso MB-240T01-A: Configurando o Serviço de Campo do Dynamics 365'
+  description: 'Curso MB-240T01-A: Configurando o Serviço de Campo do Dynamics 365 '
+uid: course.mb-240t01
+courseNumber: 'MB-240T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificar os principais componentes envolvidos nas implementações de serviço de campo.
+- skill: Defina os produtos e serviços que serão entregues aos clientes.
+- skill: Determine quais opções de preço usar em cenários específicos.
+- skill: Determine quais recursos são necessários.
+- skill: Configure o sistema para suportar as necessidades de recursos.
+- skill: Defina os problemas relatados com frequência e modele-os para facilitar o consumo.
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  O Dynamics 365 for Field Service ajuda as organizações a se posicionar melhor no mercado, fornecendo uma variedade de ferramentas que ajudam a identificar e agendar recursos e gerenciar cargas de trabalho para trabalhadores móveis. Este curso fornecerá aos alunos as habilidades necessárias para identificar e configurar os principais componentes usados ​​para fornecer serviço de campo e soluções móveis. Os principais tópicos incluem a identificação das considerações organizacionais que orientarão as decisões de configuração e os aspectos comuns de configuração. 
+
+  Este curso ajuda os alunos a entender melhor o panorama geral e as metas finais focadas em implementações que ajudam a projetar soluções mais eficientes que se alinham aos objetivos organizacionais e do cliente.
+prerequisitesSection: |-
+  Compreensão básica dos recursos, funcionalidades e navegação do Dynamics 365.
+outlineSection: |-
+  ### Módulo 1&#58; Configurar serviço de campo
+  #### Lições
+  - Introdução ao serviço de campo
+  - Definir produtos e serviços
+  - Definir códigos fiscais
+
+
+  ### Módulo 2&#58; Configuração de agendamento de recursos
+  #### Lições
+  - Informações de mapeamento e localização
+  - Configurando componentes de recursos
+  - Definindo preferências da conta
+
+
+  ### Módulo 3&#58; Definindo e configurando recursos reserváveis
+  #### Lições
+  - Definir recursos reserváveis
+  - Grupos de recursos, equipes e instalações
+
+
+  ### Módulo 4&#58; Trabalhando com e configurando incidentes
+  #### Lições
+  - Criando incidentes
+  - Usando tarefas de serviço
+  - Definindo produtos, serviços e habilidades

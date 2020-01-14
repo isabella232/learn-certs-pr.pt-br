@@ -1,0 +1,173 @@
+### YamlMime:Course
+title: Microsoft Azure Administrator
+metadata:
+  title: 'Curso AZ-103T00-A: Microsoft Azure Administrator'
+  description: 'Curso AZ-103T00-A: Microsoft Azure Administrator'
+uid: course.az-103t00
+courseNumber: 'AZ-103T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-virtual-network
+- azure-resource-manager
+exams:
+- uid: exam.az-103
+summary: |-
+  Este curso ensina aos profissionais de TI como gerenciar suas assinaturas do Azure, criar e dimensionar máquinas virtuais, implementar soluções de armazenamento, configurar redes virtuais, fazer backup e compartilhar dados, conectar sites do Azure e locais, gerenciar tráfego de rede, implementar o Azure Active Directory, proteger identidades e monitorar sua solução.
+
+  #### Perfil do público
+  Este curso destina-se a administradores do Azure. Os administradores do Azure gerenciam os serviços em nuvem que abrangem os recursos de armazenamento, rede e computação em nuvem, com um entendimento profundo de cada serviço em todo o ciclo de vida de TI. Eles recebem solicitações do usuário final para novos aplicativos em nuvem e fazem recomendações sobre os serviços a serem usados para obter desempenho e escala ideais, além de fornecê-los, dimensioná-los, monitorá-los e ajustá-los conforme apropriado. Essa função requer comunicação e coordenação com os fornecedores. Os administradores do Azure usam o Portal do Azure e, à medida que se tornam mais proficientes, usam o PowerShell e a interface de linha de comandos.
+prerequisitesSection: |-
+  - Compreensão das tecnologias de virtualização local, incluindo&#58; VMs, redes virtuais e discos rígidos virtuais.
+  - Compreensão da configuração de rede, incluindo TCP/IP, sistema de nomes de domínio (DNS), redes privadas virtuais (VPNs), firewalls e tecnologias de criptografia.
+  - Compreensão dos conceitos do Active Directory, incluindo domínios, florestas, controladores de domínio, replicação, protocolo Kerberos e protocolos LDAP (Lightweight Directory Access Protocol).
+  - Compreensão da resiliência e recuperação de desastres, incluindo operações de backup e recuperação.
+outlineSection: |-
+  ### Módulo 1&#58; Gerenciamento do Azure
+  Neste módulo, você conhecerá as ferramentas que os administradores do Azure usam para gerenciar sua infraestrutura. As ferramentas incluem o portal do Azure, Cloud Shell, Azure PowerShell, CLI, gerenciador de recursos e modelos do gerenciador de recursos. As demonstrações neste módulo garantirão que você seja bem-sucedido nos laboratórios do curso.
+  #### Lições
+  - Portal do Azure Portal e Cloud Shell
+  - PowerShell e CLI do Azure
+  - Gerenciador de recursos
+  - Modelos de ARM
+
+
+  ### Módulo 2&#58; Máquinas virtuais do Azure
+  Neste módulo, você aprenderá sobre as máquinas virtuais do Azure, incluindo planejamento, criação, disponibilidade e extensões.
+
+  #### Lições
+  - Planejamento de máquinas virtuais
+  - Criação de máquinas virtuais
+  - Disponibilidade da máquinas virtuais
+  - Extensões de máquinas virtuais
+
+
+  #### Laboratório&#58; Implementar e gerenciar máquinas virtuais
+
+  #### Laboratório&#58; Máquinas virtuais e conjuntos de dimensionamento
+
+  ### Módulo 3&#58; Armazenamento do Azure
+  Neste módulo, você aprenderá sobre os recursos básicos de armazenamento, incluindo contas de armazenamento, armazenamento de blob, arquivos do Azure e segurança de armazenamento.
+  #### Lições
+  - Contas de armazenamento
+  - Blobs do Azure
+  - Arquivos do Azure
+  - Segurança de armazenamento
+
+
+  #### Laboratório&#58; Implementar e gerenciar o armazenamento
+
+  ### Módulo 4&#58; Redes virtuais
+  Neste módulo, você aprenderá sobre conceitos básicos de rede virtual, como redes virtuais, endereçamento IP, DNS do Azure e grupos de segurança de rede.
+  #### Lições
+  - Redes virtuais
+  - Endereçamento IP e pontos de extremidade
+  - DNS do Azure
+  - Grupos de segurança de rede
+
+
+  #### Laboratório&#58; Configuração de DNS do Azure
+
+  ### Módulo 5&#58; Conectividade entre sites
+  Neste módulo, você aprenderá sobre os recursos de conectividade entre sites, incluindo emparelhamento VNet, conexões VNet a VNet, conexões site a site e ExpressRoute.
+  #### Lições
+  - Emparelhamento VNet
+  - Conexões VNet a VNet
+  - Conexões ExpressRoute
+
+
+  #### Laboratório&#58; Emparelhamento VNet e encadeamento de serviços
+
+  ### Módulo 6&#58; Monitoramento
+  Neste módulo, você aprenderá sobre o monitoramento da infraestrutura do Azure, incluindo o Azure Monitor, alertas, análise de log e Observador de rede.
+
+  #### Lições
+  - Azure Monitor
+  - Alertas do Azure
+  - Análise de log
+  - Observador de rede
+
+
+  #### Laboratório&#58; Observador de rede
+
+  ### Módulo 7&#58; Proteção de dados
+  Neste módulo, você aprenderá sobre estratégias de replicação de dados, backup de arquivos e pastas e backups de máquinas virtuais.
+
+  #### Lições
+  - Replicação de dados
+  - Backups de arquivos e pastas
+  - Backups de máquinas virtuais
+
+
+  #### Laboratório&#58; Recuperação de site do Azure entre regiões
+
+  ### Módulo 8&#58; Gerenciamento de tráfego de rede
+  Neste módulo, você aprenderá sobre estratégias de tráfego de rede, incluindo pontos de extremidade de serviço, roteamento de rede, Azure Load Balancer e gerenciador de tráfego do Azure.
+
+  #### Lições
+  - Roteamento de rede
+  - Azure Load Balancer
+  - Gerenciador de tráfego do Azure
+
+
+  #### Laboratório&#58; Load Balancer e gerenciador de tráfego
+
+  ### Módulo 9&#58; Active Directory do Azure
+  Neste módulo, você aprenderá sobre o Active Directory (AD) do Azure, incluindo o Azure AD Connect e o Azure AD Join.
+
+  #### Lições
+  - Azure Active Directory
+  - Azure AD Connect
+  - Azure AD Join
+
+
+  #### Laboratório&#58; Implementar a sincronização de diretório
+
+  ### Módulo 10&#58; Proteção de identidades
+  Neste módulo, você aprenderá como proteger identidades, incluindo autenticação multifator, proteção de identidade do Azure AD e redefinição de senha de autoatendimento.
+  #### Lições
+  - Autenticação multifator
+  - Proteção de identidade do Azure AD
+  - Redefinição de senha de autoatendimento
+
+
+  #### Laboratório&#58; Proteção de identidade do Azure AD
+
+  #### Laboratório&#58; Redefinição de senha de autoatendimento
+
+  ### Módulo 11&#58; Governança e conformidade
+  Neste módulo, você aprenderá sobre o gerenciamento de assinaturas e contas, incluindo controle de acesso baseado em função, usuários e grupos e política do Azure.
+
+  #### Lições
+  - Assinaturas e contas
+  - Controle de acesso baseado em funções (RBAC)
+  - Usuários e grupos
+  - Políticas do Azure
+
+
+  #### Laboratório&#58; Controle de acesso baseado em função
+
+  #### Laboratório&#58; Governança e conformidade
+
+  ### Módulo 12&#58; Serviços de dados
+  Neste módulo, você aprenderá como compartilhar dados de maneira eficaz usando o serviço de importação e exportação, Data Box, rede de distribuição de conteúdo e sincronização de arquivos.
+
+  #### Lições
+  - Rede de distribuição de conteúdo
+  - Sincronização de arquivos
+  - Serviço de importação e exportação
+  - Data Box
+
+
+  #### Laboratório&#58; Sincronização de arquivos

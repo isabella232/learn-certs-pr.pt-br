@@ -1,0 +1,81 @@
+### YamlMime:Course
+title: Migrando para o SharePoint Online
+metadata:
+  title: 'Curso MS-301T04-A: Migrando para o SharePoint Online'
+  description: 'Curso MS-301T04-A: Migrando para o SharePoint Online'
+uid: course.ms-301t04
+courseNumber: 'MS-301T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planejar o processo de migração de conteúdo.
+- skill: Descrever os recursos e ferramentas disponíveis para alavancar durante o processo de migração.
+- skill: Acessar dados a serem migrados usando a Ferramenta de Avaliação de Migração do SharePoint (SMAT).
+- skill: Migrar o conteúdo para a nuvem usando a Ferramenta de Migração do SharePoint (SPMT).
+- skill: Gerenciar e monitorar o processo de migração.
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  O clima de negócios mudou. As pessoas querem se comunicar sem barreiras colaborativas. As empresas começam a considerar a migração de conteúdo para a nuvem como a solução econômica e permite que os usuários se conectem de praticamente qualquer lugar aos recursos e conteúdos de que precisam. Neste curso, você aprenderá como planejar o processo de migração de conteúdo, bem como os recursos e ferramentas disponíveis para usar durante a migração de conteúdo para o SharePoint Online e o OneDrive for Business. Especificamente, este curso aborda como usar a Ferramenta de Avaliação de Migração do SharePoint (SMAT) e a Ferramenta de Migração do SharePoint (SPMT) com diferentes cenários de migração.
+  
+  Este curso foi desenvolvido para profissionais de TI que implantam e gerenciam a infraestrutura de trabalho em equipe em sua organização.
+  
+  Este é o último de uma série de quatro cursos para o Teamwork Administrator. Esses cursos ajudam a se preparar para o exame MS-301&#58; Implantando o SharePoint Server Hybrid.
+
+  #### Perfil do público
+  Este curso é para a função de Teamwork Administrator do Microsoft 365. A função é responsável por configurar, implantar e gerenciar cargas de trabalho do Office 365 e Azure que se concentram na colaboração e adoção eficientes e eficazes. Eles gerenciam aplicativos, serviços e infraestrutura de suporte para atender aos requisitos de negócios. O administrador está ciente e pode diferenciar entre produtos e serviços, mas não pode gerenciar diretamente cada produto ou serviço.
+  
+  O administrador do Teamwork deve ser capaz de implantar, gerenciar, migrar e proteger o SharePoint (online, no local e híbrido), o OneDrive e Teams.
+  
+  O Teamwork Administrator tem um entendimento fundamental dos pontos de integração com os seguintes aplicativos e serviços&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planejador e Projeto. O administrador entende como integrar aplicativos e serviços de terceiros, incluindo aplicativos da linha de negócios.
+prerequisitesSection: |-
+  Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
+  - Experiência com o Windows PowerShell.
+  - Entendimento básico do gerenciamento do servidor SQL.
+  - Entendimento básico de redes, incluindo DNS.
+  - Conhecimento prático da administração de servidores Windows.
+  - Conhecimento básico do Active Directory e do Azure AD.
+  - Compreensão básica de gerenciamento de dispositivos móveis e sistemas operacionais alternativos (Android e macOS).
+outlineSection: |-
+  ### Módulo 1&#58; Introdução à migração
+  Este módulo é sobre o planejamento do processo de migração para a nuvem. Ele fornece uma visão geral dos recursos e ferramentas para alavancar durante o processo de migração.
+
+  #### Lições
+  - Visão geral da migração
+  - Aproveitando o FastTrack e serviços de parceiros
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Planejar o processo de migração de conteúdo.
+  - Descrever os recursos e ferramentas disponíveis para alavancar durante o processo de migração.
+
+
+  ### Módulo 2&#58; Migrando para o SharePoint Online
+  Este módulo está focado no uso da Ferramenta de Migração do SharePoint (SPMT) para migrar conteúdo para a nuvem. Especificamente, ele discute o requisito e a limitação do SPMT. Ele apresenta diferentes métodos de migração para diferentes fontes de dados, como compartilhamentos de arquivos e conteúdo do SharePoint.
+
+  #### Lições
+  - Preparar-se para a migração
+  - Migrar conteúdo para a nuvem
+  - Gerenciar e monitorar o processo de migração.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Acessar dados a serem migrados usando a Ferramenta de Avaliação de Migração do SharePoint (SMAT).
+  - Migrar conteúdo para a nuvem usando a Ferramenta de Migração do SharePoint (SPMT).
+  - Gerenciar e monitorar o processo de migração.
+
+
+  ### Módulo 3&#58; Conclusão do Curso
+
+  #### Laboratório&#58; Migrando arquivos para o SharePoint Online

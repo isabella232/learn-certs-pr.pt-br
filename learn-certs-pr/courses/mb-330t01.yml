@@ -1,0 +1,250 @@
+### YamlMime:Course
+title: Configurar e usar o gerenciamento da cadeia de suprimentos no Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Curso MB-330T01-A: Configurar e usar o gerenciamento da cadeia de suprimentos no Dynamics 365 for Finance and Operations '
+  description: 'Curso MB-330T01-A: Configurar e usar o gerenciamento da cadeia de suprimentos no Dynamics 365 for Finance and Operations '
+uid: course.mb-330t01
+courseNumber: 'MB-330T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-330
+summary: |-
+  As organizações usam o Dynamics 365 for Finance and Operations para automatizar e otimizar sua cadeia de suprimentos modernizando a logística dos negócios, fornecendo respostas oportunas aos clientes, avançando com informações preditivas, simplificando as compras e unificando os processos das vendas à realização. Este curso discute como configurar e usar o gerenciamento da cadeia de suprimentos no Dynamics 365 for Finance and Operations.
+
+  #### Perfil do público
+  Um Consultor Funcional do Dynamics 365 for Finance and Operations é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+prerequisitesSection: |-
+  Compreensão básica dos conceitos de ERP e CRM.
+outlineSection: |-
+  ### Módulo 1&#58; Gerenciamento de suprimentos
+  Para configurar o inventário, deve-se primeiro entender as operações diárias do inventário. Nesta lição, discutimos primeiro as operações de entrada e saída de inventário.
+
+  Este módulo explica como configurar componentes do Inventory para processos de gerenciamento da cadeia de suprimentos no Finance and Operations.
+  #### Lições
+  - Introdução
+  - Configurar números de série e lote
+  - Configurar detalhamento do inventário
+  - Configurar diários de inventário e armazém
+  - Configurar dimensões do inventário
+  - Fechamento e ajuste de estoque
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Executar operações de estoque de entrada e saída
+  - Configurar parametros do inventário
+  - Configurar grupos de números de rastreamento
+  - Configurar detalhamento do inventário
+  - Configurar diários de inventário e armazém
+  - Configurar unidades
+  - Configurar dimensões do inventário
+  - Configurar os custos de estoque
+  - Configurar distribuição
+  - Entender o fechamento e os ajustes do estoque
+
+
+  ### Módulo 2&#58; Usar diários de inventário
+  Este tópico explica como usar os diários de inventário no Finance and Operations.
+  #### Lições
+  - Introdução
+  - Usar diários de inventário
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam a&#58;
+  - Usar revistas de movimento
+  - Usar diários de ajuste de inventário
+  - Usar diários de transferência
+  - Usar contagem e contagem de tags
+  - Usar diário de chegada do item
+  - Usar diário em consignação
+
+
+  ### Módulo 3&#58; Usar relatórios de inventário
+  Este tópico explica como usar relatórios de inventário para processos de gerenciamento da cadeia de suprimentos no Finance and Operations.
+  #### Lições
+  - Introdução
+  - Compreender a classificação ABC
+  - Usar outras consultas e relatórios de inventário
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam a&#58;
+  - Compreender a classificação ABC
+  - Usar consultas e relatórios de inventário
+
+
+  ### Módulo 4&#58; Criar produtos e mestres de produtos
+  O gerenciamento de informações do produto no Dynamics 365 for Finance and Operations é para a criação e manutenção de um Repositório de Produtos Corporativos. Ele suporta organizações maiores em uma abordagem estruturada e centralizada na criação e manutenção de dados mestre principais, como definições de produtos. Organizações menores que exigem uma abordagem mais descentralizada podem, com algumas restrições, criar e manter seus respectivos produtos enquanto seus produtos são automaticamente adicionados ao repositório de produtos compartilhados.
+
+  Este tópico explica como configurar produtos para processos de gerenciamento da cadeia de suprimentos no Finance and Operations.
+  #### Lições
+  - Introdução
+  - Criar produtos
+  - Criar mestres de produtos com variantes
+  - Criar e configurar atributos e hierarquias de categorias
+  - Configurar preços de itens
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Criar produtos como tipo de item e serviço
+  - Definir configurações padrão do pedido
+  - Criar mestres de produtos com variantes predefinidas
+  - Criar e configurar hierarquias de categorias
+  - Criar atributos do produto
+
+
+  ### Módulo 5&#58; Criar lista de materiais
+  Uma lista de materiais (BOM) é uma lista abrangente de todos os componentes, peças, matérias-primas, montagens e suas quantidades necessárias para produzir um produto acabado. Este módulo explica como criar listas técnicas e versões de listas técnicas usando o designer de listas técnicas no Finance and Operations.
+  #### Lições
+  - Introdução
+  - Usar designer de lista de materiais
+  - Laboratório prático
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Criar listas de materiais e versões de listas de materiais usando o designer de listas técnicas
+
+
+  ### Módulo 6&#58; Configurar e executar o processo de compra e compra
+  Este tópico explica como configurar e executar o processo de compra e compra no Finance and Operations.
+  #### Lições
+  - Introdução
+  - Cenário de negócios de compras e fornecimento
+  - Criar fluxo de trabalho de requisições de compra
+  - Criar requisições de compra
+  - Criar pedidos de cotação
+  - Usar políticas de compras
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Aplicar os processos de compras e fornecimento em um cenário de negócios
+  - Usar políticas de compras
+  - Criar e manter fornecedores
+  - Criar requisições de compra
+  - Criar pedidos para cotações
+
+
+  ### Módulo 7&#58; Configurar colaborações de fornecedores
+  Este tópico explica como configurar colaborações de fornecedores no Finance and Operations.
+  #### Lições
+  - Introdução
+  - Configurar colaboradores do fornecedor
+  - Usar colaboração de fornecedor
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam a&#58;
+  - Configurar colaborações do fornecedor
+  - Trabalhar com o espaço de trabalho de colaboração do fornecedor
+  - Usar a colaboração do fornecedor como parte do processo de compra com pagamento
+
+
+  ### Módulo 8&#58; Configurar e executar o processo de compra para pagamento
+  O módulo Pedidos de Compra revisa o processo necessário para criar e gerenciar pedidos no Dynamics 365 for Finance and Operations. Uma empresa usa pedidos para registrar informações sobre os bens e serviços que estão comprando de vários fornecedores.
+  #### Lições
+  - Introdução
+  - Criar ordens de compra
+  - Usar o gerenciamento de alterações de ordens de compra
+  - Usar pedidos e chegada de itens
+  - Gerenciar entrega e cobranças acima e abaixo
+  - Criar devoluções de fornecedores
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam a&#58;
+  - Compreender a visão geral do cenário de compra a pagar
+  - Usar o gerenciamento de alterações de ordens de compra
+  - Criar uma Ordem de compra
+  - Usar chegadas de itens e visão geral de chegadas
+  - Gerar e lançar a fatura
+  - Criar o diário da fatura
+  - Gerar e lançar os pagamentos do fornecedor
+  - Criar devoluções de fornecedores
+
+
+  ### Módulo 9&#58; Configurar e usar acordos
+  Este tópico explica como configurar e usar o contrato no Finance and Operations.
+  #### Lições
+  - Introdução
+  - Manter acordos comerciais
+  - Criar contratos de vendas
+  - Criar contratos de compra
+  - Configurar subsídio comercial
+  - Configurar corretagem
+  - Configurar royalties
+  - Configurar descontos
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Manter acordos comerciais
+  - Configurar arredondamento inteligentes
+  - Criar contratos de vendas
+  - Usar políticas de compras
+  - Criar contratos de compra
+  - Configurar subsídio comercial
+  - Configurar corretagem
+  - Configurar royalties
+  - Configurar descontos
+
+
+  ### Módulo 10&#58; Configurar e usar o processo de pedido em dinheiro
+  Este tópico explica como configurar e usar o processo de pedido em dinheiro no Finance and Operations.
+  #### Lições
+  - Introdução
+  - Compreender o cenário de pedido em dinheiro
+  - Configurar e usar comissões
+  - Configurar pesquisas de clientes e item
+  - Criar e confirmar cotações e pedidos de vendas
+  - Configurar pedido promissor
+  - Configurar códigos de retenção de pedidos
+  - Imprimir e publicar listas de seleção
+  - Processar devoluções de clientes
+  - Laboratório Prático
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam como&#58;
+  - Executar o processo de pedido em dinheiro
+  - Configurar e usar comissões
+  - Configurar pesquisas de clientes e item
+  - Criar e confirmar cotações de vendas
+  - Criar e confirmar pedidos de vendas
+  - Imprimir e publicar listas de seleção
+  - Gerar e lançar a fatura
+  - Configurar códigos de retenção de pedidos
+  - Processar devoluções de clientes
+
+
+  ### Módulo 11&#58; Conclusão do Curso
+  Avaliação final e resumo do curso, bem como uma pesquisa pós-curso.
+  #### Lições
+  - Avaliação final
+  - Resumo do curso
+  - Pesquisa pós-curso
+
+
+  Os alunos terão concluído o curso.

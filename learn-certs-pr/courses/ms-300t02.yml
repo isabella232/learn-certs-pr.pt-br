@@ -1,0 +1,99 @@
+### YamlMime:Course
+title: Gerenciar o SharePoint Online
+metadata:
+  title: 'Curso MS-300T02-A: Gerenciar o SharePoint Online'
+  description: 'Curso MS-300T02-A: Gerenciar o SharePoint Online'
+uid: course.ms-300t02
+courseNumber: 'MS-300T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever como configurar propriedades do perfil do usuário
+- skill: Descrever como gerenciar públicos-alvo
+- skill: Descrever como usar o Catálogo de aplicativos para criar aplicativos personalizados
+- skill: Criar e gerenciar grupos de termos, conjuntos de termos e termos
+- skill: Descrever a diferença entre experiências de pesquisa modernas e clássicas
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  Neste curso, você aprenderá como gerenciar perfis e aplicativos de usuário com as configurações de permissão adequadas. Também discutiremos como planejar e configurar Metadados Gerenciados, Serviços de Conectividade Corporativa e pesquisar, permitindo que o conteúdo seja encontrado, consumido e governado no Office 365.
+
+  Este curso foi desenvolvido para profissionais de TI que implantam e gerenciam a infraestrutura de trabalho em equipe em sua organização.
+
+  Este é o segundo de uma série de quatro cursos para a função de Administrador do trabalho em equipe. Esses cursos ajudam a se preparar para o exame MS-300&#58; Implantando o Microsoft 365 Teamwork.
+
+  #### Perfil do público
+  Este curso é para a função de Teamwork Administrator do Microsoft 365. A função é responsável por configurar, implantar e gerenciar cargas de trabalho do Office 365 e Azure que se concentram na colaboração e adoção eficientes e eficazes. Eles gerenciam aplicativos, serviços e infraestrutura de suporte para atender aos requisitos de negócios. O administrador está ciente e pode diferenciar entre produtos e serviços, mas não pode gerenciar diretamente cada produto ou serviço.
+
+  O administrador do Teamwork deve ser capaz de implantar, gerenciar, migrar e proteger o SharePoint (online, no local e híbrido), o OneDrive e Teams. 
+  
+  O Teamwork Administrator tem um entendimento fundamental dos pontos de integração com os seguintes aplicativos e serviços&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planejador e Projeto. O administrador entende como integrar aplicativos e serviços de terceiros, incluindo aplicativos da linha de negócios.
+prerequisitesSection: |-
+  Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
+  - Experiência com o Windows PowerShell
+  - Compreensão básica do Active Directory e do Azure AD.
+  - Compreensão básica de gerenciamento de dispositivos móveis e sistemas operacionais alternativos (Android e macOS)
+outlineSection: |-
+  ### Módulo 1&#58; Gerenciar perfis de usuário e aplicativos
+  Este módulo é sobre perfis de usuário e personalização no SharePoint Online. Ele discute como gerenciar perfis de usuário no SharePoint Online. Também descreve como usar o Catálogo de Aplicativos para disponibilizar aplicativos comerciais personalizados para o SharePoint Online.
+
+  #### Lições
+  - Gerenciar perfis de usuário
+  - Planejar e configurar personalizações e aplicativos
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever como configurar propriedades do perfil do usuário
+  - Descrever como gerenciar públicos-alvo
+  - Descrever como usar o Catálogo de aplicativos para criar aplicativos personalizados
+
+
+  ### Módulo 2&#58; Planejar e configurar metadados gerenciados e conectividade comercial
+  Este módulo é sobre os Serviços de Metadados Gerenciados e Conectividade Comercial. Ele apresenta os conceitos de metadados gerenciados, bem como o processo para importar conjuntos de termos. Também descreve como gerenciar os Serviços Corporativos de Conectividade e criar listas externas.
+
+
+  #### Lições
+  - Planejar e configurar metadados gerenciados
+  - Planejar e configurar os Serviços Corporativos de Conectividade (BCS) e o Serviço de Repositório Seguro
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever as funções dos metadados gerenciados
+  - Criar e gerenciar grupos de termos, conjuntos de termos e termos
+  - Explicar os principais componentes de um modelo BDC
+  - Descrever a arquitetura de alto nível do BCS
+  - Configurar o aplicativo de serviço de Repositório Seguro.
+
+
+  ### Módulo 3&#58; Planejar e configurar a pesquisa
+  Este módulo é sobre o aplicativo de serviço de pesquisa corporativa. Ele fornece detalhes sobre o planejamento e a configuração de fontes de conteúdo, agendamentos de rastreamento e regras de rastreamento. Ele também discute como provisionar o gerenciamento de pesquisa de vários componentes de pesquisa, como Regras de consulta, Tipos de resultado e Modelos de exibição.
+
+  #### Lições
+  - Visão geral da pesquisa no SharePoint Online
+  - Gerenciar pesquisa
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a diferença entre experiências de pesquisa modernas e clássicas
+  - Descrever como planejar e configurar fontes de conteúdo.
+  - Descrever como gerenciar o esquema de Pesquisa.
+  - Explicar o uso e a implantação de regras de consulta.
+  - Explicar o uso e a implantação da fonte de resultados.
+
+
+  ### Módulo 4&#58; Conclusão do Curso
+
+  #### Laboratório&#58; Importar conjuntos de termos

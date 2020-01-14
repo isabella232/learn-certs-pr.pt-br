@@ -1,0 +1,74 @@
+### YamlMime:Course
+title: Configurar eventos e pesquisas no Dynamics 365 for Marketing
+metadata:
+  title: 'Curso MB-220T02-A: Configurar eventos e pesquisas no Dynamics 365 for Marketing'
+  description: 'Curso MB-220T02-A: Configurar eventos e pesquisas no Dynamics 365 for Marketing'
+uid: course.mb-220t02
+courseNumber: 'MB-220T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Configurar e gerenciar recursos de planejamento de eventos
+- skill: Criar mensagens de eventos, personalizar o portal de eventos e gerenciar registros e check-ins
+- skill: Projetar, configurar e distribuir pesquisas
+- skill: Analisar e compreender as informações de eventos e pesquisas
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-marketing
+exams:
+- uid: exam.mb-220
+summary: |-
+  Eventos, seminários on-line e pesquisas geralmente são uma parte crucial de como uma organização de marketing alcança os clientes. Eventos e webinars contêm muitas partes móveis e podem ser complexos de gerenciar. O Dynamics 365 for Marketing simplifica esse processo, trazendo todos os dados de planejamento para um local central e fornecendo canais de execução por meio de um portal de eventos personalizável. As pesquisas geralmente são fornecidas após o evento, mas também podem ser usadas durante todo o ciclo de vida do marketing para solicitar feedback. Por meio da solução Voice of the Customer da Microsoft, as pesquisas são fáceis de configurar, gerenciar, executar e associar a um evento.
+
+  Este curso cobrirá o planejamento de eventos, incluindo a criação e gerenciamento de sessões, palestrantes, passes, listas de espera, locais, patrocinadores, fornecedores, logística e acomodações; bem como a execução de eventos, como a criação de campos de registro personalizados, o gerenciamento de registros e check-ins e o portal de eventos; o curso cobrirá a criação e distribuição de pesquisas. Por fim, concluirá com os resultados do evento e da pesquisa.
+
+  Aprenda todas as funcionalidades de eventos e pesquisas no Dynamics 365 for Marketing através de demonstrações personalizadas, verifique suas perguntas de conhecimento e laboratórios de aprendizado práticos.
+
+  #### Perfil do público
+  Este curso foi desenvolvido para profissionais de TI ou de marketing que desejam aprender a aproveitar o Dynamics 365 for Marketing para empresas.
+prerequisitesSection: |-
+  Antes de participar deste curso, os estudantes devem&#58;
+  - Uma compreensão dos conceitos básicos do Dynamics 365 e conhecimento dos princípios, estratégias e procedimentos de marketing
+outlineSection: |-
+  ### Módulo 1&#58; Eventos
+  Neste módulo, os alunos aprenderão como gerenciar o planejamento e a execução de eventos no Dynamics 365 for Marketing.
+  #### Lições
+  - Gerenciar o planejamento de eventos
+  - Gerenciar execução de evento
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar eventos presenciais e de webinar
+  - Configurar recursos de planejamento de eventos, como sessões, palestrantes, passes de eventos, listas de espera, locais e patrocinadores
+  - Criar e gerenciar eventos recorrentes
+  - Criar campos de registro personalizados
+  - Criar mensagens de saída de eventos
+  - Configurar e gerencie o portal de eventos, a inscrição e a funcionalidade de check-in
+
+
+  ### Módulo 2&#58; Voz do Cliente
+  Neste módulo, os alunos revisarão como configurar, projetar e distribuir pesquisas do Voice of the Customer no Dynamics 365 for Marketing.
+  #### Lições
+  - Criar pesquisas
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar um tema de pesquisa reutilizável
+  - Criar, projetar, visualizar e publicar uma pesquisa
+  - Aprender a distribuir uma pesquisa pelos canais do Dynamics 365 for Marketing
+  - Clonar, importar, traduzir, fechar, parar ou excluir uma pesquisa
+
+
+  ### Módulo 3&#58; Resultados
+  No módulo Resultados, os alunos revisarão as informações do evento de marketing e da pesquisa.
+  #### Lições
+  - Analisar os resultados do evento e da pesquisa
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Utilizar o painel de eventos para avaliar o resultado dos eventos
+  - Ver os resultados das pesquisas

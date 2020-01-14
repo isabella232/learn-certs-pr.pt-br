@@ -1,0 +1,105 @@
+### YamlMime:Course
+title: Implementando a infraestrutura do SharePoint 2019
+metadata:
+  title: 'Curso MS-301T01-A: Implementando a infraestrutura do SharePoint 2019'
+  description: 'Curso MS-301T01-A: Implementando a infraestrutura do SharePoint 2019'
+uid: course.ms-301t01
+courseNumber: 'MS-301T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever o recurso MinRole no SharePoint 2019
+- skill: Descrever como instalar e configurar o SharePoint 2019
+- skill: Descrever como implementar alta disponibilidade para o SharePoint
+- skill: Descrever a infraestrutura de autenticação no SharePoint 2019
+- skill: Explicar os conceitos por trás da identidade federada
+- skill: Descrever como criar conjuntos de sites
+- skill: Descrever como planejar a autorização no SharePoint 2019
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  O SharePoint Server 2019 foi projetado para atender às demandas dos estilos de trabalho modernos. Ele fornece as novas experiências modernas para os usuários, intuitivas e familiares no SharePoint Online. Neste curso, você aprenderá como implantar e configurar o SharePoint Server 2019. Também discutiremos como planejar e configurar o SharePoint na autenticação e segurança no local para proteger o ambiente. Você também aprenderá como gerenciar o conteúdo do SharePoint para se alinhar à arquitetura moderna de informações. 
+  
+  Este curso foi desenvolvido para profissionais de TI que implantam e gerenciam a infraestrutura de trabalho em equipe em sua organização. 
+  
+  Este é o primeiro de uma série de quatro cursos para o Teamwork Administrator. Esses cursos ajudam a se preparar para o exame MS-301&#58; Implantando o SharePoint Server Hybrid.
+
+  #### Perfil do público
+  Este curso é para a função de Teamwork Administrator do Microsoft 365. A função é responsável por configurar, implantar e gerenciar cargas de trabalho do Office 365 e Azure que se concentram na colaboração e adoção eficientes e eficazes. Eles gerenciam aplicativos, serviços e infraestrutura de suporte para atender aos requisitos de negócios. O administrador está ciente e pode diferenciar entre produtos e serviços, mas não pode gerenciar diretamente cada produto ou serviço. 
+  
+  O administrador do Teamwork deve ser capaz de implantar, gerenciar, migrar e proteger o SharePoint (online, no local e híbrido), o OneDrive e Teams. 
+  
+  O Teamwork Administrator tem um entendimento fundamental dos pontos de integração com os seguintes aplicativos e serviços&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planejador e Projeto. O administrador entende como integrar aplicativos e serviços de terceiros, incluindo aplicativos da linha de negócios.
+prerequisitesSection: |-
+  Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
+  - Experiência com o Windows PowerShell
+  - Compreensão básica do gerenciamento do servidor SQL
+  - Compreensão básica de redes, incluindo DNS
+  - Compreensão básica de redes, incluindo DNS.
+  - Compreensão básica do Active Directory e do Azure AD.
+  - Compreensão básica de gerenciamento de dispositivos móveis e sistemas operacionais alternativos (Android e macOS)
+outlineSection: |-
+  ### Módulo 1&#58; Infraestrutura do SharePoint
+  Este módulo é sobre a infraestrutura fundamental do SharePoint. Ele descreve os componentes no farm do SharePoint. Ele também discute como instalar e configurar o farm do SharePoint.
+
+  #### Lições
+  - Planejar um SharePoint Farm
+  - SharePoint 2019
+  - Instalar e gerenciar o Farm do SharePoint
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever o recurso MinRole no SharePoint 2019
+  - Descrever como instalar e configurar o SharePoint 2019
+  - Descrever como implementar alta disponibilidade para o SharePoint
+  - Planejar backups e restaurações de farm
+
+
+  ### Módulo 2&#58; Autenticação e segurança do SharePoint
+  Este módulo é sobre autenticação e segurança do SharePoint. Introduz diferentes métodos de autenticação no SharePoint 2019.
+
+  #### Lições
+  - Plano de autenticação
+  - Configurar autenticação federada
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a infraestrutura de autenticação no SharePoint 2019
+  - Descrever autenticação NTLM e Kerberos
+  - Descrever a autenticação servidor a servidor
+  - Explicar os conceitos por trás da identidade federada
+
+
+  ### Módulo 3&#58; Gerenciamento de Conteúdo do SharePoint
+  Este módulo é sobre o Gerenciamento de Conteúdo do SharePoint. Ele discute a estrutura de conteúdo no SharePoint. Ele também fornece detalhes sobre autorização e acesso a conteúdo no SharePoint.
+
+  #### Lições
+  - Conteúdo do SharePoint Visão geral da estrutura
+  - Gerenciar o Acesso ao Conteúdo
+  - Gerenciar conjuntos de sites
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Explicar os conceitos do conjunto de sites
+  - Descrever como criar conjuntos de sites
+  - Descrever como planejar a autorização no SharePoint 2019
+  - Descrever como gerenciar níveis de permissões no SharePoint 2019
+  - Descrever como gerenciar grupos do SharePoint no SharePoint 2019
+
+
+  ### Módulo 4&#58; Conclusão do Curso
+
+  #### Laboratório&#58; Criar e configurar aplicativos na web

@@ -1,0 +1,151 @@
+### YamlMime:Course
+title: Configurar e usar a fabricação enxuta no Dynamics 365 for Finance and Operations
+metadata:
+  title: 'Curso MB-320T02-A: Configurar e usar a fabricação enxuta no Dynamics 365 for Finance and Operations'
+  description: 'Curso MB-320T02-A: Configurar e usar a fabricação enxuta no Dynamics 365 for Finance and Operations'
+uid: course.mb-320t02
+courseNumber: 'MB-320T02-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance-operations
+exams:
+- uid: exam.mb-320
+summary: |-
+  As organizações usam o Dynamics 365 for Finance and Operations para executar de maneira mais inteligente as operações conectadas, selecionando os processos de fabricação mais adequados, melhorando os procedimentos operacionais, simplificando o gerenciamento de recursos, acelerando a entrega do produto e aumentando a qualidade e a satisfação do cliente. 
+
+  Este curso discute como configurar e usar a manufatura enxuta no Dynamics 365 for Finance and Operations.
+
+  #### Perfil do público
+  Um Consultor Funcional do Dynamics 365 for Finance and Operations é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+prerequisitesSection: |-
+  Compreensão básica dos conceitos de ERP e CRM.
+outlineSection: |-
+  ### Módulo 1&#58; Introdução ao Lean Manufacturing
+  Este tópico explica como iniciar a fabricação enxuta no Finance and Operations.
+
+  #### Lições
+  - Introdução
+  - Conceitos e terminologia
+  - Resumo do módulo
+
+
+  Nesta lição, os alunos aprenderam a&#58;
+  - Entenda a fabricação enxuta
+  - Compreender conceitos e terminologia Lean
+
+
+  ### Módulo 2&#58; Configurar a fabricação enxuta
+  Este tópico explica como configurar a manufatura enxuta no Finance and Operations. Um cenário de manufatura enxuta é geralmente mais do que um acúmulo de regras Kanban não relacionadas ou políticas de fornecimento de material. O fluxo de material e produtos pelas células e locais de trabalho para um cenário específico de produção ou fornecimento pode ser descrito como uma sequência ou pequena rede de atividades de processo ou transferência, chamada fluxo de produção. Os fluxos de produção baseados em atividades são introduzidos no Finance and Operations para estabelecer um contexto de produção e custo para vários cenários de Kanban. Todas as regras do Kanban estão diretamente conectadas a essa estrutura predefinida. O modelo baseado em atividades permite que os usuários configurem uma variedade maior de cenários do que o suportado pelas versões anteriores do Lean Manufacturing para Finanças e Operações, sem adicionar complexidade aos trabalhadores da fábrica, porque todos os cenários usam a mesma interface do usuário baseada em atividades.
+  #### Lições
+  - Introdução
+  - Configurar parâmetros
+  - Criar fluxos de valor e modelos de fluxo de produção
+  - Criar fluxos de produção
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Neste módulo, os alunos aprenderam a&#58;
+  - Configurar parâmetros
+  - Configurar fluxos de valor
+  - Criar fluxos de produção
+  - Configurar células de trabalho de fabricação enxuta
+
+
+  ### Módulo 3&#58; Criar e processar regras Kanban fixas
+  No Dynamics 365 for Finance and Operations, um Kanban é implementado como uma estrutura para planejar, rastrear e processar com base nos sinais Pull. Um Kanban é uma parte essencial de um sistema de fornecimento pull, que é um elemento crítico da produção/fornecimento Lean. Quando um Kanban é consumido, ele deve ser passado (acionado) para a fonte de suprimento para reabastecê-lo. Essa fonte de suprimento é definida pelas atividades de fluxo de produção às quais o Kanban está vinculado. As regras do Kanban no Finance and Operations estão vinculadas aos fluxos de produção como a base que define as atividades de um Kanban. As regras do Kanban podem ser configuradas para oferecer suporte a uma variedade de cenários de produção em estoque e sob encomenda.
+  #### Lições
+  - Introdução
+  - Painéis Kanban
+  - Configurar uma regra Kanban fixa
+  - Processar Kanbans fixos
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Os alunos entenderam uma visão geral dos tipos Kanbans e Kanban e aprenderam a configurar e processar regras de Kanban Fixo.
+
+
+  Os alunos aprenderam como configurar e trabalhar com o&#58;
+  - Regras Kanban
+  - Fabricação Kanbans
+  - Retirada Kanbans
+  - Quantidade fixa de Kanbans
+
+
+  ### Módulo 4&#58; Criar e processar regras Kanban de eventos
+  Neste módulo, discutimos os Kanbans de eventos e as diferentes maneiras de acioná-los.
+  #### Lições
+  - Introdução
+  Configurar regras Kanban de eventos
+  - Configurar vendas, Kanban, reabastecimento de estoque e eventos de linha de BOM
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Os alunos aprenderam a configurar e processar as regras Kanban de eventos.
+
+
+  Os alunos aprenderam como configurar e trabalhar com o&#58;
+  - Regras Kanban
+  - Fabricação Kanbans
+  - Retirada Kanbans
+  - Criar e gerenciar o evento da linha de vendas Kanban
+  - Criar e gerenciar o evento da linha da lista técnica Kanban
+  - Os alunos também entendem cenários de amostra para processos de Kanbans de eventos e tipos diferentes de Kanban de eventos.
+
+
+  ### Módulo 5&#58; Criar e processar regras Kanban agendadas
+  As ordens planejadas do tipo Kanban são criadas com base na regra Kanban e seguem a lógica e os horizontes de planejamento mestre. As configurações de cobertura do item de Planejamento Mestre determinam como as ordens planejadas são criadas e se são automáticas ou manualmente reafirmadas. Neste módulo, discutimos o Kanban agendado no Dynamics 365 for Finance and Operations.
+  #### Lições
+  - Introdução
+  - Configurar regras Kanban agendadas
+  - Compreender os cálculos de quantidade Kanban e Kanbans de circulação
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Os alunos aprenderam como configurar e trabalhar com o&#58;
+  - Regras Kanban
+  - Fabricação Kanbans
+  - Retirada Kanbans
+  - Criar e gerenciar Kanban agendado
+  - Cronograma de suprimentos
+  - Cálculos de quantidade Kanban
+
+
+  ### Módulo 6&#58; Configurar subcontratação baseada em atividades e custo do fluxo de produção
+  O princípio básico de um fluxo de produção não muda quando as atividades são subcontratadas usando Finanças e Operações; o material ainda flui entre locais, as atividades de processo convertem material em produtos e as atividades de transferência movem material ou produtos de um local para outro. No Dynamics 365 for Finance and Operations, há duas abordagens para subcontratação&#58; ordens de produção e fabricação enxuta. A primeira abordagem modela o trabalho de subcontratação como um serviço relacionado a uma atividade de um fluxo de produção. É necessário configurar um tipo de grupo de custos, terceirização direta, para que os serviços de subcontratação não façam parte de uma lista de material. A contabilidade de custos do trabalho subcontratado é completamente integrada no novo custo de fabricação do Microsoft Dynamics 365 for Finance and Operations.
+  #### Lições
+  - Introdução
+  - Configurar subcontratação baseada em atividades
+  - Entender o custo do fluxo de produção
+  - Laboratórios práticos
+  - Resumo do módulo
+
+
+  Nesta lição, os alunos aprenderam como&#58;
+  - Configurar subcontratação baseada em atividades
+  - Configurar programação de produção e subcontratação
+  - Designar fornecedores como subcontratados
+  - Configurar o custo do fluxo de produção
+
+
+  ### Módulo 7&#58; Conclusão do Curso
+  Avaliação final e resumo do curso, bem como uma pesquisa pós-curso.
+  #### Lições
+  - Avaliação final
+  - Resumo do curso
+  - Pesquisa pós-curso
+
+
+  Os alunos terão concluído o curso.

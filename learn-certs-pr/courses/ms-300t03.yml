@@ -1,0 +1,103 @@
+### YamlMime:Course
+title: Habilitando o Microsoft Teams for Collaboration
+metadata:
+  title: 'Curso MS-300T03-A: Habilitando o Microsoft Teams for Collaboration'
+  description: 'Curso MS-300T03-A: Habilitando o Microsoft Teams for Collaboration'
+uid: course.ms-300t03
+courseNumber: 'MS-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planejar uma implantação do Microsoft 365 Teams
+- skill: Configurar o Office 365 for Teams
+- skill: Configurar equipes e canais no Microsoft Teams
+- skill: Gerenciar o acesso do usuário às equipes
+- skill: Configurar equipes para reuniões
+- skill: Estabelecer uma estratégia de governança de dados para dados de equipes
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-300
+summary: |-
+  O Microsoft Teams é o centro do trabalho em equipe no Microsoft 365. Neste curso, você aprenderá como planejar, implantar e gerenciar Microsoft Teams. Especificamente, este curso discute o relacionamento das equipes com os grupos do SharePoint, OneDrive e Office 365. Ele fornece práticas recomendadas para a adoção e implantação de equipes na sua organização. Ele também aborda como estabelecer políticas de convidado e governança de dados para seus dados de equipes.
+
+  Este curso foi desenvolvido para profissionais de TI que gerenciam e implantam o Microsoft Teams em suas organizações. 
+  
+  Este é o terceiro de uma série de quatro cursos para a função de administrador do Teamwork. Esses cursos ajudam a se preparar para o exame MS-300&#58; Implantando o Microsoft 365 Teamwork.
+
+  #### Perfil do público
+  Este curso é para a função de Teamwork Administrator do Microsoft 365. A função é responsável por configurar, implantar e gerenciar cargas de trabalho do Office 365 e Azure que se concentram na colaboração e adoção eficientes e eficazes. Eles gerenciam aplicativos, serviços e infraestrutura de suporte para atender aos requisitos de negócios. O administrador está ciente e pode diferenciar entre produtos e serviços, mas não pode gerenciar diretamente cada produto ou serviço.
+
+  O administrador do Teamwork deve ser capaz de implantar, gerenciar, migrar e proteger o SharePoint (online, no local e híbrido), o OneDrive e Teams.
+
+  O Teamwork Administrator tem um entendimento fundamental dos pontos de integração com os seguintes aplicativos e serviços&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planejador e Projeto. O administrador entende como integrar aplicativos e serviços de terceiros, incluindo aplicativos da linha de negócios.
+prerequisitesSection: |-
+  Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
+  - Compreensão básica do Active Directory e do Azure AD.
+  - Compreensão básica de gerenciamento de dispositivos móveis e sistemas operacionais alternativos (Android e macOS)
+  - Experiência com o Windows PowerShell
+outlineSection: |-
+  ### Módulo 1&#58; Planejar uma implantação do Microsoft Teams
+  Este módulo é sobre planejamento para o Microsoft Teams.  Ele discute como os usuários se autenticarão para usar equipes e práticas recomendadas para implantar equipes em sua organização.
+  #### Lições
+  - Introdução ao Teams
+  - Implantação do Teams
+  - Teams e Canais
+  - Autenticação e Acesso
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Explicar como as equipes interagem com o SharePoint Online, Exchange Online e OneDrive
+  - Descrever os clientes das diferentes equipes e como eles podem ser usados
+  - Descrever como preparar sua rede para o tráfego de equipes
+  - Descrever as etapas de práticas recomendadas para implantar o Microsoft Teams
+  - Definir objetivos, riscos e principais resultados para a implantação de suas equipes
+  - Descrever os diferentes recursos das diferentes funções nas equipes
+  - Descrever como as equipes e os canais são usados ​​para organizar o conteúdo no Microsoft Teams
+
+
+  ### Módulo 2&#58; Configurar Microsoft Teams
+  Este módulo explica como instalar e configurar o Microsoft Teams.  Ele discute o uso de guias, bots e conectores nas equipes.  Introduz conceitos relacionados ao gerenciamento de reuniões em equipes.
+  #### Lições
+  - Configurar Microsoft Teams no Office 365
+  - Aplicativos no Microsoft Teams
+  - Reuniões no Teams
+
+
+  #### Laboratório&#58; Configurando o Microsoft Teams
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar Microsoft Teams no Office 365
+  - Descrever e administrar aplicativos no Microsoft Teams
+  - Utilizar bots e guias no Tea,s
+  - Descrever e usar conectores no Teams
+  - Descrever conceitos de reunião no Tea,s
+  - Descrever os dispositivos disponíveis para facilitar reuniões no Teams
+
+
+  ### Módulo 3&#58; Gerenciar o ambiente do Teams
+  Este módulo está focado no gerenciamento de Microsoft Teams.  Especificamente, discutimos segurança e conformidade, bem como privacidade e governança de dados.  Embora este curso não cubra chamadas de voz explicitamente, este módulo discute tópicos de qualidade de serviço.
+
+  #### Lições
+  - Privacidade e Governança
+  - Segurança e conformidade
+  - Gerenciamento e Relatórios
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os recursos de segurança e conformidade disponíveis para equipes
+  - Descrever como o Microsoft Intune pode ser usado para proteger dados de equipes em dispositivos móveis
+  - Realizar auditoria Logs e pesquisas de conteúdo para Teams
+  - Descrever a abordagem da Microsoft para privacidade de dados no Office 365
+  - Exibir relatórios do Office 365 que medem o uso de equipes
+  - Habilitar qualidade de serviço para Microsoft Teams

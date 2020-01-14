@@ -1,0 +1,93 @@
+### YamlMime:Course
+title: Dynamics 365 for customer engagement for customer service
+metadata:
+  title: 'Curso MB-230T01-A: Dynamics 365 for customer engagement for customer service'
+  description: 'Curso MB-230T01-A: Dynamics 365 for customer engagement for customer service'
+uid: course.mb-230t01
+courseNumber: 'MB-230T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Instalar e configurar o aplicativo de atendimento ao cliente
+- skill: Identificar cenários comuns de atendimento ao cliente
+- skill: Concluir um processo de resolução de caso
+- skill: Analisar dados de atendimento ao cliente
+- skill: Automatizar o processamento de registros de gerenciamento de casos
+- skill: Criar e usar artigos de conhecimento
+- skill: Criar e usar direitos e acordos de nível de serviço
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-customer-service
+exams:
+- uid: exam.mb-230
+summary: |-
+  O Microsoft Dynamics 365 for Customer Service oferece a qualquer organização uma oportunidade para o sucesso do cliente. O uso de ferramentas como criação automática de casos e gerenciamento de filas libera tempo para dedicar onde um maior impacto pode ser causado diretamente aos clientes.
+
+  Nossa equipe de especialistas mundialmente reconhecidos leva os alunos passo a passo, desde a criação de casos até a interação com os clientes e a resolução desses casos. Depois que esses casos forem resolvidos, os alunos aprenderão com a análise de dados os principais detalhes para ajudar a resolver casos semelhantes mais rapidamente ou evitar novos problemas.
+
+  #### Perfil do público
+  Um consultor funcional do Dynamics 365 Customer Engagement é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+prerequisitesSection: |-
+  Este curso foi desenvolvido para pessoas que aspiram à função de administrador do Microsoft 365 Enterprise e concluíram um dos caminhos de certificação do administrador de carga de trabalho do Microsoft 365.
+outlineSection: |-
+  ### Módulo 1&#58; Visão geral do atendimento ao cliente
+  Neste módulo, os alunos aprenderão o básico do atendimento ao cliente no Dynamics 365.  Os alunos instalarão e configurarão o aplicativo, bem como aprenderão sobre funções de segurança, aplicativos relacionados e análises.
+  #### Lições
+  - Lição 1&#58; Criar registros de casos
+  - Lição 2&#58; Aplicativos de serviço relacionados
+  - Lição 3&#58; Analytics para serviço
+  - Lição 4&#58; AI para serviço
+  - Lição 5&#58; Configurando o Atendimento ao Cliente
+  - Lição 6&#58; Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Instalar e configurar o aplicativo de atendimento ao cliente
+  Identificar cenários comuns de atendimento ao cliente
+
+
+  ### Módulo 2&#58; Gestão de caso
+  Neste módulo, os alunos aprenderão como abrir e resolver casos de atendimento ao cliente, manualmente e com automação.
+  #### Lições
+  - Lição 1&#58; Visão geral do gerenciamento de caso
+  - Lição 2&#58; Criando registros de caso
+  - Lição 3&#58; Gestão de filas
+  - Lição 4&#58; Encaminhamento de caso
+  - Lição 5&#58; Resolvendo casos
+  - Lição 6&#58; Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Abrir e resolver casos de atendimento ao cliente
+  - Automatizar a criação e o roteamento de casos
+
+
+  ### Módulo 3&#58; Contratos e direitos de nível de serviço
+  Neste módulo, os alunos aprenderão como definir e usar modelos de direitos e modelos de direitos, bem como acordos de nível de serviço e como essas ferramentas permitem a resolução de casos.
+  #### Lições
+  - Lição 1&#58; Visão geral do SLA e dos direitos
+  - Lição 2&#58; Criar e gerenciar direitos
+  - Lição 3&#58; Criar e gerenciar SLAs
+  - Lição 4&#58; Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar e usar acordos de nível de serviço
+  - Criar e usar direitos
+
+
+  ### Módulo 4&#58; Gestão do conhecimento
+  Neste módulo, os alunos aprenderão como criar e usar a gestão do conhecimento.  Além disso, os alunos aprenderão o ciclo de vida dos artigos de conhecimento.
+  #### Lições
+  - Lição 1&#58; Visão geral do gerenciamento de conhecimento
+  - Lição 2&#58; Criação e organização
+  - Lição 3&#58; Use conteúdo de conhecimento
+  - Lição 4&#58; Gerenciar conteúdo de conhecimento
+  - Lição 5&#58; Resumo do módulo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar e gerenciar conteúdo de conhecimento

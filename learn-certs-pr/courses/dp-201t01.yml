@@ -1,0 +1,177 @@
+### YamlMime:Course
+title: Criar uma solução de dados do Azure
+metadata:
+  title: 'Curso DP-201T01-A: Criar uma solução de dados do Azure'
+  description: 'Curso DP-201T01-A: Criar uma solução de dados do Azure'
+uid: course.dp-201t01
+courseNumber: 'DP-201T01-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure
+- azure-cosmos-db
+- azure-data-lake
+- azure-sql-data-warehouse
+- azure-databricks
+- azure-notebooks
+- azure-stream-analytics
+- azure-sql-database
+- azure-storage
+- azure-monitor
+- azure-hdinsight
+exams:
+- uid: exam.dp-201
+summary: |-
+ Neste curso, os estudantes desenvolverão várias tecnologias de plataforma de dados em soluções alinhadas aos requisitos comerciais e técnicos. Isso inclui cenários de dados locais, na nuvem e híbridos que incorporam dados relacionais, NoSQL ou Data Warehouse. Eles também aprenderão a projetar arquiteturas de processo usando diversas tecnologias para dados de streaming e em lote. Os estudantes também saberão como implementar a segurança dos dados, incluindo acesso aos dados, políticas e padrões de dados. Eles também implementarão soluções de dados do Azure, que incluem otimização, disponibilidade e recuperação de desastre de soluções de big data, processamento em lote e streaming de dados.
+
+  #### Perfil do público
+  Este curso destina-se a profissionais de dados, arquitetos de dados e profissionais de Business Intelligence que desejam aprender sobre as tecnologias de plataforma de dados existentes no Microsoft Azure. Este curso também destina-se a indivíduos que desenvolvem aplicativos que fornecem conteúdo das tecnologias da plataforma de dados existentes no Microsoft Azure.
+prerequisitesSection: |-
+  Além de sua experiência profissional, os estudantes que participam desse treinamento devem ter conhecimento técnico equivalente aos seguintes cursos&#58;
+  - [Azure Fundamentals](https://docs.microsoft.com/pt-br/learn/modules/welcome-to-azure/)
+  - DP-200&#58; Implementação de uma solução de dados do Azure
+outlineSection: |-
+  ### Módulo 1&#58; Considerações sobre arquitetura da plataforma de dados
+  Neste módulo, os estudantes aprenderão a projetar e criar soluções seguras, escaláveis e de alto desempenho no Azure, examinando os princípios básicos encontrados em toda boa arquitetura. Eles aprenderão como o uso dos princípios básicos em toda a arquitetura, independentemente da escolha da tecnologia, pode ajudá-lo a projetar, construir e melhorar continuamente a arquitetura para o benefício de uma organização.
+  #### Lições
+  - Princípios básicos da criação de arquiteturas
+  - Design com ênfase na segurança
+  - Desempenho e escalabilidade
+  - Design para disponibilidade e capacidade de recuperação
+  - Design para eficiência e operações
+  - Estudos de caso
+
+
+  #### Laboratório&#58; Estudo de caso
+  - Design com ênfase na segurança
+  - Considerar o desempenho e escalabilidade
+  - Design para disponibilidade e capacidade de recuperação
+  - Design para eficiência e operações
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Design com ênfase na segurança
+  - Considerar o desempenho e escalabilidade
+  - Design para disponibilidade e capacidade de recuperação
+  - Design para eficiência e operações
+
+
+  ### Módulo 2&#58; Arquiteturas de referência de processamento em lote do Azure
+  Neste módulo, os estudantes conhecerão os padrões de design e arquitetura de referência para criar soluções de processamento de dados em lotes. O estudante deverá enfrentar questões de movimentação de dados de sistemas locais em um data warehouse na nuvem e como ele pode ser automatizado. Os alunos também solucionarão problemas de arquitetura de IA e como a plataforma de dados pode se integrar a uma solução de IA.
+  #### Lições
+  - Arquiteturas lambda de uma perspectiva de modo de lote
+  - Criar soluções Enterprise BI no Azure
+  - Atualizar as soluções Enterprise BI no Azure
+  - Desenvolver um bot de conversação de nível empresarial no Azure
+
+
+  #### Laboratório&#58; Desenvolver um bot de conversação de nível empresarial no Azure
+  - Criação de solução Enterprise BI no Azure
+  - Automatização de solução Enterprise BI no Azure
+  - Automatização de solução Enterprise BI no Azure
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender os princípios básicos da criação de arquiteturas
+  - Descrever as arquiteturas lambda de uma perspectiva do modo de lote
+  - Criar soluções Enterprise BI no Azure
+  - Atualizar as soluções Enterprise BI no Azure
+  - Desenvolver um bot de conversação de nível empresarial no Azure
+
+
+
+  ### Módulo 3&#58; Arquiteturas de referência em tempo real do Azure
+  Neste módulo, os estudantes conhecerão os padrões de design e arquitetura de referência para criar soluções de dados de streaming. Eles aprenderão como os dados de streaming podem ser consumidos pelos hubs de eventos e pelo Stream Analytics para fornecer análises de dados em tempo real. Eles também explorarão uma arquitetura de ciência de dados que transmite dados para os Databricks do Azure para executar a análise de tendências. Por último, aprenderão como uma arquitetura da Internet das Coisas (IoT) exigirá tecnologias da plataforma de dados para armazenar dados.
+  #### Lições
+  - Descrever arquiteturas lambda para uma perspectiva de modo em tempo real
+  - Arquitetar um pipeline de processamento de fluxo com o Azure Stream Analytics
+  - Projetar um pipeline de processamento de fluxo com os Databricks do Azure
+  - Criar uma arquitetura de referência de IoT do Azure
+
+
+  #### Laboratório&#58; Arquiteturas de referência em tempo real do Azure
+  - Arquitetar um pipeline de processamento de fluxo com o Azure Stream Analytics
+  - Projetar um pipeline de processamento de fluxo com os Databricks do Azure
+  - Criar uma arquitetura de referência de IoT do Azure
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever arquiteturas lambda para uma perspectiva de modo em tempo real
+  - Arquitetar um pipeline de processamento de fluxo com o Azure Stream Analytics
+  - Projetar um pipeline de processamento de fluxo com os Databricks do Azure
+  - Criar uma arquitetura de referência de IoT do Azure
+
+
+  ### Módulo 4&#58; Consideração do design de segurança da plataforma de dados
+  Neste módulo, os estudantes aprenderão a incorporar a segurança em um design de arquitetura e aprenderão os principais pontos de decisão do Azure fornecidos para ajudar a criar um ambiente seguro através de todas as camadas da arquitetura.
+  #### Lições
+  - Abordagem de segurança de defesa em profundidade
+  - Gerenciamento da identidade
+  - Proteção da infraestrutura
+  - Uso de criptografia
+  - Proteção em nível de rede
+  - Segurança de aplicativos
+
+
+  #### Laboratório&#58; Consideração do design de segurança da plataforma de dados
+  - Abordagem de segurança de defesa em profundidade
+  - Proteção da identidade
+
+  Depois de completar este módulo, os estudantes compreenderão o seguinte&#58;
+  - Abordagem de segurança de defesa em profundidade
+  - Gerenciamento da identidade
+  - Proteção da infraestrutura
+  - Uso de criptografia
+  - Proteção em nível de rede
+  - Segurança de aplicativos
+
+
+  ### Módulo 5&#58; Planejamento da resiliência e escalabilidade
+  Neste módulo, os alunos conhecerão os serviços de dimensionamento para processamento da carga. Eles aprenderão porque a identificação de gargalos na rede e a otimização do desempenho do armazenamento são importantes para garantir a melhor experiência para o usuário. Eles também aprenderão a solucionar falhas de infraestrutura e de serviço e realizar processos de recuperação de perda de dados e de desastres ao incorporar estratégias de disponibilidade e capacidade de recuperação na arquitetura.
+  #### Lições
+  - Ajuste da capacidade da carga de trabalho por meio de dimensionamento
+  - Otimização do desempenho da rede
+  - Planejamento do armazenamento otimizado e desempenho do banco de dados
+  - Identificação de gargalos de desempenho
+  - Criação de uma solução de alta disponibilidade
+  - Incorporação da recuperação de desastres nas arquiteturas
+  - Criação de estratégias de backup e restauração
+
+
+  #### Laboratório&#58; Planejamento da resiliência e escalabilidade
+  - Ajuste da capacidade da carga de trabalho por meio de dimensionamento
+  - Planejamento do armazenamento otimizado e desempenho do banco de dados
+  - Criação de uma solução de alta disponibilidade
+  - Incorporação da recuperação de desastres nas arquiteturas
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Ajuste da capacidade da carga de trabalho por meio de dimensionamento
+  - Otimização do desempenho da rede
+  - Planejamento do armazenamento otimizado e desempenho do banco de dados
+  - Identificação de gargalos de desempenho
+  - Criação de uma solução de alta disponibilidade
+  - Incorporação da recuperação de desastres nas arquiteturas
+  - Criação de estratégias de backup e restauração
+
+
+  ### Módulo 6&#58; Planejamento da eficiência e operações
+  Neste módulo, os estudantes aprenderão a projetar uma arquitetura do Azure que seja operacionalmente eficiente e minimizem os custos, reduzindo os gastos, e entenderão como projetar arquiteturas que eliminam o desperdício e lhes dão total visibilidade do que está sendo utilizado no ambiente do Azure da organização .
+  #### Lições
+  - Maximização da eficiência do seu ambiente em nuvem
+  - Uso de monitoramento e a análise para obter insights operacionais
+  - Uso da automação para reduzir esforços e erros
+
+
+  #### Laboratório&#58; Planejamento da eficiência e operações
+  - Maximização da eficiência do seu ambiente em nuvem
+  - Uso de monitoramento e a análise para obter insights operacionais
+  - Uso da automação para reduzir esforços e erros
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Maximização da eficiência do seu ambiente em nuvem
+  - Uso de monitoramento e a análise para obter insights operacionais
+  - Uso da automação para reduzir esforços e erros

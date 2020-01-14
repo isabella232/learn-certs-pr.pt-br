@@ -1,0 +1,112 @@
+### YamlMime:Course
+title: Implementação e configuração da infraestrutura
+metadata:
+  title: 'Curso AZ-300T01-A: Implementação e configuração da infraestrutura'
+  description: 'Curso AZ-300T01-A: Implementação e configuração da infraestrutura'
+uid: course.az-300t01
+courseNumber: 'AZ-300T01-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Gerenciar assinaturas e recursos do Azure
+- skill: Implementar gerenciar soluções de armazenamento
+- skill: Implementar e gerenciar máquinas virtuais
+- skill: Configurar e gerenciar redes virtuais
+- skill: Gerenciar identidades usando o Azure Active Directory
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  Este curso ensina os profissionais de TI a gerenciar seus recursos do Azure, incluindo implantação e configuração de máquinas virtuais, redes virtuais, contas de armazenamento e o Azure AD, que inclui a implementação e o gerenciamento de identidades híbridas. Os estudantes também aprenderão como os recursos de nuvem são gerenciados no Azure por meio de contas de usuário e grupo e como conceder acesso a usuários, grupos e serviços do Azure AD usando o controle de acesso baseado em função (RBAC).
+
+  Os estudantes aprenderão sobre as diferentes contas e serviços de armazenamento, bem como conceitos básicos de replicação de dados e esquemas de replicação disponíveis. Os estudantes também conhecerão o Gerenciador de Armazenamento como uma maneira conveniente de trabalhar com dados de armazenamento do Azure. Os alunos também conhecerão os tipos de armazenamento e como trabalhar com discos personalizados e gerenciados.
+  
+  O armazenamento de blob do Azure é a maneira como o Azure armazena dados não estruturados na nuvem e os estudantes irão trabalhar com blobs e contêineres de blob. Além do armazenamento em blob, o curso aborda o armazenamento em tabela e em fila como opções de armazenamento para dados estruturados.
+  
+  Os estudantes aprenderão a criar e implementar máquinas virtuais no Azure com os modelos de portal, PowerShell e ARM do Azure. O curso inclui instruções sobre a implementação de imagens personalizadas e máquinas virtuais Linux. Os estudantes saberão como configurar os componentes de rede e armazenar máquinas virtuais. A implementação de máquinas virtuais de alta disponibilidade é fundamental para eventos planejados e não planejados e os estudantes aprenderão a usar conjuntos de disponibilidade para garantir que os recursos da máquina virtual estejam disponíveis durante o período de inatividade.
+  
+  Os estudantes conhecerão as ferramentas e recursos de monitoramento fornecidos pelo Azure, incluindo alertas e log de atividades do Azure. Além de alertas e logs, os estudantes conhecerão o Log Analytics como uma solução eficaz de análise de dados para compreender o status e a integridade do sistema. Sendo assim, o tema mais importante que os alunos aprenderão provavelmente seja como usar o modelo de implementação do Azure Resource Manager (ARM) para trabalhar com recursos, grupos de recursos e modelos de ARM.
+  
+  Uma vez que este curso é o primeiro da série para os exames do Azure Solutions Architect, existe uma quantidade considerável de conteúdo introdutório apresentado para preparar os alunos para os cursos restantes no currículo. Os estudantes recebem uma lição que aborda dicas e truques para trabalhar no portal do Azure, além de uma introdução às principais ferramentas usadas no ambiente do Azure, como o Cloud Shell e o gerenciador de recursos. A ênfase será dada ao PowerShell e à interface da linha de comandos (CLI) como habilidades importantes a serem adquiridas na preparação para o exame e também para sua carreira em geral.
+
+  #### Perfil do público
+  Os arquitetos de soluções de nuvem bem-sucedidos iniciam essa função com experiência prática em sistemas operacionais, virtualização, infraestrutura de nuvem, estruturas de armazenamento, cobrança e rede.
+outlineSection: |-
+  ### Módulo 1&#58; Gerenciamento de assinaturas e recursos do Azure
+  Neste módulo, você irá explorar os recursos de monitoramento do Azure usando alertas, logs de atividades e Log Analytics do Azure. Você aprenderá a consultar, analisar e interpretar os dados visualizados no Log Analytics.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Gerenciar assinaturas e recursos do Azure
+
+
+  ### Módulo 2&#58; Implementação e gerenciamento do armazenamento
+  Neste módulo, você aprenderá sobre contas de armazenamento do Azure, replicação de dados, como usar o gerenciador de armazenamento do Azure e como monitorar o armazenamento.
+  
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar e gerenciar o armazenamento
+
+
+  ### Módulo 3&#58; Implementação e gerenciando de máquinas virtuais (VMs)
+  Neste módulo, você aprenderá a realizar as seguintes tarefas&#58;
+  - Criar máquinas virtuais (VMs) no Portal do Azure
+  - Criar máquinas virtuais (VMs) usando o Azure PowerShell
+  - Criar máquinas virtuais (VMs) usando modelos do ARM
+  - Implementar máquinas (VMs) do Linux
+  - Monitorar máquinas virtuais (VMs)
+  
+  Além disso, você aprenderá como proteger os dados usando backups em intervalos regulares, seja por instantâneo, backup do Azure ou Azure Site Recovery.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar e gerenciar máquinas virtuais
+
+
+  ### Módulo 4&#58; Configuração e gerenciamento de máquinas virtuais
+  Neste módulo, você irá criar e implementar redes virtuais usando o Portal do Azure, bem como o Azure PowerShell e a CLI. Você obterá uma visão geral sobre como atribuir endereços IP aos recursos do Azure para se comunicar com outros recursos do Azure, sua rede local e a Internet.
+  #### Lições
+  - Roteamento de rede com o uso de tabelas e algoritmos de roteamento
+  - Conectividade entre sites usando conexões VNet a VNet e VPNs
+  - Emparelhamento de rede virtual para considerações regionais e globais
+  - Trânsito de gateway
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar e gerenciar redes virtuais
+
+
+  ### Módulo 5&#58; Gerenciamento de identidades
+  Este módulo abrange o Azure Active Directory (Azure AD) para administradores e desenvolvedores de TI com ênfase no serviço de gerenciamento de diretório e identidade baseado em nuvem de vários locatários do Azure AD.
+  #### Lições
+  - Controle de acesso baseado em funções (RBAC)
+  - Funções internas
+  - Redefinição de senha de autoatendimento (SSPR)
+  - Métodos de autenticação para redefinição de senha
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Gerenciar identidades usando o Azure AD

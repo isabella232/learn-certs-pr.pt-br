@@ -1,0 +1,84 @@
+### YamlMime:Course
+title: Gerenciando o acesso ao cliente e o fluxo de mensagens
+metadata:
+  title: 'Curso MS-200T02-A: Gerenciando o acesso ao cliente e o fluxo de mensagens'
+  description: 'Curso MS-200T02-A: Gerenciando o acesso ao cliente e o fluxo de mensagens'
+uid: course.ms-200t02
+courseNumber: 'MS-200T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Implementar serviços de acesso para cliente
+- skill: Gerenciar dispositivos clientes
+- skill: Configurar o Outlook na Web
+- skill: Solucionar problemas de acesso para cliente
+- skill: Configurar diretivas de caixa de correio de dispositivo móvel
+- skill: Gerenciar políticas de caixa de correio de dispositivo móvel
+- skill: Configurar transporte de mensagens
+- skill: Gerenciar regras de transporte
+- skill: Gerenciar fluxo de correio
+- skill: Solucionar problemas de fluxo de mensagens
+- skill: Solucionar problemas de transporte
+- skill: Solucionar problemas com logs
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-200
+summary: |-
+  Neste curso, você aprenderá como o Microsoft Exchange Server fornece acesso às caixas de correio do usuário para muitos clientes diferentes. Como todos os clientes de mensagens acessam caixas de correio do Exchange Server por meio de serviços de acesso ao cliente, examinaremos como planejar, configurar e gerenciar serviços de acesso para cliente no Exchange Server. Como o uso de smartphones e tablets para mensagens se tornou muito popular e como muitos usuários de smartphones usam seus dispositivos intensivamente para email, calendário, tarefas e outros fins de colaboração, você também aprenderá como gerenciar dispositivos móveis. Este curso também descreve o planejamento e a configuração do transporte de mensagens em uma organização do Exchange Server. Você aprenderá como planejar, configurar e gerenciar serviços de transporte para fornecer comunicação eficiente entre seus servidores Exchange, Exchange Online e outros servidores de correio na Internet. Por fim, você aprenderá como solucionar problemas de serviços de transporte quando ocorrerem problemas em diferentes cenários, para que você possa fornecer à sua organização uma infraestrutura de mensagens saudável e confiável.
+
+  #### Perfil do público
+  O Administrador de Mensagens implanta, configura, gerencia e
+  soluciona problemas de destinatários, permissões, proteção de mensagens, fluxo de mensagens e pastas públicas em ambientes corporativos locais e na nuvem. As responsabilidades incluem gerenciar a higiene das mensagens, a infraestrutura de mensagens e a configuração e migração híbridas. O Administrador de Mensagens também implementa e gerencia a recuperação de desastres, a alta disponibilidade e o acesso do cliente. Para implementar uma topologia híbrida segura que atenda às necessidades comerciais de uma organização moderna, o Administrador de Mensagens deve colaborar com o Security Administrator e o Microsoft 365 Enterprise Administrator. O Messaging Administrator deve ter um conhecimento prático dos tipos de autenticação, licenciamento e integração com aplicativos do Microsoft 365.
+prerequisitesSection: |-
+  - Conhecimento proficiente do DNS.
+  - Entendimento básico de mensagens no servidor do Exchange ou no Exchange Online.
+  - Entendimento básico da infraestrutura do Active Directory e do controlador de domínio, juntamente com o gerenciamento de identidades.
+  - Experiência funcional básica com serviços do Microsoft 365 e sincronização de diretórios.
+  - Pelo menos 5 anos de experiência geral em TI.
+outlineSection: |-
+  ### Módulo 1&#58; Gerenciando o acesso para clientes
+  #### Lições
+  - Implementar serviços de acesso para cliente
+  - Gerenciar dispositivos clientes
+  - Configuração do Outlook na Web
+  - Solucionar problemas de acesso para cliente
+
+
+  ### Módulo 2&#58; Gerenciando dispositivos móveis
+  #### Lições
+  - Políticas de caixa de correio de dispositivo móvel
+  - Gerenciando o acesso a dispositivos móveis
+
+
+  ### Módulo 3&#58; Gerenciando o pipeline de transporte
+  #### Lições
+  - Visão geral dos serviços de transporte
+  - Configuração do transporte de mensagens
+  - Gerenciamento de regras de transporte
+
+
+  ### Módulo 4&#58; Gerenciando e solucionando problemas de fluxo de mensagens
+  #### Lições
+  - Gerenciando o fluxo de mensagens
+  - Solucionando problemas de fluxo de mensagens
+  - Solucionando problemas de transporte
+  - Solução de problemas com logs
+
+
+  ### Módulo 5&#58; Conclusão do Curso
+
+  #### Laboratório&#58; Gerenciando o acesso ao cliente e o fluxo de mensagens
+  - Criar um conector de recebimento personalizado
+  - Criar um conector de envio personalizado
+  - Habilitando e desabilitando o ActiveSync para uma única caixa de correio
+  - Habilitando e desabilitando o ActiveSync para várias caixas de correio
+  - Habilitando e desabilitando o acesso MAPI a uma única caixa de correio
+  - Habilitando e desabilitando o acesso MAPI a várias caixas de correio

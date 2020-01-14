@@ -1,0 +1,79 @@
+### YamlMime:Course
+title: Noções básicas sobre as soluções de tecnologia do Cloud Architect
+metadata:
+  title: 'Curso AZ-300T03-A: Compreendendo as soluções de tecnologia do Cloud Architect'
+  description: 'Curso AZ-300T03-A: Compreendendo as soluções de tecnologia do Cloud Architect'
+uid: course.az-300t03
+courseNumber: 'AZ-300T03-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Padrões de design e de conectividade
+- skill: Rede híbrida
+- skill: Durabilidade de endereço de dados e cache
+- skill: Medição da taxa de transferência e estrutura de acesso aos dados
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  Este curso ensina aos profissionais de TI como as operações são realizadas em paralelo e de forma assíncrona. Ele também descreve como todo o sistema corporativo deve ser resiliente quando ocorrem falhas e, o mais importante, como as implementações podem ser automatizadas e previsíveis. Ao usar o guia de arquitetura de aplicativo do Azure e as arquiteturas de referência do Azure como base, você entenderá como o monitoramento e a telemetria são críticos para obter informações sobre o sistema. 
+
+  Os estudantes farão uma análise profunda nos padrões de design da nuvem que são importantes, como particionar cargas de trabalho em que um aplicativo modular é dividido em unidades funcionais que podem ser integradas a um aplicativo maior. Nesses casos, cada módulo processa uma parte da funcionalidade geral do aplicativo e representa um conjunto de questões relacionadas. 
+  
+  O balanceamento de carga é o local em que o tráfego do aplicativo, ou carga, é distribuído entre vários pontos de extremidade por meio de algoritmos. Os balanceadores de carga permitem a criação de várias instâncias do site para que se comportem de maneira previsível. No Azure, é possível usar balanceadores de carga virtuais hospedados em máquinas virtuais se a empresa exigir uma configuração específica do balanceador de carga.
+
+  Além disso, o tratamento de falhas transitórias permite definir as principais diferenças entre o desenvolvimento de aplicativos no local e o tratamento de erros transitórios. Erros transitórios são erros que ocorrem devido a interrupções temporárias no serviço ou ao excesso de latência. 
+
+  Por fim, este curso inclui uma discussão sobre redes híbridas que fornece uma visão geral da conectividade site a site, conectividade ponto a site e a combinação de ambos.
+
+  #### Perfil do público
+  Os arquitetos de soluções do Azure bem-sucedidos iniciam essa função com experiência em sistemas operacionais, virtualização, infraestrutura de nuvem, estruturas de armazenamento, cobrança e rede.
+outlineSection: |-
+  ### Módulo 1&#58; Selecionando soluções de computação e armazenamento
+  Este módulo inclui os seguintes tópicos&#58; centro de arquitetura do Azure, padrões de design em nuvem, padrão de consumidores concorrentes, padrão cache-aside, bem como estratégias de fragmentação para dividir um armazenamento de dados em partições horizontais ou fragmentos. Cada fragmento tem o mesmo esquema, mas mantém seu próprio subconjunto distinto dos dados.
+
+  Depois de concluir este módulo, os estudantes entenderão&#58;
+  - Os padrões de design e de conectividade
+
+
+  ### Módulo 2&#58; Redes híbridas
+  Este módulo inclui os seguintes tópicos&#58; conectividade site a site; conectividade ponto a site, combinação de conectividade site a site e ponto a site, conectividade entre redes virtuais, além de conectar-se a provedores de nuvem para failover, backup ou migração entre provedores como AWS.
+  
+  Depois de concluir este módulo, os estudantes entenderão&#58;
+  - Redes híbridas
+
+
+  ### Módulo 3&#58; Medição da taxa de transferência e estrutura de acesso aos dados
+  Este módulo inclui os seguintes tópicos&#58; DTUs - bancos de dados SQL do Azure, RUs - Azure Cosmos DB;, dados estruturados e não estruturados e uso repositórios de dados estruturados
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Durabilidade de endereço de dados e cache
+  - Medição da taxa de transferência e estrutura de acesso aos dados

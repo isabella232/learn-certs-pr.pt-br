@@ -1,0 +1,123 @@
+### YamlMime:Course
+title: Manutenção do Windows 10
+metadata:
+  title: 'Curso MD-100T04-A: Manutenção do Windows 10'
+  description: 'Curso MD-100T04-A: Manutenção do Windows 10'
+uid: course.md-100t04
+courseNumber: 'MD-100T04-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Usar as ferramentas de solução de problemas e monitoramento do Windows.
+- skill: Solucionar problemas de instalações do Windows.
+- skill: Solucionar problemas de instalação de aplicativos.
+- skill: Solucionar problemas de configurações do navegador da web.
+- skill: Solucionar problemas de autenticação do Windows.
+- skill: Solucione problemas de hardware relacionados a máquinas Windows.
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-100
+summary: |-
+  Neste curso, os alunos aprenderão como gerenciar e solucionar problemas do Windows 10. Este curso irá aprofundar-se na arquitetura e nas ferramentas usadas para gerenciar, monitorar e solucionar problemas de SO, aplicativos e hardware. Os alunos aprenderão sobre a metodologia proativa e de solução de problemas e como identificar e mitigar problemas comuns.
+
+  #### Perfil do público
+  Os candidatos para este exame são profissionais de TI que realizam a instalação, configuração, gerenciamento local geral e manutenção de serviços básicos do Windows 10. Os candidatos também podem estar familiarizados com os cenários empresariais e com serviços integrados na nuvem.
+prerequisitesSection: |-
+  Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
+  - Entendimento básico de redes de computadores e conceitos de hardware.
+  - Entendimento básico dos conceitos de SO e aplicativo.
+  - Experiência com o uso do sistema operacional Windows.
+outlineSection: |-
+  ### Módulo 1&#58; Suporte ao ambiente Windows 10
+  ### Este módulo cobrirá a arquitetura do Windows 10 e ambientes comuns. Os alunos serão apresentados às várias ferramentas usadas na manutenção do Windows. Este módulo também discutirá metodologias para solucionar problemas de maneira eficaz e como gerenciar e otimizar proativamente o Windows 10.
+  #### Lições
+  - Solução de problemas do Windows
+  - Ferramentas de solução de problemas
+
+
+  #### Laboratório&#58; Laboratório de Prática&#58; Monitorando o Windows 10
+  - Monitorando eventos
+  - Monitorando a confiabilidade e o desempenho
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a arquitetura do Windows
+  - Descrever os principais estágios da solução de problemas
+  - Descrever o objetivo e os benefícios das várias ferramentas no Windows
+  - Usar as ferramentas de monitoramento para estabelecer uma linha de base de desempenho
+  - Otimizar o desempenho em clientes Windows 10
+
+
+  ### Módulo 2&#58; Solução de problemas do sistema operacional Windows
+  Neste módulo, os alunos aprenderão como solucionar problemas de inicialização e serviço relacionados ao sistema operacional.  Este módulo ensinará as diferentes opções de inicialização e recuperação e como solucionar diferentes serviços do Windows.
+  #### Lições
+  - Solucionando problemas de inicialização do Windows
+  - Solucionando problemas de serviço do sistema operacional
+  - Solução de problemas de entrada
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os vários métodos para identificar e recuperar problemas de inicialização
+  - Descrever quando usar as várias opções de inicialização avançada
+  - Identificar e desativar um serviço com falha
+  - Identificar e atenuar cenários comuns de conta bloqueada
+
+
+  ### Módulo 3&#58; Solução de problemas de arquivos e aplicativos
+  Este módulo ajuda os alunos a planejar o backup e a recuperação de arquivos.  Os alunos aprenderão como planejar e configurar estratégias de proteção de dados e como executar vários métodos de recuperação de arquivos e sistemas.  Este módulo também inclui métodos comuns para solucionar problemas de instalação de aplicativos, problemas de compatibilidade e resolver problemas do navegador.
+  #### Lições
+  - Recuperação de arquivos no Windows 10
+  Solução de problemas do aplicativo
+
+
+  #### Laboratório&#58; Solução de problemas de aplicativos da área de trabalho
+  - Solução de problemas de aplicativos de política do AppLocker
+  - Solução de problemas de compatibilidade de aplicativos
+  - Solução de problemas do Microsoft Internet Explorer
+  - Solução de problemas do Microsoft Edge
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os diferentes métodos de recuperação de arquivos.
+  - Configurar o Windows 10 para oferecer suporte à recuperação individual de arquivos e sistemas
+  - Recuperar um dispositivo usando a função Redefinir este PC
+  - Resolver problemas de compatibilidade de aplicativos com o Kit de Ferramentas de Compatibilidade de Aplicativos
+  - Solucionar problemas comuns do navegador
+
+
+  ### Módulo 4&#58; Solução de problemas de hardware e drivers
+  Este módulo apresenta a solução de problemas de hardware.  Os alunos aprenderão sobre o gerenciamento de drivers e como solucionar problemas de dispositivos. Os alunos também aprenderão as etapas para solucionar problemas de hardware do sistema e periféricos externos, como unidades e impressoras USB, incluindo métodos de diagnóstico e correção.
+  #### Lições
+  - Solução de problemas de falhas do driver do dispositivo
+  - Visão geral da solução de problemas de hardware
+  - Solucionando problemas de falhas físicas
+
+
+  #### Laboratório&#58; Solucionando problemas do driver de dispositivo
+  - Solução de problemas de um driver de dispositivo ausente
+  - Resolvendo problemas de hardware
+  - Resolvendo o problema do driver do dispositivo
+  - Definindo configurações de diretiva de grupo para controlar a instalação do dispositivo
+
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Solucionar problemas e corrigir problemas de driver
+  - Solucionar problemas de periféricos
+  - Diagnosticar e substituir hardware
+
+
+  ### Módulo 5&#58; Conclusão do Curso
+  #### Lições
+  - Exame Final
+
+
+  #### Laboratório&#58; Graded Lab

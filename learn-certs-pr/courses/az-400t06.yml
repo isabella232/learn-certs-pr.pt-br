@@ -1,0 +1,95 @@
+### YamlMime:Course
+title: Implementação de feedback contínuo
+metadata:
+  title: 'Curso AZ-400T06-A: Implementação de feedback contínuo'
+  description: 'Curso AZ-400T06-A: Implementação de feedback contínuo'
+uid: course.az-400t06
+courseNumber: 'AZ-400T06-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Práticas de design para medir a satisfação do usuário final
+- skill: Planejar processos para capturar e analisar o feedback do usuário de fontes externas
+- skill: Planejar o roteamento para dados do relatório de falha do aplicativo do cliente
+- skill: Recomendar ferramentas e tecnologias de monitoramento
+- skill: Recomendar ferramentas de controle de uso do sistema e recursos
+- skill: Configurar a integração do relatório de falhas para aplicativos de clientes
+- skill: Desenvolver painéis de monitoramento e status
+- skill: Implementar o roteamento para dados do relatório de falha do aplicativo do cliente
+- skill: Implementar ferramentas para rastrear o uso do sistema, o uso de recursos e o fluxo
+- skill: Integrar e configurar sistemas de emissão de tíquetes com o sistema de gerenciamento de trabalho da equipe de desenvolvimento
+- skill: Analisar alertas para estabelecer uma linha de base
+- skill: Analisar a telemetria para estabelecer uma linha de base
+- skill: Realizar análises de site ao vivo e receber comentários sobre interrupções do sistema
+- skill: Executar o ajuste contínuo para reduzir alertas sem sentido ou não acionáveis
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- devops-engineer
+products:
+- azure
+- azure-devops
+- azure-kubernetes-service
+- azure-container-instances
+- azure-automation
+exams:
+- uid: exam.az-400
+summary: |-
+  Este curso fornece o conhecimento e as habilidades para implementação da feedback contínuo. Os alunos aprenderão a recomendar e planejar mecanismos de feedback do sistema, implementar um processo para encaminhar o feedback do sistema para as equipes de desenvolvimento e otimizar os mecanismos de feedback.
+
+  #### Perfil do público
+  Os estudantes deste curso estão interessados na implementação de processos de DevOps ou em serem aprovados no exame de certificação Soluções de Microsoft Azure DevOps.
+prerequisitesSection: |-
+  Os estudantes deste curso estão interessados na implementação de processos de DevOps ou em serem aprovados no exame de certificação Soluções de Microsoft Azure DevOps.
+outlineSection: |-
+  ### Módulo 1&#58; Recomendar e planejar mecanismos de feedback do sistema
+  #### Lições
+  - Loop interno
+  - Mentalidade de experimentação contínua
+  - Práticas de design para medir a satisfação do usuário final
+  - Criação de processos para capturar e analisar o feedback do usuário
+  - Processo de design para automatizar a análise de aplicativos
+
+
+  #### Laboratório&#58; Integração entre o Azure DevOps e o Teams
+
+  #### Laboratório&#58; Sinalizadores de recursos
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Práticas de design para medir a satisfação do usuário final
+  - Criar processos para capturar e analisar o feedback do usuário de fontes externas
+  - Implementar o roteamento para dados do relatório de falha do aplicativo do cliente
+  - Recomendar ferramentas e tecnologias de monitoramento
+  - Recomendar ferramentas de controle de uso do sistema e recursos
+
+
+  ### Módulo 2&#58; Implementar o processo de feedback de sistema de roteamento para as equipes de desenvolvimento
+  #### Lições
+  - Implementação de ferramentas de controle de uso do sistema, uso de recursos e fluxo
+  - Implementação de roteamento para dados do relatório de falha do aplicativo móvel
+  - Desenvolvimento de painéis de monitoramento e status
+  - Integração e configuração de sistemas de tíquetes
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar a integração do relatório de falhas para aplicativos de clientes
+  - Desenvolvimento de painéis de monitoramento e status
+  - Implementar o roteamento para dados do relatório de falha do aplicativo do cliente
+  - Implementação de ferramentas de controle de uso do sistema, uso de recursos e fluxo
+  - Integrar e configurar sistemas de emissão de tíquetes com o sistema de gerenciamento de trabalho da equipe de desenvolvimento
+
+
+  ### Módulo 3&#58; Otimizar mecanismos de feedback
+  #### Lições
+  - Engenharia de confiabilidade do local
+  - Análise da telemetria para estabelecer uma linha de base
+  - Realizar ajustes contínuos para reduzir alertas sem sentido ou não acionáveis
+  - Análise de alertas para estabelecer uma linha de base
+  - Blameless Post-mortems e Just Culture
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Análise de alertas para estabelecer uma linha de base
+  - Análise da telemetria para estabelecer uma linha de base
+  - Realizar avaliações do local ao vivo e capturar feedback para paralisações do sistema
+  - Realizar ajustes contínuos para reduzir alertas sem sentido ou não acionáveis

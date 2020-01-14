@@ -1,0 +1,110 @@
+### YamlMime:Course
+title: Desenvolvendo para a nuvem
+metadata:
+  title: 'Curso AZ-300T06-A: Desenvolvimento na nuvem'
+  description: 'Curso AZ-300T06-A: Desenvolvimento na nuvem'
+uid: course.az-300t06
+courseNumber: 'AZ-300T06-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Como configurar uma arquitetura de integração baseada em mensagem
+- skill: Compreender como desenvolver para processamento assíncrono
+- skill: Iniciar a criação de aplicativos para dimensionamento automático
+- skill: Compreender as soluções de Serviços Cognitivos do Azure
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+exams:
+- uid: exam.az-300
+summary: |-
+  Saiba como configurar uma arquitetura de integração baseada em mensagens, desenvolver soluções para processamento assíncrono, criar aplicativos para dimensionamento automático e compreender melhor as soluções de Serviços Cognitivos do Azure.
+
+  #### Perfil do público
+  Os arquitetos de soluções de nuvem bem-sucedidos iniciam essa função com experiência prática em sistemas operacionais, virtualização, infraestrutura de nuvem, estruturas de armazenamento, cobrança e rede.
+outlineSection: |-
+  ### Módulo 1&#58; Desenvolvendo tarefas de longa execução e transações distribuídas
+  Os tópicos para este módulo incluem&#58; a implementação de aplicativos de larga escala, paralelos e de alto desempenho usando lotes, HPC usando máquinas virtuais do Microsoft Azure, implementação de aplicativos resilientes usando filas, bem como a implementação de código para solucionar eventos de aplicativos usando webhooks. A implementação de um webhook fornece a um recurso externo um URL para um aplicativo, em que o recurso externo emite uma solicitação HTTP para esse URL sempre que é feita uma alteração que exige que o aplicativo execute uma ação.
+
+
+  ### Módulo 2&#58; Configuração de uma arquitetura de integração baseada em mensagens
+
+  #### Lições
+  - Configuração de aplicativo ou serviço para envio de e-mails
+  - Configuração de um modelo de publicação de evento e assinatura
+  - Configuração do serviço de retransmissão do Azure
+  - Configuração de aplicativo ou serviço com o Microsoft Graph
+  
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar uma arquitetura de integração baseada em mensagem
+
+
+  ### Módulo 3&#58; Desenvolvendo soluções para processamento assíncrono
+  #### Lições
+  - Implementação de paralelismo, multithreading e processamento
+  - Implementação do Azure Functions e aplicativos lógicos do Azure
+  - Implementação de interfaces para armazenamento ou acesso a dados
+  - Implementação de modelos de computação assíncrona apropriados
+  - Implementação de regras e padrões de dimensionamento automático
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender como desenvolver para processamento assíncrono
+
+
+  ### Módulo 4&#58; Desenvolvimento de soluções para processamento assíncrono
+  #### Lições
+  - Implementação de regras e padrões de dimensionamento automático
+  - Implementação de código para incluir instâncias de aplicativos singleton
+  - Implementação do código que inclui o estado transiente
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Iniciar a criação de aplicativos para dimensionamento automático
+
+
+  ### Módulo 5&#58; Desenvolvimento de soluções de Serviços Cognitivos do Azure
+  #### Lições
+  - Desenvolvimento de soluções usando Computer Vision
+  - Desenvolvimento de soluções usando Bing Web Search
+  - Desenvolvimento de soluções usando Custom Speech Service
+  - Desenvolvimento de soluções usando QnA Maker
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender as soluções de Serviços Cognitivos do Azure
+
+
+  ### Módulo 6&#58; Desenvolvimento de soluções de armazenamento do Azure
+  #### Lições
+  - Desenvolvimento de soluções que usam o armazenamento do Azure Cosmos DB
+  - Desenvolvimento de soluções que usam banco de dados relacional
+  - Modelagem de um banco de dados usando o Entity Framework Core
+  - Desenvolvimento de soluções que usam armazenamento de blob do Microsoft Azure
+  - Manipulação de propriedades do contêiner de blob no .NET
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender os serviços de armazenamento do Azure, como blobs e Cosmos DB

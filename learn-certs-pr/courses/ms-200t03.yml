@@ -1,0 +1,81 @@
+### YamlMime:Course
+title: Gerenciando a alta disponibilidade de mensagens e a recuperação de desastres
+metadata:
+  title: 'Curso MS-200T03-A: Gerenciando a alta disponibilidade de mensagens e a recuperação de desastres'
+  description: 'Curso MS-200T03-A: Gerenciando a alta disponibilidade de mensagens e a recuperação de desastres'
+uid: course.ms-200t03
+courseNumber: 'MS-200T03-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planejar alta disponibilidade para servidores de caixa de correio
+- skill: Planejar alta disponibilidade para o serviço de acesso para cliente
+- skill: Planejar alta disponibilidade para transporte
+- skill: Implementar a resiliência do site
+- skill: Planejar a recuperação de desastres
+- skill: Implementar estratégias de backup
+- skill: Restaurar caixas de correio, bancos de dados e servidores
+- skill: Planejar a hierarquia de pastas públicas
+- skill: Implementar e gerenciar pastas públicas
+- skill: Solucionar problemas de pastas públicas
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+exams:
+- uid: exam.ms-200
+summary: |-
+  Neste curso, os alunos aprenderão sobre as soluções tradicionais e modernas para alta disponibilidade de mensagens e recuperação de desastres. Os sistemas de mensagens tornaram-se cada vez mais complexos, dada a abundância de novos recursos adicionados nos últimos anos, bem como a crescente importância dada à disponibilidade e à recuperação de desastres. As abordagens tradicionais para alta disponibilidade e recuperação de desastres ainda estão presentes e existem principalmente na camada de hardware, como sistemas RAID para armazenamento, replicação de dispositivo de bloco e soluções de arquivamento usando armazenamento externo. Embora o Microsoft Exchange suporte essas abordagens tradicionais, ele também oferece soluções que modernizam a alta disponibilidade e a recuperação de desastres, fornecendo soluções diretamente integradas aos sistemas de mensagens. Isso inclui soluções de replicação e retenção contínuas criadas diretamente nos bancos de dados de mensagens. Isso economiza muito tempo e esforço dos administradores, mantendo diferentes camadas de soluções estrangeiras em hardware e software.
+  
+  Neste curso, os alunos serão apresentados a cada solução, aprenderão quando usar uma ou outra, como planejar uma implantação e como executar a implementação real.
+
+  #### Perfil do público
+  O Administrador de Mensagens implanta, configura, gerencia e
+  soluciona problemas de destinatários, permissões, proteção de mensagens, fluxo de mensagens e público
+  pastas em ambientes corporativos locais e na nuvem. Responsabilidades
+  incluem gerenciamento de higiene de mensagens, infraestrutura de mensagens e configuração híbrida
+  e migração. O Administrador de Mensagens também implementa e gerencia desastres
+  recuperação, alta disponibilidade e acesso do cliente. Para implementar um híbrido seguro
+  topologia que atenda às necessidades comerciais de uma organização moderna, o Administrador de Mensagens
+  deve colaborar com o Security Administrator e o Microsoft 365 Enterprise Administrator.
+  O Administrador de Mensagens deve ter um conhecimento prático dos tipos de autenticação,
+  licenciamento e integração com aplicativos Microsoft 365.
+prerequisitesSection: |-
+  - Conhecimento proficiente do DNS.
+  - Entendimento básico de mensagens no servidor do Exchange ou no Exchange Online.
+  - Entendimento básico da infraestrutura do Active Directory e do controlador de domínio, juntamente com o gerenciamento de identidades.
+  - Experiência funcional básica com serviços do Microsoft 365 e sincronização de diretórios.
+  - Pelo menos 5 anos de experiência geral em TI.
+outlineSection: |-
+  ### Módulo 1&#58; Alta disponibilidade para servidores Exchange
+  #### Lições
+  - Planejando alta disponibilidade para servidores de caixa de correio
+  - Alta disponibilidade para o serviço de acesso do cliente
+  - Alta disponibilidade para transporte
+  - Implementando a resiliência do site
+
+
+  ### Módulo 2&#58; Gerenciando a recuperação de falhas
+  #### Lições
+  - Planejamento da recuperação de desastres
+  - Implementando estratégias de backup
+  - Restaurando caixas de correio, bancos de dados e servidores
+
+
+  ### Módulo 3&#58; Gerenciando pastas públicas
+  #### Lições
+  - Planejando a hierarquia de pastas pública
+  - Implementando e gerenciando pastas públicas
+  - Solução de problemas de pastas públicas
+
+
+  ### Módulo 4&#58; Laboratório - Gerenciamento de pasta pública e recuperação de desastres
+
+  #### Laboratório&#58; Gerenciamento de pasta pública e recuperação de desastres
+  - Exercício 1&#58; Solucionando problemas de fluxo de mensagens e conectividade
+  - Exercício 2&#58; Recuperação de desastres usando Descoberta eDiscovery e Suspensões no Local

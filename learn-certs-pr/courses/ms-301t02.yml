@@ -1,0 +1,118 @@
+### YamlMime:Course
+title: Implementar Aplicativos de Serviço do SharePoint 2019
+metadata:
+  title: 'Curso MS-301T02-A: Implementar Aplicativos de Serviço do SharePoint 2019'
+  description: 'Curso MS-301T02-A: Implementar Aplicativos de Serviço do SharePoint 2019'
+uid: course.ms-301t02
+courseNumber: 'MS-301T02-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Provisione uma instância do Aplicativo de Serviço BDC.
+- skill: Configure o aplicativo Serviço de Repositório Seguro.
+- skill: Descrever como configurar Meus Sites no SharePoint 2019.
+- skill: Descrever como configurar o aplicativo de serviço de perfil de usuário.
+- skill: Descrever como planejar a importação e sincronização do SharePoint Active Directory.
+- skill: Explicar como criar e publicar um tipo de conteúdo nos conjuntos de sites.
+- skill: Identificar os recursos do serviço de metadados gerenciados.
+- skill: Configurar conjuntos de termos e termos para navegação gerenciada.
+- skill: Descrever a função dos componentes de pesquisa.
+- skill: Explicar a finalidade do serviço de Repositório Seguro.
+- skill: Descrever a função dos componentes de pesquisa.
+learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- office-sp
+- office-onedrive
+- office-teams
+- office-yammer
+exams:
+- uid: exam.ms-301
+summary: |-
+  O SharePoint Server 2019 foi projetado para atender às demandas dos estilos de trabalho modernos. Ele fornece as novas experiências modernas para os usuários, intuitivas e familiares no SharePoint Online. Neste curso, você aprenderá como planejar, configurar e gerenciar aplicativos de serviço no SharePoint 2019, como Metadados Gerenciados, Serviços de Conectividade Corporativa e pesquisa corporativa.
+  
+  Este curso foi desenvolvido para profissionais de TI que implantam e gerenciam a infraestrutura de trabalho em equipe em sua organização.
+  
+  Este é o segundo de uma série de quatro cursos para o Teamwork administrator. Esses cursos ajudam a se preparar para o exame MS-301&#58; Implantando o SharePoint Server Hybrid.
+
+  #### Perfil do público
+  Este curso é para a função de Teamwork Administrator do Microsoft 365. A função é responsável por configurar, implantar e gerenciar cargas de trabalho do Office 365 e Azure que se concentram na colaboração e adoção eficientes e eficazes. Eles gerenciam aplicativos, serviços e infraestrutura de suporte para atender aos requisitos de negócios. O administrador está ciente e pode diferenciar entre produtos e serviços, mas não pode gerenciar diretamente cada produto ou serviço.
+  
+  O administrador do Teamwork deve ser capaz de implantar, gerenciar, migrar e proteger o SharePoint (online, no local e híbrido), o OneDrive e Teams.
+  
+  O Teamwork Administrator tem um entendimento fundamental dos pontos de integração com os seguintes aplicativos e serviços&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planejador e Projeto. O administrador entende como integrar aplicativos e serviços de terceiros, incluindo aplicativos da linha de negócios.
+prerequisitesSection: |-
+  Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
+  - Experiência com o Windows PowerShell.
+  - Entendimento básico do gerenciamento do servidor SQL.
+  - Entendimento básico de redes, incluindo DNS.
+  - Conhecimento prático da administração de servidores Windows.
+  - Conhecimento básico do Active Directory e do Azure AD.
+  - Compreensão básica de gerenciamento de dispositivos móveis e sistemas operacionais alternativos (Android e macOS).
+outlineSection: |-
+  ### Módulo 1&#58; Aplicativos de serviço do SharePoint
+  Este módulo é sobre aplicativos de serviço e fluxo de trabalho do SharePoint. Ele descreve como provisionar e gerenciar um aplicativo de serviço BCS e um aplicativo de serviço de Perfil de Usuário. Especificamente, discutimos como importar e exportar modelos BDC, bem como importar propriedades do usuário para o SharePoint.
+  #### Lições
+  - Aplicativos de serviço e fluxo de trabalho do SharePoint
+  - Planejar e configurar Serviços Corporativos de Conectividade (BCS) e Secure Store
+  - Planejar e configurar perfis de usuário
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Explicar os principais componentes de um modelo BDC.
+  - Descrever a arquitetura de alto nível do BCS.
+  - Provisionar uma instância do Aplicativo de Serviço BDC.
+  - Configurar o aplicativo Serviço de Repositório Seguro.
+  - Explicar a finalidade do serviço de Repositório Seguro.
+  - Gerenciar permissões para uma instância do Aplicativo de Serviço BDC.
+  - Descrever como configurar propriedades do perfil do usuário.
+  - Descrever como gerenciar públicos-alvo no SharePoint 2019.
+  - Descrever como configurar Meus Sites no SharePoint 2019.
+  - Descrever como configurar o Aplicativo de Serviço de Perfil de Usuário.
+  - Descrever como planejar a importação e sincronização do SharePoint Active Directory.
+
+
+  ### Módulo 2&#58; Planejar e configurar metadados gerenciados
+  Este módulo trata das funcionalidades integrais, como o Serviço de Metadados Gerenciados, tipos de conteúdo e conjuntos de termos, que permitem criar e disseminar uma arquitetura de informações. Ele apresenta a finalidade dos tipos de conteúdo, bem como os conceitos por trás do serviço de metadados gerenciados, incluindo taxonomias, conjuntos de termos e palavras-chave corporativas.
+
+  #### Lições
+  - Gerenciar Tipos de Conteúdo
+  - Metadados gerenciados
+  - Configurar o serviço de metadados gerenciados
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Explicar a função e o uso dos tipos de conteúdo.
+  - Descrever as funções do serviço de metadados gerenciados.
+  - Explicar como criar e publicar um tipo de conteúdo nos conjuntos de sites.
+  - Identificar os recursos do serviço de metadados gerenciados.
+  - Criar e gerenciar grupos de termos, conjuntos de termos e termos
+  - Configurar conjuntos de termos e termos para navegação gerenciada.
+
+
+  ### Módulo 3&#58; Planejar e configurar a pesquisa
+  Este módulo é sobre o aplicativo de serviço de pesquisa empresarial. Ele fornece detalhes sobre o planejamento e a configuração de fontes de conteúdo, agendamentos de rastreamento e regras de rastreamento. Ele também discute como provisionar o gerenciamento de pesquisa de vários componentes de pesquisa, como Regras de consulta, Tipos de resultado e Modelos de exibição.
+  #### Lições
+  - Planejar a pesquisa corporativa
+  - Configurar a pesquisa corporativa
+  - Gerenciar a pesquisa corporativa
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a função dos componentes de pesquisa.
+  - Explicar a finalidade do serviço de Repositório Seguro.
+  - Descrever como planejar e configurar fontes de conteúdo.
+  - Descrever como planejar e configurar agendas de rastreamento.
+  - Descrever como planejar e configurar regras de rastreamento.
+  - Descrever como gerenciar o esquema de Pesquisa.
+  - Descrever a função dos componentes de pesquisa.
+  - Explicar o uso e a implantação de regras de consulta.
+  - Explicar o uso e a implantação da fonte de resultados.
+
+
+  ### Módulo 4&#58; Conclusão do Curso
+
+  #### Laboratório&#58; Configuração de pesquisa corporativa
