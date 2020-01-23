@@ -136,7 +136,7 @@ Você deve verificar seu status de estudante antes de agendar seu exame para se 
 ### Confirmar status de aluno por meio do perfil da conta
 
 1. Faça login com as credenciais da sua conta da Microsoft.
-2. Selecione **Configurações de perfil no menu **Conta** na parte superior da página.
+2. Selecione **Configurações de perfil** no menu **Conta** na parte superior da página.
 3. No menu **Função de trabalho**, selecione ou certifique-se de que “Aluno” esteja selecionado.
 4. Localize o aviso de preço acadêmico exibido ao lado do menu **Função de trabalho**. Se seu status de aluno não tiver sido validado, clique em “Verificar” para verificar seu status.
 

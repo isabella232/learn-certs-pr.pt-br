@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-301
 displayName: AZ-301
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 4 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
-
   Os candidatos a este exame são os arquitetos da Azure Solution Architects, que aconselham as partes interessadas e traduzem os requisitos do negócio em soluções seguras, escaláveis e confiáveis. Os candidatos devem ter experiência e conhecimento avançados em vários aspectos das operações de TI, incluindo redes, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança. Essa função exige gerenciar como as decisões em cada área afetam uma solução geral. Os candidatos devem ser proficientes na administração do Azure, no desenvolvimento do Azure e no DevOps e ter habilidades de nível de especialista em pelo menos um desses domínios.
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: determinar os requisitos de carga de trabalho; projetar para identidade e segurança; projetar uma solução de plataforma de dados; projetar uma estratégia de continuidade de negócios; projetar para implantação, migração e integração; e projetar uma estratégia de infraestrutura.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -22,7 +20,6 @@ locales:
 levels:
 - advanced
 skills:
-- O conteúdo deste exame foi atualizado em 4 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
 - Determinar os requisitos de carga de trabalho (10-15%)
 - Desenvolver estratégias de identidade e segurança (20-25%)
 - Desenvolver uma solução de plataforma de dados (15-20%)

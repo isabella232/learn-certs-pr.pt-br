@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-103
 displayName: AZ-103
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 4 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
-
   A partir do dia 1° de maio de 2019, você só precisa passar no Exam AZ-103 para ganhar esta certificação. Este novo exame combina as competências abrangidas no AZ-100 e AZ-101 (que foi retirado em 1° de maio de 2019), com a maioria da novo exame vindo do AZ-100.
 
   Os candidatos a este exame são Administradores do Azure que gerenciam serviços de nuvem que abrangem armazenamento, segurança, rede, e computam capacidades de nuvem. Os candidatos têm um conhecimento profundo de cada serviço no ciclo de vida de IT total e aceitam solicitações para serviços de infraestrutura, aplicações e ambientes. Eles fazem recomendações em serviços para usar par performance ideal e escala, além de provisão, tamanho, monitoramento e ajuste de recursos conforme apropriado.
@@ -26,7 +24,6 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 4 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
 - Gerenciar as assinaturas e recursos do Azure (15-20%)
 - Implementar e gerenciar armazenamento (15-20%)
 - Implementar e gerenciar máquinas virtuais (VMs) (15-20%)

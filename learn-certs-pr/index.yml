@@ -76,7 +76,7 @@ trainingSection:
     summary: Com o aprendizado Microsoft, qualquer pessoa pode dominar os principais conceitos com rapidez de acordo com sua agenda. Seja um módulo único para aprender sobre uma tarefa principal ou explorar um tópico completo por meio de uma coleção de módulos relacionados.
     browseLinks:
     - text: Procurar todos os caminhos de aprendizado
-      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
+      url: https://docs.microsoft.com/pt-br/learn/browse/?resource_type=learning%20path
   - image:
       alt: Homem se apresentando a quatro pessoas sentadas ao redor de uma mesa
       src: /learn/certifications/images/image-working-group.jpg

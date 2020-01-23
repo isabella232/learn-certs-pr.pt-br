@@ -6,8 +6,8 @@ metadata:
 uid: exam.ms-202
 displayName: MS-202
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAME FOI DESATIVADO EM 30 DE SETEMBRO DE 2019. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão</div>
-  <br/>     
+  <div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAME FOI DESATIVADO EM 30 DE SETEMBRO DE 2019. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão<br/><br/></div>
+       
   Este exame destina-se apenas aos candidatos que fizeram o [Exame 70-345&#58;](https://www.microsoft.com/pt-br/learning/exam-70-345.aspx) Criação e implementação do Microsoft Exchange Server 2016. Se você não fez o Exame 345, não receberá uma certificação ao fazer este exame.
 
   Os candidatos a este exame são Messaging Administrators que implementam, configuram, gerenciam, solucionam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes corporativos no local e na nuvem.

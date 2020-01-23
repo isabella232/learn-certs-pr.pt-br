@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-900
 displayName: AZ-900
 summary: |-
-   <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 23 de outubro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
-
    Este exame é projetado para candidatos que procuram demonstrar conhecimento de nível fundamental de serviços de nuvem e como esses serviços são fornecidos com Microsoft Azure. O exame destina-se a candidatos sem formação técnica, como os envolvidos na venda ou compra de soluções e serviços com base em nuvem ou que tenham algum conhecimento em soluções e serviços baseados em nuvem, bem como aqueles com formação técnica e que precisam validar seu nível de conhecimento fundamental   em serviços em nuvem. A experiência técnica de TI não é exigida, mas requer algum conhecimento ou experiência geral de TI.
 
    Este exame pode ser feito como um primeiro passo opcional na aprendizagem sobre serviços da nuvem e como esses conceiros são exemplificados pelo Microsoft Azure. Ele pode ser feito como um precursor para exames de serviços da nuvem Microsoft Azure ou Microsoft. Embora fosse um primeiro passo benéfico, validar o conhecimento de nível fundamental, fazer este exame não é um pré-requisito antes de fazer qualquer outra certificação baseada no Azure.
@@ -24,7 +22,6 @@ locales:
 levels:
 - beginner
 skills:
-- O conteúdo deste exame foi atualizado em 23 de outubro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
 - Compreender os conceitos de nuvem (15-20%)
 - Compreender os principais serviços  do Azure (30-35%)
 - Entenda segurança, privacidade, conformidade e confiança (25-30%)

@@ -6,8 +6,6 @@ metadata:
 uid: exam.ai-100
 displayName: AI-100
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 26 de novembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
-  
   Os candidatos a este exame analisam os requisitos para soluções de AI, recomendam ferramentas e tecnologias apropriadas e implementam soluções que atendem aos requisitos de escalabilidade e desempenho.
   <br/>
 
@@ -28,7 +26,6 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 26 de novembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
 - Analisar os requisitos da solução (25-30%)
 - Projetar soluções  AI (40-45%)
 - Implementar e monitorar soluções  AI (25-30%)

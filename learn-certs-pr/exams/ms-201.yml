@@ -6,8 +6,6 @@ metadata:
 uid: exam.ms-201
 displayName: MS-201
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 25 de novembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
-
   Os candidatos a este exame são Messaging Administrators que implementam, configuram, gerenciam, solucionam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes corporativos no local e na nuvem.
 
   Os Messaging Administrators são responsáveis por gerenciar a limpeza, a infraestrutura de mensagens, a configuração híbrida, a migração, a recuperação de desastres, a alta disponibilidade e o acesso do cliente.
@@ -24,7 +22,6 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 25 de novembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
 - Planejar e implementar uma configuração e migração híbrida (35-40%)
 - Proteger o ambiente de mensagem (40-45%)
 - Gerenciar as configurações organizacionais (15-20%)

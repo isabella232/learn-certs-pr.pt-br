@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-203
 displayName: AZ-203
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 6 de novembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
-  
   Os candidatos a este exame são Desenvolvedores do Azure que projetam e criam soluções em nuvem, como aplicativos e serviços. Eles participam de todas as fases do desenvolvimento, desde o design da solução, desenvolvimento e implantação, até o teste e a manutenção. Eles fazem parceria com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar a solução.
   <br/>
 
@@ -27,7 +25,6 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 6 de novembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
 - Desenvolva a solução Azure Infrastructure como uma solução de computação de serviço (10-15%)
 - Desenvolva a Plataforma Azure como uma solução de computação de serviço (20-25%)
 - Desenvolva para armazenamento  Azure (15-20%)

@@ -7,7 +7,7 @@ uid: certification.mos-word-expert-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   Demonstre que você possui as habilidades avançadas necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist&#58; Certificação de especialista em um programa Office específico.
-subTitle: 'Demonstre que você possui as habilidades avançadas necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist&#58; Certificação de especialista em um programa Office específico.'
+subTitle: 'Demonstre que você possui as habilidades avançadas necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist: Certificação de especialista em um programa Office específico.'
 levels:
 - advanced
 skills:
@@ -28,7 +28,7 @@ resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
+- title: Resposta ao exame
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
 - title: Suporte para certificações

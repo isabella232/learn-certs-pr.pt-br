@@ -6,9 +6,6 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 22 de novembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
-  <br/>
-  
   Se você passou [Exam 70-698](https://www.microsoft.com/pt-br/learning/exam-70-698.aspx) antes que ele expirou em 31 de março de 2019, você só precisa fazer o exame MD-101 para ganhar a certificação Modern Desktop.
   Os candidatos a este exame são Administradores que implementam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos cliente em um ambiente corporativo. Os candidatos gerenciam identidade, acesso, políticas, atualizações e aplicativos.
   <br/>
@@ -27,7 +24,6 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 22 de novembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
 - Implantar e atualizar sistemas operacionais (15-20%)
 - Gerenciar políticas e perfis (35-40%)
 - Gerenciar e proteger dispositivos (15-20%)

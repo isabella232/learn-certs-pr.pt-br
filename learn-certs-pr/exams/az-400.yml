@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 3 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
-
   Os candidatos a este exame são profissionais do DevOps que combinam pessoas, processos e tecnologias para oferecer continuamente produtos e serviços valiosos que atendam às necessidades do usuário final e aos objetivos de negócios. Os profissionais do DevOps simplificam a entrega otimizando práticas, melhorando comunicações e colaboração e criando automação. Eles projetam e implementam estratégias para código de aplicação e infraestrutura que permitem a integração contínua, testes, entrega, monitoramento e feedback.
 
   Os candidatos devem ser proficientes com as práticas do Agile. Eles devem estar familiarizados com a administração do Azure e o desenvolvimento do Azure e são especialistas em pelo menos uma dessas áreas. Os profissionais Azure DevOps devem ser capazes de projetar e implementar práticas DevOps para controle de versão, conformidade, infraestrutura como código, gerenciamento de configuração, build, versões e testes usando as tecnologias Azure.
@@ -24,7 +22,6 @@ locales:
 levels:
 - advanced
 skills:
-- O conteúdo deste exame foi atualizado em 3 de dezembro de 2019. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
 - Desenhe uma estratégia DevOps (20-25%)
 - Implementar processos de desenvolvimento DevOps (20-25%)
 - Implementar integração contínua (10-15%)
@@ -45,6 +42,7 @@ paths:
 - uid: learn.azdo.build-applications-with-azure-devops
 - uid: learn.azdo.deploy-applications-with-azure-devops
 - uid: learn.azdo.automate-deployments-azure-devops
+- uid: learn.azdo.capture-feedback-monitoring
 courses:
 - uid: course.az-400t01
 - uid: course.az-400t02

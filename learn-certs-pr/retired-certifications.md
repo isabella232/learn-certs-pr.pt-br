@@ -53,5 +53,5 @@ Expanda as seções abaixo para ver a lista de certificações desativadas por t
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
 | MTA: 98-369: Cloud Fundamentals                                                                                             | 30 de setembro de 2018 |
-| MTA: 98-380: Introdução à Programação Usando Linguagens Baseadas em Bloco (Touch Develop))                                        | 7 de agosto de 2019     |
+| MTA: 98-380: Introdução à Programação Usando Linguagens Baseadas em Bloco (Touch Develop)                                        | 7 de agosto de 2019     |
 ___
