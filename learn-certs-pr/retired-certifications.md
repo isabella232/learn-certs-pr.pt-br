@@ -2,7 +2,6 @@
 title: Certificações Microsoft desativadas | Microsoft Docs
 description: Certificações Microsoft desativadas
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

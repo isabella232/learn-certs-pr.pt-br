@@ -2,7 +2,6 @@
 title: Ajuda sobre certificação e treinamento Microsoft  | Microsoft Docs
 description: Ajuda sobre certificação e treinamento Microsoft
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

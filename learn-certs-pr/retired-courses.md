@@ -2,7 +2,6 @@
 title: Cursos Microsoft desativados | Microsoft Docs
 description: Cursos Microsoft desativados
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

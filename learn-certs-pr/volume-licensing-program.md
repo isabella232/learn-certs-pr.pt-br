@@ -2,7 +2,6 @@
 title: Treinamento de Software para Clientes de Licenciamento por Volume |  Microsoft Docs
 description: Treinamento de Software para Clientes de Licenciamento por Volume
 documentationcenter: NA
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA

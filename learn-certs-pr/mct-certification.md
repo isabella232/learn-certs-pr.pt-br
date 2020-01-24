@@ -2,7 +2,6 @@
 title: 'Torne-se Microsoft Certified Trainer | Microsoft Docs'
 description: 'Torne-se um Microsoft Certified Trainer' 
 documentationcenter: NA 
-author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
