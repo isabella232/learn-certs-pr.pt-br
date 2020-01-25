@@ -6,7 +6,7 @@ metadata:
 uid: exam.md-100
 displayName: MD-100
 summary: |-
-  Se você passou [no Exame 70-698](https://www.microsoft.com/pt-br/learning/exam-70-698.aspx) antes de expirar em 31 de março de 2019, só precisa fazer um exame (MD-101) para receber a certificação Modern Desktop. Os candidatos a este exame são administradores que instalam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos clientes em um ambiente corporativo. Os candidatos gerenciam identidade, acesso, políticas, atualizações e aplicativos.
+  Se você passou [no Exame 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) antes de expirar em 31 de março de 2019, só precisa fazer um exame (MD-101) para receber a certificação Modern Desktop. Os candidatos a este exame são administradores que instalam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos clientes em um ambiente corporativo. Os candidatos gerenciam identidade, acesso, políticas, atualizações e aplicativos.
 
   Como administrador, os candidatos normalmente colaboram com um administrador do Microsoft 365 Enterprise para projetar e implementar uma estratégia de dispositivo que atenda às necessidades de negócios de uma organização moderna.
 
@@ -55,7 +55,7 @@ resources:
   href: ../help.md
 - title: Painel de certificação
   description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
-  href: https://www.microsoft.com/pt-br/learning/dashboard.aspx
+  href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
   description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft

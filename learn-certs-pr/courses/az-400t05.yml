@@ -15,7 +15,7 @@ skillsGained:
 - skill: Implementar e configurar a infraestrutura usando ferramentas e serviços de terceiros com o Azure, como Chef, Puppet, Ansible, SaltStack e Terraform
 - skill: Definir uma estratégia de infraestrutura e configuração e conjunto de ferramentas apropriado para um pipeline de lançamento e infraestrutura de aplicativos
 - skill: Implementar a conformidade e segurança em sua infraestrutura de aplicativos
-learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

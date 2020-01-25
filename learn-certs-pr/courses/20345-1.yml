@@ -20,7 +20,7 @@ skillsGained:
 - skill: Monitorar e diagnosticar problemas no Exchange Server.
 - skill: Configure as permissões de controle de acesso baseado em funções do Exchange Server e configurar o log de auditoria para administradores e usuários.
 - skill: Implementar e gerenciar a integração com o Exchange Online.
-learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:

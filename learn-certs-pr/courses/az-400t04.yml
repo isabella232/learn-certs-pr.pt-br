@@ -17,7 +17,7 @@ skillsGained:
 - skill: Inspecionar os pacotes de software de código aberto para garantir a conformidade com a segurança e a licença, alinhando-se aos padrões corporativos
 - skill: Configurar o pipeline de desenvolvimento para acessar a segurança do pacote e a classificação da licença
 - skill: Configurar acesso seguro a feeds de pacotes
-learningPartnersLink: https://www.microsoft.com/pt-br/learning/partners.aspx
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
