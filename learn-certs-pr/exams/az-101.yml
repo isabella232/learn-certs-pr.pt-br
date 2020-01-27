@@ -1,19 +1,19 @@
 ### YamlMime:Examination
-title: Integração e segurança do Microsoft Azure
+title: Microsoft Azure Integration and Security
 metadata:
-  title: 'Exame AZ-101: Integração e segurança do Microsoft Azure'
-  description: 'Exame AZ-101: Integração e segurança do Microsoft Azure'
+  title: 'Exame AZ-101: Microsoft Azure Integration and Security'
+  description: 'Exame AZ-101: Microsoft Azure Integration and Security'
 uid: exam.az-101
 displayName: AZ-101
-summary: |-
-  Os candidatos para este exame são Administradores do Azure que gerenciam serviços de nuvem que abrangem armazenamento, segurança, rede, e computam capacidades de nuvem. Os candidatos têm um conhecimento profundo de cada serviço no ciclo de vida de IT total e aceitam solicitações para serviços de infraestrutura, aplicações e ambientes. Eles fazem recomendações em serviços para usar par performance ideal e escala, além de provisão, tamanho, monitoramento e ajuste de recursos conforme apropriado. Os candidatos a esse exame devem ter proficiência no uso do PowerShell, da interface de linha de comando, do Portal do Azure, dos modelos ARM, dos sistemas operacionais, da virtualização, da infraestrutura de nuvem, das estruturas de armazenamento e da rede.
+summary: Os candidatos para este exame são Administradores do Azure que gerenciam serviços de nuvem que abrangem armazenamento, segurança, rede, e computam capacidades de nuvem. Os candidatos têm um conhecimento profundo de cada serviço no ciclo de vida de IT total e aceitam solicitações para serviços de infraestrutura, aplicações e ambientes. Eles fazem recomendações em serviços para usar par performance ideal e escala, além de provisão, tamanho, monitoramento e ajuste de recursos conforme apropriado. Os candidatos a esse exame devem ter proficiência no uso do PowerShell, da interface de linha de comando, do Portal do Azure, dos modelos ARM, dos sistemas operacionais, da virtualização, da infraestrutura de nuvem, das estruturas de armazenamento e da rede.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: proteger as identidades, avaliar e realizar migração do servidor para o Azure, implementar e gerenciar serviços de aplicativos e implementar redes virtuais avançadas.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6M
 practiceTestUrl: https://www.mindhub.com/product-p/mu-az-101_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 05/01/2019
 levels:
 - intermediate
 skills:
@@ -21,14 +21,13 @@ skills:
 - Implementar e gerenciar serviços de aplicação (20-25%)
 - Implementar networking virtual avançado (30-35%)
 - Protejer identidades (25-30%)
-retirementDate: 05/01/2019
 roles:
 - administrator
-products:
-- azure
 exams:
 - uid: exam.az-100
 - uid: exam.az-102
+products:
+- azure
 paths:
 - uid: learn.cloud-foundations
 relatedCertifications:
@@ -36,7 +35,7 @@ relatedCertifications:
     uid: certification.azure-administrator
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Administrador Associado Azure.'
+  description: Descubra os recursos de treinamento para obter a Certificação Microsoft: Administrador Associado Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

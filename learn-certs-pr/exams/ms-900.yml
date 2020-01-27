@@ -5,8 +5,9 @@ metadata:
   description: 'Exame MS-900: Microsoft 365 Fundamentals'
 uid: exam.ms-900
 displayName: MS-900
-summary: |-
+summary: >-
   Este exame foi projetado para candidatos que desejam demonstrar conhecimento básico sobre as considerações e os benefícios da adoção de serviços em nuvem em geral e o modelo de nuvem Software as a Service (SaaS). Este exame também abordará o conhecimento das opções disponíveis e os benefícios obtidos pela implementação das ofertas de serviços na nuvem da Microsoft 365.
+
 
   Este exame pode ser considerado um precursor para exames de computação em nuvem e tecnologias, como o Office 365, o Microsoft Intune, o Azure Information Protection (AIP) e o Windows 10.
 subTitle: Prove que você compreende os conceitos de cloud, serviços básicos e conceitos do Microsoft 365, segurança, conformidade, privacidade e confiabilidade do Microsoft 365 e preços e suporte do Microsoft 365.
@@ -17,10 +18,10 @@ locales:
 - en
 - ja
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-900&examname=Exame%20MS-900:%20Microsoft%20365%20Fundamentalss&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-900
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-900&examname=Exame%20MS-900:%20Microsoft%20365%20Fundamentalss&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
@@ -60,4 +61,3 @@ resources:
 - title: Políticas de exames e perguntas frequentes
   description: Consulte as políticas do exame e as perguntas frequentes.
   href: ../certification-exam-policies.md
-

@@ -1,31 +1,24 @@
 ### YamlMime:Examination
-title: Soluções Avançadas para Desenvolvedores do Microsoft Azure (beta)
+title: Microsoft Azure Developer Advanced Solutions (beta)
 metadata:
-  title: 'Exame AZ-201: Soluções Avançadas para Desenvolvedores do Microsoft Azure (beta)'
-  description: 'Exame AZ-201: Soluções Avançadas para Desenvolvedores do Microsoft Azure (beta)'
+  title: 'Exame AZ-201: Microsoft Azure Developer Advanced Solutions (beta)'
+  description: 'Exame AZ-201: Microsoft Azure Developer Advanced Solutions (beta)'
 uid: exam.az-201
 displayName: AZ-201
-summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAME FOI DESATIVADO EM 03 DE JANEIRO DE 2019. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão</div>
-  <br/> 
-  Os candidatos para este exame são os Desenvolvedores do Azure que projetam e criam soluções em nuvem, como aplicativos e serviços. Eles participam de todas as fases do desenvolvimento, desde o design da solução, desenvolvimento e implantação, até o teste e a manutenção. Eles fazem parceria com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar a solução.
-
-  Os candidatos devem ser proficientes no desenvolvimento de aplicativos e serviços usando as ferramentas e tecnologias do Azure, incluindo armazenamento, segurança, computação e comunicações.
-
-  Os candidatos devem ter pelo menos um ano de experiência no desenvolvimento de soluções escalonáveis em todas as fases de desenvolvimento de software e devem estar capacitados em pelo menos uma linguagem de programação suportada pela nuvem.
+summary: "<div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAME FOI DESATIVADO EM 03 DE JANEIRO DE 2019. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão</div>\n<br/> \nOs candidatos para este exame são os Desenvolvedores do Azure que projetam e criam soluções em nuvem, como aplicativos e serviços. Eles participam de todas as fases do desenvolvimento, desde o design da solução, desenvolvimento e implantação, até o teste e a manutenção. Eles fazem parceria com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar a solução.\n\nOs candidatos devem ser proficientes no desenvolvimento de aplicativos e serviços usando as ferramentas e tecnologias do Azure, incluindo armazenamento, segurança, computação e comunicações.\n\nOs candidatos devem ter pelo menos um ano de experiência no desenvolvimento de soluções escalonáveis em todas as fases de desenvolvimento de software e devem estar capacitados em pelo menos uma linguagem de programação suportada pela nuvem."
 subTitle: Os candidatos para este exame são os Desenvolvedores do Azure que projetam e criam soluções em nuvem, como aplicativos e serviços. Eles participam de todas as fases do desenvolvimento, desde o design da solução, desenvolvimento e implantação, até o teste e a manutenção. Eles fazem parceria com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar a solução.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjg
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 01/03/2019
 levels:
 - beginner
 skills:
 - Desenvolver para um modelo de nuvem do Azure (50-55%)
 - Implementar soluções de integração de nuvem (25–30%)
 - Desenvolver soluções de Serviços Cognitivos do Azure, Bot e IoT (20-25%)
-retirementDate: 01/03/2019
 roles:
 - developer
 products:

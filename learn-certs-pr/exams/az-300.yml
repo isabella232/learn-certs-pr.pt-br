@@ -1,22 +1,21 @@
 ### YamlMime:Examination
-title: Tecnologias do Microsoft Azure Architect
+title: Microsoft Azure Architect Technologies
 metadata:
   title: 'Exame AZ-300: Microsoft Azure Architect Technologies'
   description: 'Exame AZ-300: Microsoft Azure Architect Technologies'
 uid: exam.az-300
 displayName: AZ-300
-summary: |-
-  Os candidatos a este exame são os arquitetos da Azure Solution Architects, que aconselham as partes interessadas e traduzem os requisitos do negócio em soluções seguras, escaláveis e confiáveis. Os candidatos devem ter experiência e conhecimento avançados em vários aspectos das operações de TI, incluindo redes, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança. Essa função exige gerenciar como as decisões em cada área afetam uma solução geral. Os candidatos devem ser proficientes na administração do Azure, no desenvolvimento do Azure e no DevOps e ter habilidades de nível de especialista em pelo menos um desses domínios.
+summary: Os candidatos a este exame são os arquitetos da Azure Solution Architects, que aconselham as partes interessadas e traduzem os requisitos do negócio em soluções seguras, escaláveis e confiáveis. Os candidatos devem ter experiência e conhecimento avançados em vários aspectos das operações de TI, incluindo redes, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança. Essa função exige gerenciar como as decisões em cada área afetam uma solução geral. Os candidatos devem ser proficientes na administração do Azure, no desenvolvimento do Azure e no DevOps e ter habilidades de nível de especialista em pelo menos um desses domínios.
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: implantar e configurar a infraestrutura, implementar cargas de trabalho e segurança; criar e implantar aplicativos, implementar autenticação e  dados seguros; e desenvolver para o armazenamento em nuvem e Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-300&examname=Exame%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-300
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-300&examname=Exame%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-300
 levels:
 - advanced
 skills:
@@ -27,6 +26,8 @@ skills:
 - Desenvolver  para a nuvem e para o armazenamento do Azure (20-25%)
 roles:
 - solution-architect
+exams:
+- uid: exam.az-301
 products:
 - azure
 - azure-active-directory
@@ -49,8 +50,6 @@ products:
 - azure-cosmos-db
 - azure-sql-database
 - azure-event-hubs
-exams:
-- uid: exam.az-301
 courses:
 - uid: course.az-300t01
 - uid: course.az-300t02

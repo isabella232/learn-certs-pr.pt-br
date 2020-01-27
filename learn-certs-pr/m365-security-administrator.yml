@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certificado: Security Administrator Associate'
+title: 'Microsoft 365 Certified: Security Administrator Associate'
 metadata:
-  title: 'Microsoft 365 Certificado: Security Administrator Associate'
-  description: 'Os administradores de segurança do Microsoft 365 protegem proativamente os ambientes corporativos e híbridos M365, implementam e gerenciam soluções de segurança e conformidade, respondem a ameaças e reforçam a governança de dados.'
+  title: 'Microsoft 365 Certified: Security Administrator Associate'
+  description: Os administradores de segurança do Microsoft 365 protegem proativamente os ambientes corporativos e híbridos M365, implementam e gerenciam soluções de segurança e conformidade, respondem a ameaças e reforçam a governança de dados.
 uid: certification.m365-security-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Os administradores de segurança do Microsoft 365 protegem proativamente os ambientes corporativos e híbridos M365, implementam e gerenciam soluções de segurança e conformidade, respondem a ameaças e reforçam a governança de dados.
+summary: Os administradores de segurança do Microsoft 365 protegem proativamente os ambientes corporativos e híbridos M365, implementam e gerenciam soluções de segurança e conformidade, respondem a ameaças e reforçam a governança de dados.
 subTitle: Os administradores de segurança do Microsoft 365 protegem proativamente os ambientes corporativos e híbridos M365, implementam e gerenciam soluções de segurança e conformidade, respondem a ameaças e reforçam a governança de dados.
 levels:
 - intermediate
@@ -34,7 +33,7 @@ exams:
 - uid: exam.ms-500
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Administrador  Associado de Segurança.'
+  description: Descubra os recursos de treinamento para obter a Certificação Microsoft: Administrador  Associado de Segurança.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

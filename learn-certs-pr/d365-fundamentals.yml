@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificação Microsoft: Fundamentos do Dynamics 365'
+title: 'Microsoft Certified: Dynamics 365 Fundamentals'
 metadata:
-  title: 'Certificação Microsoft: Fundamentos do Dynamics 365'
-  description: 'Prove que você compreende o Microsoft Dynamics 365, a Power Platform, conceitos de nuvem, opções de licenciamento, implementação e de versão.'
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals'
+  description: Prove que você compreende o Microsoft Dynamics 365, a Power Platform, conceitos de nuvem, opções de licenciamento, implementação e de versão.
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: |-
-  Prove que você compreende o Microsoft Dynamics 365, a Power Platform, conceitos de nuvem, opções de licenciamento, implementação e de versão.
+summary: Prove que você compreende o Microsoft Dynamics 365, a Power Platform, conceitos de nuvem, opções de licenciamento, implementação e de versão.
 subTitle: Prove que você compreende o Microsoft Dynamics 365, a Power Platform, conceitos de nuvem, opções de licenciamento, implementação e de versão.
 levels:
 - beginner
@@ -28,7 +27,7 @@ exams:
 - uid: exam.mb-900
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Dynamics 365 Fundamentals.'
+  description: Descubra os recursos de treinamento para obter a Certificação Microsoft: Dynamics 365 Fundamentals.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

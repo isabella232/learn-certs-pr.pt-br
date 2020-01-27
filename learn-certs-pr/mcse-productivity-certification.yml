@@ -1,14 +1,16 @@
 ### YamlMime:Certification
-title: Especialista de Soluções de Produtividade MCSE
+title: MCSE Productivity Solutions Expert
 metadata:
-  title: Especialista de Soluções de Produtividade MCSE
+  title: MCSE Productivity Solutions Expert
   description: Especialista de Soluções de Produtividade MCSE
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
-summary: |-
+summary: >-
   Esta certificação valida sua capacidade de migrar sua empresa para a nuvem, aumentar a produtividade e flexibilidade do usuário, reduzir perdas de dados e melhorar a segurança de dados da sua organização. Esta certificação pode ser usada para satisfazer um dos requisitos para se tornar um [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
-  
+
+
   Para se tornar um Especialista de Soluções de Produtividade MCSE, é preciso preencher os seguintes requisitos&#58;
+
   - Receber uma certificação de pré-requisito
     - Opção de pré-requisito 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
     - Opção de pré-requisito 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)

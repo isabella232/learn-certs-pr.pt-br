@@ -5,19 +5,21 @@ metadata:
   description: 'Exame MS-500: Microsoft 365 Security Administration'
 uid: exam.ms-500
 displayName: MS-500
-summary: |-
+summary: >-
   Os candidatos a este exame implementam, gerenciam e monitoram soluções de segurança e conformidade em ambientes do Microsoft 365 e ambientes híbridos. O Microsoft 365 Security Administrator protege ambientes corporativos do Microsoft 365 Enterprise, responde a ameaças, realiza investigações e impõe a governança de dados. O Microsoft 365 Security Administrator colabora com o Microsoft 365 Enterprise Administrator, com partes interessadas e com outros administradores para planejar e implementar estratégias de segurança e garante que as soluções estejam em conformidade com as políticas e regulamentos da organização.
+
   <br/>
+
 
   Os candidatos a este exame estão familiarizados com as cargas de trabalho do Microsoft 365 e têm sólidos conhecimentos e experiência com proteção de identidade, proteção de informações, proteção contra ameaças, gerenciamento de segurança e governança de dados. Essa função se concentra no ambiente Microsoft 365 e inclui ambientes híbridos.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: implementar e gerenciar a identidade e o acesso, implementar e gerenciar a proteção contra ameaças, implementar e gerenciar a proteção de informações e gerenciar recursos de governança e conformidade no Microsoft 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-500&examname=Exame%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-500
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-500&examname=Exame%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-500
 levels:
 - intermediate
 skills:

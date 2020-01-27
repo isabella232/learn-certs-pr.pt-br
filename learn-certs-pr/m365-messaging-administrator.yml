@@ -1,22 +1,21 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certificado: Messaging Administrator Associate'
+title: 'Microsoft 365 Certified: Messaging Administrator Associate'
 metadata:
-  title: 'Microsoft 365 Certificado: Messaging Administrator Associate'
-  description: 'Administradores de mensagens do Microsoft 365 implantam, configuram, gerenciam e monitoram a infraestrutura de mensagens, permissões, acesso de clientes, proteção de e-mail e fluxo de mensagens em ambientes corporativos locais, híbridos e em nuvem.'
+  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+  description: Administradores de mensagens do Microsoft 365 implantam, configuram, gerenciam e monitoram a infraestrutura de mensagens, permissões, acesso de clientes, proteção de e-mail e fluxo de mensagens em ambientes corporativos locais, híbridos e em nuvem.
 uid: certification.m365-messaging-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Administradores de mensagens do Microsoft 365 implantam, configuram, gerenciam e monitoram a infraestrutura de mensagens, permissões, acesso de clientes, proteção de e-mail e fluxo de mensagens em ambientes corporativos locais, híbridos e em nuvem.
+summary: Administradores de mensagens do Microsoft 365 implantam, configuram, gerenciam e monitoram a infraestrutura de mensagens, permissões, acesso de clientes, proteção de e-mail e fluxo de mensagens em ambientes corporativos locais, híbridos e em nuvem.
 subTitle: Administradores de mensagens do Microsoft 365 implantam, configuram, gerenciam e monitoram a infraestrutura de mensagens, permissões, acesso de clientes, proteção de e-mail e fluxo de mensagens em ambientes corporativos locais, híbridos e em nuvem.
 levels:
 - intermediate
 skills:
-- Gerenciar uma infraestrutura moderna de mensagens 
-- Gerenciar a topologia de fluxo de correio 
-- Gerenciar destinatários e dispositivos 
-- Planejar e implementar uma configuração e migração híbridas 
-- Proteger o ambiente de mensagens 
-- Gerenciar configurações organizacionais 
+- Gerenciar uma infraestrutura moderna de mensagens
+- Gerenciar a topologia de fluxo de correio
+- Gerenciar destinatários e dispositivos
+- Planejar e implementar uma configuração e migração híbridas
+- Proteger o ambiente de mensagens
+- Gerenciar configurações organizacionais
 roles:
 - administrator
 type: role-based

@@ -1,22 +1,24 @@
 ### YamlMime:Examination
-title: 'Planejando e administrando o Microsoft Azure para cargas de trabalho do SAP (beta)'
+title: Planning and Administering Microsoft Azure for SAP Workloads (beta)
 metadata:
-  title: 'Exame AZ-120: Planejando e administrando o Microsoft Azure para cargas de trabalho do SAP (beta)'
-  description: 'Exame AZ-120: Planejando e administrando o Microsoft Azure para cargas de trabalho do SAP (beta)'
+  title: 'Exame AZ-120: Planning and Administering Microsoft Azure for SAP Workloads (beta)'
+  description: 'Exame AZ-120: Planning and Administering Microsoft Azure for SAP Workloads (beta)'
 uid: exam.az-120
 displayName: AZ-120
-summary: |-
+summary: >-
   Os candidatos a este exame são arquitetos e engenheiros com conhecimento no processo de certificação em SAP Landscape e nos padrões do setor específicos para a operação de uma solução SAP de longo prazo. Os candidatos fazem recomendações sobre serviços e ajustam os recursos conforme apropriado para resiliência, desempenho, escala, fornecimento, tamanho e monitoramento ideais.
 
+
   Os arquitetos do Azure para cargas de trabalho do SAP devem ter uma vasta experiência e conhecimento de aplicativos SAP, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW, servidores OS para aplicativos e bancos de dados SAP, Portal do Azure, modelos ARM, sistemas operacionais, virtualização, infraestrutura em nuvem, estruturas de armazenamento, design de alta disponibilidade, design de recuperação de desastre, conceitos de proteção de dados e rede.
+
 
   É altamente recomendável que os candidatos a este exame tenham uma certificação de Administrador do Azure ou Arquiteto do Azure, além das certificações SAP HANA e Linux.
 subTitle: 'Este teste avalia sua capacidade de realizar as seguintes tarefas técnicas: Migrar cargas de trabalho do SAP para o Azure, projetar uma solução do Azure para dar suporte às cargas de trabalho do SAP, criar e implementar cargas de trabalho do SAP no Azure, validar a infraestrutura do Azure para cargas de trabalho do SAP e operacionalizar a arquitetura SAP no Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-120&examname=Exame%20AZ-120:%20Planejando%20e%20administrando%20o%20Microsoft%20Azure%20para%20cargas%20de%20trabalho%20do%20SAP%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-120
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-120&examname=Exame%20AZ-120:%20Planejando%20e%20administrando%20o%20Microsoft%20Azure%20para%20cargas%20de%20trabalho%20do%20SAP%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-120
 levels:
 - advanced
 skills:

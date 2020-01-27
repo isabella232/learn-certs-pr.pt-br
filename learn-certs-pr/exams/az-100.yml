@@ -1,21 +1,19 @@
 ### YamlMime:Examination
-title: Infraestrutura e Implantação do Microsoft Azure
+title: Microsoft Azure Infrastructure and Deployment
 metadata:
-  title: 'Exame AZ-100: Infraestrutura e Implantação do Microsoft Azure'
-  description: 'Exame AZ-100: Infraestrutura e Implantação do Microsoft Azure'
+  title: 'Exame AZ-100: Microsoft Azure Infrastructure and Deployment'
+  description: 'Exame AZ-100: Microsoft Azure Infrastructure and Deployment'
 uid: exam.az-100
 displayName: AZ-100
-summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAME FOI DESATIVADO EM 01 DE PODE DE 2019. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão</div>
-  <br/>   
-  Os candidatos para este exame são Administradores do Azure que gerenciam serviços de nuvem que abrangem armazenamento, segurança, rede, e computam capacidades de nuvem. Os candidatos têm um conhecimento profundo de cada serviço no ciclo de vida de IT total e aceitam solicitações para serviços de infraestrutura, aplicações e ambientes. Eles fazem recomendações em serviços para usar par performance ideal e escala, além de provisão, tamanho, monitoramento e ajuste de recursos conforme apropriado. Os candidatos a esse exame devem ter proficiência no uso do PowerShell, da interface de linha de comando, do Portal do Azure, dos modelos ARM, dos sistemas operacionais, da virtualização, da infraestrutura de nuvem, das estruturas de armazenamento e da rede.
+summary: "<div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAME FOI DESATIVADO EM 01 DE PODE DE 2019. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão</div>\n<br/>   \nOs candidatos para este exame são Administradores do Azure que gerenciam serviços de nuvem que abrangem armazenamento, segurança, rede, e computam capacidades de nuvem. Os candidatos têm um conhecimento profundo de cada serviço no ciclo de vida de IT total e aceitam solicitações para serviços de infraestrutura, aplicações e ambientes. Eles fazem recomendações em serviços para usar par performance ideal e escala, além de provisão, tamanho, monitoramento e ajuste de recursos conforme apropriado. Os candidatos a esse exame devem ter proficiência no uso do PowerShell, da interface de linha de comando, do Portal do Azure, dos modelos ARM, dos sistemas operacionais, da virtualização, da infraestrutura de nuvem, das estruturas de armazenamento e da rede."
 subTitle: 'Este exame avalia sua habilidade de concluir as seguintes tarefas técnicas: gerenciar assinaturas e recursos do Azure, implementar e gerenciar o armazenamento, implementar e gerenciar máquinas virtuais (VMs), configurar e gerenciar redes virtuais e gerenciar identidades.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRLp
 practiceTestUrl: https://www.mindhub.com/AZ-100-Microsoft-Azure-Infrastructure-Deployment-p/mu-az-100_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 05/01/2019
 levels:
 - intermediate
 skills:
@@ -24,20 +22,19 @@ skills:
 - Implantar e gerenciar máquina virtuais (VMs) (20-25%)
 - Configurar e gerenciar redes virtuais (20-25%)
 - Gerenciar identidades (15-20%)
-retirementDate: 05/01/2019
 roles:
 - administrator
-products:
-- azure
 exams:
 - uid: exam.az-101
 - uid: exam.az-102
+products:
+- azure
 relatedCertifications:
 - related:
     uid: certification.azure-administrator
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Administrador Associado Azure.'
+  description: Descubra os recursos de treinamento para obter a Certificação Microsoft: Administrador Associado Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

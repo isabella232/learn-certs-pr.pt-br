@@ -1,23 +1,22 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certificado: Enterprise Administrator Expert'
+title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
-  title: 'Microsoft 365 Certificado: Enterprise Administrator Expert'
-  description: 'Os administradores do Microsoft 365 Enterprise avaliam, planejam, migram, implantam e gerenciam os serviços do Microsoft 365.'
+  title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
+  description: Os administradores do Microsoft 365 Enterprise avaliam, planejam, migram, implantam e gerenciam os serviços do Microsoft 365.
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
-  Os administradores do Microsoft 365 Enterprise avaliam, planejam, migram, implantam e gerenciam os serviços do Microsoft 365.
+summary: Os administradores do Microsoft 365 Enterprise avaliam, planejam, migram, implantam e gerenciam os serviços do Microsoft 365.
 subTitle: Os administradores do Microsoft 365 Enterprise avaliam, planejam, migram, implantam e gerenciam os serviços do Microsoft 365.
 levels:
 - advanced
 skills:
 - Projetar e implementar serviços Microsoft 365
-- Gerenciar identidade e funções de usuários 
-- Gerenciar acesso e autenticação 
+- Gerenciar identidade e funções de usuários
+- Gerenciar acesso e autenticação
 - Planejar cargas de trabalho e aplicativos do Office 365
 - Implementar serviços de dispositivos modernos
 - Implementar a segurança e gerenciamento de ameaças do Microsoft 365
-- Gerenciar a governança e conformidade do Microsoft 365 
+- Gerenciar a governança e conformidade do Microsoft 365
 roles:
 - administrator
 type: role-based

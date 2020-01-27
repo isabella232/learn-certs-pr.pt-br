@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificação Microsoft: Dynamics 365 Sales Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
 metadata:
-  title: 'Certificação Microsoft: Dynamics 365 Sales Functional Consultant Associate'
-  description: "Os 'Microsoft Dynamics 365 Sales Functional Consultants implementa soluções que antecipam e planejam conexões com clientes, gerenciam negócios por meio de processamento e fechamento e aceleram o desempenho da equipe de vendas usando análise de dados."
+  title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+  description: Os 'Microsoft Dynamics 365 Sales Functional Consultants implementa soluções que antecipam e planejam conexões com clientes, gerenciam negócios por meio de processamento e fechamento e aceleram o desempenho da equipe de vendas usando análise de dados.
 uid: certification.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Os Consultores Funcionais do Microsoft Dynamics 365 para Sales implementam soluções que antecipam e planejam conexões com clientes, gerenciam negócios por meio de processamento e fechamento e aceleram o desempenho da equipe de vendas usando análise de dados.
+summary: Os Consultores Funcionais do Microsoft Dynamics 365 para Sales implementam soluções que antecipam e planejam conexões com clientes, gerenciam negócios por meio de processamento e fechamento e aceleram o desempenho da equipe de vendas usando análise de dados.
 subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 para Sales implementam soluções que antecipam e planejam conexões com clientes, gerenciam negócios por meio de processamento e fechamento e aceleram o desempenho da equipe de vendas usando análise de dados.
 levels:
 - intermediate
@@ -52,7 +51,7 @@ exams:
 - uid: exam.mb-210
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Dynamics 365 Sales Functional Consultant Associate.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

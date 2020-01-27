@@ -1,13 +1,12 @@
 ### YamlMime:Certification
-title: 'Certificação Microsoft: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
 metadata:
-  title: 'Certificação Microsoft: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
-  description: 'Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Manufacturing integram sistemas digitais e físicos, melhoram a visibilidade, a eficiência de manufatura e a flexibilidade e reduz os custos para seus clientes.'
+  title: 'Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate'
+  description: Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Manufacturing integram sistemas digitais e físicos, melhoram a visibilidade, a eficiência de manufatura e a flexibilidade e reduz os custos para seus clientes.
 uid: certification.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-   Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Manufacturing integram sistemas digitais e físicos, melhoram a visibilidade, a eficiência de manufatura e a flexibilidade e reduz os custos para seus clientes.
-subTitle: 'Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Manufacturing integram sistemas digitais e físicos, melhoram a visibilidade, a eficiência de manufatura e a flexibilidade e reduz os custos para seus clientes.'
+summary: Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Manufacturing integram sistemas digitais e físicos, melhoram a visibilidade, a eficiência de manufatura e a flexibilidade e reduz os custos para seus clientes.
+subTitle: Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Manufacturing integram sistemas digitais e físicos, melhoram a visibilidade, a eficiência de manufatura e a flexibilidade e reduz os custos para seus clientes.
 levels:
 - intermediate
 skills:
@@ -47,7 +46,7 @@ exams:
 - uid: exam.mb-320
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KLG
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
