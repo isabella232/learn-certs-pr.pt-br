@@ -9,6 +9,9 @@ summary: "Candidatos bem-sucedidos terão um entendimento fundamental do ambient
 subTitle: Candidatos bem-sucedidos terão um entendimento fundamental do ambiente do PowerPoint e demonstrarão a aplicação correta do PowerPoint 2016. Os candidatos criam, editam e melhoram as apresentações e apresentações de slides. Exemplos de apresentações incluem apresentações de vendas profissionais, treinamento de funcionários, materiais instrucionais e apresentações de slides de quiosques.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

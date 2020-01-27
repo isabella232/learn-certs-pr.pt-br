@@ -18,7 +18,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-120&examname=Exame%20AZ-120:%20Planejando%20e%20administrando%20o%20Microsoft%20Azure%20para%20cargas%20de%20trabalho%20do%20SAP%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-120
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-120&examname=Exame%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-120
 levels:
 - advanced
 skills:

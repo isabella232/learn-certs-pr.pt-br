@@ -31,7 +31,7 @@ exams:
 - uid: exam.ms-900
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: Descubra os recursos de treinamento para obter a Certificação Microsoft: Fundamentals.
+  description: 'Descubra os recursos de treinamento para obter a Microsoft 365 Certified Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

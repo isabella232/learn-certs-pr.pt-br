@@ -17,7 +17,7 @@ practiceTestUrl: https://us.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_med
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-100&examname=Exame%20MS-100:%20Identidade%20e%20Serviços%20Microsoft%20365&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-100&examname=Exame%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-100
 levels:
 - advanced
 skills:

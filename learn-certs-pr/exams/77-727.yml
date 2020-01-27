@@ -9,6 +9,9 @@ summary: "Candidatos bem-sucedidos para o teste de certificação do Microsoft O
 subTitle: Candidatos bem-sucedidos para o teste de certificação do Microsoft Office Specialist Excel 2016 têm conhecimento fundamental do ambiente do Excel e capacidade para concluir tarefas de maneira independente. Ele conhece e demonstra a aplicação correta dos principais recursos do Excel 2016. Os candidatos criam e editam uma pasta de trabalho com diversas planilhas e usam um elemento do gráfico para representar os dados visualmente. Os exemplos de pasta de trabalho incluem orçamentos de aparência profissional, demonstrações financeiras, gráficos de desempenho de equipe, faturas de vendas e logs de entrada de dados.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfJ
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

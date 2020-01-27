@@ -31,7 +31,7 @@ exams:
 - uid: exam.ms-600
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Desenvolvedor Associado.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft 365 Certified: Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

@@ -1,8 +1,8 @@
 ### YamlMime:Examination
 title: Microsoft Azure DevOps Solutions
 metadata:
-  title: 'Exame AZ-400: Soluções Microsoft Azure DevOps'
-  description: 'Exame AZ-400: Soluções Microsoft Azure DevOps'
+  title: 'Exame AZ-400: Microsoft Azure DevOps Solutions'
+  description: 'Exame AZ-400: Microsoft Azure DevOps Solutions'
 uid: exam.az-400
 displayName: AZ-400
 summary: >-
@@ -19,7 +19,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-400&examname=Exame%20AZ-400:%20Soluções%20Microsoft%20Azure%20DevOps&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-400&examname=Exame%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-400
 levels:
 - advanced
 skills:
@@ -57,7 +57,7 @@ relatedCertifications:
     uid: certification.azure-devops
 resources:
 - title: Certificação Caminhos de Aprendizagem de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Azure DevOps Engineer Expert.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure DevOps Engineer Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

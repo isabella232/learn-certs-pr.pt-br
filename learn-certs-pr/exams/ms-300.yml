@@ -21,7 +21,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-300&examname=Exame%20MS-300:%20Implementação%20do%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-300
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-300&examname=Exame%20MS-300:%20Deploying%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-300
 levels:
 - intermediate
 skills:
@@ -49,7 +49,7 @@ relatedCertifications:
     uid: certification.m365-teamwork-administrator
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Teamwork Administrator Associate.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Teamwork Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

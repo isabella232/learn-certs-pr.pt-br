@@ -24,7 +24,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-203&examname=Exame%20AZ-203:%20Desenvolvendo%20%20soluções%20para%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-203
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-203&examname=Exame%20AZ-203:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-203
 levels:
 - intermediate
 skills:
@@ -74,7 +74,7 @@ relatedCertifications:
     uid: certification.azure-developer
 resources:
 - title: Certificação Caminhos de Aprendizagem
-  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Associado Desenvolvedor Azure.'
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Azure Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
