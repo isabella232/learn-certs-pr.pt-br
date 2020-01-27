@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificação Microsoft: Azure Security Engineer Associate'
+title: 'Microsoft Certified: Azure Security Engineer Associate'
 metadata:
-  title: 'Certificação Microsoft: Azure Security Engineer Associate'
-  description: 'Os Engenheiros de Segurança Azure implementam controles de segurança e proteção contra ameaças, gerenciamento de identidade e acesso e protegem os dados, aplicativos e redes em ambientes de nuvem e híbridas como parte da infraestrutura completa.'
+  title: 'Microsoft Certified: Azure Security Engineer Associate'
+  description: Os Engenheiros de Segurança Azure implementam controles de segurança e proteção contra ameaças, gerenciamento de identidade e acesso e protegem os dados, aplicativos e redes em ambientes de nuvem e híbridas como parte da infraestrutura completa.
 uid: certification.azure-security-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Os Engenheiros de Segurança Azure implementam controles de segurança e proteção contra ameaças, gerenciamento de identidade e acesso e protegem os dados, aplicativos e redes em ambientes de nuvem e híbridas como parte da infraestrutura completa.
+summary: Os Engenheiros de Segurança Azure implementam controles de segurança e proteção contra ameaças, gerenciamento de identidade e acesso e protegem os dados, aplicativos e redes em ambientes de nuvem e híbridas como parte da infraestrutura completa.
 subTitle: Os Engenheiros de Segurança Azure implementam controles de segurança e proteção contra ameaças, gerenciamento de identidade e acesso e protegem os dados, aplicativos e redes em ambientes de nuvem e híbridas como parte da infraestrutura completa.
 levels:
 - intermediate

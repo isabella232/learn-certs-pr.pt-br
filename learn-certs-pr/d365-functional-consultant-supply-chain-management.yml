@@ -1,13 +1,12 @@
 ### YamlMime:Certification
-title: 'Certificação Microsoft: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
 metadata:
-  title: 'Certificação Microsoft: Dynamics 365 Supply Chain Management Functional Consultant Associate'
-  description: 'Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Supply Chain Management simplificam a contabilidade de custos, gerenciamento de estoque, planejamento mestre e gerenciamento de estoque para seus clientes.'
+  title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+  description: Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Supply Chain Management simplificam a contabilidade de custos, gerenciamento de estoque, planejamento mestre e gerenciamento de estoque para seus clientes.
 uid: certification.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Supply Chain Management simplificam a contabilidade de custos, gerenciamento de estoque, planejamento mestre e gerenciamento de estoque para seus clientes.
-subTitle: 'Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Supply Chain Management simplificam a contabilidade de custos, gerenciamento de estoque, planejamento mestre e gerenciamento de estoque para seus clientes.'
+summary: Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Supply Chain Management simplificam a contabilidade de custos, gerenciamento de estoque, planejamento mestre e gerenciamento de estoque para seus clientes.
+subTitle: Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Supply Chain Management simplificam a contabilidade de custos, gerenciamento de estoque, planejamento mestre e gerenciamento de estoque para seus clientes.
 levels:
 - intermediate
 skills:
@@ -49,7 +48,7 @@ exams:
 - uid: exam.mb-330
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Dynamics 365 Supply Chain Management Functional Consultant Associate.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35nkT
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

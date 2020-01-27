@@ -1,30 +1,36 @@
 ### YamlMime:Examination
-title: Transição de Certificação do Administrador do Microsoft Azure
+title: Microsoft Azure Administrator Certification Transition
 metadata:
-  title: 'Exame AZ-102: Transição de Certificação do Administrador do Microsoft Azure'
-  description: 'Exame AZ-102: Transição de Certificação do Administrador do Microsoft Azure'
+  title: 'Exame AZ-102: Microsoft Azure Administrator Certification Transition'
+  description: 'Exame AZ-102: Microsoft Azure Administrator Certification Transition'
 uid: exam.az-102
 displayName: AZ-102
-summary: |-
+summary: >-
   <div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAME FOI DESATIVADO EM 30 DE JUNHO DE 2019. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão<br/> <br/></div>
-  
-  Este exame destina-se apenas aos candidatos que tenham feito o [Exame 70-533&#58;](https://www.microsoft.com/learning/exam-70-533.aspx) Implantando o Microsoft Azure Infrastructure Solutions Se você não fez o Exame 533, você não ganhará uma certificação fazendo este exame.
+
+
+  Este exame destina-se apenas aos candidatos que tenham feito o [Exame 70-533&#58;](https://www.microsoft.com/learning/exam-70-533.aspx) Implementing Microsoft Azure Infrastructure Solutions Se você não fez o Exame 533, você não ganhará uma certificação fazendo este exame.
+
 
   O exame de transição destina-se a pessoas que já demonstraram habilidades no domínio de conteúdo, aprovando os exames existentes que os novos exames de certificação baseados em função substituirão. Eles cobrem o delta entre a certificação atual e o que esperamos que as pessoas que ganham a nova certificação possam fazer. Não queremos testar novamente pessoas com o mesmo conteúdo em que elas já demonstraram competência ao passar no exame existente.
 
+
   Os exames de transição abrangem novos conteúdos líquidos, conteúdo que não foi abordado com profundidade suficiente e conteúdo sobre aspectos da tecnologia que provavelmente mudaram desde que alguém fez o exame. Como resultado, o exame de transição não é mais curto do que um exame típico, mas mais focado nas principais tarefas e habilidades que não foram avaliadas no exame ou certificação existente que está sendo substituído.
 
+
   Os candidatos para este exame são Administradores do Azure que gerenciam serviços de nuvem que abrangem armazenamento, segurança, rede, e computam capacidades de nuvem. Os candidatos têm um conhecimento profundo de cada serviço no ciclo de vida de IT total e aceitam solicitações para serviços de infraestrutura, aplicações e ambientes. Eles fazem recomendações em serviços para usar par performance ideal e escala, além de provisão, tamanho, monitoramento e ajuste de recursos conforme apropriado.
+
 
   Os candidatos para este exame devem ter proficiência no uso de PowerShell e na Interface de Linha de Comando. Os candidatos devem ter familiaridade básica ou conhecimento do Portal Azure, modelos de ARM, sistemas de operação, virtualização, infraestrutura de nuvem, estruturas de armazenamento e networking.
 subTitle: 'Este exame destina-se apenas aos candidatos que tenham feito Exame 70-533: Implantando o Microsoft Azure Infrastructure Solutions Se você não fez o Exame 533, você não ganhará uma certificação fazendo este exame'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwA
 practiceTestUrl: https://www.mindhub.com/product-p/mu-az-102_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 06/30/2019
 levels:
 - intermediate
 skills:
@@ -36,20 +42,19 @@ skills:
 - Implementar e gerenciar serviços de aplicação (5-10%)
 - Implementar networking virtual avançado (5-10%)
 - Protejer identidades (5-10%)
-retirementDate: 06/30/2019
 roles:
 - administrator
-products:
-- azure
 exams:
 - uid: exam.az-100
 - uid: exam.az-101
+products:
+- azure
 relatedCertifications:
 - related:
     uid: certification.azure-administrator
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Administrador Associado Azure.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

@@ -1,19 +1,20 @@
 ### YamlMime:Examination
-title: Microsoft Word (Word e Word 2019)
+title: Microsoft Word (Word and Word 2019)
 metadata:
-  title: 'MO-100: Microsoft Word (Word e Word 2019)'
-  description: 'MO-100: Microsoft Word (Word e Word 2019)'
+  title: 'MO-100: Microsoft Word (Word and Word 2019)'
+  description: 'MO-100: Microsoft Word (Word and Word 2019)'
 uid: exam.mo-100
 displayName: MO-100
-summary: |-
-  Um estudante que recebe esta certificação tem aproximadamente 150 horas de instrução e experiência prática com relação ao produto, competência comprovada em nível de associado do setor e está pronto para entrar no mercado de trabalho. Eles podem demonstrar a aplicação correta dos principais recursos do Word e concluir tarefas de maneira independente.
+summary: Um estudante que recebe esta certificação tem aproximadamente 150 horas de instrução e experiência prática com relação ao produto, competência comprovada em nível de associado do setor e está pronto para entrar no mercado de trabalho. Eles podem demonstrar a aplicação correta dos principais recursos do Word e concluir tarefas de maneira independente.
 subTitle: Esse exame avalia a competência na aplicação correta dos principais recursos do Word a ao criar e editar documentos para diversas finalidades e situações. O exame abrange a capacidade de criar e manter relatórios com aparência profissional, boletins informativos de várias colunas, currículos e correspondências comerciais.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
-levels: 
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Gerenciar documentos (20-25%)
@@ -25,7 +26,7 @@ skills:
 roles:
 - developer
 products:
-- office 
+- office
 - office-word
 relatedCertifications:
 - related:

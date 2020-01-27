@@ -1,24 +1,27 @@
 ### YamlMime:Examination
-title: Implementando uma plataforma de mensagem híbrida e segura
+title: Implementing a Hybrid and Secure Messaging Platform
 metadata:
-  title: 'Exame MS-201: Implementando uma plataforma de mensagem híbrida e segura'
-  description: 'Exame MS-201: Implementando uma plataforma de mensagem híbrida e segura'
+  title: 'Exame MS-201: Implementing a Hybrid and Secure Messaging Platform'
+  description: 'Exame MS-201: Implementing a Hybrid and Secure Messaging Platform'
 uid: exam.ms-201
 displayName: MS-201
-summary: |-
+summary: >-
   Os candidatos a este exame são Messaging Administrators que implementam, configuram, gerenciam, solucionam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes corporativos no local e na nuvem.
+
 
   Os Messaging Administrators são responsáveis por gerenciar a limpeza, a infraestrutura de mensagens, a configuração híbrida, a migração, a recuperação de desastres, a alta disponibilidade e o acesso do cliente.
 
+
   Os Messaging Administrators colaboram com o Security Administrator e o Microsoft 365 Enterprise Administrator para implementar uma topologia híbrida segura que atenda às necessidades de negócios de uma organização moderna.
+
 
   O Messaging Administrator deve ter um conhecimento prático dos tipos de autenticação, licenciamento e integração com aplicativos do Microsoft 365.
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: planejar e implementar uma configuração e migração híbrida, proteger o ambiente de mensagens e gerenciar as configurações organizacionais.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk9
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-201&examname=Exame%20MS-201:%20Implementando%20uma%20plataforma%20de%20mensagem%20híbrida%20e%20segura&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-201
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-201&examname=Exame%20MS-201:%20Implementing%20a%20Hybrid%20and%20Secure%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-201
 levels:
 - intermediate
 skills:
@@ -27,10 +30,10 @@ skills:
 - Gerenciar as configurações organizacionais (15-20%)
 roles:
 - administrator
-products:
-- m365
 exams:
 - uid: exam.ms-200
+products:
+- m365
 courses:
 - uid: course.ms-201t01
 - uid: course.ms-201t02

@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certificado: Teamwork Administrator Associate'
+title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
 metadata:
-  title: 'Microsoft 365 Certificado: Teamwork Administrator Associate'
-  description: 'Os administradores do Microsoft 365 Teamwork Administrators configuram, implantam e gerenciam cargas de trabalho do Office 365 que focam na colaboração eficiente e eficaz, como o SharePoint (online, no local e híbrido), o OneDrive e as Equipes.'
+  title: 'Microsoft 365 Certified: Teamwork Administrator Associate'
+  description: Os administradores do Microsoft 365 Teamwork Administrators configuram, implantam e gerenciam cargas de trabalho do Office 365 que focam na colaboração eficiente e eficaz, como o SharePoint (online, no local e híbrido), o OneDrive e as Equipes.
 uid: certification.m365-teamwork-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Os administradores do Microsoft 365 Teamwork Administrators configuram, implantam e gerenciam cargas de trabalho do Office 365 que focam na colaboração eficiente e eficaz, como o SharePoint (online, no local e híbrido), o OneDrive e as Equipes.
+summary: Os administradores do Microsoft 365 Teamwork Administrators configuram, implantam e gerenciam cargas de trabalho do Office 365 que focam na colaboração eficiente e eficaz, como o SharePoint (online, no local e híbrido), o OneDrive e as Equipes.
 subTitle: Os administradores do Microsoft 365 Teamwork Administrators configuram, implantam e gerenciam cargas de trabalho do Office 365 que focam na colaboração eficiente e eficaz, como o SharePoint (online, no local e híbrido), o OneDrive e as Equipes.
 levels:
 - intermediate
@@ -44,7 +43,7 @@ exams:
 - uid: exam.ms-301
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Administrador Associado de Equipes de Trabalho.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft 365 Certified: Teamwork Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

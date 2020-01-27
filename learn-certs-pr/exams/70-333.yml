@@ -1,21 +1,20 @@
 ### YamlMime:Examination
-title: Implementando Enterprise Voice com o Skype for Business 2015 
+title: Deploying Enterprise Voice with Skype for Business 2015
 metadata:
-  title: 'Exame 70-333: Implementando Enterprise Voice com o Skype for Business 2015'
-  description: 'Exame 70-333: Implementando Enterprise Voice com o Skype for Business 2015'
+  title: 'Exame 70-333: Deploying Enterprise Voice with Skype for Business 2015'
+  description: 'Exame 70-333: Deploying Enterprise Voice with Skype for Business 2015'
 uid: exam.70-333
 displayName: 70-333
-summary: |-
-  Os candidatos a esse exame são consultores de TI e profissionais de consultoria em telecomunicações que projetam, planejam, implantam e mantêm soluções para Comunicações Unificadas (UC). Os candidatos devem ser capazes de converter requisitos de negócios em arquitetura técnica e design para uma solução de UC. Os candidatos devem ter no mínimo dois anos de experiência com tecnologias Skype for Business e estar familiarizados com cenários de migração suportados. Os candidatos devem dominar a implantação de soluções do Skype for Business Server e Skype for Business Online para usuários finais, dispositivos de pontos de extremidade, telefonia, áudio/vídeo e web conferências, segurança e alta disponibilidade. Os candidatos também devem saber monitorar e solucionar problemas no Skype for Business usando ferramentas Microsoft. Além disso, os candidatos devem dominar os Serviços de Domínio Active Directory, redes de dados e padrões e componentes de telecomunicações que suportem a configuração do Skype for Business. Os candidatos devem estar familiarizados com os requisitos de integração do Skype for Business com o Microsoft Exchange Server e o Office 365.
+summary: Os candidatos a esse exame são consultores de TI e profissionais de consultoria em telecomunicações que projetam, planejam, implantam e mantêm soluções para Comunicações Unificadas (UC). Os candidatos devem ser capazes de converter requisitos de negócios em arquitetura técnica e design para uma solução de UC. Os candidatos devem ter no mínimo dois anos de experiência com tecnologias Skype for Business e estar familiarizados com cenários de migração suportados. Os candidatos devem dominar a implantação de soluções do Skype for Business Server e Skype for Business Online para usuários finais, dispositivos de pontos de extremidade, telefonia, áudio/vídeo e web conferências, segurança e alta disponibilidade. Os candidatos também devem saber monitorar e solucionar problemas no Skype for Business usando ferramentas Microsoft. Além disso, os candidatos devem dominar os Serviços de Domínio Active Directory, redes de dados e padrões e componentes de telecomunicações que suportem a configuração do Skype for Business. Os candidatos devem estar familiarizados com os requisitos de integração do Skype for Business com o Microsoft Exchange Server e o Office 365.
 subTitle: Os candidatos a esse exame são consultores de TI e profissionais de consultoria em telecomunicações que projetam, planejam, implantam e mantêm soluções para Comunicações Unificadas (UC). Os candidatos devem ser capazes de converter requisitos de negócios em arquitetura técnica e design para uma solução de UC. Os candidatos devem ter no mínimo dois anos de experiência com tecnologias Skype for Business e estar familiarizados com cenários de migração suportados. Os candidatos devem dominar a implantação de soluções do Skype for Business Server e Skype for Business Online para usuários finais, dispositivos de pontos de extremidade, telefonia, áudio/vídeo e web conferências, segurança e alta disponibilidade. Os candidatos também devem saber monitorar e solucionar problemas no Skype for Business usando ferramentas Microsoft. Além disso, os candidatos devem dominar os Serviços de Domínio Active Directory, redes de dados e padrões e componentes de telecomunicações que suportem a configuração do Skype for Business. Os candidatos devem estar familiarizados com os requisitos de integração do Skype for Business com o Microsoft Exchange Server e o Office 365.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dq
 practiceTestUrl: https://www.mindhub.com/product-p/mu-70-333_p.htm&utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=333&examname=Implementando%20Enterprise%20Voice%20com%20o%20Skype%20for%20Business%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2F70-333
 locales:
 - en
 - ja
-levels: 
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=333&examname=Deploying%20Enterprise%20Voice%20with%20Skype%20for%20Business%202015&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2F70-333
+levels:
 - advanced
 skills:
 - Planejar e projetar o Skype for Business com Enterprise Voice (30-35%)

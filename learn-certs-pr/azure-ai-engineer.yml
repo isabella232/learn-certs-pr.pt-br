@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificação Microsoft: Azure AI Engineer Associate'
+title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
-  title: 'Certificação Microsoft: Azure AI Engineer Associate'
-  description: 'Os engenheiros de AI do Azure usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de AI da Microsoft envolvendo processamento de linguagem natural, fala, visão de computador, bots e agentes.'
+  title: 'Microsoft Certified: Azure AI Engineer Associate'
+  description: Os engenheiros de AI do Azure usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de AI da Microsoft envolvendo processamento de linguagem natural, fala, visão de computador, bots e agentes.
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Os engenheiros de AI do Azure usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de AI da Microsoft envolvendo processamento de linguagem natural, fala, visão de computador, bots e agentes.
+summary: Os engenheiros de AI do Azure usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de AI da Microsoft envolvendo processamento de linguagem natural, fala, visão de computador, bots e agentes.
 subTitle: Os engenheiros de AI do Azure usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de AI da Microsoft envolvendo processamento de linguagem natural, fala, visão de computador, bots e agentes.
 levels:
 - intermediate
@@ -37,7 +36,7 @@ exams:
 - uid: exam.ai-100
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Engenheiro AI Associado Azure.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure AI Engineer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

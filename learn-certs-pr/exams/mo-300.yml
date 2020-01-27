@@ -5,15 +5,16 @@ metadata:
   description: 'MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)'
 uid: exam.mo-300
 displayName: MO-300
-summary: |-
-  Um indivíduo que obtém esta certificação tem aproximadamente 150 horas de instrução e experiência prática com o produto, possui competência comprovada em nível de associado da indústria e está pronto para entrar no mercado de trabalho Eles podem demonstrar a aplicação correta dos principais recursos do PowerPoint e podem concluir tarefas de forma independente.
+summary: Um indivíduo que obtém esta certificação tem aproximadamente 150 horas de instrução e experiência prática com o produto, possui competência comprovada em nível de associado da indústria e está pronto para entrar no mercado de trabalho Eles podem demonstrar a aplicação correta dos principais recursos do PowerPoint e podem concluir tarefas de forma independente.
 subTitle: Este exame mede a competência para criar, editar e aprimorar apresentações e apresentações de slides, incluindo a capacidade de criar e gerenciar apresentações, inserir e formatar formas e slides, criar conteúdo de slides, aplicar transições e animações e gerenciar várias apresentações. Os exemplos de apresentações incluem apresentações de vendas profissionais, treinamento de funcionários, materiais instrucionais e apresentações de slides de quiosques.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8R
-scheduleExamUrl: http://www.certiport.com/locator
 locales:
 - en
-levels: 
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+levels:
 - intermediate
 skills:
 - Gerenciar apresentações
@@ -23,7 +24,7 @@ skills:
 - Aplicar transições e animações
 roles:
 - developer
-products: 
+products:
 - office
 - office-powerpoint
 relatedCertifications:
@@ -42,4 +43,3 @@ resources:
 - title: Políticas de exames e perguntas frequentes
   description: Consulte as políticas do exame e as perguntas frequentes.
   href: ../certification-exam-policies.md
-

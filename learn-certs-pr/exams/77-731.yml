@@ -5,16 +5,21 @@ metadata:
   description: 'Exame 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
 uid: exam.77-731
 displayName: 77-731
-summary: |
+summary: >
   Candidatos bem-sucedidos criarão e editarão mensagens de e-mail com aparência profissional, manter calendários em fusos horários e programar tarefas para uma variedade de fins e situações. Os candidatos usarão o Outlook 2016 para melhorar a correspondência profissional, criar calendários e programar compromissos. Exemplos de aplicações incluem coordenação de recursos de construção, envio de mensagens para campanhas de marketing, planejamento de reuniões de equipe e designação de itens de ação de reunião.
 
+
   Os testes de certificação do Microsoft Office Specialist (MOS) 2016 introduzem um novo formato baseado em desempenho para melhorar o teste de conhecimento, habilidades e capacidades de um candidato usando os programas do MOS 2016&#58;
+
   - As instruções da tarefa do teste MOS 2016 geralmente não incluem o nome do comando, como em versões anteriores. Por exemplo, evita-se o uso de nomes de funções e elas são substituídas por descritores. Isso significa que os candidatos devem entender a finalidade e o uso comum da funcionalidade do programa, a fim de concluir com sucesso as tarefas em cada projeto.
+
   - O formato de teste MOS 2016 incorpora múltiplos projetos.
 subTitle: Candidatos bem-sucedidos criarão e editarão mensagens de e-mail com aparência profissional, manter calendários em fusos horários e programar tarefas para uma variedade de fins e situações. Os candidatos usarão o Outlook 2016 para melhorar a correspondência profissional, criar calendários e programar compromissos. Exemplos de aplicações incluem coordenação de recursos de construção, envio de mensagens para campanhas de marketing, planejamento de reuniões de equipe e designação de itens de ação de reunião.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
-scheduleExamUrl: http://www.certiport.com/locator
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -25,7 +30,7 @@ locales:
 - ja
 - ko
 - nb
-levels: 
+levels:
 - intermediate
 skills:
 - Gerenciar o ambiente Outlook para produtividade (20-25%)

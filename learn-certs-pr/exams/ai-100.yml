@@ -1,28 +1,32 @@
 ### YamlMime:Examination
-title: Projetando e implementando uma solução Azure AI
+title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: 'Exame AI-100: Projetando e implementando uma solução Azure AI'
-  description: 'Exame AI-100: Projetando e implementando uma solução Azure AI'
+  title: 'Exame AI-100: Designing and Implementing an Azure AI Solution'
+  description: 'Exame AI-100: Designing and Implementing an Azure AI Solution'
 uid: exam.ai-100
 displayName: AI-100
-summary: |-
+summary: >-
   Os candidatos a este exame analisam os requisitos para soluções de AI, recomendam ferramentas e tecnologias apropriadas e implementam soluções que atendem aos requisitos de escalabilidade e desempenho.
+
   <br/>
+
 
   Os candidatos traduzem a visão de arquitetos de soluções e trabalham com cientistas de dados, engenheiros de dados, especialistas em IoT e desenvolvedores de AI para criar soluções completas de ponta a ponta. Os candidatos projetam e implementam aplicativos e agentes de IA que usam o Microsoft Azure Cognitive Services e o Azure Bot Service. Os candidatos podem recomendar soluções que usam tecnologias de código aberto.
 
+
   Os candidatos compreendem os componentes que compõem o portfólio do  Azure AI e as opções de armazenamento de dados disponíveis.
+
 
   Os candidatos implementam soluções de IA que usam Serviços Cognitivos, bots  Azure, Pesquisa Azure  e armazenamento de dados no Azure. Os candidatos compreendem  quando uma API personalizada deve ser desenvolvida para atender a requisitos específicos.
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: analisar os requisitos da solução, projetar soluções, integrar modelos de IA em soluções e implementar e gerenciar soluções.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AI-100&examname=Exame%20AI-100:%20Projetando%20e%20implementando%20uma%20solução%20Azure%20AI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
 - zh-cn
 - ko
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AI-100&examname=Exame%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fai-100
 levels:
 - intermediate
 skills:
@@ -50,8 +54,8 @@ relatedCertifications:
 - related:
     uid: certification.azure-ai-engineer
 resources:
-- title: Certificação Caminho de Aprendizagem 
-  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Engenheiro Associado do Azure AI.'
+- title: Certificação Caminho de Aprendizagem
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Azure AI Engineer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

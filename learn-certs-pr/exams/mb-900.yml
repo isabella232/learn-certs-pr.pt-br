@@ -5,18 +5,19 @@ metadata:
   description: 'Exame MB-900: Microsoft Dynamics 365 Fundamentals'
 uid: exam.mb-900
 displayName: MB-900
-summary: |-
+summary: >-
   Este exame destina-se aos candidatos que buscam demonstrar conhecimento fundamental do Microsoft Dynamics 365, aplicativos Power Platform e do modelo de computação em nuvem. Este exame abrange as considerações e benefícios da adoção do Dynamics 365, a Power Platform e os serviços de nuvem em geral. Este exame pode ser feito como uma preparação para certificações e treinamento do Dynamics 365.
+
 
   Os candidatos a este exame devem ter conhecimento geral ou experiência de trabalho relevante em um ambiente de tecnologia da informação (IT). Os candidatos também devem ter uma compreensão básica de cenários de negócios e experiência na abordagem de negócios, e as exigências legais de segurança para projetos de IT.
 subTitle: Este exame avalia a sua capacidade de compreender o Microsoft Dynamics 365, a Power Platform, conceitos de nuvem, opções de licenciamento, implementação e de versão.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVu
 practiceTestUrl: https://us.mindhub.com/p/MU-MB-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-900&examname=Exame%20MB-900:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-900
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-900&examname=Exame%20MB-900:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-900
 levels:
 - beginner
 skills:
@@ -25,7 +26,7 @@ skills:
 - Compreender implementações e versões (20-25%)
 roles:
 - developer
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-900t01
@@ -36,7 +37,7 @@ relatedCertifications:
     uid: certification.d365-fundamentals
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Dynamics 365 Fundamentals.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Dynamics 365 Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

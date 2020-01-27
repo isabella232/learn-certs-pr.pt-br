@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificação Microsoft: Dynamics 365 Customer Service Functional Consultant Associate'
+title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
 metadata:
-  title: 'Certificação Microsoft: Dynamics 365 Customer Service Functional Consultant Associate'
-  description: 'Os Consultores Funcionais do Microsoft Dynamics 365 para Atendimento ao Cliente criam soluções CX rápidas e ágeis e utilizam a Inteligência Artificial para conduzir insights acionáveis que antecipam as necessidades do cliente.'
+  title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+  description: Os Consultores Funcionais do Microsoft Dynamics 365 para Atendimento ao Cliente criam soluções CX rápidas e ágeis e utilizam a Inteligência Artificial para conduzir insights acionáveis que antecipam as necessidades do cliente.
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Os Consultores Funcionais do Microsoft Dynamics 365 para Atendimento ao Cliente criam soluções CX rápidas e ágeis e utilizam a Inteligência Artificial para conduzir insights acionáveis que antecipam as necessidades do cliente.
+summary: Os Consultores Funcionais do Microsoft Dynamics 365 para Atendimento ao Cliente criam soluções CX rápidas e ágeis e utilizam a Inteligência Artificial para conduzir insights acionáveis que antecipam as necessidades do cliente.
 subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 para Atendimento ao Cliente criam soluções CX rápidas e ágeis e utilizam a Inteligência Artificial para conduzir insights acionáveis que antecipam as necessidades do cliente.
 levels:
 - intermediate
@@ -51,7 +50,7 @@ exams:
 - uid: exam.mb-230
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Dynamics 365 Customer Service Functional Consultant Associate.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

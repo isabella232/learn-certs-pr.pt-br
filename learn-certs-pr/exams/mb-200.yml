@@ -5,20 +5,23 @@ metadata:
   description: 'Exame MB-200: Microsoft Power Platform + Dynamics 365 Core'
 uid: exam.mb-200
 displayName: MB-200
-summary: |-
+summary: >-
   Os candidatos a este exame são consultores funcionais que têm acesso aos recursos e funcionalidades do produto licenciado da empresa. Como consultor funcional, o candidato está ciente das versões integradas dos recursos, mas não trabalha principalmente com esses pacotes de produtos.
+
   <br/>
 
+
   Os candidatos são os principais responsáveis por configurar o sistema para atender às necessidades do cliente, executar tarefas de design relacionadas à implementação de novos recursos e funcionalidades e implementar e testar alterações no sistema.
+
 
   Os candidatos planejam o design funcional de soluções, implementam um processo de gerenciamento do ciclo de vida de aplicativos (ALM), migram dados e objetos de sistemas legados e externos, integram a Power Platform com outros sistemas e gerenciam o ambiente da Power Platform.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: realizar descobertas, planejamento e análise, gerenciar projetos de experiência do usuário, gerenciar entidades e dados, implementar a segurança, implementar a integração e executar soluções de implementação e testes.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-200&examname=Exame%20MB-200:%20Microsoft%20Power%20Platform%20+%20Dynamics%20365%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 locales:
 - en
 - ja
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-200&examname=Exame%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 levels:
 - intermediate
 skills:
@@ -30,17 +33,17 @@ skills:
 - Realizar a implementação e testes de soluções (25-30%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-sales
-- dynamics-marketing
-- dynamics-field-service
-- dynamics-customer-service
 exams:
 - uid: exam.mb-210
 - uid: exam.mb-220
 - uid: exam.mb-230
 - uid: exam.mb-240
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
 courses:
 - uid: course.mb-200t01
 - uid: course.mb-200t02

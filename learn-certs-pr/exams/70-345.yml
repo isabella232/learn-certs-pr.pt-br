@@ -1,19 +1,19 @@
 ### YamlMime:Examination
-title: Criação e implementação Microsoft Exchange Server 2016
+title: Designing and Deploying Microsoft Exchange Server 2016
 metadata:
-  title: 'Exame 70-345: Criação e implementação Microsoft Exchange Server 2016'
-  description: 'Exame 70-345: Criação e implementação Microsoft Exchange Server 2016'
+  title: 'Exame 70-345: Designing and Deploying Microsoft Exchange Server 2016'
+  description: 'Exame 70-345: Designing and Deploying Microsoft Exchange Server 2016'
 uid: exam.70-345
 displayName: 70-345
-summary: |-
+summary: >-
   Os candidatos a este exame são consultores de TI ou administradores seniores que atuam como líderes técnicos em uma equipe de administradores. Os candidatos devem estar familiarizados com os requisitos de integração do Microsoft Exchange Server com o Skype for Business e o Office 365.
+
 
   Os candidatos devem ter um mínimo de três anos de experiência na concepção e gerenciamento de servidores Exchange e serem responsáveis pelo ambiente de mensagens do Exchange 2016 em um ambiente corporativo.
 subTitle: Os candidatos a este exame são consultores de TI ou administradores seniores que atuam como líderes técnicos em uma equipe de administradores. Os candidatos devem estar familiarizados com os requisitos de integração do Microsoft Exchange Server com o Skype for Business e o Office 365.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8do
 practiceTestUrl: https://www.mindhub.com/70-345-designing-and-deploying-microsoft-exchange/p/MU-70-345?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=345&examname=Criação%20e%20implementação%20Microsoft%20Exchange%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2F70-345
 locales:
 - en
 - es
@@ -23,7 +23,8 @@ locales:
 - de
 - ja
 - pt-br
-levels: 
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=345&examname=Designing%20and%20Deploying%20Microsoft%20Exchange%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2F70-345
+levels:
 - advanced
 skills:
 - Planejar, implementar, gerenciar e solucionar problemas de bancos de dados de caixa de correio (15-20%)
