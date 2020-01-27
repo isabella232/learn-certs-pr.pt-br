@@ -14,12 +14,16 @@ subTitle: 'Este exame mede a sua capacidade de compreender os seguintes conceito
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-900&examname=Exame%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-900&examname=Exame%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-900
 levels:
 - beginner
 skills:
@@ -40,7 +44,7 @@ relatedCertifications:
     uid: certification.azure-fundamentals
 resources:
 - title: Certificação Caminhos de Aprendizagem
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Azure Fundamentals.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

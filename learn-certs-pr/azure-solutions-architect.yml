@@ -73,7 +73,7 @@ exams:
 - uid: exam.az-301
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: Descubra os recursos de treinamento para obter a Certificação Microsoft: Especialista em  Solutions Architect Azure.
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Solutions Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

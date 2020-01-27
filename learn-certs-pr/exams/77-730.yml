@@ -17,6 +17,9 @@ summary: >
 subTitle: Candidatos bem-sucedidos no teste do Access 2016 têm um entendimento fundamental sobre o ambiente do aplicativo. Eles entendem os princípios básicos de design de banco de dados e são capazes de concluir as tarefas independentemente. Eles conhecem e demonstram a correta aplicação dos principais recursos do Access 2016 e demonstram a habilidade em criar e manter objetos de bancos de dados básicos do Access, incluindo tabelas, relações, formulários de entrada de dados, relatórios multinível e consultas multitabela.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -26,10 +29,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
-providers:
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

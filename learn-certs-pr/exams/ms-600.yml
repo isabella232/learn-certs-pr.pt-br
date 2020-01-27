@@ -18,7 +18,7 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-600&examname=Exame%20MS-600:%20Desenvolvendo%20Aplicativos%20e%20Soluções%20com%20o%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-600
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-600&examname=Exame%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-600
 levels:
 - intermediate
 skills:
@@ -38,7 +38,7 @@ relatedCertifications:
     uid: certification.m365-developer-associate
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Desenvolvedor Associado.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

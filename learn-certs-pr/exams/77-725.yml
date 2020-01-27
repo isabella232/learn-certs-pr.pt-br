@@ -9,6 +9,9 @@ summary: "Candidatos bem-sucedidos para o teste do Word 2016 têm conhecimento f
 subTitle: Candidatos bem-sucedidos para o teste do Word 2016 têm conhecimento fundamental do ambiente do Word e capacidade para concluir tarefas de maneira independente. Eles demonstram a aplicação correta dos principais recursos do Word 2016 criando e editando dois ou três documentos de páginas para uma variedade de finalidades e situações. Entre os exemplos de documentos, estão relatórios de aparência profissional, boletins informativos com diversas colunas, currículos e correspondências empresariais.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XVfI
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ru
 - th
 - tr
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

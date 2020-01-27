@@ -17,6 +17,9 @@ summary: >
 subTitle: Candidatos bem-sucedidos criarão e editarão mensagens de e-mail com aparência profissional, manter calendários em fusos horários e programar tarefas para uma variedade de fins e situações. Os candidatos usarão o Outlook 2016 para melhorar a correspondência profissional, criar calendários e programar compromissos. Exemplos de aplicações incluem coordenação de recursos de construção, envio de mensagens para campanhas de marketing, planejamento de reuniões de equipe e designação de itens de ação de reunião.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
+providers:
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
@@ -27,7 +30,6 @@ locales:
 - ja
 - ko
 - nb
-scheduleExamUrl: http://www.certiport.com/locator
 levels:
 - intermediate
 skills:

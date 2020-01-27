@@ -22,7 +22,7 @@ locales:
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=DP-200&examname=Exame%20DP-200:%20Implementando%20uma%20solução%20de%20dados%20do%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fdp-200
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=DP-200&examname=Exame%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 levels:
 - intermediate
 skills:
@@ -62,7 +62,7 @@ relatedCertifications:
     uid: certification.azure-data-engineer
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Azure Data Engineer Associate.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Data Engineer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

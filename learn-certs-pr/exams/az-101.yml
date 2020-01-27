@@ -35,7 +35,7 @@ relatedCertifications:
     uid: certification.azure-administrator
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: Descubra os recursos de treinamento para obter a Certificação Microsoft: Administrador Associado Azure.
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

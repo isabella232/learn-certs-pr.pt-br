@@ -25,7 +25,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJV
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MD-101&examname=Exame%20MD-101:%20Gerenciamento%20de%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmd-101
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MD-101&examname=Exame%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 levels:
 - intermediate
 skills:
@@ -49,7 +49,7 @@ relatedCertifications:
     uid: certification.modern-desktop
 resources:
 - title: Certificação Caminhos de Aprendizagem
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Modern Desktop Administrator Associate.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

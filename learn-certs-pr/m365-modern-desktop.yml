@@ -40,7 +40,7 @@ exams:
 - uid: exam.md-101
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: Descubra os recursos de treinamento para obter a Certificação Microsoft: Administrador Associado Modern Desktop.
+  description: 'Descubra os recursos de treinamento para obter a Microsoft 365 Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
