@@ -5,24 +5,14 @@ metadata:
   description: 'Exame MS-202: Microsoft 365 Messaging Administrator Certification Transition'
 uid: exam.ms-202
 displayName: MS-202
-summary: |-
-  <div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAME FOI DESATIVADO EM 30 DE SETEMBRO DE 2019. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão<br/><br/></div>
-       
-  Este exame destina-se apenas aos candidatos que fizeram o [Exame 70-345&#58;](https://www.microsoft.com/learning/exam-70-345.aspx) Criação e implementação do Microsoft Exchange Server 2016. Se você não fez o Exame 345, não receberá uma certificação ao fazer este exame.
-
-  Os candidatos a este exame são Messaging Administrators que implementam, configuram, gerenciam, solucionam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes corporativos no local e na nuvem.
-
-  Os Messaging Administrators são responsáveis por gerenciar a limpeza, a infraestrutura de mensagens, a configuração híbrida, a migração, a recuperação de desastres, a alta disponibilidade e o acesso do cliente.
-
-  Os Messaging Administrators colaboram com o Security Administrator e o Microsoft 365 Enterprise Administrator para implementar uma topologia híbrida segura que atenda às necessidades de negócios de uma organização moderna.
-
-  O Messaging Administrator deve ter um conhecimento prático dos tipos de autenticação, licenciamento e integração com aplicativos M365.
+summary: "<div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAME FOI DESATIVADO EM 30 DE SETEMBRO DE 2019. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão<br/><br/></div>\n     \nEste exame destina-se apenas aos candidatos que fizeram o [Exame 70-345&#58;](https://www.microsoft.com/learning/exam-70-345.aspx) Criação e implementação do Microsoft Exchange Server 2016. Se você não fez o Exame 345, não receberá uma certificação ao fazer este exame.\n\nOs candidatos a este exame são Messaging Administrators que implementam, configuram, gerenciam, solucionam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes corporativos no local e na nuvem.\n\nOs Messaging Administrators são responsáveis por gerenciar a limpeza, a infraestrutura de mensagens, a configuração híbrida, a migração, a recuperação de desastres, a alta disponibilidade e o acesso do cliente.\n\nOs Messaging Administrators colaboram com o Security Administrator e o Microsoft 365 Enterprise Administrator para implementar uma topologia híbrida segura que atenda às necessidades de negócios de uma organização moderna.\n\nO Messaging Administrator deve ter um conhecimento prático dos tipos de autenticação, licenciamento e integração com aplicativos M365."
 subTitle: 'Este exame destina-se apenas aos candidatos que fizeram o Exame 70-345: Criação e implementação Microsoft Exchange Server 2016. Se você não fez o Exame 345, não receberá uma certificação ao fazer este exame.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8R
-scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/
+retirementDate: 09/30/2019
 levels:
 - intermediate
 skills:
@@ -31,14 +21,13 @@ skills:
 - Gerenciar destinatários e dispositivos (10-15%)
 - Planejar e implementar uma configuração e migração híbrida (20-25%)
 - Proteger o ambiente de mensagens (35-40%)
-retirementDate: 09/30/2019
 roles:
 - administrator
-products:
-- m365
 exams:
 - uid: exam.ms-200
 - uid: exam.ms-201
+products:
+- m365
 relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator

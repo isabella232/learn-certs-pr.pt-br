@@ -5,22 +5,27 @@ metadata:
   description: 'Exame MB-310: Microsoft Dynamics 365 Finance'
 uid: exam.mb-310
 displayName: MB-310
-summary: |-
+summary: >-
   Os candidatos a este exame são consultores funcionais que analisam os requisitos de negócio e transformam esses requisitos em processos de negócio plenamente realizados e soluções que implementam as práticas recomendadas da indústria. Os candidatos atuam como um recurso fundamental na implementação e configuração de aplicativos para atender aos requisitos de negócios.
+
   <br/>
+
 
   Os candidatos a este exame têm uma compreensão fundamental dos princípios contábeis e operações financeiras de empresas, serviço ao cliente, serviço de campo, manufatura, varejo e conceitos de gestão da cadeia de suprimentos.
+
   <br/>
 
+
   Os candidatos a este exame geralmente se especializam em um ou mais conjuntos de recursos do Microsoft Dynamics 365, incluindo finanças, manufatura e gestão de cadeia de suprimentos.
+
 
   Os candidatos devem ter conhecimentos de princípios e práticas contábeis básicas.
 subTitle: 'Este exame avalia a sua capacidade de realizar as seguintes tarefas técnicas: instalar e configurar gestão financeira, gerenciar e aplicar processos comuns, implementar e gerenciar contas a pagar e a receber e gerenciar orçamentos e ativos fixos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHU
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-310&examname=Exame%20MB-310:%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-310
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-310&examname=Exame%20MB-310:%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-310
 levels:
 - intermediate
 skills:
@@ -30,11 +35,11 @@ skills:
 - Gerenciar orçamento e imobilizados (15-20%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-finance
 exams:
 - uid: exam.mb-300
+products:
+- dynamics
+- dynamics-finance
 courses:
 - uid: course.mb-310t01
 - uid: course.mb-310t02

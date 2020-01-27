@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificação Microsoft: Power Apps + Dynamics 365 Developer Associate'
+title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
 metadata:
-  title: 'Certificação Microsoft: Power Apps + Dynamics 365 Developer Associate'
+  title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
   description: Os desenvolvedores que trabalham com o Microsoft Power Apps e o Dynamics 365 são responsáveis por projetar, desenvolver, proteger e expandir uma implementação do Dynamics 365. Os candidatos implementam componentes da solução que inclui aprimoramentos de aplicativo, experiência de usuário personalizada, integrações de sistema, conversões de dados, automação de processo personalizada e visualizações personalizadas.
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Os desenvolvedores que trabalham com o Microsoft Power Apps e o Dynamics 365 são responsáveis por projetar, desenvolver, proteger e expandir uma implementação do Dynamics 365. Os candidatos implementam componentes da solução que inclui aprimoramentos de aplicativo, experiência de usuário personalizada, integrações de sistema, conversões de dados, automação de processo personalizada e visualizações personalizadas.
+summary: Os desenvolvedores que trabalham com o Microsoft Power Apps e o Dynamics 365 são responsáveis por projetar, desenvolver, proteger e expandir uma implementação do Dynamics 365. Os candidatos implementam componentes da solução que inclui aprimoramentos de aplicativo, experiência de usuário personalizada, integrações de sistema, conversões de dados, automação de processo personalizada e visualizações personalizadas.
 subTitle: Os desenvolvedores que trabalham com o Microsoft Power Apps e o Dynamics 365 são responsáveis por projetar, desenvolver, proteger e expandir uma implementação do Dynamics 365.
 levels:
 - intermediate

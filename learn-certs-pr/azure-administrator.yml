@@ -1,12 +1,11 @@
 ### YamlMime:Certification
-title: 'Certificação Microsoft: Azure Administrator Associate'
+title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
-  title: 'Certificação Microsoft: Azure Administrator Associate'
-  description: 'Azure Administrators implementam, monitoram e mantém soluções do Microsoft Azure, incluinfo os principais serviços relacionados à computação, armazenamento, rede e segurança.'
+  title: 'Microsoft Certified: Azure Administrator Associate'
+  description: Azure Administrators implementam, monitoram e mantém soluções do Microsoft Azure, incluinfo os principais serviços relacionados à computação, armazenamento, rede e segurança.
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  Azure Administrators implementam, monitoram e mantém soluções do Microsoft Azure, incluinfo os principais serviços relacionados à computação, armazenamento, rede e segurança. [Saiba mais sobre as alterações a esta certificação que entraram em vigor em 01 de maio de 2019.](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
+summary: Azure Administrators implementam, monitoram e mantém soluções do Microsoft Azure, incluinfo os principais serviços relacionados à computação, armazenamento, rede e segurança. [Saiba mais sobre as alterações a esta certificação que entraram em vigor em 01 de maio de 2019.](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
 subTitle: Azure Administrators implementam, monitoram e mantém soluções do Microsoft Azure, incluinfo os principais serviços relacionados à computação, armazenamento, rede e segurança.
 levels:
 - intermediate
@@ -38,7 +37,7 @@ exams:
 - uid: exam.az-103
 resources:
 - title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Certificação Microsoft: Administrador Associado Azure.'
+  description: Descubra os recursos de treinamento para obter a Certificação Microsoft: Administrador Associado Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

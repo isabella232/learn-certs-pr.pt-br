@@ -1,24 +1,27 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+title: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)
 metadata:
   title: 'Exame MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
   description: 'Exame MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
 uid: exam.mb-600
 displayName: MB-600
-summary: |-
+summary: >-
   Os Solution Architects para aplicativos controlados por modelos do Microsoft Power Apps no Dynamics 365 lideram implementações bem-sucedidas e se concentram em como as soluções atendem às necessidades técnicas e de negócios mais abrangentes das organizações.
+
 
   O Solution Architect tem conhecimento funcional e técnico dos aplicativos controlados por modelos da Plataforma Power no Dynamics 365, como Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing e Dynamics 365 Sales, soluções em nuvem da Microsoft e tecnologias de terceiros. O Solution Architect aplica conhecimento e experiência durante o projeto como um todo. O Solution Architect realiza trabalho proativo e preventivo para aumentar o valor do investimento do cliente e promover a saúde organizacional. Essa função requer a capacidade de identificar oportunidades para resolver problemas de negócios.
 
+
   Os Solution Architects têm experiência em disciplinas funcionais e técnicas da Plataforma Power e aplicativos controlados por modelos no Dynamics 365. Os Solution Architects devem poder facilitar as decisões do projeto por meio do desenvolvimento, configuração, integração, infraestrutura, segurança, disponibilidade, armazenamento e gerência da mudança. Essa função equilibra as necessidades de negócios de um projeto, ao mesmo tempo em que atende aos requisitos funcionais e não funcionais.
-  
+
+
   <div style="color:red"><br/><strong>OBSERVAÇÃO&#58; Este exame não estará disponível até 27 de janeiro de 2020</strong></div>
 subTitle: 'Esse exame mede a sua capacidade de realizar as seguintes tarefas técnicas: realizar a previsão de soluções e análise de requisitos; arquitetar uma solução; e implementar a solução.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-600&examname=Exame%20MB-600:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-600
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-600&examname=Exame%20MB-600:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-600
 levels:
 - advanced
 skills:

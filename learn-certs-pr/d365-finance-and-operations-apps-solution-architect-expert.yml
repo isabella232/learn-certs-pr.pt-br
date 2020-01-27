@@ -1,13 +1,14 @@
 ### YamlMime:Certification
-title: 'Certificação Microsoft: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
 metadata:
-  title: 'Certificação Microsoft: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+  title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
   description: Os Solution Architects para aplicativos de Finanças e Operações do Microsoft Dynamics 365 são consultores confiáveis que consultam organizações e membros da equipe de implementação para refinar as necessidades de negócios em uma solução bem definida e econômica.
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: |-
+summary: >-
   Os Solution Architects para aplicativos de Finanças e Operações do Microsoft Dynamics 365 são consultores confiáveis que consultam organizações e membros da equipe de implementação para refinar as necessidades de negócios em uma solução bem definida e econômica.
-  
+
+
   <div style="color:red"><br/><strong>OBSERVAÇÃO&#58; Esta certificação não estará disponível até 27 de janeiro de 2020</strong></div>
 subTitle: Os Solution Architects para aplicativos de Finanças e Operações do Microsoft Dynamics 365 são consultores confiáveis que consultam organizações e membros da equipe de implementação para refinar as necessidades de negócios em uma solução bem definida e econômica.
 levels:
@@ -21,9 +22,6 @@ roles:
 type: role-based
 products:
 - dynamics
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
-exams:
-- uid: exam.mb-700
 prerequisites:
 - uid: certification.d365-functional-consultant-financials
   isOptional: false
@@ -33,6 +31,9 @@ prerequisites:
   isOptional: false
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   isOptional: false
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g0Q
+exams:
+- uid: exam.mb-700
 resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

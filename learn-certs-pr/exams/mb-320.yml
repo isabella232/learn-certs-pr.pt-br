@@ -5,22 +5,27 @@ metadata:
   description: 'Exame MB-320: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
 uid: exam.mb-320
 displayName: MB-320
-summary: |-
+summary: >-
   Os candidatos a este exame são consultores funcionais que analisam os requisitos de negócio e transformam esses requisitos em processos de negócio plenamente realizados e soluções que implementam as práticas recomendadas da indústria. Os candidatos atuam como um recurso fundamental na implementação e configuração de aplicativos para atender aos requisitos de negócios.
+
   <br/>
+
 
   Os candidatos a este exame têm uma compreensão fundamental dos princípios contábeis e operações financeiras de empresas, serviço ao cliente, serviço de campo, manufatura, varejo e conceitos de gestão da cadeia de suprimentos.
+
   <br/>
 
+
   Os candidatos a este exame geralmente se especializam em um ou mais conjuntos de recursos do Microsoft Dynamics 365, incluindo finanças, manufatura e gestão de cadeia de suprimentos.
+
 
   Os candidatos devem ter conhecimentos de princípios e práticas contábeis básicas.
 subTitle: 'Este exame avalia a sua capacidade de realizar as seguintes tarefas técnicas: instalar e configurar a manufatura, criar e gerenciar a produção e ordens simplificadas e criar, processar e gerenciar pedidos de lotes de produção.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVs
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-320&examname=Exame%20MB-320:%20Microsoft%20Dynamics%20365%20Supply%20Chain%20Management,%20Manufacturing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-320
 locales:
 - en
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-320&examname=Exame%20MB-320:%20Microsoft%20Dynamics%20365%20Supply%20Chain%20Management,%20Manufacturing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmb-320
 levels:
 - intermediate
 skills:
@@ -29,11 +34,11 @@ skills:
 - Criar, processar e gerenciar ordens de lotes de produção (40-45%)
 roles:
 - functional-consultant
-products: 
-- dynamics
-- dynamics-finance-operations
 exams:
 - uid: exam.mb-300
+products:
+- dynamics
+- dynamics-finance-operations
 courses:
 - uid: course.mb-320t01
 - uid: course.mb-320t02
