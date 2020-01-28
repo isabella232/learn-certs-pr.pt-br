@@ -64,7 +64,7 @@ Esta oferta inclui todos os exames básicos de certificação da Microsoft com e
 - Esta oferta de exame é intransferível e será anulada se for alterada, revisada ou transferida.
 - Esta oferta de exame é oferecida apenas às pessoas que se inscreveram e participaram de um evento oficial do Microsoft Ignite 2019 ou Microsoft Ignite The Tour 2019-2020.
 
-Para obter informações adicionais, consulte os [Termos de Uso da Microsoft](https://www.microsoft.com/pt-br/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1) completos
+Para obter informações adicionais, consulte os [Termos de Uso da Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx?SilentAuth=1) completos
 
 ## FAQ externo - Oferta de exame gratuito para MS Ignite e The Tour
 
@@ -76,7 +76,7 @@ Para obter informações adicionais, consulte os [Termos de Uso da Microsoft](ht
 
 **P: Quais exames de certificação são qualificados para esta oferta?**
 
-**R:** Esta oferta inclui todos os exames básicos de certificação da Microsoft com em funções e especialidades. Para obter uma lista dos exames de certificação qualificados, consulte a seção "Exames qualificados para esta oferta" em nossa página de detalhes da oferta: [https://docs.microsoft.com/pt-br/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/pt-br/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
+**R:** Esta oferta inclui todos os exames básicos de certificação da Microsoft com em funções e especialidades. Para obter uma lista dos exames de certificação qualificados, consulte a seção "Exames qualificados para esta oferta" em nossa página de detalhes da oferta: [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#eligible-exams-for-this-offer).
 
 **P: Caso tenha me inscrito em um evento qualificado, mas não participei pessoalmente, ainda posso resgatar esta oferta?**
 
@@ -98,7 +98,7 @@ Para obter informações adicionais, consulte os [Termos de Uso da Microsoft](ht
 
 **P: Como faço para agendar meu exame gratuito com esta oferta?**
 
-**R:** Para obter instruções sobre como agendar seu exame gratuito, acesse [https://docs.microsoft.com/pt-br/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/pt-br/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam).
+**R:** Para obter instruções sobre como agendar seu exame gratuito, acesse [https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam](https://docs.microsoft.com/learn/certifications/microsoft-ignite-free-certification-exam-offer#how-to-claim-your-free-exam).
 
 **P: Ao verificar a qualificação para o desconto no exame, cometi um erro ao declarar que não sou qualificado por ser funcionário do governo, mas não sou. O que devo fazer?**
 
@@ -111,7 +111,7 @@ Para obter informações adicionais, consulte os [Termos de Uso da Microsoft](ht
 **P: Tenho a opção de fazer o exame agendado pessoalmente ou online?**
 
 **R:** Sim, você tem a opção de fazer o exame agendado através da Pearson Vue pessoalmente em um centro de testes local ou via online supervisionado (OP). Para saber mais sobre os exames online, acesse
-[https://www.microsoft.com/pt-br/learning/online-exams.aspx](https://www.microsoft.com/pt-br/learning/online-exams.aspx)
+[https://www.microsoft.com/learning/online-exams.aspx](https://www.microsoft.com/learning/online-exams.aspx)
 
 ### Política de cancelamento e reagendamento
 
@@ -121,14 +121,14 @@ Para obter informações adicionais, consulte os [Termos de Uso da Microsoft](ht
 
 **P: Será cobrada alguma taxa para reagendar ou cancelar minha inscrição no exame?**
 
-**R:** Não há cobrança se você reagendar ou cancelar a inscrição para o exame pelo menos seis dias úteis antes da data de reagendamento. Se você precisar reagendar o exame cinco dias úteis antes da data do exame, deverá pagar uma taxa de reagendamento. Você não poderá reagendar ou cancelar o exame dois dias antes da data de realização do exame agendado. Se você não comparecer ao exame, não terá direito ao exame gratuito desta oferta. Para mais informações, consulte a [Política de cancelamento e reagendamento](https://docs.microsoft.com/pt-br/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**R:** Não há cobrança se você reagendar ou cancelar a inscrição para o exame pelo menos seis dias úteis antes da data de reagendamento. Se você precisar reagendar o exame cinco dias úteis antes da data do exame, deverá pagar uma taxa de reagendamento. Você não poderá reagendar ou cancelar o exame dois dias antes da data de realização do exame agendado. Se você não comparecer ao exame, não terá direito ao exame gratuito desta oferta. Para mais informações, consulte a [Política de cancelamento e reagendamento](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 **P: O que acontece se eu perder a data do exame e não o reagendar ou cancelar?**
 
-**R:** Se você perdeu a data do exame e não o reagendou ou cancelou pelo menos 24 horas antes da data marcada, não terá direito ao exame gratuito desta oferta. Para mais informações, consulte a [Política de cancelamento e reagendamento](https://docs.microsoft.com/pt-br/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
+**R:** Se você perdeu a data do exame e não o reagendou ou cancelou pelo menos 24 horas antes da data marcada, não terá direito ao exame gratuito desta oferta. Para mais informações, consulte a [Política de cancelamento e reagendamento](https://docs.microsoft.com/learn/certifications/certification-exam-policies#cancellation-and-reschedule-policy).
 
 ### Política de reaplicação
 
 **P: Posso refazer um exame gratuitamente caso não tenha resgatado a oferta de exame de certificação gratuito?**
 
-**R:** Não, a oferta é válida apenas para um evento e as reaplicações de exames devem ser agendadas separadamente. Para obter mais informações sobre como refazer exames de certificação, consulte nossa [Política de reaplicação de exame](https://www.microsoft.com/pt-br/learning/certification-exam-policies.aspx#policies-1).
+**R:** Não, a oferta é válida apenas para um evento e as reaplicações de exames devem ser agendadas separadamente. Para obter mais informações sobre como refazer exames de certificação, consulte nossa [Política de reaplicação de exame](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1).

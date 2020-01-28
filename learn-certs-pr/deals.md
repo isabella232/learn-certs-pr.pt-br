@@ -68,11 +68,11 @@ Aproveite os descontos significativos em exames de Microsoft Certified Professio
 
 **P. Posso fazer um exame online com o voucher de exame em um Exam Replay?**
 
-**R.** Sim, se os exames online estiverem disponíveis, eles podem ser feitos com um voucher de Exam Replay. [Saiba mais sobre os exames online](https://www.microsoft.com/pt-br/learning/online-proctored-exams.aspx) para Certificação Microsoft.
+**R.** Sim, se os exames online estiverem disponíveis, eles podem ser feitos com um voucher de Exam Replay. [Saiba mais sobre os exames online](https://www.microsoft.com/learning/online-proctored-exams.aspx) para Certificação Microsoft.
 
 **P. Posso programar meu exame inicial e refazê-lo ao mesmo tempo?**
 
-**R.** Não. Você só poderá se inscrever para refazer o exame após ter sido reprovado no exame inicial. Para obter mais detalhes, consulte a [política para reaplicação de exame de Certificação Microsoft](https://www.microsoft.com/pt-br/learning/certification-exam-policies.aspx).
+**R.** Não. Você só poderá se inscrever para refazer o exame após ter sido reprovado no exame inicial. Para obter mais detalhes, consulte a [política para reaplicação de exame de Certificação Microsoft](https://www.microsoft.com/learning/certification-exam-policies.aspx).
 
 **P. Como ativo um teste prático e por quanto tempo ele é válido?**
 
