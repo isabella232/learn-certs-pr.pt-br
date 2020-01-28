@@ -15,7 +15,7 @@ As soluções de treinamento e certificação da Microsoft ajudam empresas e ins
 As soluções de treinamento e certificação da Microsoft estão disponíveis através dos seguintes programas de Licenciamento por Volume da Microsoft:
 
 * **Licenciamento por Volume da Microsoft**. Um programa de aquisição de software da Microsoft personalizável que concede acesso com desconto a soluções de treinamento e certificação da Microsoft.
-* **[Microsoft Volume Licensing for Software Assurance](https://www.microsoft.com/pt-br/learning/software-assurance-benefits.aspx)**. Um programa econômico que concede acesso a e-learning específico do Software Assurance e treinamento conduzido por instrutor através de sua cobertura existente do Software Assurance.
+* **[Microsoft Volume Licensing for Software Assurance](https://www.microsoft.com/learning/software-assurance-benefits.aspx)**. Um programa econômico que concede acesso a e-learning específico do Software Assurance e treinamento conduzido por instrutor através de sua cobertura existente do Software Assurance.
 
 Ao consolidar a compra, orçamento e rastreamento dos produtos de treinamento e certificação da Microsoft descritos nesta página com outras compras de tecnologia da Microsoft por meio do Licenciamento por volume, sua organização pode obter, em média, uma economia de custo de 20 a 80 por cento (dependendo do produto e do nível do contrato de Licenciamento por volume).
 
@@ -94,7 +94,7 @@ Ao consolidar a compra, orçamento e rastreamento dos produtos de treinamento e 
 
 ## Perguntas frequentes
 
-As perguntas a seguir tratam especificamente de Licenciamento por Volume para soluções de treinamento e certificação da Microsoft. Visite as páginas [visão geral da certificação](https://www.microsoft.com/pt-br/learning/certification-overview.aspx) ou [políticas de exames e perguntas frequentes](https://www.microsoft.com/pt-br/learning/certification-exam-policies.aspx) para obter respostas a perguntas gerais sobre a Certificação Microsoft ou os exames.
+As perguntas a seguir tratam especificamente de Licenciamento por Volume para soluções de treinamento e certificação da Microsoft. Visite as páginas [visão geral da certificação](https://www.microsoft.com/learning/certification-overview.aspx) ou [políticas de exames e perguntas frequentes](https://www.microsoft.com/learning/certification-exam-policies.aspx) para obter respostas a perguntas gerais sobre a Certificação Microsoft ou os exames.
 
 ### **Soluções de treinamento e certificação da Microsoft**
 
@@ -154,7 +154,7 @@ As soluções de treinamento e certificação da Microsoft oferecem preços de u
 Quanto mais códigos a sua organização adquirir, maior será o desconto por volume. Recomendamos que você use um dos seguintes recursos para determinar as necessidades de treinamento da sua organização e desenvolver um plano de aprendizagem que se alinhe com os objetivos de negócio da sua empresa.
 
 - [Envie um e-mail para a Ajuda de Licenciamento por Volume das soluções de treinamento e certificação da Microsoft](mailto:mslvlhlp@microsoft.com)
-- [Encontre o seu Microsoft Certified Partner local para as soluções de treinamento e certificação da Microsoft](https://www.microsoft.com/pt-br/learning/find-partner.aspx)
+- [Encontre o seu Microsoft Certified Partner local para as soluções de treinamento e certificação da Microsoft](https://www.microsoft.com/learning/find-partner.aspx)
 
 **P: Quantos vouchers de exames devo solicitar?**
 
@@ -172,7 +172,7 @@ Lembre-se de que é importante para a sua equipe obter experiência prática com
 
 **P: Quais opções de currículo estão disponíveis para se preparar para os exames incluídos no Microsoft Certified Professional (MCP) Pacote de Aulas, Microsoft Office Specialist (MOS) Pacote de Site  e Microsoft Technology Associate (MTA) Pacote de Site?**
 
-Cada exame tem materiais de preparação disponíveis. Escolha o exame na [nova lista de exames](https://www.microsoft.com/pt-br/learning/exam-list.aspx) e procure pelas opções de preparação disponíveis para ele.
+Cada exame tem materiais de preparação disponíveis. Escolha o exame na [nova lista de exames](https://www.microsoft.com/learning/exam-list.aspx) e procure pelas opções de preparação disponíveis para ele.
 
 **P: É necessário que a minha instituição tenha um Microsoft Imagine Academy para solicitar um pacote de treinamentos ou de sites de exames de Certificação Microsoft por meio do Licenciamento por Volume?**
   
