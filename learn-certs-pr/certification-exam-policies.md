@@ -540,10 +540,10 @@ Nós valorizamos a sua opinião e confiamos nela para tornar os exames da Certif
 
 Se você precisar de mais tempo porque o exame não está disponível no seu idioma nativo, solicite outro enviando o [formulário Inglês como Segunda Língua](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Siga as instruções no formulário. 
 
-Se você precisar de equipamento especial ou outra acomodação ao realizar um exame, poderá solicitar uma acomodação por meio da [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) usando o “Sistema de Solicitação de Ajustes Razoáveis” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). O sistema de solicitação de ajustes razoáveis é um sistema on-line seguro para solicitar acomodações e enviar documentação de suporte.
+Se você precisar de equipamento especial ou outra acomodação ao realizar um exame, poderá solicitar uma acomodação por meio da [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) usando o “Sistema de Solicitação de Ajustes Razoáveis” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). O sistema de solicitação de ajustes razoáveis é um sistema on-line seguro para solicitar acomodações e enviar documentação de suporte.
 
 - Se você é um usuário iniciante no sistema de solicitações, precisará criar um nome de usuário e senha. Para criar um nome de usuário, clique no link “Registrar-se” na tela de login. Observe que o sistema exige que você tenha uma conta de e-mail ativa.
-- A Pearson VUE usa esse sistema seguro porque você precisará fazer o upload da documentação de suporte. Se você ainda não o fez, forneça ao seu avaliador (médico, psicólogo) uma cópia das [Diretrizes para avaliadores](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) para avaliar a sua deficiência. Seu avaliador deve garantir que a documentação fornecida atenda às nossas diretrizes. Na maioria dos casos, seu avaliador será um psicólogo ou médico que administrou uma série de testes psicológicos, educacionais ou médicos e forneceu uma cópia de um relatório de diagnóstico ou de uma carta detalhada.
+- A Pearson VUE usa esse sistema seguro porque você precisará fazer o upload da documentação de suporte. Se você ainda não o fez, forneça ao seu avaliador (médico, psicólogo) uma cópia das [Diretrizes para avaliadores](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) para avaliar a sua deficiência. Seu avaliador deve garantir que a documentação fornecida atenda às nossas diretrizes. Na maioria dos casos, seu avaliador será um psicólogo ou médico que administrou uma série de testes psicológicos, educacionais ou médicos e forneceu uma cópia de um relatório de diagnóstico ou de uma carta detalhada.
 - **Aguarde 10 dias úteis para que a Pearson VUE possa analisar sua solicitação. Planeje sua solicitação de maneira apropriada.**
 - Depois que sua solicitação for analisada, você receberá um e-mail de resposta à sua solicitação. A resposta à consulta estará disponível na seção “Meus Documentos” em “Sistema de Solicitação de Ajustes Razoáveis” Se for aprovada, a resposta à pergunta fornecerá instruções para agendar seu exame com acessibilidade.
 - Se você não estiver satisfeito com a decisão sobre as acomodações do exame, poderá recorrer da decisão clicando no botão “Solicitar um recurso” na mesma seção em que a resposta à consulta é mostrada em “Sistema de Solicitação de Ajustes Razoáveis”.  Preencha e envie o formulário de recurso que aparece depois de clicar no botão. Os especialistas em deficiência analisam todas as solicitações de apelação.
@@ -621,7 +621,7 @@ Os treinadores certificados pela Microsoft trabalham com muitos candidatos na pr
 
 Você também pode querer perguntar como outras pessoas fazem essas tarefas, ler documentos técnicos, MSDN ou TechNet para obter informações adicionais sobre as tarefas que estão incluídas no exame e/ou explorar os recursos fornecidos na seção “Materiais de preparação” na página de detalhes do exame com links para todos os cursos online disponíveis, microaprendizagem, opções e um portal onde você pode encontrar opções de treinamento orientadas por instrutor em sua área.
 
-Além disso, os [Testes Práticos Oficiais da Microsoft](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) estão disponíveis para alguns de nossos exames de certificação. Eles podem fornecer mais informações sobre seus domínios e deficiências mais específicos. No entanto, passar em um teste de prática não garante que você passará no exame de certificação.
+Além disso, os [Testes Práticos Oficiais da Microsoft](https://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) estão disponíveis para alguns de nossos exames de certificação. Eles podem fornecer mais informações sobre seus domínios e deficiências mais específicos. No entanto, passar em um teste de prática não garante que você passará no exame de certificação.
 
 Se você fez o exame e não passou, priorize as competências a serem praticadas, concentrando-se em áreas em que seu desempenho se mostrou menor e em áreas que têm maior percentual das questões.
 
@@ -631,17 +631,17 @@ Visite a [página de registro do exame](https://www.microsoft.com/learning/certi
 
 **Preciso realizar o exame em inglês?**
 
-Os exames de Certificação Microsoft estão disponíveis em vários idiomas. No entanto, os candidatos que optarem pelo exame em inglês em vez de um exame em seu idioma nativo podem solicitar um tempo adicional. A aprovação do tempo adicional é fornecida segundo cada caso. Solicitações acomodações com acessibilidade da [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) ou da [Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm).
+Os exames de Certificação Microsoft estão disponíveis em vários idiomas. No entanto, os candidatos que optarem pelo exame em inglês em vez de um exame em seu idioma nativo podem solicitar um tempo adicional. A aprovação do tempo adicional é fornecida segundo cada caso. Solicitações acomodações com acessibilidade da [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) ou da [Certiport](https://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm).
 
 **Quais as acomodações com acessibilidade para pessoas com algum tipo de deficiência?**
 
-A Microsoft se dedica em desenvolver exames que sejam de acesso a todos, incluindo quem sofre de alguma deficiência. Para obter uma lista de acomodações disponíveis, visite a página [Acomodações](http://www.pearsonvue.com/accommodations/).
+A Microsoft se dedica em desenvolver exames que sejam de acesso a todos, incluindo quem sofre de alguma deficiência. Para obter uma lista de acomodações disponíveis, visite a página [Acomodações](https://www.pearsonvue.com/accommodations/).
 
 **Quanto custam os exames?**
 
 Os exames de Especialista e Associado normalmente custam US$ 165, mas são precificados de acordo com os valores da moeda em países e regiões específicos. Os preços dos exames estão sujeitos a alterações. Em alguns países e regiões, taxas adicionais podem ser aplicadas.
 
-- Para preços exatos do Microsoft Office Specialist (MOS), entre em contato com a [Certiport](http://www.certiport.com/).
+- Para preços exatos do Microsoft Office Specialist (MOS), entre em contato com a [Certiport](https://www.certiport.com/).
 
 - Para os demais exames, [siga o link dos exames](https://www.microsoft.com/learning/exam-list.aspx) para localizar a página do exame, que inclui os valores do mesmo.
 
@@ -653,7 +653,7 @@ Caso os seus comentários sejam referentes a um curso da Microsoft ministrado po
 
 Se você tiver dúvidas sobre a precisão técnica de item específico, siga o  processo de [contestação de item de exame](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5).
 
-Para informar um problema sobre um centro de testes ou dificuldades técnicas vividas durante o exame, entre em contato com o atendimento ao cliente da [Pearson VUE](http://www.pearsonvue.com/microsoft/) ou da [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm).
+Para informar um problema sobre um centro de testes ou dificuldades técnicas vividas durante o exame, entre em contato com o atendimento ao cliente da [Pearson VUE](https://www.pearsonvue.com/microsoft/) ou da [Certiport](https://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm).
 
 Para outros tipos de feedback, entre em contato com o [Centro de Serviços Regional da Microsoft](https://www.microsoft.com/learning/help.aspx).
 
@@ -846,7 +846,7 @@ Assim que estiver pronto para refazer o exame, basta agendar normalmente. É nec
 
 Embora os exames de Certificação Microsoft forneçam comentários sobre as áreas em que os candidatos devem desenvolver suas competências mais a fundo, eles não são criados para fornecer comentários detalhados nem diagnósticos. Recomendamos que confira a seção “Habilidades medidas”, na página de detalhes do exame, e avalie com honestidade suas competências com relação ao que está sendo avaliado. A melhor maneira de fazer isso é praticando as tarefas listadas; anotando os desafios encontrados. Pratique até não encontrar mais esses desafios. Você também pode pedir ajuda a outras pessoas para realizar essas tarefas. Elas realizam a tarefa de forma diferente? Entenda por que eles fazem. Leia os relatórios técnicos, visite documentos etc. para obter outras informações sobre as tarefas que aparecem no exame. Explore os recursos fornecidos nas “Opções de preparação” na página de detalhes do exame, e Grupos de Estudo, que pode ser encontrada na parte inferior da página de detalhes do exame individual.
 
-Além disso, os [Testes Práticos Oficiais da Microsoft](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) estão disponíveis para alguns de nossos exames de certificação. Eles podem fornecer mais informações sobre seus domínios e deficiências mais específicos. No entanto, passar em um teste de prática não garante que você passará no exame de certificação.
+Além disso, os [Testes Práticos Oficiais da Microsoft](https://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) estão disponíveis para alguns de nossos exames de certificação. Eles podem fornecer mais informações sobre seus domínios e deficiências mais específicos. No entanto, passar em um teste de prática não garante que você passará no exame de certificação.
 
 **Qual é a política de reaplicação de exames?**
 
@@ -1066,7 +1066,7 @@ Se tiver perguntas gerais sobre o registro do exame, entre em contato com o [Cen
 
 **Como faço para solicitar uma acomodação?**
 
-Se você precisar de equipamento especial ou outra acomodação ao realizar um exame, poderá solicitar uma acomodação por meio da [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) usando o “Sistema de Solicitação de Ajustes Razoáveis” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Mais detalhes são fornecidos na seção Acomodações especiais ao fazer um exame acima.
+Se você precisar de equipamento especial ou outra acomodação ao realizar um exame, poderá solicitar uma acomodação por meio da [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) usando o “Sistema de Solicitação de Ajustes Razoáveis” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Mais detalhes são fornecidos na seção Acomodações especiais ao fazer um exame acima.
 
 **Por que preciso enviar documentação?**
 
