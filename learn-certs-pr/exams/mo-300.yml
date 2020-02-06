@@ -13,7 +13,7 @@ locales:
 - en
 providers:
   - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+    examUrl: https://www.certiport.com/locator
 levels:
 - intermediate
 skills:
@@ -39,7 +39,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
   description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
-  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de exames e perguntas frequentes
   description: Consulte as políticas do exame e as perguntas frequentes.
   href: ../certification-exam-policies.md
