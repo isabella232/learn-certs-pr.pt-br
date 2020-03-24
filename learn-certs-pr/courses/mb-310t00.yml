@@ -1,0 +1,530 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Finance
+metadata:
+  title: 'Course MB-310T00-A: Microsoft Dynamics 365 Finance'
+  description: 'Course MB-310T00-A: Microsoft Dynamics 365 Finance'
+uid: course.mb-310t00
+courseNumber: 'MB-310T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compreender e executar funções financeiras no Dynamics 365 Finance
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-finance
+exams:
+- uid: exam.mb-310
+summary: |-
+  Este curso aborda os aspectos financeiros do Dynamics 365: configurar e usar componentes financeiros essenciais, contas a pagar, contas a receber, coleções, orçamento, ativos fixos e funcionalidade adicional
+
+  #### Perfil do público
+  Um Consultor Funcional do Dynamics 365 for Finance and Operations é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+prerequisitesSection: |-
+  Competências básicas no Dynamics 365 Core
+outlineSection: |-
+  ### Módulo 1&#58; Gestão financeira
+  Neste módulo, você aprenderá alguns benefícios do gerenciamento financeiro do Dynamics 365 for Finance and Operations.
+  #### Lições
+  - Benefícios da gestão financeira
+  - Gestão financeira
+  - Resumo do módulo
+
+  Você pode se familiarizar com os módulos em Finanças e Operações relacionados ao gerenciamento financeiro e seus
+
+  ### Módulo 2&#58; Configurar moedas
+  Uma das primeiras e mais importantes etapas da implementação do gerenciamento financeiro no Dynamics 365 for Finance and Operations é a configuração da moeda. A configuração da moeda é uma etapa necessária na configuração do sistema e é usada para registrar transações financeiras. Este módulo explica o gerenciamento de moeda no Finance and Operations.
+  #### Lições
+  - Introdução
+  - Configurar moedas e conversões de entidades legais
+  - Configurar e importar taxas de câmbio
+  - Laboratório prático
+  - Resumo do módulo
+
+  Agora, você aprenderá sobre diferentes tipos de moedas em Finanças e Operações. Você também é fam
+
+  ### Módulo 3&#58; Crie calendários fiscais, anos e períodos
+  Antes de lançar transações, um novo ano fiscal deve ser dividido em períodos. Isso ocorre porque as transações não podem ser lançadas, a menos que um período seja criado para a data de lançamento e compartilhado entre várias entidades legais. Um benefício do compartilhamento de calendários fiscais é que ele suporta vários calendários fiscais para cada entidade legal.
+
+  O ano fiscal em Finanças e Operações pode ser definido para qualquer duração e dividido em qualquer número de períodos.
+  #### Lições
+  - Introdução
+  - Criar calendários fiscais, anos e períodos
+  - Criar intervalos de datas
+  - Laboratório prático
+  - Resumo do módulo
+
+  Neste módulo, você aprendeu como&#58; diferenciar entre livros contábeis e calendários fiscais, configurar e
+
+  ### Módulo 4&#58; Configurar plano de contas
+  Um plano de contas é um conjunto de contas principais no Finance and Operations que captura informações financeiras após o lançamento de um diário. Cada conta recebe um número de conta como um identificador exclusivo.
+  #### Lições
+  - Introdução
+  - Definir e configurar o plano de contas
+  - Definir e configurar as dimensões financeiras
+  - Definir e configurar estruturas e regras de conta
+  - Laboratórios práticos
+  - Resumo do módulo
+
+  Identificar os componentes necessários para o plano de contas.
+  - Definir e configurar o plano de contas.
+  - Definir e configurar as dimensões financeiras e conjuntos de dimensões.
+  - Configurar plano de contas, contas principais, categorias, modelos, alias de conta contábil e saldo
+  - Configurar estruturas de conta e regras avançadas.
+
+
+  ### Módulo 5&#58; Configurar razão e diários
+  Um diário é uma planilha que você pode usar antes de inserir manualmente os lançamentos no sistema. Quando você os configura corretamente, os diários permitem gerenciar de forma rápida e eficiente as publicações. Para usar um diário, você deve dar um nome ao diário e a configuração do razão, diário e publicação do módulo de Contabilidade geral.
+
+  Ao usar o diário da contabilidade diretamente ou através da área de trabalho de processamento da contabilidade, é possível executar atividades diárias como alguém ao qual foi atribuída uma função de segurança adequada para acessar a contabilidade.
+
+  Um nome de diário oferece aos líderes financeiros a capacidade de controlar a validação de entrada de dados e restringir a postagem de um nome de diário para usuários de maneira diferente.
+  #### Lições
+  - Diários e sua configuração
+  - Configurar configuração do razão e do diário
+  - Diários do usuário
+  - Laboratório prático
+  - Resumo do módulo
+
+  Diferentes tipos de periódicos e sua configuração.
+  - Como configurar o razão e a configuração de postagem.
+  - Como configurar e usar diários.
+
+
+  ### Módulo 6&#58; Configurar gerenciamento de caixa e banco
+  No Dynamics 365 for Finance and Operations, as organizações usam o módulo de gerenciamento de caixa e banco para criar e manter contas bancárias. A tabela de conta bancária contém um registro para cada conta bancária. Cada registro contém informações da conta bancária, como as seguintes&#58;
+  - Número de registro e número da conta
+  - Endereço
+  - Outras informações de contato
+  - Moeda
+  - Verifique a configuração
+  - Conta principal para lançamento
+
+  O Finance and Operations usa essas informações para processar todas as transações bancárias, como pagamentos e depósitos.
+  #### Lições
+  - Introdução
+  - Tipos e grupos de transações bancárias
+  - Configurar parâmetros de gerenciamento de caixa e banco
+  - Configurar bancos e cheques bancários
+  - Cheques de depósito e reembolso
+  - Fluxo de caixa
+  - Laboratórios práticos
+  - Resumo do módulo
+
+  Criar e configurar bancos.
+  - Criar e configurar layouts de banco.
+  - Configurar parâmetros de gerenciamento de caixa e banco.
+  - Configurar bancos de fornecedores e clientes.
+  - Configurar previsões e relatórios de fluxo de caixa.
+
+
+  ### Módulo 7&#58; Usar gerenciamento de caixa e banco
+  Este módulo aborda os principais procedimentos do módulo Gerenciamento de caixa e banco em Finanças e Operações.
+
+  Você aprende a trabalhar com os espaços de trabalho de gerenciamento de caixa e banco, como gerenciamento do banco e visões gerais de caixa. Os você também aprenderam sobre os processos e procedimentos para gerenciamento de caixa e banco, como fazer depósitos e cancelar pagamentos (depósitos).
+
+  O Finance and Operations fornece funcionalidade para gerenciar pagamentos por cheque, bem como procedimentos para resolver situações especiais com cheques.
+
+  Você pode excluir, reembolsar e anular cheques, além de gerar e emitir cheques de acordo com as especificações da empresa.
+
+  Como o Finance and Operations registra todas as transações financeiras, as empresas podem usar a função de reconciliação bancária para comparar registros internos de transações e extratos bancários.
+  #### Lições
+  - Efetuar depósitos e realizar estornos de pagamento
+  - Usar áreas de trabalho de gerenciamento de caixa e banco
+  - Laboratórios práticos
+  - Resumo do módulo
+
+  Trabalhar com processos de gerenciamento de caixa e do Banco.
+  - Usar áreas de trabalho de gerenciamento de caixa e banco.
+  - Fazer depósitos.
+  - Cancelar pagamentos.
+
+
+  ### Módulo 8&#58; Configurar cartas de crédito e garantias
+  Você agora aprendeu quais são as cartas bancárias; como configurar cartas de crédito para criar documentos bancários comumente usados ​​para a compra e venda de mercadorias através das fronteiras internacionais; e sobre cartas de garantia, em que um banco concorda em pagar uma quantia específica em dinheiro a uma pessoa, se um dos clientes do banco deixar de cumprir um pagamento ou uma obrigação para com essa pessoa.
+  #### Lições
+  - Introdução
+  - Configurar cartas de crédito
+  - Configurar cartas de garantia
+  - Resumo do módulo
+
+  Os você entenderão cartas bancárias e cartas de crédito e garantia.
+
+  ### Módulo 9&#58; Executar procedimentos diários
+  Cada lançamento manual inserido no Finance and Operations é inserido através de um diário. Um diário é um tipo de planilha em que as entradas não são postadas imediatamente. você É possível revisar, alterar e verificar os diários completos até que estejam prontos para publicação.
+
+  Um modelo de comprovante é um comprovante que pode ser usado como base para futuros comprovantes em outros lançamentos contábeis manuais. Pode-se usar modelos de comprovante em um diário geral ou em qualquer um dos diários contábeis financeiros, como Contas a pagar e Contas a receber.
+
+  Pode-se configurar restrições sobre a empresa, tipo de conta e valores de segmento.
+  #### Lições
+  - Aprender sobre os processos de contabilidade
+  - Criar modelos de voucher
+  - Configurar controles do diário
+  - Laboratório Prático
+  - Resumo do módulo
+
+  Agora, você terá aprendido como processar atividades diárias no razão geral e usar o controle do diário para ap
+  Você trabalhou com contas de controle de saldo para visualizar os saldos de bancos ou contas de liquidez.
+  - Você aprendeu a se beneficiar dos modelos de comprovante de Valor, que simplesmente copiam o valor exato
+
+
+  ### Módulo 10&#58; Contabilidade intercompanhia
+  A contabilidade entre empresas pode ajudar as organizações, fornecendo um ponto de entrada única para transações que devem ser registradas em várias empresas. Fazer transações de uma única empresa economiza tempo de entrada de dados e ajuda a garantir que as transações que afetam várias empresas sejam registradas em cada empresa.
+
+  O Finance and Operations também ajuda a rastrear as entradas entre empresas através do sistema. Possui a funcionalidade exigida pela maioria das empresas que processam transações entre empresas. Isso inclui a capacidade de registrar com eficiência pedidos de vendas entre empresas, pedidos de compra e desembolsos em dinheiro.
+  #### Lições
+  - Configurar e usar a contabilidade entre empresas
+  - Laboratório Prático
+  - Resumo do módulo
+
+  Os Você poderão configurar e usar a contabilidade entre empresas.
+
+  ### Módulo 11&#58; Configurar alocações e acumulações do razão
+  O Finance and Operations fornece os recursos para suportar esquemas de competência.
+  #### Lições
+  - Introdução
+  - Configurar e aplicar esquemas de competência
+  - Configurar regras de alocação do razão
+  - Laboratórios práticos
+  - Resumo do módulo
+
+  
+
+  ### Módulo 12&#58; Configurar imposto sobre vendas
+  Os requisitos para cálculo e relatório de impostos diferem significativamente para diferentes países ou regiões. Portanto, o módulo Imposto do Dynamics 365 for Finance and Operations é extremamente abrangente.
+  #### Lições
+  - Entender os componentes do mecanismo tributário
+  - Laboratório prático
+  - Resumo do módulo
+
+  Agora, os Você aprenderam sobre os recursos de relatórios fiscais nacionais e regionais em Finanças e Operações.
+  - configurar componentes tributários, como autoridades fiscais, períodos de liquidação e códigos de imposto
+  - códigos de imposto sobre vendas é o principal componente para definir cálculos de impostos e conectar todos os outros componentes
+
+
+  ### Módulo 13&#58; Configurar contas a pagar
+  O Dynamics 365 for Finance and Operations oferece ampla funcionalidade para configurar diferentes opções de pagamento do fornecedor.
+  #### Lições
+  - Compreender a funcionalidade do gravador de tarefas
+  - Configurar parâmetros de contas a pagar
+  - Criar e manter fornecedores
+  - Configurar cobranças de contas a pagar
+  - Configurar e usar pagamento positivo
+  - Laboratório Prático
+  - Resumo do módulo
+
+  Configurar componentes de contas a pagar.
+  - Criar e manter um fornecedor.
+  - Configurar pagamentos do fornecedor.
+  - Configurar perfis de lançamento do fornecedor.
+  - Configurar cobranças de contas a pagar.
+
+
+  ### Módulo 14&#58; Executar procedimentos diários de contas a pagar
+  A compra de bens para revenda ou como materiais para fabricação ou serviços, é uma grande responsabilidade. Acompanhar essas compras e pagar os fornecedores que fornecem os produtos é igualmente desafiador.
+
+  As organizações devem monitorar de perto as contas a pagar e implementar procedimentos para que a gerência possa obter facilmente as informações financeiras necessárias para se manter informado sobre as mudanças nos custos das mercadorias. Para fornecer uma visão precisa da condição financeira dos negócios, todas as despesas que afetam o lucro líquido são incluídas nas contas a pagar.
+
+  Este módulo explica como gerenciar e aplicar pré-pagamentos, registrar faturas e processar pagamentos.
+  #### Lições
+  - Introdução
+  - Processar pedidos, faturas e pagamentos
+  - Gerenciar e aplicar pré-pagamentos
+  - Laboratórios práticos
+  - Resumo do módulo
+
+  você pode inserir faturas de fornecedor manualmente ou recebê-las eletronicamente por meio de uma entidade de dados
+  - você pode revisar e aprovar as faturas usando um diário de aprovação de fatura ou a página de fatura do fornecedor
+  - como você pode usar a correspondência de faturas, políticas de faturas de fornecedores e fluxo de trabalho para automatizar o processo de revisão
+  - Como lidar com pré-pagamentos aos seus fornecedores
+
+
+  ### Módulo 15&#58; Usar validações de distribuição contábil e fatura
+  Este módulo explica como liquidar transações e desfazer a liquidação e distribuir fundos usando distribuições contábeis. Os Você também aprenderão como realizar a correspondência de faturas.
+
+  As distribuições contábeis são usadas para definir como um valor será contabilizado, como a despesa, o imposto ou os encargos serão contabilizados na fatura do fornecedor. Todo valor que deve ser contabilizado quando a fatura do fornecedor é registrada no diário terá uma ou mais distribuições contábeis.
+
+  #### Lições
+  - Introdução
+  - Liquidar transação e desfazer acordos
+  - Distribuir fundos
+  - Configurar políticas de validação de fatura
+  - Laboratórios práticos
+  - Resumo do módulo
+
+  Liquidar transações e desfazer acordos.
+  - Distribuir fundos usando distribuições contábeis.
+  - Configurar políticas de validação de fatura.
+
+
+  ### Módulo 16&#58; Configurar contas a receber
+  É necessário configurar o módulo Contas a receber para poder criar faturas de clientes, lançar guias de remessa e usar faturas de texto livre que não estejam relacionadas a pedidos de vendas e, finalmente, receber pagamentos usando vários tipos de pagamento diferentes, como dinheiro, cheques, cartões de crédito e pagamentos eletrônicos dos seus clientes.
+
+  Este módulo fornece informações sobre a configuração de componentes essenciais do módulo Contas a receber e a configuração do cliente para gerenciamento eficiente de clientes e transações de clientes no Finance and Operations.
+
+  #### Lições
+  - Configurar contas a receber
+  - Criar e manter clientes
+  - Configurar perfis de postagem do cliente
+  - Configurar cobranças de contas a receber
+  - Laboratório Prático
+  - Resumo do módulo
+
+  Configurar componentes de contas a receber
+  - Criar e manter um cliente
+  - Configurar pagamentos do cliente.
+  - Configurar perfis de postagem do cliente
+  - Configurar cobranças de contas a receber
+
+
+  ### Módulo 17&#58; Executar procedimentos diários de contas a receber
+  Aprenda a criar faturas de texto livre e receber pagamentos de clientes e depositar no banco. Você também aprende como reembolsar um cliente pelo valor do pagamento em excesso ou por qualquer outro motivo, como um cenário de devolução do cliente no qual o cliente deve ser reembolsado não apenas pelo pagamento, mas também pelo imposto que foi coletado, usando estornos e uso reversões de transações em Contas a receber. Você também aprenderão como distribuir fundos usando distribuições de contabilidade em uma fatura de texto livre.
+  #### Lições
+  - Criar faturas de texto livre e registre pagamentos de clientes
+  - Liquidar transações e desfazer liquidação
+  - Laboratório Prático
+  - Resumo do módulo
+
+  Distribuir fundos usando distribuições contábeis
+  - Criar faturas de texto livre e registre pagamentos de clientes
+  - Configurar faturas recorrentes
+  - Usar estornos em contas a receber
+  - Processar pedidos, registrar faturas e processar pagamentos
+
+
+  ### Módulo 18&#58; Configurar crédito e cobranças
+  Embora a maioria dos clientes pague suas faturas em dia, é necessário poder processar faturas que não são pagas até a data de vencimento.
+
+  Este tópico explica como gerenciar clientes inadimplentes configurando o módulo Crédito e cobranças no Dynamics 365 for Finance and Operations. Para usar o módulo Crédito e cobrança, você já deve ter concluído a configuração das contas a receber.
+
+  #### Lições
+  - Introdução
+  - Configurar componentes de crédito e cobrança
+  - Configurar e gerenciar o interesse
+  - Renunciar, restabelecer ou reverter
+  - Configurar e gerenciar cartas de cobrança
+  - Laboratório Prático
+  - Resumo do módulo
+
+  Configurar componentes de crédito e cobrança.
+  - Configurar relatórios de vencimento, pools de clientes, agentes de coleta e definições de período de vencimento.
+  - Configurar e gerenciar interesses.
+  - Configurar e gerenciar cartas de cobrança.
+
+
+  ### Módulo 19&#58; Processar crédito e cobranças
+  Embora a maioria dos clientes pague suas faturas em dia, é preciso poder processar faturas que não são pagas na data de vencimento.
+
+  Este tópico explica como processar crédito e cobranças.
+  #### Lições
+  - Introdução
+  - Entender como processar coleções
+  - Gerenciar crédito e cobranças de clientes
+  - Laboratórios práticos
+  - Resumo do módulo
+
+  Declarações do cliente
+  - Como processar a coleção
+
+
+  ### Módulo 20&#58; Configurar verificações pósdatadas
+  Cheques prédatados são emitidos para efetuar e receber pagamentos em uma data futura. Portanto, o cheque não pode ser descontado até a data especificada.
+
+  O Microsoft Dynamics 365 for Finance and Operations oferece suporte ao ciclo completo de gerenciamento de cheques pré-datados em Contas a receber e Contas a pagar. Este tópico explica como configurar e processar verificações pré-datadas.
+
+  #### Lições
+  - Introdução
+  - Gerenciar verificações pós-datadas
+  - Laboratórios práticos
+  - Resumo do módulo
+
+  Processar verificações pré-datadas
+  - Configurar cheques pré-datados
+  - Registrar e lançar um cheque pré-datado para um cliente
+  - Liquidar um cheque pré-datado de um cliente
+  - Registrar e lançar um cheque pós-datado para um fornecedor
+  - Liquidar um cheque pós-datado de um fornecedor
+
+
+  ### Módulo 21&#58; Configurar e usar processos básicos de orçamento e controle de orçamento
+  Toda organização, seja privada ou pública, define metas financeiras e operacionais criando orçamentos. Quando o orçamento é estabelecido, a gerência monitora as atividades dentro da estrutura do orçamento.
+
+  Este módulo fornece informações sobre como configurar e usar o orçamento básico e o controle do orçamento.
+  #### Lições
+  - Introdução
+  - Configurar componentes de orçamento básicos
+  - Configurar componentes de controle de orçamento
+  - Criar e testar entradas de registro do orçamento
+  - Usar consultas e relatórios
+  - Laboratórios práticos
+  - Resumo do módulo
+
+  Configurar componentes de orçamento básicos
+  - Configurar componentes de controle de orçamento
+  - Usar perguntas e relatórios
+  - Criar e usar entradas de registro do orçamento
+
+
+  ### Módulo 22&#58; Configurar e usar processos de planejamento de orçamento
+  Com a funcionalidade de planejamento de orçamento, é possível consolidar vários planos de orçamento de um nível inferior em um plano de orçamento pai único em um nível superior da organização. Isso é chamado de planejamento de orçamento de abordagem ascendente, que permite que um planejador de orçamento agregue outros planos em um plano corporativo ou de alto nível para orçamento.
+
+  Pode-se também adotar a abordagem de cima para baixo, que exige o desenvolvimento de um único plano de orçamento em um nível mais alto da organização e a alocação do orçamento para os níveis mais baixos da organização. Use esse método quando você confia em transações financeiras históricas da empresa e crie um plano centralizado que possa ser alocado em diferentes unidades operacionais definidas por uma hierarquia da organização com a finalidade de planejar o orçamento.
+
+  O planejador de orçamento como uma etapa final do planejamento de orçamento, gera a entrada do registro de orçamento com base no plano de orçamento.
+
+  Uma organização pode configurar o planejamento orçamentário e, em seguida, configurar processos colaborativos de planejamento orçamentário para atender suas políticas, procedimentos e requisitos para a preparação do orçamento. Este módulo explica como configurar e testar os processos de planejamento de orçamento.
+
+  #### Lições
+  - Introdução
+  - Configurar componentes de planejamento de orçamento
+  - Laboratório Prático
+  - Resumo do módulo
+
+  Configurar componentes de planejamento de orçamento
+  - Criar um modelo de plano de orçamento
+  - Configurar processos de orçamento
+  - Criar um plano de orçamento usando o assistente de plano de orçamento
+
+
+  ### Módulo 23&#58; Configurar o gerenciamento de ativos fixos
+  Este módulo começa com a explicação dos conceitos de ativos fixos e mostra aos você como configurar e usar o módulo de ativos fixos no Dynamics 365 for Finance and Operations.
+  #### Lições
+  - Introdução
+  - Configurar componentes de ativos imobilizados
+  - Ativar integração de ativos fixos
+  - Criar ativos imobilizados
+  - Laboratórios práticos
+  - Resumo do módulo
+
+  Configurar componentes de ativos imobilizados
+  - Configurar parâmetros de ativos imobilizados
+  - Ativar integração de ativos fixos com compras
+  - Criar ativos imobilizados
+
+
+  ### Módulo 24&#58; Gerenciar ativos fixos
+  Para registrar transações de ativos fixos usando diários, é necessário criar pelo menos um nome de diário usando o tipo de diário Lançar ativos fixos na configuração do módulo Contabilidade. Se forem necessários orçamentos para ativos fixos, é necessário também criar um nome de diário que use o tipo de diário Orçamento de ativo fixo. Este módulo explica como processar e gerenciar ativos fixos.
+  #### Lições
+  - Introdução
+  - Executar tarefas de ativos fixos
+  - Laboratórios práticos
+  - Resumo do módulo
+
+  Realizar aquisição de ativos fixos
+  - Executar depreciação de ativos fixos
+  - Realizar alienação de ativos fixos
+
+
+  ### Módulo 25&#58; Configurar e usar a contabilidade de custos
+  A contabilidade de custos permite coletar dados de várias fontes, como contabilidade, subcontas, orçamentos e informações estatísticas. Pode-se analisar, resumir e avaliar os dados de custo, para que a gerência possa tomar as melhores decisões possíveis para atualizações de preços, orçamentos, controle de custos e assim por diante. Os dados de origem usados ​​para a análise de custos são tratados independentemente na contabilidade de custos. Portanto, as atualizações na contabilidade de custos não afetam os dados de origem.
+  #### Lições
+  - Introdução
+  - Área de trabalho de controle de custos
+  - Laboratório prático
+  - Resumo do módulo
+
+  Área de trabalho de controle de custos
+  - Como criar um relatório de contabilidade de custos usando o Assistente relatório de contabilidade de custos
+
+
+  ### Módulo 26&#58; Configurar e usar processos periódicos
+  No Razão, você pode completar procedimentos de fechamento por um período ou um ano. Os processos de fechamento preparam o sistema para um novo período.
+
+  Existem muitas tarefas, como preparar arquivamentos, fechamento de estoque, consolidação e muito mais precisa ser concluído primeiro.
+
+  Para preparar o sistema para um novo ano, você deve executar o processo de fechamento do final do ano. Cada organização possui diferentes processos e etapas que executa no final de um período.
+  #### Lições
+  - Introdução
+  - Reconciliações bancárias
+  - Configurar fechamento do período financeiro
+  - Preparar arquivamentos periódicos
+  - Executar processos de reavaliação de moeda estrangeira
+  - Realizar consolidações financeiras
+  - Final do processo no final do ano
+  - Laboratórios práticos
+  - Resumo do módulo
+
+  Configurar fechamento do período financeiro
+  - Reconciliar bancos
+  - Executar processos de fechamento periódico e de encerramento do ano
+  - Preparar arquivamentos periódicos
+  - Configure and test Vendor 1099s process
+  - Executar processos de reavaliação de moeda estrangeira
+  - Executar processos de consolidação e eliminação financeira
+  - Usar relatórios financeiros para criar demonstrações financeiras
+  - Processar relatórios fiscais de final de ano
+
+
+  ### Módulo 27&#58; Configurar a Estrutura de Relatório Eletrônico
+  O Relatório Eletrônico Genérico (GER) ou simplesmente Relatório Eletrônico (ER) é uma ferramenta configurável para relatórios regulatórios, pagamentos e faturamento eletrônico.
+
+  O mecanismo de ER é direcionado a usuários corporativos em vez de desenvolvedores. Como você configura formatos em vez do código, os processos de criação e ajuste de formatos para documentos eletrônicos são mais rápidos e fáceis.
+
+  O ER atualmente suporta os formatos de texto TEXT, XML, PDF, Microsoft Word e planilha OPENXML. No entanto, uma interface de extensão fornece suporte para formatos adicionais.
+
+  #### Lições
+  - Introdução
+  - Configurar relatórios eletrônicos
+  - Designer de fórmula em relatórios eletrônicos
+  - Laboratório Prático
+  - Resumo do módulo
+
+  Configurar Relatórios Eletrônicos (ER)
+  - Criar configurações de relatórios eletrônicos (ER)
+  - Executar processos de fechamento periódico e de encerramento do ano
+  - Designer de fórmula em relatórios eletrônicos (ER)
+
+
+  ### Módulo 28&#58; Configurar recursos localizados
+  O Dynamics 365 for Finance and Operations inclui funcionalidade para os países e regiões documentados no guia de localização de produto e disponibilidade de tradução.
+
+  Este módulo explica como configurar alguns exemplos de recursos regionais no Finance and Operations. Leia as informações na página Localização e recursos regulamentares para se manter atualizado com a funcionalidade regional do Finance and Operations para todos os países/regiões.
+  #### Lições
+  - Introdução
+  - Localização e recursos regulatórios
+  - Classificação dos recursos de localização mexicana
+  - Entender o mecanismo tributário global
+  - Compreender os recursos de estabelecimentos fiscais e documentos para localização brasileira
+  - Letra de câmbio
+  - Faturas eletrônicas
+  - Laboratórios práticos
+  - Resumo do módulo
+
+  Localização e recursos regulatórios
+  - Classificação dos recursos de localização
+  - Como aplicar o contexto do país e região
+  - Como configurar e demonstrar os recursos de estabelecimentos fiscais e documentos fiscais para o Brasil
+
+
+  ### Módulo 29&#58; Configurar o gerenciamento financeiro para o setor público
+  O setor público, também conhecido como setor estadual e local, é predominantemente um setor de serviços que gerencia o bem-estar de seus cidadãos. O setor do setor público inclui organizações nas áreas de municípios, educação, saúde, segurança pública, obras públicas e infraestrutura, defesa nacional, tributação e vários programas sociais.
+  #### Lições
+  - Introdução
+  - Configurar fundos para o setor público
+  - Configurar hierarquias financeiras derivadas
+  - Configurar códigos de cobrança para faturas de texto livre
+  - Laboratórios práticos
+  - Resumo do módulo
+
+  Configurar fundos para o setor público
+  - Compreender os métodos de reconciliação do Banco
+  - Configurar dimensões derivadas
+  - Configurar hierarquias financeiras derivadas para o setor público
+  - Funcionalidade avançada de entradas do razão para o setor público
+  - Configurar códigos de cobrança para faturas de texto livre
+
+
+  ### Módulo 30&#58; Conclusão do Curso
+  Avaliação final e resumo do curso, bem como uma pesquisa pós-curso.
+  #### Lições
+  - Avaliação final
+  - Resumo do curso
+  - Pesquisa pós-curso
+
+  Os você terão concluído o curso.

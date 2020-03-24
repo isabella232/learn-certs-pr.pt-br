@@ -1,7 +1,8 @@
 ---
-title: Certificações Microsoft desativadas | Microsoft Docs
-description: Certificações Microsoft desativadas
+title: Microsoft Retired Certifications | Microsoft Docs
+description: Microsoft Retired Certifications
 documentationcenter: NA
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
@@ -18,15 +19,39 @@ Encontre certificações agendadas para serem aposentadas nos próximos 12 meses
 
 [MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
 
-[MCSE: Business Applications](https://www.microsoft.com/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Será desativado em 31 de dezembro de 2019  
+[MCSA: BI Reporting](https://www.microsoft.com/learning/mcsa-bi-reporting.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
 
-MCSA: CRM Dynamics Technical&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Será desativado em 31 de dezembro de 2019  
+[MCSA: SQL 2016 Database Admin](https://www.microsoft.com/learning/mcsa-sql2016-database-administration-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
+
+[MCSA: SQL 2016 BI Development](https://www.microsoft.com/learning/mcsa-sql2016-business-intelligence-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
+
+[MCSA: SQL 2016 Database Dev](https://www.microsoft.com/learning/mcsa-sql2016-database-development-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
+
+[MCSA: SQL Server 2012/2014](https://www.microsoft.com/learning/mcsa-sql-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
+
+[MCSA: Universal Windows Platform](https://www.microsoft.com/learning/mcsa-universal-windows-platform.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
+
+[MCSA: Web Applications](https://www.microsoft.com/learning/mcsa-web-applications-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
+
+[MCSA: Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
+
+[MCSA: Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
+
+[MCSD: App Builder](https://www.microsoft.com/learning/mcsd-app-builder-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
+
+[MCSE: Business Applications](https://www.microsoft.com/learning/mcse-business-applications.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
+
+[MCSE: Core Infrastructure](https://www.microsoft.com/learning/mcse-core-infrastructure.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
+
+[MCSE: Data Management & Analytics](https://www.microsoft.com/learning/mcse-data-management-analytics.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
+
+[MCSE: Productivity](https://www.microsoft.com/learning/mcse-productivity-certification.aspx)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Será desativado em 30 de junho de 2020  
 
 ## Certificações desativadas
 
 Encontre certificações que foram aposentadas no ano passado. Quando uma certificação estiver desativada há mais de um ano, ela será removida desta página. Após uma certificação ter sido retirada, ela não mais poderá ser conquistada, mas, se ela já tiver sido ganha, permanecerá em históricos na seção Ativa.
 
-OBSERVAÇÃO: Depois que uma certificação é desativada, a Microsoft continua a rever as tecnologias correspondentes para determinar se elas ainda são relevantes. Se a tecnologia correspondente não for mais relevante, as certificações associadas serão transferidas para a seção Histórico de Certificação da transcrição.
+Observação: Depois que uma certificação é desativada, a Microsoft continua a rever as tecnologias correspondentes para determinar se elas ainda são relevantes. Se a tecnologia correspondente não for mais relevante, as certificações associadas serão transferidas para a seção Histórico de Certificação da transcrição.
 
 Expanda as seções abaixo para ver a lista de certificações desativadas por tipo ao lado da data de desativação associada.
 
@@ -36,17 +61,18 @@ Expanda as seções abaixo para ver a lista de certificações desativadas por t
 
 | Microsoft Certified Solutions Associate                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| MCSA: CRM Dynamics Technical                                                                                                | 31 de dezembro de 2019  |
 | [MCSA: Cloud Platform](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx)                     | 31 de dezembro de 2018  |
 | [MCSA: Linux on Azure](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx)                        | 31 de dezembro de 2018  |
 | [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx)                              | 30 de abril de 2019     |
 | [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx)                            | 30 de abril de 2019     |
 | [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx)                   | 30 de junho de 2019      |
 | [MCSA: Machine Learning](https://www.microsoft.com/learning/mcsa-machine-learning.aspx)                               | 30 de junho de 2019      |
-| [MCSA: Data Engineering com Azure](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)         | 30 de junho de 2019      |
+| [MCSA: Data Engineering with Azure](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)         | 30 de junho de 2019      |
 
 | Microsoft Certified Solutions Expert                                               |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: Plataforma e Infraestrutura Cloud](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 31 de dezembro de 2018  |
+| [MCSE: Cloud Platfrom and Infrastructure](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 31 de dezembro de 2018  |
 | [MCSE: Mobility](https://www.microsoft.com/learning/mcse-mobility-certification.aspx)                                 | 30 de abril de 2019     |
 
 | Microsoft Technology Associate                                                     |                    |

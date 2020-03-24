@@ -1,54 +1,60 @@
 ### YamlMime:Examination
 title: Microsoft Azure Integration and Security
 metadata:
-  title: 'Exame AZ-101: Microsoft Azure Integration and Security'
-  description: 'Exame AZ-101: Microsoft Azure Integration and Security'
+  title: 'Exam AZ-101: Microsoft Azure Integration and Security'
+  description: 'Exam AZ-101: Microsoft Azure Integration and Security'
 uid: exam.az-101
 displayName: AZ-101
-summary: Os candidatos para este exame são Administradores do Azure que gerenciam serviços de nuvem que abrangem armazenamento, segurança, rede, e computam capacidades de nuvem. Os candidatos têm um conhecimento profundo de cada serviço no ciclo de vida de IT total e aceitam solicitações para serviços de infraestrutura, aplicações e ambientes. Eles fazem recomendações em serviços para usar par performance ideal e escala, além de provisão, tamanho, monitoramento e ajuste de recursos conforme apropriado. Os candidatos a esse exame devem ter proficiência no uso do PowerShell, da interface de linha de comando, do Portal do Azure, dos modelos ARM, dos sistemas operacionais, da virtualização, da infraestrutura de nuvem, das estruturas de armazenamento e da rede.
-subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: proteger as identidades, avaliar e realizar migração do servidor para o Azure, implementar e gerenciar serviços de aplicativos e implementar redes virtuais avançadas.'
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>ESTE EXAME FOI DESATIVADO EM quarta-feira, 1 de maio de 2019. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão<br/></div>
+  
+  Os candidatos a este exame são Administradores do Azure que gerenciam serviços de nuvem que abrangem armazenamento, segurança, rede e funcionalidade de computação em nuvem. Os candidatos têm um conhecimento profundo de cada serviço no ciclo de vida de IT total e aceitam solicitações para serviços de infraestrutura, aplicativos e ambientes. Eles fazem recomendações em serviços para usar par performance ideal e escala, além de provisão, tamanho, monitoramento e ajuste de recursos conforme apropriado. Os candidatos a este exame devem ter proficiência no uso do PowerShell, interface de linha de comando, Portal do Azure, modelos ARM, sistemas operacionais, virtualização, infraestrutura de nuvem, estruturas de armazenamento e da rede.
+subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: Avaliar e realizar a migração do servidor para o Azure, Implementar e gerenciar serviços de aplicativo, e mplementar uma rede virtual avançada.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6M
-practiceTestUrl: https://www.mindhub.com/product-p/mu-az-101_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/shop/microsoft?facetValueFilter=tenant~publisher:measureup&?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/
-retirementDate: 05/01/2019
 levels:
 - intermediate
 skills:
-- Avaliar e realizar migração de servidor para o Azure (15-20%)
-- Implementar e gerenciar serviços de aplicação (20-25%)
-- Implementar networking virtual avançado (30-35%)
-- Protejer identidades (25-30%)
+- Avaliar e realizar a migração do servidor para o Azure (15-20%)
+- Implementar e gerenciar serviços de aplicativo (20-25%)
+- Implementar uma rede virtual avançada (30-35%)
+- Identidades Seguras (25-30%)
+retirementDate: 01/05/2019
 roles:
 - administrator
+products:
+- azure
 exams:
 - uid: exam.az-100
 - uid: exam.az-102
-products:
-- azure
 paths:
 - uid: learn.cloud-foundations
 relatedCertifications:
 - related:
     uid: certification.azure-administrator
 resources:
-- title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Administrator Associate.'
+- title: Certificação Caminho de Aprendizagem
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Azure Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Ajuda para exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Apoio aos exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Políticas de exames e perguntas frequentes
-  description: Consulte as políticas do exame e as perguntas frequentes.
+  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exame e perguntas frequentes
+  description: Reveja as políticas do exame e as perguntas frequentes.
   href: ../certification-exam-policies.md

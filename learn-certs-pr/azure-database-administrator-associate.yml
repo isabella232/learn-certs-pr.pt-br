@@ -1,0 +1,50 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Database Administrator Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Database Administrator Associate'
+  description: 'O Azure Database Administrator implementa e gerencia os aspectos operacionais das soluções de plataforma de dados híbridas e nativas da nuvem criadas no Microsoft Azure Data Services e no Microsoft SQL Server.'
+uid: certification.azure-database-administrator-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  O Azure Database Administrator implementa e gerencia os aspectos operacionais das soluções de plataforma de dados híbridas e nativas da nuvem criadas no Microsoft Azure Data Services e no Microsoft SQL Server. O Administrador de Banco de Dados do Azure usa uma variedade de métodos e ferramentas para executar operações diárias, incluindo a aplicação do conhecimento do uso do T-SQL para fins de gerenciamento administrativo.
+  
+  <div style='color&#58; red;'><br/><strong>Observação: Esta certificação não estará disponível até 2 de abril de 2020.</strong> Esta informação não é final e pode haver pequenas alterações após o lançamento da certificação.</div>
+subTitle: O Azure Database Administrator implementa e gerencia os aspectos operacionais das soluções de plataforma de dados híbridas e nativas da nuvem criadas no Microsoft Azure Data Services e no Microsoft SQL Server.
+levels:
+- intermediate
+skills:
+- Planejar e implementar recursos da plataforma de dados 
+- Implementar um ambiente seguro 
+- Monitorar e otimizar recursos operacionais 
+- Otimizar o desempenho de questionário 
+- Executar automação de tarefas
+- Planejar e implementar um ambiente de alta disponibilidade e recuperação de desastres (HADR) 
+- Executar a administração usando T-SQL
+roles:
+- administrator
+type: role-based
+products:
+- azure
+- azure-automation
+- azure-sql-database
+- azure-storage
+- azure-virtual-machines
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qjf6
+exams:
+- uid: exam.dp-300
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Apoio às certificações
+  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx

@@ -2,45 +2,47 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals'
-  description: Prove que você compreende o Microsoft Dynamics 365, a Power Platform, conceitos de nuvem, opções de licenciamento, implementação e de versão.
+  description: 'Prove que você entende o Microsoft Dynamics 365; inteligência artificial (IA); realidade mista (RM); a plataforma de energia; conceitos de nuvem; segurança na nuvem; Segurança do Dynamics 365; Serviço de Dados Comum; Relatórios do Dynamics 365; Integrações do Dynamics 365; e implantação na nuvem.'
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Prove que você compreende o Microsoft Dynamics 365, a Power Platform, conceitos de nuvem, opções de licenciamento, implementação e de versão.
-subTitle: Prove que você compreende o Microsoft Dynamics 365, a Power Platform, conceitos de nuvem, opções de licenciamento, implementação e de versão.
+summary: |-
+  Prove que você entende o Microsoft Dynamics 365; inteligência artificial (IA); realidade mista (RM); a plataforma de energia; conceitos de nuvem; segurança na nuvem; Segurança do Dynamics 365; Serviço de Dados Comum; Relatórios do Dynamics 365; Integrações do Dynamics 365; e implantação na nuvem.
+subTitle: 'Prove que você entende o Microsoft Dynamics 365; inteligência artificial (IA); realidade mista (RM); a plataforma de energia; conceitos de nuvem; segurança na nuvem; Segurança do Dynamics 365; Serviço de Dados Comum; Relatórios do Dynamics 365; Integrações do Dynamics 365; e implantação na nuvem.'
 levels:
 - beginner
 skills:
-- Entender Dynamics 365
-- Entender os conceitos de nuvem
-- Entender implementações e versões
+- Identificar os componentes da plataforma Microsoft para Dynamics 365
+- Entender a IA e a realidade mista para o Dynamics 365
+- Entender aplicativos orientados a modelo
+- Entender aplicativos Dynamics 365 Finance and Operations
 roles:
 - functional-consultant
 type: fundamentals
 products:
 - dynamics
 courses:
-- uid: course.mb-900t01
+- uid: course.mb-901t00
 paths:
 - uid: learn-dynamics.wwl.dynamics-365-fundamentals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj0
 exams:
-- uid: exam.mb-900
+- uid: exam.mb-901
 resources:
-- title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Dynamics 365 Fundamentals.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35v9m
+- title: Certificação Caminho de Aprendizagem
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Dynamics 365 Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetir Exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Suporte para certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio às certificações
+  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx

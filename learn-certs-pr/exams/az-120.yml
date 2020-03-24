@@ -1,28 +1,27 @@
 ### YamlMime:Examination
-title: Planning and Administering Microsoft Azure for SAP Workloads (beta)
+title: Planning and Administering Microsoft Azure for SAP Workloads
 metadata:
-  title: 'Exame AZ-120: Planning and Administering Microsoft Azure for SAP Workloads (beta)'
-  description: 'Exame AZ-120: Planning and Administering Microsoft Azure for SAP Workloads (beta)'
+  title: 'Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
+  description: 'Exam AZ-120: Planning and Administering Microsoft Azure for SAP Workloads'
 uid: exam.az-120
 displayName: AZ-120
-summary: >-
+summary: |-
   Os candidatos a este exame são arquitetos e engenheiros com conhecimento no processo de certificação em SAP Landscape e nos padrões do setor específicos para a operação de uma solução SAP de longo prazo. Os candidatos fazem recomendações sobre serviços e ajustam os recursos conforme apropriado para resiliência, desempenho, escala, fornecimento, tamanho e monitoramento ideais.
-
 
   Os arquitetos do Azure para cargas de trabalho do SAP devem ter uma vasta experiência e conhecimento de aplicativos SAP, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW, servidores OS para aplicativos e bancos de dados SAP, Portal do Azure, modelos ARM, sistemas operacionais, virtualização, infraestrutura em nuvem, estruturas de armazenamento, design de alta disponibilidade, design de recuperação de desastre, conceitos de proteção de dados e rede.
 
-
-  É altamente recomendável que os candidatos a este exame tenham uma certificação de Administrador do Azure ou Arquiteto do Azure, além das certificações SAP HANA e Linux.
+  É altamente recomendável que os candidatos a este exame tenham uma certificação Azure Administrator ou Azure Architect, além das certificações SAP HANA e Linux.
 subTitle: 'Este teste avalia sua capacidade de realizar as seguintes tarefas técnicas: Migrar cargas de trabalho do SAP para o Azure, projetar uma solução do Azure para dar suporte às cargas de trabalho do SAP, criar e implementar cargas de trabalho do SAP no Azure, validar a infraestrutura do Azure para cargas de trabalho do SAP e operacionalizar a arquitetura SAP no Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43XOu
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-120&examname=Exam%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-120
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-120&examname=Exame%20AZ-120:%20Planning%20and%20Administering%20Microsoft%20Azure%20for%20SAP%20Workloads&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Faz-120
 levels:
 - advanced
 skills:
-- Migrar cargas de trabalho do SAP para o Azure (10-15%)
+- 'Observação: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
+- Migrar soluções SAP para o Azure (10-15%)
 - Projetar uma solução do Azure para dar suporte às cargas de trabalho do SAP (20-25%)
 - Criar e implementar cargas de trabalho do SAP no Azure (35-40%)
 - Validar a infraestrutura do Azure para cargas de trabalho do SAP (10-15%)
@@ -34,6 +33,10 @@ products:
 - azure
 courses:
 - uid: course.az-120t00
+paths:
+- uid: learn.wwl.sap-certified-offerings-azure
+- uid: learn-pr.wwl.planning-azure-sap-workloads
+- uid: learn.wwl.run-azure-sap-workloads
 relatedCertifications:
 - related:
     uid: certification.azure-for-sap-workloads-specialty
@@ -41,18 +44,21 @@ resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetir Exame
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Ajuda para exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Políticas de exames e perguntas frequentes
-  description: Consulte as políticas do exame e as perguntas frequentes.
+  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exame e perguntas frequentes
+  description: Reveja as políticas do exame e as perguntas frequentes.
   href: ../certification-exam-policies.md

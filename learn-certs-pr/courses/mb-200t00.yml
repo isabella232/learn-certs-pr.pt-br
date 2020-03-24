@@ -1,0 +1,234 @@
+### YamlMime:Course
+title: Microsoft Power Platform + Dynamics 365 Core
+metadata:
+  title: 'Course MB-200T00-A: Microsoft Power Platform + Dynamics 365 Core'
+  description: 'Course MB-200T00-A: Microsoft Power Platform + Dynamics 365 Core'
+uid: course.mb-200t00
+courseNumber: 'MB-200T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificar os componentes da plataforma.
+- skill: Entenda as opções de administrador.
+- skill: Modele efetivamente dados.
+- skill: Criar um aplicativo básico orientado a modelo ou tela.
+- skill: Identificar estratégias e metodologias de teste.
+- skill: Identificar oportunidades de integração.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-sales
+- dynamics-marketing
+- dynamics-field-service
+- dynamics-customer-service
+exams:
+- uid: exam.mb-200
+summary: |-
+  A Microsoft Power Platform ajuda as organizações a otimizar suas operações automatizando tarefas rotineiras e padronizando as melhores práticas. Este treinamento fornece uma visão geral de alto nível dos recursos do Microsoft Dynamics 365 e da Power Platform e fornece uma base para outras ofertas de treinamento do Microsoft Dynamics 365 e Power Platform. Os tópicos de alto nível incluem configuração de aplicativos, oportunidades de automação, integração, teste e implantação.
+
+  #### Perfil do público
+  Um consultor funcional do Dynamics 365 Customer Engagement é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+outlineSection: |-
+  ### Módulo 1&#58; Visão geral da Plataforma Power
+  Neste módulo, você aprenderá o básico da Power Platform.  Você percorrerá os vários portais e opções do administrador, além de instalar aplicativos.
+  #### Lições
+  - Visão geral
+  - Configurar ambientes da Power Platform
+  - Criar aplicativos
+  - Descoberta e planejamento
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Identificar componentes comuns da plataforma e seus usos.
+
+
+  ### Módulo 2&#58; Modelagem de dados
+  Neste módulo, os Você aprenderão como modelar dados efetivamente usando as entidades, atributos e relacionamentos da plataforma.
+  #### Lições
+  - Fundamentos do modelo de dados
+  - Relacionamentos
+  - Outras opções de entidade
+  - Outras opções de campo
+  - Internacionalização
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Criar e usar relacionamentos e entidades.
+
+
+  ### Módulo 3&#58; Aplicativos orientados a modelo
+  Neste módulo, você aprenderá sobre aplicativos orientados a modelos e como configurá-los e usá-los.
+  #### Lições
+  - Configurar aplicativos orientados a modelo
+  - Configurar formulários controlados por modelo
+  - Configurar visualizações
+  - Configurar gráficos controlados por modelo
+  - Configurar painéis controlados por modelo
+  - Configurar relatórios
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Criar e modifique formulários.
+  - Criar e modifique visualizações e painéis.
+  - Identificar e use outros componentes da experiência do usuário.
+
+
+  ### Módulo 4&#58; Aplicativos de tela
+  Neste módulo, você aprenderá como criar e usar aplicativos de tela, bem como as diferenças entre aplicativos de tela e orientados a modelo.
+  #### Lições
+  - Fundamentos da aplicação
+  - Trabalhar com dados e serviços
+  - Personalizar a experiência do usuário
+  - Integração com aplicativos controlados por modelo
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Criar um aplicativo de tela.
+  - Trabalhar com dados CDS.
+
+
+  ### Módulo 5&#58; Segurança
+  Neste módulo, os Você aprenderão como o modelo de segurança da plataforma gerencia as experiências dos usuários e o acesso a dados e funcionalidades.
+  #### Lições
+  - Visão geral de segurança
+  - Unidades de negócios
+  - Gerenciar funções de segurança
+  - Gerenciar equipes
+  - Configurar segurança de hierarquia
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Criar e usar unidades de negócios.
+  - Criar, modificar e usar funções de segurança.
+
+
+  ### Módulo 6&#58; Visão geral da automação de plataforma
+  Neste módulo, você aprenderá o básico dos recursos de automação da Power Platform.
+  #### Lições
+  - Visão geral da automação
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Identificar recursos comuns de automação de plataforma.
+
+
+  ### Módulo 7&#58; Regras do negócio
+  Neste módulo, você aprenderá como criar e usar regras de negócios e como eles funcionam juntamente com outras automações de plataforma.
+  #### Lições
+  - Introdução às regras de negócios
+  - Detalhes adicionais da regra de negócios
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Criar e usar regras corporativas.
+
+
+  ### Módulo 8&#58; Fluxos de trabalho
+  Neste módulo, você aprenderá como criar e usar fluxos de trabalho e como eles funcionam juntamente com outras automações de plataforma.
+  #### Lições
+  - Introdução aos fluxos de trabalho
+  - Construindo fluxos de trabalho
+  - Fluxos de trabalho avançados
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Criar e usar fluxos de trabalho.
+
+
+  ### Módulo 9&#58; Fluxos da Microsoft
+  Neste módulo, você aprenderá como criar e usar o Microsoft Flows e como eles funcionam ao lado de outras automações de plataforma.
+  #### Lições
+  - Introdução ao Microsoft Flow
+  - Outros conceitos de fluxo
+  - Trabalhando com CDS
+  - Fluxos de aprovação de construção
+  - Começando de aplicativos
+  - Considerações de implantação de fluxo
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Criar e usar o Microsoft Flows.
+
+
+  ### Módulo 10&#58; Fluxos de processos de negócios
+  Neste módulo, você aprenderá como criar e usar fluxos de processos de negócios e como eles trabalham ao lado de outras automações de plataforma.
+  #### Lições
+  - Introdução aos fluxos de processos de negócios
+  - Configurar fluxos de processos de negócios
+  - Detalhes adicionais dos fluxos de processos de negócios
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Criar e usar fluxos de processo corporativos.
+
+
+  ### Módulo 11&#58; Introdução às integrações
+  Neste módulo, você aprenderá o básico dos recursos de integração da Power Platform.  Você aprenderá como configurar e usar integrações de email.
+  #### Lições
+  - Visão geral de cenários comuns
+  - Integração de Email
+  - Integração com o Outlook
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Identificar integrações comuns,
+  - Configurar e usar a integrações de email
+
+
+  ### Módulo 12&#58; Integração com o Office
+  Neste módulo, você aprenderá como se integrar aos produtos comuns do Office para incluir o OneNote, Word e Excel.
+  #### Lições
+  - Modelos
+  - SharePoint
+  - Microsoft Teams
+  - Integrações adicionais
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Configurar e usar integrações com produtos do Office.
+
+
+  ### Módulo 13&#58; Gerenciando dados
+  Neste módulo, você aprenderá como importar e exportar dados para a Power Platform e criar e usar mapas de dados.
+  #### Lições
+  - Visão geral do gerenciamento de dados
+  - Detecção duplicada
+  - Importando Dados
+  - Exportando Dados
+  - Exclusão em Massa
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Importar e exportar dados.
+  - Criar e usar mapas de dados.
+  - Executar exclusão em massa.
+
+
+  ### Módulo 14&#58; Gerenciar instâncias e aplicativos
+  Neste módulo, você aprenderá como habilitar e atualizar aplicativos de terceiros, instalar aplicativos de terceiros e configurar usando portais de administrador.
+  #### Lições
+  - Visão geral
+  - Gerenciar aplicativos
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Habilitar e atualizar aplicativos de terceiros.
+  - Instale aplicativos de terceiros.
+
+
+  ### Módulo 15&#58; Gerenciar soluções
+  Neste módulo, você aprenderá como criar, gerenciar e implantar soluções.
+  #### Lições
+  - Conceitos de solução
+  - Planejamento e criação de soluções
+  - Trabalhando com componentes da solução
+  - Distribuindo soluções
+  - Trabalhando com soluções gerenciadas
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Criar soluções.
+  - Implantar personalizações.
+
+
+  ### Módulo 16&#58; Considerações adicionais sobre implantação
+  Neste módulo, você aprenderá como configurar para dispositivos móveis e implantar componentes como o Microsoft Flow.
+  #### Lições
+  - Configurar definições
+  - Configuração geral móvel
+  - Configuração móvel
+
+  Depois de completar este módulo, os Você estarão aptos a&#58;
+  - Configurar para celular.
+  - Implantar componentes.
