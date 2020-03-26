@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 Em todo o mundo, parceiros e clientes procuram a Microsoft para entregar as certificações e exames de qualidade mais alta. As políticas do exame da Certificação Microsoft foram criadas para apoiar os objetivos do programa de certificação, incluindo:
 
-## Políticas de segurança e reaplicação
+## <a name="security-policies"></a> Políticas de segurança e reaplicação
 
 A Microsoft conta com políticas específicas que abrangem áreas da segurança pertinentes aos exames Microsoft Certified Professional (MCP).
 
@@ -491,7 +491,7 @@ Para mais informações, visite: [Crédito NCCRS para Certificações Microsoft]
 
 Baixar: [Formulário de serviço de transcrição](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## Como contestar um item do exame de Certificação Microsoft
+## <a name="policies-5"></a> Como contestar um item do exame de Certificação Microsoft
 
 [Cada pergunta do exame é cuidadosamente revisada](https://www.microsoft.com/learning/certification-exams.aspx) por uma bancada de especialistas técnicos e peritos que analisam todas as perguntas visando a precisão, clareza e relevância. Se você acredita que determinada pergunta encontrada em uma Certificação Microsoft seja inválida, solicite uma avaliação da pergunta seguindo as etapas descritas abaixo. Você deve enviar um formulário de contestação de item de exame dentro de 30 dias após fazer o exame.
 
@@ -509,7 +509,7 @@ O processo de contestação existe para ajudar a identificar e corrigir questõe
 
 Nós valorizamos a sua opinião e confiamos nela para tornar os exames da Certificação Microsoft os mais válidos e relevantes possível.
 
-## Acomodação especial durante a realização de exames
+## <a name="#special-accommodations-when-taking-exams"></a> Acomodação especial durante a realização de exames
 
 ### Para exames realizados por meio da Pearson VUE:
 
@@ -527,7 +527,7 @@ Se você precisar de equipamento especial ou outra acomodação ao realizar um e
 
 Se você precisar de mais tempo porque o exame não está disponível no seu idioma nativo, se precisar de equipamento especial ou gostaria de solicitar qualquer outra acomodação ao fazer um exame, você pode solicitar uma acomodação através do Certiport seguindo o processo descrito [aqui](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations).
 
-### Política de cancelamento e reagendamento:
+### <a name="cancellation-and-reschedule-policy"></a> Política de cancelamento e reagendamento:
 
 - Não há cobrança se você reprogramar ou cancelar um agendamento de exame pelo menos 6 dias úteis antes do agendamento.
 - Se você cancelar ou reprogramar seu exame dentro de 5 dias úteis do seu horário de exames registrado, uma taxa será aplicada.
@@ -626,7 +626,7 @@ Caso os seus comentários sejam referentes a um curso da Microsoft ministrado po
 
 **Posso enviar comentários sobre uma pergunta ou experiência no exame?**
 
-Se você tiver dúvidas sobre a precisão técnica de item específico, siga o processo de [contestação de item de exame](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5).
+Se você tiver dúvidas sobre a precisão técnica de item específico, siga o processo de [contestação de item de exame](#policies-5).
 
 Para informar um problema sobre um centro de testes ou dificuldades técnicas vividas durante o exame, entre em contato com o atendimento ao cliente da [Pearson VUE](http://www.pearsonvue.com/microsoft/) ou da [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm).
 
@@ -829,7 +829,7 @@ Além disso, os [Microsoft Official Practice Test(Testes Práticos Oficiais da M
 
 **Qual é a política de reaplicação de exames?**
 
-Consulte a seção [Políticas de segurança e reaplicação](https://www.microsoft.com/learning/certification-exam-policies.aspx#security-policies) de para conhecer a política de reaplicação de exames.
+Consulte a seção [Políticas de segurança e reaplicação](#security-policies) de para conhecer a política de reaplicação de exames.
 
 **Posso solicitar a reavaliação da minha nota?**
 
@@ -837,7 +837,7 @@ Consulte a seção [Políticas de segurança e reaplicação](https://www.micros
 
 **Como posso contestar uma questão do exame?**
 
-Se você acredita que determinada questão de um exame da Certificação Microsoft seja imprecisa, solicite uma avaliação da questão usando o [formulário de contestação de item de exame](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5) no prazo de 30 dias corridos após a realização do exame. O processo de avaliação existe para ajudar a identificar e corrigir questões problemáticas e para atualizar os exames.
+Se você acredita que determinada questão de um exame da Certificação Microsoft seja imprecisa, solicite uma avaliação da questão usando o [formulário de contestação de item de exame](#policies-5) no prazo de 30 dias corridos após a realização do exame. O processo de avaliação existe para ajudar a identificar e corrigir questões problemáticas e para atualizar os exames.
 
 **Haverá um funcionário da Microsoft para revisar e avaliar a questão que estou contestando?**
 
@@ -993,7 +993,7 @@ Se o seu laboratório iniciar com uma tela em branco, tente abrir uma nova guia 
 
 **Tive alguns problemas com meus laboratórios. Como faço para informar a Microsoft?**
 
-Se você tiver problemas com laboratórios, encaminhe-os por meio do [processo de contestação de item de exame](https://www.microsoft.com/learning/certification-exam-policies.aspx#dt-policies-5). Embora não possamos fornecer uma explicação específica para sua experiência, nossa investigação sobre sua experiência nos ajudará a identificar as causas principais e identificar soluções que melhorem a experiência para todos.
+Se você tiver problemas com laboratórios, encaminhe-os por meio do [processo de contestação de item de exame](#policies-5). Embora não possamos fornecer uma explicação específica para sua experiência, nossa investigação sobre sua experiência nos ajudará a identificar as causas principais e identificar soluções que melhorem a experiência para todos.
 
 **Tive alguns problemas com meus laboratórios. Como faço para solicitar uma reavaliação?**
 

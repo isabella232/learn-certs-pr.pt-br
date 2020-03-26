@@ -19,7 +19,7 @@ Obrigado por participar do Microsoft Ignite 2019 ou de um evento do Microsoft Ig
 
 Se você participou do Microsoft Ignite 2019 ou de um evento do Microsoft Ignite The Tour 2019-2020, estará qualificado para receber um exame gratuito de certificação básica com base em função ou especialidade da Microsoft. A oferta de exame gratuito está disponível para resgate desde o início do evento em que você está participando e é válida por 180 dias após o último dia do evento. Se você não agendar um exame dentro desse prazo, não poderá resgatar sua oferta.  
 
-## Como solicitar seu exame gratuito
+## <a name="how-to-claim-your-free-exam"></a> Como solicitar seu exame gratuito
 
 Por se tratar de uma oferta digital, solicitamos que você verifique sua participação no evento usando a mesma conta social usada para o registro do evento (consulte a etapa 7 abaixo) ao agendar seu exame online. Se você for registrado em grupo, verifique se preencheu seu perfil de registro de evento. Para participantes do MS Ignite 2019, consulte [https://register.ignite.microsoft.com/](https://register.ignite.microsoft.com/) e para participantes do The Tour, acesse [https://register.msignite-the-tour.microsoft.com/](https://register.msignite-the-tour.microsoft.com/) nome da cidade, por exemplo [https://register.msignite-the-tour.microsoft.com/london](https://register.msignite-the-tour.microsoft.com/london) para completar o perfil do evento.
 
@@ -41,7 +41,7 @@ Para capturas de tela passo a passo, [veja aqui](https://query.prod.cms.rt.micro
 
 Para problemas ao agendar seu exame, obtenha ajuda nos [fóruns de suporte da Microsoft Certification](https://trainingsupport.microsoft.com/pt-br/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1). O moderador do fórum responderá em um dia útil.
 
-## Exames autorizados para esta oferta
+## <a name="eligible-exams-for-this-offer"></a> Exames autorizados para esta oferta
 
 Esta oferta inclui todos os exames básicos de certificação da Microsoft com em funções e especialidades. Os exames oferecidos estão listados abaixo.
 
@@ -136,4 +136,4 @@ Para obter informações adicionais, consulte os [Termos de Uso da Microsoft](ht
 
 **P: Posso refazer um exame gratuitamente caso não tenha resgatado a oferta de exame de certificação gratuito?**
 
-**R:** Não, a oferta é válida apenas para um evento e as reaplicações de exames devem ser agendadas separadamente. Para obter mais informações sobre como refazer exames de certificação, consulte nossa [Política de reaplicação de exame](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1).
+**R:** Não, a oferta é válida apenas para um evento e as reaplicações de exames devem ser agendadas separadamente. Para obter mais informações sobre como refazer exames de certificação, consulte nossa [Política de reaplicação de exame](/learn/certifications/certification-exam-policies#security-policies).
