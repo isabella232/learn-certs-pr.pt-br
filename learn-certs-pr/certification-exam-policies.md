@@ -509,7 +509,7 @@ O processo de contestação existe para ajudar a identificar e corrigir questõe
 
 Nós valorizamos a sua opinião e confiamos nela para tornar os exames da Certificação Microsoft os mais válidos e relevantes possível.
 
-## <a name="#special-accommodations-when-taking-exams"></a> Acomodação especial durante a realização de exames
+## <a name="special-accommodations-when-taking-exams"></a> Acomodação especial durante a realização de exames
 
 ### Para exames realizados por meio da Pearson VUE:
 
