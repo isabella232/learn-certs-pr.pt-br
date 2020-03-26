@@ -1,0 +1,170 @@
+### YamlMime:Course
+title: Building applications and solutions with Microsoft 365 core services
+metadata:
+  title: 'Course MS-600T00-A: Building applications and solutions with Microsoft 365 core services'
+  description: 'Course MS-600T00-A: Building applications and solutions with Microsoft 365 core services'
+uid: course.ms-600t00
+courseNumber: 'MS-600T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Implementando o Microsoft Identity
+- skill: Trabalhando com o Microsoft Graph
+- skill: Determinando alvos de plataforma de carga horária
+- skill: Pontos de integração, incluindo Microsoft Teams, Office Add-ins, e SharePoint Framework
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-600
+summary: |-
+  Este curso abrange cinco elementos centrais da plataforma Microsoft 365 - implementando Microsoft Identity, trabalhando com Microsoft Graph, extendendo e personalizando o SharePoint, estendendo o Teams e extendendo o Office.
+  Neste curso, os alunos aprenderão como implementar o Microsoft Identity e trabalho com o Microsoft Graph. Os alunos também ganharão o conhecimento em elementos de IU (incluindo Adaptive Cards e IU Fabric), Pontos de Integração (incluindo o Microsoft Teams, Office Add-ins, SharePoint Framework, Mensagens Acionáveis), e determinando alvos de plataforma de carga horária.
+  Na implementação do Microsoft Identity, os alunos aprenderão a implementar o Microsoft Identity incluindo o registro de uma aplicação, implantando autenticação, configurando permissões para consumir uma API e criando um serviço para acessar o Microsoft Graph.
+  No trabalho com o Microsoft Graph, os alunos aprenderão como acessar os dados de usuário, explorar os parâmetros de consulta, gerenciar um ciclo de vida de grupo, acessar arquivos e otimizar o tráfico de rede usando o Microsoft Graph.
+  Na extensão e personalização do SharePoint, os alunos aprenderão sobre as partes da web do SharePoint Framework, e como empacotar e implantar uma solução de SPFx.
+  Na extensão do Teams, os alunos olharão nos componentes de uma aplicação do Teams, trabalharão com o webhooks, abas e robôs conversacionais.
+  Na extensão do Office, os alunos trabalham com o Office Add-ins, add-ins de painel de tarefa, JavaScript APIs, Office UI Fabric e mensagens acionáveis com cartões adaptativos.
+
+  #### Perfil do público
+  Os alunos neste curso estão interessados na plataforma de desenvolvimento Microsoft 365 ou em ser aprovado no exame de certificação do Microsoft 365 Developer Associate. Os alunos devem também ter 1-2 anos de experiência como um desenvolvedor. Este curso assume que os alunos sabem como codificar e ter um entendimento básico de REST APIs, JSON, OAuth2, OData, OpenID Connect, Microsoft Identities incluindo Azure AD e contas da Microsoft, Azure AD B2C, e
+prerequisitesSection: |-
+  - Os estudantes devem ter 1-2 anos de experiência como desenvolvedor. Este curso assume que os alunos sabem como codificar e ter um entendimento básico de REST APIs, JSON, OAuth2, OData, OpenID Connect, Microsoft Identities incluindo Azure AD e contas da Microsoft, Azure AD B2C, e
+  - Recomenda-se que os alunos tenham alguma experiência no desenvolvimento de soluções no Microsoft Teams, Office Add-ins, ou SharePoint Framework por todas as fases de desenvolvimento de software.
+outlineSection: |-
+  ### Módulo 1&#58; Implementação do Microsoft Identity
+  Neste módulo, você aprenderá a implementar o Microsoft Identity incluindo o registro de uma aplicação, implantando autenticação, configurando permissões para consumir uma API e criando um serviço para acessar o Microsoft Graph.
+  #### Lições
+  - Plataforma de identidade da Microsoft
+  - Registro de uma aplicação
+  - Implementação de autenticação
+  - Configuração de permissões para consumir uma API
+  - Implementação de autorização para consumir uma API
+  - Implementação de autorização em uma API
+  - Criação de um serviço para acessar o Microsoft Graph
+
+
+  #### Laboratório &#58; Implementação do Microsoft Identity
+  - Registro de uma aplicação no diretório ativo do azure
+  - Implementação de autenticação
+  - Configuração de permissão para consumir uma API
+  - Implementação de autorização para consumir uma API
+  - Implementação de autorização em uma API
+  - Criação de um serviço para acessar o Microsoft Graph
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Registrar uma aplicação no Azure AD
+  - Implementação de autenticação
+  - Configuração de permissões para consumir uma API
+  - Criação de um serviço para acessar o Microsoft Graph
+
+
+  ### Módulo 2&#58; Trabalho com o Microsoft Graph
+  Neste módulo você aprenderá como acessar os dados de usuário, explorar os parâmetros de consulta, gerenciar um ciclo de vida de grupo, acessar arquivos e otimizar o tráfico de rede usando o Microsoft Graph.
+  #### Lições
+  - O que é Microsoft Graph
+  - Acesse dados de usuário a partir do Microsoft Graph
+  - Uso de dados com parâmetros de consulta
+  - Gerenciamento de um ciclo de vida de grupo no Microsoft Graph
+  - Acesse arquivos com o Microsoft Graph
+  - Otimize tráfico de rede
+
+
+  #### Laboratório &#58; Trabalho com o Microsoft Graph
+  - Consultando dados de usuário a partir do Microsoft Graph
+  - Usando parâmetros de consulta quando consultando o Microsoft Graph através de HTTP
+  - Recuperando e controlando informações retornadas do Microsoft Graph
+  - Criando um Grupo do Office 365 e Team
+  - Carregando arquivos para o OneDrive e SharePoint
+  - Usando Notificações de mudança e Rastreio de mudanças com o Microsoft Graph
+  - Reduzindo tráfico com as solicitações em lote
+  - Entendendo estrangulamento no Microsoft Graph
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Acesse dados de usuário com o Microsoft Graph
+  - Trabalho com dados usando consultas no Microsoft Graph
+  - Gerenciamento de um ciclo de vida de grupo no Microsoft Graph
+  - Otimize tráfico de rede usando o Microsoft Graph
+
+
+  ### Módulo 3&#58; Extenda e personalize o SharePoint
+  Neste módulo, você aprenderá sobre as partes da web do SharePoint Framework, extensões e como empacotar e implantar uma solução de SPFx.
+  #### Lições
+  - Partes da web do SharePoint Framework
+  - Extensões do SharePoint Framework
+  - Empacote de implante uma solução de SPFx
+  - Consumo do Microsoft Graph
+  - Consumo de APIs de terceiros protegido com o Azure AD de dentro do SPFx
+  - Partes da web como Abas do Teams
+  - Imagem de marca e tematização no SharePoint
+
+
+  #### Laboratório &#58; Extenda e personalize o SharePoint
+  - Introdução para o SharePoint Framework (SPFx)
+  - Trabalhando com o painel de propriedade de parte da web
+  - Criando extensões do SharePoint Framework
+  - Criando uma Extensão de conjunto de comando
+  - Criando uma Extensão de personalizador de campo
+  - Implantando uma solução de SharePoint Framework
+  - Chamando as APIs REST de terceiro protegidas do Azure AD
+  - Implantando soluções de SPFx para o Microsoft Teams
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Empacote de implante uma solução de SharePoint Framework
+  - Utilize consumo do Microsoft Graph
+  - Trabalhe com partes da web como abas do Team
+
+
+  ### Módulo 4&#58; Extensão do Teams
+  Neste módulo você olhará aos componentes de uma aplicação do Teams, trabalhará com o webhooks, abas e robôs conversacionais.
+  #### Lições
+  - Aplicação Microsoft Teams
+  - Webhooks mp Microsoft Teams
+  - Abas no Microsoft Teams
+  - Extensões de mensagem no Microsoft Teams
+  - Robôs conversacionais no Microsoft Teams
+
+
+  #### Laboratório &#58; Extensão do Teams
+  - Compreensão dos componentes de uma aplicação do Teams
+  - Trabalhando com o webhooks no Microsoft Teams
+  - Criando abas no Microsoft Teams
+  - Compreensão das extensões de mensagem
+  - Compreendendo robôs conversacionais
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Reconhecimento dos componentes de uma aplicação do Teams
+  - Trabalho com o webhooks no Microsoft Teams
+  - Criação de abas no Microsoft Teams
+  - Criação e registro de webhooks de saída
+
+
+  ### Módulo 5&#58; Extensão do Office
+  Neste módulo você trabalhará com Add-ins do Office, add-ins do painel de tarefa, APIs JavaScript, Office UI Fabric e mensagens acionáveis com cartões adaptativos.
+  #### Lições
+  - Add-ins do Office
+  - APIs Office JS
+  - Personalização de Add-ins
+  - Teste, depuração e opções de implantação
+  - Mensagem acionável
+
+
+  #### Laboratório &#58; Extensão do Office
+  - Compreensão de componentes essenciais e tipos de Add-ins do Office
+  - Compreensão de APIs JavaScript do Office
+  - Compreensão de personalização de Add-ins
+  - Compreensão de mensagens acionáveis
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreensão de componentes essenciais e tipos de Add-ins do Office
+  - Compreensão de APIs JavaScript do Office
+  - Compreensão de personalização de Add-ins
+  - Compreensão de mensagens acionáveis

@@ -1,0 +1,160 @@
+### YamlMime:Course
+title: Developing Solutions for Microsoft Azure
+metadata:
+  title: 'Course AZ-204T00-A: Developing solutions for Microsoft Azure'
+  description: 'Course AZ-204T00-A: Developing solutions for Microsoft Azure'
+uid: course.az-204t00
+courseNumber: 'AZ-204T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+- azure-active-directory
+- azure-api-management
+- azure-app-service
+- azure-application-gateway
+- azure-automation
+- azure-cdn
+- azure-clis
+- azure-cloud-shell
+- azure-container-instances
+- azure-container-registry
+- azure-cosmos-db
+- azure-event-grid
+- azure-event-hubs
+- azure-functions
+- azure-key-vault
+- azure-logic-apps
+- azure-monitor
+- azure-policy
+- azure-portal
+- azure-redis-cache
+- azure-resource-manager
+- azure-sdks
+- azure-service-bus
+- azure-storage
+- azure-stream-analytics
+- azure-traffic-manager
+- azure-virtual-machines
+exams:
+- uid: exam.az-204
+summary: |-
+  Este curso ensina os desenvolvedores a criar soluções completas no Microsoft Azure. Os alunos aprenderão como implementar soluções de computação do Azure, criar Funções do Azure, implementar e gerenciar aplicativos da Web, desenvolver soluções utilizando o armazenamento do Azure, implementar autenticação e autorização e proteger suas soluções usando KeyVault e Identidades Gerenciadas. Os alunos também aprenderão como se conectar e consumir serviços do Azure e serviços de terceiros, além de incluir modelos baseados em eventos e mensagens em suas soluções. O curso também abrange o monitoramento, solução de problemas e otimização de soluções do Azure.
+
+  #### Perfil do público
+  Os alunos deste curso estão interessados no desenvolvimento do Azure ou na aprovação no exame de certificação Microsoft Azure Developer Associate.
+prerequisitesSection: |-
+  Os alunos devem ter 1 a 2 anos de experiência em desenvolvimento profissional e experiência com o Microsoft Azure. Eles devem poder programar em um Idioma Suportado do Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Criando Aplicativos Web do Serviço de Aplicativo do Azure
+  Os alunos aprenderão como criar um aplicativo Web na plataforma do Serviço de Aplicativo do Azure. Eles aprenderão como a plataforma funciona e como criar, configurar, dimensionar, proteger e implantar na plataforma do Serviço de Aplicativo.
+  #### Lições
+  - Ambientes de teste do Serviço de Aplicativo do Azure
+  - Criação de aplicativos da Web com o Serviço de Aplicativo do Azure
+  - Configurando e monitorando aplicativos do Serviço de Aplicativo
+  - Dimensionando aplicativos do Serviço de Aplicativo
+  - Ambientes de teste do Serviço de Aplicativo do Azure
+
+
+  ### Módulo 2&#58; Implementação do Azure Functions
+  Este módulo aborda a criação de aplicativos de funções e como integrar gatilhos e entradas/saídas ao aplicativo.
+  #### Lições
+  - Visão geral do Azure Functions
+  - Desenvolvendo Funções do Azure
+  - Implementar Funções Duráveis
+
+
+  ### Módulo 3&#58; Desenvolver soluções que usam armazenamento de blobs
+  Os alunos aprenderão como o armazenamento do Blob do Azure funciona, como gerenciar dados através do ciclo de vida de armazenamento de blob quente/frio/arquivo e como usar a biblioteca do cliente de armazenamento do Blob do Azure para gerenciar dados e metadados.
+  #### Lições
+  - Conceitos básicos do armazenamento do Azure Blob
+  - Gerenciando o ciclo de vida do armazenamento do Azure Blob
+  - Trabalhando com armazenamento de blob do Azure
+
+
+  ### Módulo 4&#58; Desenvolver soluções que usem o armazenamento do Cosmos DB
+  Os alunos aprenderão como o Cosmos DB está estruturado e como a consistência dos dados é gerenciada. Os alunos também aprenderão como criar contas do Cosmos DB e criar bancos de dados, contentores e itens usando uma combinação do Portal do Azure e do .NET SDK.
+  #### Lições
+  - Visão geral do Azure Cosmos DB
+  - estrutura de dados do Azure Cosmos DB
+  - Trabalhando com recursos e dados do Azure Cosmos DB
+  
+  
+  ### Módulo 5&#58; Implementar soluções IaaS
+  Este módulo instrui os alunos sobre como usar VMs de criação e imagens de contêiner para usar em suas soluções. Ele abrange a criação de VMs, o uso de modelos ARM para automatizar a implantação de recursos, a criação e o gerenciamento de imagens do Docker, a publicação de uma imagem no Registro de Contêiner do Azure e a execução de um contêiner nas Instâncias de Contêiner do Azure.
+  #### Lições
+  - Provisionando VMs no Azure
+  - Criar e implantar modelos ARM
+  - Criação de imagens contidas para soluções
+  - Publicar uma imagem de contentor para Registro de Contentor do Azure
+  - Criar e executar imagens de contêiner nas Instâncias de Contêiner do Azure
+  
+  
+  ### Módulo 6&#58; Implementar autenticação e autorização de usuário
+  Os alunos aprenderão como aproveitar o Microsoft Identity Platform v2.0 para gerenciar a autenticação e o acesso aos recursos. Os alunos também aprenderão como usar a Biblioteca de Autenticação da Microsoft e o Microsoft Graph para autenticar um usuário e recuperar informações armazenadas no Azure, e como e quando usar as Assinaturas de Acesso Compartilhado.
+  #### Lições
+  - Microsoft Identity Platform v2.0
+  - Autenticação usando a Microsoft Authentication Library
+  - Usando o Microsoft Graph
+  - Autorizando operações de dados no Armazenamento do Azure
+  
+  
+  ### Módulo 7&#58; Implementar soluções de nuvem seguras
+  Este módulo aborda como proteger as informações (chaves, segredos, certificados) que um aplicativo usa para acessar recursos. Ele também cobre a segurança das informações de configuração do aplicativo.
+  #### Lições
+  - Gerenciar chaves, segredos e certificados usando a API KeyVault
+  - Implementação de identidades gerenciadas para recursos do Azure
+  - Dados seguros de configuração de aplicativo usando a Configuração de Aplicativo do Azure
+  
+  
+  ### Módulo 8&#58; Implementar Gestão de API
+  Os alunos aprenderão como publicar APIs, criar políticas para gerenciar informações compartilhadas por meio da API e gerenciar o acesso a suas APIs usando o serviço de Gerenciamento de API do Azure.
+  #### Lições
+  - Visão geral do gerenciamento de API
+  - Definir políticas para APIs
+  - Proteção de APIs
+  
+  
+  ### Módulo 9&#58; Desenvolver Aplicativos de Lógica de Serviço de Aplicativo
+  Este módulo ensina os alunos a usar os Aplicativos Lógicos do Azure para agendar, automatizar e orquestrar tarefas, processos de negócios, fluxos de trabalho e serviços em empresas ou organizações.
+  #### Lições
+  - Visão geral dos aplicativos lógicos do Azure
+  - Criando um conector personalizado para Aplicativos de Lógica
+  
+  
+  ### Módulo 10&#58; Desenvolver soluções baseadas em eventos
+  Os alunos aprenderão como criar aplicativos com arquiteturas baseadas em eventos.
+  #### Lições
+  - Implementação de soluções que usam a Grade de Evento do Azure
+  - Implementação de soluções que usam o Hub de Eventos do Azure
+  - Implementação de soluções que usam os Hubs de Notificação do Azure
+  
+  
+  ### Módulo 11&#58; Desenvolver soluções baseadas em mensagens
+  Os alunos aprenderão como criar aplicativos com arquiteturas baseadas em mensagens.
+  #### Lições
+  - Implementação de soluções que usam o Barramento de Serviço do Azure
+  - Implementação de soluções que usam serviços de armazenamento de filas do Azure
+  
+  
+  ### Módulo 12&#58; Monitorar e otimizar as soluções do Azure
+  Este módulo ensina aos alunos como instrumentar seu código para telemetria e como analisar e solucionar problemas de seus aplicativos.
+  #### Lições
+  - Visão geral do monitoramento no Azure
+  - Instrumentar um aplicativo para monitoramento
+  - Analisar e solucionar problemas de aplicativos
+  - Implementação de código para processamento de falhas transitórias
+  
+  
+  ### Módulo 13&#58; Integração de cache e entrega de conteúdo nas soluções
+  Os alunos aprenderão como usar diferentes serviços de armazenamento em cache para melhorar o desempenho de seus aplicativos.
+  #### Lições
+  - Desenvolver para o cache do Azure para Redis
+  - Desenvolvimento de armazenamento em CDNs

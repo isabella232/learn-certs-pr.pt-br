@@ -1,40 +1,39 @@
 ### YamlMime:Examination
 title: Designing an Azure Data Solution
 metadata:
-  title: 'Exame DP-201: Designing an Azure Data Solution'
-  description: 'Exame DP-201: Designing an Azure Data Solution'
+  title: 'Exam DP-201: Designing an Azure Data Solution'
+  description: 'Exam DP-201: Designing an Azure Data Solution'
 uid: exam.dp-201
 displayName: DP-201
-summary: >-
+summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>O conteúdo deste exame será atualizado em quinta-feira, 26 de março de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
+  
   Os candidatos a este exame são engenheiros de dados do Microsoft Azure que colaboram com as partes interessadas da empresa para identificar e atender aos requisitos de dados para implementar soluções que usam os serviços de dados do Azure.
-
   <br/>
 
+  Os engenheiros de dados do Azure são responsáveis por tarefas relacionadas a dados que incluem o projeto de soluções de armazenamento de dados do Azure que usam repositórios de dados relacionais e não relacionais, soluções de processamento de dados em tempo real e em lote e soluções de conformidade e segurança de dados.
 
-  Os engenheiros de dados do Azure são responsáveis por tarefas relacionadas aos dados que incluem o projeto de soluções de armazenamento de dados do Azure que usam repositórios de dados relacionais e não relacionais, soluções de processamento de dados em tempo real e em lote e soluções de conformidade e segurança de dados.
-
-
-  Os candidatos a este exame devem ser capazes de implementar soluções de dados com o uso dos seguintes serviços do Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure SQL Data Warehouse, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks e Azure Blob storage.
+  Os candidatos a este exame devem criar soluções de dados que usem os seguintes serviços do Azure&#58; Banco de Dados do Cosmos do Azure, Banco de Dados SQL do Azure, Azure Synapse Analytics, Armazenamento do Data Lake do Azure, Azure Data Factory, Azure Data Analytics, Azure Stream Analytics, Databricks do Azure e armazenamento de Blob do Azure.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: projetar soluções de armazenamento de dados do Azure, projetar soluções de processamento de dados e projetar sistemas de segurança e conformidade de dados.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=DP-201&examname=Exam%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 locales:
 - en
 - ja
 - zh-cn
 - ko
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=DP-201&examname=Exame%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 levels:
 - intermediate
 skills:
+- O conteúdo deste exame será atualizado em quinta-feira, 26 de março de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.
+- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - Desenvolver soluções de armazenamento de dados do Azure (40-45%)
 - Desenvolver soluções de processamento de dados (25-30%)
 - Desenvolver o acesso aos dados e a proteção (25-30%)
 roles:
 - data-engineer
-exams:
-- uid: exam.dp-200
 products:
 - azure
 - azure-cosmos-db
@@ -47,6 +46,8 @@ products:
 - azure-storage
 - azure-monitor
 - azure-hdinsight
+exams:
+- uid: exam.dp-200
 courses:
 - uid: course.dp-201t01
 paths:
@@ -63,24 +64,27 @@ relatedCertifications:
 - related:
     uid: certification.azure-data-engineer
 resources:
-- title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Data Engineer Associate.'
+- title: Certificação Caminho de Aprendizagem
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Azure Data Engineer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetir Exame
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Ajuda para exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Políticas de exames e perguntas frequentes
-  description: Consulte as políticas do exame e as perguntas frequentes.
+  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exame e perguntas frequentes
+  description: Reveja as políticas do exame e as perguntas frequentes.
   href: ../certification-exam-policies.md

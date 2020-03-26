@@ -1,0 +1,190 @@
+### YamlMime:Course
+title: Managing Modern Desktops
+metadata:
+  title: 'Course MD-101T00-A: Managing Modern Desktops'
+  description: 'Course MD-101T00-A: Managing Modern Desktops'
+uid: course.md-101t00
+courseNumber: 'MD-101T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planeje, desenvolva e implemente uma implantação do Sistema de Operação, upgrade e estratégia de atualização.
+- skill: Entenda os benefícios e métodos de estratégia de cogerenciamento.
+- skill: Planeje e implemente cadastro e configuração de dispositivo.
+- skill: Gerencie e implante aplicações e planeje uma estratégia de gestão de aplicação móvel.
+- skill: Gerencie usuários e autenticação usando o Azure AD e Active Directory DS.
+- skill: Descreva e implemente métodos usados para proteger dispositivos e dados.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- windows
+exams:
+- uid: exam.md-101
+summary: |-
+  Neste curso, os alunos aprenderão como planejar e implementar uma estratégia de implantação de sistema de operação usando métodos de implantação modernos, assim como implementar uma estratégia de atualização. Os alunos serão introduzidos a componentes principais de gestão moderna e estratégias de cogerenciamento. Este curso também abrange o que leva para incorporar o Microsoft Intune para sua organização. Os alunos também aprenderão sobre métodos para implantação e gerenciamento de aplicações e aplicações baseadas em navegador. Os alunos serão introduzidos aos conceitos principais de segurança em gestão moderna incluindo autenticação, identidades, acesso e políticas de conformidade. Os alunos serão introduzidos a tecnologias como Azure Active Directory, Azure Information Protection e Windows Defender Advanced Threat Protection, assim como alavaná-las para proteger dispositivos e dados.
+
+  #### Perfil do público
+  O Modern Desktop Administrator implanta, configura, protege, gerencia e monitora dispositivos e aplicações de cliente em um ambiente empresarial. As responsabilidades incluem gerenciar identidade, acesso, políticas, atualizações e aplicativos. O MDA colabora com o M365 Enterprise Administrator para projetar e implementar uma estratégia de dispositivo que atenda às necessidades de negócios de uma organização moderna. 
+  
+  O Modern Desktop Administrator deve estar familiar com cargas horárias M365 e deve ter capacidades fortes e experiência de implantação, configurando e mantendo o Windows 10 e dispositivos que não usam o Windows. A função MDA se concentra nos serviços em nuvem, e não nas tecnologias de gerenciamento local.
+prerequisitesSection: |-
+  O Modern Desktop Administrator deve estar familiar com cargas horárias M365 e deve ter capacidades fortes e experiência de implantação, configurando e mantendo o Windows 10 e dispositivos que não usam o Windows. A função MDA se concentra nos serviços em nuvem, e não nas tecnologias de gerenciamento local. É recomendado que os alunos concluam o curso MD-100 Windows 10, antes de fazer este curso.
+outlineSection: |-
+  ### Módulo 1&#58; Planejando uma estratégia de implantação de sistema operacional
+  Este módulo explica como planejar e implementar uma estratégia de implantação. Os alunos aprenderão sobre os conceitos de suportar o desktop através de todo seu ciclo de vida. Este módulo também abrange avaliar um ambiente existente e as ferramentas usadas para preparar uma estratégia de implantação. Finalmente, os alunos serão introduzidos às ferramentas e estratégias usadas para a implantação da área de trabalho.
+  #### Lições
+  - O Enterprise Desktop
+  - Avaliando Prontidão de Implantação
+  - Ferramentas e Estratégias de Implantação
+
+
+  #### Laboratório &#58; Laboratório prático - Planejando a implantação do Windows 10
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descreva o ciclo de vida da área de trabalho empresarial.
+  - Descreva como avaliar um ambiente existente.
+  - Descreva métodos para eliminar bloqueadores de implantação.
+  - Descreva as ferramentas e métodos diferentes para implantação.
+
+
+  ### Módulo 2&#58; Implementando o Windows 10
+  Este módulo abrange os métodos modernos da implantação do Windows usados em cenários comuns como atualização e migração do Windows 10, assim como implantação de novos dispositivos e atualização de dispositivos existentes.  Os alunos aprenderão também sobre métodos alternativos da implantação de OS assim como considerações quando escolhendo métodos de implantação.
+  #### Lições
+  - Atualizando dispositivos para o Windows 10
+  - Implantando Novos Dispositivos e Atualização
+  - Migrando Dispositivos para o Windows 10
+  - Métodos de implantação alternativos
+  - Considerações de imagem
+
+
+  #### Laboratório &#58; Laboratório de Práticas - Implementando o Windows 10
+  - Criando e implantando pacote de provisionamento
+  - Migrar configurações do usuário
+  - Implantando o Windows 10 com o AutoPilot
+
+  Após concluir este cursos, os aprendizes poderão&#58;
+  - Desenvolver uma estratégia de implantação e atualização do sistema operacional.
+  - Compreender os diferentes métodos de implantação
+  - Entender em quais cenários as soluções locais e baseadas na nuvem podem ser usadas para
+  - Implantar e migrar áreas de trabalho para o Windows 10.
+
+
+  ### Módulo 3&#58; Gerenciando atualizações para Windows 10
+  Este módulo aborda o gerenciamento de atualizações no Windows. Este módulo apresenta as opções de manutenção para o Windows 10. Os alunos aprenderão os diferentes métodos para implantar atualizações e como configurar políticas de atualização do Windows. Finalmente, os alunos aprenderão como assegurar e monitorar conformidade de atualização usando o Windows Analytics.
+  #### Lições
+  - Atualizando o Windows 10
+  - Windows Update para empresas
+  - Introdução ao Windows Analytics
+
+
+  #### Laboratório &#58; Laboratório de Práticas - Gerenciando atualizações para Windows 10
+  - Definindo manualmente as configurações de atualização do Windows
+  - Configurando a atualização do Windows usando GPOs
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os canais de manutenção do Windows 10.
+  - Configurar uma política de atualização do Windows usando configurações de política de grupo.
+  - Configurar a atualização do Windows para empresas para implantar atualizações do sistema operacional.
+  - Usar o Windows Analytics para avaliar a disponibilidade e atualizar a conformidade.
+
+
+  ### Módulo 4&#58; Registro do dispositivo
+  Neste módulo, os alunos examinarão os benefícios e pré-requisitos para cogerenciamento e aprender como planejar para isso. Este módulo também abrangerá o Azure AD join e será introduzido ao Microsoft INtune, assim como aprender como configurar políticas para cadastramento de dispositivos. O módulo será concluído com uma visão geral do inventário de dispositivos no Intune e dos relatórios usando o console do Intune, o Power BI e o Microsoft Graph.
+  #### Lições
+  - Opções de gerenciamento de dispositivos
+  - Visão geral do Microsoft Intune
+  - Gerenciar o registro e o inventário de dispositivos do Intune
+  - Gerenciando dispositivos com o Intune
+
+
+  #### Laboratório &#58; Laboratório Prático - Registro e Gerenciamento de Dispositivos
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os benefícios e métodos para migrar para o co-gerenciamento.
+  - Implantar um MDM com o Microsoft Intune.
+  - Configurar registro de dispositivo.
+  - Registrar área de trabalho e dispositivos móveis no Windows Intune.
+  - Configurar e baixar relatórios de inventário.
+
+
+  ### Módulo 5&#58; Configurando perfis
+  Este módulo mergulha mais profundamente nos perfis de dispositivos do Intune, incluindo os tipos de perfis de dispositivos e a diferença entre perfis internos e personalizados. O aluno aprenderá sobre a atribuição de perfis a grupos do Azure AD e o monitoramento de dispositivos e perfis no Intune. O módulo será concluído com uma visão geral do uso do Windows Analytics para relatórios de integridade e conformidade.
+  #### Lições
+  - Configurando perfis de dispositivo
+  - Gerenciamento de perfis de usuário
+  - Dispositivos de monitoramento
+
+
+  #### Laboratório &#58; Laboratório prático - Gerenciamento de perfis
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os tipos de perfis de dispositivo.
+  - Criar e atribuir perfis de dispositivo.
+  - Configurar perfil de usuário e redirecionamento de pasta.
+  - Monitorar e relatar dispositivos usando o Intune e o Windows Analytics.
+
+
+  ### Módulo 6&#58; Gerenciamento de aplicativos
+  Neste módulo, os alunos aprendem sobre o gerenciamento de aplicativos no local e soluções baseadas na nuvem. Este módulo abordará como gerenciar implantações do Office 365 ProPlus no Intune, além de como gerenciar aplicativos em dispositivos não registrados. O módulo será concluído com uma visão geral do Modo Empresarial com Internet Explorer e Microsoft Edge e rastreando seus aplicativos instalados, licenças e aplicativos atribuídos usando o Intune.
+  #### Lições
+  - Implementar o gerenciamento de aplicativos móveis (MAM)
+  - Implantar e atualizando aplicativos
+  - Administrando aplicativos
+
+
+  #### Laboratório &#58; Laboratório Prático - Gerenciando Aplicativos
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os métodos para gerenciamento de aplicativos.
+  - Implantar aplicativos usando o Intune e a política de grupo.
+  - Configurar Microsoft Store para Empresas.
+  - Implantar o Office365 ProPlus usando o Intune.
+  - Gerenciar e reportar inventário e licenças de aplicativos.
+
+
+  ### Módulo 7&#58; Gerenciando a autenticação no Azure AD
+  Neste módulo, os alunos serão introduzidos ao conceito de diretório na nuvem com o Azure AD. Os alunos aprenderão as semelhanças e diferenças entre o Azure AD e o Active Directory DS e como sincronizar entre os dois. Os alunos explorarão o gerenciamento de identidades no Azure AD e aprenderão sobre proteção de identidades usando o Windows Hello for Business, bem como Proteção de Identidade do Azure AD e autenticação multifator.
+  #### Lições
+  - Visão geral do Azure AD
+  - Gerenciando identidades no Azure AD
+  - Protegendo identidades no Azure AD
+  - Gerenciando a autenticação do dispositivo
+
+
+  #### Laboratório &#58; Laboratório de Práticas - Gerenciando objetos e autenticação no Azure AD
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os recursos do Azure AD.
+  - Gerenciar usuários usando o Azure AD com o Active Directory DS.
+  - Implementar o Windows Hello for Business.
+  - Associar dispositivos ao Azure AD.
+
+
+  ### Módulo 8&#58; Gerenciamento de acesso e conformidade de dispositivo
+  Neste módulo, os alunos serão introduzidos para gerenciamento de segurança de dispositivo. O módulo abrangerá seguramente o acesso de recursos corporativos e introduzirá conceitos como VPN sempre ligada e conectividade remota no Windows 10. Os alunos aprenderão como criar e implantar políticas de conformidade e usar políticas de conformidade para acesso condicional. O módulo termina com os dispositivos de monitoramento registrados no Intune.
+  #### Lições
+  - Visão geral do Microsoft Intune
+  - Implementar políticas de conformidade de dispositivos
+
+
+  #### Laboratório &#58; Laboratório prático - Gerenciamento de acesso e conformidade
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os métodos de Habilitando o acesso de redes externas.
+  - Implantar políticas de conformidade e acesso condicional.
+  - Usar o Intune para monitorar a conformidade do dispositivo.
+
+
+  ### Módulo 9&#58; Gerenciando a segurança
+  Neste módulo, os alunos aprenderão sobre proteção de dados. Os tópicos incluem o Windows & Azure Information Protection e várias tecnologias de criptografia suportadas no Windows 10. Este módulo também abrange capacidades principais do Windows Defender Advanced Threat Protection e como implementar essas capacidades em dispositivos na sua organização. O módulo termina usando o Windows Defender e funcionalidades como antivírus, firewall e Credential Guard.
+  #### Lições
+  - Implementar proteção de dados do dispositivo
+  - Gerenciar o Windows Defender ATP
+  - Gerenciando o Windows Defender no Windows 10
+
+
+  #### Laboratório &#58; Laboratório de prática - Gerenciando a segurança no Windows 10
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os métodos Protegendo os dados do dispositivo.
+  - Descreve as capacidades e benefícios do Windows ATP.
+  - Implantar e gerenciar configurações para clientes Windows Defender.

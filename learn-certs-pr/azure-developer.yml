@@ -2,20 +2,20 @@
 title: 'Microsoft Certified: Azure Developer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Developer Associate'
-  description: Os desenvolvedores Microsoft Azure concebem, constroem, testam e mantêm soluções em nuvem, tais como aplicações e serviços, estabelecendo parcerias com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar estas soluções
+  description: 'Microsoft Azure developers concebem, constroem, testam e mantêm soluções em nuvem, tais como aplicações e serviços, estabelecendo parcerias com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar estas soluções.'
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Os desenvolvedores do Microsoft Azure projetam, criam, testam e mantêm soluções em nuvem, como aplicativos e serviços, em parceria com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar essas soluções.
-subTitle: Os desenvolvedores do Microsoft Azure projetam, criam, testam e mantêm soluções em nuvem, como aplicativos e serviços, em parceria com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar essas soluções.
+summary: |-
+  Microsoft Azure Developers concebem, constroem, testam e mantêm soluções em nuvem, tais como aplicações e serviços, estabelecendo parcerias com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar estas soluções.
+subTitle: Microsoft Azure Developers concebem, constroem, testam e mantêm soluções em nuvem, tais como aplicações e serviços, estabelecendo parcerias com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar estas soluções.
 levels:
 - intermediate
 skills:
-- Desenvolver o Azure Infrastructure  como uma solução de computação de Serviço
-- Desenvolver a Plataforma Azure como uma solução de computação de Serviço
-- Desenvolver para  armazenamento Azure
+- Desenvolver soluções de computação do Azure
+- Desenvolva para armazenamento Azure
 - Implementar a segurança Azure
-- Monitorar, solucionar problemas e otimizar soluções
-- Conectar e consumir serviços da Azure e de terceiros
+- Monitorar, solucionar problemas e otimizar soluções Azure
+- Conectar a e consumir serviços Azure e serviços de terceiros
 roles:
 - developer
 type: role-based
@@ -52,23 +52,23 @@ paths:
 - uid: learn.data-ai.intro-to-ml-with-python
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUJ
 exams:
-- uid: exam.az-203
+- uid: exam.az-204
 resources:
-- title: Certificação Caminhos de Aprendizagem
-  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Developer Associate.'
+- title: Certificação Caminho de Aprendizagem
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Azure Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Resposta ao exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Suporte para certificações
-  description: Obtenha ajuda através do fóruns de suporte  da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio às certificações
+  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Reveja e gerencie seus compromissos, certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx

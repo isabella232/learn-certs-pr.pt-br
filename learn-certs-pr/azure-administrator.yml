@@ -2,17 +2,18 @@
 title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Administrator Associate'
-  description: Azure Administrators implementam, monitoram e mantém soluções do Microsoft Azure, incluinfo os principais serviços relacionados à computação, armazenamento, rede e segurança.
+  description: 'Os Azure administradores implementam, monitoram e mantêm soluções da Microsoft Azure, incluindo os principais serviços relacionados a computação, armazenamento, rede e segurança.'
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Azure Administrators implementam, monitoram e mantém soluções do Microsoft Azure, incluinfo os principais serviços relacionados à computação, armazenamento, rede e segurança. [Saiba mais sobre as alterações a esta certificação que entraram em vigor em 01 de maio de 2019.](/learn/certifications/posts/simplifying-the-certification-path-for-microsoft-certified-azure-administrator-associate)
-subTitle: Azure Administrators implementam, monitoram e mantém soluções do Microsoft Azure, incluinfo os principais serviços relacionados à computação, armazenamento, rede e segurança.
+summary: |-
+  Os Azure administradores implementam, monitoram e mantêm soluções da Microsoft Azure, incluindo os principais serviços relacionados a computação, armazenamento, rede e segurança.
+subTitle: Os Azure administradores implementam, monitoram e mantêm soluções da Microsoft Azure, incluindo os principais serviços relacionados a computação, armazenamento, rede e segurança.
 levels:
 - intermediate
 skills:
-- Gerenciar as assinaturas e recursos do Azure
+- Gerenciar assinaturas e recursos do Azure
 - Implementar e gerenciar armazenamento
-- Implantar e gerenciar máquina virtuais (VMs)
+- Implementar e gerenciar máquinas virtuais (VMs)
 - Configurar e gerenciar redes virtuais
 - Gerenciar identidades
 roles:
@@ -28,29 +29,36 @@ products:
 courses:
 - uid: course.az-103t00
 paths:
-- uid: learn.secure-your-cloud-data
 - uid: learn.administer-infrastructure-resources-in-azure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-migration-bcdr
 - uid: learn.manage-resources-in-azure
+- uid: learn.security.manage-identity-and-access
+- uid: learn.security.manage-security-operations
+- uid: learn.security.implement-resource-mgmt-security
 - uid: learn.administer-containers-in-azure
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
 - uid: exam.az-103
 resources:
-- title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Administrator Associate.'
+- title: Certificação Caminho de Aprendizagem
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Azure Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetir Exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Suporte para certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio às certificações
+  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx

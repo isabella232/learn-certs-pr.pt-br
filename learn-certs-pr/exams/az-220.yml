@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: Microsoft Azure IoT Developer (beta)
+metadata:
+  title: 'Exam AZ-220: Microsoft Azure IoT Developer (beta)'
+  description: 'Exam AZ-220: Microsoft Azure IoT Developer (beta)'
+uid: exam.az-220
+displayName: AZ-220
+summary: |-
+  O zure IoT Developer é responsável pela implementação e codificação necessárias para criar e manter a parte de nuvem e edge de uma solução de IoT. Além de configurar e manter os dispositivos usando serviços em nuvem, o IoT Developer também configura os dispositivos físicos. O desenvolvedor da IoT é responsável por manter os dispositivos durante todo o ciclo de vida.
+
+  O desenvolvedor da IoT implementa projetos para soluções da IoT, incluindo topologia, conectividade, depuração e segurança de dispositivos. O desenvolvedor da IoT implanta computação/contêineres e configura a rede do dispositivo. O desenvolvedor da IoT implementa projetos de soluções para gerenciar pipelines de dados, incluindo monitoramento e transformação de dados relacionados à IoT. O desenvolvedor da IoT trabalha com engenheiros de dados e outras partes interessadas para garantir uma integração comercial bem-sucedida.
+
+  Os desenvolvedores de IoT devem ter um bom entendimento de como implementar os serviços do Azure que formam uma solução de IoT, incluindo opções de armazenamento de dados, análise de dados, processamento de dados e opções de plataforma como serviço. Os desenvolvedores de IoT devem poder reconhecer as configurações de serviço de IoT do Azure na parte de código de uma solução de IoT e executar tarefas específicas de codificação de IoT em pelo menos um idioma suportado pelo Azure, incluindo C#, Node, C ou Python.
+  
+  <div style='color&#58; red;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</div>
+subTitle: 'Este exame mede sua capacidade de implementar a infraestrutura da solução de IoT; provisionar e gerenciar dispositivos; implementar soluções em dispositivos Azure IoT Edge; processar e gerenciar dados; monitorar, solucionar problemas e otimizar soluções de IoT; e implementar segurança .'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
+- Implementar a infraestrutura da solução de IoT (15-20%)
+- Fornecer e gerenciar dispositivos (20-25%) 
+- Implementar o Edge (15-20%)
+- Processar e gerenciar dados (15-20%)
+- Monitorar, solucionar problemas e otimizar soluções IoT (15-20%)
+- Implementar a segurança (15-20%)
+roles:
+- developer
+products:
+- azure
+- azure-iot-central
+- azure-iot-hub
+courses:
+- uid: course.az-220t00
+relatedCertifications:
+- related:
+    uid: certification.azure-iot-developer-specialty
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Apoio aos exames de certificação
+  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exame e perguntas frequentes
+  description: Reveja as políticas do exame e as perguntas frequentes.
+  href: ../certification-exam-policies.md

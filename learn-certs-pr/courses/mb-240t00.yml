@@ -1,0 +1,184 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Field Service
+metadata:
+  title: 'Course MB-240T00-A: Microsoft Dynamics 365 Field Service'
+  description: 'Course MB-240T00-A: Microsoft Dynamics 365 Field Service'
+uid: course.mb-240t00
+courseNumber: 'MB-240T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificar os principais componentes envolvidos nas implementações de serviço de campo.
+- skill: Defina os produtos e serviços que serão entregues aos clientes.
+- skill: Determine quais opções de preço usar em cenários específicos.
+- skill: Determine quais recursos são necessários.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics
+- dynamics-field-service
+exams:
+- uid: exam.mb-240
+summary: |-
+  O Dynamics 365 Field Service ajuda as organizações a se posicionar melhor no mercado, fornecendo uma variedade de ferramentas que ajudam a identificar e agendar recursos e gerenciar cargas de trabalho para trabalhadores móveis. Este curso fornecerá aos alunos as habilidades necessárias para identificar e configurar os principais componentes usados ​​para fornecer serviço de campo e soluções móveis. Os principais tópicos incluem a identificação das considerações organizacionais que orientarão as decisões de configuração e os aspectos comuns de configuração.
+  Este curso ajuda os alunos a entender melhor o panorama geral e as metas finais focadas em implementações que ajudam a projetar soluções mais eficientes que se alinham aos objetivos organizacionais e do cliente.
+
+  #### Perfil do público
+  Este curso foi desenvolvido para profissionais de TI com experiência ou interesse em fornecer soluções de serviço de campo para clientes de grande escala.
+outlineSection: |-
+  ### Módulo 1&#58; Configurar serviço de campo
+  Neste módulo introdutório, apresentaremos os principais conceitos do Dynamics 365 Field Service, incluindo produtos, serviços e códigos tributários.
+  #### Lições
+  - Introdução ao Serviço de configuração de campo
+  - Definir produtos e serviços
+  - Definir códigos fiscais
+
+  Os você estarão aptos a&#58;
+  - Criar e gerenciar produtos e serviços
+  - Configurar códigos de imposto para sua organização
+
+
+  ### Módulo 2&#58; Configuração de agendamento de recursos
+  Neste módulo, exploraremos o conceito de agendamento de recursos e aprenderemos como configurar o sistema para agendar recursos com eficiência.
+  #### Lições
+  - Informações de mapeamento e localização
+  - Configurando componentes de recursos
+  - Definindo preferências da conta
+
+  Os você estarão aptos a&#58;
+  - Configurar o agendamento de recursos para sua organização
+  - Definir preferências da conta
+  - Ativar mapeamento de localização
+
+
+  ### Módulo 3&#58; Definindo e configurando recursos reserváveis
+  Neste módulo, aprenderemos como criar e gerenciar recursos reserváveis, incluindo conjuntos de recursos e equipes.
+  #### Lições
+  - Definir recursos reserváveis
+  - Grupos de recursos, equipes e instalações
+
+  Os você estarão aptos a&#58;
+  - Definir recursos reserváveis
+  - Criar conjuntos e equipes
+  - Gerir registros de instalação
+
+
+  ### Módulo 4&#58; Configurar Incidentes
+  Neste módulo, aprenderemos como os incidentes podem melhorar a eficiência e a consistência da programação da sua organização.
+  #### Lições
+  - Criar incidentes
+  - Usando tarefas de serviço
+
+  Os você estarão aptos a&#58;
+  - Criar um incidente para tarefas comuns de serviço
+  - Programar usando incidentes
+
+
+  ### Módulo 5&#58; Gerenciamento de Estoque e Ordem de Serviço
+  Neste módulo, aprenderemos como criar e usar ordens de serviço para agendar recursos.
+  #### Lições
+  - Configurar ordens de serviço do serviço de campo
+  - Criando ordens de serviço
+  - Gerenciar ordens de trabalho
+
+  Os você estarão aptos a&#58;
+  - Configurar ordens de serviço
+  - Programar recursos usando ordens de serviço
+
+
+  ### Módulo 6&#58; Contratos de serviço de campo
+  Neste módulo, apresentaremos contratos e aprenderemos a configurá-los para sua organização.
+  #### Lições
+  - Usar contratos de serviço de campo
+  - Configurar reservas
+  - Configurar faturas
+
+  Os você estarão aptos a&#58;
+  - Usar um contrato para agendar ordens de serviço
+  - Gerar faturas para clientes
+
+
+  ### Módulo 7&#58; Inventário e Compras
+  Neste módulo, aprenderemos sobre o gerenciamento de ativos do cliente.
+  #### Lições
+  - Gerenciar os ativos de um consumidor
+  - Gerenciar estoque
+  - Compras e devoluções
+
+  Os você estarão aptos a&#58;
+  - Criar registros do cliente
+  - Gerenciar estoque, compras e devoluções
+
+
+  ### Módulo 8&#58; Field Service Mobile
+  Neste módulo, aprenderemos como usar e configurar o aplicativo Field Service Mobile para uma força de trabalho móvel.
+  #### Lições
+  - Visão geral do cliente móvel
+  - Instalar e implantar projetos móveis de serviço de campo
+  - Gerenciar projetos móveis
+  - Implantar o cliente móvel
+
+  Os você estarão aptos a&#58;
+  - Gerenciar projetos móveis
+  - Instalar e implementar o cliente móvel
+  - Descrever o valor do aplicativo móvel para uma força de trabalho móvel
+
+
+  ### Módulo 9&#58; Programação Universal de Recursos
+  Neste módulo, apresentaremos o conceito de Agendamento Universal de Recursos e descreveremos como ele pode ser aproveitado para uma organização.
+  #### Lições
+  - Visão geral e configuração de URS
+  - Ativando entidades para URS
+  - Personalizar entidades para URS
+
+  Os você estarão aptos a&#58;
+  - Configurar Programação de Recurso Universal
+  - Ativar entidades para URS
+
+
+  ### Módulo 10&#58; Gerenciando opções de agendamento
+  Neste módulo, aprenderemos como usar o quadro de agendamento para reagendar, substituir recursos e agendar pools e equipes.
+  #### Lições
+  - Usar o quadro de agendamento
+  - Itens de agendamento
+  - Reagendar e substituir recursos
+  - Agendamento de tripulação e conjunto
+
+  Os você estarão aptos a&#58;
+  - Configurar e usar o quadro de agendamento para agendar recursos
+  - Reagendar ordens de serviço
+  - Recursos substitutos
+
+
+  ### Módulo 11&#58; Personalizando o Quadro de Programação
+  Neste módulo, aprenderemos como configurar o quadro de agendamento para melhor atender às necessidades da organização ou do agendador.
+  #### Lições
+  - Configurar o quadro
+  - Criar quadros de agendamento adicionais
+  - Usar visualizações para aprimorar o quadro de agendamento
+  - Configurar consultas e filtros do quadro de agendamento
+  - Trabalhando com grupos de requisitos
+
+  Os você estarão aptos a&#58;
+  - Personalizar o quadro de agendamento
+  - Criar quadros adicionais
+  - Adicionar vistas a quadro de agendamento
+
+
+  ### Módulo 12&#58; Opções de agendamento avançado
+  Neste módulo, aprofundaremos as opções para personalizar o agendamento de ordens de serviço com base em requisitos comerciais exclusivos.
+  #### Lições
+  - Trabalhando com otimização de agendamento de recursos
+  - Definindo metas de otimização
+  - Definindo escopos de otimização
+  - Definindo perfis de otimização
+  - Programação de recurso único
+
+  Os você estarão aptos a&#58;
+  - Definir otimização para uma organização
+  - Programar recursos únicos
