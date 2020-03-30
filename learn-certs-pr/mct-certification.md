@@ -37,6 +37,7 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
 
 
 ### Requisitos para inscrição no Programa MCT
+
 - Possuir uma Certificação Microsoft atual ou uma qualificação aceitável para o programa MCT. 
 (veja abaixo a lista de certificações de qualificação)
 - Demonstrar habilidades de instrução verificadas por um dos seguintes:
@@ -76,7 +77,7 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
 - [Microsoft Certified: Azure Administrator Associate](https://www.microsoft.com/learning/azure-administrator.aspx)
 - [Microsoft Certified: Azure Developer Associate](https://www.microsoft.com/learning/azure-developer.aspx)
 - [Microsoft Certified: Azure Security Engineer Associate](https://www.microsoft.com/learning/azure-security-engineer.aspx)
-- [Microsoft Certified: Azure DevOps Expert](https://www.microsoft.com/learning/azure-devops.aspx)
+- [Microsoft Certified: Azure DevOps Engineer Expert](https://www.microsoft.com/learning/azure-devops.aspx)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
@@ -97,7 +98,7 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
 - [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-supply-chain-management.aspx)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
-- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/powerapps-and-d365-developer-associate)
+- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
 - [Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
 - [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): Relatório de BI (Aposentando em 30 de junho de 2020), Microsoft Dynamics 365 for Operations (Aposentando em 30 de junho de 2020), SQL 2016 Desenvolvimento de BI (Aposentando em 30 de junho de 2020), SQL 2016 Database Administration (Aposentando em 30 de junho de 2020), SQL 2016 Database Development (Aposentando em 30 de junho de 30, 2020), SQL Server 2012/2014 (Aposentando em 30 de junho de 2020), Universal Windows Platform (Aposentando em 30 de junho de 2020), Web Applications (Aposentando em 30 de junho de 2020), Windows Server 2012 (Aposentando em 30 de junho de 2020), ou Windows Server 2016 (Aposentando em 30 de junho de 2020)
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Aplicações de Negócios (Aposentando em 30 de junho de 2020), Gestão de Dados e Análise (Aposentando em 30 de junho de 2020), Produtividade (Aposentando em 30 de junho de 2020), ou Infraestrutura Central (Aposentando em 30 de junho de 2020)

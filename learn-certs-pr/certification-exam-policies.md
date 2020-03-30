@@ -11,7 +11,7 @@ ms.author: micsullivan
 ---
 # Políticas de exame e perguntas frequentes
 
-Em todo o mundo, parceiros e clientes procuram a Microsoft para entregar as certificações e exames de qualidade mais alta. As políticas do exame da Certificação Microsoft foram criadas para apoiar os objetivos do programa de certificação, incluindo:
+Em todo o mundo, parceiros e clientes procuram a Microsoft para entregar as certificações e exames de qualidade mais alta. As políticas do Microsoft Certification Exam foram criadas para apoiar os objetivos do programa de certificação, incluindo:
 
 ## <a name="security-policies"></a> Políticas de segurança e reaplicação
 
@@ -103,6 +103,14 @@ Os centros de testes nesses três países precisam confirmar e registrar que cad
 
 **Importante: Caso você não seja residente legítimo da Índia, China ou Paquistão, não poderá se inscrever em um exame de Certificação Microsoft naquele país.**
 
+### Testes para cidadãos da Eslovênia ou com identificação da cidadania eslovena
+
+Devido às leis de privacidade na Eslovênia, o Pearson VUE não pode oferecer exames supervisionados online a candidatos que vivem na Eslovênia ou que tenham identificação com cidadania eslovena. Esses candidatos podem fazer os exames por meio do Centro de Teste Pearson VUE (PVTC).
+
+- Os candidatos que residem na Eslovênia somente receberão a entrega do Centro de Testes como opção ao agendar um exame.
+
+- Os candidatos que residem fora da Eslovênia podem ver a monitoração online como uma opção de teste disponível, no entanto, não poderão concluir com êxito o teste quando apresentarem a identificação de cidadania eslovena (passaporte ou outra identificação) como prova de identificação. Esses candidatos devem agendar um exame no Centro de Testes Pearson VUE (PVTC).
+
 ### Nova tentativa de teste do candidato por solicitação da Microsoft
 
 1. A Microsoft se reserva o direito de solicitar que qualquer candidato refaça o teste por suspeitar de qualquer atividade fraudulenta ou comportamento atípico a qualquer momento.
@@ -136,7 +144,7 @@ Você deve verificar seu status de estudante antes de agendar seu exame para se 
 ### Confirmar status de aluno por meio do perfil da conta
 
 1. Faça login com as credenciais da sua conta da Microsoft.
-2. Selecione **Configurações de perfil** no menu **Conta** na parte superior da página.
+2. Selecione **Configurações de perfil no menu **Conta** na parte superior da página.
 3. No menu **Função de trabalho**, selecione ou certifique-se de que "Aluno" esteja selecionado.
 4. Localize o aviso de preço acadêmico exibido ao lado do menu **Função de trabalho**. Se seu status de aluno não tiver sido validado, clique em "Verificar" para verificar seu status.
 
@@ -183,7 +191,7 @@ Este Contrato é celebrado a partir da data de sua aceitação entre você ("**V
     - Modificar ou alterar o exame, a pontuação do exame ou qualquer registro do exame.
     - Enviar qualquer trabalho ou respostas que não sejam inteiramente suas.
     - Fornecer ou receber assistência inadequada durante o exame.
-    - Buscar ou obter acesso não autorizado a exames de Certificação Microsoft ou Informações relacionadas ao exame (isso inclui o uso de material de despejo ou publicação não autorizada de perguntas do exame com ou sem respostas).
+    - Buscar ou obter acesso não autorizado a Microsoft Certification exams ou Informações relacionadas ao exame (isso inclui o uso de material de despejo ou publicação não autorizada de perguntas do exame com ou sem respostas).
     - Possuir itens não autorizados ao fazer um exame, incluindo telefones celulares, dispositivos eletrônicos, laptops, relógios, notas, documentação ou conteúdo.
     - Conduta indevida determinada por análise estatística.
     - Tentar fazer engenharia reversa, descompilar ou desmontar qualquer exame.
@@ -229,9 +237,9 @@ Este Contrato é celebrado a partir da data de sua aceitação entre você ("**V
 
 7. **PROPRIEDADE E TODOS OS DIREITOS RESERVADOS**
 
-    7,1. **Propriedade**. A Microsoft possui e detém todos os direitos, títulos e interesses relacionados ao exame de Certificação Microsoft.
+    7.1. **Propriedade**. A Microsoft possui e detém todos os direitos, títulos e interesses relacionados ao exame de Certificação Microsoft.
 
-    7,2. **Ressarcimento**. Além de outros direitos e ações corretivas fornecidos por lei ou por este Acordo do exame, a Microsoft se reserva expressamente todos os direitos e ações corretivas inerentes de uma violação deste Acordo de exame e/ou violação de qualquer direito de propriedade intelectual da Microsoft.
+    7.2. **Ressarcimento**. Além de outros direitos e ações corretivas fornecidos por lei ou por este Acordo do exame, a Microsoft se reserva expressamente todos os direitos e ações corretivas inerentes de uma violação deste Acordo de exame e/ou violação de qualquer direito de propriedade intelectual da Microsoft.
 
 
 ## Acordo do Programa de Certificação Microsoft
@@ -245,13 +253,12 @@ Este Acordo do Programa de Certificação Microsoft (**"Acordo"**) é um documen
    3. "***Microsoft***" ignifica a entidade Microsoft identificada na Seção 12.4.
    4. "***Certificação Microsoft***"se refere à aprovação nos exames e ao cumprimento da conformidade de todos os requisitos de certificação e recertificação para obter o direito ao uso da credencial correspondente. A lista de Certificações Microsoft está localizada em [Certificações Microsoft](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based).
    5. "***Credencial da Certificação Microsoft***" ou "***Credencial***" significa o título completo ou abreviado de uma Certificação Microsoft específica que é utilizada para comprovar o cumprimento por um indivíduo dos requisitos de uma Certificação Microsoft específica.
-   6. "***Exame da Certificação Microsoft***" ou "***Exame***" significa um exame de certificação Microsoft destinado a validar as habilidades de um indivíduo para uma determinada tecnologia Microsoft que é o assunto do exame.
-   
+   6. "***Microsoft Certification Exam***" ou "***Exame***" significa um exame de certificação Microsoft destinado a validar as habilidades de um indivíduo para uma determinada tecnologia Microsoft que é o assunto do exame.
 
 2. CERTIFICAÇÃO MICROSOFT
    1. *Para obter ou manter uma Certificação Microsoft*: Para obter e manter uma Certificação Microsoft, é necessário:
-          
-        1. Ser aprovado em todos os exames exigidos e atender a todos os requisitos de certificação e recertificação para a [Microsoft Certification](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) aplicável,
+
+        1. Ser aprovado em todos os exames exigidos e atender a todos os requisitos de certificação e recertificação para a [Certificação Microsoft](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) aplicável ,
         2. Aceitar os termos e condições do presente Acordo,
         3. Cumprir com os termos e condições da versão atual do Acordo, Diretrizes e todos os requisitos do Programa, e
         4. Cumprir com todos os requisitos adicionais para a Certificação Microsoft aplicável.
@@ -260,7 +267,7 @@ Este Acordo do Programa de Certificação Microsoft (**"Acordo"**) é um documen
 
    3. *Violação do acordo de exames*
 
-        1. Todos os exames da Certificação Microsoft, incluindo perguntas e respostas, constituem informações confidenciais da Microsoft protegidas pela lei de segredo comercial e pelo Acordo de Confidencialidade e Termos Gerais de Uso dos Exames de Certificação Microsoft ("***Acordo de exames***"), não podendo ser divulgados a outrem nem publicados em fóruns ou outros meios.
+        1. Todos os Microsoft Certification Exams, incluindo perguntas e respostas, constituem informações confidenciais da Microsoft protegidas pela lei de segredo comercial e pelo Acordo de Confidencialidade e Termos Gerais de Uso dos Microsoft Certification exams ("***Acordo de exames***"), não podendo ser divulgados a outrem nem publicados em fóruns ou outros meios.
 
         2. Se a Microsoft acreditar que você violou o Acordo de exames ou envolveu-se em algum comportamento fraudulento ou de má conduta que possa diminuir ou comprometer a segurança ou a integridade do Programa de alguma forma, sua certificação será anulada, você será desqualificado do Programa e não mais poderá participar dele.
 
@@ -283,7 +290,7 @@ Este Acordo do Programa de Certificação Microsoft (**"Acordo"**) é um documen
 
    2. *Uso de informações pessoais*: Você concorda que a Microsoft pode, ocasionalmente, entrar em contato com você para convidá-lo a participar de levantamentos e pesquisas.
 
-   3. *Divulgação de informações pessoais*: Você concede à Microsoft o direito de compartilhar seu nome, informações de contato (incluindo endereço de e-mail), nome da empresa do empregador, as Credenciais que você obteve e seu status no Programa com (i) outros programas da Microsoft para verificar sua conformidade e de seu empregador aos outros requisitos do programa da Microsoft e (ii) com as Afiliadas Microsoft e com os prestadores de entrega de exames terceiros e centros de testes que oferecem Exames de Certificação Microsoft com relação à sua participação no Programa.
+   3. *Divulgação de informações pessoais*: Você concede à Microsoft o direito de compartilhar seu nome, informações de contato (incluindo endereço de e-mail), nome da empresa do empregador, as Credenciais que você obteve e seu status no Programa com (i) outros programas da Microsoft para verificar sua conformidade e de seu empregador aos outros requisitos do programa da Microsoft e (ii) com as Afiliadas Microsoft e com os prestadores de entrega de exames terceiros e centros de testes que oferecem Microsoft Certification Exams com relação à sua participação no Programa.
 
 6. SUAS RESPONSABILIDADES
    1. *Práticas comerciais*:
@@ -296,7 +303,7 @@ Este Acordo do Programa de Certificação Microsoft (**"Acordo"**) é um documen
 
    2. *Transcripts*: Você é responsável por rever seu histórico de Certificação Microsoft para garantir que reflita com precisão as credenciais que você atualmente possui. Se você acredita que seu histórico está impreciso, tem até 1 (um) ano a partir da data em que obteve aprovação no último exame necessário para obter ou manter a Credencial em questão para enviar um pedido à Microsoft para avaliar o cumprimento de qualquer Credencial que você acredita que atualmente possui e que não aparece em seu histórico.
 
-7. CHANGES
+7. ALTERAÇÕES
 
    A Microsoft se reserva o direito de (a) atualizar e alterar o Acordo e Diretrizes, (b) alterar o Programa ou algum aspecto a qualquer momento, incluindo o direito de desativar Credenciais, alterar requisitos de certificação e requisitos e benefícios do Programa e de (c) descontinuar o Programa. A Microsoft publicará as alterações no [site de Certificação Microsoft](https://www.microsoft.com/learning/program-membership.aspx). Você é responsável por verificar periodicamente as alterações nos sites de Microsoft Certified Professional. As mudanças passam a vigorar na data em que são publicadas. As mudanças não são retroativas.
 
@@ -431,9 +438,9 @@ Updated: Dezembro de 2013
 
 ## Como solicitar crédito estudantil para certas certificações e programas Professional
 
-Você pode se qualificar para receber créditos estudantis através do Excelsior College, uma instituição regional credenciada. O National College Credit Recommendation Service (NCCRS) estabeleceu recomendações de crédito para os seguintes exames de certificação Microsoft:
+Você pode se qualificar para receber créditos estudantis através do Excelsior College, uma instituição regional credenciada. O National College Credit Recommendation Service (NCCRS) estabeleceu recomendações de crédito para os seguintes Microsoft Certification exams:
 
-**Exames de Certificação Microsoft**
+**Microsoft Certification Exams**
 
 [AZ-100: Microsoft Azure Infrastructure and Deployment](https://www.microsoft.com/learning/exam-AZ-100.aspx)
 
@@ -491,23 +498,38 @@ Para mais informações, visite: [Crédito NCCRS para Certificações Microsoft]
 
 Baixar: [Formulário de serviço de transcrição](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## <a name="policies-5"></a> Como contestar um item do exame de Certificação Microsoft
+## <a name="policies-5"></a> Como contestar um item do Microsoft Certification exam
 
-[Cada pergunta do exame é cuidadosamente revisada](https://www.microsoft.com/learning/certification-exams.aspx) por uma bancada de especialistas técnicos e peritos que analisam todas as perguntas visando a precisão, clareza e relevância. Se você acredita que determinada pergunta encontrada em uma Certificação Microsoft seja inválida, solicite uma avaliação da pergunta seguindo as etapas descritas abaixo. Você deve enviar um formulário de contestação de item de exame dentro de 30 dias após fazer o exame.
+Os exames de certificação da Microsoft são projetados para garantir que os candidatos aprovados e obtenham nossas certificações demonstrem os níveis de proficiência exigidos nos domínios de habilidade. Cada pergunta do exame de certificação da Microsoft é cuidadosamente revisada por um painel de especialistas e técnicos da área e para precisão, clareza e relevância técnicas. Se você acredita que determinada questão de um Microsoft Certification Exam seja imprecisa, solicite uma avaliação da questão usando o formulário de contestação de item de exame, criado para ajudar a identificar e corrigir perguntas problemáticas. No entanto, mesmo que uma pergunta tenha sido formulada de maneira errônea, não podemos supor que você a teria respondido corretamente, portanto, a maioria dos exames não é salva. Nesses casos, oferecemos aos candidatos a oportunidade de fazer novamente o exame gratuitamente.
 
-**Observação:** Não use o processo de contestação de item de exame para fornecer comentários sobre as perguntas do exame beta. As perguntas do exame beta geralmente são modificadas de alguma forma com base nos comentários recebidos durante esse processo e podem ser removidas do pool de perguntas. Se você tiver comentários adicionais sobre um exame Beta que não puderam ser fornecidos durante o período de comentários, envie-os para [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
+### Critérios para aceitação de uma contestação de itens de exame:
 
-### Etapas para contestar itens do exame
+- O exame deve ter sido realizado nos últimos 30 dias (consecutivos).
+- Pedidos de análises de pontuação.
+- Contestação sobre um item específico do exame.
 
-1. Poste sua contestação de item de exame no fórum de suporte de certificação da Microsoft [fórum de suporte de certificação da Microsoft](https://aka.ms/MCPForum).
-2. No prazo de 1 a 2 dias, o representante do fórum enviará o **formulário de contestação de item de exame** para que você o preencha. O formulário inclui informação específica de como apresentar seu desafio.
-   - As contestações de item de exame só são aceitas se você enviar o formulário de contestação de item de exame ao representante do fórum no prazo máximo de 30 dias após a realização do exame.
-   - As contestações de item de exame não serão aceitas para exames a serem desativados dentro de 6 meses.
-3. No prazo de 4 a 6 semanas, o representante do fórum fornecerá os resultados da contestação de item de exame.
+### As contestações de itens do exame não serão aceitos para os seguintes critérios:
 
-O processo de contestação existe para ajudar a identificar e corrigir questões problemáticas. Na maioria dos casos, no entanto, os exames não recebem uma nova pontuação, pois a Microsoft deve garantir que os candidatos aprovados no exame e que recebem suas certificações demonstraram os níveis de proficiência necessários entre os domínios da competência. Mesmo que você tenha, de alguma maneira, respondido uma pergunta incorretamente, não podemos supor que você a tenha respondido corretamente. Nesses casos, oferecemos aos candidatos a oportunidade de fazer novamente o exame gratuitamente.
+- Contestações do exame inteiro.
+- Contestações baseadas em materiais de estudo (testes práticos, guias de estudo, materiais de treinamento etc.)
+- Contestações para a adequação de uma pergunta.
+- O envio deve ser feito 30 dias corridos (consecutivos) após a realização do exame.
+- Contestações baseados em questões técnicas enfrentadas em um centro de testes.
+- Contestações que não são enviados por meio deste formulário.
+- Contestações de metodologias de pontuação (por exemplo: o gráfico de barras não representa a pontuação real).
+- Contestações do formato do exame (padrão, ordenado, adaptável).
+- Contestações para os exames beta. Se você tiver comentários adicionais sobre um exame Beta que não puderam ser fornecidos durante o período de comentários, envie-os para [mslcd@microsoft.com](mailto:mslcd@microsoft.com). 
 
-Nós valorizamos a sua opinião e confiamos nela para tornar os exames da Certificação Microsoft os mais válidos e relevantes possível.
+### Processo de contestação de itens de exame:
+
+1. Leia nossos critérios para aceitar e não aceitar uma contestação de item de exame.
+2. Preencha e envie o [formulário de contestação do item de exame](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u).
+3. A equipe de certificação da Microsoft analisará seu envio para verificar se está completo.  
+   a. Se estiver incompleto, você será solicitado a fornecer mais informações.  
+   b. Se estiver completo, a equipe de certificação da Microsoft o analisará. Uma análise leva aproximadamente duas semanas.
+4. Quando a análise for concluída, você receberá uma notificação com o resultado.
+
+Obrigado por seu interesse em ajudar a tornar os Microsoft Certification exams tão válidos e relevantes quanto possível.
 
 ## <a name="special-accommodations-when-taking-exams"></a> Acomodação especial durante a realização de exames
 
@@ -515,7 +537,7 @@ Nós valorizamos a sua opinião e confiamos nela para tornar os exames da Certif
 
 Se você precisar de mais tempo porque o exame não está disponível no seu idioma nativo, solicite outro enviando o [formulário Inglês como Segunda Língua](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Siga as instruções no formulário. 
 
-Se você precisar de equipamento especial ou outra acomodação ao realizar um exame, poderá solicitar uma acomodação por meio da [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) usando o "Sistema de Solicitação de Ajustes Razoáveis" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). O sistema de solicitação de ajustes razoáveis é um sistema on-line seguro para solicitar acomodações e enviar documentação de suporte.
+Se você precisar de equipamento especial ou outra acomodação ao realizar um exame, poderá solicitar uma acomodação por meio da [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) using their "Reasonable Adjustments Request System" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). O sistema de solicitação de ajustes razoáveis é um sistema on-line seguro para solicitar acomodações e enviar documentação de suporte.
 
 - Se você é um usuário iniciante no sistema de solicitações, precisará criar um nome de usuário e senha. Para criar um nome de usuário, clique no link "Registrar-se" na tela de login. Observe que o sistema exige que você tenha uma conta de e-mail ativa.
 - A Pearson VUE usa esse sistema seguro porque você precisará fazer o upload da documentação de suporte. Se você ainda não o fez, forneça ao seu avaliador (médico, psicólogo) uma cópia das [Diretrizes para avaliadores](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) para avaliar a sua deficiência. Seu avaliador deve garantir que a documentação fornecida atenda às nossas diretrizes. Na maioria dos casos, seu avaliador será um psicólogo ou médico que administrou uma série de testes psicológicos, educacionais ou médicos e forneceu uma cópia de um relatório de diagnóstico ou de uma carta detalhada.
@@ -535,7 +557,7 @@ Se você precisar de mais tempo porque o exame não está disponível no seu idi
 
 ## Perguntas frequentes
 
-Encontre respostas para as perguntas mais frequentes sobre os exames de Certificação Microsoft.
+Encontre respostas para as perguntas mais frequentes sobre os Microsoft Certification exams.
 
 - Noções básicas do exame
 - Especificações do exame
@@ -550,7 +572,7 @@ Encontre respostas para as perguntas mais frequentes sobre os exames de Certific
 
 **De quantas questões é composto o meu exame?**
 
-O número de questões de um exame é sujeito a alterações conforme o atualizamos para estar em dia com as tecnologias. A maioria dos exames de Certificação Microsoft tem entre 40 e 60 questões, mas o número pode variar dependendo do exame.
+O número de questões de um exame é sujeito a alterações conforme o atualizamos para estar em dia com as tecnologias. A maioria dos Microsoft Certification exams tem entre 40 e 60 questões, mas o número pode variar dependendo do exame.
 
 **Quais os formatos de teste e tipos de perguntas do exame que estou fazendo?**
 
@@ -572,7 +594,7 @@ O tempo do exame varia de acordo com o tipo de exame escolhido.
 | Exames MCSA | 120 minutos | 150 minutos
 | Exames MCSE | 150 minutos | 180 minutos
 
-***Observação** * Tempo do exame se refere ao período concedido para concluí-lo. Duração se refere à quantidade de tempo que você deverá reservar para o exame. Isso inclui o tempo necessário para analisar as instruções, ler e aceitar o NDA, concluir as perguntas do exame e fornecer comentários após concluí-lo (se desejar).
+**Observação** *Tempo do exame se refere ao período concedido para concluí-lo. Duração se refere à quantidade de tempo que você deverá reservar para o exame. Isso inclui o tempo necessário para analisar as instruções, ler e aceitar o NDA, concluir as perguntas do exame e fornecer comentários após concluí-lo (se desejar).
 
 **Como a Microsoft decide quantas questões incluir sobre determinado assunto no exame?**
 
@@ -584,11 +606,11 @@ Todos os materiais de aprendizagem relacionados a uma determinada função de ca
 
 **Como posso me preparar para um exame?**
 
-A melhor maneira de se preparar para um exame é praticando as habilidades descritas na página de detalhes do exame. [Pesquise todos os exames](https://www.microsoft.com/learning/exam-list.aspx) para encontrar um exame do seu interesse. É necessário ter experiência prática com a tecnologia para obter êxito nos exames de Certificação Microsoft. O microlearning associado, cursos online e cursos ministrados por instrutor têm como objetivo treinar as habilidades necessárias para ter sucesso no cargo, um subconjunto do qual será avaliado no exame. No entanto, como o exame se concentra na aplicação dessas habilidades além do que foi ensinado nesses cursos, a experiência ou a prática, além do treinamento, é altamente recomendável antes de fazer o exame. Para começar a se preparar, revise a seção "Habilidades medidas", na página de detalhes do exame, e avalie suas competências com relação ao que está sendo avaliado. A melhor maneira de fazer isso é praticando as tarefas listadas e anotando os desafios encontrados. Pratique até não encontrar mais esses desafios.
+A melhor maneira de se preparar para um exame é praticando as habilidades descritas na página de detalhes do exame. [Pesquise todos os exames](https://www.microsoft.com/learning/exam-list.aspx) para encontrar um exame do seu interesse. É necessário ter experiência prática com a tecnologia para obter êxito nos Microsoft Certification exams. O microlearning associado, cursos online e cursos ministrados por instrutor têm como objetivo treinar as habilidades necessárias para ter sucesso no cargo, um subconjunto do qual será avaliado no exame. No entanto, como o exame se concentra na aplicação dessas habilidades além do que foi ensinado nesses cursos, a experiência ou a prática, além do treinamento, é altamente recomendável antes de fazer o exame. Para começar a se preparar, revise a seção "Habilidades medidas", na página de detalhes do exame, e avalie suas competências com relação ao que está sendo avaliado. A melhor maneira de fazer isso é praticando as tarefas listadas e anotando os desafios encontrados. Pratique até não encontrar mais esses desafios.
 
 Os treinadores certificados pela Microsoft trabalham com muitos candidatos na preparação para certificações. Eles costumam recomendar os seguintes passos para ajudar os candidatos a focarem seus estudos:
 
-[Pesquise todos os exames](https://www.microsoft.com/learning/exam-list.aspx) para encontrar um exame do seu interesse.
+- [Pesquise todos os exames](https://www.microsoft.com/learning/exam-list.aspx) para encontrar um exame do seu interesse.
 - Imprima a seção Habilidades medidas da página. 
 - Consulte a lista inteira. Pense sobre cada tópico. Se você tiver muito conhecimento em um tópico, destaque-o ou risque-o. 
 - Veja quais restaram. Agora, comece a fazer uma pesquisa específica. Para cada tópico que você não destacou, pesquise na internet por artigos específicos.
@@ -606,7 +628,7 @@ Visite a [página de registro do exame](https://www.microsoft.com/learning/certi
 
 **Preciso realizar o exame em inglês?**
 
-Os exames de Certificação Microsoft estão disponíveis em vários idiomas. No entanto, os candidatos que optarem pelo exame em inglês em vez de um exame em seu idioma nativo podem solicitar um tempo adicional. A aprovação do tempo adicional é fornecida segundo cada caso. Solicitações acomodações com acessibilidade da [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) ou da [Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm).
+Os Microsoft Certification exams estão disponíveis em vários idiomas. No entanto, os candidatos que optarem pelo exame em inglês em vez de um exame em seu idioma nativo podem solicitar um tempo adicional. A aprovação do tempo adicional é fornecida segundo cada caso. Solicitações acomodações com acessibilidade da [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) ou da [Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm).
 
 **Quais as acomodações com acessibilidade para pessoas com algum tipo de deficiência?**
 
@@ -636,7 +658,7 @@ Para informar um problema de segurança, entre em contato com [mlsecure@microsof
 
 ### Especificações do exame
 
-**Quais tipos de perguntas aparecem nos exames de Certificação Microsoft?**
+**Quais tipos de perguntas aparecem nos Microsoft Certification exams?**
 
 Uma vez que a Microsoft desenvolve continuamente tecnologias inovadoras de teste e tipos de perguntas, não fornecemos os tipos de itens específicos que aparecerão em um determinado exame. Para ter uma ideia de como será o exame, verifique os possíveis [formatos e tipos de questões do exame](https://www.microsoft.com/learning/certification-exams.aspx).
 
@@ -745,7 +767,7 @@ Como cada seção pode conter diversas questões, conforme representado pelos pe
 
 **É possível saber se respondi uma pergunta corretamente ou se determinada resposta afetou meu status de aprovação/reprovação?**
 
-Não. Os exames de Certificação Microsoft são criados para avaliar as competências e habilidades dos candidatos em determinada função de trabalho, não a capacidade que eles têm de estudar ou memorizar questões específicas que apareçam no exame. Os candidatos qualificados conseguirão passar no exame independentemente das questões expostas. Por isso, para proteger a integridade do processo de certificação, a Microsoft não compartilha informações sobre questões específicas incorretas.
+Não. Os Microsoft Certification exams são criados para avaliar as competências e habilidades dos candidatos em determinada função de trabalho, não a capacidade que eles têm de estudar ou memorizar questões específicas que apareçam no exame. Os candidatos qualificados conseguirão passar no exame independentemente das questões expostas. Por isso, para proteger a integridade do processo de certificação, a Microsoft não compartilha informações sobre questões específicas incorretas.
 
 **O relatório de notas exibe uma pontuação numérica de cada seção?**
 
@@ -823,7 +845,7 @@ Assim que estiver pronto para refazer o exame, basta agendar normalmente. É nec
 
 **Onde encontro outras informações sobre minhas áreas de deficiência?**
 
-Embora os exames de Certificação Microsoft forneçam comentários sobre as áreas em que os candidatos devem desenvolver suas competências mais a fundo, eles não são criados para fornecer comentários detalhados nem diagnósticos. Recomendamos que confira a seção "Habilidades medidas", na página de detalhes do exame, e avalie com honestidade suas competências com relação ao que está sendo avaliado. A melhor maneira de fazer isso é praticando as tarefas listadas; anotando os desafios encontrados. Pratique até não encontrar mais esses desafios. Você também pode pedir ajuda a outras pessoas para realizar essas tarefas. Elas realizam a tarefa de forma diferente? Entenda por que eles fazem. Leia os relatórios técnicos, visite documentos etc. para obter outras informações sobre as tarefas que aparecem no exame. Explore os recursos fornecidos nas "Opções de preparação" na página de detalhes do exame, e Grupos de Estudo, que pode ser encontrada na parte inferior da página de detalhes do exame individual.
+Embora os Microsoft Certification exams forneçam comentários sobre as áreas em que os candidatos devem desenvolver suas competências mais a fundo, eles não são criados para fornecer comentários detalhados nem diagnósticos. Recomendamos que confira a seção "Habilidades medidas", na página de detalhes do exame, e avalie com honestidade suas competências com relação ao que está sendo avaliado. A melhor maneira de fazer isso é praticando as tarefas listadas; anotando os desafios encontrados. Pratique até não encontrar mais esses desafios. Você também pode pedir ajuda a outras pessoas para realizar essas tarefas. Elas realizam a tarefa de forma diferente? Entenda por que eles fazem. Leia os relatórios técnicos, visite documentos etc. para obter outras informações sobre as tarefas que aparecem no exame. Explore os recursos fornecidos nas "Opções de preparação" na página de detalhes do exame, e Grupos de Estudo, que pode ser encontrada na parte inferior da página de detalhes do exame individual.
 
 Além disso, os [Microsoft Official Practice Test(Testes Práticos Oficiais da Microsoft)](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) estão disponíveis para alguns de nossos exames de certificação. Eles podem fornecer mais informações sobre seus domínios e deficiências mais específicos. No entanto, passar em um teste de prática não garante que você passará no exame de certificação.
 
@@ -837,7 +859,7 @@ Consulte a seção [Políticas de segurança e reaplicação](#security-policies
 
 **Como posso contestar uma questão do exame?**
 
-Se você acredita que determinada questão de um exame da Certificação Microsoft seja imprecisa, solicite uma avaliação da questão usando o [formulário de contestação de item de exame](#policies-5) no prazo de 30 dias corridos após a realização do exame. O processo de avaliação existe para ajudar a identificar e corrigir questões problemáticas e para atualizar os exames.
+Se você acredita que determinada questão de um Microsoft Certification exam seja imprecisa, solicite uma avaliação da questão usando o [formulário de contestação de item de exame](#policies-5) no prazo de 30 dias corridos após a realização do exame. O processo de avaliação existe para ajudar a identificar e corrigir questões problemáticas e para atualizar os exames.
 
 **Haverá um funcionário da Microsoft para revisar e avaliar a questão que estou contestando?**
 
@@ -859,7 +881,7 @@ Não. A Microsoft não reembolsa os participantes por terem sido reprovados no e
 
 **Por que preciso aceitar um acordo de confidencialidade (NDA) antes de realizar o exame?**
 
-O Programa de Certificação Microsoft exige que os candidatos aceitem os termos de um NDA antes de fazer o exame. O NDA exige legalmente que os candidatos mantenham a confidencialidade das informações relacionadas ao exame. Exigir a aceitação do NDA ajuda a garantir a segurança dos exames de Certificação Microsoft e a integridade do Programa de Certificação Microsoft, pois desestimula legalmente a pirataria e/ou o uso de conteúdos não autorizados.
+O Programa de Certificação Microsoft exige que os candidatos aceitem os termos de um NDA antes de fazer o exame. O NDA exige legalmente que os candidatos mantenham a confidencialidade das informações relacionadas ao exame. Exigir a aceitação do NDA ajuda a garantir a segurança dos Microsoft Certification exams e a integridade do Programa de Certificação Microsoft, pois desestimula legalmente a pirataria e/ou o uso de conteúdos não autorizados.
 
 **O que é violação?**
 
@@ -913,7 +935,7 @@ Os administradores dos centros de testes agem indevidamente quando não consegue
 
 Se a Microsoft determinar que o centro de testes agiu de forma imprópria ou fraudulenta, se dará o direito de interromper a disponibilização de todos os exames nesse centro.
 
-**Com quem devo entrar em contato se eu encontrar um site que divulgue informações sobre exames de Certificação Microsoft ou se eu descobrir que alguém está violando ou vendendo perguntas e respostas dos exames?**
+**Com quem devo entrar em contato se eu encontrar um site que divulgue informações sobre Microsoft Certification exams ou se eu descobrir que alguém está violando ou vendendo perguntas e respostas dos exames?**
 
 Envie um e-mail para [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com), incluindo o máximo possível de informações sobre a situação e as pessoas envolvidas. Embora as indicações anônimas sejam bem-vindas, geralmente precisamos de mais informações para uma investigação mais detalhadas; se for possível, pedimos que insira suas informações de contato completas para que alguém da Microsoft entre em contato para falar sobre os detalhes, se necessário. A Microsoft tem uma equipe dedicada a investigar essas indicações. Como elas vêm de pessoas como você, muitos sites foram cancelados. Em razão do volume de e-mails que recebemos, nem sempre é possível fornecer respostas pessoais.
 
@@ -1056,7 +1078,7 @@ Sim. Sua verificação acadêmica é válida apenas por 12 meses. Após 12 meses
 Sim. Você precisa seguir o mesmo processo de um aluno. Em outras palavras, você deve selecionar "Aluno" como sua função de trabalho no perfil da conta da Microsoft e deve verificar seu status por meio do mesmo processo como um aluno.
 
 
-**A quem devo contatar se tiver dúvidas quanto ao processo de verificação acadêmica para exames de Certificação Microsoft?**
+**A quem devo contatar se tiver dúvidas quanto ao processo de verificação acadêmica para Microsoft Certification exams?**
 
 Se tiver perguntas gerais sobre o registro do exame, entre em contato com o [Centro de Serviço Regional da Microsoft](https://www.microsoft.com/learning/help.aspx). Para dúvidas específicas sobre uma solicitação de verificação nova ou pendente, você deve [contatar o suporte](https://academic.getmicrosoftkey.com/default/support).
 
@@ -1064,7 +1086,7 @@ Se tiver perguntas gerais sobre o registro do exame, entre em contato com o [Cen
 
 **Como faço para solicitar uma acomodação?**
 
-Se você precisar de equipamento especial ou outra acomodação ao realizar um exame, poderá solicitar uma acomodação por meio da [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) usando o "Sistema de Solicitação de Ajustes Razoáveis" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Mais detalhes são fornecidos na seção [Acomodações especiais ao fazer um exame](#special-accommodations-when-taking-exams) acima.
+Se você precisar de equipamento especial ou outra acomodação ao realizar um exame, poderá solicitar uma acomodação por meio da [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) using their "Reasonable Adjustments Request System" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Mais detalhes são fornecidos na seção [Acomodações especiais ao fazer um exame](#special-accommodations-when-taking-exams) acima.
 
 **Por que preciso enviar documentação?**
 
