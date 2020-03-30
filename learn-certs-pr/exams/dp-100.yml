@@ -6,11 +6,13 @@ metadata:
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
+  <div style='color&#58; red; font-weight&#58; bold;'>Phase 1&#58; O conteúdo deste exame será atualizado em sexta-feira, 22 de maio de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
+  
   O Azure Data Scientists aplica seus conhecimentos de ciência de dados e aprendizado de máquina para implementar e executar cargas de trabalho de aprendizado de máquina no Azure; em particular, usando o Serviço de Aprendizado de Máquina do Azure. Isso envolve o planejamento e a criação de um ambiente de trabalho adequado para cargas de trabalho de ciência de dados no Azure, executando experimentos de dados e treinando modelos preditivos, gerenciando e otimizando modelos e implantando modelos de aprendizado de máquina na produção.
 subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: configurar um espaço de trabalho do Azure Machine Learning; executar experimentos e treinar modelos; otimizar e gerenciar modelos; e implantar e consumir modelos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=DP-100&examname=Exam%20DP-100:%20Designing%20and%20Implementing%20a%20Data%20Science%20Solution%20on%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-100
 locales:
 - en
 - ja
@@ -19,7 +21,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
+- O conteúdo deste exame será atualizado em sexta-feira, 22 de maio de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.
 - Configurar um espaço de trabalho do Azure Machine Learning (30-35%) 
 - Realize experimentos e modelos de trem (25-30%) 
 - Otimizar e gerenciar modelos (20-25%) 
@@ -32,19 +34,11 @@ products:
 courses:
 - uid: course.dp-100t01
 paths:
-- uid: learn.data-ai.explore-data-science-tools-in-azure
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
-- uid: learn.data-ai.get-started-with-azure-dsvm
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
-- uid: learn.data-ai.intro-to-ml-with-python
 relatedCertifications:
 - related:
     uid: certification.azure-data-scientist
 resources:
-- title: Certificação Caminho de Aprendizagem
-  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Azure Data Scientist Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -54,15 +48,15 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  description: Saiba mais sobre como solicitar um alojamento para o seu exame..
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Políticas de exame e perguntas frequentes
-  description: Reveja as políticas do exame e as perguntas frequentes.
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md

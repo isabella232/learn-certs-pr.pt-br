@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Developer'
 metadata:
-  title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
-  description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer (beta)'
+  title: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer'
+  description: 'MB-500: Microsoft Dynamics 365: Finance and Operations Apps Developer'
 uid: exam.mb-500
 displayName: MB-500
 summary: |-
@@ -17,12 +17,10 @@ summary: |-
   Os candidatos devem ter experiência com produtos que incluem Visual Studio, Azure DevOps, ferramentas LCS ou SQL Server Management Studio.
   
   Os candidatos devem ter experiência no desenvolvimento de códigos com o uso de linguagens de programação orientadas a objetos, analisando e manipulando dados usando o código Transact-SQL e criando e executando comandos e scripts do Windows PowerShell.
-  
-  <div style='color&#58; red;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</div>
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: planejar a arquitetura e design da solução, aplicar ferramentas de desenvolvedor, projetar e desenvolver elementos AOT, desenvolver e testar códigos, implementar relatórios, integrar e gerenciar soluções de dados e implementar a segurança e otimizar o desempenho.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42pBB
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-500&examname=Exam%20MB-500:%20Microsoft%20Dynamics%20365%20Finance%20and%20Operations%20Apps%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-500
 locales:
 - en
 levels:
@@ -55,8 +53,8 @@ relatedCertifications:
 - related:
     uid: certification.d365-finance-and-operations-apps-developer-associate
 resources:
-- title: Certificação Caminho de Aprendizagem
-  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate.'
+- title: Caminhos de aprendizado de certificação
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4j5
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
@@ -67,15 +65,15 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Políticas de exame e perguntas frequentes
-  description: Reveja as políticas do exame e as perguntas frequentes.
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md

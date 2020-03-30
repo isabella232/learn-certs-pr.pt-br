@@ -2,18 +2,20 @@
 title: 'Microsoft Certified: Azure Data Scientist Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Scientist Associate'
-  description: Os cientistas de dados do Azure aplicam as técnicas de aprendizado de máquina do Azure para treinar, avaliar e implantar modelos que solucionem problemas de negócios.
+  description: 'O Azure Data Scientists aplica seus conhecimentos de ciência de dados e aprendizado de máquina para implementar e executar cargas de trabalho de aprendizado de máquina no Azure; em particular, usando o Serviço de Aprendizado de Máquina do Azure.'
 uid: certification.azure-data-scientist
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Os cientistas de dados do Azure aplicam as técnicas de aprendizado de máquina do Azure para treinar, avaliar e implantar modelos que solucionem problemas de negócios.
-subTitle: Os cientistas de dados do Azure aplicam as técnicas de aprendizado de máquina do Azure para treinar, avaliar e implantar modelos que solucionem problemas de negócios.
+summary: |-
+  O Azure Data Scientists aplica seus conhecimentos de ciência de dados e aprendizado de máquina para implementar e executar cargas de trabalho de aprendizado de máquina no Azure; em particular, usando o Serviço de Aprendizado de Máquina do Azure.
+subTitle: O Azure Data Scientists aplica seus conhecimentos de ciência de dados e aprendizado de máquina para implementar e executar cargas de trabalho de aprendizado de máquina no Azure; em particular, usando o Serviço de Aprendizado de Máquina do Azure.
 levels:
 - intermediate
 skills:
-- Definir e preparar o ambiente de desenvolvimento
-- Preparar dados para modelagem
-- Executar engenharia de recursos
-- Desenvolver modelos
+- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
+- Configurar um espaço de trabalho do Azure Machine Learning 
+- Realize experimentos e modelos de trem 
+- Otimizar e gerenciar modelos 
+- Implantar e consumir modelos
 roles:
 - data-scientist
 type: role-based
@@ -23,31 +25,23 @@ products:
 courses:
 - uid: course.dp-100t01
 paths:
-- uid: learn.data-ai.explore-data-science-tools-in-azure
 - uid: learn.data-ai.build-ai-solutions-with-azure-ml-service
-- uid: learn.data-ai.get-started-with-azure-dsvm
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
-- uid: learn.data-ai.intro-to-ml-with-python
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHg
 exams:
 - uid: exam.dp-100
 resources:
-- title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Data Scientist Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PLKZ
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetir Exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
 - title: Suporte para certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx

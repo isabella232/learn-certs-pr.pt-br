@@ -1,7 +1,7 @@
 ### YamlMime:Certification
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
-  title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
+  title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
   description: Os arquitetos de cargas de trabalho do SAP no Azure devem ter vasta experiência e conhecimento no processo de certificação em SAP Landscape e nos padrões do setor específicos para a operação de uma solução SAP de longo prazo.
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
@@ -11,7 +11,7 @@ subTitle: Os arquitetos de cargas de trabalho do SAP no Azure devem ter vasta ex
 levels:
 - advanced
 skills:
-- 'Observação: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
+- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - Migrar soluções SAP para o Azure
 - Projetar uma solução do Azure para dar suporte às cargas de trabalho do SAP
 - Criar e implementar cargas de trabalho do SAP no Azure
@@ -26,8 +26,9 @@ products:
 courses:
 - uid: course.az-120t00
 paths:
-- uid: learn-pr.wwl.planning-azure-sap-workloads
 - uid: learn.wwl.sap-certified-offerings-azure
+- uid: learn-pr.wwl.planning-azure-sap-workloads
+- uid: learn.wwl.run-azure-sap-workloads
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2b
 exams:
 - uid: exam.az-120
@@ -41,9 +42,9 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Apoio às certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx

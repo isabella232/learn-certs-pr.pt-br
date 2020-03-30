@@ -5,11 +5,13 @@ metadata:
   description: Os engenheiros de AI do Azure usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de AI da Microsoft envolvendo processamento de linguagem natural, fala, visão de computador, bots e agentes.
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Os engenheiros de AI do Azure usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de AI da Microsoft envolvendo processamento de linguagem natural, fala, visão de computador, bots e agentes.
+summary: |-
+  Os engenheiros de AI do Azure usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de AI da Microsoft envolvendo processamento de linguagem natural, fala, visão de computador, bots e agentes.
 subTitle: Os engenheiros de AI do Azure usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de AI da Microsoft envolvendo processamento de linguagem natural, fala, visão de computador, bots e agentes.
 levels:
 - intermediate
 skills:
+- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - Analisar os requisitos da solução
 - AI Soluções de design
 - Implementar e monitorar soluções de AI
@@ -26,30 +28,26 @@ products:
 courses:
 - uid: course.ai-100t01
 paths:
-- uid: learn.data-ai.publish-experiment-with-ml-studio
-- uid: learn.data-ai.translate-speech-with-speech-services
-- uid: learn.data-ai.classify-images-with-vision-services
 - uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.data-ai.translate-speech-with-speech-services
 - uid: learn.data-ai.create-bots-with-the-azure-bot-service
+- uid: learn.data-ai.classify-images-with-vision-services
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
 exams:
 - uid: exam.ai-100
 resources:
-- title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure AI Engineer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWusKi
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetir Exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
 - title: Suporte para certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx

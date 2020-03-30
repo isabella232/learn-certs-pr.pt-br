@@ -10,11 +10,11 @@ summary: |-
   
   Os candidatos devem ter pelo menos seis meses de experiência prática na administração do Azure. Os candidatos devem ter um forte entendimento dos principais serviços do Azure, cargas de trabalho, segurança e governança do Azure. Os candidatos a esse exame devem ter experiência no uso do PowerShell, da Interface da Linha de Comandos, do Portal do Azure e dos modelos ARM.
   
-  <div style='color&#58; red; font-weight&#58: bold;'><br/>Observação&#58; Este exame estará disponível por volta de terça-feira, 31 de março de 2020.</div>
+  <div style='color&#58; red; font-weight&#58; bold;'><br/>Observação&#58; Este exame estará disponível por volta de terça-feira, 31 de março de 2020.</div>
 subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: gerenciar identidades e governança do Azure; implementar e gerenciar armazenamento; implantar e gerenciar recursos de computação do Azure; configurar e gerenciar redes virtuais; e monitorar e fazer backup de recursos do Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
 locales:
 - en
 levels:
@@ -45,9 +45,6 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Certificação Caminho de Aprendizagem
-  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Azure Administrator Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -57,15 +54,15 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  description: Saiba mais sobre como solicitar um alojamento para o seu exame..
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Políticas de exame e perguntas frequentes
-  description: Reveja as políticas do exame e as perguntas frequentes.
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md

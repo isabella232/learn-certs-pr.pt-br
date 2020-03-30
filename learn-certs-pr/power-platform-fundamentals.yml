@@ -1,7 +1,7 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Power Platform Fundamentals'
+title: Microsoft Certified Power Platform Fundamentals
 metadata:
-  title: 'Microsoft Certified: Power Platform Fundamentals'
+  title: Microsoft Certified Power Platform Fundamentals
   description: Prove que você entende das capacidades centrais do Power Plaform - a partir do valor de negócio e capacidades de produto centrais para desenvolver uma aplicação de tela de Aplicações Power, conexão de fontes de dados, automação com Microsoft Automate e criação de um painel de controle Power BI.
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -30,7 +30,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43KL
 exams:
 - uid: exam.pl-900
 resources:
-- title: Certificação Caminho de Aprendizagem
+- title: Caminhos de aprendizado de certificação
   description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Power Platform Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
 - title: Guia de treinamento e certificação
@@ -42,9 +42,9 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Apoio às certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx

@@ -15,6 +15,8 @@ Tem dúvidas sobre os produtos de treinamento e certificação Microsoft? Visite
 
 Ainda tem dúvidas? Consulte as opções de suporte abaixo.
 
+Observe que o tempo de resposta está demorando mais do que o esperado para clientes que procuram suporte para certificação e treinamento. Agradecemos sua paciência enquanto trabalhamos para resolver todas as dúvidas o mais rápido possível.
+
 ## Ajuda da Certificação
 
 | Área de suporte | Informações de contato |

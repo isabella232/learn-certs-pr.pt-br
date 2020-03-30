@@ -10,14 +10,14 @@ summary: |-
   
   A partir do dia 1° de maio de 2019, você só precisa passar no Exam AZ-103 para ganhar esta certificação. Este novo exame combina as competências abrangidas no AZ-100 e AZ-101 (que foi retirado em 1° de maio de 2019), com a maioria da novo exame vindo do AZ-100.
 
-  Os candidatos a este exame são Administradores do Azure que gerenciam serviços de nuvem que abrangem armazenamento, segurança, rede e funcionalidade de computação em nuvem. Os candidatos têm um conhecimento profundo de cada serviço no ciclo de vida de IT total e aceitam solicitações para serviços de infraestrutura, aplicativos e ambientes. Eles fazem recomendações em serviços para usar par performance ideal e escala, além de provisão, tamanho, monitoramento e ajuste de recursos conforme apropriado.
+  Os candidatos a este exame são Administradores do Azure que gerenciam serviços de nuvem que abrangem armazenamento, segurança, rede, e computam capacidades de nuvem. Os candidatos têm um conhecimento profundo de cada serviço no ciclo de vida de IT total e aceitam solicitações para serviços de infraestrutura, aplicativos e ambientes. Eles fazem recomendações em serviços para usar par performance ideal e escala, além de provisão, tamanho, monitoramento e ajuste de recursos conforme apropriado.
 
-  Os candidatos a este exame devem ter proficiência no uso do PowerShell, interface de linha de comando, Portal do Azure, modelos ARM, sistemas operacionais, virtualização, infraestrutura de nuvem, estruturas de armazenamento e da rede.
-subTitle: 'A partir do dia 1° de maio de 2019, você só precisa passar no Exam AZ-103 para ganhar esta certificação. Este novo exame combina as competências abrangidas no AZ-100 e AZ-101 (que foi retirado em 1° de maio de 2019), com a maioria da novo exame vindo do AZ-100. Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: gerenciar assinaturas e recursos do Azure, implementar e gerenciar o armazenamento; implementar e gerenciar máquinas virtuais (VMs), configurar e gerenciar redes virtuais e gerenciar identidades.'
+  Os candidatos a este exame devem ter proficiência no uso do PowerShell, da interface de linha de comando, do Portal do Azure, dos modelos ARM, dos sistemas operacionais, da virtualização, da infraestrutura de nuvem, das estruturas de armazenamento e da rede.
+subTitle: 'A partir do dia 1° de maio de 2019, você só precisa passar no Exam AZ-103 para ganhar esta certificação. Este novo exame combina as competências abrangidas no AZ-100 e AZ-101 (que foi retirado em 1° de maio de 2019), com a maioria da novo exame vindo do AZ-100. Este exame mede  a sua capacidade de realizar as seguintes tarefas técnicas: gerenciar assinaturas e recursos do Azure, implementar e gerenciar o armazenamento; implementar e gerenciar máquinas virtuais (VMs), configurar e gerenciar redes virtuais e gerenciar identidades.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUR
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-103?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-103&examname=Exam%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-103
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-103&examname=Exam%20AZ-103:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-103
 locales:
 - en
 - ja
@@ -60,9 +60,6 @@ relatedCertifications:
 - related:
     uid: certification.azure-administrator
 resources:
-- title: Certificação Caminho de Aprendizagem
-  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Azure Administrator Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtY7Z
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -72,15 +69,15 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Políticas de exame e perguntas frequentes
-  description: Reveja as políticas do exame e as perguntas frequentes.
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md

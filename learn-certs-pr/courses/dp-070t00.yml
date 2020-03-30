@@ -1,14 +1,14 @@
 ### YamlMime:Course
-title: Migração de cargas de trabalho de dados de código aberto para o Azure
+title: Migrate Open Source Data Workloads to Azure
 metadata:
-  title: 'Curso DP-070T00-A: Migração de cargas de trabalho de dados de código aberto para o Azure'
-  description: 'Curso DP-070T00-A: Migração de cargas de trabalho de dados de código aberto para o Azure'
+  title: 'Course DP-070T00-A: Migrate Open Source Data Workloads to Azure'
+  description: 'Course DP-070T00-A: Migração de cargas de trabalho de dados de código aberto para o Azure'
 uid: course.dp-070t00
 courseNumber: 'DP-070T00-A'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Migrar MySQL no local para banco de dados MySQL do Azure
+- skill: Migrar MySQL no local para banco de dados SQL do Azure
 - skill: Migrar PostgreSQL no local para banco de dados SQL do Azure
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -23,8 +23,7 @@ summary: |-
   Este curso permitirá que os estudantes compreendam o banco de dados SQL do Azure e os orientará sobre o que é necessário para migrar as cargas de trabalho MySQL e PostgreSQL para o banco de dados SQL do Azure.
 
   #### Perfil do público
-  Este curso destina-se aos desenvolvedores de banco de dados que planejam migrar suas cargas de trabalho MySQL ou Postgres DB para o banco de dados SQL do Azure.
-  Este curso também se destina aos administradores do MySQL/Postgres que buscam aprimorar o conhecimento dos recursos e benefícios do banco de dados SQL do Azure.
+  Este curso destina-se aos desenvolvedores de banco de dados que planejam migrar suas cargas de trabalho MySQL ou Postgres DB para o banco de dados SQL do Azure. Este curso também se destina aos administradores do MySQL/Postgres que buscam aprimorar o conhecimento dos recursos e benefícios do banco de dados SQL do Azure.
 prerequisitesSection: |-
   Além de experiência profissional, os estudantes que fizerem esse curso devem ter o seguinte conhecimento técnico&#58;
   - Algum conhecimento de sistemas de gerenciamento de banco de dados relacional de código aberto, como Postgres e/ou MySQL, administração de SQL, técnicas de backup e recuperação, por exemplo&#58; despejo de dados de tabela
@@ -37,7 +36,7 @@ outlineSection: |-
   - Desafios do cliente na migração
 
 
-  #### Laboratório&#58; Criação de bancos de dados OSS de origem
+  #### Laboratório &#58; Criação de bancos de dados OSS de origem
   - Instalação do servidor de banco de dados de migração do Postgres
   - Instalação do servidor de banco de dados de migração do MySQL
   - Backups/despejos de dados do Postgres/MySQL
@@ -58,7 +57,7 @@ outlineSection: |-
   - Considerações pós-migração
 
 
-  #### Laboratório&#58; Migrando cargas de trabalho do banco de dados MySQL para o banco de dados SQL do Azure
+  #### Laboratório &#58; Migrando cargas de trabalho do banco de dados MySQL para o banco de dados SQL do Azure
   - Migração de cargas de trabalho do banco de dados MySQL para o banco de dados SQL do Azure
   - Definição de bancos de dados de origem e de destino
   - Execução da migração
@@ -80,7 +79,7 @@ outlineSection: |-
   - Considerações pós-migração
 
 
-  #### Laboratório&#58; Migração de cargas de trabalho do banco de dados PostgreSQL para o banco de dados SQL do Azure
+  #### Laboratório &#58; Migração de cargas de trabalho do banco de dados PostgreSQL para o banco de dados SQL do Azure
   - Configuração do banco de dados SQL do Azure para PostgreSQL
   - Definição de bancos de dados de origem e de destino
   - Execução da migração
@@ -92,4 +91,5 @@ outlineSection: |-
   - Migração de aplicativo
   - Considerações pós-migração
 
-  #### Leitura adicional Nenhuma leitura adicional é necessária para fazer este curso
+  #### Leitura adicional
+  Nenhuma leitura adicional é necessária para fazer este curso
