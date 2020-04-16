@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Desenvolvimento de estratégia DevOps
+title: Designing a DevOps Strategy
 metadata:
-  title: 'Curso AZ-400T07-A: Desenvolvimento de estratégia DevOps'
-  description: 'Curso AZ-400T07-A: Desenvolvimento de estratégia DevOps'
+  title: 'Course AZ-400T07-A: Designing a DevOps Strategy'
+  description: 'Course AZ-400T07-A: Designing a DevOps Strategy'
 uid: course.az-400t07
 courseNumber: 'AZ-400T07-A'
 hoursToComplete: 24
@@ -47,7 +47,7 @@ outlineSection: |-
   - Estruturas da equipe
 
 
-  #### Laboratório&#58; Planejamento ágil e gerenciamento de portfólio com Azure Boards
+  #### Laboratório &#58; Planejamento ágil e gerenciamento de portfólio com Azure Boards
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Planejar a transformação com objetivos e cronogramas compartilhados
   - Selecionar um projeto e identificar métricas e KPIs do projeto
@@ -61,7 +61,7 @@ outlineSection: |-
   - Planejamento de desenvolvimento seguro
 
 
-  #### Laboratório&#58; Gerenciamento de sinalizador de recursos com LaunchDarkly e AzureDevOps
+  #### Laboratório &#58; Gerenciamento de sinalizador de recursos com LaunchDarkly e AzureDevOps
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Desenvolver uma estratégia de qualidade do projeto
   - Planejar práticas seguras de desenvolvimento e regras de conformidade.
@@ -74,7 +74,8 @@ outlineSection: |-
   - Migração e integração do controle de origem
 
 
-  #### Laboratório&#58; Integração do Azure Repos e Azure Pipelines com o Eclipse
+  #### Laboratório &#58; Integração do Azure Repos e Azure Pipelines com o Eclipse
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Migrar e consolidar artefatos
   - Migrar e integrar medidas de controle de origem
+

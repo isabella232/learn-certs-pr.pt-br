@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft 365 Fundamentals
 metadata:
-  title: 'Curso MS-900T01-A: Microsoft 365 Fundamentals'
-  description: 'Curso MS-900T01-A: Microsoft 365 Fundamentals'
+  title: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
+  description: 'Course MS-900T01-A: Microsoft 365 Fundamentals'
 uid: course.ms-900t01
 courseNumber: 'MS-900T01-A'
 hoursToComplete: 24
@@ -53,7 +53,7 @@ outlineSection: |-
   - Migrando para serviços em nuvem
 
 
-  #### Laboratório&#58; Fundamentos da nuvem
+  #### Laboratório &#58; Fundamentos da nuvem
   - Exercício 1&#58; Determinar o modelo de nuvem apropriado (laboratório baseado em papel)
 
 
@@ -65,7 +65,7 @@ outlineSection: |-
   - Trabalho em equipe no Microsoft 365
 
 
-  #### Laboratório&#58; Habilitando e configurando um inquilino do Microsoft 365
+  #### Laboratório &#58; Habilitando e configurando um inquilino do Microsoft 365
   - Exercício 1&#58; Ativando e configurando um inquilino do Microsoft 365
   - Exercício 2&#58; Explorando o Portal de Usuário e Administrador do Microsoft 365
   - Exercício 3&#58; Configurando novas contas de usuário e grupo
@@ -80,7 +80,7 @@ outlineSection: |-
   - Conformidade no Microsoft 365
 
 
-  #### Laboratório&#58; Segurança no Microsoft 365
+  #### Laboratório &#58; Segurança no Microsoft 365
   - Exercício 1&#58; Gerenciando usuários e dispositivos no Azure Active Directory
   - Exercício 2&#58; Avaliar proteção de identidade
   - Exercício 3&#58; Explore ferramentas para conformidade
@@ -92,7 +92,8 @@ outlineSection: |-
   - Suporte no Microsoft 365
 
 
-  #### Laboratório&#58; Gerenciando assinaturas, licenciamento e suporte no M365
+  #### Laboratório &#58; Gerenciando assinaturas, licenciamento e suporte no M365
   - Exercício 1&#58; Explore interfaces para cobrança e assinaturas
   - Exercício 2&#58; Adicionar licenças de avaliação ao inquilino
   - Exercício 3&#58; Revise as opções de suporte'
+

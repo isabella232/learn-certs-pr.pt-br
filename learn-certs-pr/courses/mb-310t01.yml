@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurar e usar componentes essenciais do gerenciamento financeiro no Dynamics 365 for Finance and Operations
+title: Configure and use essential components of financial management in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Curso MB-310T01-A: Configurar e usar componentes essenciais do gerenciamento financeiro no Dynamics 365 for Finance and Operations '
-  description: 'Curso MB-310T01-A: Configurar e usar componentes essenciais do gerenciamento financeiro no Dynamics 365 for Finance and Operations '
+  title: 'Course MB-310T01-A: Configure and use essential components of financial management in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-310T01-A: Configure and use essential components of financial management in Dynamics 365 for Finance and Operations'
 uid: course.mb-310t01
 courseNumber: 'MB-310T01-A'
 hoursToComplete: 48
@@ -23,11 +23,11 @@ summary: |-
   As organizações usam o Dynamics 365 for Finance and Operations para elevar seu desempenho financeiro, aumentando a lucratividade, otimizando a produtividade da força de trabalho, reduzindo as despesas operacionais, adaptando-se rapidamente às alterações de requisitos e simplificando o gerenciamento de ativos.
 
   Este curso discute como configurar e usar componentes essenciais do gerenciamento financeiro no Dynamics 365 for Finance and Operations.
-
+  
   #### Perfil do público
   Um Consultor Funcional do Dynamics 365 for Finance and Operations é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
 prerequisitesSection: |-
-   Compreensão básica dos conceitos de ERP e CRM.
+  Compreensão básica dos conceitos de ERP e CRM.
 outlineSection: |-
   ### Módulo 1&#58; Gestão financeira
   Neste módulo, os alunos aprenderão alguns benefícios do gerenciamento financeiro do Dynamics 365 for Finance and Operations.
@@ -35,7 +35,7 @@ outlineSection: |-
   - Benefícios da gestão financeira
   - Gestão financeira
   - Resumo do módulo
-
+  
   Os alunos se familiarizaram com os módulos em Finanças e Operações relacionados ao gerenciamento financeiro e seus recursos e funcionalidades gerais.
 
   ### Módulo 2&#58; Configurar moedas
@@ -98,7 +98,7 @@ outlineSection: |-
 
 
   ### Módulo 6&#58; Configurar gerenciamento de caixa e banco
-  No Dynamics 365 for Finance and Operations, as organizações usam o módulo de gerenciamento de caixa e banco para criar e manter contas bancárias. A tabela de conta bancária contém um registro para cada conta bancária. Cada registro contém informações da conta bancária, como o seguinte&#58; Número de registro e número da contas; Endereço; Outras informações de contato; Moeda; Verifique a instalação; e Conta principal para lançamento. O Finance and Operations usa essas informações para processar todas as transações bancárias, como pagamentos e depósitos.
+  No Dynamics 365 for Finance and Operations, as organizações usam o módulo de gerenciamento de caixa e banco para criar e manter contas bancárias. A tabela de conta bancária contém um registro para cada conta bancária. Cada registro contém informações da conta bancária, como o seguinte&#58; Número de registro e número da conta; Endereço; Outras informações de contato; Moeda; Verifique a instalação; e Conta principal para lançamento. O Finance and Operations usa essas informações para processar todas as transações bancárias, como pagamentos e depósitos.
   #### Lições
   - Introdução
   - Tipos e grupos de transações bancárias
@@ -152,9 +152,9 @@ outlineSection: |-
   - Resumo do módulo
 
   Agora, os alunos aprenderam como processar atividades diárias no razão geral e usar o controle do diário para aplicar regras durante a entrada de dados. Eles trabalharam com contas de controle de saldo para visualizar os saldos de bancos ou contas de liquidez. 
-  
+
   Os alunos também aprenderam que só é possível usar o controle de saldo antes da publicação para garantir que as entradas estejam corretas.
-  
+
   Por fim, eles aprenderam como se beneficiar dos modelos de comprovante de Valor, que simplesmente copiam a quantidade exata do modelo como novas linhas, ou Porcentagem, que converte os valores no comprovante em fatores percentuais; isso permite que qualquer quantia seja aplicada quando o modelo de comprovante for selecionado.
 
   ### Módulo 10&#58; Contabilidade intercompanhia
@@ -189,7 +189,7 @@ outlineSection: |-
   - Resumo do módulo
 
   Agora, os alunos aprenderam sobre os recursos de relatórios fiscais nacionais e regionais em Finanças e Operações.
-  
+
   Neste módulo, os alunos aprenderam a configurar componentes tributários, como autoridades fiscais, períodos de liquidação e códigos de imposto. Além disso, eles aprenderam que os códigos de imposto sobre vendas são o principal componente para definir cálculos de impostos e conectar todos os outros componentes ao imposto, para que o Finance and Operations possa calcular e lançar automaticamente transações para liquidação com base no intervalo de período designado por uma autoridade.
 
   ### Módulo 13&#58; Conclusão do Curso
@@ -200,3 +200,4 @@ outlineSection: |-
   - Pesquisa pós-curso
 
   Os alunos terão concluído o curso.
+

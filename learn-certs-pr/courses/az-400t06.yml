@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementação de feedback contínuo
+title: Implementing Continuous Feedback
 metadata:
-  title: 'Curso AZ-400T06-A: Implementação de feedback contínuo'
-  description: 'Curso AZ-400T06-A: Implementação de feedback contínuo'
+  title: 'Course AZ-400T06-A: Implementing Continuous Feedback'
+  description: 'Course AZ-400T06-A: Implementing Continuous Feedback'
 uid: course.az-400t06
 courseNumber: 'AZ-400T06-A'
 hoursToComplete: 24
@@ -54,9 +54,9 @@ outlineSection: |-
   - Processo de design para automatizar a análise de aplicativos
 
 
-  #### Laboratório&#58; Integração entre o Azure DevOps e o Teams
+  #### Laboratório &#58; Integração entre o Azure DevOps e o Teams
 
-  #### Laboratório&#58; Sinalizadores de recursos
+  #### Laboratório &#58; Sinalizadores de recursos
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Práticas de design para medir a satisfação do usuário final
   - Criar processos para capturar e analisar o feedback do usuário de fontes externas
@@ -93,3 +93,4 @@ outlineSection: |-
   - Análise da telemetria para estabelecer uma linha de base
   - Realizar avaliações do local ao vivo e capturar feedback para paralisações do sistema
   - Realizar ajustes contínuos para reduzir alertas sem sentido ou não acionáveis
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurar eventos e pesquisas no Dynamics 365 for Marketing
+title: Set up events and surveys in Dynamics 365 for Marketing
 metadata:
-  title: 'Curso MB-220T02-A: Configurar eventos e pesquisas no Dynamics 365 for Marketing'
-  description: 'Curso MB-220T02-A: Configurar eventos e pesquisas no Dynamics 365 for Marketing'
+  title: 'Course MB-220T02-A: Set up events and surveys in Dynamics 365 for Marketing'
+  description: 'Course MB-220T02-A: Set up events and surveys in Dynamics 365 for Marketing'
 uid: course.mb-220t02
 courseNumber: 'MB-220T02-A'
 hoursToComplete: 24
@@ -72,3 +72,4 @@ outlineSection: |-
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Utilizar o painel de eventos para avaliar o resultado dos eventos
   - Ver os resultados das pesquisas
+

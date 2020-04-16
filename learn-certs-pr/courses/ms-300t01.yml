@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gerenciando os Serviços de Conteúdo do Office 365
+title: Managing Office 365 Content Services
 metadata:
-  title: 'Curso MS-300T01-A: Gerenciando os Serviços de Conteúdo do Office 365'
-  description: 'Curso MS-300T01-A: Gerenciando os Serviços de Conteúdo do Office 365'
+  title: 'Course MS-300T01-A: Managing Office 365 Content Services'
+  description: 'Course MS-300T01-A: Managing Office 365 Content Services'
 uid: course.ms-300t01
 courseNumber: 'MS-300T01-A'
 hoursToComplete: 48
@@ -30,14 +30,14 @@ exams:
 - uid: exam.ms-300
 summary: |-
   O conteúdo é o ativo digital mais crítico para todas as organizações. Neste curso, você aprenderá como planejar, configurar e gerenciar o Conjunto de Sites do SharePoint e o OneDrive for Business para habilitar serviços de conteúdo modernos que transformam o ciclo de vida do conteúdo. Especificamente, este curso discute a estrutura moderna do site do SharePoint, como sites de hub do SharePoint. Ele fornece práticas recomendadas para a adoção e implantação do OneDrive for Business em sua organização. Também abrange compartilhamento, segurança e monitoramento no SharePoint Online e no OneDrive for business.
-
+  
   Este curso foi desenvolvido para profissionais de TI que implantam e gerenciam a infraestrutura de trabalho em equipe em sua organização. 
-
+  
   Este é o primeiro de uma série de quatro cursos para a função de Administrador do trabalho em equipe. Esses cursos ajudam a se preparar para o exame MS-300&#58; Implantando o Microsoft 365 Teamwork.
-
+  
   #### Perfil do público
   Este curso é para a função de Teamwork Administrator do Microsoft 365. A função é responsável por configurar, implantar e gerenciar cargas de trabalho do Office 365 e Azure que se concentram na colaboração e adoção eficientes e eficazes. Eles gerenciam aplicativos, serviços e infraestrutura de suporte para atender aos requisitos de negócios. O administrador está ciente e pode diferenciar entre produtos e serviços, mas não pode gerenciar diretamente cada produto ou serviço.
-
+  
   O administrador do Teamwork deve ser capaz de implantar, gerenciar, migrar e proteger o SharePoint (online, no local e híbrido), o OneDrive e Teams.
 
   O Teamwork Administrator tem um entendimento fundamental dos pontos de integração com os seguintes aplicativos e serviços&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planejador e Projeto. O administrador entende como integrar aplicativos e serviços de terceiros, incluindo aplicativos da linha de negócios.
@@ -98,4 +98,5 @@ outlineSection: |-
 
   ### Módulo 4&#58; Conclusão do Curso
 
-  #### Laboratório&#58; Criando e configurando conjunto de sites
+  #### Laboratório &#58; Criando e configurando conjunto de sites
+

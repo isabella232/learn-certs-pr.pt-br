@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Windows 10
 metadata:
-  title: 'Curso MD-100T00-A: Windows 10'
-  description: 'Curso MD-100T00-A: Windows 10'
+  title: 'Course MD-100T00-A: Windows 10'
+  description: 'Course MD-100T00-A: Windows 10'
 uid: course.md-100t00
 courseNumber: 'MD-100T00-A'
 hoursToComplete: 120
@@ -73,11 +73,11 @@ outlineSection: |-
 
   #### Laboratório&#58; Usando o aplicativo Configurações e o Painel de controle
 
-  #### Laboratório&#58; Usando objetos de diretiva de grupo
+  #### Laboratório &#58; Usando objetos de diretiva de grupo
 
-  #### Laboratório&#58; Usando o PowerShell para configurar o Windows
+  #### Laboratório &#58; Usando o PowerShell para configurar o Windows
 
-  #### Laboratório&#58; Gerenciando impressoras locais e de rede
+  #### Laboratório &#58; Gerenciando impressoras locais e de rede
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Personalize a interface do usuário do Windows 10
   - Defina configurações específicas do dispositivo, como planos de energia e opções de dispositivos móveis
@@ -85,7 +85,7 @@ outlineSection: |-
   - Execute tarefas usando o Windows PowerShell.
   - Descrever os conceitos relacionados aos drivers.
   - Descrever conceitos de gerenciamento de impressoras.
-  - Configurar impressão no lado do cliente e Gerenciar propriedades do servidor de impressão.
+  - Configurar impressão no lado do cliente e Gerenciar propriedades do servidor de impressão
 
 
   ### Módulo 3&#58; Atualizando o Windows no Windows 10
@@ -95,12 +95,12 @@ outlineSection: |-
   - Atualizando o Windows
 
 
-  #### Laboratório&#58; Atualizando o Windows 10
+  #### Laboratório &#58; Atualizando o Windows 10
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever o modelo de manutenção do Windows.
   - Definir as configurações de atualização do Windows.
   - Descrever a atualização do Windows usando o WSUS.
-  - Descrever a atualização do Windows usando o Windows update for Business.
+  - Descrever a atualização do Windows usando o Windows update for Business
   - Configurar a atualização do Windows usando a diretiva de grupo.
 
 
@@ -114,11 +114,11 @@ outlineSection: |-
   - Gerenciamento remoto
 
 
-  #### Laboratório&#58; Configurando a conectividade de rede
+  #### Laboratório &#58; Configurando a conectividade de rede
 
-  #### Laboratório&#58; Configurando e testando a resolução de nomes
+  #### Laboratório &#58; Configurando e testando a resolução de nomes
 
-  #### Laboratório&#58; Gerenciamento remoto
+  #### Laboratório &#58; Gerenciamento remoto
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Configurar a conectividade da rede de IP
   - Descrever como a resolução de nomes funciona.
@@ -135,15 +135,15 @@ outlineSection: |-
   - Gerenciando espaços de armazenamento
 
 
-  #### Laboratório&#58; Gerenciando o armazenamento
+  #### Laboratório &#58; Gerenciando o armazenamento
 
-  #### Laboratório&#58; Pastas de compressão
+  #### Laboratório &#58; Pastas de compressão
 
-  #### Laboratório&#58; Habilitando cotas de disco
+  #### Laboratório &#58; Habilitando cotas de disco
 
-  #### Laboratório&#58; Criando um espaço de armazenamento
+  #### Laboratório &#58; Criando um espaço de armazenamento
 
-  #### Laboratório&#58; Sincronizando arquivos com o OneDrive
+  #### Laboratório &#58; Sincronizando arquivos com o OneDrive
 
   - Descrever as opções e os benefícios do armazenamento local, na nuvem e virtual.
   - Configurar o OneDrive.
@@ -160,15 +160,15 @@ outlineSection: |-
   - Navegadores da Web no Windows 10
 
 
-  #### Laboratório&#58; Sideloading App
+  #### Laboratório &#58; Sideloading App
 
-  #### Laboratório&#58; Instalando e atualizando aplicativos da Microsoft Store
+  #### Laboratório &#58; Instalando e atualizando aplicativos da Microsoft Store
 
-  #### Laboratório&#58; Configurando o Modo Enterprise do Internet Explorer
+  #### Laboratório &#58; Configurando o Modo Enterprise do Internet Explorer
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever os diferentes tipos de aplicativos.
   - Instalar aplicativos manualmente e usando métodos automatizados.
-  - Gerenciar a implantação de aplicativos usando a Windows Store.
+  - Gerenciar a implantação de aplicativos usando a Windows Store
   - Aprenda sobre os recursos do navegador da Web no Windows 10.
 
 
@@ -180,11 +180,11 @@ outlineSection: |-
   - Implementar o registro do dispositivo
 
 
-  #### Laboratório&#58; Entrando em um domínio
+  #### Laboratório &#58; Entrando em um domínio
 
-  #### Laboratório&#58; Criando diretivas de segurança
+  #### Laboratório &#58; Criando diretivas de segurança
 
-  #### Laboratório&#58; Configurando o UAC
+  #### Laboratório &#58; Configurando o UAC
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever os diferentes métodos para proteger dados e o sistema operacional Windows 10.
   - Descrever os diferentes tipos de contas de usuário e serviço.
@@ -200,9 +200,9 @@ outlineSection: |-
   - Configurando e gerenciando pastas compartilhadas
 
 
-  #### Laboratório&#58; Criando, gerenciando e compartilhando uma pasta
+  #### Laboratório &#58; Criando, gerenciando e compartilhando uma pasta
 
-  #### Laboratório&#58; Usando condições para controlar o acesso e permissões efetivas
+  #### Laboratório &#58; Usando condições para controlar o acesso e permissões efetivas
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever as diferenças e os benefícios dos sistemas de arquivos suportados.
   - Configurar permissões a arquivos e pastas.
@@ -219,17 +219,17 @@ outlineSection: |-
   - Métodos avançados de proteção
 
 
-  #### Laboratório&#58; Configurando o Windows Defender
+  #### Laboratório &#58; Configurando o Windows Defender
 
-  #### Laboratório&#58; Criando regras de firewall
+  #### Laboratório &#58; Criando regras de firewall
 
-  #### Laboratório&#58; Criando regras de segurança de conexão
+  #### Laboratório &#58; Criando regras de segurança de conexão
 
-  #### Laboratório&#58; Usando EFS
+  #### Laboratório &#58; Usando EFS
 
-  #### Laboratório&#58; Usando o Bitlocker
+  #### Laboratório &#58; Usando o Bitlocker
 
-  #### Laboratório&#58; Configurando o AppLocker
+  #### Laboratório &#58; Configurando o AppLocker
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Identificar ameaças de segurança comuns.
   - Descrever os métodos pelos quais você pode mitigar essas ameaças de segurança comuns.
@@ -241,17 +241,17 @@ outlineSection: |-
 
 
   ### Módulo 10&#58; Suporte ao ambiente Windows 10
-  Este módulo cobrirá a arquitetura do Windows 10 e ambientes comuns. Os alunos serão apresentados às várias ferramentas usadas na manutenção do Windows. Este módulo também discutirá metodologias para solucionar problemas de maneira eficaz e como gerenciar e otimizar proativamente o Windows 10.
+  ### Este módulo cobrirá a arquitetura do Windows 10 e ambientes comuns. Os alunos serão apresentados às várias ferramentas usadas na manutenção do Windows. Este módulo também discutirá metodologias para solucionar problemas de maneira eficaz e como gerenciar e otimizar proativamente o Windows 10.
 
   #### Lições
-  - Arquitetura do Windows
+  - Windows Architecture
   - Ferramentas de suporte e diagnóstico
   - Monitorando e solucionando problemas de desempenho do computador
 
 
-  #### Laboratório&#58; Monitorando Eventos
+  #### Laboratório &#58; Monitorando Eventos
 
-  #### Laboratório&#58; Monitorando a confiabilidade e o desempenho
+  #### Laboratório &#58; Monitorando a confiabilidade e o desempenho
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever a arquitetura do Windows.
   - Descrever os principais estágios da solução de problemas.
@@ -267,13 +267,13 @@ outlineSection: |-
   Solução de problemas do aplicativo
 
 
-  #### Laboratório&#58; Usando o histórico de arquivos para recuperar arquivos
+  #### Laboratório &#58; Usando o histórico de arquivos para recuperar arquivos
 
-  #### Laboratório&#58; Solução de problemas de aplicativos da área de trabalho
+  #### Laboratório &#58; Solução de problemas de aplicativos da área de trabalho
 
-  #### Laboratório&#58; Solucionando problemas de compatibilidade de aplicativos
+  #### Laboratório &#58; Solucionando problemas de compatibilidade de aplicativos
 
-  #### Laboratório&#58; Solução de problemas do Microsoft Edge
+  #### Laboratório &#58; Solução de problemas do Microsoft Edge
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever os diferentes métodos de recuperação de arquivos.
   - Configurar o Windows 10 para oferecer suporte à recuperação individual de arquivos e sistemas.
@@ -289,14 +289,14 @@ outlineSection: |-
   - Solucionando problemas de serviço do sistema operacional
 
 
-  #### Laboratório&#58; Recuperando usando Redefinir este PC
+  #### Laboratório &#58; Recuperando usando Redefinir este PC
 
-  #### Laboratório&#58; Recuperando usando um ponto de restauração
+  #### Laboratório &#58; Recuperando usando um ponto de restauração
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever os vários métodos para identificar e recuperar problemas de inicialização.
-  - Descrever quando usar as várias opções de inicialização avançada.
+  - Descrever quando usar as várias opções de inicialização avançada
   - Identificar e desativar um serviço com falha.
-  - Identificar e atenuar cenários comuns de conta bloqueada.
+  - Identificar e atenuar cenários comuns de conta bloqueada
 
 
   ### Módulo 13&#58; Solução de problemas de hardware e drivers
@@ -307,8 +307,9 @@ outlineSection: |-
   - Solucionando problemas de falhas físicas
 
 
-  #### Laboratório&#58; Recuperando usando a reversão de driver
+  #### Laboratório &#58; Recuperando usando a reversão de driver
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Solucionar e corrigir os problemas do driver.
   - Solucionar problemas de periféricos
   - Diagnosticar e substituir o hardware.
+

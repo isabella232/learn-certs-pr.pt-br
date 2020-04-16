@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Planejamento e administração do SharePoint 2016
+title: Planning and Administering SharePoint 2016
 metadata:
-  title: 'Curso 20339-1-A: Planejamento e gerenciamento do SharePoint 2016'
-  description: 'Curso 20339-1-A: Planejamento e gerenciamento do SharePoint 2016'
+  title: 'Course 20339-1A: Planning and Administering SharePoint 2016'
+  description: 'Course 20339-1A: Planning and Administering SharePoint 2016'
 uid: course.20339-1
 courseNumber: '20339-1A'
 hoursToComplete: 120
@@ -37,12 +37,12 @@ summary: |-
   Este curso de cinco dias fornecerá o conhecimento e as habilidades que permitem que você planeje e gerencie um ambiente do Microsoft SharePoint 2016. O curso ensina como implementar, gerenciar e diagnosticar problemas em seu ambiente do SharePoint. Este curso também fornece as diretrizes, práticas recomendadas e considerações que o ajudam a otimizar a implementação do SharePoint.
 
   Este é o primeiro de uma sequência de dois cursos para profissionais de TI e é compatível com a certificação SharePoint 2016 IT Pro.
-  
+
   #### Perfil do público
   O curso destina-se a profissionais de TI experientes que estão interessados em aprender a instalar, configurar, implementar e gerenciar as instalações do SharePoint 2016 em um data center ou na nuvem.
-  
+
   Os estudantes geralmente têm mais de um ano de experiência prática* no planejamento e manutenção do SharePoint e dois anos de experiência em tecnologias básicas das quais o SharePoint depende, incluindo Windows Server 2012 R2 ou posterior, Internet Information Services (IIS), Microsoft SQL Server 2014 ou posterior, Active Directory Domain Services (AD DS) e serviços de infraestrutura de rede.
-  
+
   No geral, o candidato minimamente qualificado&#58;
   - É um profissional de TI que planeja, implementa e mantém um ambiente multisservidor do SharePoint 2016.
   - Possui conhecimento prático e, de preferência, experiência prática, no SharePoint Online.
@@ -135,7 +135,8 @@ outlineSection: |-
   - Projeto de uma arquitetura física
   - Desenvolvimento de diagramas de projeto de arquitetura física
 
-  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  Depois de
+  completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever os requisitos para os componentes
   físicos necessários para a implementação do SharePoint 2016.
   - Descrever os requisitos para suporte aos
@@ -152,16 +153,17 @@ outlineSection: |-
   - Configuração de farm do SharePoint 2016
 
 
-  #### Laboratório&#58; Implementação e configuração do SharePoint 2016 – Parte 1
+  #### Laboratório&#58; Implementação e configuração do 2016 – Parte 1
   - Provisionamento de um farm do SharePoint 2016
 
 
-  #### Laboratório&#58; Implementação e configuração do SharePoint 2016 – Parte 2
+  #### Laboratório&#58; Implementação e configuração do 2016 – Parte 2
   - Configuração de e-mail de entrada
   - Configuração de e-mail de saída
   - Configuração da integração com o Office Online Server
 
-  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  Depois de
+  completar este módulo, os estudantes estarão aptos a&#58;
   - Instalar o SharePoint 2016.
   - Implementar e configurar o SharePoint 2016.
   - Descrever o script de instalação e configuração do
@@ -187,8 +189,7 @@ outlineSection: |-
   - Criação de um conjunto de sites em um novo banco de dados de conteúdo
   - Uso da criação rápida de conjuntos de sites
 
-  Depois de
-  completar este módulo, os estudantes estarão aptos a&#58;
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Criar aplicativos na web.
   - Configurar aplicativos na web.
   - Criar e configurar de conjuntos de sites.
@@ -277,7 +278,7 @@ outlineSection: |-
 
 
   ### Módulo 11&#58; Gerenciamento da taxonomia
-  Este módulo descreve como criar e gerenciar tipos de conteúdo e propagação do tipo de conteúdo. Além disso, descreve como implementar metadados gerenciados em aplicativos do SharePoint na web e conjuntos de sites. Ele também descreve como configurar o aplicativo de serviço de metadados gerenciados no SharePoint 2016.
+  Este módulo descreve como criar e gerenciar tipos de conteúdo e propagação do tipo de conteúdo. Além disso, descreve como implementar metadados gerenciados em aplicativos do Sharepoint na web e conjuntos de sites. Ele também descreve como configurar o aplicativo de serviço de metadados gerenciados no SharePoint 2016.
   #### Lições
   - Gerenciamento de tipos de conteúdo
   - Compreensão de metadados gerenciados
@@ -296,7 +297,7 @@ outlineSection: |-
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Criar e gerenciar tipos de conteúdo e propagação do tipo de conteúdo.
-  - Descrever como implementar metadados gerenciados em aplicativos do SharePoint na web e conjuntos de sites.
+  - Descrever como implementar metadados gerenciados em aplicativos do Sharepoint na web e conjuntos de sites.
   - Configurar o aplicativo de serviço de metadados gerenciados no SharePoint 2016.
 
 
@@ -332,7 +333,7 @@ outlineSection: |-
   #### Laboratório&#58; Configuração de pesquisa corporativa
   - Configuração do aplicativo de serviço de pesquisa
   - Configuração da fonte de conteúdo de compartilhamento de arquivos
-  - Configuração da fonte de conteúdo do SharePoint local
+  - Configuração da fonte de conteúdo do Sharepoint local
   - Criação de um centro de pesquisa
 
 
@@ -349,7 +350,7 @@ outlineSection: |-
   - Gerenciar a experiência de pesquisa no SharePoint 2016.
 
 
-  ### Módulo 14&#58; Monitoramento e manutenção de um ambiente do SharePoint 2016
+  ### Módulo 14&#58; Monitoramento e manutenção de um ambiente do Sharepoint 2016
   Este módulo descreve como implementar um plano de monitoramento para o SharePoint 2016 e como otimizar o desempenho de implementação do SharePoint 2016. Ele também descreve como planejar e configurar o cache do SharePoint. Além disso, descreve como identificar e diagnosticar problemas em um ambiente do SharePoint 2016.
   #### Lições
   - Monitoramento de um ambiente do SharePoint 2016
@@ -373,5 +374,6 @@ outlineSection: |-
   - Desenvolver e implementar um plano de monitoramento para um ambiente do SharePoint 2016.
   - Ajustar e otimizar farms de servidores SharePoint 2016 de maneira contínua.
   - Planejar e configurar o cache para aprimorar o desempenho de uma implementação do SharePoint 2016.
-  
+
   Diagnosticar falhas e outros problemas em uma implementação do SharePoint 2016
+

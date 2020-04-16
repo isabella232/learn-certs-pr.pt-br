@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft 365 Tenant e Gestão de Serviço
+title: Microsoft 365 Tenant & Service Management
 metadata:
-  title: 'Curso MS-100T02-A: Microsoft 365 Tenant e Gestão de Serviço'
-  description: 'Curso MS-100T02-A: Microsoft 365 Tenant e Gestão de Serviço'
+  title: 'Course MS-100T02-A: Microsoft 365 Tenant & Service Management'
+  description: 'Course MS-100T02-A: Microsoft 365 Tenant & Service Management'
 uid: course.ms-100t02
 courseNumber: 'MS-100T02-A'
 hoursToComplete: 24
@@ -52,7 +52,7 @@ outlineSection: |-
   - Implementando seus serviços de Domínio
 
 
-  ### Módulo 3&#58; Gerenciando seu inquilino do Microsoft 365
+  Módulo 3&#58; Gerenciando seu inquilino do Microsoft 365
   #### Lições
   - Configurando funções de inquilino
   - Gerenciando inquilino Saúde e serviços
@@ -60,8 +60,9 @@ outlineSection: |-
 
   ### Módulo 4&#58; Laboratório Prático
 
-  #### Laboratório&#58; Gerenciamento de inquilino e serviço do Microsoft 365
+  #### Laboratório &#58; Gerenciamento de inquilino e serviço do Microsoft 365
   - Exercício 1&#58; Configurar um inquilino de avaliação do Microsoft 365
   - Exercício 2&#58; Gerenciando usuários, grupos e administração do Microsoft 365
   - Exercício 3&#58; Configurando gerenciamento e conformidade de direitos
   - Exercício 4&#58; Monitorar e solucionar problemas do Microsoft 365
+

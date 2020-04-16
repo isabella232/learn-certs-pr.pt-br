@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Planejamento e implementação do Microsoft Exchange Server 2016/2019
+title: Designing and Deploying Microsoft Exchange Server 2016/2019
 metadata:
-  title: 'Curso 20345-2-B: Planejamento e implementação do Microsoft Exchange Server 2016/2019'
-  description: 'Curso 20345-2-B: Planejamento e implementação do Microsoft Exchange Server 2016/2019'
+  title: 'Course 20345-2-B: Designing and Deploying Microsoft Exchange Server 2016/2019'
+  description: 'Course 20345-2-B: Designing and Deploying Microsoft Exchange Server 2016/2019'
 uid: course.20345-2
 courseNumber: '20345-2-B'
 hoursToComplete: 120
@@ -16,7 +16,7 @@ skillsGained:
 - skill: Manter o Exchange Server usando disponibilidade gerenciada e configuração de estado desejado (DSC).
 - skill: Planejar a segurança de mensagens e implementar os Serviços de Gerenciamento de Direitos do Active Directory (AD RMS) e o Microsoft Azure RMS no Exchange Server.
 - skill: Planejar e implementar retenção e arquivamento de mensagens.
-- skill: Criar e implementar políticas de prevenção de perda de dados, retenção no local e descoberta eDiscovery.
+- skill: Criar e implementar políticas de prevenção de perda de dados, retenção no local e descoberta eletrônica.
 - skill: Planejar e implementar a coexistência de mensagens entre as organizações do Exchange Server.
 - skill: Planejar e implementar a atualização de versões anteriores do Exchange Server para o Exchange Server 2019.
 - skill: Planejar uma implantação híbrida do Exchange.
@@ -49,7 +49,7 @@ prerequisitesSection: |-
 outlineSection: |-
   ### Módulo 1&#58; Planejamento de implementações do Exchange Server
   Este módulo descreve os principais recursos do Exchange Server e como obter requisitos de negócios. Ele também descreve como planejar uma implementação do Exchange Server e a migração da unificação de mensagens para a caixa postal na nuvem.
-  
+
   #### Lições
   - Novos recursos do Exchange Server 2019
   - Obtenção de requisitos de negócios para uma implementação do Exchange Server
@@ -208,23 +208,23 @@ outlineSection: |-
 
 
   ### Módulo 9&#58; Planejamento e implementação de conformidade de mensagens
-  Este módulo descreve como planejar e implementar políticas de prevenção de perda de dados, retenção e descoberta eDiscovery no local.
+  Este módulo descreve como planejar e implementar políticas de prevenção de perda de dados, retenção e descoberta eletrônica no local.
   #### Lições
   - Planejamento e implementação de políticas de prevenção de perda de dados
   - Planejamento e implementação de retenção no local
-  - Planejamento e implementação de descoberta eDiscovery local
+  - Planejamento e implementação de descoberta eletrônica local
 
 
   #### Laboratório&#58; Planejamento e implementação de conformidade de mensagens
   - Planejamento de conformidade de mensagens
   - Implementação de prevenção de perda de dados
-  - Implementação de descoberta eDiscovery local
+  - Implementação de descoberta eletrônica local
   - Comparação da política de mensagens e as opções de conformidade
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Planejar e implementar a prevenção de perda de dados
   - Planejar e implementar a retenção no local
-  - Planejar e implementar a descoberta eDiscovery local
+  - Planejar e implementar a descoberta eletrônica local
 
 
   ### Módulo 10&#58; Planejamento e implementação de coexistência de mensagens
@@ -282,3 +282,4 @@ outlineSection: |-
   - Implementar o Azure AD Connect
   - Implementar um ambiente híbrido
   - Implementar funcionalidades avançadas para ambientes híbridos
+

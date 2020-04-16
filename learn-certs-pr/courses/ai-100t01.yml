@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Projetando e implementando uma solução Azure AI
+title: Designing and Implementing an Azure AI Solution
 metadata:
-  title: 'Curso AI-100T01-A: Projetando e implementando uma solução Azure AI'
-  description: 'Curso AI-100T01-A: Projetando e implementando uma solução Azure AI'
+  title: 'Course AI-100T01-A: Designing and Implementing an Azure AI Solution'
+  description: 'Course AI-100T01-A: Designing and Implementing an Azure AI Solution'
 uid: course.ai-100t01
 courseNumber: 'AI-100T01-A'
 hoursToComplete: 72
@@ -80,3 +80,4 @@ outlineSection: |-
   - Realização de uma análise de sentimentos para o seu Bot com o Text Analytics
   - Detecção de idioma em um Bot com os serviços cognitivos de idioma
   - Integração do Computer Vision com Bots
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gerenciamento de Segurança Microsoft 365
+title: Microsoft 365 Security Management
 metadata:
-  title: 'Curso MS-101T01-A: Gerenciamento de Segurança Microsoft 365'
-  description: 'Curso MS-101T01-A: Gerenciamento de Segurança Microsoft 365'
+  title: 'Course MS-101T01-A: Microsoft 365 Security Management'
+  description: 'Course MS-101T01-A: Microsoft 365 Security Management'
 uid: course.ms-101t01
 courseNumber: 'MS-101T01-A'
 hoursToComplete: 24
@@ -56,7 +56,7 @@ outlineSection: |-
   - Implementando seus serviços de Domínio
 
 
-  ### Módulo 3&#58; Gerenciando seu inquilino do Microsoft 365
+  Módulo 3&#58; Gerenciando seu inquilino do Microsoft 365
   #### Lições
   - Configurando funções de inquilino
   - Gerenciando inquilino Saúde e serviços
@@ -64,7 +64,8 @@ outlineSection: |-
 
   ### Módulo 4&#58; Laboratório Prático
 
-  #### Laboratório&#58; Gerenciando a segurança do Microsoft 365
+  #### Laboratório &#58; Gerenciando a segurança do Microsoft 365
   - Exercício 1&#58; Configurando seu ambiente de laboratório
   - Exercício 2&#58; Editando uma política de Links Seguros ATP e crie uma política de Anexo Seguro
   - Exercício 3&#58; Ativando e instalando o ATA Center
+

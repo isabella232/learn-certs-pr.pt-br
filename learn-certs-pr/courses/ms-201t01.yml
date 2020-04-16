@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Definindo uma estratégia de mensagens híbridas
+title: Defining a Hybrid Messaging Strategy
 metadata:
-  title: 'Curso MS-201T01-A: Definindo uma estratégia de mensagens híbridas'
-  description: 'Curso MS-201T01-A: Definindo uma estratégia de mensagens híbridas'
+  title: 'Course MS-201T01-A: Defining a Hybrid Messaging Strategy'
+  description: 'Course MS-201T01-A: Defining a Hybrid Messaging Strategy'
 uid: course.ms-201t01
 courseNumber: 'MS-201T01-A'
 hoursToComplete: 48
@@ -66,6 +66,7 @@ outlineSection: |-
 
   ### Módulo 4&#58; Laboratório - Implantação e Gerenciamento Híbridos
 
-  #### Laboratório&#58; Implantação e gerenciamento híbridos
+  #### Laboratório &#58; Implantação e gerenciamento híbridos
   - Exercício 1&#58; Executar uma migração de caixa de correio para o Microsoft 365
   - Exercício 2&#58; Gerenciar cenários híbridos
+

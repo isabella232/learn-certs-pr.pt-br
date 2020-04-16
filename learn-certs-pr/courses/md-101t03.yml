@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Protegendo desktops e dispositivos modernos
+title: Protecting Modern Desktops and Devices
 metadata:
-  title: 'Curso MD-101T03-A: Protegendo desktops e dispositivos modernos'
-  description: 'Curso MD-101T03-A: Protegendo desktops e dispositivos modernos'
+  title: 'Course MD-101T03-A: Protecting Modern Desktops and Devices'
+  description: 'Course MD-101T03-A: Protecting Modern Desktops and Devices'
 uid: course.md-101t03
 courseNumber: 'MD-101T03-A'
 hoursToComplete: 24
@@ -13,7 +13,7 @@ skillsGained:
 - skill: Implementar o Windows Hello for Business.
 - skill: Configure regras de acesso condicional com base em políticas de conformidade.
 - skill: Descrever as várias ferramentas usadas para proteger dispositivos e dados.
-- skill: Implementar a Proteção Avançada contra Ameaças do Windows Defender.
+- skill: Implementar a Proteção Avançada contra Ameaças  do Windows Defender
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -32,6 +32,7 @@ summary: |-
   #### Perfil do público
   O Modern Desktop Administrator (MDA) implanta, configura, protege, gerencia e monitora dispositivos e aplicativos clientes em um ambiente corporativo. As responsabilidades incluem gerenciar identidade, acesso, políticas, atualizações e aplicativos. O MDA colabora com o M365 Enterprise Administrator para projetar e implementar uma estratégia de dispositivo que atenda às necessidades de negócios de uma organização moderna. O MDA deve estar familiarizado com as cargas de trabalho do M365 e deve ter fortes habilidades e experiência em implantar, configurar e manter dispositivos Windows 10 e não Windows. A função MDA se concentra nos serviços em nuvem, e não nas tecnologias de gerenciamento local.
 prerequisitesSection: |-
+  O
   O Modern Desktop Administrator Associate MDA deve estar familiarizado com as cargas de trabalho do M365 e deve ter
   fortes habilidades e experiência em implantar, configurar e manter o Windows
   10 e dispositivos não Windows. A função MDA se concentra nos serviços em nuvem,
@@ -47,7 +48,7 @@ outlineSection: |-
   - Habilitando o acesso corporativo
 
 
-  #### Laboratório&#58; Laboratório de Práticas - Gerenciando objetos e autenticação no Azure AD
+  #### Laboratório &#58; Laboratório de Práticas - Gerenciando objetos e autenticação no Azure AD
   - Habilitando e configurando o Azure AD Premium com inquilino Enterprise Mobility + Security (EMS)
   - Criando objetos de usuário e grupo com interface do usuário e Windows PowerShell
   - Configurando a redefinição de senha de autoatendimento (SSPR) para contas de usuário no Azure AD
@@ -70,7 +71,7 @@ outlineSection: |-
   - Implementar políticas de conformidade de dispositivos
 
 
-  #### Laboratório&#58; Laboratório prático - Gerenciamento de dispositivos
+  #### Laboratório &#58; Laboratório prático - Gerenciamento de dispositivos
   - Configurando o Microsoft Intune para gerenciamento de dispositivos
   - Configurando políticas de conformidade e perfis de dispositivo
   - Registrando dispositivos Windows 10 e gerenciando conformidade
@@ -91,7 +92,7 @@ outlineSection: |-
   - Gerenciando o Windows Defender no Windows 10
 
 
-  #### Laboratório&#58; Laboratório de prática - Gerenciando a segurança no Windows 10
+  #### Laboratório &#58; Laboratório de prática - Gerenciando a segurança no Windows 10
   - Configurando o sistema de arquivos com criptografia (EFS)
   Configurando o BitLocker
   Configurando uma política WIP no Intune
@@ -109,4 +110,5 @@ outlineSection: |-
   - Exame Final
 
 
-  #### Laboratório&#58; Graded Lab
+  #### Laboratório &#58; Graded Lab
+

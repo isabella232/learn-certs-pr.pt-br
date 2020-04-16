@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurando o Serviço de Campo do Dynamics 365
+title: Configuring Dynamics 365 Field Service
 metadata:
-  title: 'Curso MB-240T01-A: Configurando o Serviço de Campo do Dynamics 365'
-  description: 'Curso MB-240T01-A: Configurando o Serviço de Campo do Dynamics 365 '
+  title: 'Course MB-240T01-A: Configuring Dynamics 365 Field Service'
+  description: 'Course MB-240T01-A: Configuring Dynamics 365 Field Service'
 uid: course.mb-240t01
 courseNumber: 'MB-240T01-A'
 hoursToComplete: 24
@@ -58,3 +58,4 @@ outlineSection: |-
   - Criando incidentes
   - Usando tarefas de serviço
   - Definindo produtos, serviços e habilidades
+

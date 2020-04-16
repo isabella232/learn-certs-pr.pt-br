@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementação da entrega contínua
+title: Implementing Continuous Delivery
 metadata:
-  title: 'Curso AZ-400T03-A: Implementação da entrega contínua'
-  description: 'Curso AZ-400T03-A: Implementação da entrega contínua'
+  title: 'Course AZ-400T03-A: Implementing Continuous Delivery'
+  description: 'Course AZ-400T03-A: Implementing Continuous Delivery'
 uid: course.az-400t03
 courseNumber: 'AZ-400T03-A'
 hoursToComplete: 24
@@ -61,7 +61,7 @@ outlineSection: |-
   - Escolha da ferramenta de gerenciamento de lançamento adequada
 
 
-  #### Laboratório&#58; Criação de uma estratégia de lançamento
+  #### Laboratório &#58; Criação de uma estratégia de lançamento
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Distinguir entre um lançamento e uma implementação
   - Definir os componentes de um pipeline de lançamento
@@ -82,17 +82,17 @@ outlineSection: |-
   - Automatização de inspeção da integridade
 
 
-  #### Laboratório&#58; Automatização de suas implementações de infraestrutura na nuvem com Terraform e Azure Pipelines
+  #### Laboratório &#58; Automatização de suas implementações de infraestrutura na nuvem com Terraform e Azure Pipelines
 
-  #### Laboratório&#58; Configuração de segredos no pipeline com o Azure Key Vault
+  #### Laboratório &#58; Configuração de segredos no pipeline com o Azure Key Vault
 
-  #### Laboratório&#58; Configuração e execução de testes de carga
+  #### Laboratório &#58; Configuração e execução de testes de carga
 
-  #### Laboratório&#58; Configuração e execução de testes funcionais
+  #### Laboratório &#58; Configuração e execução de testes funcionais
 
-  #### Laboratório&#58; Uso do Azure Monitor como portão de lançamento
+  #### Laboratório &#58; Uso do Azure Monitor como portão de lançamento
 
-  #### Laboratório&#58; Criação de um painel de lançamento
+  #### Laboratório &#58; Criação de um painel de lançamento
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Explicar a terminologia usada no Azure DevOps e outras ferramentas de gerenciamento de lançamento
   - Descrever o que é uma tarefa de compilação e lançamento, o que ela pode fazer e algumas tarefas de implementação disponíveis
@@ -117,11 +117,12 @@ outlineSection: |-
   - Progressive Exposure Deployment
 
 
-  #### Laboratório&#58; Blue-Green Deployments
+  #### Laboratório &#58; Blue-Green Deployments
 
-  #### Laboratório&#58; Gerenciador de tráfego
+  #### Laboratório &#58; Gerenciador de tráfego
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever padrões de implementação
   - Implementar Blue Green Deployment
   - Implementar Canary Release
   - Implementar Progressive Exposure Deployment
+
