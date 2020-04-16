@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementando cargas de trabalho e segurança
+title: Implementing Workloads and Security
 metadata:
-  title: 'Curso AZ-300T02-A: Implementação de cargas de trabalho e segurança'
-  description: 'Curso AZ-300T02-A: Implementação de cargas de trabalho e segurança'
+  title: 'Course AZ-300T02-A: Implementing Workloads and Security'
+  description: 'Course AZ-300T02-A: Implementing Workloads and Security'
 uid: course.az-300t02
 courseNumber: 'AZ-300T02-A'
 hoursToComplete: 24
@@ -81,3 +81,4 @@ outlineSection: |-
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Proteção de identidades usando o Azure AD.
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Criação e implementação de aplicativos
+title: Creating and Deploying Apps
 metadata:
-  title: 'Curso AZ-300T04-A: Criação e implementação de aplicativos'
-  description: 'Curso AZ-300T04-A: Criação e implementação de aplicativos'
+  title: 'Course AZ-300T04-A: Creating and Deploying Apps'
+  description: 'Course AZ-300T04-A: Creating and Deploying Apps'
 uid: course.az-300t04
 courseNumber: 'AZ-300T04-A'
 hoursToComplete: 24
@@ -83,3 +83,4 @@ outlineSection: |-
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Compreender o Registro de Contêiner do Azure
   - Usar instâncias de contêiner do Azure
+

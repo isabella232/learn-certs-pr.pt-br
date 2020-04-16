@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurando o Windows 10
+title: Configuring Windows 10
 metadata:
-  title: 'Curso MD-100T02-A: Configurando o Windows 10'
-  description: 'Curso MD-100T02-A: Configurando o Windows 10'
+  title: 'Course MD-100T02-A: Configuring Windows 10'
+  description: 'Course MD-100T02-A: Configuring Windows 10'
 uid: course.md-100t02
 courseNumber: 'MD-100T02-A'
 hoursToComplete: 48
@@ -27,7 +27,8 @@ products:
 exams:
 - uid: exam.md-100
 summary: |-
-  In Neste curso, os alunos aprenderão como dar suporte às tarefas de configuração
+  In
+  Neste curso, os alunos aprenderão como dar suporte às tarefas de configuração
   associado ao Windows 10. Os alunos desenvolverão habilidades que incluem gerenciamento
   armazenamento, arquivos, drivers e impressoras, além de como configurar a rede
   conectividade para Windows 10 Este curso também abordará o gerenciamento e implantação de
@@ -54,7 +55,7 @@ outlineSection: |-
 
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Descrever os conceitos relacionados aos drivers
+  - Descrever os conceitos relacionados aos drivers.
   - Instalar um driver de dispositivo
   - Descrever conceitos de gerenciamento de impressoras
   - Configurar impressão no lado do cliente e Gerenciar propriedades do servidor de impressão
@@ -87,7 +88,7 @@ outlineSection: |-
   - Gerenciando espaços de armazenamento
 
 
-  #### Laboratório&#58; Laboratório de Prática&#58; Gerenciando o armazenamento
+  #### Laboratório &#58; Laboratório de Prática; Gerenciando o armazenamento
   - Adicionando um disco
   - Criando um volume simples
   - Compactando uma pasta
@@ -123,4 +124,5 @@ outlineSection: |-
   - Exame Final
 
 
-  #### Laboratório&#58; Graded Lab
+  #### Laboratório &#58; Graded Lab
+

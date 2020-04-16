@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gerenciamento de segurança, higiene e conformidade de mensagens
+title: Managing Messaging Security, Hygiene, and Compliance
 metadata:
-  title: 'Curso MS-201T02-A: Gerenciamento de segurança, higiene e conformidade de mensagens'
-  description: 'Curso MS-201T02-A: Gerenciamento de segurança, higiene e conformidade de mensagens'
+  title: 'Course MS-201T02-A: Managing Messaging Security, Hygiene, and Compliance'
+  description: 'Course MS-201T02-A: Managing Messaging Security, Hygiene, and Compliance'
 uid: course.ms-201t02
 courseNumber: 'MS-201T02-A'
 hoursToComplete: 48
@@ -30,7 +30,7 @@ products:
 exams:
 - uid: exam.ms-201
 summary: |-
-  Neste curso, você aprenderá sobre as diferentes configurações e serviços de segurança e conformidade relacionados a mensagens com o Exchange Server e o Exchange Online. Você começará examinando os fundamentos da higiene das mensagens com a Proteção Online do Exchange e a Proteção Avançada contra Ameaças do Exchange, bem como a filtragem de spam e conexão com o Exchange. Você examinará as soluções de conformidade de mensagens, como políticas de retenção e prevenção de perda de dados, bem como investigações de log de auditoria e mecanismos de pesquisa de descoberta eDiscovery a partir da perspectiva de conformidade de mensagens. Você aprenderá como planejar uma implantação adequada e como executar o processo básico de implementação para cada solução. Você concluirá o curso examinando como gerenciar permissões atribuídas às funções de usuário e administrador.
+  Neste curso, você aprenderá sobre as diferentes configurações e serviços de segurança e conformidade relacionados a mensagens com o Exchange Server e o Exchange Online. Você começará examinando os fundamentos da higiene das mensagens com a Proteção Online do Exchange e a Proteção Avançada contra Ameaças do Exchange, bem como a filtragem de spam e conexão com o Exchange. Você examinará as soluções de conformidade de mensagens, como políticas de retenção e prevenção de perda de dados, bem como investigações de log de auditoria e mecanismos de pesquisa de descoberta eletrônica a partir da perspectiva de conformidade de mensagens. Você aprenderá como planejar uma implantação adequada e como executar o processo básico de implementação para cada solução. Você concluirá o curso examinando como gerenciar permissões atribuídas às funções de usuário e administrador.
 
   #### Perfil do público
   O Administrador de Mensagens implanta, configura, gerencia e soluciona problemas de destinatários, permissões, proteção de mensagens, fluxo de mensagens e pastas públicas em ambientes corporativos locais e na nuvem. As responsabilidades incluem gerenciar a higiene das mensagens, a infraestrutura de mensagens e a configuração e migração híbridas. O Administrador de Mensagens também implementa e gerencia a recuperação de desastres, a alta disponibilidade e o acesso do cliente. Para implementar uma topologia híbrida segura que atenda às necessidades comerciais de uma organização moderna, o Administrador de Mensagens deve colaborar com o Security Administrator e o Microsoft 365 Enterprise Administrator. O Messaging Administrator deve ter um conhecimento prático dos tipos de autenticação, licenciamento e integração com aplicativos do Microsoft 365.
@@ -65,7 +65,8 @@ outlineSection: |-
 
   ### Módulo 4&#58; Laboratório - Gerenciar a higiene da mensagem
 
-  #### Laboratório&#58; Gerenciar a higiene da mensagem
+  #### Laboratório &#58; Gerenciar a higiene da mensagem
   - Exercício 1&#58; Gerenciar a higiene das mensagens em uma solução local
   - Exercício 2&#58; Gerenciar a higiene das mensagens em uma solução em nuvem
   - Exercício 3&#58; Gerenciar a higiene das mensagens em uma solução híbrida
+

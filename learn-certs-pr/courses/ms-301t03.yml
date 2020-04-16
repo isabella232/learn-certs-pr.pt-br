@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementando cenários híbridos do SharePoint
+title: Implementing SharePoint Hybrid Scenarios
 metadata:
-  title: 'Curso MS-301T03-A: Implementando cenários híbridos do SharePoint'
-  description: 'Curso MS-301T03-A: Implementando cenários híbridos do SharePoint'
+  title: 'Course MS-301T03-A: Implementing SharePoint Hybrid Scenarios'
+  description: 'Course MS-301T03-A: Implementing SharePoint Hybrid Scenarios'
 uid: course.ms-301t03
 courseNumber: 'MS-301T03-A'
 hoursToComplete: 24
@@ -34,25 +34,25 @@ exams:
 - uid: exam.ms-301
 summary: |-
   O clima de negócios mudou. As pessoas querem se comunicar sem barreiras colaborativas. As empresas desejam soluções econômicas e flexíveis. Um ambiente híbrido permite que os usuários corporativos se conectem de praticamente qualquer lugar aos recursos e conteúdos de que precisam. Neste curso, você aprenderá como planejar e implementar cenários híbridos do SharePoint que proporcionam uma experiência perfeita aos usuários. Também discutiremos mais a pesquisa híbrida do SharePoint, que oferece aos usuários acesso fácil aos arquivos de que precisam.
-  
+
   Este curso foi desenvolvido para profissionais de TI que implantam e gerenciam a infraestrutura de trabalho em equipe em sua organização.
-  
+
   Este é o terceiro de uma série de quatro cursos para o Teamwork Administrator. Esses cursos ajudam a se preparar para o exame MS-301&#58; Implantando o SharePoint Server Hybrid.
 
   #### Perfil do público
   Este curso é para a função de Teamwork Administrator do Microsoft 365. A função é responsável por configurar, implantar e gerenciar cargas de trabalho do Office 365 e Azure que se concentram na colaboração e adoção eficientes e eficazes. Eles gerenciam aplicativos, serviços e infraestrutura de suporte para atender aos requisitos de negócios. O administrador está ciente e pode diferenciar entre produtos e serviços, mas não pode gerenciar diretamente cada produto ou serviço.
-  
+
   O administrador do Teamwork deve ser capaz de implantar, gerenciar, migrar e proteger o SharePoint (online, no local e híbrido), o OneDrive e Teams.
-  
+
   O Teamwork Administrator tem um entendimento fundamental dos pontos de integração com os seguintes aplicativos e serviços&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planejador e Projeto. O administrador entende como integrar aplicativos e serviços de terceiros, incluindo aplicativos da linha de negócios.
 prerequisitesSection: |-
   Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
   - Experiência com o Windows PowerShell.
   - Entendimento básico do gerenciamento do servidor SQL.
-  - Entendimento básico de redes, incluindo DNS.
-  - Conhecimento prático da administração de servidores Windows.
+  - Entendimento básico de redes, incluindo DNS
+  - Conhecimento prático da administração de servidores Windows
   - Conhecimento básico do Active Directory e do Azure AD.
-  - Compreensão básica de gerenciamento de dispositivos móveis e sistemas operacionais alternativos (Android e macOS).
+  - Compreensão básica de gerenciamento de dispositivos móveis e sistemas operacionais alternativos (Android e macOS)
 outlineSection: |-
   ### Módulo 1&#58; Visão geral dos cenários híbridos do SharePoint
   Este módulo trata do planejamento híbrido do SharePoint Server. Ele fornece uma visão geral dos cenários híbridos do SharePoint, bem como dos requisitos de configuração.
@@ -94,4 +94,5 @@ outlineSection: |-
 
   ### Módulo 4&#58; Conclusão do Curso
 
-  #### Laboratório&#58; Configurando o SharePoint Hybrid
+  #### Laboratório &#58; Configurando o SharePoint Hybrid
+

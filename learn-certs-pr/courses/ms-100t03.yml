@@ -1,13 +1,14 @@
 ### YamlMime:Course
-title: Gestão de Identidade Microsoft 365
+title: Microsoft 365 Identity Management
 metadata:
-  title: 'Curso MS-100T03-A: Gestão de Identidade Microsoft 365'
-  description: 'Curso MS-100T03-A: Gestão de Identidade Microsoft 365'
+  title: 'Course MS-100T03-A: Microsoft 365 Identity Management'
+  description: 'Course MS-100T03-A: Microsoft 365 Identity Management'
 uid: course.ms-100t03
 courseNumber: 'MS-100T03-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
+- skill: Gerenciar contas de usuário e licenças no Microsoft 365
 - skill: Gerenciar funções de administrador e grupos de segurança no Microsoft 365
 - skill: Planejar e implementar o gerenciamento de senhas
 - skill: Gerenciar opções de autenticação e provisionamento do Microsoft 365
@@ -49,7 +50,7 @@ outlineSection: |-
   - Gerenciamento de senhas no Microsoft 365
 
 
-  #### Laboratório&#58; Gerenciando seu ambiente de identidade do Microsoft 365
+  #### Laboratório &#58; Gerenciando seu ambiente de identidade do Microsoft 365
   - Exercício 1&#58; Configurando seu ambiente de laboratório
   - Exercício 2&#58; Gerenciando seu ambiente de identidade do Microsoft 365 usando o centro de administração do Microsoft 365
   - Exercício 3&#58; Gerenciando seu ambiente de identidade do Microsoft 365 usando o Windows PowerShell
@@ -63,12 +64,12 @@ outlineSection: |-
   - Gerenciando identidades sincronizadas
 
 
-  #### Laboratório&#58; Implementando a sincronização de identidades
+  #### Laboratório &#58; Implementando a sincronização de identidades
   - Exercício 1&#58; Configurando sua organização para sincronização de identidades
   - Exercício 2&#58; Implementar sincronização de identidade
 
 
-  ### Módulo 3&#58; Planejando e implementando identidades federadas
+  Módulo 3&#58; Planejando e implementando identidades federadas
   #### Lições
   - Introdução às identidades federadas
   - Planejando uma implantação do AD FS
@@ -80,3 +81,4 @@ outlineSection: |-
   - Implementando aplicativos no Azure AD
   - Configurando o Proxy de Aplicativo do Azure AD
   - Projetando soluções para acesso externo
+

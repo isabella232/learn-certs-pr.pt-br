@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gerenciamento de Conformidade Microsoft 365
+title: Microsoft 365 Compliance Management
 metadata:
-  title: 'Curso MS-101T02-A: Gerenciamento de Conformidade Microsoft 365'
-  description: 'Curso MS-101T02-A: Gerenciamento de Conformidade Microsoft 365'
+  title: 'Course MS-101T02-A: Microsoft 365 Compliance Management'
+  description: 'Course MS-101T02-A: Microsoft 365 Compliance Management'
 uid: course.ms-101t02
 courseNumber: 'MS-101T02-A'
 hoursToComplete: 48
@@ -25,7 +25,7 @@ skillsGained:
 - skill: Compreender as proteções de informações do Windows
 - skill: Pesquise conteúdo no Centro de conformidade e segurança
 - skill: Investigações do log de auditoria
-- skill: Gerenciar descoberta eDiscovery avançada
+- skill: Gerenciar descoberta eletrônica avançada
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -90,25 +90,26 @@ outlineSection: |-
   #### Lições
   - Procurando conteúdo no Centro de conformidade e segurança
   - Auditoria de investigações de log
-  - Gerenciando a descoberta eDiscovery avançada
+  - Gerenciando a descoberta eletrônica avançada
 
 
   ### Módulo 6&#58; Laboratório Prático
 
-  #### Laboratório&#58; Configurando seu ambiente de laboratório
-  - Exercício 1&#58; Inicialize a conformidade em sua organização
+  #### Laboratório &#58; Configurando seu ambiente de laboratório
+  - Exercício 1&#58;Inicialize a conformidade em sua organização
 
 
-  #### Laboratório&#58; Arquivamento e retenção no Microsoft 365
-  - Exercício 1&#58; Configurar Tags e Políticas de Retenção
+  #### Laboratório &#58; Arquivamento e retenção no Microsoft 365
+  - Exercício 1&#58;Configurar Tags e Políticas de Retenção
   - Exercício 2&#58; Configurar AIP e WIP
 
 
-  #### Laboratório&#58; Implementando governança de dados
+  #### Laboratório &#58; Implementando governança de dados
   - Exercício 1&#58; Testando políticas de DLP
   - Exercício 2&#58; Usando a Proteção de Informações do Azure
-  - Exercício 3&#58; Usando a proteção de informações do Windows
+  - Exercício 3&#58; sando a proteção de informações do Windows
 
 
-  #### Laboratório&#58; Verifique suas políticas de governança de dados
+  #### Laboratório &#58; Verifique suas políticas de governança de dados
   - Exercício 1&#58; Investigue seus dados do Microsoft 365
+

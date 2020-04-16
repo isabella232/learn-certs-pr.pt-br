@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementação da integração contínua
+title: Implementing Continuous Integration
 metadata:
-  title: 'Curso AZ-400T02-A: Implementação da integração contínua'
-  description: 'Curso AZ-400T02-A: Implementação da integração contínua'
+  title: 'Course AZ-400T02-A: Implementing Continuous Integration'
+  description: 'Course AZ-400T02-A: Implementing Continuous Integration'
 uid: course.az-400t02
 courseNumber: 'AZ-400T02-A'
 hoursToComplete: 24
@@ -52,9 +52,9 @@ outlineSection: |-
   - Implementando uma estratégia de compilação
 
 
-  #### Laboratório&#58; Possibilitando a integração contínua com Azure Pipelines
+  #### Laboratório &#58; Possibilitando a integração contínua com Azure Pipelines
 
-  #### Laboratório&#58; Criação de tarefas de compilações Jenkins e gatilhos de CI
+  #### Laboratório &#58; Criação de tarefas de compilações Jenkins e gatilhos de CI
   Depois de concluir este módulo, os estudantes estarão aptos a&#58;
   - Explicar por que a integração contínua é importante
   - Implementar a integração contínua usando Azure DevOps
@@ -67,9 +67,9 @@ outlineSection: |-
   - Gerenciamento de políticas de segurança
 
 
-  #### Laboratório&#58; Gerenciamento de dívidas técnicas com o Azure DevOps e SonarCloud
+  #### Laboratório &#58; Gerenciamento de dívidas técnicas com o Azure DevOps e SonarCloud
 
-  #### Laboratório&#58; Verificação das vulnerabilidades usando o WhiteSource Bolt e o Azure DevOps
+  #### Laboratório &#58; Verificação das vulnerabilidades usando o WhiteSource Bolt e o Azure DevOps
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Gerenciar a qualidade do código, incluindo&#58; dívida técnica, SonarCloud e outras soluções de ferramentas.
   - Gerenciar políticas de segurança com código aberto, OWASP e WhiteSource Bolt.
@@ -82,7 +82,8 @@ outlineSection: |-
   - Implementação de uma estratégia de compilação de contêiner
 
 
-  #### Laboratório&#58; Aplicativos .NET existentes com imagens do Azure e Docker
+  #### Laboratório &#58; Aplicativos .NET existentes com imagens do Azure e Docker
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Implementação de uma estratégia de contêiner, incluindo as diferenças entre contêineres e máquinas virtuais e como os microsserviços aplicam os contêineres.
   - Implementação de contêineres usando o Docker.
+

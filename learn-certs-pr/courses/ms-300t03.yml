@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Habilitando o Microsoft Teams for Collaboration
+title: Enabling Microsoft Teams for Collaboration
 metadata:
-  title: 'Curso MS-300T03-A: Habilitando o Microsoft Teams for Collaboration'
-  description: 'Curso MS-300T03-A: Habilitando o Microsoft Teams for Collaboration'
+  title: 'Course MS-300T03-A: Enabling Microsoft Teams for Collaboration'
+  description: 'Course MS-300T03-A: Enabling Microsoft Teams for Collaboration'
 uid: course.ms-300t03
 courseNumber: 'MS-300T03-A'
 hoursToComplete: 24
@@ -31,7 +31,7 @@ exams:
 - uid: exam.ms-300
 summary: |-
   O Microsoft Teams é o centro do trabalho em equipe no Microsoft 365. Neste curso, você aprenderá como planejar, implantar e gerenciar Microsoft Teams. Especificamente, este curso discute o relacionamento das equipes com os grupos do SharePoint, OneDrive e Office 365. Ele fornece práticas recomendadas para a adoção e implantação de equipes na sua organização. Ele também aborda como estabelecer políticas de convidado e governança de dados para seus dados de equipes.
-
+  
   Este curso foi desenvolvido para profissionais de TI que gerenciam e implantam o Microsoft Teams em suas organizações. 
   
   Este é o terceiro de uma série de quatro cursos para a função de administrador do Teamwork. Esses cursos ajudam a se preparar para o exame MS-300&#58; Implantando o Microsoft 365 Teamwork.
@@ -75,7 +75,7 @@ outlineSection: |-
   - Reuniões no Teams
 
 
-  #### Laboratório&#58; Configurando o Microsoft Teams
+  #### Laboratório &#58; Configurando o Microsoft Teams
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Configurar Microsoft Teams no Office 365
   - Descrever e administrar aplicativos no Microsoft Teams
@@ -85,7 +85,7 @@ outlineSection: |-
   - Descrever os dispositivos disponíveis para facilitar reuniões no Teams
 
 
-  ### Módulo 3&#58; Gerenciar o ambiente do Teams
+  ###  Módulo 3&#58; Gerenciar o ambiente do Teams
   Este módulo está focado no gerenciamento de Microsoft Teams.  Especificamente, discutimos segurança e conformidade, bem como privacidade e governança de dados.  Embora este curso não cubra chamadas de voz explicitamente, este módulo discute tópicos de qualidade de serviço.
 
   #### Lições
@@ -101,3 +101,4 @@ outlineSection: |-
   - Descrever a abordagem da Microsoft para privacidade de dados no Office 365
   - Exibir relatórios do Office 365 que medem o uso de equipes
   - Habilitar qualidade de serviço para Microsoft Teams
+

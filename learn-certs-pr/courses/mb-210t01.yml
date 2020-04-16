@@ -1,10 +1,10 @@
 ### YamlMime:Course
-title: Dynamics 365 para envolvimento do cliente para vendas
+title: Microsoft Dynamics 365 Sales
 metadata:
-  title: 'Curso MB-210T01-A: Dynamics 365 para envolvimento do cliente para vendas'
-  description: 'Curso MB-210T01-A: Dynamics 365 para envolvimento do cliente para vendas'
+  title: 'Course MB-210T01: Microsoft Dynamics 365 Sales'
+  description: 'Course MB-210T01: Microsoft Dynamics 365 Sales'
 uid: course.mb-210t01
-courseNumber: 'MB-210T01-A'
+courseNumber: 'MB-210T01'
 hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -90,3 +90,4 @@ outlineSection: |-
   - Criar e usar metas
   - Integrar-se ao PowerBI
   - Ativar funcionalidade de IA de vendas
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gerenciando o acesso ao cliente e o fluxo de mensagens
+title: Managing Client Access and Mail Flow
 metadata:
-  title: 'Curso MS-200T02-A: Gerenciando o acesso ao cliente e o fluxo de mensagens'
-  description: 'Curso MS-200T02-A: Gerenciando o acesso ao cliente e o fluxo de mensagens'
+  title: 'Course MS-200T02-A: Managing Client Access and Mail Flow'
+  description: 'Course MS-200T02-A: Managing Client Access and Mail Flow'
 uid: course.ms-200t02
 courseNumber: 'MS-200T02-A'
 hoursToComplete: 48
@@ -75,10 +75,11 @@ outlineSection: |-
 
   ### Módulo 5&#58; Conclusão do Curso
 
-  #### Laboratório&#58; Gerenciando o acesso ao cliente e o fluxo de mensagens
+  #### Laboratório &#58; Gerenciando o acesso ao cliente e o fluxo de mensagens
   - Criar um conector de recebimento personalizado
   - Criar um conector de envio personalizado
   - Habilitando e desabilitando o ActiveSync para uma única caixa de correio
   - Habilitando e desabilitando o ActiveSync para várias caixas de correio
   - Habilitando e desabilitando o acesso MAPI a uma única caixa de correio
   - Habilitando e desabilitando o acesso MAPI a várias caixas de correio
+

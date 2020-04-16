@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Identidade e Serviços Microsoft 365
+title: Microsoft 365 Identity and Services
 metadata:
-  title: 'Curso MS-100T00-A: Identidade e Serviços Microsoft 365'
-  description: 'Curso MS-100T00-A: Identidade e Serviços Microsoft 365'
+  title: 'Course MS-100T00-A: Microsoft 365 Identity and Services'
+  description: 'Course MS-100T00-A: Microsoft 365 Identity and Services'
 uid: course.ms-100t00
 courseNumber: 'MS-100T00-A'
 hoursToComplete: 120
@@ -61,7 +61,7 @@ outlineSection: |-
 
   ### Módulo 3&#58; Laboratório 1 - Configurando seu inquilino do Microsoft 365
 
-  #### Laboratório&#58; Configurando seu inquilino do Microsoft 365
+  #### Laboratório &#58; Configurando seu inquilino do Microsoft 365
   - Exercício 1 - Configurar um inquilino de avaliação do Microsoft 365
 
 
@@ -73,7 +73,7 @@ outlineSection: |-
 
   ### Módulo 5&#58; Laboratório 2 - Gerenciando o inquilino do Microsoft 365
 
-  #### Laboratório&#58; Gerenciando seu inquilino do Microsoft 365
+  #### Laboratório &#58; Gerenciando seu inquilino do Microsoft 365
   - Exercício 1 - Gerenciar delegação de administração
   - Exercício 2 - Configurar o Office 365 Message Encryption (OME)
   - Exercício 3 - Monitorar e solucionar problemas do Office 365
@@ -90,7 +90,7 @@ outlineSection: |-
 
   ### Módulo 7&#58; Laboratório 3 - Visão geral do Office 365
 
-  #### Laboratório&#58; Visão geral do Office 365
+  #### Laboratório &#58; Visão geral do Office 365
   - Exercício 1 - Visão geral do Exchange Online
   - Exercício 2 - Visão geral do SharePoint Online
   - Exercício 3 - Visão geral das equipes
@@ -112,7 +112,7 @@ outlineSection: |-
 
   ### Módulo 10&#58; Laboratório 4 - Gerenciando instalações do Office 365 ProPlus
 
-  #### Laboratório&#58; Gerenciando instalações do Office 365 ProPlus
+  #### Laboratório &#58; Gerenciando instalações do Office 365 ProPlus
   - Exercício 1 - Prepare uma instalação gerenciada do Office 365 ProPlus
   - Exercício 2 - Gerenciar uma instalação centralizada do Office 365 ProPlus
   - Exercício 3 - Implantar e configurar componentes de telemetria do Office
@@ -129,7 +129,7 @@ outlineSection: |-
 
   ### Módulo 12&#58; Laboratório 5 - Implementando a sincronização de identidades
 
-  #### Laboratório&#58; Implementando a sincronização de identidades
+  #### Laboratório &#58; Implementando a sincronização de identidades
   - Exercício 1 - Configure sua organização para sincronização de identidades
   - Exercício 2 - Implementar sincronização de identidade
 
@@ -139,3 +139,4 @@ outlineSection: |-
   - Implementando aplicativos no Azure AD
   - Configurando o Proxy de Aplicativo do Azure AD
   - Projetando soluções para acesso externo
+

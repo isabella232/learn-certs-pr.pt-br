@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementando a proteção contra ameaças do Microsoft 365
+title: Implementing Microsoft 365 Threat Protection
 metadata:
-  title: 'Curso MS-500T02-A: Implementando a proteção contra ameaças do Microsoft 365'
-  description: 'Curso MS-500T02-A: Implementando a proteção contra ameaças do Microsoft 365'
+  title: 'Course MS-500T02-A: Implementing Microsoft 365 Threat Protection'
+  description: 'Course MS-500T02-A: Implementing Microsoft 365 Threat Protection'
 uid: course.ms-500t02
 courseNumber: 'MS-500T02-A'
 hoursToComplete: 24
@@ -30,13 +30,13 @@ exams:
 - uid: exam.ms-500
 summary: |-
   A proteção contra ameaças ajuda a impedir ataques prejudiciais com segurança integrada e automatizada. Neste curso, você aprenderá sobre as tecnologias de proteção contra ameaças que ajudam a proteger seu ambiente do Microsoft 365. Especificamente, você aprenderá sobre vetores de ameaças e as soluções de segurança da Microsoft para eles. Você aprenderá sobre Pontuação Segura, proteção do Exchange Online, Proteção Avançada contra Ameaças do Azure, Proteção Avançada contra Ameaças do Windows Defender e como usar o Microsoft 365 Threat Intelligence. Ele também discute a proteção de aplicativos e dispositivos móveis. O objetivo deste curso é ajudá-lo a configurar sua implantação do Microsoft 365 para alcançar a postura de segurança desejada.
-
+  
   #### Perfil do público
   Este curso é para a função de administrador de segurança do Microsoft 365. Essa função colabora com o Administrador Corporativo do Microsoft 365, as partes interessadas nos negócios e outros administradores de carga de trabalho para planejar e implementar estratégias de segurança e garante que as soluções estejam em conformidade com as políticas e regulamentos da organização. 
   
   Essa função protege proativamente os ambientes corporativos do Microsoft 365. As responsabilidades incluem responder a ameaças, implementar, gerenciar e monitorar soluções de segurança e conformidade para o ambiente Microsoft 365. Eles respondem a incidentes, investigações e aplicação da governança de dados.
-  
-  O Security Administrator Associate Microsoft 365 está familiarizado com as cargas de trabalho do Microsoft 365 e possui fortes habilidades e experiência em proteção de identidade, proteção de informações, proteção contra ameaças, gerenciamento de segurança e governança de dados. Essa função se concentra no ambiente Microsoft 365 e inclui ambientes híbridos.
+
+  O Security Administrator Associate Microsoft 365  está familiarizado com as cargas de trabalho do Microsoft 365 e possui fortes habilidades e experiência em proteção de identidade, proteção de informações, proteção contra ameaças, gerenciamento de segurança e governança de dados. Essa função se concentra no ambiente Microsoft 365 e inclui ambientes híbridos.
 prerequisitesSection: |-
   Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
   - Entendimento conceitual básico do Microsoft Azure.
@@ -66,14 +66,14 @@ outlineSection: |-
   Este módulo explica as várias tecnologias e serviços de proteção contra ameaças disponíveis no Microsoft 365. Especificamente, o módulo abrange a proteção de mensagens por meio da Proteção do Exchange Online, Proteção Avançada contra Ameaças do Azure e Proteção Avançada contra Ameaças do Windows Defender.
   #### Lições
   - Exchange Online Protection
-  - Proteção avançada contra ameaças do Office 365
+  - Office 365 Advanced Threat Protection
   - Gerenciando anexos seguros
   - Gerenciando links seguros
-  - Proteção Avançada contra Ameaças do Azure
-  - Proteção Avançada contra Ameaças do Windows Defender
+  - Azure Advanced Threat Protection
+  - Windows Defender Advanced Threat Protection
 
 
-  #### Laboratório&#58; Proteção avançada contra ameaças
+  #### Laboratório &#58; Proteção avançada contra ameaças
   - Configurando seu ambiente de laboratório
   - Editando uma política de Links Seguros ATP e Criando uma Política de Anexo Seguro
 
@@ -94,7 +94,7 @@ outlineSection: |-
   - Configurando o Advanced Threat Analytics
 
 
-  #### Laboratório&#58; Análise Avançada de Ameaças
+  #### Laboratório &#58; Análise Avançada de Ameaças
   - Ativando e Instalando o Centro ATA
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
@@ -124,3 +124,4 @@ outlineSection: |-
   - Definir a política de inscrição do dispositivo corporativo.
   - Registrar dispositivos no MDM.
   - Configurar uma função do Gerenciador de inscrição do dispositivo.
+

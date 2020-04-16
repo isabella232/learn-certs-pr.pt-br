@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Administrando a conformidade interna do Microsoft 365
+title: Administering Microsoft 365 Built-in Compliance
 metadata:
-  title: 'Curso MS-500T04-A: Administrando a conformidade interna do Microsoft 365'
-  description: 'Curso MS-500T04-A: Administrando a conformidade interna do Microsoft 365'
+  title: 'Course MS-500T04-A: Administering Microsoft 365 Built-in Compliance'
+  description: 'Course MS-500T04-A: Administering Microsoft 365 Built-in Compliance'
 uid: course.ms-500t04
 courseNumber: 'MS-500T04-A'
 hoursToComplete: 24
@@ -12,7 +12,7 @@ skillsGained:
 - skill: Realizar avaliações no Compliance Manager.
 - skill: Gerenciar a retenção de email por meio do Exchange.
 - skill: Realizar uma investigação do log de auditoria.
-- skill: Criar e gerenciar uma investigação de descoberta eDiscovery.
+- skill: Criar e gerenciar uma investigação de descoberta eletrônica.
 - skill: Gerenciar solicitações de assunto de dados GDPR.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -28,14 +28,14 @@ products:
 exams:
 - uid: exam.ms-500
 summary: |-
-  Políticas internas e requisitos externos para retenção e investigação de dados podem ser necessários para sua organização. Neste curso, você aprenderá sobre arquivamento e retenção no Microsoft 365, além de controle de dados e como conduzir pesquisas e investigações de conteúdo. Especificamente, este curso aborda políticas e tags de retenção de dados, gerenciamento de registros no local para o SharePoint, retenção de email e como conduzir pesquisas de conteúdo compatíveis com investigações de descoberta eDiscovery. O curso também ajuda sua organização a se preparar para o Regulamento Global de Proteção de Dados (GDPR).
-
+  Políticas internas e requisitos externos para retenção e investigação de dados podem ser necessários para sua organização. Neste curso, você aprenderá sobre arquivamento e retenção no Microsoft 365, além de controle de dados e como conduzir pesquisas e investigações de conteúdo. Especificamente, este curso aborda políticas e tags de retenção de dados, gerenciamento de registros no local para o SharePoint, retenção de email e como conduzir pesquisas de conteúdo compatíveis com investigações de descoberta eletrônica. O curso também ajuda sua organização a se preparar para o Regulamento Global de Proteção de Dados (GDPR).
+  
   #### Perfil do público
   Este curso é para a função de administrador de segurança do Microsoft 365. Essa função colabora com o Administrador Corporativo do Microsoft 365, as partes interessadas nos negócios e outros administradores de carga de trabalho para planejar e implementar estratégias de segurança e garante que as soluções estejam em conformidade com as políticas e regulamentos da organização. 
   
   Essa função protege proativamente os ambientes corporativos do Microsoft 365. As responsabilidades incluem responder a ameaças, implementar, gerenciar e monitorar soluções de segurança e conformidade para o ambiente Microsoft 365. Eles respondem a incidentes, investigações e aplicação da governança de dados. 
   
-  O Security Administrator Associate Microsoft 365 está familiarizado com as cargas de trabalho do Microsoft 365 e possui fortes habilidades e experiência em proteção de identidade, proteção de informações, proteção contra ameaças, gerenciamento de segurança e governança de dados. Essa função se concentra no ambiente Microsoft 365 e inclui ambientes híbridos.
+  O Security Administrator Associate Microsoft 365  está familiarizado com as cargas de trabalho do Microsoft 365 e possui fortes habilidades e experiência em proteção de identidade, proteção de informações, proteção contra ameaças, gerenciamento de segurança e governança de dados. Essa função se concentra no ambiente Microsoft 365 e inclui ambientes híbridos.
 prerequisitesSection: |-
   Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
   - Entendimento conceitual básico do Microsoft Azure
@@ -56,7 +56,7 @@ outlineSection: |-
   - Gerenciamento de registros no local no SharePoint
 
 
-  #### Laboratório&#58; Arquivamento e retenção
+  #### Laboratório &#58; Arquivamento e retenção
   - Criar e licenciar usuários em sua organização
   - Configurar Tags e políticas de retenção
   - Políticas de retenção do MRM
@@ -93,14 +93,14 @@ outlineSection: |-
 
 
   ### Módulo 3&#58; Gerenciando pesquisas e investigações
-  Este módulo está focado na pesquisa e investigação de conteúdo.  Especificamente, ele aborda como usar a descoberta eDiscovery para conduzir investigações avançadas dos dados do Microsoft 365. Também abrange registros de auditoria e discute solicitações de titulares de dados GDPR.
+  Este módulo está focado na pesquisa e investigação de conteúdo.  Especificamente, ele aborda como usar a descoberta eletrônica para conduzir investigações avançadas dos dados do Microsoft 365. Também abrange registros de auditoria e discute solicitações de titulares de dados GDPR.
   #### Lições
   - Procurando conteúdo no Centro de conformidade e segurança
   - Auditoria de investigações de log
-  Descoberta eDiscovery avançada
+  Descoberta eletrônica avançada
 
 
-  #### Laboratório&#58; Descoberta eDiscovery
+  #### Laboratório &#58; Descoberta eletrônica
   - Criar e licenciar usuários em sua organização
   - Investigar seus dados do Microsoft 365
 
@@ -112,7 +112,8 @@ outlineSection: |-
   - Configurar políticas de auditoria.
   - Digitar os critérios para pesquisar no log de auditoria.
   - Exportar os resultados da pesquisa para um arquivo CSV.
-  - Descrever o que é a descoberta eDiscovery avançada e quais requisitos são necessários.
-  - Analisar dados na descoberta eDiscovery avançada.
-  - Visualizando o log de eventos de Descoberta eDiscovery Avançada.
+  - Descrever o que é a descoberta eletrônica avançada e quais requisitos são necessários.
+  - Analisar dados na descoberta eletrônica avançada.
+  - Visualizando o log de eventos de Descoberta Eletrônica Avançada.
   - Usar o Express Analytics.
+

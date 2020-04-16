@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementando o Microsoft 365 Information Protection
+title: Implementing Microsoft 365 Information Protection
 metadata:
-  title: 'Curso MS-500T03-A: Implementando o Microsoft 365 Information Protection'
-  description: 'Curso MS-500T03-A: Implementando o Microsoft 365 Information Protection'
+  title: 'Course MS-500T03-A: Implementing Microsoft 365 Information Protection'
+  description: 'Course MS-500T03-A: Implementing Microsoft 365 Information Protection'
 uid: course.ms-500t03
 courseNumber: 'MS-500T03-A'
 hoursToComplete: 24
@@ -29,19 +29,19 @@ exams:
 - uid: exam.ms-500
 summary: |-
   Proteção de informações é o conceito de localização e classificação de dados em qualquer lugar em que residam. Neste curso, você aprenderá sobre as tecnologias de proteção de informações que ajudam a proteger seu ambiente do Microsoft 365. Especificamente, este curso discute conteúdo gerenciado por direitos de informação, criptografia de mensagens, além de rótulos, políticas e regras que dão suporte à prevenção de perda de dados e proteção de informações. Por fim, o curso explica a implantação do Microsoft Cloud App Security.
-
+  
   #### Perfil do público
   Este curso é para a função de administrador de segurança do Microsoft 365. Essa função colabora com o Administrador Corporativo do Microsoft 365, as partes interessadas nos negócios e outros administradores de carga de trabalho para planejar e implementar estratégias de segurança e garante que as soluções estejam em conformidade com as políticas e regulamentos da organização. 
   
   Essa função protege proativamente os ambientes corporativos do Microsoft 365. As responsabilidades incluem responder a ameaças, implementar, gerenciar e monitorar soluções de segurança e conformidade para o ambiente Microsoft 365. Eles respondem a incidentes, investigações e aplicação da governança de dados.
-
-  O Security Administrator Associate Microsoft 365 está familiarizado com as cargas de trabalho do Microsoft 365 e possui fortes habilidades e experiência em proteção de identidade, proteção de informações, proteção contra ameaças, gerenciamento de segurança e governança de dados. Essa função se concentra no ambiente Microsoft 365 e inclui ambientes híbridos.
+  
+  O Security Administrator Associate Microsoft 365  está familiarizado com as cargas de trabalho do Microsoft 365 e possui fortes habilidades e experiência em proteção de identidade, proteção de informações, proteção contra ameaças, gerenciamento de segurança e governança de dados. Essa função se concentra no ambiente Microsoft 365 e inclui ambientes híbridos.
 prerequisitesSection: |-
   Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
   - Entendimento conceitual básico do Microsoft Azure
   - Experiência com dispositivos Windows 10
   - Experiência com o Office 365
-  - Entendimento básico de autorização e autenticação
+  - Entendimento básico de autorização e autenticação.
   - Entendimento básico de redes de computadores
   - Conhecimento prático de gerenciamento de dispositivos móveis
 outlineSection: |-
@@ -56,7 +56,7 @@ outlineSection: |-
   - Proteção de informações do Windows
 
 
-  #### Laboratório&#58; Prevenção de perda de dados
+  #### Laboratório &#58; Prevenção de perda de dados
   - Criar e licenciar usuários em sua organização
   - Configurar a inscrição automática do MDM
   - Configurar AIP e WIP
@@ -80,7 +80,7 @@ outlineSection: |-
   - Dicas de Política
 
 
-  #### Laboratório&#58; Prevenção de perda de dados
+  #### Laboratório &#58; Prevenção de perda de dados
   - Criar e licenciar usuários em sua organização
   - Criar uma política de DLP
   - Testando políticas de DLP
@@ -103,7 +103,7 @@ outlineSection: |-
   #### Lições
   Explicação sobre segurança de aplicativos na nuvem
   - Usando informações de segurança de aplicativos na nuvem
-  - Segurança do Office 365 Cloud App
+  - Office 365 Cloud App Security
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever a segurança do aplicativo em nuvem.
@@ -114,3 +114,4 @@ outlineSection: |-
   - Usar o Painel de descoberta da nuvem.
   - Prepare-se para o Office 365 Cloud App Security.
   - Gerenciar permissões de aplicativos em nuvem.
+

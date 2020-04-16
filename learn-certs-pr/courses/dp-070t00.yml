@@ -2,7 +2,7 @@
 title: Migrate Open Source Data Workloads to Azure
 metadata:
   title: 'Course DP-070T00-A: Migrate Open Source Data Workloads to Azure'
-  description: 'Course DP-070T00-A: Migração de cargas de trabalho de dados de código aberto para o Azure'
+  description: 'Course DP-070T00-A: Migrate Open Source Data Workloads to Azure'
 uid: course.dp-070t00
 courseNumber: 'DP-070T00-A'
 hoursToComplete: 24
@@ -23,7 +23,8 @@ summary: |-
   Este curso permitirá que os estudantes compreendam o banco de dados SQL do Azure e os orientará sobre o que é necessário para migrar as cargas de trabalho MySQL e PostgreSQL para o banco de dados SQL do Azure.
 
   #### Perfil do público
-  Este curso destina-se aos desenvolvedores de banco de dados que planejam migrar suas cargas de trabalho MySQL ou Postgres DB para o banco de dados SQL do Azure. Este curso também se destina aos administradores do MySQL/Postgres que buscam aprimorar o conhecimento dos recursos e benefícios do banco de dados SQL do Azure.
+  Este curso destina-se aos desenvolvedores de banco de dados que planejam migrar suas cargas de trabalho MySQL ou Postgres DB para o banco de dados SQL do Azure.
+  Este curso também se destina aos administradores do MySQL/Postgres que buscam aprimorar o conhecimento dos recursos e benefícios do banco de dados SQL do Azure.
 prerequisitesSection: |-
   Além de experiência profissional, os estudantes que fizerem esse curso devem ter o seguinte conhecimento técnico&#58;
   - Algum conhecimento de sistemas de gerenciamento de banco de dados relacional de código aberto, como Postgres e/ou MySQL, administração de SQL, técnicas de backup e recuperação, por exemplo&#58; despejo de dados de tabela
@@ -91,5 +92,5 @@ outlineSection: |-
   - Migração de aplicativo
   - Considerações pós-migração
 
-  #### Leitura adicional
-  Nenhuma leitura adicional é necessária para fazer este curso
+  Leitura adicional Nenhuma leitura adicional é necessária para fazer este curso
+

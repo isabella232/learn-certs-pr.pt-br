@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Soluções básicas do Skype for Business 2015/2019
+title: Core Solutions of Skype for Business 2015/2019
 metadata:
-  title: 'Curso 20334-C: Soluções básicas do Skype for Business 2015/2019'
-  description: 'Curso 20334-C: Soluções básicas do Skype for Business 2015/2019'
+  title: 'Course 20334-C: Core Solutions of Skype for Business 2015/2019'
+  description: 'Course 20334-C: Core Solutions of Skype for Business 2015/2019'
 uid: course.20334
 courseNumber: '20334-C'
 hoursToComplete: 120
@@ -25,30 +25,30 @@ learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
-- advanced
+- intermediate
 roles:
 - administrator
 products:
-- m365
+- skype
 exams:
 - uid: exam.70-334
 summary: |-
   Este curso fornece aos estudantes os conhecimentos e habilidades necessários para planejar, implementar, configurar e gerenciar uma solução Microsoft Skype for Business. Os estudantes aprenderão a implementar uma infraestrutura multisite e altamente disponível do Skype for Business com suporte para mensagens instantâneas (IM), conferência, Enterprise Voice, arquivamento e monitoramento. Os estudantes também aprenderão a gerenciar, manter e diagnosticas problemas na infraestrutura.
-  
+
   Este curso se concentra principalmente na implementação no Skype for Business local, mas inclui informações sobre como integrar a implementação no local com Teams ou Skype for Business Online, bem como migrar das versões anteriores do Skype for Business Server. Este curso ajuda os alunos a se prepararem para o Exame 70-334&#58; Soluções básicas do Skype for Business 2015.
 
   #### Perfil do público
   Este curso destina-se aos profissionais de tecnologia da informação (TI) responsáveis pela implementação do Skype for Business em suas organizações. A experiência com versões anteriores é proveitosa, mas não obrigatória para os alunos que fizerem este curso. Os estudantes devem ser especialistas em Active Directory Domain Services (AD DS), redes de dados e padrões e componentes de telecomunicações que suportem a configuração do Skype for Business. Os estudantes também devem estar familiarizados com o Microsoft Exchange Server e o Microsoft 365.
-  
+
   Este curso também se destina a profissionais de TI que planejam fazer o exame 70- 334&#58; Soluções básicas do Skype for Business 2015 como um exame autônomo ou como parte do requisito para o exame de certificação Microsoft Certified Solutions Expert (MCSE)&#58; Comunicações.
 prerequisitesSection: |-
   Além de experiência profissional, os estudantes que fizerem esse curso devem ter o seguinte conhecimento técnico&#58;
-  - Mínimo de dois anos de experiência no gerenciamento do Windows Server, incluindo o Windows Server 2016 ou o Windows Server 2019.
-  - Mínimo de dois anos de experiência profissional em AD DS.
-  - Mínimo de dois anos de experiência profissional em resolução de nomes, incluindo sistema de nome de domínios (DNS).
-  - Experiência com certificados, incluindo certificados de infraestrutura de chave pública (PKI).
-  - Experiência com Windows PowerShell.
-  - Compreensão das redes de dados e padrões e componentes de telecomunicações.
+  - Mínimo de dois anos de experiência no gerenciamento do Windows Server, incluindo o Windows Server 2016 ou o Windows Server 2019
+  - Mínimo de dois anos de experiência profissional em AD DS
+  - Mínimo de dois anos de experiência profissional em resolução de nomes, incluindo sistema de nome de domínios (DNS)
+  - Experiência com certificados, incluindo certificados de infraestrutura de chave pública (PKI)
+  - Experiência com Windows PowerShell
+  - Compreensão das redes de dados e padrões e componentes de telecomunicações
 outlineSection: |-
   ### Módulo 1&#58; Projeto e arquitetura do Skype for Business Server 2015
   Este módulo descreve os componentes de alto nível e os recursos do Skype for Business 2015. Ele também descreve como trabalhar com ferramentas administrativas do Skype for Business Online, os principais componentes do Skype for Business Online e a coexistência com servidores do Skype para Business 2015 locais.
@@ -143,14 +143,10 @@ outlineSection: |-
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Configurar usuários por meio do painel de controle e do
   shell de gerenciamento do Skype for Business Server.
-
   - Implementar clientes do Skype for Business.
-
   - Descrever o processo de login, registro e autenticação de clientes do Skype for
   Business.
-
   - Configurar políticas de banda e políticas de grupo.
-
   - Descrever como gerenciar o catálogo de endereços do Skype for Business.
 
 
@@ -172,11 +168,8 @@ outlineSection: |-
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever os recursos e modalidades de conferência do Skype for Business.
-
   - Integrar o Skype for Business Server 2015 ao Office Aplicativos Web Server.
-
   - Planejar o uso da largura de banda para conferências.
-
   - Definir as configurações e políticas de conferência.
 
 
@@ -202,13 +195,9 @@ outlineSection: |-
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Administrar o ciclo de vida de conferências.
-
   - Definir as configurações de políticas de conferências e reuniões.
-
   - Implementar a conferência discada.
-
   - Configurar uma infraestrutura para o Sistema de Salas do Lync (LRS).
-
   - Configurar grandes reuniões e transmissão de reuniões do Skype.
 
 
@@ -230,11 +219,8 @@ outlineSection: |-
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever os componentes do serviço de monitoramento no Skype for Business Server.
-
   - Implementar o monitoramento.
-
   - Criar uma política de arquivamento.
-
   - Implementar o arquivamento.
 
 
@@ -260,15 +246,10 @@ outlineSection: |-
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Identificar os componentes para acesso externo.
-
   - Configurar políticas de acesso externo e segurança.
-
   - Configurar redes e certificados de acesso externo.
-
   - Configurar proxy reverso.
-
   - Configurar o Skype for Business Server 2015 para clientes móveis.
-
   - Criar e configurar uma federação no Skype for Business Server.
 
 
@@ -293,9 +274,7 @@ outlineSection: |-
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Criar uma topologia do Skype for Business que inclua o chat persistente.
-
   - Implementar o chat persistente no Skype for Business.
-
   - Configurar e gerenciar o chat persistente no Skype for Business.
 
 
@@ -319,10 +298,8 @@ outlineSection: |-
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Criar e implementar uma solução de alta disponibilidade para servidores front-end em um
   ambiente do Skype for Business Server.
-
   - Criar e implementar uma solução de alta disponibilidade para servidores back-end em um
   ambiente do Skype for Business Server.
-
   - Criar e implementar uma solução de alta disponibilidade para repositórios de arquivos,
   servidores de borda, servidores de medição, farms de servidores do Office Online e servidores de proxy reverso
   em um ambiente do Skype for Business Server.
@@ -342,9 +319,7 @@ outlineSection: |-
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever as opções de recuperação de desastres adicionais no Skype for Business Server.
-
   - Implementar a recuperação de desastres no Skype for Business Server.
-
   - Descrever as opções de recuperação de desastres para chat persistente, repositório
   de gerenciamento central, o banco de dados do serviço de informações de local (LIS) e os dados do
   usuário.
@@ -360,12 +335,9 @@ outlineSection: |-
 
   #### Laboratório&#58; Criação de um ambiente híbrido para o Skype for Business
   - Projeto de um ambiente híbrido do Skype for Business
-
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever os recursos do Skype for Business Online.
-
   - Preparar um ambiente local para a implementação híbrida do Skype for Business.
-
   - Configurar um ambiente híbrido do Skype for Business.
 
 
@@ -380,12 +352,11 @@ outlineSection: |-
   #### Laboratório&#58; Como realizar uma atualização no local do Lync Server 2013 para Skype for Business Server 2015
   - Instalação das ferramentas administrativas do Skype for Business
   - Realizar a atualização no local do Lync Server 2013 para Skype for Business Server 2015
-
+  
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever os caminhos de migração e atualização suportados para o Skype
   for Business Server.
-
   - Realizar a atualização no local do Lync Server 2013 para Skype for
   for Business Server.
-
   - Descrever como gerenciar a experiência do usuário durante uma atualização.
+

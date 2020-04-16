@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Desenvolver soluções de computação de Plataforma Azure como Serviço
+title: Develop Azure Platform as a Service compute solutions
 metadata:
-  title: 'Curso AZ-203T02-A: Desenvolver soluções de computação de Plataforma Azure como Serviço'
-  description: 'Curso AZ-203T02-A: Desenvolver soluções de computação de Plataforma Azure como Serviço'
+  title: 'Course AZ-203T02-A: Develop Azure Platform as a Service compute solutions'
+  description: 'Course AZ-203T02-A: Develop Azure Platform as a Service compute solutions'
 uid: course.az-203t02
 courseNumber: 'AZ-203T02-A'
 hoursToComplete: 24
@@ -84,3 +84,4 @@ outlineSection: |-
   - Compreender os recursos e funcionalidades básicas do Azure Functions
   - Criar funções, associações e gatilhos
   - Conhecer os padrões comuns para funções duráveis e ser capaz de criá-los
+

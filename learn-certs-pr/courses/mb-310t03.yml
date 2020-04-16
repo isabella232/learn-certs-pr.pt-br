@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurar e usar orçamento, ativos fixos e funcionalidade adicional no Finance and Operations
+title: Configure and use budgeting, fixed assets, and additional functionality in Finance and Operations
 metadata:
-  title: 'Curso MB-310T03-A: Configurar e usar orçamento, ativos fixos e funcionalidade adicional no Finance and Operations'
-  description: 'Curso MB-310T03-A: Configurar e usar orçamento, ativos fixos e funcionalidade adicional no Finance and Operations'
+  title: 'Course MB-310T03-A: Configure and use budgeting, fixed assets, and additional functionality in Finance and Operations'
+  description: 'Course MB-310T03-A: Configure and use budgeting, fixed assets, and additional functionality in Finance and Operations'
 uid: course.mb-310t03
 courseNumber: 'MB-310T03-A'
 hoursToComplete: 24
@@ -35,7 +35,7 @@ outlineSection: |-
   - Gerenciar verificações pós-datadas
   - Laboratórios práticos
   - Resumo do módulo
-  
+
 
   Neste módulo, os alunos aprenderam como&#58;
   - Processar verificações pré-datadas
@@ -56,7 +56,7 @@ outlineSection: |-
   - Usar consultas e relatórios
   - Laboratórios práticos
   - Resumo do módulo
-  
+
 
   Neste módulo, os alunos aprenderam como&#58;
   - Configurar componentes de orçamento básicos
@@ -73,7 +73,7 @@ outlineSection: |-
   - Configurar componentes de planejamento de orçamento
   - Laboratório Prático
   - Resumo do módulo
-  
+
 
   Neste módulo, os alunos aprenderam como&#58;
   - Configurar componentes de planejamento de orçamento
@@ -82,7 +82,7 @@ outlineSection: |-
   - Criar um plano de orçamento usando o assistente de plano de orçamento
 
 
-  ### Módulo 4&#58; Configurar o gerenciamento de ativos fixos
+  ###  Módulo 4&#58; Configurar o gerenciamento de ativos fixos
   Este módulo começa com a explicação dos conceitos de ativos fixos e mostra aos alunos como configurar e usar o módulo de ativos fixos no Dynamics 365 for Finance and Operations.
 
   #### Lições
@@ -92,7 +92,7 @@ outlineSection: |-
   - Criar ativos imobilizados
   - Laboratórios práticos
   - Resumo do módulo
-  
+
 
   Neste módulo, os alunos aprenderam como&#58;
   - Configurar componentes de ativos imobilizados
@@ -109,7 +109,7 @@ outlineSection: |-
   - Executar tarefas de ativos fixos
   - Laboratórios práticos
   - Resumo do módulo
-  
+
 
   Neste módulo, os alunos aprenderam como&#58;
   - Realizar aquisição de ativos fixos
@@ -125,7 +125,7 @@ outlineSection: |-
   - Área de trabalho de controle de custos
   - Laboratório prático
   - Resumo do módulo
-  
+
 
   Neste módulo, os alunos aprenderam sobre o&#58;
   - Área de trabalho de controle de custos
@@ -144,14 +144,14 @@ outlineSection: |-
   - Final do processo no final do ano
   - Laboratórios práticos
   - Resumo do módulo
-  
+
 
   Neste módulo, os alunos aprenderam como&#58;
   - Configurar fechamento do período financeiro
   - Reconciliar bancos
   - Executar processos de fechamento periódico e de encerramento do ano
   - Preparar arquivamentos periódicos
-  - Configurar e testar o processo do fornecedor 1099s
+  - Configure and test Vendor 1099s process
   - Executar processos de reavaliação de moeda estrangeira
   - Executar processos de consolidação e eliminação financeira
   - Usar relatórios financeiros para criar demonstrações financeiras
@@ -167,7 +167,7 @@ outlineSection: |-
   - Designer de fórmula em relatórios eletrônicos
   - Laboratório Prático
   - Resumo do módulo
-  
+
 
   Neste módulo, os alunos aprenderam como&#58;
   - Configurar ER
@@ -185,10 +185,10 @@ outlineSection: |-
   - Entender o mecanismo tributário global
   - Compreender os recursos de estabelecimentos fiscais e documentos para localização brasileira
   - Letra de câmbio
-  - Faturas eletrônica
+  - Faturas eletrônicas
   - Laboratórios práticos
   - Resumo do módulo
-  
+
 
   Neste módulo, os alunos aprenderam sobre o&#58;
   - Localização e recursos regulatórios
@@ -197,7 +197,7 @@ outlineSection: |-
   - Como configurar e demonstrar os recursos de estabelecimentos fiscais e documentos fiscais para uma localização brasileira
   - Teste do processo de Letra de Câmbio
   - Configurar e usar notas promissórias
-  - Configurar e testar faturas eletrônica (CFDI) para uma localização mexicana
+  - Configurar e testar faturas eletrônicas (CFDI) para uma localização mexicana
 
 
   ### Módulo 10&#58; Configurar o gerenciamento financeiro para o setor público
@@ -209,7 +209,7 @@ outlineSection: |-
   - Configurar códigos de cobrança para faturas de texto livre
   - Laboratórios práticos
   - Resumo do módulo
-  
+
 
   Neste módulo, os alunos aprenderam&#58;
   - Estabelecer fundos para o setor público
@@ -226,6 +226,7 @@ outlineSection: |-
   - Avaliação final
   - Resumo do curso
   - Pesquisa pós-curso
-  
+
 
   Os alunos terão concluído o curso.
+

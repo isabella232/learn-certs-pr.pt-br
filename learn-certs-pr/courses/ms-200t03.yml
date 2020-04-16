@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gerenciando a alta disponibilidade de mensagens e a recuperação de desastres
+title: Managing Messaging High Availability and Disaster Recovery
 metadata:
-  title: 'Curso MS-200T03-A: Gerenciando a alta disponibilidade de mensagens e a recuperação de desastres'
-  description: 'Curso MS-200T03-A: Gerenciando a alta disponibilidade de mensagens e a recuperação de desastres'
+  title: 'Course MS-200T03-A: Managing Messaging High Availability and Disaster Recovery'
+  description: 'Course MS-200T03-A: Managing Messaging High Availability and Disaster Recovery'
 uid: course.ms-200t03
 courseNumber: 'MS-200T03-A'
 hoursToComplete: 48
@@ -31,7 +31,7 @@ exams:
 - uid: exam.ms-200
 summary: |-
   Neste curso, os alunos aprenderão sobre as soluções tradicionais e modernas para alta disponibilidade de mensagens e recuperação de desastres. Os sistemas de mensagens tornaram-se cada vez mais complexos, dada a abundância de novos recursos adicionados nos últimos anos, bem como a crescente importância dada à disponibilidade e à recuperação de desastres. As abordagens tradicionais para alta disponibilidade e recuperação de desastres ainda estão presentes e existem principalmente na camada de hardware, como sistemas RAID para armazenamento, replicação de dispositivo de bloco e soluções de arquivamento usando armazenamento externo. Embora o Microsoft Exchange suporte essas abordagens tradicionais, ele também oferece soluções que modernizam a alta disponibilidade e a recuperação de desastres, fornecendo soluções diretamente integradas aos sistemas de mensagens. Isso inclui soluções de replicação e retenção contínuas criadas diretamente nos bancos de dados de mensagens. Isso economiza muito tempo e esforço dos administradores, mantendo diferentes camadas de soluções estrangeiras em hardware e software.
-  
+
   Neste curso, os alunos serão apresentados a cada solução, aprenderão quando usar uma ou outra, como planejar uma implantação e como executar a implementação real.
 
   #### Perfil do público
@@ -76,6 +76,7 @@ outlineSection: |-
 
   ### Módulo 4&#58; Laboratório - Gerenciamento de pasta pública e recuperação de desastres
 
-  #### Laboratório&#58; Gerenciamento de pasta pública e recuperação de desastres
+  #### Laboratório &#58; Gerenciamento de pasta pública e recuperação de desastres
   - Exercício 1&#58; Solucionando problemas de fluxo de mensagens e conectividade
-  - Exercício 2&#58; Recuperação de desastres usando Descoberta eDiscovery e Suspensões no Local
+  - Exercício 2&#58; Recuperação de desastres usando Descoberta Eletrônica e Suspensões no Local
+

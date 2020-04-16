@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gerenciamento de Dispositivo Microsoft 365
+title: Microsoft 365 Device Management
 metadata:
-  title: 'Curso MS-101T03-A: Gerenciamento de Dispositivo Microsoft 365'
-  description: 'Curso MS-101T03-A: Gerenciamento de Dispositivo Microsoft 365'
+  title: 'Course MS-101T03-A: Microsoft 365 Device Management'
+  description: 'Course MS-101T03-A: Microsoft 365 Device Management'
 uid: course.ms-101t03
 courseNumber: 'MS-101T03-A'
 hoursToComplete: 24
@@ -71,14 +71,15 @@ outlineSection: |-
 
   ### Módulo 4&#58; Laboratório Prático
 
-  #### Laboratório&#58; Trabalhando com a Microsoft Store for Business
+  #### Laboratório &#58; Trabalhando com a Microsoft Store for Business
   - Exercício 1&#58; Aprovisionamento e gerenciamento da Microsoft Store for Business
   - Exercício 2&#58; Usando a Microsoft Store for Business
 
 
-  #### Laboratório&#58; Gerenciando dispositivos usando o Intune
+  #### Laboratório &#58; Gerenciando dispositivos usando o Intune
   - Exercício 1&#58; Obtenha o Intune e ative o gerenciamento de dispositivos
   - Exercício 2&#58; Configurar o Azure AD para Intune
   - Exercício 3&#58; Criar políticas do Intune
   - Exercício 4&#58; Registrar um dispositivo Windows 10
   - Exercício 5&#58; Gerenciar e monitorar um dispositivo no Intune
+

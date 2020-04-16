@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementar segurança do Azure
+title: Implement Azure security
 metadata:
-  title: 'Curso AZ-203T04-A: Implementa segurança do Azure'
-  description: 'Curso AZ-203T04-A: Implementa segurança do Azure'
+  title: 'Course AZ-203T04-A: Implement Azure security'
+  description: 'Course AZ-203T04-A: Implement Azure security'
 uid: course.az-203t04
 courseNumber: 'AZ-203T04-A'
 hoursToComplete: 24
@@ -75,3 +75,4 @@ outlineSection: |-
   - Compreender as opções de criptografia
   - Criptografar dados com criptografia de dados transparente
   - Gerenciar e utilizar chaves de criptografia usando o Azure Key Vault
+

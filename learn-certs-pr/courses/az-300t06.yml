@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Desenvolvendo para a nuvem
+title: Developing for the Cloud
 metadata:
-  title: 'Curso AZ-300T06-A: Desenvolvimento na nuvem'
-  description: 'Curso AZ-300T06-A: Desenvolvimento na nuvem'
+  title: 'Course AZ-300T06-A: Developing for the Cloud'
+  description: 'Course AZ-300T06-A: Developing for the Cloud'
 uid: course.az-300t06
 courseNumber: 'AZ-300T06-A'
 hoursToComplete: 24
@@ -60,7 +60,7 @@ outlineSection: |-
   - Configuração de um modelo de publicação de evento e assinatura
   - Configuração do serviço de retransmissão do Azure
   - Configuração de aplicativo ou serviço com o Microsoft Graph
-  
+
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Configurar uma arquitetura de integração baseada em mensagem
 
@@ -108,3 +108,4 @@ outlineSection: |-
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Compreender os serviços de armazenamento do Azure, como blobs e Cosmos DB
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Criar uma solução de dados do Azure
+title: Designing an Azure Data Solution
 metadata:
-  title: 'Curso DP-201T01-A: Criar uma solução de dados do Azure'
-  description: 'Curso DP-201T01-A: Criar uma solução de dados do Azure'
+  title: 'Course DP-201T01-A: Designing an Azure Data Solution'
+  description: 'Course DP-201T01-A: Designing an Azure Data Solution'
 uid: course.dp-201t01
 courseNumber: 'DP-201T01-A'
 hoursToComplete: 48
@@ -29,13 +29,13 @@ products:
 exams:
 - uid: exam.dp-201
 summary: |-
- Neste curso, os estudantes desenvolverão várias tecnologias de plataforma de dados em soluções alinhadas aos requisitos comerciais e técnicos. Isso inclui cenários de dados locais, na nuvem e híbridos que incorporam dados relacionais, NoSQL ou Data Warehouse. Eles também aprenderão a projetar arquiteturas de processo usando diversas tecnologias para dados de streaming e em lote. Os estudantes também saberão como implementar a segurança dos dados, incluindo acesso aos dados, políticas e padrões de dados. Eles também implementarão soluções de dados do Azure, que incluem otimização, disponibilidade e recuperação de desastre de soluções de big data, processamento em lote e streaming de dados.
+  Neste curso, os estudantes desenvolverão várias tecnologias de plataforma de dados em soluções alinhadas aos requisitos comerciais e técnicos. Isso inclui cenários de dados locais, na nuvem e híbridos que incorporam dados relacionais, NoSQL ou Data Warehouse. Eles também aprenderão a projetar arquiteturas de processo usando diversas tecnologias para dados de streaming e em lote. Os estudantes também saberão como implementar a segurança dos dados, incluindo acesso aos dados, políticas e padrões de dados. Eles também implementarão soluções de dados do Azure, que incluem otimização, disponibilidade e recuperação de desastre de soluções de big data, processamento em lote e streaming de dados.
 
   #### Perfil do público
   Este curso destina-se a profissionais de dados, arquitetos de dados e profissionais de Business Intelligence que desejam aprender sobre as tecnologias de plataforma de dados existentes no Microsoft Azure. Este curso também destina-se a indivíduos que desenvolvem aplicativos que fornecem conteúdo das tecnologias da plataforma de dados existentes no Microsoft Azure.
 prerequisitesSection: |-
   Além de sua experiência profissional, os estudantes que participam desse treinamento devem ter conhecimento técnico equivalente aos seguintes cursos&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https://docs.microsoft.com/pt-br/learn/modules/welcome-to-azure/)
   - DP-200&#58; Implementação de uma solução de dados do Azure
 outlineSection: |-
   ### Módulo 1&#58; Considerações sobre arquitetura da plataforma de dados
@@ -49,7 +49,7 @@ outlineSection: |-
   - Estudos de caso
 
 
-  #### Laboratório&#58; Estudo de caso
+  #### Laboratório &#58; Estudo de caso
   - Design com ênfase na segurança
   - Considerar o desempenho e escalabilidade
   - Design para disponibilidade e capacidade de recuperação
@@ -71,7 +71,7 @@ outlineSection: |-
   - Desenvolver um bot de conversação de nível empresarial no Azure
 
 
-  #### Laboratório&#58; Desenvolver um bot de conversação de nível empresarial no Azure
+  #### Laboratório &#58; Desenvolver um bot de conversação de nível empresarial no Azure
   - Criação de solução Enterprise BI no Azure
   - Automatização de solução Enterprise BI no Azure
   - Automatização de solução Enterprise BI no Azure
@@ -94,7 +94,7 @@ outlineSection: |-
   - Criar uma arquitetura de referência de IoT do Azure
 
 
-  #### Laboratório&#58; Arquiteturas de referência em tempo real do Azure
+  #### Laboratório &#58; Arquiteturas de referência em tempo real do Azure
   - Arquitetar um pipeline de processamento de fluxo com o Azure Stream Analytics
   - Projetar um pipeline de processamento de fluxo com os Databricks do Azure
   - Criar uma arquitetura de referência de IoT do Azure
@@ -117,7 +117,7 @@ outlineSection: |-
   - Segurança de aplicativos
 
 
-  #### Laboratório&#58; Consideração do design de segurança da plataforma de dados
+  #### Laboratório &#58; Consideração do design de segurança da plataforma de dados
   - Abordagem de segurança de defesa em profundidade
   - Proteção da identidade
 
@@ -142,7 +142,7 @@ outlineSection: |-
   - Criação de estratégias de backup e restauração
 
 
-  #### Laboratório&#58; Planejamento da resiliência e escalabilidade
+  #### Laboratório &#58; Planejamento da resiliência e escalabilidade
   - Ajuste da capacidade da carga de trabalho por meio de dimensionamento
   - Planejamento do armazenamento otimizado e desempenho do banco de dados
   - Criação de uma solução de alta disponibilidade
@@ -166,7 +166,7 @@ outlineSection: |-
   - Uso da automação para reduzir esforços e erros
 
 
-  #### Laboratório&#58; Planejamento da eficiência e operações
+  #### Laboratório &#58; Planejamento da eficiência e operações
   - Maximização da eficiência do seu ambiente em nuvem
   - Uso de monitoramento e a análise para obter insights operacionais
   - Uso da automação para reduzir esforços e erros
@@ -175,3 +175,4 @@ outlineSection: |-
   - Maximização da eficiência do seu ambiente em nuvem
   - Uso de monitoramento e a análise para obter insights operacionais
   - Uso da automação para reduzir esforços e erros
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurar e usar a fabricação enxuta no Dynamics 365 for Finance and Operations
+title: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Curso MB-320T02-A: Configurar e usar a fabricação enxuta no Dynamics 365 for Finance and Operations'
-  description: 'Curso MB-320T02-A: Configurar e usar a fabricação enxuta no Dynamics 365 for Finance and Operations'
+  title: 'Course MB-320T02-A: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T02-A: Configure and use lean manufacturing in Dynamics 365 for Finance and Operations'
 uid: course.mb-320t02
 courseNumber: 'MB-320T02-A'
 hoursToComplete: 24
@@ -23,7 +23,7 @@ summary: |-
   As organizações usam o Dynamics 365 for Finance and Operations para executar de maneira mais inteligente as operações conectadas, selecionando os processos de fabricação mais adequados, melhorando os procedimentos operacionais, simplificando o gerenciamento de recursos, acelerando a entrega do produto e aumentando a qualidade e a satisfação do cliente. 
 
   Este curso discute como configurar e usar a manufatura enxuta no Dynamics 365 for Finance and Operations.
-
+  
   #### Perfil do público
   Um Consultor Funcional do Dynamics 365 for Finance and Operations é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
 prerequisitesSection: |-
@@ -85,8 +85,7 @@ outlineSection: |-
   ### Módulo 4&#58; Criar e processar regras Kanban de eventos
   Neste módulo, discutimos os Kanbans de eventos e as diferentes maneiras de acioná-los.
   #### Lições
-  - Introdução
-  Configurar regras Kanban de eventos
+  - Introdução Configurar regras Kanban de eventos
   - Configurar vendas, Kanban, reabastecimento de estoque e eventos de linha de BOM
   - Laboratórios práticos
   - Resumo do módulo
@@ -149,3 +148,4 @@ outlineSection: |-
 
 
   Os alunos terão concluído o curso.
+

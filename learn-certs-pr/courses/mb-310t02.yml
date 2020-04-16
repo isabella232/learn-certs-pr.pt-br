@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurar e usar contas a pagar, receber e cobranças no Finance and Operations
+title: Configure and use accounts payable, receivable, and collections in Finance and Operations
 metadata:
-  title: 'Curso MB-310T02-A: Configurar e usar contas a pagar, receber e cobranças no Finance and Operations'
-  description: 'Curso MB-310T02-A: Configurar e usar contas a pagar, receber e cobranças no Finance and Operations'
+  title: 'Course MB-310T02-A: Configure and use accounts payable, receivable, and collections in Finance and Operations'
+  description: 'Course MB-310T02-A: Configure and use accounts payable, receivable, and collections in Finance and Operations'
 uid: course.mb-310t02
 courseNumber: 'MB-310T02-A'
 hoursToComplete: 24
@@ -21,7 +21,7 @@ exams:
 - uid: exam.mb-310
 summary: |-
   As organizações usam o Dynamics 365 for Finance and Operations para elevar seu desempenho financeiro, aumentando a lucratividade, otimizando a produtividade da força de trabalho, reduzindo as despesas operacionais, adaptando-se rapidamente às alterações de requisitos e simplificando o gerenciamento de ativos.
-  
+
   Este curso discute como configurar e usar contas a pagar, receber e cobranças no Dynamics 365 for Finance and Operations.
 
   #### Perfil do público
@@ -153,3 +153,4 @@ outlineSection: |-
   - Pesquisa pós-curso
 
   Os alunos terão concluído o curso.
+
