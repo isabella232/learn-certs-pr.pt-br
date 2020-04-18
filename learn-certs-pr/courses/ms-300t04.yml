@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Habilitar cargas de trabalho do Office 365 para Colaboração
+title: Enabling Office 365 Workloads for Collaboration
 metadata:
-  title: 'Curso MS-300T04-A: Habilitar cargas de trabalho do Office 365 para Colaboração'
-  description: 'Curso MS-300T04-A: Habilitar cargas de trabalho do Office 365 para Colaboração'
+  title: 'Course MS-300T04-A: Enabling Office 365 Workloads for Collaboration'
+  description: 'Course MS-300T04-A: Enabling Office 365 Workloads for Collaboration'
 uid: course.ms-300t04
 courseNumber: 'MS-300T04-A'
 hoursToComplete: 48
@@ -32,19 +32,19 @@ exams:
 - uid: exam.ms-300
 summary: |-
   Transformar o trabalho em equipe e a colaboração dentro e fora da organização se torna mais crítico em um espaço de trabalho moderno. Neste curso, você aprenderá como aproveitar as cargas de trabalho de colaboração do Office 365 para melhorar a produtividade de suas organizações, como Yammer, Stream, PowerApps e Flow. Avaliaremos os conjuntos de ferramentas colaborativos disponíveis e analisaremos os requisitos de negócios. Você também aprenderá como planejar e desenvolver a governança para a transformação digital, incluindo a adoção pelo usuário e o gerenciamento de mudanças. 
-  
-  Este curso foi desenvolvido para profissionais de TI que implantam e gerenciam a infraestrutura de trabalho em equipe em sua organização. 
-  
-  Este é o último de uma série de quatro cursos para o Teamwork Administrator. Esses cursos ajudam a se preparar para o exame MS-300&#58; Implantando o Microsoft 365 Teamwork.
 
+  Este curso foi desenvolvido para profissionais de TI que implantam e gerenciam a infraestrutura de trabalho em equipe em sua organização. 
+
+  Este é o último de uma série de quatro cursos para o Teamwork Administrator. Esses cursos ajudam a se preparar para o exame MS-300&#58; Implantando o Microsoft 365 Teamwork.
+  
   #### Perfil do público
   Este curso é para a função de Teamwork Administrator do Microsoft 365. A função é responsável por configurar, implantar e gerenciar cargas de trabalho do Office 365 e Azure que se concentram na colaboração e adoção eficientes e eficazes. Eles gerenciam aplicativos, serviços e infraestrutura de suporte para atender aos requisitos de negócios. O administrador está ciente e pode diferenciar entre produtos e serviços, mas não pode gerenciar diretamente cada produto ou serviço.
 
   O administrador do Teamwork deve ser capaz de implantar, gerenciar, migrar e proteger o SharePoint (online, no local e híbrido), o OneDrive e Teams. 
-  
+
   O Teamwork Administrator tem um entendimento fundamental dos pontos de integração com os seguintes aplicativos e serviços&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planejador e Projeto. O administrador entende como integrar aplicativos e serviços de terceiros, incluindo aplicativos da linha de negócios.
 prerequisitesSection: |-
- Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
+  Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
   - Experiência com o Windows PowerShell
   - Compreensão básica do Active Directory e do Azure AD.
   - Compreensão básica de gerenciamento de dispositivos móveis e sistemas operacionais alternativos (Android e macOS)
@@ -91,3 +91,4 @@ outlineSection: |-
   - Recursos do ManageStream
   - Recursos do ManageYammer
   - Recursos de ManageFlow e PowerApps
+

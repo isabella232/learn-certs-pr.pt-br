@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Microsoft Power Platform Fundamentals
+metadata:
+  title: 'Course PL-900T00-A: Microsoft Power Platform Fundamentals'
+  description: 'Course PL-900T00-A: Microsoft Power Platform Fundamentals'
+uid: course.pl-900t00
+courseNumber: 'PL-900T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-900
+summary: ""
+prerequisitesSection: |-
+  Nenhum pré-requisitos para este curso
+outlineSection: |-
+  ### Módulo 1&#58; Introdução à Power Platform
+  Aprenda sobre os componentes do Power Platform, maneiras de conectar dados e como as organizações pode alavancar esta tecnologia para
+  #### Lições
+  - Visão Geral do Power Apps
+  - Resumo do módulo
+  
+  Aprenda os componentes e características do Power Platform
+  - Identifique quando usar cada componente da aplicação do Power Platform para criar soluções de negócio
+  - Aprenda o valor de usar a Power Platform para criar soluções de negócio
+
+  ### Módulo 2&#58; Inicie com as aplicações Power
+  Aprenda sobre o valor e as capacidades do PowerApps, e maneiras em que outras organizações alavancaram esta tecnologia para desenvolver simples aplicações para seus negócios.
+  #### Lições
+  - Visão Geral do Power Apps
+  - Como desenvolver uma solução de aplicação
+
+
+  #### Laboratório &#58; Como desenvolver uma aplicação de tela básica 1
+  - Crie aplicação de tela de pessoal
+  - Complete a aplicação
+  
+  #### Laboratório &#58; Como desenvolver uma aplicação de tela básica 2
+  - Criação de aplicação de tela de segurança
+
+  Aprenda sobre o que é Power Apps e seu valor de negócio
+  - Aprenda como outras organizações digitalizem seus processos usando Power Appps
+  - Consulte a Power Apps em ação e aprenda opções para fazer sua primeira aplicação
+
+
+  ### Módulo 3&#58; Introdução ao serviços de Dados Comuns
+  O Serviço de Dados Comuns lhe permite aprofunda em soluções de dados potentes e escaláveis na nuvem. Aprenda o que torna o Serviço de Dados Comum funcionar e como pode funcionar com a Power Platform para criar soluções de negócio únicas e eficientes.
+  #### Lições
+  - Visão geral de serviço de dados comuns
+  - Resumo do módulo
+
+
+  #### Laboratório &#58; Modelagem de dados
+  - Criação de ambiente e solução
+  - Criação de entidades e relacionamentos
+  - Importação de dados
+  
+  Explique quais ambientes, entidades, campos e relacionamentos estão em serviço de dados comuns
+  - Descreva a diferença entre Serviço de Dados Comuns e Modelo de Dados Comuns
+  - Explique casos de uso e limitações de regras de negócio e fluxos de processo
+
+
+  ### Módulo 4&#58; Inicie com Power Automate
+  Aprenda como os usuários podem alavancar o Power Automate para aprimorar eficiência e produtividade de negócio.
+  #### Lições
+  - Visão geral do Power Platform
+  - Como desenvolver uma solução automatizada
+
+
+  #### Laboratório &#58; Desenvolva um fluxo simples
+  - Criação de Fluxo de notificação de visita
+  - Criação de Fluxo de varrição de segurança
+
+  Aprenda o valor de negócio e características do Power Automate
+  - Veja como o Power Automate funciona e olhe a partir da perspectiva do usuário
+  - Desenvolva um fluxo simples
+
+
+  ### Módulo 5&#58; Inicie com Power BI
+  Aprenda como as organizações podem usar o Power BI para facilmente, limpar, exibir e entender dados para assegurar decisões mais informadas.
+  #### Lições
+  - Visão geral do Power BI
+  - Como desenvolver um Painel de Controle Simples
+
+
+  #### Laboratório &#58; Desenvolver um Relatório de BI Power
+  Descrição do valor de negócio e características do Power BI
+  - Ver como o Power BI funciona e olhe a partir da perspectiva do usuário
+  - Apenda como desenvolver um painel de Power BI simples

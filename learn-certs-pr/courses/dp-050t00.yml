@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Migração de cargas de trabalho SQL para o Azure
+title: Migrate SQL workloads to Azure
 metadata:
-  title: 'Curso DP-050T00-A: Migração de cargas de trabalho SQL para o Azure'
-  description: 'Curso DP-050T00-A: Migração de cargas de trabalho SQL para o Azure'
+  title: 'Course DP-050T00-A: Migrate SQL workloads to Azure'
+  description: 'Course DP-050T00-A: Migrate SQL workloads to Azure'
 uid: course.dp-050t00
 courseNumber: 'DP-050T00-A'
 hoursToComplete: 48
@@ -31,7 +31,7 @@ summary: |-
   Este curso também se destina a pessoas que gerenciam plataformas de dados ou desenvolvem aplicativos que entregam conteúdo das tecnologias de plataforma de dados existentes.
 prerequisitesSection: |-
   Além de sua experiência profissional no SQL Server, os alunos que participam desse treinamento devem ter conhecimento técnico equivalente aos seguintes cursos&#58;
-  - Azure fundamentals
+  - [Azure fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
 outlineSection: |-
   ### Módulo 1&#58; Introdução à modernização da plataforma de dados
   Neste módulo, os estudantes aprenderão sobre o objetivo da modernização da plataforma de dados e descreverão os benefícios que a modernização da plataforma de dados pode trazer para uma organização. Os estudantes conhecerão os vários estágios dos projetos de migração de uma plataforma de dados para entender o que está envolvido em cada estágio para maximizar as chances de um projeto de modernização da plataforma de dados bem-sucedido. Por fim, os estudantes irão explorar os vários caminhos de migração de dados para entender como cada abordagem é diferente e por que você deve escolher uma abordagem de migração em detrimento de outra.
@@ -41,7 +41,7 @@ outlineSection: |-
   - Caminhos de migração de dados
 
 
-  #### Laboratório&#58; Introdução à modernização da plataforma de dados
+  #### Laboratório &#58; Introdução à modernização da plataforma de dados
   - Compreensão da modernização da plataforma de dados
   - Compreensão dos estágios da migração
   - Caminhos de migração de dados
@@ -65,7 +65,7 @@ outlineSection: |-
   - Migração de cargas de trabalho não pertencentes ao SQL Server para o Azure usando o Assistente de Migração de SQL
 
 
-  #### Laboratório&#58; Escolha das ferramentas adequadas para a migração de dados
+  #### Lab &#58; Escolha das ferramentas adequadas para a migração de dados
   - Identifique os candidatos à migração usando o Assistente de Migração de Dados
   - Avalie uma carga de trabalho de dados usando o Assistente para Experimentos de Banco de Dados
 
@@ -85,7 +85,7 @@ outlineSection: |-
   - Implementação de cenários de alta disponibilidade e recuperação de desastres
 
 
-  #### Laboratório&#58; Migração de cargas de trabalho SQL para máquinas virtuais do Azure
+  #### Laboratório &#58; Migração de cargas de trabalho SQL para máquinas virtuais do Azure
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Considerações sobre as migrações do SQL Server para a máquina virtual do Azure
   - Cargas de trabalho SQL para opções de migração da máquina virtual do Azure
@@ -104,7 +104,7 @@ outlineSection: |-
   - Carregar e transferir dados ao banco de dados Azure SQL
 
 
-  #### Laboratório&#58; Migração de cargas de trabalho SQL para bancos de dados SQL do Azure
+  #### Laboratório &#58; Migração de cargas de trabalho SQL para bancos de dados SQL do Azure
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Escolha da opção de instância correta do SQL Server no Azure
   - Migração do SQL Server para o banco de dados Azure SQL offline
@@ -123,9 +123,10 @@ outlineSection: |-
   - Configuração e otimização de aplicativos
 
 
-  #### Laboratório&#58; Migração de cargas de trabalho SQL para a instância gerenciada do banco de dados SQL do Azure
+  #### Laboratório &#58; Migração de cargas de trabalho SQL para a instância gerenciada do banco de dados SQL do Azure
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Avaliação de cenários de migração para a instância gerenciada do banco de dados SQL
   - Migração para a instância gerenciada do banco de dados SQL
   - Carregamento e transferência de dados para a instância gerenciada do banco de dados SQL
   - Configuração e otimização de aplicativos
+

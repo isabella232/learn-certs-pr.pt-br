@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gerenciamento de desktops e dispositivos modernos
+title: Managing Modern Desktops and Devices
 metadata:
-  title: 'Curso MD-101T02-A: Gerenciamento de desktops e dispositivos modernos'
-  description: 'Curso MD-101T02-A: Gerenciamento de desktops e dispositivos modernos'
+  title: 'Course MD-101T02-A: Managing Modern Desktops and Devices'
+  description: 'Course MD-101T02-A: Managing Modern Desktops and Devices'
 uid: course.md-101t02
 courseNumber: 'MD-101T02-A'
 hoursToComplete: 48
@@ -42,6 +42,7 @@ summary: |-
   #### Perfil do público
   O Modern Desktop Administrator (MDA) implanta, configura, protege, gerencia e monitora dispositivos e aplicativos clientes em um ambiente corporativo. As responsabilidades incluem gerenciar identidade, acesso, políticas, atualizações e aplicativos. O MDA colabora com o M365 Enterprise Administrator para projetar e implementar uma estratégia de dispositivo que atenda às necessidades de negócios de uma organização moderna. O MDA deve estar familiarizado com as cargas de trabalho do M365 e deve ter fortes habilidades e experiência em implantar, configurar e manter dispositivos Windows 10 e não Windows. A função MDA se concentra nos serviços em nuvem, e não nas tecnologias de gerenciamento local.
 prerequisitesSection: |-
+  O
   O administrador moderno da área de trabalho deve estar familiarizado com as cargas de trabalho do M365 e ter
   fortes habilidades e experiência em implantar, configurar e manter o Windows
   10 e dispositivos não Windows. A função MDA se concentra nos serviços em nuvem,
@@ -54,7 +55,7 @@ outlineSection: |-
   - Gerenciar o registro e o inventário de dispositivos do Intune
 
 
-  #### Laboratório&#58; Laboratório Prático - Registro e Gerenciamento de Dispositivos
+  #### Laboratório &#58; Laboratório Prático - Registro e Gerenciamento de Dispositivos
   - Instalando a ferramenta de análise de migração do MDM (MMAT)
   - Obter licenças do Intune e do Azure AD Premium e ative o gerenciamento de dispositivos
   - Registrando dispositivos no Intune
@@ -78,7 +79,7 @@ outlineSection: |-
   - Dispositivos de monitoramento
 
 
-  #### Laboratório&#58; Laboratório prático - Gerenciamento de perfis
+  #### Laboratório &#58; Laboratório prático - Gerenciamento de perfis
   - Configurando perfis de usuário móvel e redirecionamento de pasta
   - Criar e implantar perfil de dispositivo com base no cenário
   - Alterar a política implantada e monitorar a atividade do usuário e do dispositivo
@@ -100,7 +101,7 @@ outlineSection: |-
   - Administrando aplicativos
 
 
-  #### Laboratório&#58; Laboratório Prático - Gerenciando Aplicativos
+  #### Laboratório &#58; Laboratório Prático - Gerenciando Aplicativos
   - Implantar aplicativos usando o Intune
   - Configurar e implantar o Office 365 ProPlus a partir do Intune
   - Configurar políticas do MAM no Intune
@@ -120,9 +121,10 @@ outlineSection: |-
   - Exame Final
 
 
-  #### Laboratório&#58; Graded Lab
+  #### Laboratório &#58; Graded Lab
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever os tipos de perfis de dispositivo
   - Criar e atribuir perfis de dispositivo
   - Configurar perfil de usuário e redirecionamento de pasta
   - Monitorar e relatar dispositivos usando o Intune e o Windows Analytics
+

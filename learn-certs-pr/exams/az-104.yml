@@ -1,0 +1,68 @@
+### YamlMime:Examination
+title: Microsoft Azure Administrator (beta)
+metadata:
+  title: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
+  description: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
+uid: exam.az-104
+displayName: AZ-104
+summary: |-
+  O Azure Administrator implementa, gerencia e monitora redes de identidade, governança, armazenamento, computação e virtual em um ambiente em nuvem. O Azure Administrator provisionará, dimensionará, monitorará e ajustará os recursos conforme apropriado.
+  
+  Os candidatos devem ter pelo menos seis meses de experiência prática na administração do Azure. Os candidatos devem ter um forte entendimento dos principais serviços do Azure, cargas de trabalho, segurança e governança do Azure. Os candidatos a esse exame devem ter experiência no uso do PowerShell, da Interface da Linha de Comandos, do Portal do Azure e dos modelos ARM.
+  
+  <div style='color&#58; red; font-weight&#58; bold;'><br/>Observação&#58; Este exame estará disponível por volta de terça-feira, 31 de março de 2020.</div>
+subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: gerenciar identidades e governança do Azure; implementar e gerenciar armazenamento; implantar e gerenciar recursos de computação do Azure; configurar e gerenciar redes virtuais; e monitorar e fazer backup de recursos do Azure.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Identidades e governança do Manage Azure (15-20%) 
+- Implementar e gerenciar armazenamento (10-15%)
+- Implantar e gerenciar recursos de computação do Azure (25-30%) 
+- Configurar e gerenciar redes virtuais (30-35%) 
+- Monitorar e fazer backup de recursos do Azure (10-15%)
+roles:
+- administrator
+products:
+- azure
+paths:
+- uid: learn.administer-infrastructure-resources-in-azure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-migration-bcdr
+- uid: learn.manage-resources-in-azure
+- uid: learn.security.manage-identity-and-access
+- uid: learn.security.manage-security-operations
+- uid: learn.security.implement-resource-mgmt-security
+- uid: learn.administer-containers-in-azure
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre como solicitar um alojamento para o seu exame..
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
+  href: ../certification-exam-policies.md

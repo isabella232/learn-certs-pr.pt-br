@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Instalando o Windows 10
+title: Installing Windows 10
 metadata:
-  title: 'Curso MD-100T01-A: Instalando o Windows 10'
-  description: 'Curso MD-100T01-A: Instalando o Windows 10'
+  title: 'Course MD-100T01-A: Installing Windows 10'
+  description: 'Course MD-100T01-A: Installing Windows 10'
 uid: course.md-100t01
 courseNumber: 'MD-100T01-A'
 hoursToComplete: 24
@@ -25,14 +25,19 @@ products:
 exams:
 - uid: exam.md-100
 summary: |-
-  In neste curso, os alunos aprenderão como dar suporte às tarefas de instalação
+  In
+  neste curso, os alunos aprenderão como dar suporte às tarefas de instalação
   associado ao Windows 10. Os alunos desenvolverão habilidades que incluem aprendizado
   como instalar e personalizar os sistemas operacionais Windows 10. Os alunos também
   aprendem sobre o novo modelo de serviço e métodos do Windows para manter o Windows atualizado
   até a presente data. O curso será concluído com tarefas comuns de pós-instalação.
 
   #### Perfil do público
-  Candidatos para este exame, profissionais de TI que realizam instalação, configuração, gerenciamento local geral e manutenção dos principais serviços do Windows 10. Os candidatos também podem estar familiarizados com os cenários empresariais e com serviços integrados na nuvem serviços.
+  Candidatos
+  para este exame, profissionais de TI que realizam instalação, configuração,
+  gerenciamento local geral e manutenção dos principais serviços do Windows 10.
+  Os candidatos também podem estar familiarizados com os cenários empresariais e com serviços integrados na nuvem.
+  serviços.
 prerequisitesSection: |-
   Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
   - Entendimento básico de redes de computadores e conceitos de hardware.
@@ -49,7 +54,7 @@ outlineSection: |-
   - Atualização para o Windows 10
 
 
-  #### Laboratório&#58; Instalando o Windows 10
+  #### Laboratório &#58; Instalando o Windows 10
   - Atualizando o Windows 7 para o Windows 10
   - Migrar configurações do usuário
 
@@ -68,7 +73,7 @@ outlineSection: |-
   - Aplicar aplicativos e atualizações do Windows
 
 
-  #### Laboratório&#58; Atualizando o Windows 10
+  #### Laboratório &#58; Atualizando o Windows 10
   - Configurar atualizações para um único dispositivo
   - Configurar atualizações com GPOs
 
@@ -90,7 +95,7 @@ outlineSection: |-
   - Descrever usando o Windows PowerShell
 
 
-  #### Laboratório&#58; Configurando o Windows 10
+  #### Laboratório &#58; Configurando o Windows 10
   - Usar o aplicativo de configurações
   - Usar o painel de controle usando o painel de controle
   - Usar o Windows PowerShell
@@ -108,4 +113,5 @@ outlineSection: |-
   - Exame Final
 
 
-  #### Laboratório&#58; Graded Lab
+  #### Laboratório &#58; Graded Lab
+

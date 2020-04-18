@@ -1,29 +1,32 @@
 ### YamlMime:Examination
-title: Microsoft Power Platform Fundamentals (beta)
+title: 'Microsoft Power Platform Fundamentals'
 metadata:
-  title: 'Exame PL-900: Microsoft Power Platform Fundamentals (beta)'
-  description: 'Exame PL-900: Microsoft Power Platform Fundamentals (beta)'
+  title: 'Exam PL-900: Microsoft Power Platform Fundamentals'
+  description: 'Exam PL-900: Microsoft Power Platform Fundamentals'
 uid: exam.pl-900
 displayName: PL-900
-summary: >-
+summary: |-
   Os candidatos a este exame são usuários que aspiram melhorar a produtividade automatizando processos de negócios, analisando dados para produzir insights de negócios e agindo de forma mais eficaz com a criação de experiências de aplicativo simples.
-
-
-  Este exame abrange o seguinte: Descrição dos componentes da  Power Platform; Power Apps, Power BI, Microsoft Flow, Common Data Service (CDS), conectores e construtor de AI; descrição de cenários entre nuvens com representação no Microsoft 365, Dynamics 365, Microsoft Azure e serviços de terceiros; identificação de benefícios e capacidades da Plataforma Power; identifique a funcionalidade básica e o valor comercial dos componentes da Power Platform; implementação de soluções simples com Microsoft Flow, Power BI, e AI Builder; e criação de um aplicativo básico em um ambiente sem código.
-subTitle: Este exame avalia sua capacidade de entender o valor comercial da Plataforma Power, entender os componentes principais da Plataforma Power e demonstrar o valor comercial da Power BI do Microsoft Flow.
+  
+  Este exame abrange o seguinte&#58; Descrição dos componentes da Power Platform&#58; Power Apps, Power BI, Microsoft Automate, Common Data Service (CDS), conectores e construtor de AI; descrição de cenários entre nuvens com representação no Microsoft 365, Dynamics 365, Microsoft Azure e serviços de terceiros; identificação de benefícios e capacidades da Plataforma Power; identifique a funcionalidade básica e o valor comercial dos componentes da Power Platform; implementação de soluções simples com Microsoft Automate, Power BI, e AI Builder; e criação de um aplicativo básico em um ambiente sem código.
+subTitle: Este exame avalia sua capacidade de entender o valor comercial da Plataforma Power, entender os componentes principais da Plataforma Power e demonstrar o valor comercial da Power BI do Microsoft Automate.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=PL-900&examname=Exame%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fpl-900
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
 - Entender o valor comercial da Power Platform (20-25%)
-- Compreender os componentes principais da Power Platform (25-30%)
+- Compreender os componentes principais da Power Platform (20-25%)
 - Demonstrar o valor comercial do Power BI (15-20%)
-- Demonstrar o valor comercial dos Power Apps (15-20%)
-- Demonstrar o valor comercial do Microsoft Flow (15-20%)
+- Demonstrar o valor comercial dos Power Apps (20-25%)
+- Demonstração de valor de negócio do Power Automate (15-20%)
 roles:
 - developer
 products:
@@ -36,21 +39,27 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-fundamentals
 resources:
+- title: Caminhos de aprendizado de certificação
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Power Platform Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetir exame
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Ajuda para exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Saiba mais sobre como solicitar um alojamento para o seu exame..
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de exames e perguntas frequentes
-  description: Consulte as políticas do exame e as perguntas frequentes.
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md

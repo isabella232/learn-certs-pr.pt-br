@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementação de processos de desenvolvimento de DevOps
+title: Implementing DevOps Development Processes
 metadata:
-  title: 'Curso AZ-400T01-A: Implementação de processos de desenvolvimento de DevOps'
-  description: 'Curso AZ-400T01-A: Implementação de processos de desenvolvimento de DevOps'
+  title: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
+  description: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
 uid: course.az-400t01
 courseNumber: 'AZ-400T01-A'
 hoursToComplete: 24
@@ -74,7 +74,7 @@ outlineSection: |-
   - Pools de agentes
   - Pipelines e simultaneidade
   - Projetos Azure DevOps e Open Source
-  - Pipelines do Azure YAML x Visual Designer
+  - Azure Pipelines YAML vs Visual Designer
   - Configuração de agentes privados
   - Integração do Jenkins ao Azure Pipelines
   - Controle de origem externa de integração com Azure Pipelines
@@ -107,3 +107,4 @@ outlineSection: |-
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Implementar uma estratégia de DevOps móvel
+

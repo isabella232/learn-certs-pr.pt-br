@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurar e usar o gerenciamento da cadeia de suprimentos no Dynamics 365 for Finance and Operations
+title: Configure and use supply chain management in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Curso MB-330T01-A: Configurar e usar o gerenciamento da cadeia de suprimentos no Dynamics 365 for Finance and Operations '
-  description: 'Curso MB-330T01-A: Configurar e usar o gerenciamento da cadeia de suprimentos no Dynamics 365 for Finance and Operations '
+  title: 'Course MB-330T01-A: Configure and use supply chain management in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T01-A: Configure and use supply chain management in Dynamics 365 for Finance and Operations'
 uid: course.mb-330t01
 courseNumber: 'MB-330T01-A'
 hoursToComplete: 48
@@ -127,7 +127,7 @@ outlineSection: |-
   Este tópico explica como configurar e executar o processo de compra e compra no Finance and Operations.
   #### Lições
   - Introdução
-  - Cenário de negócios de compras e fornecimento
+  - Procurement and sourcing business scenario
   - Criar fluxo de trabalho de requisições de compra
   - Criar requisições de compra
   - Criar pedidos de cotação
@@ -248,3 +248,4 @@ outlineSection: |-
 
 
   Os alunos terão concluído o curso.
+

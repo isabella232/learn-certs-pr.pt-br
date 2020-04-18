@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Tecnologias de segurança do Microsoft Azure
+title: Microsoft Azure Security Technologies
 metadata:
-  title: 'Curso AZ-500T00-A: Tecnologias de segurança do Microsoft Azure'
-  description: 'Curso AZ-500T00-A: Tecnologias de segurança do Microsoft Azure'
+  title: 'Course AZ-500T00-A: Microsoft Azure Security Technologies'
+  description: 'Course AZ-500T00-A: Microsoft Azure Security Technologies'
 uid: course.az-500t00
 courseNumber: 'AZ-500T00-A'
 hoursToComplete: 96
@@ -38,8 +38,8 @@ summary: |-
 
   #### Perfil do público
   Os estudantes devem ter pelo menos um ano de experiência prática na proteção de cargas de trabalho do Azure e experiência com controles de segurança para cargas de trabalho no Azure.
-prerequisitesSection: |-  
- [Microsoft Azure Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-administrator)
+prerequisitesSection: |-
+  [Microsoft Azure Administrator Associate](https://docs.microsoft.com/learn/certifications/azure-administrator)
 outlineSection: |-
   ### Módulo 1&#58; Identidade e acesso
   #### Lições
@@ -76,3 +76,4 @@ outlineSection: |-
   - Implementação da segurança para ciclo de vida de aplicativos
   - Proteção de aplicativos
   - Configuração e gerenciamento do Azure Key Vault
+

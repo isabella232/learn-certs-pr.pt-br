@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Ordem de serviço e execução de entrega para o Dynamics 365 for Field Service
+title: Work order and delivery execution for Dynamics 365 for Field Service
 metadata:
-  title: 'Curso MB-240T02-A: Ordem de serviço e execução de entrega para o Dynamics 365 for Field Service'
-  description: 'Curso MB-240T02-A: Ordem de serviço e execução de entrega para o Dynamics 365 for Field Service'
+  title: 'Course MB-240T02-A: Work order and delivery execution for Dynamics 365 for Field Service'
+  description: 'Course MB-240T02-A: Work order and delivery execution for Dynamics 365 for Field Service'
 uid: course.mb-240t02
 courseNumber: 'MB-240T02-A'
 hoursToComplete: 24
@@ -31,7 +31,6 @@ summary: |-
   Este curso irá equipar os alunos com as habilidades necessárias para executar, identificar e configurar os principais componentes usados ​​para fornecer serviço de campo e soluções móveis. Os principais tópicos incluem a identificação de como é o ciclo de vida de uma ordem de serviço típica e as considerações organizacionais que orientarão as decisões de configuração. Além disso, este curso se concentrará nos componentes que são comumente usados ​​em relação às ordens de serviço, incluindo contratos, componentes de inventário, estratégias de compras e mobilidade.     
 
   Este curso ajuda os alunos a entender melhor o panorama geral e as metas finais focadas na entrega e execução de ordens de serviço que auxiliam no projeto de soluções mais eficientes e alinhadas com as metas do cliente e da organização.
-
 prerequisitesSection: |-
   Compreensão básica dos recursos, funcionalidades e navegação do Dynamics 365.
 outlineSection: |-
@@ -62,3 +61,4 @@ outlineSection: |-
   - Instalar e implantar projetos móveis de serviço de campo
   - Gerenciar projetos móveis
   - Implantar o cliente móvel
+

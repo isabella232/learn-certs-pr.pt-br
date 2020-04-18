@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementação de gerenciamento de dependência
+title: Implementing Dependency Management
 metadata:
-  title: 'Curso AZ-400T04-A: Implementação de gerenciamento de dependência'
-  description: 'Curso AZ-400T04-A: Implementação de gerenciamento de dependência'
+  title: 'Course AZ-400T04-A: Implementing Dependency Management'
+  description: 'Course AZ-400T04-A: Implementing Dependency Management'
 uid: course.az-400t04
 courseNumber: 'AZ-400T04-A'
 hoursToComplete: 24
@@ -48,7 +48,7 @@ outlineSection: |-
   - Implementação de uma estratégia de versão
 
 
-  #### Laboratório&#58; Atualização de pacotes
+  #### Laboratório &#58; Atualização de pacotes
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Recomendar ferramentas e práticas de gerenciamento de artefatos
   - Resumir pacotes comuns para permitir o compartilhamento e a reutilização
@@ -69,3 +69,4 @@ outlineSection: |-
   - Inspecionar os pacotes de software de código aberto para garantir a conformidade com a segurança e a licença, alinhando-se aos padrões corporativos
   - Configurar o pipeline de desenvolvimento para acessar a segurança do pacote e a classificação da licença
   - Configurar acesso seguro a feeds de pacotes
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Manutenção do Windows 10
+title: Maintaining Windows 10
 metadata:
-  title: 'Curso MD-100T04-A: Manutenção do Windows 10'
-  description: 'Curso MD-100T04-A: Manutenção do Windows 10'
+  title: 'Course MD-100T04-A: Maintaining Windows 10'
+  description: 'Course MD-100T04-A: Maintaining Windows 10'
 uid: course.md-100t04
 courseNumber: 'MD-100T04-A'
 hoursToComplete: 24
@@ -38,20 +38,20 @@ prerequisitesSection: |-
   - Experiência com o uso do sistema operacional Windows.
 outlineSection: |-
   ### Módulo 1&#58; Suporte ao ambiente Windows 10
-  Este módulo cobrirá a arquitetura do Windows 10 e ambientes comuns. Os alunos serão apresentados às várias ferramentas usadas na manutenção do Windows. Este módulo também discutirá metodologias para solucionar problemas de maneira eficaz e como gerenciar e otimizar proativamente o Windows 10.
+  ### Este módulo cobrirá a arquitetura do Windows 10 e ambientes comuns. Os alunos serão apresentados às várias ferramentas usadas na manutenção do Windows. Este módulo também discutirá metodologias para solucionar problemas de maneira eficaz e como gerenciar e otimizar proativamente o Windows 10.
   #### Lições
   - Solução de problemas do Windows
   - Ferramentas de solução de problemas
 
 
-  #### Laboratório&#58; Laboratório de Prática&#58; Monitorando o Windows 10
+  #### Laboratório &#58; Laboratório de Prática; Monitorando o Windows 10
   - Monitorando eventos
   - Monitorando a confiabilidade e o desempenho
 
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever a arquitetura do Windows
-  - Descrever os principais estágios da solução de problemas
+  - Descrever os principais estágios da solução de problemas.
   - Descrever o objetivo e os benefícios das várias ferramentas no Windows
   - Usar as ferramentas de monitoramento para estabelecer uma linha de base de desempenho
   - Otimizar o desempenho em clientes Windows 10
@@ -79,7 +79,7 @@ outlineSection: |-
   Solução de problemas do aplicativo
 
 
-  #### Laboratório&#58; Solução de problemas de aplicativos da área de trabalho
+  #### Laboratório &#58; Solução de problemas de aplicativos da área de trabalho
   - Solução de problemas de aplicativos de política do AppLocker
   - Solução de problemas de compatibilidade de aplicativos
   - Solução de problemas do Microsoft Internet Explorer
@@ -102,7 +102,7 @@ outlineSection: |-
   - Solucionando problemas de falhas físicas
 
 
-  #### Laboratório&#58; Solucionando problemas do driver de dispositivo
+  #### Laboratório &#58; Solucionando problemas do driver de dispositivo
   - Solução de problemas de um driver de dispositivo ausente
   - Resolvendo problemas de hardware
   - Resolvendo o problema do driver do dispositivo
@@ -120,4 +120,5 @@ outlineSection: |-
   - Exame Final
 
 
-  #### Laboratório&#58; Graded Lab
+  #### Laboratório &#58; Graded Lab
+

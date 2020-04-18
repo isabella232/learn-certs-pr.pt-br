@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Desenvolver soluções de computação de Infraestrutura Azure como Serviço
+title: Develop Azure Infrastructure as a Service compute solutions
 metadata:
-  title: 'Curso AZ-203T01-A: Desenvolver soluções de computação de Infraestrutura Azure como Serviço'
-  description: 'Curso AZ-203T01-A: Desenvolver soluções de computação de Infraestrutura Azure como Serviço'
+  title: 'Course AZ-203T01-A: Develop Azure Infrastructure as a Service compute solutions'
+  description: 'Course AZ-203T01-A: Develop Azure Infrastructure as a Service compute solutions'
 uid: course.az-203t01
 courseNumber: 'AZ-203T01-A'
 hoursToComplete: 24
@@ -36,7 +36,7 @@ prerequisitesSection: |-
   - Os estudantes devem ter 1-2 anos de experiência como desenvolvedor. Este curso pressupõe que os alunos saibam codificar e tenham conhecimento básico do Azure.
   - É recomendável que os estudantes tenham alguma experiência no PowerShell ou CLI do Azure ou experiência profissional no portal do Azure e pelo menos em uma linguagem de programação suportada pelo Azure. A maioria dos exemplos deste curso é apresentada em C# .NET.
 outlineSection: |-
- ### Módulo 1&#58; Implementação de soluções que usam máquinas virtuais
+  ### Módulo 1&#58; Implementação de soluções que usam máquinas virtuais
   Os estudantes aprenderão a planejar a implementação de VM de maneira apropriada. O curso aborda a criação de VMs usando o Portal do Azure, PowerShell e códigos. Ele também aborda a criação e o uso de modelos ARM (Azure Resource Manager) para implementações repetíveis e como usar o Azure Disk Encryption para proteger as informações na máquina virtual.
   #### Lições
   - Provisionamento de VMs
@@ -77,3 +77,4 @@ outlineSection: |-
   - Aprender a implementar clusters de AKS
   - Publicar uma imagem no Registro de Contêiner do Azure
   - Aprender sobre as instâncias de contêiner do Azure e como implementá-las
+

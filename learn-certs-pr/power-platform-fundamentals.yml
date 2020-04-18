@@ -2,11 +2,12 @@
 title: Microsoft Certified Power Platform Fundamentals
 metadata:
   title: Microsoft Certified Power Platform Fundamentals
-  description: Prove que você entende os principais recursos da Power Platform - desde o valor do negócio e os principais recursos do produto até a criação de um aplicativo básico Power Apps canvas, conectando fontes de dados, automatizando com o Microsoft Flow e criando um painel de controle do Power BI.
+  description: Prove que você entende das capacidades centrais do Power Plaform - a partir do valor de negócio e capacidades de produto centrais para desenvolver uma aplicação de tela de Aplicações Power, conexão de fontes de dados, automação com Microsoft Automate e criação de um painel de controle Power BI.
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Prove que você entende os principais recursos da Power Platform - desde o valor do negócio e os principais recursos do produto até a criação de um aplicativo básico Power Apps canvas, conectando fontes de dados, automatizando com o Microsoft Flow e criando um painel de controle do Power BI.
-subTitle: Prove que você entende os principais recursos da Power Platform - desde o valor do negócio e os principais recursos do produto até a criação de um aplicativo básico Power Apps canvas, conectando fontes de dados, automatizando com o Microsoft Flow e criando um painel de controle do Power BI.
+summary: |-
+  Prove que você entende das capacidades centrais do Power Plaform - a partir do valor de negócio e capacidades de produto centrais para desenvolver uma aplicação de tela de Aplicações Power, conexão de fontes de dados, automação com Microsoft Automate e criação de um painel de controle Power BI.
+subTitle: Prove que você entende das capacidades centrais do Power Plaform - a partir do valor de negócio e capacidades de produto centrais para desenvolver uma aplicação de tela de Aplicações Power, conexão de fontes de dados, automação com Microsoft Automate e criação de um painel de controle Power BI.
 levels:
 - beginner
 skills:
@@ -14,7 +15,7 @@ skills:
 - Compreender os componentes principais da Power Platform
 - Demonstrar o valor comercial do Power BI
 - Demonstrar o valor comercial dos Power Apps
-- Demonstrar o valor comercial do Microsoft Flow
+- Demonstração de valor de negócio do Power Automate
 roles:
 - business-user
 - functional-consultant
@@ -29,18 +30,21 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43KL
 exams:
 - uid: exam.pl-900
 resources:
+- title: Caminhos de aprendizado de certificação
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Power Platform Fundamentals.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetir exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Apoio às certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 'Dynamics 365: Integração da Power Platform'
+title: 'Dynamics 365: Power Platform integrations'
 metadata:
-  title: 'Curso MB-200T03-A: Dynamics 365: Integração da Power Platform'
-  description: 'Curso MB-200T03-A: Dynamics 365: Integração da Power Platform'
+  title: 'Course MB-200T03-A: Dynamics 365: Power Platform integrations'
+  description: 'Course MB-200T03-A: Dynamics 365: Power Platform integrations'
 uid: course.mb-200t03
 courseNumber: 'MB-200T03-A'
 hoursToComplete: 24
@@ -78,3 +78,4 @@ outlineSection: |-
   - Importar e exportar dados
   - Criar e usar mapas de dados
   - Executar exclusão em massa
+

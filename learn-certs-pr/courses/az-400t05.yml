@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementação da infraestrutura do aplicativo
+title: Implementing Application Infrastructure
 metadata:
-  title: 'Curso AZ-400T05-A: Implementação da infraestrutura do aplicativo'
-  description: 'Curso AZ-400T05-A: Implementação da infraestrutura do aplicativo'
+  title: 'Course AZ-400T05-A: Implementing Application Infrastructure'
+  description: 'Course AZ-400T05-A: Implementing Application Infrastructure'
 uid: course.az-400t05
 courseNumber: 'AZ-400T05-A'
 hoursToComplete: 24
@@ -37,9 +37,9 @@ summary: |-
   Os alunos deste curso estão interessados em implementar a infraestrutura de aplicativos e no gerenciamento e configuração dessa infraestrutura ou em se aprovado no exame de certificação Soluções do Microsoft Azure DevOps.
 prerequisitesSection: |-
   Os alunos devem ter conhecimentos básicos sobre o Azure, experiência com máquinas virtuais e contêineres e algumas noções de automação e scripts.
-  
+
   A experiência profissional em um ambiente de desenvolvimento ou operações de software com Windows ou Linux seria desejável, mas não essencial.
-  
+
   Os estudantes também devem ter conhecimento dos processos gerais de desenvolvimento e implementação de aplicativos.
 outlineSection: |-
   ### Módulo 1&#58; Ferramentas de infraestrutura e configuração do Azure
@@ -116,3 +116,4 @@ outlineSection: |-
   ### Módulo 6&#58; Conclusão do curso
   #### Lições
   - Exame final
+

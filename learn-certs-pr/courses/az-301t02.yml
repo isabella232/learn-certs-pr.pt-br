@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Projetando uma solução de plataforma de dados
+title: Designing a Data Platform Solution
 metadata:
-  title: 'Curso AZ-301T02-A: Projetando uma solução de plataforma de dados'
-  description: 'Curso AZ-301T02-A: Projetando uma solução de plataforma de dados'
+  title: 'Course AZ-301T02-A: Designing a Data Platform Solution'
+  description: 'Course AZ-301T02-A: Designing a Data Platform Solution'
 uid: course.az-301t02
 courseNumber: 'AZ-301T02-A'
 hoursToComplete: 24
@@ -68,7 +68,7 @@ outlineSection: |-
   ### Módulo 2&#58; Comparando opções de banco de dados no Azure
   Este módulo compara as várias opções de armazenamento de dados relacionais e não relacionais disponíveis no Azure. As opções são descritas como grupos, como bancos de dados relacionais (banco de dados SQL do Azure, MySQL e PostgreSQL no Azure), não relacionais (Azure Cosmos DB e tabelas de armazenamento), streaming (Stream Analytics) e armazenamento (Data Factory, Data Warehouse e Data Lake).
 
-  #### Laboratório&#58; Implementação de instâncias de banco de dados no Azure
+  #### Laboratório &#58; Implementação de instâncias de banco de dados no Azure
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Comparar e contrastar os serviços de monitoramento de aplicativos, a plataforma do Azure e a rede.
   - Identificar opções de streaming de dados para ingestão de dados em grande escala.
@@ -78,9 +78,10 @@ outlineSection: |-
   ### Módulo 3&#58; Monitoramento e automatização de soluções do Azure
   Este módulo abrange as soluções de monitoramento e automação disponíveis depois que uma solução do Azure tiver sido arquitetada, projetada e possivelmente implementada. O módulo analisa os serviços usados para monitorar aplicativos individuais, a plataforma do Azure e os componentes de rede. Este módulo também abrange opções de automação e backup para habilitar cenários de continuidade de negócios para soluções hospedadas no Azure.
 
-  #### Laboratório&#58; Implementação de soluções de gerenciamento de configuração no Azure
+  #### Laboratório &#58; Implementação de soluções de gerenciamento de configuração no Azure
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Comparar e contrastar os serviços de monitoramento de aplicativos, a plataforma do Azure e a rede.
   - Criar um esquema de alerta para uma solução hospedada no Azure.
   - Selecionar a opção de backup apropriada para infraestrutura e dados hospedados no Azure.
   - Automatizar a implementação de recursos futuros para fins de recuperação ou dimensionamento de backup.
+

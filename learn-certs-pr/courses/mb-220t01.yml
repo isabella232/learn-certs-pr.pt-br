@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Definir configurações e funcionalidade principal no Dynamics 365 for Marketing
+title: Configure settings and core functionality in Dynamics 365 for Marketing
 metadata:
-  title: 'Curso MB-220T01-A: Definir configurações e funcionalidade principal no Dynamics 365 for Marketing'
-  description: 'Curso MB-220T01-A: Definir configurações e funcionalidade principal no Dynamics 365 for Marketing'
+  title: 'Course MB-220T01-A: Configure settings and core functionality in Dynamics 365 for Marketing'
+  description: 'Course MB-220T01-A: Configure settings and core functionality in Dynamics 365 for Marketing'
 uid: course.mb-220t01
 courseNumber: 'MB-220T01-A'
 hoursToComplete: 72
@@ -39,7 +39,7 @@ summary: |-
   #### Perfil do público
   Este curso foi desenvolvido para profissionais de TI ou de marketing que desejam aprender a aproveitar o Dynamics 365 for Marketing para empresas.
 prerequisitesSection: |-
- Antes de participar deste curso, os estudantes devem&#58;
+  Antes de participar deste curso, os estudantes devem&#58;
   - Uma compreensão dos conceitos básicos do Dynamics 365 e conhecimento dos princípios, estratégias e procedimentos de marketing
 outlineSection: |-
   ### Módulo 1&#58; Configuração de aplicativos de marketing
@@ -48,7 +48,7 @@ outlineSection: |-
   - Definir configuração avançada
   - Gerenciar conteúdo e modelos de marketing
   - Gerenciar integrações do LinkedIn e do Power BI
-
+  
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Definir configurações avançadas, como o&#58; organização, gerenciamento de negócios, conteúdo, marketing e configurações de eventos
   - Gerenciar conteúdo e modelos de marketing  
@@ -125,3 +125,4 @@ outlineSection: |-
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Localizar informações
   - Entender insights de marketing, como&#58; URL de contato, segmento, jornada do cliente, email de marketing, lead, pontuação de lead, formulário de marketing, página de marketing, site e redirecionamento
+

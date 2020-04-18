@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Azure Fundamentals 
+title: Microsoft Azure Fundamentals
 metadata:
-  title: 'Curso AZ-900T01-A: Microsoft Azure Fundamentals'
-  description: 'Curso AZ-900T01-A: Microsoft Azure Fundamentals'
+  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
+  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
 uid: course.az-900t01
 courseNumber: 'AZ-900T01-A'
 hoursToComplete: 24
@@ -34,14 +34,13 @@ summary: |-
   Não há pré-requisitos para fazer este curso. Ele se destina a quem deseja saber mais sobre o Microsoft Azure.
 prerequisitesSection: |-
   Não há pré-requisitos para fazer este curso. A experiência técnica de TI não é exigida, mas requer algum conhecimento ou experiência geral de TI.
-
 outlineSection: |-
   ### Módulo 1&#58; Conceitos de nuvem
   Neste módulo, você aprenderá os conceitos básicos de nuvem.
   #### Lições
   - Objetivos de aprendizado
   - Por que serviços em nuvem?
-  Infraestrutura como serviço (IaaS), plataforma como serviço (PaaS) e software como serviço (SaaS)
+  - Infraestrutura como serviço (IaaS), plataforma como serviço (PaaS) e software como serviço (SaaS)
   - Modelos de nuvem pública, privada e híbrida
 
   Depois de concluir este módulo, os estudantes estarão aptos a&#58;
@@ -57,8 +56,7 @@ outlineSection: |-
   - Ferramentas de gerenciamento do Azure
 
   Depois de concluir este módulo, os estudantes estarão aptos a&#58;
-  - Compreender os principais serviços disponíveis com
-  Microsoft Azure
+  - Compreender os principais serviços disponíveis com Microsoft Azure
 
   ### Módulo 3&#58; Segurança, privacidade, conformidade e confiabilidade
   Neste módulo, você aprenderá sobre segurança, privacidade, conformidade e confiabilidade do Microsoft Azure.
@@ -71,8 +69,7 @@ outlineSection: |-
   - Padrões de privacidade, conformidade e proteção de dados no Azure
 
   Depois de concluir este módulo, os estudantes estarão aptos a&#58;
-  - Compreender
-  a segurança, privacidade, conformidade e confiabilidade do Microsoft Azure
+  - Compreender a segurança, privacidade, conformidade e confiabilidade do Microsoft Azure
 
   ### Módulo 4&#58; Tabela de preços e suporte do Azure
   Neste módulo, você se concentrará nos modelos de preços e suporte disponíveis na Microsoft.
@@ -84,3 +81,4 @@ outlineSection: |-
 
   Depois de concluir este módulo, os estudantes estarão aptos a&#58;
   - Compreender os modelos de preços e suporte disponíveis na Microsoft
+

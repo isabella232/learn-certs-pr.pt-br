@@ -2,15 +2,15 @@
 title: MCSE Productivity Solutions Expert
 metadata:
   title: MCSE Productivity Solutions Expert
-  description: Especialista de Soluções de Produtividade MCSE
+  description: MCSE Productivity Solutions Expert
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
-summary: >-
-  Esta certificação valida sua capacidade de migrar sua empresa para a nuvem, aumentar a produtividade e flexibilidade do usuário, reduzir perdas de dados e melhorar a segurança de dados da sua organização. Esta certificação pode ser usada para satisfazer um dos requisitos para se tornar um [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
-
-
-  Para se tornar um Especialista de Soluções de Produtividade MCSE, é preciso preencher os seguintes requisitos&#58;
-
+summary: |-
+  <div style='color&#58; red;'>Este exame é retirado em terça-feira, 30 de junho de 2020. Um exame de substituição pode estar disponível. Para saber mais, visite nosso blog&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> e revise nossas postagens de aposentadoria de exames. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão<br/><br/></div>
+  
+  Esta certificação valida sua capacidade de migrar sua empresa para a nuvem, aumentar a produtividade e flexibilidade do usuário, reduzir perdas de dados e melhorar a segurança de dados da sua organização. Esta certificação pode ser usada para satisfazer um dos requisitos para se tornar um [Microsoft 365 Certified&#58; Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
+  
+  Para se tornar um MCSE Productivity Solutions Expert, é preciso preencher os seguintes requisitos&#58;
   - Receber uma certificação de pré-requisito
     - Opção de pré-requisito 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
     - Opção de pré-requisito 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
@@ -19,7 +19,7 @@ summary: >-
     - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
     - [70-339&#58; Managing Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
     - [70-345&#58; Designing and Deploying Microsoft Exchange Server 2016](/learn/certifications/exams/70-345)
-subTitle: Esta certificação valida sua capacidade de migrar sua empresa para a nuvem, aumentar a produtividade e flexibilidade do usuário, reduzir perdas de dados e melhorar a segurança de dados da sua organização. Esta certificação pode ser usada para satisfazer um dos requisitos para se tornar Microsoft 365 Certified Enterprise Administrator Expert
+subTitle: 'Esta certificação valida sua capacidade de migrar sua empresa para a nuvem, aumentar a produtividade e flexibilidade do usuário, reduzir perdas de dados e melhorar a segurança de dados da sua organização. Esta certificação pode ser usada para satisfazer um dos requisitos para se tornar Microsoft 365 Certified: Enterprise Administrator Expert.'
 levels:
 - advanced
 skills:
@@ -45,14 +45,14 @@ resources:
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetir Exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Suporte para certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio às certificações
+  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx

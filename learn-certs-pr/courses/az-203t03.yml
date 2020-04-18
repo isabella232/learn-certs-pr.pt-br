@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Desenvolvimento de serviços de armazenamento do Azure
+title: Develop for Azure storage
 metadata:
-  title: 'Curso AZ-203T03-A: Desenvolvimento de serviços de armazenamento do Azure'
-  description: 'Curso AZ-203T03-A: Desenvolvimento de serviços de armazenamento do Azure'
+  title: 'Course AZ-203T03-A: Develop for Azure storage'
+  description: 'Course AZ-203T03-A: Develop for Azure storage'
 uid: course.az-203t03
 courseNumber: 'AZ-203T03-A'
 hoursToComplete: 24
@@ -83,3 +83,4 @@ outlineSection: |-
   - Compreender quando e por que usar o armazenamento de blob do Azure
   - Definir e recuperar propriedades e metadados de armazenamento de blob
   - Replicar e copiar blobs
+

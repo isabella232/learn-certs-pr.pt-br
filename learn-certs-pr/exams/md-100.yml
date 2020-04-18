@@ -1,39 +1,38 @@
 ### YamlMime:Examination
-title: Exam Windows 10
+title: Windows 10
 metadata:
-  title: 'Exame MD-100: Windows 10'
-  description: 'Exame MD-100: Windows 10'
+  title: 'Exam MD-100: Windows 10'
+  description: 'Exam MD-100: Windows 10'
 uid: exam.md-100
 displayName: MD-100
-summary: >-
-  Se você passou [no Exame 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) antes de expirar em 31 de março de 2019, só precisa fazer um exame (MD-101) para receber a certificação Modern Desktop. Os candidatos a este exame são administradores que instalam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos clientes em um ambiente corporativo. Os candidatos gerenciam identidade, acesso, políticas, atualizações e aplicativos.
-
+summary: |-
+  Se você passou [Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) antes de expirar em 31 de março de 2019, só precisa fazer um exame (MD-101) para receber a certificação Modern Desktop. Os candidatos a este exame são Administradores que implementam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos cliente em um ambiente corporativo. Os candidatos gerenciam identidade, acesso, políticas, atualizações e aplicativos.
 
   Como administrador, os candidatos normalmente colaboram com um administrador do Microsoft 365 Enterprise para projetar e implementar uma estratégia de dispositivo que atenda às necessidades de negócios de uma organização moderna.
 
-
   Os candidatos devem estar familiarizados com as cargas de trabalho do Microsoft 365 e devem ser proficientes e experientes na implantação, configuração e manutenção de dispositivos e tecnologias do Windows 10 e não Windows.
-subTitle: 'Este exame avalia a capacidade de realizar as seguintes tarefas técnicas: implementar o Windows, gerenciar dispositivos e dados, configurar a conectividade e manutenção do Windows. Se você passou no Exame 70-698 antes de expirar em 31 de março de 2019, só precisa fazer um exame MD-101 para receber a certificação Modern Desktop.'
+subTitle: 'Este exame avalia a capacidade de realizar as seguintes tarefas técnicas: implementar o Windows, gerenciar dispositivos e dados, configurar a conectividade e manutenção do Windows. Se você passou Exam 70-698 antes de expirar em 31 de março de 2019, só precisa fazer um exame (MD-101) para receber a certificação Modern Desktop.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVC
 practiceTestUrl: https://www.mindhub.com/md-100-windows-10-microsoft-official-practice-test/p/MU-MD-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MD-100&examname=Exam%20MD-100:%20Windows%2010&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-100
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MD-100&examname=Exame%20MD-100:%20Windows%2010&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fmd-100
 levels:
 - intermediate
 skills:
+- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - Instalação do Windows (15-20%)
 - Gerenciar dispositivos e dados (35-40%)
 - Configurar a conectividade (15-20%)
 - Realizar a manutenção do Windows (25-30%)
 roles:
 - administrator
-exams:
-- uid: exam.md-101
 products:
 - m365
 - windows
+exams:
+- uid: exam.md-101
 courses:
 - uid: course.md-100t01
 - uid: course.md-100t02
@@ -49,18 +48,21 @@ resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetir Exame
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Ajuda para exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Saiba mais sobre como solicitar um alojamento para o seu exame..
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de exames e perguntas frequentes
-  description: Consulte as políticas do exame e as perguntas frequentes.
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md

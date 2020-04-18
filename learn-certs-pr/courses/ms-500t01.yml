@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gerenciando a identidade e o acesso do Microsoft 365
+title: Managing Microsoft 365 Identity and Access
 metadata:
-  title: 'Curso MS-500T01-A: Gerenciando Identidade e Acesso do Microsoft 365 '
-  description: 'Curso MS-500T01-A: Gerenciando Identidade e Acesso do Microsoft 365 '
+  title: 'Course MS-500T01-A: Managing Microsoft 365 Identity and Access'
+  description: 'Course MS-500T01-A: Managing Microsoft 365 Identity and Access'
 uid: course.ms-500t01
 courseNumber: 'MS-500T01-A'
 hoursToComplete: 24
@@ -30,13 +30,13 @@ exams:
 - uid: exam.ms-500
 summary: |-
   Ajudar a proteger contra comprometimento de credenciais com gerenciamento de identidade e acesso. Neste curso, você aprenderá como proteger o acesso do usuário aos recursos da sua organização. Especificamente, este curso aborda a proteção por senha do usuário, autenticação multifator, como habilitar o Azure Identity Protection, como configurar os serviços de federação do Active Directory, como configurar e usar o Azure AD Connect e apresenta o Acesso Condicional. Você também aprenderá sobre soluções para gerenciar o acesso externo ao seu sistema Microsoft 365.
-
+  
   #### Perfil do público
   Este curso é para a função de administrador de segurança do Microsoft 365. Essa função colabora com o Administrador Corporativo do Microsoft 365, as partes interessadas nos negócios e outros administradores de carga de trabalho para planejar e implementar estratégias de segurança e garante que as soluções estejam em conformidade com as políticas e regulamentos da organização. 
   
   Essa função protege proativamente os ambientes corporativos do Microsoft 365. As responsabilidades incluem responder a ameaças, implementar, gerenciar e monitorar soluções de segurança e conformidade para o ambiente Microsoft 365. Eles respondem a incidentes, investigações e aplicação da governança de dados. 
-  
-  O Security Administrator Associate Microsoft 365 está familiarizado com as cargas de trabalho do Microsoft 365 e possui fortes habilidades e experiência em proteção de identidade, proteção de informações, proteção contra ameaças, gerenciamento de segurança e governança de dados. Essa função se concentra no ambiente Microsoft 365 e inclui ambientes híbridos.
+
+  O Security Administrator Associate Microsoft 365  está familiarizado com as cargas de trabalho do Microsoft 365 e possui fortes habilidades e experiência em proteção de identidade, proteção de informações, proteção contra ameaças, gerenciamento de segurança e governança de dados. Essa função se concentra no ambiente Microsoft 365 e inclui ambientes híbridos.
 prerequisitesSection: |-
   Os alunos devem iniciar este curso já com as seguintes habilidades&#58;
   - Entendimento conceitual básico do Microsoft Azure.
@@ -55,7 +55,7 @@ outlineSection: |-
   - Proteção de identidade do Azure AD
 
 
-  #### Laboratório&#58; Gerenciando seu ambiente de identidade do Microsoft 365
+  #### Laboratório &#58; Gerenciando seu ambiente de identidade do Microsoft 365
   - Configurando seu ambiente de laboratório
   - Gerenciando seu ambiente de identidade do Microsoft 365 usando o centro de administração do Microsoft 365
   - Atribuir administradores de serviço
@@ -81,7 +81,7 @@ outlineSection: |-
   - Gerenciando identidades sincronizadas
 
 
-  #### Laboratório&#58; Implementando a sincronização de identidades
+  #### Laboratório &#58; Implementando a sincronização de identidades
   - Configurando sua organização para sincronização de identidade
 
   Depois de concluir este módulo, os alunos devem ser capazes de&#58;
@@ -94,7 +94,7 @@ outlineSection: |-
   - Gerenciar usuários com a sincronização de diretórios
   - Gerenciar grupos com sincronização de diretório
   - usar grupos de segurança de sincronização do Azure AD Connect
-  
+
 
   ### Módulo 3&#58; Identidades Federadas
   Este módulo é sobre serviços de federação do Active Directory (ADFS). Especificamente, você aprenderá como planejar e gerenciar o AD FS para atingir o nível de acesso que deseja fornecer aos usuários de outros diretórios.
@@ -129,3 +129,4 @@ outlineSection: |-
   - Distinguir entre as funções administrativas do RBAC do Azure e do Azure AD
   - Gerenciar acesso externo
   - Explicar as diretrizes de licenciamento para a colaboração do Azure AD B2B
+

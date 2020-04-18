@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Tecnologias avançadas do SharePoint 2016
+title: Advanced Technologies of SharePoint 2016
 metadata:
-  title: 'Curso 20339-2-A: Tecnologias avançadas do SharePoint 2016'
-  description: 'Curso 20339-2-A: Tecnologias avançadas do SharePoint 2016'
+  title: 'Course 20339-2-A: Advanced Technologies of SharePoint 2016'
+  description: 'Course 20339-2-A: Advanced Technologies of SharePoint 2016'
 uid: course.20339-2
 courseNumber: '20339-2-A'
 hoursToComplete: 120
@@ -35,25 +35,24 @@ summary: |-
   Este curso de cinco dias irá ensiná-lo a planejar, configurar e gerenciar os recursos avançados em um ambiente do SharePoint 2016. As áreas prioritárias para este curso incluem a implementação de alta disponibilidade, recuperação de desastres, arquitetura de aplicativos de serviço e Serviços Corporativos de Conectividade da Microsoft. Este curso também abrange os recursos de computação social, produtividade e plataformas e recursos de colaboração. Os estudantes também conhecerão as soluções de Business Intelligence, gerenciamento de conteúdo corporativo, infraestrutura, soluções e aplicativos de gerenciamento de conteúdo da web. Este curso também descreve como desenvolver e implementar um plano de governança e como realizar uma atualização ou uma migração para o SharePoint 2016.
 
   Este é o segundo de uma série de dois cursos para profissionais de TI e está em consonância com a certificação SharePoint 2016 IT Pro.
-
+  
   #### Perfil do público
   O curso destina-se a profissionais de TI experientes que estão interessados em aprender a instalar, configurar, implementar e gerenciar as instalações do SharePoint 2016 em um data center ou na nuvem. 
-  
-  Os estudantes geralmente têm mais de quatro de experiência prática* no planejamento e manutenção do SharePoint e em outras tecnologias básicas das quais o SharePoint depende, incluindo Windows Server 2012 R2 ou posterior, Internet Information Services (IIS), Microsoft SQL Server 2014 R2 ou posterior, Active Directory Domain Services (AD DS) e serviços de infraestrutura de rede.
-  
-  Os estudantes devem ter concluído o curso 20339-1A&#58; Planejamento e gerenciamento do Microsoft SharePoint 2016 ou ter adquirido conhecimento e experiência equivalentes antes de fazer este curso. No geral, o candidato minimamente qualificado&#58;
-  
+
+  Os estudantes geralmente têm mais de quatro de experiência prática* no planejamento e manutenção do SharePoint e em outras tecnologias básicas das quais o SharePoint depende, incluindo Windows Server 2012 R2 ou posterior, Internet Information Services (IIS), Microsoft SQL Server 2014 ou posterior, Active Directory Domain Services (AD DS) e serviços de infraestrutura de rede.
+
+  Os estudantes devem ter concluído o curso 20339-1A&#58; Planejamento e gerenciamento do Microsoft SharePoint 2016 ou ter adquirido conhecimento e experiência equivalentes antes de fazer este curso. No geral, o candidato minimamente qualificado ;
+
   - Possui conhecimento prático e, de preferência, experiência prática no Microsoft SharePoint Online.
   - Tem ampla familiaridade com as cargas de trabalho do SharePoint Server.
   - Tem experiência no gerenciamento de continuidade de negócios, incluindo backup de dados, restauração e alta disponibilidade.
   - Tem experiência em tecnologias de autenticação e segurança.
   - Está familiarizado com o Windows PowerShell.
-  
+
   A experiência prática ou a experiência de trabalho devem resultar de uma função baseada em soluções em que o candidato ocupou em várias soluções no espaço SharePoint, incluindo o gerenciamento de documentos, gerenciamento de conteúdo e pesquisa.
-  
 prerequisitesSection: |-
   O candidato ideal a este curso deve ter pelo menos um ano de experiência na implementação e gerenciamento de vários farms do SharePoint Server 2013 em uma grande empresa. O candidato deve ter concluído o curso 20339-1A&#58; Planejamento e gerenciamento do Microsoft SharePoint 2016 ou demonstrar habilidades equivalentes.
-  
+
   Antes de frequentar este curso, os alunos devem demonstrar as seguintes habilidades&#58;
   - Pelo menos um ano de experiência no mapeamento de requisitos de negócios para projetos técnicos lógicos e físicos.
   - Conhecimento prático do design de rede, incluindo segurança de rede.
@@ -239,15 +238,15 @@ outlineSection: |-
 
 
   ### Módulo 9&#58; Planejamento e configuração do gerenciamento de conteúdo corporativo
-  Este módulo descreve como planejar o gerenciamento de conteúdo e documentos e como planejar e configurar a descoberta eDiscovery. Além disso, descreve como planejar o gerenciamento e a conformidade de registros.
+  Este módulo descreve como planejar o gerenciamento de conteúdo e documentos e como planejar e configurar a descoberta eletrônica. Além disso, descreve como planejar o gerenciamento e a conformidade de registros.
   #### Lições
   - Planejamento do gerenciamento de conteúdo corporativo
-  - Planejamento e configuração da descoberta eDiscovery
+  - Planejamento e configuração da descoberta eletrônica
   - Planejamento de gerenciamento de registros
 
 
-  #### Laboratório&#58; Configuração de descoberta eDiscovery no SharePoint 2016
-  - Criação e configuração de um centro de eDiscovery
+  #### Laboratório&#58; Configuração de descoberta eletrônica no SharePoint 2016
+  - Criação e configuração de um centro de descoberta e
   - Descoberta e preservação de conteúdo
   - Consulta e exportação de conteúdo
 
@@ -257,7 +256,7 @@ outlineSection: |-
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Planejar como gerenciar conteúdo e documentos.
-  - Planejar e configurar a descoberta eDiscovery.
+  - Planejar e configurar a descoberta eletrônica.
   - Planejar o gerenciamento e a conformidade de registros.
 
 
@@ -281,7 +280,7 @@ outlineSection: |-
   - Descrever a arquitetura de Business Intelligence (BI), seus componentes
   e planejar Business Intelligence para Microsoft SharePoint.
   - Planejar, implementar e gerenciar serviços de BI básicos
-  para Microsoft SharePoint 2916.
+  para Microsoft SharePoint 2016.
   - Configurar as opções avançadas de BI disponíveis no
   SharePoint 2016 e no Microsoft SQL Server 2014.
 
@@ -335,3 +334,4 @@ outlineSection: |-
   - Realizar atualizações para aplicativos de dados e serviços.
   - Atualizar conjuntos de sites.
   - Atualizar o conteúdo avançado do SharePoint Server 2013 para o SharePoint 2016.
+

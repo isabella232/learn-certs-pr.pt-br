@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Migração de dados e preparação para ativação com o Dynamics 365 for Finance and Operations
+title: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Curso MB-300T03-A: Migração de dados e preparação para ativação com o Dynamics 365 for Finance and Operations'
-  description: 'Curso MB-300T03-A: Migração de dados e preparação para ativação com o Dynamics 365 for Finance and Operations'
+  title: 'Course MB-300T03-A: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations'
+  description: 'Course MB-300T03-A: Data migration and preparing for go-live with Dynamics 365 for Finance and Operations'
 uid: course.mb-300t03
 courseNumber: 'MB-300T03-A'
 hoursToComplete: 24
@@ -37,11 +37,11 @@ outlineSection: |-
   - Entender o recurso BYOD
   - Executar uma migração de teste e Validar saída
   - Resumo do módulo
-  
+
 
   Quando chega a hora da migração de dados, quanto mais se sabe, mais fácil é controlar a complexidade operacional e reduzir custos. A continuidade dos negócios do cliente deve ser a prioridade. Neste módulo, os alunos aprenderão como preparar dados para uma migração bem-sucedida, identificando fatores importantes, como sistemas legados e dados estáticos e comuns.
-  
-  
+
+
   Neste módulo, os alunos aprenderam como&#58;
   - Escolher uma estratégia de integração de dados (importação/exportação)
   - Identificar cenários e ferramentas comuns de migração em finanças e operações
@@ -68,7 +68,7 @@ outlineSection: |-
   - Importar, exportar e copiar dados para uma entidade legal
   - Laboratórios práticos
   - Resumo do módulo
-  
+
 
   Neste módulo, os alunos aprenderam como&#58;
   - Identificar o padrão correto para um determinado cenário para usar o Data Management Platform for Integration usando entidades de Dados
@@ -88,7 +88,7 @@ outlineSection: |-
   - Criar e executar casos de teste para aceitação do usuário
   - Laboratório Prático
   - Resumo do módulo
-  
+
 
   Neste módulo, os alunos aprenderam sobre o&#58;
   - Como entender a correlação entre casos de teste e requisitos de negócios
@@ -108,7 +108,7 @@ outlineSection: |-
   - Introdução
   - Prepare-se para ir ao vivo
   - Resumo do módulo
-  
+
 
   Neste módulo, os alunos terão aprendido como&#58;
   - Preparar-se para ir ao vivo
@@ -124,6 +124,7 @@ outlineSection: |-
   - Avaliação final
   - Resumo do curso
   - Pesquisa pós-curso
-  
+
 
   Os alunos terão concluído o curso.
+

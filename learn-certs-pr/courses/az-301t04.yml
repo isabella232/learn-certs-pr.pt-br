@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Desenvolver uma estratégia de infraestrutura
+title: Designing an Infrastructure Strategy
 metadata:
-  title: 'Curso AZ-301T04-A: Desenvolver uma estratégia de infraestrutura'
-  description: 'Curso AZ-301T04-A: Desenvolver uma estratégia de infraestrutura'
+  title: 'Course AZ-301T04-A: Designing an Infrastructure Strategy'
+  description: 'Course AZ-301T04-A: Designing an Infrastructure Strategy'
 uid: course.az-301t04
 courseNumber: 'AZ-301T04-A'
 hoursToComplete: 24
@@ -63,7 +63,7 @@ outlineSection: |-
   ### Módulo 2&#58; Construção de aplicativos de servidor baseados em IaaS do Azure (ADSK)
   Este módulo identifica as cargas de trabalho que são implementadas de maneira ideal por meio de serviços de infraestrutura como serviço no Azure. O módulo se concentra nos conjuntos de escala de máquina virtual (VM) e nos serviços VM no Azure e na melhor forma de implementar cargas de trabalho nesses serviços usando as melhores práticas e recursos, como conjuntos de disponibilidade.
 
-  #### Laboratório&#58; Construção de aplicativos de servidor baseados em IaaS do Azure.
+  #### Laboratório &#58; Construção de aplicativos de servidor baseados em IaaS do Azure.
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Projetar um conjunto de disponibilidades para uma ou mais máquinas virtuais.
   - Descrever as diferenças entre falhas e atualizar os domínios.
@@ -74,7 +74,7 @@ outlineSection: |-
   ### Módulo 3&#58; Ligação de componentes de aplicativos do Azure em rede
   Este módulo descreve as várias opções de rede e conectividade disponíveis para soluções implementadas no Azure. O módulo explora as opções de conectividade que variam de conexões ad hoc a cenários de conectividade híbrida de longo prazo. O módulo também discute alguns dos problemas de desempenho e segurança relacionados ao balanceamento de cargas de trabalho em várias instâncias de computação ao conectar a infraestrutura local à nuvem e ao criar gateways para dados locais.
 
-  #### Laboratório&#58; Implementação da infraestrutura de rede para uso nas soluções do Azure
+  #### Laboratório &#58; Implementação da infraestrutura de rede para uso nas soluções do Azure
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever estratégias de DNS e IP para VNETs no Azure.
   - Comparar as opções de conectividade ad-hoc e híbrida.
@@ -85,8 +85,9 @@ outlineSection: |-
   ### Módulo 4&#58; Integração de componentes da solução Azure usando os serviços de mensagens
   Este módulo descreve e compara os serviços de integração e de mensagens disponíveis para soluções hospedadas na plataforma Azure. Os serviços de mensagens descritos incluem filas de armazenamento do Azure, filas de barramento de serviço, retransmissão de barramento de serviço, hubs IoT, hubs de eventos e hubs de notificação. Os serviços de integração incluem o Azure Functions e os aplicativos lógicos.
 
-  #### Laboratório&#58; Integração de componentes da solução Azure usando os serviços de mensagens
+  #### Laboratório &#58; Integração de componentes da solução Azure usando os serviços de mensagens
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Comparar as filas de armazenamento às filas do barramento de serviço.
   - Identificar quando usar o Azure Functions ou aplicativos lógicos para os componentes de integração em uma solução.
   - Descrever as diferenças entre os hubs IoT, hubs de eventos e Time Series Insights.
+

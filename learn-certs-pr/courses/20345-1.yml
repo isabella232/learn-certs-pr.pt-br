@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Gerenciamento do Microsoft Exchange Server 2016/2019
+title: Administering Microsoft Exchange Server 2016/2019
 metadata:
-  title: 'Curso 20345-1-B: Gerenciamento do Microsoft Exchange Server 2016/2019'
-  description: 'Curso 20345-1-B: Gerenciamento do Microsoft Exchange Server 2016/2019'
+  title: 'Course 20345-1-B: Administering Microsoft Exchange Server 2016/2019'
+  description: 'Course 20345-1-B: Administering Microsoft Exchange Server 2016/2019'
 uid: course.20345-1
 courseNumber: '20345-1-B'
 hoursToComplete: 120
@@ -291,3 +291,4 @@ outlineSection: |-
   - Fornecer uma visão geral do Exchange Online e do Office 365.
   - Gerenciar o Exchange Online.
   - Implementar a migração para o Exchange Online.
+

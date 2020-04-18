@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Desenvolver estratégias de implementação, migração e integração
+title: Designing for Deployment, Migration, and Integration
 metadata:
-  title: 'Curso AZ-301T03-A: Desenvolver estratégias de implementação, migração e integração'
-  description: 'Curso AZ-301T03-A: Desenvolver estratégias de implementação, migração e integração'
+  title: 'Course AZ-301T03-A: Designing for Deployment, Migration, and Integration'
+  description: 'Course AZ-301T03-A: Designing for Deployment, Migration, and Integration'
 uid: course.az-301t03
 courseNumber: 'AZ-301T03-A'
 hoursToComplete: 24
@@ -55,7 +55,7 @@ outlineSection: |-
   ### Módulo 1&#58; Implementação de recursos com o Azure Resource Manager
   Este módulo estabelece uma compreensão básica do Azure Resource Manager (ARM) e os conceitos básicos de implementações, recursos, modelos, grupos de recursos e tags. O módulo descreve em detalhes a implementação automatizada de recursos com o uso de modelos ARM.
 
-  #### Laboratório&#58; Implementação de recursos com o Azure Resource Manager
+  #### Laboratório &#58; Implementação de recursos com o Azure Resource Manager
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Criar um grupo de recursos.
   - Adicionar recursos a um grupo de recursos.
@@ -68,7 +68,7 @@ outlineSection: |-
   Este módulo descreve como as soluções podem se beneficiar dos serviços de hospedagem de aplicativos sem servidor no Azure
   hospedar aplicativos web, APIs REST, fluxos de trabalho de integração e cargas de trabalho HPC sem a necessidade de gerenciar recursos específicos do servidor. O módulo se concentra em componentes relacionados aos Serviços de Aplicativo, como aplicativos Web, aplicativos API, aplicativos móveis, aplicativos lógicos e funções.
 
-  #### Laboratório&#58; Implementação de cargas de trabalho gerenciadas em contêineres para o Azure
+  #### Laboratório &#58; Implementação de cargas de trabalho gerenciadas em contêineres para o Azure
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Selecionar entre o código de inscrição ou contêineres em uma instância do Serviço de Aplicativo.
   - Descrever as diferenças entre APIs, aplicativos móveis e aplicativos Web.
@@ -80,9 +80,10 @@ outlineSection: |-
   Este módulo descreve como as soluções podem se beneficiar dos serviços de hospedagem de aplicativos sem servidor no Azure
   hospedar aplicativos web, APIs REST, fluxos de trabalho de integração e cargas de trabalho HPC sem a necessidade de gerenciar recursos específicos do servidor. O módulo se concentra em componentes relacionados aos Serviços de Aplicativo, como aplicativos Web, aplicativos API, aplicativos móveis, aplicativos lógicos e funções.
 
-  #### Laboratório&#58; Implementação de cargas de trabalho sem servidor no Azure
+  #### Laboratório &#58; Implementação de cargas de trabalho sem servidor no Azure
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Selecionar entre o código de inscrição ou contêineres em uma instância do Serviço de Aplicativo.
   - Descrever as diferenças entre APIs, aplicativos móveis e aplicativos Web.
   - Integrar uma API ou aplicativo lógico ao serviço de gerenciamento de API.
   - Criar um plano de serviço de aplicativo ou implementação multirregional para alto desempenho e escala.
+

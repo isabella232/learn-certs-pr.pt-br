@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementar cargas de trabalho de voz para Skype for Business Online e Server 2015
+title: Deploying Voice Workloads for Skype for Business Online and Server 2015
 metadata:
-  title: 'Curso 40409-A: Implementar cargas de trabalho de voz para Skype for Business Online e Server 2015'
-  description: 'Curso 40409-A: Implementar cargas de trabalho de voz para Skype for Business Online e Server 2015'
+  title: 'Course 40409-A: Deploying Voice Workloads for Skype for Business Online and Server 2015'
+  description: 'Course 40409-A: Deploying Voice Workloads for Skype for Business Online and Server 2015'
 uid: course.40409
 courseNumber: '40409-A'
 hoursToComplete: 120
@@ -202,7 +202,7 @@ outlineSection: |-
   - Implementação do Cloud Connector Edition
 
 
-  #### Laboratório&#58; Implementação do Cloud Connector Edition
+  #### Laboratório &#58; Implementação do Cloud Connector Edition
   - Configuração da organização do laboratório
   - Preparação do primeiro dispositivo de alta disponibilidade do Cloud Connector Edition
   - Preparação do segundo dispositivo de alta disponibilidade do Cloud Connector Edition
@@ -233,13 +233,13 @@ outlineSection: |-
   - Serviços de informações de local e E9-1-1
 
 
-  #### Laboratório&#58; Configuração de grupos de resposta
+  #### Laboratório &#58; Configuração de grupos de resposta
   - Configuração de grupos e filas de agentes
   - Configuração de fluxos de trabalho
   - Verificando o comportamento do serviço do grupo de resposta
 
 
-  #### Laboratório&#58; Configuração de serviços de informações de local sobre e gerenciamento de dispositivos
+  #### Laboratório &#58; Configuração de serviços de informações de local sobre e gerenciamento de dispositivos
   - Criação de rotas de emergência e uso de PSTN
   - Configuração da manipulação de números em troncos para números de emergência
   - Definição de locais LIS
@@ -266,7 +266,7 @@ outlineSection: |-
   - Redes definidas por software
 
 
-  #### Laboratório&#58; Gerenciamento da qualidade da voz
+  #### Laboratório &#58; Gerenciamento da qualidade da voz
   - Inserir informações na calculadora de largura de banda do Skype for Business
   - Análise de resultados calculados
   - Configuração da qualidade de serviço
@@ -290,7 +290,7 @@ outlineSection: |-
   - Relatórios de uso e de monitoramento
 
 
-  #### Laboratório&#58; Implementação do painel de qualidade de chamada, análise de relatórios e captura de KHI
+  #### Laboratório &#58; Implementação do painel de qualidade de chamada, análise de relatórios e captura de KHI
   - Instalação do painel de qualidade de chamada do Skype
   - Uso do painel de qualidade de chamada do Skype
   - Análise de relatórios detalhados de sessões ponto a ponto
@@ -312,7 +312,7 @@ outlineSection: |-
   - Diagnóstico de problemas de telefones IP
 
 
-  #### Laboratório&#58; Diagnosticar problemas de planos de discagem, roteamento e troncos
+  #### Laboratório &#58; Diagnosticar problemas de planos de discagem, roteamento e troncos
   - Análise dos componentes do serviço de log centralizado
   - Uso da ferramenta CLS Logger
   - Noções básicas do rastreamento
@@ -329,3 +329,4 @@ outlineSection: |-
 
   #### Leitura adicional
   Nenhum
+

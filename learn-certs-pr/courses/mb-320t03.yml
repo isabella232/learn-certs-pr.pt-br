@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Configurar e usar a fabricação de processos no Dynamics 365 for Finance and Operations
+title: Configure and use process manufacturing in Dynamics 365 for Finance and Operations
 metadata:
-  title: 'Curso MB-320T03-A: Configurar e usar a fabricação de processos no Dynamics 365 for Finance and Operations'
-  description: 'Curso MB-320T03-A: Configurar e usar a fabricação de processos no Dynamics 365 for Finance and Operations'
+  title: 'Course MB-320T03-A: Configure and use process manufacturing in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T03-A: Configure and use process manufacturing in Dynamics 365 for Finance and Operations'
 uid: course.mb-320t03
 courseNumber: 'MB-320T03-A'
 hoursToComplete: 24
@@ -22,7 +22,6 @@ exams:
 summary: |-
   As organizações usam o Dynamics 365 for Finance and Operations para executar de maneira mais inteligente as operações conectadas, selecionando os processos de fabricação mais adequados, melhorando os procedimentos operacionais, simplificando o gerenciamento de recursos, acelerando a entrega do produto e aumentando a qualidade e a satisfação do cliente.
   Este curso discute como configurar e usar a fabricação de processos no Dynamics 365 for Finance and Operations.
-
 prerequisitesSection: |-
   Compreensão básica dos conceitos de ERP e CRM.
 outlineSection: |-
@@ -88,3 +87,4 @@ outlineSection: |-
 
 
   Os alunos terão concluído o curso.
+

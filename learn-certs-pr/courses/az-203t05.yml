@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Monitorar, solucionar problemas e otimizar soluções Azure
+title: Monitor, troubleshoot, and optimize Azure solutions
 metadata:
-  title: 'Curso AZ-203T05-A: Monitorar, diagnosticar problemas e otimizar soluções do Azure'
-  description: 'Curso AZ-203T05-A: Monitorar, diagnosticar problemas e otimizar soluções do Azure'
+  title: 'Course AZ-203T05-A: Monitor, troubleshoot, and optimize Azure solutions'
+  description: 'Course AZ-203T05-A: Monitor, troubleshoot, and optimize Azure solutions'
 uid: course.az-203t05
 courseNumber: 'AZ-203T05-A'
 hoursToComplete: 24
@@ -80,3 +80,4 @@ outlineSection: |-
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Compreender como o Cache do Azure para Redis funciona e como configurar e interagir com ele
   - Gerenciar CDNs do Azure
+

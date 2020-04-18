@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implantando a área de trabalho moderna
+title: Deploying the Modern Desktop
 metadata:
-  title: 'Curso MD-101T01-A: Implantando a área de trabalho moderna'
-  description: 'Curso MD-101T01-A: Implantando a área de trabalho moderna'
+  title: 'Course MD-101T01-A: Deploying the Modern Desktop'
+  description: 'Course MD-101T01-A: Deploying the Modern Desktop'
 uid: course.md-101t01
 courseNumber: 'MD-101T01-A'
 hoursToComplete: 48
@@ -31,6 +31,7 @@ summary: |-
   #### Perfil do público
   O Modern Desktop Administrator (MDA) implanta, configura, protege, gerencia e monitora dispositivos e aplicativos clientes em um ambiente corporativo. As responsabilidades incluem gerenciar identidade, acesso, políticas, atualizações e aplicativos. O MDA colabora com o M365 Enterprise Administrator para projetar e implementar uma estratégia de dispositivo que atenda às necessidades de negócios de uma organização moderna. O (MDA) deve estar familiarizado com as cargas de trabalho do M365 e deve ter fortes habilidades e experiência na implantação, configuração e manutenção de dispositivos Windows 10 e não Windows. A função MDA se concentra nos serviços em nuvem, e não nas tecnologias de gerenciamento local.
 prerequisitesSection: |-
+  O
   O Modern Desktop Administrator (MDA) deve estar familiarizado com as cargas de trabalho do M365 e deve ter
   fortes habilidades e experiência em implantar, configurar e manter o Windows
   10 e dispositivos não Windows. A função MDA se concentra nos serviços em nuvem,
@@ -44,7 +45,7 @@ outlineSection: |-
   - Considerações para implantação do Windows 10
 
 
-  #### Laboratório&#58; Laboratório prático - Planejando a implantação do Windows 10
+  #### Laboratório &#58; Laboratório prático - Planejando a implantação do Windows 10
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever o Windows como um serviço.
   - Descrever os diferentes métodos para implantação.
@@ -62,7 +63,7 @@ outlineSection: |-
   - Atualizando dispositivos para o Windows 10
 
 
-  #### Laboratório&#58; Laboratório de Práticas - Implementando o Windows 10
+  #### Laboratório &#58; Laboratório de Práticas - Implementando o Windows 10
   - Criando e implantando pacote de provisionamento
   - Migrar configurações do usuário
   - Implantando o Windows 10 com o AutoPilot
@@ -70,10 +71,10 @@ outlineSection: |-
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Desenvolver uma estratégia de implantação e atualização do sistema operacional
-  - Compreender os diferentes métodos de implantação.
-  - Entender em quais cenários as soluções locais e baseadas na nuvem podem ser usadas para.
+  - Compreender os diferentes métodos de implantação
+  - Entender em quais cenários as soluções locais e baseadas na nuvem podem ser usadas para
   - Implantar e migrar áreas de trabalho para o Windows 10.
-  - Planejar e configurar políticas do Windows Update.
+  - Planejar e configurar políticas do Windows Update
 
 
   ### Módulo 3&#58; Gerenciando atualizações para Windows 10
@@ -84,7 +85,7 @@ outlineSection: |-
   Introdução ao Windows Analytics
 
 
-  #### Laboratório&#58; Laboratório de Práticas - Gerenciando atualizações para Windows 10
+  #### Laboratório &#58; Laboratório de Práticas - Gerenciando atualizações para Windows 10
   - Definindo manualmente as configurações de atualização do Windows
   - Configurando a atualização do Windows usando GPOs
 
@@ -101,9 +102,10 @@ outlineSection: |-
   - Exame Final
 
 
-  #### Laboratório&#58; Graded Lab
+  #### Laboratório &#58; Graded Lab
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Criar um pacote de provisionamento.
   - Configurar uma implantação do piloto automático.
   - Descrever as ferramentas usadas para o planejamento de atualizações e migrações.
   - Descrever os métodos usados ​​para migrar dados do usuário.
+

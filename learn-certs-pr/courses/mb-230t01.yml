@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Dynamics 365 for customer engagement for customer service
 metadata:
-  title: 'Curso MB-230T01-A: Dynamics 365 for customer engagement for customer service'
-  description: 'Curso MB-230T01-A: Dynamics 365 for customer engagement for customer service'
+  title: 'Course MB-230T01-A: Dynamics 365 for customer engagement for customer service'
+  description: 'Course MB-230T01-A: Dynamics 365 for customer engagement for customer service'
 uid: course.mb-230t01
 courseNumber: 'MB-230T01-A'
 hoursToComplete: 24
@@ -48,7 +48,7 @@ outlineSection: |-
   - Lição 6&#58; Resumo do módulo
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Instalar e configurar o aplicativo de atendimento ao cliente
+  Instalar e configurar o aplicativo de atendimento ao cliente
   Identificar cenários comuns de atendimento ao cliente
 
 
@@ -91,3 +91,4 @@ outlineSection: |-
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Criar e gerenciar conteúdo de conhecimento
+

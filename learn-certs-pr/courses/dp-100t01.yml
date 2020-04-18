@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Criação e implementação de uma solução Data Science no Azure
+title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: 'Curso DP-100T01-A: Criação e implementação de uma solução Data Science no Azure'
-  description: 'Curso DP-100T01-A: Criação e implementação de uma solução Data Science no Azure'
+  title: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
+  description: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -26,7 +26,7 @@ summary: |-
   Este curso destina-se a data scientists e pessoas com responsabilidades administrativas no treinamento e na implementação de modelos de aprendizado de máquina.
 prerequisitesSection: |-
   Antes de participar deste curso, os estudantes devem&#58;
-  - Obter a [certificação do Azure Fundamentals](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
+  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
   - Ter compreensão da ciência de dados, incluindo como preparar dados, treinar modelos e avaliar modelos concorrentes para selecionar o melhor.
   - Ter noções de programação na linguagem de programação Python e como usar as bibliotecas do Python&#58; pandas, scikit-learn, matplotlib e seaborn.
 outlineSection: |-
@@ -56,3 +56,4 @@ outlineSection: |-
   Neste módulo, o estudante aprenderá a gerenciar e monitorar automaticamente os modelos de aprendizado de máquina no serviço AML.
   #### Lições
   - Gerenciamento e monitoração de modelos de aprendizado de máquina
+

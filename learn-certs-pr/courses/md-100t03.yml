@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Protegendo o Windows 10
+title: Protecting Windows 10
 metadata:
-  title: 'Curso MD-100T03-A: Protegendo o Windows 10'
-  description: 'Curso MD-100T03-A: Protegendo o Windows 10'
+  title: 'Course MD-100T03-A: Protecting Windows 10'
+  description: 'Course MD-100T03-A: Protecting Windows 10'
 uid: course.md-100t03
 courseNumber: 'MD-100T03-A'
 hoursToComplete: 24
@@ -61,7 +61,7 @@ outlineSection: |-
   - Gerenciar segurança com políticas
 
 
-  #### Laboratório&#58; Configurando e gerenciando permissões e compartilhamentos
+  #### Laboratório &#58; Configurando e gerenciando permissões e compartilhamentos
   - Criando, gerenciando e compartilhando uma pasta
   - Usando condições para controlar o acesso e permissões efetivas
 
@@ -82,7 +82,7 @@ outlineSection: |-
   - Métodos avançados de proteção
 
 
-  #### Laboratório&#58; Laboratório de Prática&#58; Gerenciando a segurança de rede
+  #### Laboratório &#58; Laboratório de Prática; Gerenciando a segurança de rede
   - Criando e testando regras de entrada
   - Criando e testando regras de saída
   - Criando e testando regras de Segurança de Conexão
@@ -90,7 +90,7 @@ outlineSection: |-
 
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Identificar ameaças de segurança comuns
+  - Identificar ameaças de segurança comuns.
   - Descrever os métodos pelos quais você pode mitigar essas ameaças de segurança comuns.
   - Descrever os diferentes métodos de criptografia.
   - Descrever como o firewall do Windows pode proteger o dispositivo.
@@ -104,4 +104,5 @@ outlineSection: |-
   - Exame Final
 
 
-  #### Laboratório&#58; Graded Lab
+  #### Laboratório &#58; Graded Lab
+

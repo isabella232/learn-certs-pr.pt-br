@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Conectar e consumir serviços Azure e serviços de terceiros
+title: Connect to and consume Azure and third-party services
 metadata:
-  title: 'Curso AZ-203T06-A: Conectar e consumir serviços Azure e serviços de terceiros'
-  description: 'Curso AZ-203T06-A: Conectar e consumir serviços Azure e serviços de terceiros'
+  title: 'Course AZ-203T06-A: Connect to and consume Azure and third-party services'
+  description: 'Course AZ-203T06-A: Connect to and consume Azure and third-party services'
 uid: course.az-203t06
 courseNumber: 'AZ-203T06-A'
 hoursToComplete: 24
@@ -35,10 +35,10 @@ summary: |-
   - Os estudantes devem ter 1-2 anos de experiência como desenvolvedor. Este curso pressupõe que os alunos saibam codificar e tenham conhecimento básico do Azure.
   - É recomendável que os estudantes tenham alguma experiência no PowerShell ou CLI do Azure ou experiência profissional no portal do Azure e pelo menos em uma linguagem de programação suportada pelo Azure. A maioria dos exemplos deste curso é apresentada em C# .NET.
 prerequisitesSection: |-
- - Os estudantes devem ter 1-2 anos de experiência como desenvolvedor. Este
+  - Os estudantes devem ter 1-2 anos de experiência como desenvolvedor. Este
   curso pressupõe que os alunos saibam codificar e tenham conhecimento básico
   do Azure.
- - Recomenda-se que os alunos tenham alguma experiência
+  - Recomenda-se que os alunos tenham alguma experiência
   no PowerShell ou CLI do Azure, experiência profissional no portal do Azure e pelo menos
   em uma linguagem de programação suportada pelo Azure. A maioria dos exemplos deste curso
   é apresentada em C# .NET.
@@ -95,3 +95,4 @@ outlineSection: |-
 
   Depois de concluir este módulo, os estudantes estarão aptos a&#58;
   - Compreender como utilizar os serviços baseados em mensagens do Azure em suas soluções
+

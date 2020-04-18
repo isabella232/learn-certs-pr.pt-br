@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Implementar uma Solução de Dados Azure
+title: Implementing an Azure Data Solution
 metadata:
-  title: 'Curso DP-200T01-A: Implementando uma solução de dados do Azure'
-  description: 'Curso DP-200T01-A: Implementando uma solução de dados do Azure'
+  title: 'Course DP-200T01-A: Implementing an Azure Data Solution'
+  description: 'Course DP-200T01-A: Implementing an Azure Data Solution'
 uid: course.dp-200t01
 courseNumber: 'DP-200T01-A'
 hoursToComplete: 72
@@ -37,7 +37,7 @@ summary: |-
   Este curso destina-se principalmente a profissionais e arquitetos de dados e profissionais de Business Intelligence que desejam aprender sobre as tecnologias de plataforma de dados existentes no Microsoft Azure. Este curso também se destina desenvolvedores de aplicativos que fornecem conteúdo da plataforma de dados de tecnologias existentes no Microsoft Azure.
 prerequisitesSection: |-
   Além de sua experiência profissional, os estudantes que participam desse treinamento devem ter conhecimento técnico equivalente aos seguintes cursos&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https://docs.microsoft.com/pt-br/learn/modules/welcome-to-azure/)
 outlineSection: |-
   ### Módulo 1&#58; Azure para engenheiros de dados
   Este módulo aborda como o mundo dos dados evoluiu e como as tecnologias da plataforma de dados em nuvem estão oferecendo novas oportunidades para as empresas explorarem seus dados de maneiras diferentes. Os estudantes terão uma visão geral das várias tecnologias de plataforma de dados disponíveis e como a função e as responsabilidades de um engenheiro de dados evoluíram para trabalhar neste novo mundo em benefício de uma organização.
@@ -48,7 +48,7 @@ outlineSection: |-
   - Descrever os casos de uso da nuvem em um estudo de caso
 
 
-  #### Laboratório&#58; Azure para engenheiros de dados
+  #### Laboratório &#58; Azure para engenheiros de dados
   - Identificar o mundo de dados em evolução
   - Determinar os serviços da plataforma de dados do Azure
   - Identificar as tarefas realizadas por um engenheiro de dados
@@ -70,7 +70,7 @@ outlineSection: |-
   - Carregamento de dados no Azure Data Lake
 
 
-  #### Laboratório&#58; Trabalhando com armazenamento de dados
+  #### Laboratório &#58; Trabalhando com armazenamento de dados
   - Escolha de uma abordagem de armazenamento de dados no Azure
   - Criação de uma conta de armazenamento
   - Descrição do Data Lake Storage
@@ -92,7 +92,7 @@ outlineSection: |-
   - Realizar transformações com o Azure Databricks
 
 
-  #### Laboratório&#58; Possibilitando a ciência de dados em equipe com o Azure Databricks
+  #### Laboratório &#58; Possibilitando a ciência de dados em equipe com o Azure Databricks
   - Descrição do Azure Databricks
   - Trabalhando com o Azure Databricks
   - Leitura de dados com Azure Databricks
@@ -114,7 +114,7 @@ outlineSection: |-
   - Distribuir dados globalmente com o Azure Cosmos DB
 
 
-  #### Laboratório&#58; Criação de bancos de dados distribuídos a nível global com o Cosmos DB
+  #### Laboratório &#58; Criação de bancos de dados distribuídos a nível global com o Cosmos DB
   - Criar um Azure Cosmos DB
   - Inserir e consultar dados no Azure Cosmos DB
   - Criar um aplicativo .Net Core para Azure Cosmos DB com VS Code
@@ -136,7 +136,7 @@ outlineSection: |-
   - Uso do PolyBase para carregar dados no Azure SQL Data Warehouse
 
 
-  #### Laboratório&#58; Trabalhando com armazenamentos de dados relacionais na nuvem
+  #### Laboratório &#58; Trabalhando com armazenamentos de dados relacionais na nuvem
   - Uso do banco de dados SQL do Azure
   - Descrição do Azure SQL Data Warehouse
   - Criação e consulta do Azure SQL Data Warehouse
@@ -157,7 +157,7 @@ outlineSection: |-
   - Processamento de dados com tarefas do Stream Analytics
 
 
-  #### Laboratório&#58; Execução de análises em tempo real com o Stream Analytics
+  #### Laboratório &#58; Execução de análises em tempo real com o Stream Analytics
   - Descrever fluxos de dados e processamento de eventos
   - Ingestão de dados com hubs de eventos
   - Processamento de dados com tarefas do Stream Analytics
@@ -176,7 +176,7 @@ outlineSection: |-
   - Azure Data Factory e Databricks
 
 
-  #### Laboratório&#58; Orquestração da movimentação de dados com o Azure Data Factory
+  #### Laboratório &#58; Orquestração da movimentação de dados com o Azure Data Factory
   - Descrição do funcionamento do Data Factory
   - Componentes do Azure Data Factory
   - Azure Data Factory e Databricks
@@ -197,7 +197,7 @@ outlineSection: |-
   - Proteção de dados de streaming
 
 
-  #### Laboratório&#58; Proteção da plataforma de dados do Azure
+  #### Laboratório &#58; Proteção da plataforma de dados do Azure
   - Introdução à segurança
   - Principais componentes de segurança
   - Proteção de contas de armazenamento e Data Lake Storage
@@ -221,7 +221,7 @@ outlineSection: |-
   - Gerenciamento da recuperação de desastres
 
 
-  #### Laboratório&#58; Monitoramento e diagnóstico problemas de armazenamento e processamento de dados
+  #### Laboratório &#58; Monitoramento e diagnóstico problemas de armazenamento e processamento de dados
   - Explicar os recursos de monitoramento disponíveis
   - Diagnóstico de problemas comuns de armazenamento de dados
   - Diagnóstico de problemas comuns de processamento de dados
@@ -232,3 +232,4 @@ outlineSection: |-
   - Diagnóstico de problemas comuns de armazenamento de dados
   - Diagnóstico de problemas comuns de processamento de dados
   - Gerenciamento da recuperação de desastres
+
