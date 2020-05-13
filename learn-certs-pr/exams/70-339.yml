@@ -6,14 +6,17 @@ metadata:
 uid: exam.70-339
 displayName: 70-339
 summary: |-
-  <div style='color&#58; red;'>Este exame é retirado em terça-feira, 30 de junho de 2020. Um exame de substituição pode estar disponível. Para saber mais, visite nosso blog&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> e revise nossas postagens de aposentadoria de exames. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão<br/><br/></div>
-  
-  O curso destina-se a profissionais de TI experientes que estão interessados em aprender a instalar, configurar, implementar e gerenciar as instalações do SharePoint 2016 em um data center ou na nuvem. Os estudantes geralmente têm mais de quatro de experiência prática* no planejamento e manutenção do SharePoint e em outras tecnologias básicas das quais o SharePoint depende, incluindo Windows Server 2008 R2 ou posterior, Internet Information Services (IIS), Microsoft SQL Server 2008 ou posterior, Active Directory Domain Services (AD DS) e serviços de infraestrutura de rede.
+  <div>
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
+  </div>
+
+  O curso destina-se a profissionais de TI experientes que estão interessados em aprender a instalar, configurar, implementar e gerenciar as instalações do SharePoint 2016 em um data center ou na nuvem. Os candidatos geralmente têm mais de quatro anos de experiência em planejamento e manutenção do SharePoint e de outras tecnologias principais das quais o SharePoint depende, incluindo Windows Server 2008 R2 ou posterior, IIS (Internet Information Services), SQL Server 2008 R2 ou posterior, Active Directory e serviços de infraestrutura de rede.
 
   Os candidatos também devem ter experiência em gerenciamento da continuidade dos negócios, incluindo backup de dados, restauração e alta disponibilidade, além de experiência em tecnologias de autenticação e segurança. Experiência com PowerShell é altamente apreciada.
 
   O público-alvo secundário deste exame são os BAAs (Administradores de Aplicativos de Negócios) que estão ativamente envolvidos na administração de projetos de linha de negócios (LOB), juntamente com clientes internos da empresa que trabalham com o SharePoint 2016.
-subTitle: O curso destina-se a profissionais de TI experientes que estão interessados em aprender a instalar, configurar, implementar e gerenciar as instalações do SharePoint 2016 em um data center ou na nuvem. Os estudantes geralmente têm mais de quatro de experiência prática* no planejamento e manutenção do SharePoint e em outras tecnologias básicas das quais o SharePoint depende, incluindo Windows Server 2008 R2 ou posterior, Internet Information Services (IIS), Microsoft SQL Server 2008 ou posterior, Active Directory Domain Services (AD DS) e serviços de infraestrutura de rede.
+subTitle: O curso destina-se a profissionais de TI experientes que estão interessados em aprender a instalar, configurar, implementar e gerenciar as instalações do SharePoint 2016 em um data center ou na nuvem. Os candidatos geralmente têm mais de quatro anos de experiência em planejamento e manutenção do SharePoint e de outras tecnologias principais das quais o SharePoint depende, incluindo Windows Server 2008 R2 ou posterior, IIS (Internet Information Services), SQL Server 2008 R2 ou posterior, Active Directory e serviços de infraestrutura de rede.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
 practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,17 +30,18 @@ locales:
 - de
 - ja
 - pt-br
-levels: 
+levels:
 - intermediate
 skills:
-- 'Observação: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
+- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - Desenvolver uma infraestrutura de SharePoint (15-20%)
-- Identidade e segurança de projeto (15-20%)
+- Planejar autenticação e segurança (15-20%)
 - Planejar otimização de carga de trabalho (15-20%)
-- Planejar otimização de carga de trabalho (15-20%)
-- Gerenciar ordens de serviço (10-15%)
-- Planejar e configurar serviços de nuvem (5% - 10%)
+- Planejar soluções de produtividade (15-20%)
+- Gerenciar recursos de pesquisa (10-15%)
+- Planejar e configurar serviços de nuvem (5-10%)
 - Monitorar e otimizar um ambiente do SharePoint (10-15%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
@@ -53,11 +57,12 @@ resources:
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
 - title: Painel de certificação
-  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Políticas de exame e perguntas frequentes
-  description: Reveja as políticas do exame e as perguntas frequentes.
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md
+

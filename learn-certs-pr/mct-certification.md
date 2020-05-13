@@ -29,11 +29,11 @@ Além disso, você terá acesso à [MCT Central](https://www.microsoft.com/en-us
 
 [Conheça todos os benefícios disponíveis aos MCTs.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-## <a name="mctinfoheading-3"></a> Requisitos
+## Requisitos
 
 O programa MCT destina-se a educadores em todo o mundo que oferecem ativamente treinamento nas tecnologias Microsoft. Se você possui uma certificação de qualificação ou qualificação e adora oferecer treinamentos nas tecnologias Microsoft, nós o encorajamos a se inscrever.
 
-Para obter informações detalhadas sobre os requisitos do programa MCT, leia o Guia do Programa MCT e o Acordo do Programa MCT na seção [Processo de inscrição](#mctinfoheading-4) desta página.
+Para obter informações detalhadas sobre os requisitos do programa MCT, leia o Guia do Programa MCT e o Acordo do Programa MCT na seção [Processo de inscrição](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) desta página.
 
 
 ### Requisitos para inscrição no Programa MCT
@@ -100,15 +100,15 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
 - [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
 - [Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
-- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): Relatório de BI (Aposentando em 30 de junho de 2020), Microsoft Dynamics 365 for Operations (Aposentando em 30 de junho de 2020), SQL 2016 Desenvolvimento de BI (Aposentando em 30 de junho de 2020), SQL 2016 Database Administration (Aposentando em 30 de junho de 2020), SQL 2016 Database Development (Aposentando em 30 de junho de 30, 2020), SQL Server 2012/2014 (Aposentando em 30 de junho de 2020), Universal Windows Platform (Aposentando em 30 de junho de 2020), Web Applications (Aposentando em 30 de junho de 2020), Windows Server 2012 (Aposentando em 30 de junho de 2020), ou Windows Server 2016 (Aposentando em 30 de junho de 2020)
-- [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Aplicações de Negócios (Aposentando em 30 de junho de 2020), Gestão de Dados e Análise (Aposentando em 30 de junho de 2020), Produtividade (Aposentando em 30 de junho de 2020), ou Infraestrutura Central (Aposentando em 30 de junho de 2020)
-- [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): Desenvolvedor de Aplicações (Aposentando em 30 de junho de 2020)
+- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): Relatório de BI (Aposentando em 31 de janeiro de 2021), Microsoft Dynamics 365 for Operations (Aposentando em 31 de janeiro de 2021), SQL 2016 Desenvolvimento de BI (Aposentando em 31 de janeiro de 2021), SQL 2016 Database Administration (Aposentando em 31 de janeiro de 2021), SQL 2016 Database Development (Aposentando em 31 de janeiro de 2021), SQL Server 2012/2014 (Aposentando em 31 de janeiro de 2021), Universal Windows Platform (Aposentando em 31 de janeiro de 2021), Web Applications (Aposentando em 31 de janeiro de 2021), Windows Server 2012 (Aposentando em 31 de janeiro de 2021), ou Windows Server 2016 (Aposentando em 31 de janeiro de 2021)
+- [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Aplicações de Negócios (Aposentando em domingo, 31 de janeiro de 2021), Gestão de Dados e Análise (Aposentando em domingo, 31 de janeiro de 2021), Produtividade (Aposentando em domingo, 31 de janeiro de 2021), ou Infraestrutura Central (Aposentando em domingo, 31 de janeiro de 2021)
+- [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): Desenvolvedor de Aplicações (Aposentando em domingo, 31 de janeiro de 2021)
 - Dynamics CRM Dynamics Technical (Fim de carreira em 31 de dezembro de 2019) - [Compreenda os requisitos associados a cada qualificação e certificação do Microsoft Dynamics](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm).
 - [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Microsoft Office Specialist: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019) ou [Microsoft Office Specialist: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
  
 **Observação** As Certificações Microsoft e as qualificações exigidas para o programa MCT estão sujeitas à alteração. Todas as novas certificações baseadas em função podem ser qualificáveis para o Programa MCT uma vez que sejam emitidas. As certificações descontinuadas serão para o programa MCT serão qualificáveis até 6 meses após a data da retirada. [Saiba mais sobre a descontinuação de certificações](https://www.microsoft.com/learning/retired-certifications.aspx).
 
-## <a name="mctinfoheading-4"></a> Processo de inscrição
+## Processo de inscrição
 
 Se estiver interessado em tornar-se um MCT, consulte o Guia do Programa MCT e o Acordo do Programa MCT para entender os termos da associação.
 
@@ -186,7 +186,7 @@ Os MCT Alumni podem reinscrever-se no programa MCT quando retornarem ao treiname
 
 Para retornar como MCT:
 
-- **Certifique-se de atender aos requisitos do programa MCT** descritos na seção [Requisitos](#mctinfoheading-3) desta página. Verifique o histórico das Certificações Microsoft e qualificações atuais elegíveis para o programa MCT.
+- **Certifique-se de atender aos requisitos do programa MCT** descritos na seção [Requisitos](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) desta página. Verifique o histórico das Certificações Microsoft e qualificações atuais elegíveis para o programa MCT.
 - **Inscreva-se no programa MCT.** O MCT Alumni pode oferecer prova da certificação das habilidades de instrução obtida para dar suporte à inscrição anterior ao programa MCT ou podem enviar uma referência validando pelo menos um ano de experiência instrucional. Essa referência pode ser um ex-cliente, gerente ou colega.
 
 ## Taxas do programa MCT e MCT Alumni

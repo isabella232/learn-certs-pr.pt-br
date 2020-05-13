@@ -1,19 +1,22 @@
 ### YamlMime:Certification
-title: Microsoft 365 Certified Fundamentals
+title: 'Microsoft 365 Certified: Fundamentals'
 metadata:
-  title: Microsoft 365 Certified Fundamentals
-  description: Prove que você entende as opções disponíveis no Microsoft 365 e os benefícios da adoção de serviços de nuvem, o modelo de nuvem de Software como Serviço (SaaS) e a implementação do serviço de nuvem do Microsoft 365.
+  title: 'Microsoft 365 Certified: Fundamentals'
+  description: 'Prove que você entende as opções disponíveis no Microsoft 365 e os benefícios da adoção de serviços de nuvem, o modelo de nuvem de Software as a Service (SaaS) (Software como Serviço (SaaS)) e a implementação do serviço de nuvem do Microsoft 365.'
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Prove que você entende as opções disponíveis no Microsoft 365 e os benefícios da adoção de serviços de nuvem, o modelo de nuvem de Software como Serviço (SaaS) e a implementação do serviço de nuvem do Microsoft 365.
-subTitle: Prove que você entende as opções disponíveis no Microsoft 365 e os benefícios da adoção de serviços de nuvem, o modelo de nuvem de Software como Serviço (SaaS) e a implementação do serviço de nuvem do Microsoft 365.
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  Prove que você entende as opções disponíveis no Microsoft 365 e os benefícios da adoção de serviços de nuvem, o modelo de nuvem de Software as a Service (SaaS) (Software como Serviço (SaaS)) e a implementação do serviço de nuvem do Microsoft 365.
+subTitle: Prove que você entende as opções disponíveis no Microsoft 365 e os benefícios da adoção de serviços de nuvem, o modelo de nuvem de Software as a Service (SaaS) (Software como Serviço (SaaS)) e a implementação do serviço de nuvem do Microsoft 365.
 levels:
 - beginner
 skills:
-- Entender os conceitos de nuvem
-- Compreender os principais serviços e conceitos do Microsoft 365
-- Entender a segurança, conformidade, privacidade e confiança no Microsoft 365
-- Compreender os preços e suporte do Microsoft 365
+- Descrever os conceitos de nuvem
+- Descrever os serviços e conceitos básicos do Microsoft 365
+- Descrever a segurança, conformidade, privacidade e confiança no Microsoft 365
+- Descrever os preços e suporte do Microsoft 365
 roles:
 - business-user
 - administrator
@@ -30,21 +33,22 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRK
 exams:
 - uid: exam.ms-900
 resources:
-- title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Microsoft 365 Certified Fundamentals.'
+- title: Certificação Caminho de Aprendizagem
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetir Exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
 - title: Suporte para certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

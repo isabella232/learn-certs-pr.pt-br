@@ -1,11 +1,24 @@
 ### YamlMime:Course
-title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 metadata:
-  title: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Expert'
-  description: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect Expert'
+  title: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+  description: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 uid: course.mb-700t00
 courseNumber: 'MB-700T00-A'
-hoursToComplete: 120
+hoursToComplete: 72
+skillsGained:
+- skill: Defina as áreas de habilidades para a função de arquiteto de soluções
+- skill: Descreva as recomendações de instâncias e modelos de implantação da Microsoft
+- skill: Compreenda a solução em nuvem, CDM e CDS
+- skill: Obtenha mais informações sobre Licenciamento, AppSource e Suporte para Dynamics 365
+- skill: Use os serviços de ciclo de vida como arquiteto de soluções
+- skill: Conheça as considerações para planejamento da solução Dynamics 365
+- skill: Compreenda os conceitos e ferramentas usadas para gerenciamento de dados
+- skill: Explique as opções de Integração e eventos de Negócios em soluções
+- skill: Conheça as opções disponíveis sobre soluções de localização, conformidade e geração de relatórios
+- skill: Realize conversas arquitetônicas sobre extensibilidade, segurança e desempenho
+- skill: Saiba o que é gerenciamento de ciclo de vida de aplicativos ALM
+- skill: Identifique oportunidades para testes automatizados usando o RSAT
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -18,4 +31,44 @@ products:
 - dynamics
 exams:
 - uid: exam.mb-700
-summary: ""
+summary: |-
+  Este curso foi desenvolvido para aqueles que desejam iniciar na função de arquiteto de soluções. Este curso oferece as informações técnicas com ênfase na arquitetura de aplicativos e habilidades técnicas para iniciar sua jornada nessa função. Este curso não cobre as habilidades industriais e de entrega necessárias para esta função.
+
+  #### Perfil do público
+
+  Os participantes do curso deve ter experiência anterior com ênfase funcional ou técnica nos aplicativos Dynamics 365&#58; Finance and Operations. O curso destina-se principalmente aos iniciantes que aspiram a carreira de arquiteto de soluções. 
+prerequisitesSection: |-
+  Você deve concluir o caminho de aprendizado para arquitetos de soluções&#58; [aqui](https&#58;//docs.microsoft.com/learn/browse/?roles=solution-architect&products=dynamics-finance-operations)
+outlineSection: |-
+  ### Módulo 1&#58; Introdução
+
+  ### Módulo 2&#58; A função do arquiteto
+
+  ### Módulo 3&#58; Modelos de ambiente, instâncias e implementação
+
+  ### Módulo 4&#58; Solução em nuvem, CDM e CDS
+
+  ### Módulo 5&#58; Licenciamento, AppSource e suporte
+
+  ### Módulo 6&#58; Serviços de ciclo de vida 
+
+  ### Módulo 7&#58; Planejamento de soluções Dynamics 365
+
+  ### Módulo 8&#58; Gerenciamento de dados
+
+  ### Módulo 9&#58; Eventos de integração e negócios
+
+  ### Módulo 10&#58; Localização, conformidade e relatórios
+
+  ### Módulo 11&#58; Extensibilidade
+
+  ### Módulo 12&#58; Segurança
+
+  ### Módulo 13&#58; Desempenho
+
+  ### Módulo 14&#58; Gerenciamento do ciclo de vida do aplicativo 
+
+  ### Módulo 15&#58; Teste automatizado e RSAT
+
+  ### Módulo 16&#58; Áreas adicionais para arquitetos
+

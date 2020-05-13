@@ -6,16 +6,18 @@ metadata:
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
   Os Azure administradores implementam, monitoram e mantêm soluções da Microsoft Azure, incluindo os principais serviços relacionados a computação, armazenamento, rede e segurança.
 subTitle: Os Azure administradores implementam, monitoram e mantêm soluções da Microsoft Azure, incluindo os principais serviços relacionados a computação, armazenamento, rede e segurança.
 levels:
 - intermediate
 skills:
-- Gerenciar assinaturas e recursos do Azure
+- Identidades e governança do Manage Azure
 - Implementar e gerenciar armazenamento
-- Implementar e gerenciar máquinas virtuais (VMs)
+- Implantar e gerenciar recursos de computação do Azure
 - Configurar e gerenciar redes virtuais
-- Gerenciar identidades
+- Monitorar e fazer backup de recursos do Azure
 roles:
 - administrator
 type: role-based
@@ -27,7 +29,7 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
-- uid: course.az-103t00
+- uid: course.az-104t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure
 - uid: learn.architect-storage-infrastructure
@@ -42,7 +44,7 @@ paths:
 - uid: learn.administer-containers-in-azure
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
-- uid: exam.az-103
+- uid: exam.az-104
 resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
@@ -59,3 +61,4 @@ resources:
 - title: Painel de certificação
   description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

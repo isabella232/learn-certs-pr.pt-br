@@ -6,13 +6,15 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
   Os Analistas de Dados permitem que as empresas maximizem o valor de seus ativos de dados usando o Microsoft Power BI. Como especialista no assunto, os analistas de dados são responsáveis por projetar e construir modelos de dados escaláveis, limpar e transformar dados e habilitar recursos analíticos avançados que fornecem valor comercial significativo por meio de visualizações de dados fáceis de entender. Os analistas de dados também colaboram com as principais partes interessadas nas verticais para fornecer informações relevantes com base nos requisitos de negócios identificados.
   <br/>
 
   O analista de dados deve ter um entendimento fundamental dos repositórios de dados e do processamento de dados nas instalações e na nuvem.
 
-  <div style='color&#58; red;'><br/><strong>Observação&#58; Este exame beta não estará disponível até 2 de abril de 2020.</strong>  Esta informação não é final e pode haver pequenas alterações após o lançamento do exame.</div>
-subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: preparar os dados; modelar os dados; visualizar os dados; analisar os dados; e implantar e manter entregas.'
+  <div style='font-weight&#58; bold;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</div>
+subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: preparar os dados; modelar os dados; visualizar os dados; analisar os dados; e implantar e manter entregas. '
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
@@ -38,20 +40,21 @@ resources:
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Políticas de exame e perguntas frequentes
-  description: Reveja as políticas do exame e as perguntas frequentes.
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md
+

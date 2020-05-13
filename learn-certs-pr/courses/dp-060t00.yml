@@ -43,7 +43,6 @@ outlineSection: |-
   - Taxa de transferência de provisionamento
   - Práticas recomendadas de particionamento/fragmentação
 
-
   ### Módulo 2&#58; Migrar cargas de trabalho do MongoDB para o Cosmos DB
   Migrar cargas de trabalho do MongoDB para o Cosmos DB
   #### Lições
@@ -52,7 +51,6 @@ outlineSection: |-
   - Migração de dados
   - Migração de aplicativo
   - Considerações pós-migração
-
 
   #### Laboratório&#58; Migrar cargas de trabalho MongoDB ao Cosmos DB
   - Criar um projeto de migração
@@ -67,7 +65,6 @@ outlineSection: |-
   - Realizar a migração de aplicativos
   - Compreender as considerações pós-migração
 
-
   ### Módulo 3&#58; Migrar cargas de trabalho do Cassandra DB para o Cosmos DB
   Este módulo descreve as vantagens e o processo de migração de cargas de trabalho do Cassandra DB para o Cosmos DB.
   #### Lições
@@ -76,7 +73,6 @@ outlineSection: |-
   - Migração de dados
   - Migração de aplicativo
   - Considerações pós-migração
-
 
   #### Laboratório&#58; Migrar cargas de trabalho do Cassandra DB para o Cosmos DB
   - Exportar Schema
@@ -93,3 +89,4 @@ outlineSection: |-
 
   #### Leitura adicional
   Este curso não requer nenhuma literatura adicional.
+

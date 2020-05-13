@@ -6,10 +6,13 @@ metadata:
 uid: exam.70-334
 displayName: 70-334
 summary: |-
-  <div style='color&#58; red;'>Este exame é retirado em terça-feira, 30 de junho de 2020. Um exame de substituição pode estar disponível. Para saber mais, visite nosso blog&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> e revise nossas postagens de aposentadoria de exames. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão<br/><br/></div>
-  
-  Os candidatos a esse exame são consultores de TI e profissionais de consultoria em telecomunicações que projetam, planejam, implantam e mantêm soluções para Comunicações Unificadas (UC). Os candidatos devem ser capazes de converter requisitos de negócios em arquitetura técnica e design para uma solução de UC. Os candidatos devem ter no mínimo dois anos de experiência com tecnologias Skype for Business e estar familiarizados com cenários de migração suportados. Os candidatos devem dominar a implantação de soluções Skype for Business para usuários finais, dispositivos de pontos de extremidade, telefonia, áudio/vídeo e web conferências, segurança e alta disponibilidade. Os candidatos também devem saber monitorar e solucionar problemas no Skype for Business usando ferramentas Microsoft. Os estudantes devem ser especialistas em Active Directory Domain Services (AD DS), redes de dados e padrões e componentes de telecomunicações que suportem a configuração do Skype for Business. Os candidatos devem estar familiarizados com os requisitos de integração do Microsoft Exchange Server com o Skype for Business e o Office 365.
-subTitle: Os candidatos a esse exame são consultores de TI e profissionais de consultoria em telecomunicações que projetam, planejam, implantam e mantêm soluções para Comunicações Unificadas (UC). Os candidatos devem ser capazes de converter requisitos de negócios em arquitetura técnica e design para uma solução de UC. Os candidatos devem ter no mínimo dois anos de experiência com tecnologias Skype for Business e estar familiarizados com cenários de migração suportados. Os candidatos devem dominar a implantação de soluções Skype for Business para usuários finais, dispositivos de pontos de extremidade, telefonia, áudio/vídeo e web conferências, segurança e alta disponibilidade. Os candidatos também devem saber monitorar e solucionar problemas no Skype for Business usando ferramentas Microsoft. Os estudantes devem ser especialistas em Active Directory Domain Services (AD DS), redes de dados e padrões e componentes de telecomunicações que suportem a configuração do Skype for Business. Os candidatos devem estar familiarizados com os requisitos de integração do Microsoft Exchange Server com o Skype for Business e o Office 365.
+  <div>
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
+  </div>
+
+  Os candidatos a esse exame são consultores de TI e profissionais de consultoria em telecomunicações que projetam, planejam, implantam e mantêm soluções para Comunicações Unificadas (UC). Os candidatos devem ser capazes de converter requisitos de negócios em arquitetura técnica e design para uma solução de UC. Os candidatos devem ter no mínimo dois anos de experiência com tecnologias Skype for Business e estar familiarizados com cenários de migração suportados. Os candidatos devem dominar a implantação de soluções Skype for Business para usuários finais, dispositivos de pontos de extremidade, telefonia, áudio/vídeo e web conferências, segurança e alta disponibilidade. Os candidatos também devem saber monitorar e solucionar problemas no Skype for Business usando ferramentas Microsoft. Os estudantes devem ser especialistas em Active Directory Domain Services (AD DS), redes de dados e padrões e componentes de telecomunicações que suportem a configuração do Skype for Business. Os candidatos devem estar familiarizados com os requisitos de integração do Skype for Business com o Microsoft Exchange Server e o Office 365.
+subTitle: Os candidatos a esse exame são consultores de TI e profissionais de consultoria em telecomunicações que projetam, planejam, implantam e mantêm soluções para Comunicações Unificadas (UC). Os candidatos devem ser capazes de converter requisitos de negócios em arquitetura técnica e design para uma solução de UC. Os candidatos devem ter no mínimo dois anos de experiência com tecnologias Skype for Business e estar familiarizados com cenários de migração suportados. Os candidatos devem dominar a implantação de soluções Skype for Business para usuários finais, dispositivos de pontos de extremidade, telefonia, áudio/vídeo e web conferências, segurança e alta disponibilidade. Os candidatos também devem saber monitorar e solucionar problemas no Skype for Business usando ferramentas Microsoft. Os estudantes devem ser especialistas em Active Directory Domain Services (AD DS), redes de dados e padrões e componentes de telecomunicações que suportem a configuração do Skype for Business. Os candidatos devem estar familiarizados com os requisitos de integração do Skype for Business com o Microsoft Exchange Server e o Office 365.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBg
 practiceTestUrl: https://www.mindhub.com/70-334-Core-Solutions-of-Microsoft-Skype-for-Busi-p/mu-70-334_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -17,13 +20,14 @@ scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=3
 locales:
 - en
 - ja
-levels: 
+levels:
 - advanced
 skills:
 - 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - Configurar e gerenciar o OneDrive for Business (35-40%)
-- Gerenciar e solucionar problemas do Skype for Business (30-35%)
 - Implante e configure o Skype for Business (30-35%)
+- Gerenciar e solucionar problemas do Skype for Business (30-35%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
@@ -38,11 +42,12 @@ resources:
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
 - title: Painel de certificação
-  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Políticas de exame e perguntas frequentes
-  description: Reveja as políticas do exame e as perguntas frequentes.
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md
+

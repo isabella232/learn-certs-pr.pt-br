@@ -5,11 +5,15 @@ metadata:
   description: Os Solution Architects para aplicativos controlados por modelos do Microsoft Power Apps no Dynamics 365 lideram implementações bem-sucedidas e se concentram em como as soluções atendem às necessidades técnicas e de negócios mais abrangentes das organizações.
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: "Os Solution Architects para aplicativos controlados por modelos do Microsoft Power Apps no Dynamics 365 lideram implementações bem-sucedidas e se concentram em como as soluções atendem às necessidades técnicas e de negócios mais abrangentes das organizações.  \n\n<div style=\"color:red\"><br/><strong>OBSERVAÇÃO&#58; Esta certificação não estará disponível até 27 de janeiro de 2020</strong></div>"
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  
+  Os Solution Architects para aplicativos controlados por modelos do Microsoft Power Apps no Dynamics 365 lideram implementações bem-sucedidas e se concentram em como as soluções atendem às necessidades técnicas e de negócios mais abrangentes das organizações. 
 subTitle: Os Solution Architects para aplicativos controlados por modelos do Microsoft Power Apps no Dynamics 365 lideram implementações bem-sucedidas e se concentram em como as soluções atendem  às necessidades técnicas e de negócios mais abrangentes das organizações.
 levels:
 - advanced
 skills:
+- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - Executar Previsão de Solução e Análise de Requisitos
 - Arquitetura de uma solução
 - Implementar a solução
@@ -19,6 +23,13 @@ type: role-based
 products:
 - dynamics
 - power-apps
+courses:
+- uid: course.mb-600t00
+paths:
+- uid: learn-dynamics.become-solution-architect
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
+exams:
+- uid: exam.mb-600
 prerequisites:
 - uid: certification.power-apps-and-d365-developer-associate
   isOptional: false
@@ -30,22 +41,23 @@ prerequisites:
   isOptional: false
 - uid: certification.d365-functional-consultant-field-service
   isOptional: false
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p0
-exams:
-- uid: exam.mb-600
 resources:
+- title: Certificação Caminho de Aprendizagem
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetir exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Apoio às certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

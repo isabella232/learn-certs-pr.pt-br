@@ -11,11 +11,13 @@ ms.author: micsullivan
 ---
 # Ajuda sobre certificação e treinamento Microsoft
 
+<div style='color&#58; red;'><strong><font color="red"><br/>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>Saiba mais</a>.</font></strong><br/><br/></div>
+
 Tem dúvidas sobre os produtos de treinamento e certificação Microsoft? Visite [Microsoft Learn](/learn/certifications/) para encontrar as respostas para a maioria das perguntas sobre treinamento, certificação, exames, cursos oficiais da Microsoft (MOC) e muito mais.
 
 Ainda tem dúvidas? Consulte as opções de suporte abaixo.
 
-Observe que o tempo de resposta está demorando mais do que o esperado para clientes que procuram suporte para certificação e treinamento. Agradecemos sua paciência enquanto trabalhamos para resolver todas as dúvidas o mais rápido possível.
+***Observe que o tempo de resposta está demorando mais do que o esperado para clientes que procuram suporte para certificação e treinamento. Agradecemos sua paciência enquanto trabalhamos para resolver todas as dúvidas o mais rápido possível.***
 
 ## Ajuda da Certificação
 

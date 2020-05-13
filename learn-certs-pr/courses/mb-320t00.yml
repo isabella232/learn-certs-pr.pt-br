@@ -22,10 +22,10 @@ products:
 exams:
 - uid: exam.mb-320
 summary: |-
-  Este curso discute a manufatura no conjunto de aplicativos do Dynamics 365: manufatura discreta, manufatura enxuta e produção
+  Este curso discute a manufatura no conjunto de aplicativos do Dynamics 365&#58; manufatura discreta, manufatura enxuta e produção
 
   #### Perfil do público
-  Um Consultor Funcional do Dynamics 365 for Finance and Operations é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+  Um consultor funcional do Dynamics 365 Finance é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
 prerequisitesSection: |-
   - Habilidades básicas de fabricação
   - Habilidades principais do Dynamics 365
@@ -65,7 +65,7 @@ outlineSection: |-
   Conceitos de fabricação discretos
   - Estátuas do processo de produção
   - Fases de produção
-  lista de materiais (BOM)
+  - lista de materiais (BOM)
   - Recursos
   - Rotas e Operações
 
@@ -220,7 +220,7 @@ outlineSection: |-
   Neste módulo, discutimos os Kanbans de eventos e as diferentes maneiras de acioná-los.
   #### Lições
   - Introdução
-  Configurar regras Kanban de eventos
+  - Configurar regras Kanban de eventos
   - Configurar vendas, Kanban, reabastecimento de estoque e eventos de linha de BOM
   - Laboratórios práticos
   - Resumo do módulo
@@ -350,3 +350,4 @@ outlineSection: |-
   - Resumo do curso
 
   Você concluiu o curso
+
