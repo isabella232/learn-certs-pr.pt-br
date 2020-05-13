@@ -33,7 +33,7 @@ summary: |-
   A Microsoft Power Platform ajuda as organizações a otimizar suas operações automatizando tarefas rotineiras e padronizando as melhores práticas. Este treinamento fornece uma visão geral de alto nível dos recursos do Microsoft Dynamics 365 e da Power Platform e fornece uma base para outras ofertas de treinamento do Microsoft Dynamics 365 e Power Platform. Os tópicos de alto nível incluem configuração de aplicativos, oportunidades de automação, integração, teste e implantação.
 
   #### Perfil do público
-  Um consultor funcional do Dynamics 365 Customer Engagement é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+  Um consultor funcional do Dynamics 365 é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
 outlineSection: |-
   ### Módulo 1&#58; Visão geral da Plataforma Power
   Neste módulo, você aprenderá o básico da Power Platform.  Você percorrerá os vários portais e opções do administrador, além de instalar aplicativos.
@@ -232,3 +232,4 @@ outlineSection: |-
   Depois de completar este módulo, os Você estarão aptos a&#58;
   - Configurar para celular.
   - Implantar componentes.
+

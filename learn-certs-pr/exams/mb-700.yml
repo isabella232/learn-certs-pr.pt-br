@@ -6,13 +6,15 @@ metadata:
 uid: exam.mb-700
 displayName: MB-700
 summary: |-
-  Os Solution Architects para aplicativos de Finanças e Operações do Microsoft Dynamics 365 são consultores confiáveis que consultam organizações e membros da equipe de implementação para refinar as necessidades de negócios em uma solução bem definida e econômica..
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  Os Solution Architects para aplicativos de Finanças e Operações do Microsoft Dynamics 365 são consultores confiáveis que consultam organizações e membros da equipe de implementação para refinar as necessidades de negócios em uma solução bem definida e econômica.
 
   Um Solution Architect é responsável pela integridade e a entrega bem sucedida do projeto completo da solução. O arquiteto fornece orientações críticas durante o processo de pré-vendas e projeto e realiza consultas durante todo o restante do ciclo de vida do projeto para resolver questões que surgem ao longo da implementação.
 
-  O Solution Architect deve ter uma gama de conhecimento e experiência que abranjam as necessidades do negócio e funcionalidades do produto. O Solution Architect deve ter ampla experiência funcional e técnica, como um desenvolvedor ou consultor funcional em um dos seguintes aspectos: Finanças, Manufatura ou Gestão da Cadeia de Suprimentos. Além disso, têm amplo conhecimento de domínio em um ou mais setores de clientes.
-  
-  <div style='color&#58; red;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</div>
+  O Solution Architect deve ter uma gama de conhecimento e experiência que abranjam as necessidades do negócio e funcionalidades do produto. O Solution Architect deve ter ampla experiência funcional e técnica, como um desenvolvedor ou consultor funcional em um dos seguintes aspectos&#58; Finanças, Manufatura ou Gestão da Cadeia de Suprimentos. Além disso, têm amplo conhecimento de domínio em um ou mais setores de clientes.
+
+  <div style='font-weight&#58; bold;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</div>
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: identificar os requisitos de solução, projetar componentes de solução e definir testes de solução e estratégias de gestão.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
@@ -22,13 +24,15 @@ locales:
 levels:
 - advanced
 skills:
-- Identificar os requisitos da solução (30-35%)
-- Projetar os Componentes da Solução (40-45%)
+- Identificar os requisitos de solução (30-35%)
+- projetar componentes de solução (40-45%)
 - Definir Soluções de Testes e Estratégias de Gestão (25-30%)
 roles:
 - solution-architect
 products:
 - dynamics
+courses:
+- uid: course.mb-700t00
 paths:
 - uid: learn-dynamics.become-solution-architect
 relatedCertifications:
@@ -44,15 +48,16 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Políticas de exame e perguntas frequentes
-  description: Reveja as políticas do exame e as perguntas frequentes.
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md
+
