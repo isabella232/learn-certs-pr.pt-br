@@ -2,10 +2,13 @@
 title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate'
-  description: Os Consultores Funcionais do Microsoft Dynamics 365 para Marketing apresentam soluções que atraem e convertem clientes em potencial, criam reconhecimento de marca, padronizam o serviço omnicanal e fornecem insights de marketing.
+  description: 'Os Consultores Funcionais do Microsoft Dynamics 365 para Marketing apresentam soluções que atraem e convertem clientes em potencial, criam reconhecimento de marca, padronizam o serviço omnicanal e fornecem insights de marketing.'
 uid: certification.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Os Consultores Funcionais do Microsoft Dynamics 365 para Marketing apresentam soluções que atraem e convertem clientes em potencial, criam reconhecimento de marca, padronizam o serviço omnicanal e fornecem insights de marketing.
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  Os Consultores Funcionais do Microsoft Dynamics 365 para Marketing apresentam soluções que atraem e convertem clientes em potencial, criam reconhecimento de marca, padronizam o serviço omnicanal e fornecem insights de marketing.
 subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 para Marketing apresentam soluções que atraem e convertem clientes em potencial, criam reconhecimento de marca, padronizam o serviço omnicanal e fornecem insights de marketing.
 levels:
 - intermediate
@@ -13,15 +16,15 @@ skills:
 - Realizar descoberta, planejamento e análise
 - Gerenciar o projeto da experiência do usuário
 - Gerenciar entidades e dados
-- Implementar segurança
-- Implementar integração
-- Realizar a implementação e teste de soluções
+- Implementar a segurança
+- Implementar a integração
+- Executar a implementação e teste de soluções
 - Configurar aplicativos de marketing
 - Gerenciar segmentos e listas
 - Criar e gerenciar formulários e páginas de marketing
-- Gerenciar clientes potenciais
+- Gerenciar leads
 - Criar e gerenciar e-mails de marketing
-- Criar jornadas do cliente
+- Gerenciar jornadas de clientes
 - Gerenciar eventos e webinars
 - Configurar e analisar respostas do cliente
 roles:
@@ -47,21 +50,22 @@ exams:
 - uid: exam.mb-200
 - uid: exam.mb-220
 resources:
-- title: Caminhos de aprendizado de certificação
+- title: Certificação Caminho de Aprendizagem
   description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I7b
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetir Exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
 - title: Suporte para certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -7,6 +7,13 @@ uid: course.pl-900t00
 courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 'Descreva os componentes da Power Platform: Power Apps, Power BI e Microsoft Automate'
+- skill: 'Descreva os componentes da Power Platform: Common Data Service, Connectors e AI builder'
+- skill: Descrevas os cenários dos serviços M365, Dynamics 365, Microsoft Azure e de terceiros na nuvem
+- skill: Identifique as vantagens e os recursos da Power Platform
+- skill: Identifique as funcionalidades básicas e o valor comercial dos componentes da Power Platform
+- skill: Implemente soluções simples com o Microsoft Automate, Power BI e Power Apps
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -18,16 +25,20 @@ products:
 - power-platform
 exams:
 - uid: exam.pl-900
-summary: ""
+summary: |-
+  Conheça o valor comercial e os recursos da Power Platform. Crie um PowerApp simples, conecte dados ao CDS, crie um painel do Power BI e automatize um processo com o Microsoft Flow.
+
+  #### Perfil do público
+  Os candidatos a este exame são usuários que aspiram melhorar a produtividade automatizando processos de negócios, analisando dados para produzir insights de negócios e agindo de forma mais eficaz com a criação de experiências de aplicativo simples.
 prerequisitesSection: |-
   Nenhum pré-requisitos para este curso
 outlineSection: |-
   ### Módulo 1&#58; Introdução à Power Platform
   Aprenda sobre os componentes do Power Platform, maneiras de conectar dados e como as organizações pode alavancar esta tecnologia para
   #### Lições
-  - Visão Geral do Power Apps
+  - Visão Geral do Power Platform
   - Resumo do módulo
-  
+
   Aprenda os componentes e características do Power Platform
   - Identifique quando usar cada componente da aplicação do Power Platform para criar soluções de negócio
   - Aprenda o valor de usar a Power Platform para criar soluções de negócio
@@ -42,7 +53,7 @@ outlineSection: |-
   #### Laboratório &#58; Como desenvolver uma aplicação de tela básica 1
   - Crie aplicação de tela de pessoal
   - Complete a aplicação
-  
+
   #### Laboratório &#58; Como desenvolver uma aplicação de tela básica 2
   - Criação de aplicação de tela de segurança
 
@@ -62,7 +73,7 @@ outlineSection: |-
   - Criação de ambiente e solução
   - Criação de entidades e relacionamentos
   - Importação de dados
-  
+
   Explique quais ambientes, entidades, campos e relacionamentos estão em serviço de dados comuns
   - Descreva a diferença entre Serviço de Dados Comuns e Modelo de Dados Comuns
   - Explique casos de uso e limitações de regras de negócio e fluxos de processo
@@ -71,7 +82,7 @@ outlineSection: |-
   ### Módulo 4&#58; Inicie com Power Automate
   Aprenda como os usuários podem alavancar o Power Automate para aprimorar eficiência e produtividade de negócio.
   #### Lições
-  - Visão geral do Power Platform
+  - Visão geral do Power Automate
   - Como desenvolver uma solução automatizada
 
 
@@ -95,3 +106,4 @@ outlineSection: |-
   Descrição do valor de negócio e características do Power BI
   - Ver como o Power BI funciona e olhe a partir da perspectiva do usuário
   - Apenda como desenvolver um painel de Power BI simples
+

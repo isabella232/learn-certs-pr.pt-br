@@ -6,13 +6,15 @@ metadata:
 uid: exam.mb-600
 displayName: MB-600
 summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
   Os Solution Architects para aplicativos controlados por modelos do Microsoft Power Apps no Dynamics 365 lideram implementações bem-sucedidas e se concentram em como as soluções atendem às necessidades técnicas e de negócios mais abrangentes das organizações.
 
   O Solution Architect tem conhecimento funcional e técnico dos aplicativos controlados por modelos da Plataforma Power no Dynamics 365, como Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing e Dynamics 365 Sales, soluções em nuvem da Microsoft e tecnologias de terceiros. O Solution Architect aplica conhecimento e experiência durante o projeto como um todo. O Solution Architect realiza trabalho proativo e preventivo para aumentar o valor do investimento do cliente e promover a saúde organizacional. Essa função requer a capacidade de identificar oportunidades para resolver problemas de negócios.
 
   Os Solution Architects têm experiência em disciplinas funcionais e técnicas da Plataforma Power e aplicativos controlados por modelos no Dynamics 365. Os Solution Architects devem poder facilitar as decisões do projeto por meio do desenvolvimento, configuração, integração, infraestrutura, segurança, disponibilidade, armazenamento e gerência da mudança. Essa função equilibra as necessidades de negócios de um projeto, ao mesmo tempo em que atende aos requisitos funcionais e não funcionais.
-  
-  <div style='color&#58; red;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</div>
+
+  <div style='font-weight&#58; bold;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</div>
 subTitle: 'Esse exame mede a sua capacidade de realizar as seguintes tarefas técnicas: realizar a previsão de soluções e análise de requisitos; arquitetar uma solução; e implementar a solução.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
@@ -31,12 +33,17 @@ roles:
 products:
 - dynamics
 - power-apps
+courses:
+- uid: course.mb-600t00
 paths:
 - uid: learn-dynamics.become-solution-architect
 relatedCertifications:
 - related:
     uid: certification.power-apps-and-d365-solution-architect-expert
 resources:
+- title: Certificação Caminho de Aprendizagem
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -46,15 +53,16 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Políticas de exame e perguntas frequentes
-  description: Reveja as políticas do exame e as perguntas frequentes.
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md
+

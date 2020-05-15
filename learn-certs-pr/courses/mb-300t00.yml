@@ -36,14 +36,14 @@ exams:
 - uid: exam.mb-300
 summary: |-
   Este curso discute&#58;
-  - Principais recursos comuns do Dynamics 365 for Finance and Operations
-  - Configuração principal do Dynamics 365 for Finance and Operations
-  - Migração de dados e preparação para ativação com o Dynamics 365 for Finance and Operations
-  As organizações usam o Dynamics 365 for Finance and Operations para reduzir custos operacionais e responder rapidamente às mudanças nas necessidades de negócios. Essa solução permite que as organizações atinjam esses objetivos.
-  Este curso discute os principais componentes e a configuração do Microsoft Dynamics 365 for Finance and Operations, além da migração e preparação dos dados para a entrada em funcionamento.
+  - Principais recursos comuns do Dynamics 365 Finance
+  - Core configuration in Dynamics 365 Finance
+  - Migração de dados e preparação para ativação com o Dynamics 365 Finance
+  As organizações usam o Dynamics 365 Finance para reduzir custos operacionais e responder rapidamente às mudanças nas necessidades de negócios. Essa solução permite que as organizações atinjam esses objetivos.
+  Este curso discute os principais componentes e a configuração do Microsoft Dynamics 365 Finance, além da migração e preparação dos dados para a entrada em funcionamento.
 
   #### Perfil do público
-  Um Consultor Funcional do Dynamics 365 for Finance and Operations é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+  Um consultor funcional do Dynamics 365 Finance é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
 prerequisitesSection: |-
   Antes de participar deste curso, os estudantes devem&#58;
   - Conhecimento geral do Microsoft Windows
@@ -77,7 +77,7 @@ outlineSection: |-
 
   #### Lições
   - Entender a funcionalidade e as ferramentas dos serviços do Ciclo de Vida
-  - Reutilizar ativos existentes, copie, e compartilhe dados
+  - Reutilizar ativos existentes, copie e compartilhe dados
   - Compreender a funcionalidade do gravador de tarefas
   - Criar um modelo de processo de negócios
   - Executar a ferramenta LCS Issue Search e analise os resultados
@@ -265,7 +265,7 @@ outlineSection: |-
 
   #### Lições
   - Introdução
-  Compreender o gerenciamento e integração de dados
+  - Compreender o gerenciamento e integração de dados
   - Espaço de trabalho de gerenciamento de dados
   - Modelos no gerenciamento de dados
   - Importar, exportar e copiar dados para uma entidade legal
@@ -322,3 +322,4 @@ outlineSection: |-
   - Pesquisa pós-curso
 
   Os você terão concluído o curso.
+

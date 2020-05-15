@@ -6,31 +6,37 @@ metadata:
 uid: exam.mb-901
 displayName: MB-901
 summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 17 de abril. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
+  </div>
+
   Este exame cobrirá o posicionamento e os benefícios da adoção do Dynamics 365.
-  
+
   Os candidatos devem ter um entendimento funcional dos recursos do Dynamics 365 e da computação em nuvem da Microsoft.
 
   Os candidatos a este exame devem ter conhecimento geral ou experiência de trabalho relevante em um ambiente de tecnologia da informação (TI). Os candidatos também devem ter uma compreensão básica de cenários de negócios e experiência na abordagem de negócios, e as exigências legais de segurança para projetos de IT.
-subTitle: Este exame mede sua capacidade de entender o Microsoft Dynamics 365; inteligência artificial (IA); realidade mista (RM); a plataforma de energia; conceitos de nuvem; segurança na nuvem; segurança baseada em função no Dynamics 365; Serviço de Dados Comum; estrutura de gerenciamento de dados; Relatórios do Dynamics 365; Integrações do Dynamics 365; e implantação na nuvem.
+subTitle: Este exame mede sua capacidade de entender o Microsoft Dynamics 365; inteligência artificial; realidade mista; a plataforma de energia; conceitos de nuvem; segurança na nuvem; segurança baseada em função no Dynamics 365; Serviço de Dados Comum; estrutura de gerenciamento de dados; Relatórios do Dynamics 365; Integrações do Dynamics 365; e implantação na nuvem.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
 locales:
 - en
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
+- O conteúdo deste exame foi atualizado em 17 de abril. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.
 - Identificar os componentes da plataforma Microsoft para Dynamics 365 (30-35%)
-- Entender a IA e a realidade mista para o Dynamics 365 (10-15%)
-- Entender aplicativos orientados a modelo (25-30%)
-- Entender aplicativos Dynamics 365 Finance and Operations (25-30%)
+- Descrever a inteligência artificial e a realidade mista no Dynamics 365 (10-15%)
+- Descrever os aplicativos orientados a modelo (25-30%)
+- Descrever os aplicativos de finanças e operações (25-30%)
 roles:
 - functional-consultant
-products: 
+products:
 - dynamics
 courses:
 - uid: course.mb-901t00
@@ -40,8 +46,8 @@ relatedCertifications:
 - related:
     uid: certification.d365-fundamentals
 resources:
-- title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Dynamics 365 Fundamentals.'
+- title: Certificação Caminho de Aprendizagem
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Dynamics 365 Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
@@ -56,8 +62,9 @@ resources:
   description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre como solicitar um alojamento para o seu exame..
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de exames e perguntas frequentes
   description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md
+

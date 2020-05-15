@@ -6,11 +6,13 @@ metadata:
 uid: exam.az-303
 displayName: AZ-303
 summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
   Os candidatos a este exame são Azure Solution Architects que aconselham as partes interessadas ​e traduzem os requisitos de negócios em soluções seguras, escalonáveis e confiáveis. Os candidatos devem ter experiência e conhecimento avançados de TI, incluindo rede, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança. Essa função exige gerenciar como as decisões em cada área afetam uma solução geral.
-  
+
   Os candidatos devem ter habilidades de nível de especialista na administração do Azure e experiência nos processos de desenvolvimento do Azure e nos processos de DevOps.
-  
-  <div style='color&#58; red; font-weight&#58; bold;'><br/>Observação&#58; Este exame estará disponível por volta de terça-feira, 28 de abril de 2020.</div>
+
+  <div style='red; font-weight&#58; bold;'><br/>Observação&#58; Este exame estará disponível por volta de 29 de junho de 2020.</div>
 subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: implementar e monitorar uma infraestrutura do Azure; implementar soluções de gerenciamento e segurança; implementar soluções para aplicativos; e implementar e gerenciar plataformas de dados.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4psD6
@@ -33,7 +35,7 @@ relatedCertifications:
     uid: none
 resources:
 - title: Certificação Caminho de Aprendizagem
-  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Azure Solutions Architect Expert.'
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Solutions Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
@@ -44,15 +46,16 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Políticas de exame e perguntas frequentes
-  description: Reveja as políticas do exame e as perguntas frequentes.
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md
+

@@ -6,9 +6,9 @@ metadata:
 uid: certification.data-analyst-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
   Os Analistas de Dados permitem que as empresas maximizem o valor de seus ativos de dados usando o Microsoft Power BI. Como especialista no assunto, os analistas de dados são responsáveis por projetar e construir modelos de dados escaláveis, limpar e transformar dados e habilitar recursos analíticos avançados que fornecem valor comercial significativo por meio de visualizações de dados fáceis de entender.
-  
-  <div style='color&#58; red;'><br/><strong>Observação&#58; Esta certificação não estará disponível até 2 de abril de 2020.</strong> Esta informação não é final e pode haver pequenas alterações após o lançamento da certificação.</div>
 subTitle: Os Analistas de Dados permitem que as empresas maximizem o valor de seus ativos de dados usando o Microsoft Power BI.
 levels:
 - intermediate
@@ -36,9 +36,10 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Apoio às certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

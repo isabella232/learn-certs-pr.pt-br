@@ -25,7 +25,7 @@ summary: |-
   Este curso discute o gerenciamento da cadeia de suprimentos no conjunto de aplicativos Dynamics 365
 
   #### Perfil do público
-  Um Consultor Funcional do Dynamics 365 for Finance and Operations é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+  Um consultor funcional do Dynamics 365 Finance é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
 outlineSection: |-
   ### Módulo 1&#58; Gerenciamento de suprimentos
   Para configurar o inventário, deve-se primeiro entender as operações diárias do inventário. Nesta lição, discutimos primeiro as operações de entrada e saída de inventário.
@@ -278,7 +278,7 @@ outlineSection: |-
   - Executar planos e firmar pedidos planejados
 
 
-  ### Módulo 14&#58; Usar Gerenciamento de Depósito
+  ### Módulo 14&#58; Configurar Gerenciamento de Depósito
   O módulo de gerenciamento de armazém do Dynamics 365 for Finance and Operations ajuda a gerenciar processos de armazém em empresas de manufatura, distribuição e varejo.
 
   Possui uma ampla variedade de recursos para oferecer suporte às instalações do armazém em um nível ideal, a qualquer momento. O gerenciamento de armazém é totalmente integrado a outros processos de negócios em Finanças e Operações, como transporte, fabricação, controle de qualidade, compra, transferência, vendas e devoluções.
@@ -371,3 +371,4 @@ outlineSection: |-
   - Pesquisa pós-curso
 
   Os você terão concluído o curso.
+

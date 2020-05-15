@@ -22,10 +22,10 @@ products:
 exams:
 - uid: exam.mb-310
 summary: |-
-  Este curso aborda os aspectos financeiros do Dynamics 365: configurar e usar componentes financeiros essenciais, contas a pagar, contas a receber, coleções, orçamento, ativos fixos e funcionalidade adicional
+  Este curso aborda os aspectos financeiros do Dynamics 365&#58; configurar e usar componentes financeiros essenciais, contas a pagar, contas a receber, coleções, orçamento, ativos fixos e funcionalidade adicional
 
   #### Perfil do público
-  Um Consultor Funcional do Dynamics 365 for Finance and Operations é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+  Um consultor funcional do Dynamics 365 Finance é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
 prerequisitesSection: |-
   Competências básicas no Dynamics 365 Core
 outlineSection: |-
@@ -170,7 +170,7 @@ outlineSection: |-
   - Resumo do módulo
 
   Agora, você terá aprendido como processar atividades diárias no razão geral e usar o controle do diário para ap
-  Você trabalhou com contas de controle de saldo para visualizar os saldos de bancos ou contas de liquidez.
+  - Você trabalhou com contas de controle de saldo para visualizar os saldos de bancos ou contas de liquidez.
   - Você aprendeu a se beneficiar dos modelos de comprovante de Valor, que simplesmente copiam o valor exato
 
 
@@ -194,7 +194,7 @@ outlineSection: |-
   - Laboratórios práticos
   - Resumo do módulo
 
-  
+  Você aprenderão como configurar e usar regras de alocação, e de como configurar e usar esquemas de competência.
 
   ### Módulo 12&#58; Configurar imposto sobre vendas
   Os requisitos para cálculo e relatório de impostos diferem significativamente para diferentes países ou regiões. Portanto, o módulo Imposto do Dynamics 365 for Finance and Operations é extremamente abrangente.
@@ -528,3 +528,4 @@ outlineSection: |-
   - Pesquisa pós-curso
 
   Os você terão concluído o curso.
+
