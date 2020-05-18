@@ -35,7 +35,7 @@ prerequisitesSection: |-
   - Compreensão dos conceitos do Active Directory, incluindo domínios, florestas, controladores de domínio, replicação, protocolo Kerberos e protocolos LDAP (Lightweight Directory Access Protocol).
   - Compreensão da resiliência e recuperação de desastres, incluindo operações de backup e recuperação.
 outlineSection: |-
-  ### Módulo  1&#58; identidade
+  ### Módulo 1&#58; identidade
   Neste módulo, você aprenderá a proteger identidades com o Azure Active Directory e implementar usuários e grupos.
   #### Lições
   - Azure Active Directory
