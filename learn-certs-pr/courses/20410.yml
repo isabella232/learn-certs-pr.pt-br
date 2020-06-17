@@ -1,0 +1,276 @@
+### YamlMime:Course
+title: Installing and Configuring Windows Server® 2012
+metadata:
+  title: 'Course 20410-D: Installing and Configuring Windows Server® 2012'
+  description: 'Course 20410-D: Installing and Configuring Windows Server® 2012'
+uid: course.20410
+courseNumber: '20410-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Instalação e configuração do Windows Server 2012.
+- skill: Descrever o AD DS.
+- skill: Gerenciar objetos do Active Directory.
+- skill: Automatizar administração do Active Directory.
+- skill: Implementar IPv4.
+- skill: Implementar Dynamic Host Configuration Protocol (DHCP).
+- skill: Implementar sistema de nome de domínio (DNS).
+- skill: Implementar IPv6.
+- skill: Implementar armazenamento local.
+- skill: Implementar serviços de arquivo e impressão.
+- skill: Implementar política de grupo.
+- skill: Proteger servidores do Windows com Objetos de Política de Grupo (GPOs).
+- skill: Implementar virtualização do servidor com Hyper-V.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-410
+summary: |-
+  Obtenha instruções práticas sobre como instalar e configurar o Windows Server 2012, incluindo o Windows Server 2012 R2, neste curso oficial de cinco dias da Microsoft. Esse curso é a primeira parte de uma série de três cursos que avaliam as habilidades e o conhecimento necessários para implementar uma infraestrutura básica do Windows Server 2012 em um ambiente corporativo existente.  
+
+  Os três cursos abrangem coletivamente a implementação, gerenciamento, manutenção e provisionamento de serviços e infraestrutura em um ambiente Windows Server 2012. Embora os cursos abordem outras habilidades e tarefas integradas, este curso específico se concentra na implementação inicial e configuração de serviços essenciais, como conexão de redes, armazenamento, Active Directory Domain Services (AD DS), serviços de arquivos e impressão e Hyper-V.  
+
+  Este curso, além de ser a escolha preferencial, está diretamente vinculado ao teste prático do Microsoft Certified Solutions Associate (MCSA) Exame [410&#58; Installing and Configuring Windows Server 2012](https://www.microsoft.com/learning/exam-70-410.aspx), que é o primeiro dos três exames necessários para obtenção da credencial MCSA&#58; Windows Server 2012.  
+
+  Os laboratórios deste curso baseiam-se no Windows Server 2012 R2 e Windows 8.1.
+
+  #### Perfil do público
+  Este curso destina-se a profissionais de tecnologia da informação (TI) que tenham algum conhecimento e experiência prática em sistemas operacionais Windows e que desejam adquirir as habilidades e conhecimentos necessários para instalar e executar a configuração inicial de um servidor Windows Server 2012 ou Windows Server 2012 R2 em um ambiente de servidor Windows existente. Normalmente, os candidatos interessados em participar deste curso incluem&#58;
+  - Administradores do Windows Server que estejam iniciando na administração do Windows Server e tecnologias relacionadas e que buscam conhecer mais sobre o Windows Server 2012 e o Windows Server 2012 R2.
+  - Profissionais de TI experientes em outras tecnologias além da Microsoft, que atendem aos pré-requisitos do curso e buscam realizar treinamento conjunto no Windows Server 2012 e no Windows Server 2012 R2.
+  - Profissionais de TI que pretendem realizar o exame Microsoft Certified Solutions Associate (MCSA) [410&#58; Installing and Configuring Windows Server 2012](https://www.microsoft.com/learning/exam-70-410.aspx).
+  - Profissionais de TI que desejam realizar os exames do Microsoft Certified Solutions Expert (MCSE) em DataCenter, infraestrutura de desktop, mensagens, colaboração e comunicações e que também estão interessados em realizar este curso enquanto se preparam para os exames Microsoft Certified Solutions Associate (MCSA). Esses exames são um pré-requisito para suas especialidades individuais.
+prerequisitesSection: |-
+  Este curso requer que o aluno cumpra os seguintes pré-requisitos, incluindo&#58;
+  - Compreensão dos fundamentos de rede.
+  - Compreensão dos conceitos básicos do AD DS.
+  - Conscientização e compreensão das práticas de segurança recomendadas.
+  - Conhecimento básico do hardware do servidor.
+  - Experiência prática e conhecimento em configuração de sistemas operacionais de clientes Windows, como Windows 7 ou Windows 8. 
+
+  Além disso, é recomendável que os alunos tenham alguma experiência no sistema operacional Windows Server. 
+
+  Todos os pré-requisitos acima podem ser atendidos por meio de conhecimento equivalente ou ao participar do curso [10967A&#58; Fundamentals of a Windows Server Infrastructure](https://www.microsoft.com/learning/course.aspx?ID=10967A&Locale=en-us&mc=US), pois este curso se baseia nos conhecimentos e habilidades abordados nesse curso.
+outlineSection: |-
+  ### Módulo 1&#58; Implementação e gerenciamento do Windows Server 2012
+  Este módulo apresenta aos alunos as edições do Windows Server 2012 e as novas ferramentas de gerenciamento do Windows Server 2012. Ele também abrange como instalar o Windows Server 2012, como executar tarefas pós-implementação e como executar tarefas administrativas básicas.
+  #### Lições
+  - Visão geral do Windows Server 2012
+  - Instalação do Windows Server 2012
+  - Configuração pós-instalação do Windows Server 2012
+  - Visão geral do gerenciamento do Windows Server 2012
+  - Introdução ao Windows PowerShell
+
+
+  #### Laboratório&#58; Implementação e gerenciamento do Windows Server 2012
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever o Windows Server 2012
+  - Instalar o Windows Server 2012
+  - Executar a configuração de pós-instalação do Windows Server 2012
+  - Descrever as ferramentas de gerenciamento disponíveis no Windows Server 2012
+  - Executar tarefas administrativas básicas usando o Windows PowerShell
+
+
+  ### Módulo 2&#58; Introdução ao Active Directory Domain Services
+  Este módulo abrange a estrutura do Active Directory Domain Services (AD DS) e seus diversos componentes, como florestas, domínios e unidades organizacionais (OUs). Ele também oferece uma visão geral dos controladores de domínio, além de opções que estão disponíveis com o Windows Server 2012 para instalação do AD DS em um servidor.
+  #### Lições
+  - Visão geral do AD DS
+  - Visão geral dos controladores de domínio
+  - Instalação de um controlador de domínio
+
+
+  #### Laboratório&#58; Instalação de controladores de domínio
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a estrutura do AD DS.
+  - Descrever a finalidade dos controladores de domínio.
+  - Instalar um controlador de domínio.
+
+
+  ### Módulo 3&#58; Gerenciamento de objetos Active Directory Domain Services
+  Este módulo descreve como gerenciar contas de usuários e contas de computador, incluindo o gerenciamento de vários dispositivos de consumo usados por funcionários. O módulo também abrange como gerenciar uma rede corporativa gerenciando grupos e como delegar tarefas administrativas a usuários ou grupos designados.
+  #### Lições
+  - Gerenciamento de contas de usuários
+  - Gerenciamento de grupos
+  - Gerenciamento de contas de computador
+  - Atribuição de tarefas administrativas
+
+
+  #### Laboratório&#58; Gerenciamento de objetos Active Directory Domain Services
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Gerenciar contas de usuário com ferramentas gráficas
+  - Gerenciar contas de grupo com ferramentas gráficas
+  - Gerenciar contas de computador.
+  - Delegar permissões para realizar a administração do AD DS
+
+
+  ### Módulo 4&#58; Automatizando a administração do Active Directory Domain Services
+  Este módulo descreve como usar as ferramentas de linha de comando e o Windows PowerShell para automatizar a administração do AD DS. O módulo abrange várias ferramentas de linha de comando e comandos do Windows PowerShell e descreve como usar essas ferramentas e comandos para modificar objetos individualmente e em operações em massa.
+  #### Lições
+  - Uso de ferramentas de linha de comando para administração do AD DS
+  - Uso do Windows PowerShell para administração do AD DS
+  - Realização de operações em massa com o Windows PowerShell
+
+
+  #### Laboratório&#58; Automatizando a administração do AD DS com o Windows PowerShell
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Usar as ferramentas de linha de comando para administração do AD DS
+  - Usar cmdlets do Windows PowerShell para administração do AD DS
+  - Realizar operações em massa com o Windows PowerShell
+
+
+  ### Módulo 5&#58; Implementação do IPv4
+  Este módulo discute o uso do IPv4, que é o protocolo de rede utilizado na Internet e redes locais. Neste módulo, os alunos aprendem como implementar um esquema de endereçamento IPv4 e como solucionar problemas de comunicação em rede. Este módulo também abrange como determinar e solucionar problemas relacionados à rede.
+  #### Lições
+  - Visão geral do TCP/IP
+  - Compreensão do endereço IPv4
+  - Sub-redes e super-redes
+  - Configuração e diagnóstico de problemas de IPv4
+
+
+  #### Laboratório&#58; Implementação de IPv4
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever o conjunto de protocolos TCP/IP
+  - Descrever o endereço IPv4
+  - Determinar uma máscara de sub-rede necessária para super-rede ou sub-rede
+  - Configurar o IPv4 e diagnosticar problemas de comunicação de IPv4
+
+
+  ### Módulo 6&#58; Implementação de DHCP
+  Este módulo abrange o suporte e o diagnóstico de problemas de uma infraestrutura de rede baseada no Windows Server ao implementar, configurar e diagnosticar problemas na função de servidor do protocolo de configuração do host dinâmico (DHCP).
+  #### Lições
+  - Visão geral da função do servidor DHCP
+  - Configuração de escopos de DHCP
+  - Gerenciamento de um banco de dados do DHCP
+  - Proteção e monitoramento do DHCP
+
+
+  #### Laboratório&#58; Implementação de DHCP
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Explicar a função do servidor DHCP
+  - Configurar escopos de DHCP
+  - Gerenciar bancos de dados do DHCP
+  - Proteger e monitorar a função de servidor DHCP
+
+
+  ### Módulo 7&#58; Implementação de DNS
+  Este módulo descreve a resolução de nomes para clientes do sistema operacional Windows e servidores do Windows Server. Ele também abrange a instalação e a configuração de um serviço de servidor DNS e seus componentes.
+  #### Lições
+  - Resolução de nomes para clientes e servidores Windows
+  - Instalação de um servidor DNS
+  - Gerenciamento de zonas DNS
+
+
+  #### Laboratório&#58; Implementação de DNS
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a resolução de nomes para clientes do sistema operacional Windows e servidores do Windows Server.
+  - Instalar e gerenciar um servidor DNS.
+  - Gerenciar zonas DNS.
+
+
+  ### Módulo 8&#58; Implementação do IPv6
+  Este módulo descreve os recursos e vantagens do IPv6, como o IPv6 afeta as redes IPv4 e como integrar o IPv6 às redes IPv4 usando várias tecnologias de transição.
+  #### Lições
+  - Visão geral do IPv6
+  - Endereçamento IPv6
+  - Compatibilidade com IPv4
+  - Tecnologias de transição do IPv6
+
+
+  #### Laboratório&#58; Implementação de IPv6
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os recursos e vantagens do IPv6
+  - Descrever o endereço IPv6
+  - Descrever a coexistência do IPv6 com o IPv4
+  - Descrever as tecnologias de transição do IPv6
+
+
+  ### Módulo 9&#58; Implementação de armazenamento local
+  Este módulo apresenta as diversas várias tecnologias de armazenamento. O módulo descreve como implementar as soluções de armazenamento no Windows Server 2012 e como usar o novo recurso de espaços de armazenamento, que permite combinar discos em grupos que podem ser configurados para gerenciamento automático.
+  #### Lições
+  - Visão geral do armazenamento
+  - Gerenciamento de discos e volumes
+  - Implementação de espaços de armazenamento
+
+
+  #### Laboratório&#58; Implementação do armazenamento local
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever as diversas tecnologias de armazenamento
+  - Explicar como gerenciar discos e volumes
+  - Explicar como implementar espaços de armazenamento
+
+
+  ### Módulo 10&#58; Implementação de serviços de arquivo e impressão
+  Este módulo descreve como fornecer recursos de arquivo e impressão com o Windows Server 2012. Ele descreve como proteger arquivos e pastas, como proteger versões anteriores de arquivos e pastas usando cópias de sombra e como atribuir aos trabalhadores acesso remoto a arquivos corporativos implementando o novo serviço de função Pastas de Trabalho. Além disso, descreve os novos recursos de impressão de rede que permitem gerenciar o ambiente de impressão de rede.
+  #### Lições
+  - Proteção de arquivos e pastas
+  - Proteção de arquivos e pastas compartilhados por meio de cópias de sombra
+  - Configuração de pastas de trabalho
+  - Configuração de impressão em rede
+
+
+  #### Laboratório&#58; Implementação de serviços de arquivo e impressão
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Proteger arquivos e pastas compartilhadas
+  - Proteger arquivos e pastas compartilhadas usando cópias de sombra
+  - Configurar o serviço de função Pastas de Trabalho
+  - Configurar a impressão em rede
+
+
+  ### Módulo 11&#58; Implementação de políticas de grupo
+  Este módulo fornece uma visão geral das políticas de grupo e instruções detalhadas sobre como implementar políticas de grupo.
+  #### Lições
+  - Visão geral das políticas de grupo
+  - Processamento de políticas de grupo
+  - Implementação de um repositório central para modelos administrativos
+
+
+  #### Laboratório&#58; Implementação de políticas de grupo
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar e gerenciar objetos de política de grupo (GPOs)
+  - Descrever o processamento de políticas de grupo
+  - Implementar um repositório central para modelos administrativos
+
+
+  ### Módulo 12&#58; Proteção de servidores do Windows usando objetos de política de grupo
+  Este módulo descreve a segurança do sistema operacional Windows Server 2012. Ele abrange como identificar ameaças à segurança, planejar sua estratégia para mitigar ameaças à segurança e proteger sua infraestrutura do Windows Server 2012.
+  #### Lições
+  - Visão geral de segurança para sistemas operacionais Windows
+  - Configuração das definições de segurança
+  - Restrição de software
+  - Configuração do firewall do Windows com segurança avançada
+
+
+  #### Laboratório&#58; Aprimoramento da segurança para recursos de servidor
+
+  #### Laboratório&#58; Configuração do AppLocker e do firewall do Windows
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a segurança do sistema operacional Windows Server
+  - Configurar definições de segurança usando políticas de grupo
+  - Aprimorar a segurança para os recursos do servidor
+  - Restringir a execução de softwares não autorizados em servidores e clientes
+  - Configurar o firewall do Windows com segurança avançada
+
+
+  ### Módulo 13&#58; Implementação da virtualização de servidor com Hyper-V
+  Este módulo descreve as tecnologias de virtualização disponíveis no Windows, com destaque à função Hyper-V no Windows Server 2012 e no Windows Server 2012 R2. O módulo abrange os componentes, configuração e implementação da função Hyper-V, além de como configurar e gerenciar componentes básicos de uma implementação de Hyper-V, como armazenamento e rede.
+  #### Lições
+  - Visão geral das tecnologias de virtualização
+  - Implementação do Hyper-V
+  - Gerenciamento do armazenamento de máquinas virtuais
+  - Gerenciamento de redes virtuais
+
+
+  #### Laboratório&#58; Implementação da virtualização de servidor com Hyper-V
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever tecnologias de virtualização
+  - Implementar Hyper-V
+  - Gerenciar o armazenamento de máquinas virtuais
+  - Gerenciar redes virtuais
+

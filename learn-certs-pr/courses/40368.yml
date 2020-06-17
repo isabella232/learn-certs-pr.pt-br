@@ -1,0 +1,104 @@
+### YamlMime:Course
+title: 'Mobility & Devices Fundamentals: MTA Exam 98-368'
+metadata:
+  title: 'Course 40368-A: Mobility & Devices Fundamentals: MTA Exam 98-368'
+  description: 'Course 40368-A: Mobility & Devices Fundamentals: MTA Exam 98-368'
+uid: course.40368
+courseNumber: '40368-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compreender as configurações do dispositivo
+- skill: Compreender o acesso e gerenciamento de dados
+- skill: Compreender a segurança de dispositivos
+- skill: Compreender os serviços em nuvem
+- skill: Compreender o Enterprise Mobility
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+exams:
+- uid: exam.98-368
+summary: |-
+  Este curso de treinamento MTA de três dias ajudará você a se preparar para o exame Microsoft Technology Associate 98-368 e a adquirir uma compreensão dos seguintes tópicos&#58; configurações de dispositivos, acesso e gerenciamento de dados, segurança de dispositivos, serviços em nuvem e mobilidade corporativa.
+
+  #### Perfil do público
+  O Microsoft Technology Associate (MTA) é o mais novo conjunto de exames de certificação de tecnologia da Microsoft que permitem validar os conhecimentos básicos necessários para que você construa uma carreira centrada nas tecnologias da Microsoft. Este programa fornece um ponto de entrada apropriado para uma carreira futura em tecnologia e exige que o estudante possua alguma experiência prática ou treinamento, mas não requer experiência no ambiente de trabalho.
+outlineSection: |-
+  ### Módulo 1&#58; Compreendendo as configurações de dispositivos
+  #### Lições
+  - Configuração das opções de dispositivo
+  - Configuração das definições da área de trabalho
+  - Configuração da criptografia de unidades
+  - Configuração de atualizações
+
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Configurar opções do dispositivo
+  - Configurar as definições da área de trabalho
+  - Configurar a criptografia de unidades
+  - Configurar atualizações
+
+
+  ### Módulo 2&#58; Compreendendo o acesso e gerenciamento de dados
+  #### Lições
+  - Compreendendo os serviços de armazenamento em nuvem
+  - Compreendendo o armazenamento local
+  - Compreendendo sistemas de arquivos
+  - Compreendendo o compartilhamento de arquivo e impressão
+  - Compreendendo a criptografia de dados
+
+  Depois de completar este módulos, você estará apto a&#58;
+  - Compreender os serviços de armazenamento em nuvem
+  - Compreender o armazenamento local
+  - Compreender os sistemas de arquivos
+  - Compreender o compartilhamento de arquivo e impressão
+  - Compreender a criptografia de dados
+
+
+  ### Módulo 3&#58; Compreendendo a segurança de dispositivos
+  #### Lições
+  - Compreendendo as diferenças entre internet, intranet e extranet
+  - Compreendendo a autenticação de usuários
+  - Compreendendo as permissões
+  - Compreendendo o malware
+
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Compreender as diferenças entre internet, intranet e extranet
+  - Compreender a autenticação de usuários
+  - Compreender as permissões
+  - Compreender o malware
+
+
+  ### Módulo 4&#58; Compreendendo os serviços em nuvem
+  #### Lições
+  - Compreendendo os tipos de serviços na nuvem
+  - Compreendendo o Microsoft Intune
+  - Compreendendo as funcionalidades do Microsoft Intune
+  - Compreendendo o Microsoft Azure
+  - Compreendendo as máquinas virtuais
+  - Compreendendo a recuperação de desastres, alta disponibilidade, redundância e tolerância a falhas
+
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Compreender os tipos de serviços em nuvem
+  - Compreender o Microsoft Intune e suas funcionalidades
+  - Compreender o Microsoft Azure
+  - Compreender as máquinas virtuais
+  - Compreender a recuperação de desastres, alta disponibilidade, redundância e tolerância a falhas
+
+
+  ### Módulo 5&#58; Compreendendo o Enterprise Mobility
+  #### Lições
+  - Compreendendo os serviço de identidade
+  - Compreendendo o acesso a dados empresariais
+  - Compreendendo o recurso Traga seu próprio dispositivo (BYOD)
+
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Compreender os serviço de identidade
+  - Compreender o acesso a dados empresariais
+  - Compreender o recurso Traga seu próprio dispositivo (BYOD)
+

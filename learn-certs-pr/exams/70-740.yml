@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Installation, Storage, and Compute with Windows Server 2016
+metadata:
+  title: 'Exam 70-740: Installation, Storage, and Compute with Windows Server 2016'
+  description: 'Exam 70-740: Installation, Storage, and Compute with Windows Server 2016'
+uid: exam.70-740
+displayName: 70-740
+summary: |-
+  <div><div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
+  </div>
+
+  Os candidatos a este exame estão envolvidos com a instalação, armazenamento e funcionalidades disponíveis no Windows Server 2016. Os candidatos realizam tarefas gerais de instalação, incluindo a criação e gerenciamento de imagens para implementação.
+
+  Os candidatos também devem ter experiência com armazenamento locais e de servidor, incluindo a configuração dos discos e volumes, eliminação de duplicação de dados, alta disponibilidade, recuperação de desastres, espaços de armazenamento diretos e soluções de clustering de failover. Os candidatos também deve estar familiarizados com o gerenciamento do Hyper-V e contêineres, assim como com a manutenção e monitoramento de servidores em ambientes físicos e de computação.
+
+  <div style='font-weight&#58; bold;'><br/>Note&#58; Existem atualizações de exame efetivas a partir 13 de março de 2019. Para saber mais sobre essas alterações e como elas afetam as habilidades medidas, baixe e leia o documento de alteração do Exame 740.</div>
+subTitle: Os candidatos a este exame estão envolvidos com a instalação, armazenamento e funcionalidades disponíveis no Windows Server 2016. Os candidatos realizam tarefas gerais de instalação, incluindo a criação e gerenciamento de imagens para implementação.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IGlV
+practiceTestUrl: https://www.mindhub.com/70-740-Windows-Server-2016-p/mu-70-740_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=70-740&examname=Installation,%20Storage,%20and%20Compute%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-740
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Instalar Windows Servers em ambientes de host e de cálculo (10-15%)
+- Implementar soluções de armazenamento (15-20%)
+- Implementar o Hyper-V (20-25%)
+- Implementar contêineres do Windows (5-10%)
+- Implementar alta disponibilidade (30-35%)
+- Manter e monitorar ambientes de servidor (10-15%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20740
+relatedCertifications:
+- related:
+    uid: certification.mcsa-windows-server-2016-certification
+resources:
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: ../certification-exam-policies.md
+

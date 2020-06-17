@@ -1,0 +1,51 @@
+### YamlMime:Course
+title: 'Windows Operating System Fundamentals: MTA Exam 98-349'
+metadata:
+  title: 'Course 40349-B: Windows Operating System Fundamentals: MTA Exam 98-349'
+  description: 'Course 40349-B: Windows Operating System Fundamentals: MTA Exam 98-349'
+uid: course.40349
+courseNumber: '40349-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compreender as configurações do sistema operacional
+- skill: Instalar e atualizar sistemas clientes
+- skill: Gerenciar aplicativos
+- skill: Gerenciar arquivos e pastas
+- skill: Gerenciar dispositivos
+- skill: Compreender a manutenção do sistema operacional
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows
+exams:
+- uid: exam.98-349
+summary: |-
+  Este curso de treinamento MTA de três dias ajudará você a se preparar para o exame Microsoft Technology Associate 98-349 e a adquirir uma compreensão dos seguintes tópicos&#58; configurações do sistema operacional, instalação e atualização de sistemas clientes, gerenciamento de aplicativos, gerenciamento de arquivos e pastas, gerenciamento de dispositivos e manutenção do sistema operacional. Este curso utiliza o mesmo conteúdo disponibilizado no Microsoft Official Academic Course (MOAC) para este exame. Este curso foi atualizado para compatibilidade com o Windows 10.
+
+  #### Perfil do público
+  O Microsoft Technology Associate (MTA) é o mais novo conjunto de exames de certificação de tecnologia da Microsoft que permitem validar os conhecimentos básicos necessários para que você construa uma carreira centrada nas tecnologias da Microsoft. Este programa fornece um ponto de entrada apropriado para uma carreira futura em tecnologia e exige que o estudante possua alguma experiência prática ou treinamento, mas não requer experiência no ambiente de trabalho.
+prerequisitesSection: |-
+  Não há pré-requisitos para a realização deste curso.
+outlineSection: |-
+  ### Módulo 1&#58; Instalação e atualização de sistemas clientes
+
+  ### Módulo 2&#58; Compreendendo as configurações do sistema operacional
+
+  ### Módulo 3&#58; Compreendendo os aplicativos nativos, ferramentas, mobilidade e gerenciamento e assistência remota
+
+  ### Módulo 4&#58; Gerenciamento de aplicativos, serviços e discos
+
+  ### Módulo 5&#58; Gerenciamento de dispositivos
+
+  ### Módulo 6&#58; Compreendendo o compartilhamento de arquivos e impressões
+
+  ### Módulo 7&#58; Manutenção, atualização e proteção do Windows 10
+
+  ### Módulo 8&#58; Compreendendo os métodos de backup e recuperação
+

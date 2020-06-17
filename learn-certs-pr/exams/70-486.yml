@@ -1,0 +1,69 @@
+### YamlMime:Examination
+title: Developing ASP.NET MVC Web Applications
+metadata:
+  title: 'Exam 70-486: Developing ASP.NET MVC Web Applications'
+  description: 'Exam 70-486: Developing ASP.NET MVC Web Applications'
+uid: exam.70-486
+displayName: 70-486
+summary: |+
+  <div><div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
+  </div>
+
+  Os candidatos para este exame são desenvolvedores profissionais que usam o Microsoft Visual Studio 2017 e o ASP.NET para projetar e desenvolver soluções web. Os candidatos devem ter um mínimo de três a cinco anos de experiência no desenvolvimento de soluções baseadas no Microsoft ASP.NET MVC e conhecimento da Microsoft Azure Web Apps.
+
+  Os candidatos também devem ter a seguinte experiência&#58;
+  - Projetar e desenvolver aplicativos da Web em um modelo ASP.NET MVC
+  - Planejamento e criação de soluções de interação com o usuário com base nos requisitos de negócios
+  - Experiência com o ciclo de vida completo do desenvolvimento de software de aplicativos da web
+  - Desenvolvimento e implantação de ambientes de várias camadas, incluindo o Azure
+  - Projetar e desenvolver soluções assíncronas
+
+  <div style='font-weight&#58; bold;'><br/>Note&#58; Existem atualizações de exame efetivas a partir 15 de janeiro de 2018. Para saber mais sobre essas alterações e como elas afetam as habilidades medidas, baixe e leia o documento de alteração do Exame 486.</div>
+subTitle: Os candidatos para este exame são desenvolvedores profissionais que usam o Microsoft Visual Studio 2017 e o ASP.NET para projetar e desenvolver soluções web. Os candidatos devem ter um mínimo de três a cinco anos de experiência no desenvolvimento de soluções baseadas no Microsoft ASP.NET MVC e conhecimento da Microsoft Azure Web Apps.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkK
+practiceTestUrl: https://www.mindhub.com/70-486-developing-asppnet-mvc-web-applications/p/MU-70-486?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=70-486&examname=Developing%20ASP.NET%20MVC%20Web%20Applications&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-486
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- Projetar a arquitetura do aplicativo (15-20%)
+- Desenhar a arquitetura de compilação e implementação (10-15%)
+- Projetar a experiência do usuário (15-20%)
+- Desenvolver a experiência do usuário (15-20%)
+- Solução de problemas e depuração de aplicativos da Web (20-25%)
+- Projetar e implementar segurança (15-20%)
+roles:
+- developer
+products:
+- aspnet-core
+courses:
+- uid: course.20486
+relatedCertifications:
+- related:
+    uid: certification.mcsa-web-applications-certification
+- related:
+    uid: certification.mcsd-app-builder-certification
+resources:
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: ../certification-exam-policies.md
+

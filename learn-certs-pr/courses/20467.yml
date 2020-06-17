@@ -1,0 +1,218 @@
+### YamlMime:Course
+title: Designing Business Intelligence Solutions with Microsoft SQL Server 2014
+metadata:
+  title: 'Course 20467-D: Designing Business Intelligence Solutions with Microsoft SQL Server 2014'
+  description: 'Course 20467-D: Designing Business Intelligence Solutions with Microsoft SQL Server 2014'
+uid: course.20467
+courseNumber: '20467-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planejar uma solução de BI.
+- skill: Planejar a infraestrutura de BI do SQL Server.
+- skill: Projetar data warehouse.
+- skill: Projetar uma solução de extração, transformação e carregamento (ETL).
+- skill: Projetar modelos de dados analíticos.
+- skill: Planejar uma solução de entrega de BI.
+- skill: Criar uma solução de Reporting Services.
+- skill: Criar uma solução de relatório baseada no Microsoft Excel.
+- skill: Planejar uma solução de BI do SharePoint Server.
+- skill: Monitorar e otimizar uma solução de BI.
+- skill: Operar uma solução de BI.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-467
+summary: |-
+  Este curso de treinamento ensina aos profissionais de banco de dados e business intelligence (BI) como planejar e projetar uma solução de BI baseada no Microsoft SQL Server 2014 e outras tecnologias do Microsoft BI.
+
+  #### Perfil do público
+  Este curso não foi desenvolvido para estudantes que são novos nas tecnologias de SQL Server 2014 BI; Ele é direcionado a profissionais de BI com experiência na implementação de soluções com o Mecanismo de banco de dados do SQL Server, o SQL Server Integration Services, o SQL Server Analysis Services e o SQL Server Reporting Services.
+prerequisitesSection: |-
+  Além de experiência profissional, os estudantes que fizerem esse curso devem ter o seguinte conhecimento técnico&#58;
+  - Um entendimento básico da modelagem dimensional (esquema em estrela) para data warehouses
+  - Conhecimento básico de hardware do servidor
+  - A capacidade de criar pacotes do Integration Services que incluem fluxos de controle e fluxos de dados
+  - A capacidade de criar um cubo multidimensional básico com o Analysis Services
+  - A capacidade de criar um modelo tabular básico com o PowerPivot e o Analysis Services
+  - A capacidade de criar relatórios do Reporting Services com o Report Designer
+  - A capacidade de implementar autenticação e permissões no mecanismo de banco de dados do SQL Server, no Analysis Services e no Reporting Services
+  - Familiaridade com aplicativos do SharePoint Server e Microsoft Office - particularmente o Excel
+outlineSection: |-
+  ### Módulo 1&#58; Planejando uma Solução de BI
+  Este módulo permite que os alunos planejem os componentes de uma solução de BI.
+  #### Lições
+  - Elementos de uma Solução de BI
+  - Planejando um projeto de BI
+  - A plataforma de BI da Microsoft
+
+
+  #### Laboratório&#58; Planejando soluções de BI
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever os componentes de uma Solução de BI.
+  - Identificar os componentes de uma Solução de BI.
+  - Planejar um Projeto de BI.
+
+
+  ### Módulo 2&#58; Planejando a infraestrutura de Business Intelligence do SQL Server
+  Este módulo descreve como usar a infraestrutura de BI apropriada do plano, considerando um conjunto de parâmetros de BI.
+  #### Lições
+  - Considerações sobre infraestrutura de BI
+  - Planejamento de hardware do data warehouse
+
+
+  #### Laboratório&#58; Planejando Infraestrutura de BI
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever os componentes de uma Infraestrutura de BI e onde você os usaria.
+  - Planejar os requisitos de hardware de uma implementação de armazém de dados.
+
+
+  ### Módulo 3&#58; Projetando um Data Warehouse
+  Este módulo descreve como projetar um data warehouse, considerando um conjunto de requisitos do usuário.
+  #### Lições
+  - Visão Geral do Projeto de Data Warehouse
+  - Projetando tabelas de dimensões
+  - Criação de tabelas de FATOS
+
+
+  #### Laboratório&#58; Criando um esquema lógico de Data Warehouse
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Projetar data warehouse.
+  - Projetar tabelas de dimensões.
+  - Criação de tabelas de FATOS.
+  - Projetar um esquema lógico para um data warehouse.
+
+
+  ### Módulo 4&#58; Projetando uma Solução de ETL
+  Esta lição descreve como projetar uma solução de extração, transformação e carregamento (ETL).
+  #### Lições
+  - Visão geral de ETL
+  - Planejamento para Extração de Dados
+  - Planejamento para Transformações de Dados
+  - Planejamento para Carregamento de Dados
+
+
+  #### Laboratório&#58; Projetando uma Solução de ETL
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descreva os componentes de uma solução de ETL.
+  - Projetar uma solução de ETL.
+
+
+  ### Módulo 5&#58; Projetando Modelos de Dados Analíticos
+  Este módulo descreve como projetar modelos de dados analíticos para cenários de BI específicos.
+  #### Lições
+  - Introdução aos modelos de dados analíticos
+  - Projetando Modelos de Dados Analíticos
+
+
+  #### Laboratório&#58; Projetando Modelo de Dados Analíticos
+
+  #### Laboratório&#58; projetando dimensões e hierarquias
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever os recursos de um modelo de dados analíticos.
+  - Projetar um modelo de dados analíticos.
+
+
+  ### Módulo 6&#58; Planejando uma Solução de Entrega de BI
+  Este módulo descreve como escolher uma solução de entrega apropriada para um determinado cenário.
+  #### Lições
+  - Considerações para entrega de BI
+  - Cenários comuns de geração de relatórios
+  - Escolhendo uma ferramenta de relatório
+
+
+  #### Laboratório&#58; Planejando uma Solução de Entrega de BI
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever os componentes de uma solução de entrega de BI.
+  - Descrever alguns cenários comuns de relatório.
+  - Escolher uma solução de entrega apropriada para um determinado cenário.
+
+
+  ### Módulo 7&#58; Projetando uma Solução de Serviços de Relatório
+  Este módulo descreve como projetar uma solução de serviços de relatório.
+  #### Lições
+  - Planejando uma Solução de Relatórios
+  - Projetando Relatórios
+  - Planejando a Consistência do Relatório
+
+
+  #### Laboratório&#58; projetando uma solução dos Serviços de Relatório
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Planejar uma solução dos Serviços de Relatório.
+  - Projetar relatórios para soluções de Serviços de Relatório.
+  - Planejar a consistência dos relatórios
+
+
+  ### Módulo 8&#58; Projetando uma solução de relatório baseada no Excel
+  Neste módulo, os alunos aprenderão como projetar uma solução de relatórios usando o Excel.
+  #### Lições
+  - Usando o Excel para relatório e análise de dados
+  - PowerPivot no Excel
+  - Power View no Excel
+
+
+  #### Laboratório&#58; Design e solução de relatórios do Excel
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever os principais recursos das soluções de relatórios do Excel.
+  - Usar o PowerPivot no Excel para criar relatórios.
+  - Usar o Power View no excel para criar relatórios.
+
+
+  ### Módulo 9&#58; Planejando uma solução de BI do SharePoint Server
+  Este módulo apresenta o uso do SharePoint Server como uma solução de BI.
+  #### Lições
+  - Introdução ao SharePoint Server como uma plataforma de BI
+  - Planejando a segurança de uma solução de BI do SharePoint Server
+  - Planejando a configuração do Reporting Services
+  - Planejando a configuração do PowerPivot
+  - Planejando os serviços PerformancePoint
+
+
+  #### Laboratório&#58; implementando uma solução de BI do SharePoint Server
+
+  #### Laboratório&#58; Implementando Serviços de PerformancePoint
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever os componentes de uma solução de BI do SharePoint Server.
+  - Planejar a segurança de uma solução de BI do SharePoint Server.
+  - Planejar soluções de relatório para uma solução de BI do SharePoint Server.
+  - Descrever os componentes de uma solução PerformancePoint.
+  - Implementar serviços de PerformancePoint.
+
+
+  ### Módulo 10&#58; Monitorar e otimizar uma Solução de BI
+  Na conclusão deste módulo, você poderá otimizar e monitorar uma solução de BI.
+  #### Lições
+  - Visão geral do monitoramento de BI
+  - Monitorando e otimizando o data warehouse
+  - Monitorando e analisando o Analysis Services
+  - Monitorando e otimizando serviços de relatório
+
+
+  #### Laboratório&#58; Monitorando e otimizando uma solução de BI
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever as opções para monitorar e otimizar uma solução de BI.
+  - Ser capaz de monitorar e otimizar uma solução de BI.
+
+
+  ### Módulo 11&#58; Operando uma Solução de BI
+  Na conclusão deste módulo, você poderá planejar as operações de gerenciamento e manutenção de uma solução de BI.
+  #### Lições
+  - Visão geral de Operações de BI
+  - Operações ETL
+  - Operações de Data Warehousing
+  - Operações do Analysis Services
+  - Operações dos Seviços de Relatórios
+
+
+  #### Laboratório&#58; Operando uma Solução de BI
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descreva os componentes a serem gerenciados em uma solução de BI.
+  - Ser capaz de gerenciar os componentes de uma solução de BI.
+
