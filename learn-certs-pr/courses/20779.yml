@@ -1,0 +1,193 @@
+### YamlMime:Course
+title: Analyzing Data with Excel
+metadata:
+  title: 'Course 20779-B: Analyzing Data with Excel'
+  description: 'Course 20779-B: Analyzing Data with Excel'
+uid: course.20779
+courseNumber: '20779-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explorar e ampliar um painel clássico do Excel.
+- skill: Explorar e ampliar um modelo de dados do Excel.
+- skill: Pré-formatar e importar um arquivo .CSV.
+- skill: Importar dados de um banco de dados do SQL Server
+- skill: Importar dados de um relatório.
+- skill: Criar medidas usando funções DAX avançadas.
+- skill: Criar visualizações de dados no Excel.
+- skill: Criar um painel Power BI com Excel.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-analyst
+products:
+- office-excel
+exams:
+- uid: exam.70-779
+summary: |-
+  O objetivo principal do curso é oferecer aos estudantes a capacidade de adicionar técnicas de BI à análise de dados do Excel. O curso inclui diversas outras funcionalidades além de tabelas e gráficos e utiliza gráficos dinâmicos, modelos de dados do Excel e o Power BI.
+
+  #### Perfil do público
+  Este curso destina-se aos estudantes com experiência em análise de dados com Excel e que desejam treinamento adicional em técnicas de BI. 
+
+  O curso provavelmente contará com a participação de criadores de relatórios do SQL Server interessados em métodos alternativos de apresentação de dados.
+prerequisitesSection: |-
+  Antes de participar deste curso, os estudantes devem ter&#58;
+  - Noções básicas do sistema operacional Microsoft Windows e suas funcionalidades essenciais.
+  - Conhecimento prático de bancos de dados relacionais.
+  - Amplo conhecimento de planilhas do Excel, incluindo fórmulas, gráficos, filtragem, classificação e subtotais.
+  - Conhecimento básico de análise de dados equivalente a devem ter concluído o curso 10994.
+outlineSection: |-
+  ### Módulo 1&#58; Análise de dados no Excel
+  Este módulo analisa o painel clássico do Excel e os meios de como ampliá-lo.
+  #### Lições
+  - Análise clássica de dados com Excel
+  - Tabelas dinâmicas do Excel
+  - Limitações da análise clássica de dados
+
+
+  #### Laboratório&#58; Criando um painel clássico do Excel
+  - Formatação de dados
+  - Criação de tabelas dinâmicas
+  - Adição de gráficos dinâmicos e segmentação de dados
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a análise clássica de dados com o Excel
+  - Descrever as tabelas dinâmicas do Excel
+  - Descrever as limitações da análise clássica de dados com o Excel
+
+
+  ### Módulo 2&#58; Modelo de dados do Excel
+  Este módulo analisa o modelo clássico de dados do Excel e os meios de como ampliá-lo.
+  #### Lições
+  - Uso de um modelo de dados do Excel
+  - DAX
+
+
+  #### Laboratório&#58; Explorar um modelo de dados do Excel
+  - Criar colunas calculadas
+  - Formatar dados do modelo de dados
+  - Criar medidas
+  - Analisa de dados
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever um modelo de dados do Excel
+  - Exibir dados em uma tabela de dados do Excel
+  - Descrever o DAX
+
+
+  ### Módulo 3&#58; Importando dados de arquivos
+  Este módulo analisa a pré-formatação e importação de arquivos CSV.
+  #### Lições
+  - Importação de dados para o Excel
+  - Modelagem e transformação de dados
+  - Carregamento de dados
+
+
+  #### Laboratório&#58; Importando dados de um arquivo CSV
+  - Importar e transformar dados de um arquivo CSV
+  - Adicionar dados de uma pasta
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Importar dados para o Excel.
+  - Modelar e transformar dados.
+  - Carregamento de dados.
+
+
+  ### Módulo 4&#58; Importando dados de bancos de dados
+  Este módulo analisa como importar dados para o Excel de um banco de dados SQL Server.
+  #### Lições
+  - Fontes de dados disponíveis
+  - Visualização, modelagem e transformação de dados
+  - Relações de tabelas e hierarquias
+  - Carregamento de dados
+
+
+  #### Laboratório&#58; Importar dados de fontes diversas
+  - Importar dados do SQL Server
+  - Importar dados de arquivos CSV
+  - Criar uma tabela de dados
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Identificar as fontes de dados disponíveis.
+  - Visualizar, modelar e transformar dados.
+  - Explicar as relações de tabelas e hierarquias.
+  - Carregar dados de várias fontes.
+
+
+  ### Módulo 5&#58; Importando dados de relatórios do Excel
+  Este módulo descreve como importar dados de um relatório.
+  #### Lições
+  - Importação de dados de relatórios do Excel
+  - Transformação de dados de relatórios do Excel
+
+
+  #### Laboratório&#58; Importando dados de um relatório
+  - Importar dados do Excel
+  - Transformar dados do Excel
+  - Carregar os dados em um modelo de dados do Excel
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Importar dados de relatórios do Excel.
+  - Transformar dados de relatórios do Excel.
+
+
+  ### Módulo 6&#58; Criação e formatação de medidas
+  Este módulo descreve como criar e formatar medidas.
+  #### Lições
+  - DAX
+  - Medidas
+  - Funções DAX avançadas
+
+
+  #### Laboratório&#58; Criar medidas com funções DAX avançadas
+  - Comparação do ano anterior
+  - Ano a ano
+  - Marketshare
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever o que é DAX e quando usá-lo.
+  - Descrever uma medida.
+  - Usar algumas das funções avançadas dentro do DAX.
+
+
+  ### Módulo 7&#58; Visualização de dados no Excel
+  Este módulo descreve como visualizar dados no Excel.
+  #### Lições
+  - Gráficos dinâmicos
+  - Funções de cubo
+  - Gráficos para funções de cubo
+
+
+  #### Laboratório&#58; Visualização de dados no Excel
+  - Criar um relatório tabular
+  - Criar um gráfico dinâmico
+  - Adicionar segmentação de dados aos gráficos
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar e refinar um gráfico dinâmico.
+  - Descrever as funções de cubo e quando usá-las.
+  - Descrever uma série de gráficos para uso com funções de cubo.
+
+
+  ### Módulo 8&#58; Usando o Excel com Power BI
+  Este módulo descreve como usar o Excel com Power BI.
+  #### Lições
+  - Power BI
+  - Carregando dados do Excel no Power BI
+  - Aplicativo Power BI para celular
+
+
+  #### Laboratório&#58; Criação de painel Power BI com Excel
+  - Carregando dados do Excel
+  - Criando um painel Power BI
+  - Como usar a área de trabalho do Power BI
+  
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever o Power BI e as diversas versões disponíveis.
+  - Carregar dados do Excel no Power BI.
+  - Descrever o aplicativo Power BI.
+

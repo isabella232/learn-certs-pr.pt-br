@@ -1,0 +1,223 @@
+### YamlMime:Course
+title: Developing SQL Data Models
+metadata:
+  title: 'Course 20768-C: Developing SQL Data Models'
+  description: 'Course 20768-C: Developing SQL Data Models'
+uid: course.20768
+courseNumber: '20768-C'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever os componentes, a arquitetura e a natureza de uma solução de BI
+- skill: Criar um banco de dados multidimensional com serviços de análise
+- skill: Implementar dimensões em um cubo
+- skill: Implementar medidas e grupos de medidas em um cubo
+- skill: Usar sintaxe MDX
+- skill: Personalizar um cubo
+- skill: Implementar um banco de dados tabular
+- skill: Usar o DAX para consultar um modelo tabular
+- skill: Usar o Data Mining para análise preditiva
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- sql-server
+exams:
+- uid: exam.70-768
+summary: |-
+  Este curso presencial de 3 dias aborda principalmente na criação de soluções de BI corporativas gerenciadas. O curso descreve como implementar modelos de dados multidimensionais e tabulares e como criar cubos, dimensões, medidas e medir grupos. Este curso ajudará você a se preparar para o exame 70-768.
+  
+  #### Perfil do público
+  Este curso destina-se principalmente aos profissionais de banco de dados que planejam assumir a função de Business Intelligence Developer para a criação de soluções de BI. 
+  As responsabilidades primárias incluem&#58;
+  - Implementação de bancos de dados multidimensionais com o uso de SQL Server Analysis Services
+  - Criação de modelos de dados semânticos tabulares para análise com o uso de SQL Server Analysis Services
+prerequisitesSection: |-
+  Antes de participar deste curso, os estudantes devem ter&#58;
+  - Experiência em consulta de dados usando Transact-SQL
+outlineSection: |-
+  ### Módulo 1&#58; Introdução ao Business Intelligence e Modelagem de Dados
+  Este módulo descreve os principais conceitos de BI e o pacote de produtos Microsoft BI.
+  #### Lições
+  - Introdução ao Business Intelligence
+  - Plataforma Microsoft Business Intelligence
+
+
+  #### Laboratório&#58; Explorando uma solução de BI
+  - Explorando um Data Warehouse
+  - Explorando um modelo de dados
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os cenários, tendências e funções de projeto de BI.
+  - Descrever os produtos que compõem a plataforma Microsoft BI.
+
+
+  ### Módulo 2&#58; Criação de bancos de dados multidimensionais
+  Este módulo descreve como criar bancos de dados multidimensionais com o uso de SQL Server Analysis Services.
+  #### Lições
+  - Introdução à análise multidimensional
+  - Fontes de dados e visualizações de fontes de dados
+  - Cubos
+  - Visão geral da segurança do cubo
+  - Configuração do SSAS
+  - Monitoramento de SSAS
+
+
+  #### Laboratório&#58; Criação de bancos de dados multidimensionais
+  - Criação de uma fonte de dados
+  - Criação e configuração de uma exibição de fonte de dados
+  - Criação e configuração de cubos
+  - Adicionar uma dimensão a um cubo
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever as considerações para um banco de dados multidimensional.
+  - Criar fontes de dados e visualizações de fontes de dados.
+  - Criar um cubo
+  - Implementar segurança em um banco de dados multidimensional.
+  - Configurar o SSAS para atender aos requisitos, incluindo limites de memória, NUMA e layout de disco.
+  - Monitorar o desempenho do SSAS.
+
+
+  ### Módulo 3&#58; Trabalhando com cubos e dimensões
+  Este módulo descreve como implementar dimensões em um cubo.
+  #### Lições
+  - Configuração de dimensões
+  - Definição de hierarquias de atributos
+  - Implementação a classificação e agrupamento de atributos
+  - Dimensões de alteração lenta
+
+
+  #### Laboratório&#58; Trabalhando com cubos e dimensões
+  - Configuração de dimensões
+  - Definindo relações e hierarquias
+  - Classificação e agrupamento de atributos de dimensão
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Configurar dimensões.
+  - Definir hierarquias de atributos.
+  - Implementar classificação e agrupamento para atributos.
+  - Implementar dimensões de alteração lenta.
+
+
+  ### Módulo 4&#58; Trabalhando com medidas e grupos de medidas
+  Este módulo descreve como implementar medidas e medir grupos em um cubo.
+  #### Lições
+  - Trabalhando com medidas
+  - Trabalhando com grupos de medidas
+
+
+  #### Laboratório&#58; Configurando medidas e grupos de medidas
+  - Configuração de medidas
+  - Definindo relações regulares
+  - Configuração do armazenamento do grupo de medidas
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Configurar medidas.
+  - Configurar grupos de medidas.
+
+
+  ### Módulo 5&#58; Introdução ao MDX
+  Este módulo descreve a sintaxe MDX e como usar o MDX.
+  #### Lições
+  - Fundamentos do MDX
+  - Adicionando cálculos a um cubo
+  - Usando o MDX para consultar um cubo
+
+
+  #### Laboratório&#58; Uso do MDX
+  - Consultando um cubo com MDX
+  - Adicionando um membro calculado
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Usar funções MDX básicas.
+  - Usar o MDX para adicionar cálculos a um cubo.
+  - Usar o MDX para consultar um cubo.
+
+
+  ### Módulo 6&#58; Personalizando a funcionalidade do cubo
+  Este módulo descreve como personalizar um cubo.
+  #### Lições
+  - Implementação de indicadores chave de desempenho
+  - Implementação de ações
+  - Implementação de perspectivas
+  - Implementação de traduções
+
+
+  #### Laboratório&#58; Personalização de cubos
+  - Implementando uma ação
+  - Implementando uma perspectiva
+  - Implementando uma tradução
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Implementar KPIs em um banco de dados multidimensional
+  - Implementar ações em um banco de dados multidimensional
+  - Implementar perspectivas em um banco de dados multidimensional
+  - Implementar traduções em um banco de dados multidimensional
+
+
+  ### Módulo 7&#58; Implementando um modelo de dados tabular com Analysis Services
+  Este módulo descreve como implementar um modelo de dados tabular no Power Pivot.
+  #### Lições
+  - Introdução aos modelos de dados tabulares
+  - Criação de modelo de dados tabular
+  - Uso de modelos de dados tabulares do Analysis Services em uma solução de BI corporativa
+
+
+  #### Laboratório&#58; Trabalhando com um modelo de dados tabular de Analysis Services
+  - Criação de modelo de dados tabular de Analysis Services
+  - Configuração de relações e atributos
+  - Configuração de modelo de dados para uma solução de BI corporativa.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os modelos de dados tabulares
+  - Descrever como criar um modelo de dados tabular
+  - Usar modelos de tabulares do Analysis Services em uma solução de BI corporativa
+
+
+  ### Module 8&#58; Introdução ao Data Analysis Expression (DAX)
+  Este módulo descreve como usar o DAX para criar medidas e colunas calculadas em um modelo de dados tabular.
+  #### Lições
+  - Fundamentos do DAX
+  - Uso do DAX para criar colunas e medidas calculadas em um modelo de dados tabular
+
+
+  #### Laboratório&#58; Criação de colunas e medidas calculadas com o uso do DAX
+  - Criação de colunas calculadas
+  - Criação de medidas
+  - Criação de KPI
+  - Criação de uma hierarquia pai-filho
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever as características principais do DAX
+  - Criação de colunas e medidas calculadas com o DAX
+
+
+  ### Módulo 9&#58; Realizando a análise preditiva com Data Mining
+  Este módulo descreve como usar Data Mining para análise preditiva.
+  #### Lições
+  - Visão geral de Data Mining
+  - Criação de uma solução de Data Mining personalizada
+  - Validação de um modelo de Data Mining
+  - Conectar-se e consumir um modelo de Data Mining
+  - Uso do suplemento Data Mining para Excel
+
+
+  #### Laboratório&#58; Uso de Data Mining
+  - Criação de estrutura e modelo de Data Mining
+  - Explorando modelos de Data Mining
+  - Validando modelos de Data Mining
+  - Consumindo modelos de Data Mining
+  - Uso do suplemento Data Mining para Excel
+
+  
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever considerações para Data Mining
+  - Criar um modelo de Data Mining
+  - Validar um modelo de Data Mining
+  - Conectar-se a um modelo de Data Mining
+  - Usar o suplemento Data Mining para Excel
+

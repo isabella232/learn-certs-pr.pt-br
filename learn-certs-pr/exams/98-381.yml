@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Introduction to Programming Using Python
+metadata:
+  title: 'Exam 98-381: Introduction to Programming Using Python'
+  description: 'Exam 98-381: Introduction to Programming Using Python'
+uid: exam.98-381
+displayName: 98-381
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  Os candidatos para este exame devem ser capazes de reconhecer e escrever o código Python corretamente sintaticamente, reconhecer os tipos de dados suportados pelo Python e poder reconhecer e escrever o código Python que solucionará logicamente um determinado problema.
+
+  Espera-se que os candidatos tenham tido, no mínimo, instrução e/ou experiência prática de aproximadamente 100 horas com a linguagem de programação Python, esteja familiarizado com seus recursos e capacidades e compreenda como escrever, depurar e manter um código de Python bem documentado e bem formado.
+subTitle: Os candidatos para este exame devem ser capazes de reconhecer e escrever o código Python corretamente sintaticamente, reconhecer os tipos de dados suportados pelo Python e poder reconhecer e escrever o código Python que solucionará logicamente um determinado problema.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k2
+practiceTestUrl: https://www.mindhub.com/98-381-Introduction-to-Programming-Using-Python-p/mu-98-381_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- Executar Operações Usando management-analytics e Ferramentas (20-25%)
+- Controle de fluxo com decisões e loops (25-30%)
+- Executar operações de entrada e saída (20-25%)
+- Código de documento e estrutura (15-20%)
+- Executar a solução de problemas e o tratamento de erros (5-10%)
+- Executar Operações Usando Módulos e Ferramentas (1-5%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.55264
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-python
+resources:
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: ../certification-exam-policies.md
+

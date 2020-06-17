@@ -1,0 +1,248 @@
+### YamlMime:Course
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack
+metadata:
+  title: 'Course 20537-B: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack'
+  description: 'Course 20537-B: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack'
+uid: course.20537
+courseNumber: '20537-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever os componentes e a arquitetura do Microsoft Azure Stack.
+- skill: Implementar o Microsoft Azure Stack.
+- skill: Compreender os recursos do Windows Server 2016 usados no Microsoft Azure Stack.
+- skill: Compreender como os DevOps usam o Microsoft Azure Stack.
+- skill: Oferecer recursos no Microsoft Azure Stack.
+- skill: Gerenciar IaaS no Microsoft Azure Stack.
+- skill: Gerenciar PaaS no Microsoft Azure Stack.
+- skill: Gerenciar atualizações no Microsoft Azure Stack.
+- skill: Realizar o monitoramento e o diagnóstico de problemas no Microsoft Azure Stack.
+- skill: Compreender o funcionamento do licenciamento e do faturamento no Microsoft Azure Stack.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.70-537
+summary: |-
+  Este curso de cinco dias proporcionará aos estudantes os conhecimentos básicos necessários para implantar e configurar o Microsoft Azure Stack. Por meio de laboratórios práticos, os estudantes terão noções sobre os seguintes tópicos&#58;
+  - Recursos e funcionalidades essenciais do Microsoft Azure Stack. 
+  - As diferenças entre Microsoft Azure Stack, Microsoft Azure e Windows Azure Pack.
+  - Arquitetura e os componentes do Microsoft Azure Stack.
+  - Como implementar o Microsoft Azure Stack.
+  - Funções e recursos do Windows Server usados no Microsoft Azure Stack.
+  - Como funciona a identidade e a autenticação no Microsoft Azure Stack.
+  - Como o Microsoft Azure Stack habilita os DevOps. 
+  - Como criar e gerenciar modelos do Azure Resource Manager.
+  - Como criar e gerenciar planos. Como criar e gerenciar ofertas e delegação.
+  - Gerenciar o Marketplace no Microsoft Azure Stack.
+  - Redes definidas por software no Microsoft Azure Stack.
+  - Compreender como o armazenamento é provisionado e gerenciado no Microsoft Azure Stack.
+  - Como provisionar máquinas virtuais no Microsoft Azure Stack.
+  - Configurar provedores de recursos no Microsoft Azure Stack.
+  - Como monitorar e diagnosticar problemas do Microsoft Azure Stack.
+  - Compreender o funcionamento do licenciamento e do faturamento no Microsoft Azure Stack.
+  
+  #### Perfil do público
+  Este curso destina-se a administradores de serviços, DevOps e arquitetos de nuvem que pretendem usar o Microsoft Azure Stack para fornecer serviços em nuvem aos usuários finais ou clientes de seu próprio datacenter.
+prerequisitesSection: |-
+  Antes de participar deste curso, os estudantes devem ter&#58;
+  - Conhecimento prático do Windows Server 2016.
+  - Conhecimento prático do SQL Server 2014.
+  - Conhecimento prático do Microsoft Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Visão geral do Azure Stack
+  Este módulo inicial descreve os conceitos básicos associados ao Azure Stack que o ajudarão a compreender o que é o Azure Stack e as funcionalidades que oferece. Você também conhecerá os diferenciais entre o Azure Stack, o Microsoft Azure e o Windows Azure Pack.
+  #### Lições
+  - O que é Azure Stack?
+  - Comparando o Azure Stack com o Microsoft Azure.
+  - Comparando o Azure Stack com o Windows Azure Pack.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os recursos e funcionalidades principais do Azure Stack.
+  - Compreender as diferenças entre o Azure Stack e o Microsoft Azure.
+  - Compreender as diferenças entre o Azure Stack e o Windows Azure Pack.
+
+
+  ### Módulo 2&#58; Componentes fundamentais do Microsoft Azure Stack
+  Neste módulo, você aprenderá sobre os recursos do Windows Server 2016 disponíveis no Azure Stack e os componentes opcionais do System Center 2016 que podem ser adicionados para gerenciamento e manutenção de um ambiente Azure Stack.  Você também aprenderá como o Azure Stack gerencia a autenticação e os vários provedores de autenticação disponíveis.
+
+
+  #### Lições
+  - Windows Server 2016 e System Center 2016.
+  - Identidade e autenticação.
+
+
+  #### Laboratório&#58; Análise da infraestrutura do Azure Stack
+  - Análise dos componentes da infraestrutura do Azure Stack.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender como os recursos do Windows Server 2016 e os recursos opcionais do System Center 2016 são usados no Microsoft Azure Stack.
+  - Compreender a identidade e a autenticação no Microsoft Azure Stack.
+
+
+  ### Módulo 3&#58; Implementação do Microsoft Azure Stack
+  Este módulo descreve alguns elementos da arquitetura interna do Azure Stack e como eles formam a base do sistema. O módulo discutirá vários conceitos do Azure Stack, por exemplo&#58;
+  - Datacenter definido por software
+  - Arquitetura interna do Azure Stack
+  - Infraestrutura do Azure Stack
+  - Pré-requisitos do Azure Stack
+  - Planejamento e instalação do Azure Stack
+  #### Lições
+  - Arquitetura do Microsoft Azure Stack
+  - Pré-requisitos do Azure Stack
+  - Instalação do Azure Stack
+
+
+  #### Laboratório&#58; Confirmação de pré-requisitos e instalação do Microsoft Azure Stack
+  - Confirmação de pré-requisitos.
+  - Confirmação de instalação bem-sucedida.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a arquitetura do Microsoft Azure Stack.
+  - Compreender os pré-requisitos do Microsoft Azure Stack.
+  - Instalar o Microsoft Azure Stack.
+
+
+  ### Módulo 4&#58; Ofertas de recursos do Microsoft Azure Stack
+  Este módulo discute alguns dos recursos básicos do Azure Stack que fornecem os mecanismos usados pelos locatários ao consumir recursos como máquinas virtuais e bancos de dados SQL Server.
+  #### Lições
+  - Trabalhando com planos e ofertas.
+  - Marketplace do Microsoft Azure Stack.
+  - Habilitando a multilocação no Azure Stack.
+  - Integrando o Azure Stack com o Windows Azure Pack.
+
+
+  #### Laboratório&#58; Gerenciamento de ofertas e planos no Microsoft Azure Stack
+  - Configuração de planos.
+  - Configuração de ofertas.
+  - Assinar ofertas.
+  - Delegar ofertas.
+  - Criação de um novo item de marketplace.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar ofertas e planos no Microsoft Azure Stack.
+  - Gerenciar o marketplace do Microsoft Azure Stack.
+  - Habilitar a multilocação no Azure Stack.
+  - Integrar o Azure Stack com o Windows Azure Pack.
+
+
+  ### Módulo 5&#58; Microsoft Azure Stack e DevOps
+  Este módulo discute os fundamentos de como o Azure Stack permite que as organizações utilizem os DevOps. Ele detalha os fundamentos do Azure Stack, Azure Resource Manager, SDKs e APIs disponíveis e também como as tecnologias de gerenciamento de configuração (PowerShell Desired State Configuration, Chef e Puppet) podem ser usadas para facilitar a implementação rápida e consistente de aplicativos, juntamente com a estabilidade.
+  #### Lições
+  - Tecnologias utilizadas no Microsoft Azure Stack para DevOps.
+  - Modelos do Azure Resource Manager.
+  - Provedores de recursos de terceiros.
+
+
+  #### Laboratório&#58; Depuração e implementação de modelos ARM
+  - Uso do Windows PowerShell para obter versões de API.
+  - Depurar um modelo ARM com o Visual Studio.
+  - Implementar uma máquina virtual com o CLI do Azure.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender as tecnologias utilizadas pelo DevOps no Microsoft Azure Stack.
+  - Compreender os modelos do Azure Resource Manager.
+  - Compreender os provedores de recursos de terceiros disponíveis para o Microsoft Azure Stack.
+
+
+  ### Módulo 6&#58; Infraestrutura como Serviço no Microsoft Azure Stack
+  Este módulo descreve a infraestrutura como serviço no Azure Stack. O módulo abrange as seguintes áreas&#58;
+
+  - Datacenter definido por software
+  - Virtualização de rede Hyper-V
+  - Conectividade externa ao Azure Stack
+  - Armazenamento consistente do Azure no Azure Stack
+  - Máquinas virtuais no Azure Stack
+
+
+  #### Lições
+  - Aprimoramentos de redes definidas por software com o Microsoft Azure Stack e o Windows Server 2016.
+  - Armazenamento no Azure Stack.
+  - Máquinas virtuais no Microsoft Azure Stack.
+
+
+  #### Laboratório&#58; Provisionamento de armazenamento e máquinas virtuais no Microsoft Azure Stack
+  - Criação de grupos de assinatura e de recursos.
+  - Criação de contas de armazenamento.
+  - Criação de uma rede virtual.
+  - Criação de máquinas virtuais.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender os aprimoramentos de rede definidas por software com o Microsoft Azure Stack e o Windows Server 2016.
+  - Configurar o armazenamento no Azure Stack.
+  - Implementar máquinas virtuais no Microsoft Azure Stack.
+
+
+  ### Módulo 7&#58; Plataforma como serviço no Microsoft Azure Stack
+  O Azure Stack integra as ofertas baseadas em Plataforma como Serviço (PaaS) do Microsoft Azure ao Azure Stack. O Microsoft Azure foi projetado originalmente para o desenvolvimento de aplicativos baseados em PaaS e serviços baseados em IaaS adicionados posteriormente. Com o lançamento inicial do Azure Stack, a Microsoft oferece 4 serviços baseados em PaaS&#58; bancos de dados SQL e MySQL
+  
+  Serviço de aplicativos para sites Key Vault para armazenar com segurança segredos como senhas e certificados Azure Functions para computação sem servidor. Este módulo detalhará cada oferta e mostrará como podem ser utilizadas.
+  #### Lições
+  - Compreendo a Plataforma como Serviço.
+  - Provedores de SQL Server e MySQL Server no Microsoft Azure Stack.
+  - Provedor de recursos de serviços de aplicativos.
+  - Azure Key Vault.
+  - Azure Functions.
+
+
+  #### Laboratório&#58; Configuração de Plataforma como Serviço no Azure Stack
+  - Adição de servidores de hospedagem
+  - Configuração de um plano e oferta
+  - Criação de bancos de dados SQL Server
+  - Configuração de um plano e oferta para serviço de aplicativos
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a Plataforma como Serviço.
+  - Configurar o provedor de recursos de SQL e MySQL.
+  - Configurar o provedor de recursos do serviço de aplicativos.
+  - Compreender como o Key Vault funciona no Azure Stack.
+  - Compreender como o Azure Functions funciona no Azure Stack.
+
+
+  ### Módulo 8&#58; Monitoramento no Microsoft Azure Stack
+  Neste módulo, você aprenderá como o Azure Stack é monitorado e atualizado. Você também aprenderá a monitorar as cargas de trabalho de convidados provisionados por locatários com o Azure Stack. Além disso, você aprenderá a diagnosticar problemas dos componentes principais do Azure Stack. Por último, você aprenderá como a infraestrutura do Azure Stack está protegida e como é possível proteger as cargas de trabalho do locatário.
+  #### Lições
+  - Unidade renovável.
+  - Monitoramento do plano de controle do Azure Stack.
+  - Aplicação de patches na infraestrutura do Azure Stack.
+  - Monitoramento de cargas de trabalho de convidados no Microsoft Azure Stack.
+  - Diagnóstico de problemas do Azure Stack.
+  - Proteção do Azure Stack e de cargas de trabalho de locatários.
+
+
+  #### Laboratório&#58; Diagnóstico de problemas e monitoramento de sistemas operacionais de convidados no Microsoft Azure Stack
+  - Monitoramento do Azure Stack.
+  - Monitoramento de sistemas operacionais de convidados.
+  - Diagnóstico de problemas do Azure Stack com logs e alertas de auditoria.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever o conceito de unidade renovável no Microsoft Azure Stack.
+  - Descrever o Monitoramento do plano de controle no Microsoft Azure Stack.
+  - Compreender como a aplicação de patches é gerenciada no Microsoft Azure Stack.
+  - Monitorar cargas de trabalho de convidados no Microsoft Azure Stack.
+  - Diagnosticar problemas no Microsoft Azure Stack.
+  - Proteger o Azure Stack e as cargas de trabalho de locatários.
+
+
+  ### Módulo 9&#58; Licenças do Microsoft Azure Stack e cobrança de locatários
+  Neste módulo, você aprenderá como o Azure Stack é licenciado pela Microsoft, incluindo os dois modelos de cobrança para o Azure Stack e quais custos adicionais estão normalmente envolvidos em uma implementação do Azure Stack.
+  #### Lições
+  - Como licenciar e pagar pelo Azure Stack.
+  - API Azure Consistent Usage.
+  - Custos e modelos de negócios com o Azure Stack.
+
+
+  #### Laboratório&#58; Obtenção de informações de uso
+  - Obtenção de informações de uso do Azure Stack.
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender o sistema de cobrança do Azure Stack.
+  - Usar a API Azure Consistent Usage.
+  - Compreender os custos e modelos de negócios no Azure Stack.
+

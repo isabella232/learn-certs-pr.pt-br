@@ -1,0 +1,423 @@
+### YamlMime:Course
+title: Querying Data with Transact-SQL
+metadata:
+  title: 'Course 20761-C: Querying Data with Transact-SQL'
+  description: 'Course 20761-C: Querying Data with Transact-SQL'
+uid: course.20761
+courseNumber: '20761-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever os principais recursos e componentes do SQL Server.
+- skill: Descrever T-SQL, conjuntos e lógica de predicados.
+- skill: Escrever uma única instrução SELECT de tabela.
+- skill: Escrever uma instrução SELECT de várias tabelas.
+- skill: Escrever instruções SELECT com filtragem e classificação.
+- skill: Descrever como o SQL Server usa tipos de dados.
+- skill: Escrever instruções DML.
+- skill: Escrever consultas que usem funções internas.
+- skill: Escrever consultas que agregam dados.
+- skill: Escrever subconsultas.
+- skill: Criar e implementar visualizações e funções com valor de tabela.
+- skill: Usar operadores definidos para combinar resultados da consulta.
+- skill: Escrever consultas que usem funções de classificação, deslocamento e agregação de janelas.
+- skill: Transformar dados implementando o pivô, o não pivot, o rollup e o cubo.
+- skill: Criar e implementar procedimentos armazenados.
+- skill: Adicionar construções de programação como variáveis, condições e loops ao código T-SQL.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-761
+summary: |-
+  Este curso foi criado para apresentar os alunos ao Transact-SQL. Ele é projetado de tal forma que os primeiros três dias podem ser ensinados como um curso para alunos que exigem o conhecimento de outros cursos do SQL Server no currículo. Os dias 4 e 5 ensinam as demais habilidades necessárias para fazer exame do exame 70-761.
+
+  #### Perfil do público
+  O principal objetivo do curso é proporcionar aos alunos uma boa compreensão da linguagem Transact-SQL, usada por todas as disciplinas relacionadas ao SQL Server; Database Administrator, Desenvolvimento de Banco de Dados e Business Intelligence. Assim, o público-alvo principal deste curso é&#58; Administradores de banco de dados, Desenvolvedores de banco de dados e profissionais de BI.
+prerequisitesSection: |-
+  - Noções básicas do sistema operacional Microsoft Windows e suas funcionalidades essenciais.
+  - Conhecimento prático de bancos de dados relacionais.
+outlineSection: |-
+  ### Módulo 1&#58; Introdução ao Microsoft SQL Server
+  Este módulo apresenta o SQL Server, as versões do SQL Server, incluindo versões em nuvem, e como se conectar ao SQL Server usando o SQL Server Management Studio.
+  #### Lições
+  - Arquitetura básica do SQL Server
+  - Edições e versões do SQL Server
+  - Noções básicas do SQL Server Management Studio
+  
+
+  #### Laboratório&#58; Trabalhando com ferramentas do SQL Server
+  - Trabalhando com o SQL Server Management Studio
+  - Criando e organizando scripts T-SQL
+  - Usando livros online
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever bancos de dados relacionais e consultas Transact-SQL.
+  - Descrever as edições e versões locais e baseadas na nuvem do SQL Server.
+  - Descrever como usar o SSMS (SQL Server Management Studio) para conectar-se a uma instância do SQL Server, explorar os bancos de dados contidos na instância e trabalhar com arquivos de script que contenham consultas T-SQL.
+
+
+  ### Módulo 2&#58; Introdução ao T-SQL Server
+  Este módulo descreve os elementos do T-SQL e sua função na gravação de consultas. Descrever o uso de conjuntos no SQL Server. Descrever o uso da lógica de predicado no SQL Server. Descrever a ordem lógica das operações nas instruções SELECT.
+
+
+  #### Lições
+  - Introdução ao T-SQL
+  - Noções de conjuntos
+  - Noções de lógica de predicados
+  - Noções da ordem lógica das operações em instruções SELECT
+
+
+  #### Laboratório&#58; Introdução a consulta de T-SQL
+  - Executando instruções SELECT básicas
+  - Executando consultas que filtram dados usando predicados
+  - Executando consultas que classificam dados usando ORDER BY
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever o papel do T-SQL na escrita de instruções SELECT.
+  - Descrever os elementos da linguagem T-SQL e quais elementos serão úteis para escrever consultas.
+  - Descrever os conceitos da teoria dos conjuntos, um dos fundamentos matemáticos dos bancos de dados relacionais e para ajudá-lo a aplicá-lo à maneira como você pensa em consultar o SQL Server
+  - Descrever a lógica de predicado e examinar seu aplicativo para consultar o SQL Server.
+  - Explicar os elementos de uma instrução SELECT, delinar a ordem em que os elementos são avaliados e aplicar esse entendimento a uma abordagem prática para escrever consultas.
+
+
+  ### Módulo 3&#58; Escrevendo consultas SELECT
+  Este módulo apresenta os fundamentos da instrução SELECT com ênfase nas consultas em relação a uma tabela simples.
+  #### Lições
+  - Escrevendo instruções SELECT simples
+  - Eliminando duplicatas com DISTINCT
+  - Uso de alias de colunas e tabelas
+  - Escrevendo expressões CASE simples
+
+
+  #### Laboratório&#58; Escrevendo instruções SELECT básicas
+  - Escrevendo instruções SELECT simples
+  - Eliminando duplicatas usando o DISTINCT
+  - Uso de alias de colunas e tabelas
+  - Usando uma expressão CASE simples
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever a estrutura e o formato da instrução SELECT, bem como aprimoramentos que adicionarão funcionalidade e legibilidade às suas consultas
+  - Descrever como eliminar duplicatas usando a cláusula DISTINCT
+  - Descrever o uso de aliases de coluna e tabela
+  - Compreender e usar expressões CASE
+
+
+  ### Módulo 4&#58; Escrevendo consultas em diversas tabelas
+  Este módulo descreve como escrever consultas que combinam dados de várias fontes no Microsoft SQL Server.
+
+
+  #### Lições
+  - Compreensão de Joins
+  - Escrever consultas com Inner Joins
+  - Escrever consultas com Outer Joins
+  - Escrever consultas com Cross Joins e Self Joins
+
+
+  #### Laboratório&#58; Escrevendo consultas em diversas tabelas
+  - Escrevendo consultas que usam Inner Joins
+  - Escrevendo consultas que usam Inner Joins de várias tabelas
+  - Escrevendo consultas que usam Self-Joins
+  - Escrevendo consultas que usam Outer Joins
+  - Escrevendo consultas que usam Cross Joins
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Explicar os fundamentos das junções no SQL Server 
+  - Escrever consultas de junção internas
+  - Escrever consultas que usem junções externas 
+  - Usar tipos de junção adicionais
+
+
+  ### Módulo 5&#58; Classificação e filtragem de dados
+  Este módulo descreve como implementar a classificação e a filtragem.
+  #### Lições
+  - Classificação de dados
+  - Filtragem de dados com predicados
+  - Filtrando dados com TOP e OFFSET-FETCH
+  - Trabalhando com valores desconhecidos
+
+
+  #### Laboratório&#58; Classificação e filtragem de dados
+  - Escrevendo consultas que filtram dados usando uma cláusula WHERE
+  - Escrevendo consultas que classificam dados usando uma cláusula ORDER BY
+  - Escrevendo consultas que filtram dados usando a opção TOP
+  - Consultas de gravação que filtram dados usando a cláusula OFFSET-FETCH
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Explicar como adicionar uma cláusula ORDER BY às suas consultas para controlar a ordem das linhas exibidas na saída da sua consulta
+  - Explicar como construir cláusulas WHERE para filtrar as linhas que não correspondem ao predicado.
+  - Explicar como limitar intervalos de linhas na cláusula SELECT usando uma opção TOP. 
+  - Explicar como limitar intervalos de linhas usando a opção OFFSET-FETCH de uma cláusula ORDER BY.
+  - Explicar como a lógica de três valores é responsável por valores desconhecidos e ausentes, como o SQL Server usa NULL para marcar valores ausentes e como testar o NULL em suas consultas.
+
+  ### Módulo 6&#58; Trabalhando com tipos de dados do SQL Server
+  Este módulo apresenta os tipos de dados que o SQL Server usa para armazenar dados.
+  #### Lições
+  - Introdução aos tipos de dados do SQL Server
+  - Trabalhando com dados de caracteres
+  - Trabalhando com dados de data e hora
+
+
+  #### Laboratório&#58; Trabalhando com tipos de dados do SQL Server
+  - Escrever consultas que retornam dados de data e hora
+  - Escrever consultas que usam funções de data e hora
+  - Gravando consultas que retornam dados de caracteres
+  - Escrever consultas que retornam funções de caracteres
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Explorar muitos dos tipos de dados que o SQL Server usa para armazenar dados e como os tipos de dados são convertidos entre os tipos
+  - Explicar os tipos de dados baseados em caracteres do SQL Server, como as comparações de caracteres funcionam e algumas funções comuns que você pode achar úteis em suas consultas
+  - Descrever os tipos de dados usados para armazenar dados temporais, como inserir datas e horas para que sejam analisados corretamente pelo SQL Server e como manipular datas e horas com funções internas.
+
+
+  ### Módulo 7&#58; Uso do DML para modificar dados
+  Este módulo descreve como criar consultas DML e por que você deseja.
+  #### Lições
+  - Adicionando dados a tabelas
+  - Modificando e removendo dados
+  - Gerando valores automáticos da coluna
+
+
+  #### Laboratório&#58; Uso do DML para modificar dados
+  - Inserindo registros com DML
+  - Atualizando e excluindo registros usando DML
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Usar as instruções INSERT e SELECT INTO
+  - Usar UPDATE, MERGE, DELETE e TRUNCATE.
+
+
+  ### Módulo 8&#58; Uso de funções internas
+  Este módulo apresenta algumas das muitas funções internas do SQL Server.
+  #### Lições
+  - Escrever consultas com funções internas
+  - Uso de funções de conversão
+  - Uso de funções lógicas
+  - Uso de funções compatíveis com NULL
+
+
+  #### Laboratório&#58; Uso de funções internas
+  - Escrevendo consultas que usam funções de conversão
+  - Escrevendo consultas que usam funções lógicas
+  - Escrevendo consultas que testam a anulabilidade
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever os tipos de funções fornecidas pelo SQL Server e concentrar-se no trabalho com funções escalares
+  - Explicar como converter explicitamente dados entre tipos usando várias funções do SQL Server
+  - Descrever como usar funções lógicas que avaliam uma expressão e retornam um resultado escalar.
+  - Descrever funções adicionais para trabalhar com NULL
+
+
+  ### Módulo 9&#58; Agrupamento e agregação de dados
+  Este módulo descreve como utilizar funções agregadas.
+  #### Lições
+  - Uso de funções de agregação
+  - Uso da cláusula GROUP BY
+  - Filtragem de grupos com HAVING
+
+
+  #### Laboratório&#58; Agrupamento e agregação de dados
+  - Escrevendo consultas que usam a cláusula GROUP BY
+  - Escrevendo consultas que usam funções agregadas
+  - Escrevendo consultas que usam funções agregadas distintas
+  - Escrevendo consultas que filtram grupos com a cláusula HAVING
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever a função agregada interna no SQL Server e escrever consultas usando-a.
+  - Escrever consultas que separam linhas usando a cláusula GROUP BY.
+  - Escrever consultas que usem a cláusula HAVING para filtrar grupos.
+
+
+  ### Módulo 10&#58; Uso de subconsultas
+  Este módulo descreve vários tipos de subconsulta e como e quando usá-los.
+  #### Lições
+  - Escrevendo subconsultas independentes
+  - Escrevendo subconsultas correlacionadas
+  - Uso do predicado EXIST com subconsultas
+
+
+  #### Laboratório&#58; Uso de subconsultas
+  - Escrevendo consultas que usam subconsultas independentes
+  - Escrevendo consultas que usam subconsultas escalares e com vários resultados
+  - Escrevendo consultas que usam subconsultas correlacionadas e uma cláusula EXISTS
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever onde subconsultas podem ser usadas em uma instrução SELECT.
+  - Escrever consultas que usem subconsultas correlacionadas em uma instrução SELECT
+  - Escrever consultas que usem predicados EXISTS em uma cláusula WHERE para testar a existência de linhas qualificadas
+  - Usar o predicado EXISTS para verificar a existência de linhas em uma subconsulta de forma eficiente.
+
+
+  ### Módulo 11&#58; Uso de expressões de tabela
+  Anteriormente, neste curso, você aprendeu sobre o uso de subconsultas como uma expressão que retornava resultados para uma consulta de chamada externa. Como as subconsultas, as expressões de tabela são expressões de consulta, mas as expressões de tabela estendem essa ideia, permitindo que você os nomeie e trabalhe com seus resultados, como faria com os dados em qualquer tabela relacional válida. O Microsoft SQL Server oferece suporte a quatro tipos de expressões de tabela&#58; tabelas derivadas, CTEs (Common Table Expression), exibições e TVFs (funções com valor de tabela em linha). Neste módulo, você aprenderá a trabalhar com essas formas de expressões de tabela e aprenderá a usá-las para ajudar a criar uma abordagem modular para escrever consultas.
+  #### Lições
+  - Uso de exibições
+  - Uso de funções com valor de tabela integradas
+  - Uso de tabelas derivadas
+  - Uso de expressões de tabela comuns
+
+
+  #### Laboratório&#58; Uso de expressões de tabela
+  - Escrevendo consultas que usam visualizações
+  - Escrevendo consultas que usam tabelas derivadas
+  - Escrevendo consultas que usam expressões comuns de tabela (CTEs)
+  - Escrevendo consultas que usam expressões com valor de tabela em linha (TVFs)
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Escrever consultas que retornem resultados de visualizações.
+  - Usar a instrução CREATE FUNCTION para criar TVFs embutidos simples.
+  - Escrever consultas que criam e recuperam resultados de tabelas derivadas.
+  - Escrever consultas que criem CTEs e retornar resultados da expressão da tabela.
+
+
+  ### Módulo 12&#58; Uso de operadores de conjuntos
+  Este módulo apresenta como usar os operadores de conjunto UNION, INTERSECT e EXCEPT para comparar linhas entre dois conjuntos de entrada.
+  #### Lições
+  - Escrevendo consultas com o operador UNION
+  - Uso de EXCEPT e INTERSECT
+  - Uso de APPLY
+
+
+  #### Laboratório&#58; Uso de operadores de conjuntos
+  - Escrevendo consultas que usam operadores de conjunto UNION e UNION ALL
+  - Escrevendo consultas que usam operadores CROSS APPLY e OUTER APPLY
+  - Escrevendo consultas que usam os operadores EXCEPT e INTERSECT
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Escrever consultas que usem UNION para combinar conjuntos de entradas.
+  - Escrever consultas que usem UNION ALL para combinar conjuntos de entradas
+  - Escrever consultas que usem o operador EXCEPT para retornar apenas linhas em um conjunto, mas não em outro.
+  - Escrever consultas que usem o operador INTERSECT para retornar apenas linhas presentes nos dois conjuntos
+  - Escrever consultas usando o operador CROSS APPLY.
+  - Escrever consultas usando o operador OUTER APPLY
+
+
+  ### Módulo 13&#58; Usando funções de classificação, deslocamento e agregação do Windows
+  Este módulo descreve os benefícios do uso das funções da janela. Restrinja as funções da janela às linhas definidas em uma cláusula OVER, incluindo partições e quadros. Escrever consultas que usem funções de janela para operar em uma janela de linhas e retornar resultados de classificação, agregação e comparação de deslocamento.
+  #### Lições
+  - Criação de intervalos com OVER
+  - Explorando funções de intervalos
+
+
+  #### Laboratório&#58; Usando as funções de classificação, deslocamento e agregação do Windows
+  - Escrever consultas que usam funções de classificação
+  - Escrevendo consultas que usam funções de deslocamento
+  - Escrevendo consultas que usam funções agregadas de janela
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os componentes T-SQL usados para definir janelas e os relacionamentos entre eles.
+  - Escrever consultas que usem a cláusula OVER, com particionamento, pedido e enquadramento para definir janelas
+  - Escrever consultas que usem funções agregadas da janela.
+  - Escrever consultas que usem funções de classificação de janela.
+  - Escrever consultas que usem funções de deslocamento de janela
+
+
+  ### Módulo 14&#58; Dinamização e agrupamento de dados
+  Este módulo descreve consultas de gravação que dinamizam e não dinamizam conjuntos de resultados. Escrever consultas que especifiquem vários agrupamentos com conjuntos de agrupamentos
+  #### Lições
+  - Escrevendo consultas com PIVOT e UNPIVOT
+  - Trabalhando com Grouping Sets
+
+
+  #### Laboratório&#58; Conjuntos de dinamização e agrupamento
+  - Escrevendo consultas que usam o operador PIVOT
+  - Escrevendo consultas que usam o operador UNPIVOT
+  - Escrevendo consultas que usam as subcláusulas GROUPING SETS CUBE e ROLLUP
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever como dados pivoteados podem ser usado em consultas T-SQL.
+  - Escrever consultas que dinamizam dados de linhas para colunas usando o operador PIVOT.
+  - Escrever consultas que dinamizem os dados das colunas para as linhas usando o operador UNPIVOT.
+  - Escrever consultas usando a subcláusula GROUPING SETS.
+  - Escrever consultas que usem ROLLUP AND CUBE.
+  - Escrever consultas que usem a função GROUPING_ID.
+
+
+  ### Módulo 15&#58; Executando procedimentos armazenados
+  Este módulo descreve como retornar resultados executando procedimentos armazenados. Passar parâmetros para procedimentos. Criar procedimentos armazenados simples que encapsulam uma instrução SELECT. Construir e executar SQL dinâmico com EXEC e sp_executesql.
+  #### Lições
+  - Consultando dados com procedimentos armazenados
+  - Passando parâmetros para procedimentos armazenados
+  - Criação de procedimentos simples armazenados
+  - Trabalhando com Dynamic SQL
+
+
+  #### Laboratório&#58; Execução de procedimentos armazenados
+  - Usando a instrução EXECUTE para invocar procedimentos armazenados
+  - Passando parâmetros para procedimentos armazenados
+  - Execução de procedimentos armazenados do sistema
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os procedimentos armazenados e seu uso.
+  - Escrever instruções T-SQL que executam procedimentos armazenados para retornar dados.
+  - Escrever instruções EXECUTE que passam parâmetros de entrada para procedimentos armazenados.
+  - Escrever lotes T-SQL que preparam parâmetros de saída e executar procedimentos armazenados.
+  - Usar a instrução CREATE PROCEDURE para escrever um procedimento armazenado.
+  - Criar um procedimento armazenado que aceite parâmetros de entrada.
+  - Descrever como o T-SQL pode ser construído dinamicamente.
+  - Escrever consultas que usam SQL dinâmico.
+
+
+  ### Módulo 16&#58; Programando com T-SQL
+  Este módulo descreve como aprimorar seu código T-SQL com elementos de programação.
+  #### Lições
+  - Elementos de programação do T-SQL
+  - Controle de fluxo do programa
+
+
+  #### Laboratório&#58; Programando com T-SQL
+  - Declarando variáveis e delimitando lotes
+  - Usando elementos de controle de fluxo
+  - Usando variáveis em uma instrução SQL dinâmica
+  - Usando sinônimos
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever como o Microsoft SQL Server trata coleções de instruções como lotes.
+  - Criar e enviar lotes de código T-SQL para execução pelo SQL Server.
+  - Descrever como o SQL Server armazena objetos temporários como variáveis.
+  - Escrever código que declare e atribuir variáveis.
+  - Criar e chamar sinônimos
+  - Descrever os elementos de controle de fluxo no T-SQL.
+  - Escrever código T-SQL usando blocos IF ELSE.
+  - Escrever código T-SQL que usa WHILE.
+
+
+  ### Módulo 17&#58; Implementação do tratamento de erros
+  Este módulo apresenta o tratamento de erros para o T-SQL.
+  #### Lições
+  - Implementando o tratamento de erros T-SQL
+  - Implementando manipulação de exceção estruturada
+
+
+  #### Laboratório&#58; Implementação do tratamento de erros
+  - Redirecionando erros com TRY/CATCH
+  - Usando o THROW para passar uma mensagem de erro de volta para um cliente
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar tratamento de erros de T-SQL.
+  - Implementar manipulação de exceção estruturada.
+
+
+  ### Módulo 18&#58; Implementação de transações
+  Este módulo descreve como implementar transações.
+  #### Lições
+  - Transações e os mecanismos de banco de dados
+  - Controlando transações
+
+
+  #### Laboratório&#58; Implementação de transações
+  - Controlando transações com BEGIN, COMMIT e ROLLBACK
+  - Adicionando tratamento de erros a um bloco CATCH
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever transações e diferenças entre lotes e transações.
+  - Descrever os lotes e como são tratados pelo SQL Server.
+  - Criar e gerenciar transações com instruções de linguagem de controle de transações (TCL).
+  - Usar SET XACT_ABORT para definir os SQL Servers que manipulam transações fora dos blocos TRY/CATCH.
+

@@ -1,0 +1,54 @@
+### YamlMime:Examination
+title: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance
+metadata:
+  title: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
+  description: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
+uid: exam.mb-6-894
+displayName: MB6-894
+summary: |-
+  <div><div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
+  </div>
+
+  Os candidatos para este exame são consultores técnicos, programadores ou pessoal de TI que implementam tarefas técnicas e de desenvolvimento básicas necessárias para personalizar o Microsoft Dynamics 365 for Finance and Operations e Microsoft Dynamics 365 Commerce.
+
+  Os candidatos devem ter um conhecimento básico do Microsoft Dynamics 365 Finance e no Microsoft Dynamics 365 Commerce. Além disso, é necessária experiência com o Visual Studio e programação orientada por objeto.
+
+  Os candidatos a esse exame de desenvolvimento devem ter um entendimento moderado dos conceitos e processos de programação, bem como um entendimento das modificações de Finanças e Comércio, aprimoramentos e novos projetos de desenvolvimento que se aplicam aos diferentes cenários de processos de negócios.
+
+  <div style='font-weight&#58; bold;'><br/>em 4 de fevereiro de 2020, O conteúdo deste exame foi atualizado. Para saber mais sobre essas alterações e como elas afetam as habilidades medidas, baixe e leia o documento de alteração do exame MB6-894.</div>
+subTitle: Os candidatos para este exame são consultores técnicos, programadores ou pessoal de TI que implementam tarefas técnicas e de desenvolvimento básicas necessárias para personalizar o Microsoft Dynamics 365 for Finance and Operations e Microsoft Dynamics 365 Commerce.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oaj7
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=MB6-894&examname=Development,%20Extensions,%20and%20Deployment%20for%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-894
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Compreender a arquitetura e o ambiente de desenvolvimento (20-25%)
+- Desenvolver novos elementos usando o Application Explorer (20-25%)
+- Ler e escrever X++ básico (20-25%)
+- Gerenciar a Interface do Usuário e de Segurança para Desenvolvedores (20-25%)
+- Desenvolver e estender componentes de varejo (15-20%)
+roles:
+- business-analyst
+products:
+- dynamics-finance
+relatedCertifications:
+- related:
+    uid: certification.mcsa-microsoft-dynamics-365-for-operations
+resources:
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: ../certification-exam-policies.md
+

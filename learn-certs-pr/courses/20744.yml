@@ -1,0 +1,316 @@
+### YamlMime:Course
+title: Securing Windows Server 2016
+metadata:
+  title: 'Course 20744-C: Securing Windows Server 2016'
+  description: 'Course 20744-C: Securing Windows Server 2016'
+uid: course.20744
+courseNumber: '20744-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Proteger o Windows Server.
+- skill: Proteger credenciais e implementar estações de trabalho de acesso privilegiadas.
+- skill: Limitar os direitos do administrador com Just Enough Administration.
+- skill: Gerenciar o acesso privilegiado.
+- skill: Mitigar malware e ameaças.
+- skill: Analisar a atividade com auditoria e análise de log avançadas.
+- skill: Implementar e configurar o Advanced Threat Analytics e o Microsoft Operations Management Suite.
+- skill: Configurar máquinas virtuais (VMs) com malha protegida.
+- skill: Usar o Security Compliance Toolkit (SCT) e contêineres para aprimorar a segurança.
+- skill: Planejar e proteger os dados.
+- skill: Otimizar e proteger os serviços de arquivos.
+- skill: Proteger o tráfego de rede com firewalls e criptografia.
+- skill: Proteger o tráfego de rede com DNSSEC e analisador de mensagens.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.70-744
+summary: |-
+  Este curso presencial de cinco dias ensina aos profissionais de TI como otimizar a segurança da infraestrutura de TI que administram. Este curso começa enfatizando a importância de assumir que as violações de rede já ocorreram e, em seguida, ensina como proteger credenciais administrativas e direitos para ajudar a garantir que os administradores possam executar apenas as tarefas que precisam, quando precisam.
+
+  Este curso descreve como usar a auditoria e o recurso Advanced Threat Analysis no Windows Server 2016 para identificar problemas de segurança. Você também aprenderá a mitigar ameaças de malware, proteger sua plataforma de virtualização e usar opções de implementação, como servidor Nano, e contêineres para aumentar a segurança. O curso também discute como você pode ajudar a proteger o acesso aos arquivos por meio de criptografia e controle dinâmico de acesso e como é possível aprimorar a segurança da sua rede.
+
+  #### Perfil do público
+  Este curso destina-se aos profissionais de TI que precisam administrar as redes do Windows Server 2016 com segurança. Esses profissionais normalmente trabalham com redes configuradas como ambientes baseados em domínio do Windows Server, com acesso gerenciado aos serviços de internet e nuvem. 
+
+  Os estudantes que buscam certificação no exame de segurança do servidor Windows 70-744 também serão beneficiados com este curso.
+prerequisitesSection: |-
+  Os estudantes devem ter pelo menos dois anos de experiência na área de TI e devem ter&#58;
+  - Concluído os cursos 740, 741 e 742 ou equivalente.
+  - Compreensão sólida e prática dos fundamentos de rede, incluindo TCP/IP, User Datagram Protocol (UDP) e Domain Name System (DNS).
+  - Compreensão sólida e prática dos princípios de Active Directory Domain Services (AD DS).
+  - Compreensão sólida e prática dos fundamentos de virtualização do Microsoft Hyper-V.
+  - Compreensão dos princípios de segurança do Windows Server.
+outlineSection: |-
+  ### Módulo 1&#58; Ataques, detecção de violações e ferramentas Sysinternals
+  Este módulo compõe o curso para que os alunos pensem em segurança em ambientes onde a base da infraestrutura é composta predominantemente de produtos da Microsoft. O módulo começa com a apresentação aos estudantes sobre a filosofia de “simulação da violação” e fazê-los entender os diferentes tipos de ataques que podem ocorrer, incluindo cronogramas de ataque e vetores. Além disso, permite que os estudantes estabeleçam os recursos-chave, como devem agir ao detectar um incidente e como as necessidades diretas e os requisitos legislativos de uma organização determinam as políticas de segurança.
+  #### Lições
+  - Compreendendo os ataques
+  - Como detectar falhas de segurança
+  - Examinar as atividades com as ferramentas Sysinternals
+
+
+  #### Laboratório&#58; Estratégias básicas de detecção de violação e resposta a incidentes
+  - Identificando tipos de ataque
+  - Explorando as ferramentas Sysinternals
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os tipos de ataques que podem ocorrer.
+  - Explicar como detectar falhas de segurança.
+  - Explicar como examinar as atividades usando o conjunto de ferramentas Sysinternals.
+
+
+  ### Módulo 2&#58; Proteção de credenciais e acesso privilegiado
+  Este módulo abrange contas e direitos de usuário, contas de computador e serviços, credenciais, estações de trabalho de acesso privilegiado e a solução de senha do administrador local. Neste módulo, os estudantes aprenderão a configurar direitos do usuário e opções de segurança, proteger credenciais com o Securityedential Guard, implementar estações de trabalho de acesso privilegiado e gerenciar e implementar a Solução de Senha de Administrador Local, que permite gerenciar senhas de conta de administrador local.
+  #### Lições
+  - Compreendendo os direitos de usuário
+  - Contas de computador e serviços
+  - Proteção de credenciais
+  - Estações de trabalho de acesso privilegiados e Jump Servers
+  - Solução de senha de administrador local
+
+
+  #### Laboratório&#58; Implementando direitos de usuário, opções de segurança e contas de serviço gerenciado de grupo
+  - Configuração dos direitos de usuário e opções de segurança da conta
+  - Delegar privilégios
+  - Criação de contas de serviço gerenciado de grupo
+  - Localização de contas problemáticas
+
+
+  #### Laboratório&#58; Configuração e implementação de LAPs
+  - Instalação e configuração de LAPs
+  - Implementação e teste de LAPs
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar os direitos de usuário.
+  - Implementar contas de computador e serviços.
+  - Proteger credenciais.
+  - Descrever como configurar estações de trabalho de acesso privilegiado e jump servers.
+  - Configurar a Solução de Senha de Administrador Local (LAPS).
+
+
+  ### Módulo 3&#58; Limitando os direitos do administrador com Just Enough Administration
+  Este módulo discute como implementar e configurar a solução Just Enough Administration (JEA), que é uma tecnologia administrativa que permite que os alunos apliquem princípios de controle de acesso baseados em função (RBAC) por meio de sessões remotas do Windows PowerShell.
+  #### Lições
+  - Compreendendo o JEA
+  - Verificação e implementação do JEA
+
+
+  #### Laboratório&#58; Limitando privilégios de administrador com JEA
+  - Criando um arquivo de recursos de função
+  - Criando um arquivo de configuração de sessão
+  - Criando um terminal JEA
+  - Conectar e testar um terminal JEA
+  - Implementação de uma configuração JEA para outro computador
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Compreender o JEA.
+  - Verificar e implementar o JEA.
+
+
+  ### Módulo 4&#58; Gerenciamento e florestas administrativas de acesso privilegiado
+  Este módulo descreve os conceitos de florestas de Ambiente Administrativo de Segurança Aprimorado (ESAE), Microsoft Identity Manager (MIM), Administração Just In Time (JIT) ou Gerenciamento de Acesso Privilegiado (PAM).
+  #### Lições
+  - Florestas ESAE
+  - Visão geral do Microsoft Identity Manager
+  - Visão geral da administração JIT e PAM
+
+
+  #### Laboratório&#58; Limitando privilégios de administrador com PAM
+  - Abordagem em camadas para a segurança
+  - Configuração de relações de confiança e entidades sombra
+  - Solicitando acesso privilegiado
+  - Gerenciando funções PAM
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever as florestas ESAE.
+  - Descrever o MIM.
+  - Compreender a administração JIT e PAM.
+
+
+  ### Módulo 5&#58; Mitigação de malware e ameaças
+  Este módulo descreve como usar ferramentas como Windows Defender, Windows AppLocker, Microsoft Device Guard, Windows Defender Application Guard e Windows Defender Exploit Guard.
+  #### Lições
+  - Configuração e gerenciamento do Windows Defender
+  - Restrição de software
+  - Configuração e uso do recurso Device Guard
+
+
+  #### Laboratório&#58; Proteger aplicativos com regras do Windows Defender, AppLocker e Device Guard
+  - Configuração do Windows Defender
+  - Configuração do AppLocker
+  - Configuração do Device Guard
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar e gerenciar o Windows Defender.
+  - Usar as políticas de restrição de software e AppLocker.
+  - Configurar e usar o recurso Device Guard.
+
+
+  ### Módulo 6&#58; Analisando as atividades com auditoria e análise de log avançadas
+  Este módulo fornece uma visão geral da auditoria e, em seguida, oferece informações detalhadas sobre como configurar a auditoria avançada e auditoria e login do Windows PowerShell.
+  #### Lições
+  - Visão geral da auditoria
+  - Auditoria avançada
+  - Auditoria e login do Windows PowerShell
+
+
+  #### Laboratório&#58; Configuração de auditoria avançada
+  - Configurando a auditoria do acesso ao sistema de arquivos
+  - Auditoria de acesso de domínio
+  - Gerenciamento de configuração avançada de políticas de auditoria
+  - Login e auditoria do Windows PowerShell
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a auditoria.
+  - Compreender a auditoria avançada.
+  - Configurar a auditoria e o login do Windows PowerShell.
+
+
+  ### Módulo 7&#58; Implementar e configurar o Advanced Threat Analytics e o Microsoft Operations Management Suite
+  Este módulo descreve as ferramentas Microsoft Advanced Threat Analytics e Microsoft Operations Management suite (OMS). O módulo também explica como usá-las para monitorar e analisar a segurança de uma implementação do Windows Server. Você também aprenderá sobre o Microsoft Azure Security Center, que permite gerenciar e monitorar a configuração de segurança de cargas de trabalho no local e na nuvem.
+  #### Lições
+  - Implementação e configuração do ATA
+  - Implementação e configuração do Microsoft Operations Management Suite
+  - Implementação e configuração do Azure Security Center
+
+
+  #### Laboratório&#58; Implantação do ATA, Microsoft Operations Management Suite e Azure Security Center
+  - Preparação e implementação do ATA
+  - Implementação e implementação do Microsoft Operations Management Suite
+  - Implementação e configuração do Azure Security Center
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar e configurar do ATA.
+  - Implementar e configurar o Microsoft Operations Management Suite.
+  - Implementar e configurar o Azure Security Center.
+
+
+  ### Módulo 8&#58; Infraestrutura de virtualização segura
+  Este módulo descreve como configurar VMs de malha protegida, incluindo os requisitos para VMs blindados e com suporte para criptografia.
+  #### Lições
+  - Malha protegida
+  - Máquinas virtuais blindadas e protegidas por criptografia
+
+
+  #### Laboratório&#58; Malha protegida com atestado confiável do administrador e VMs blindados
+  - Implementação de malha protegida com atestado confiável do administrador
+  - Implementação de VM blindado
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar a malha protegida.
+  - Descrever os VMs blindados e protegidos por criptografia.
+
+
+  ### Módulo 9&#58; Proteção do desenvolvimento de aplicativo e da infraestrutura de carga de trabalho de servidor
+  Este módulo descreve o SCT, um conjunto de ferramentas gratuitas que podem ser baixadas e usadas para criar e aplicar configurações de segurança. Você também aprenderá a aprimorar a segurança da plataforma, reduzindo o tamanho e o escopo dos recursos de aplicação e computação por meio de cargas de trabalho de contêiner.
+  #### Lições
+  - Uso do SCT
+  - Compreendendo os contêineres
+
+
+  #### Laboratório&#58; Uso do SCT
+  - Configuração de uma linha de base de segurança para o Windows Server 2016
+  - Implementação de uma linha de base de segurança para o Windows Server 2016
+
+
+  #### Laboratório&#58; Implementação e configuração de contêineres
+  - Implementação e gerenciamento de um contêiner do Windows
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Instalar o SCT e criar e implementar linhas de base de segurança.
+  - Configurar os contêineres do Windows e do Hyper-V no Windows Server 2016.
+
+
+  ### Módulo 10&#58; Planejamento e proteção de dados
+  Este módulo descreve como configurar o Sistema de Arquivos com Criptografia (EFS) e a criptografia de unidade de disco BitLocker para proteger os dados inativos. Você também aprenderá a estender a proteção para a nuvem com a Proteção de Informações do Azure.
+  #### Lições
+  - Planejamento e implementação de criptografia
+  - Planejamento e implementação do BitLocker
+  - Proteção de dados com a Proteção de Informações do Azure
+
+
+  #### Laboratório&#58; Proteção de dados com criptografia e BitLocker
+  - Criptografar e recuperar o acesso a arquivos criptografados
+  - Usando o BitLocker para proteger dados
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Planejar e implementar criptografia.
+  - Planejar e implementar o BitLocker.
+  - Planejar e implementar a Proteção de Informação do Azure.
+
+
+  ### Módulo 11&#58; Otimização e proteção de serviços de arquivo
+  Este módulo descreve como otimizar os serviços de arquivos ao configurar o Gerenciador de Recurso de Servidor de Arquivos (FSRM) e o Sistema de Arquivos Distribuído (DFS). Os estudantes também aprenderão a gerenciar o acesso a arquivos compartilhados configurando o Controle de Acesso Dinâmico (DAC).
+  #### Lições
+  - Gerenciador de Recursos de Servidor de Arquivos
+  - Implementar tarefas de classificação e gerenciamento de arquivos
+  - Controle de Acesso Dinâmico
+
+
+  #### Laboratório&#58; Cotas e triagem de arquivos
+  - Configurar cotas do Gerenciador de Recursos de Servidor de Arquivos
+  - Configuração de relatórios de triagem e armazenamento de arquivos
+
+
+  #### Laboratório&#58; Implementação do controle de acesso dinâmico
+  - Preparação para a implementação do controle de acesso dinâmico
+  - Implementação do controle de acesso dinâmico
+  - Validação e correção do controle de acesso dinâmico
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever o Gerenciador de Recursos de Servidor de Arquivos.
+  - Implementar tarefas de classificação e gerenciamento de arquivos.
+  - Implementar o Controle de Acesso Dinâmico.
+
+
+  ### Módulo 12&#58; Proteção do tráfego de rede com firewalls e criptografia
+  Este módulo descreve como usar o Windows Firewall como uma parte importante da estratégia de proteção de uma organização. Ele descreve também o uso do protocolo IPsec para criptografar o tráfego de rede e estabelecer zonas de segurança em sua rede. Você também aprenderá sobre o recurso Datacenter Firewall, que pode ser usado para ajudar a proteger seus ambientes virtuais no local.
+  #### Lições
+  - Compreendendo as ameaças de segurança relacionadas à rede
+  - Compreendendo o Windows Firewall com segurança avançada
+  - Configurando o IPsec
+  - Datacenter Firewall
+
+
+  #### Laboratório&#58; Configuração do Windows Firewall com segurança avançada
+  - Criando e testando regras de entrada
+  - Criando e testando regras de saída
+  - Criando e testando regras de segurança de conexão
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever as ameaças de segurança relacionadas à rede e como atenuá-las.
+  - Configurar o Windows Firewall com segurança avançada.
+  - Configurar o IPsec.
+  - Descrever o Datacenter Firewall.
+
+
+  ### Módulo 13&#58; Proteção do tráfego de rede
+  Este módulo explora algumas das tecnologias do Windows Server 2016 que podem ser usadas para ajudar a mitigar ameaças à segurança da rede. O módulo explica como configurar o DNSSEC para ajudar a proteger o tráfego da rede e usar o Microsoft Message Analyzer para monitorar o tráfego de rede. O módulo também descreve como proteger o tráfego Server Message Block (SMB).
+  #### Lições
+  - Configuração de opções avançadas de DNS
+  - Examinando o tráfego de rede com o Message Analyzer
+  - Proteger e analisar o tráfego SMB
+
+
+  #### Laboratório&#58; Proteção do DNS
+  - Configuração e teste do DNSSEC
+  - Configuração de políticas de DNS e RRL
+
+  
+  #### Laboratório&#58; Microsoft Message Analyzer e criptografia de SMB
+  - Instalação e uso do Message Analyzer
+  - Configuração e verificação da criptografia de SMB em compartilhamentos SMB
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar opções avançadas de DNS.
+  - Usar o Message Analyzer.
+  - Proteger o tráfego de SMB.
+

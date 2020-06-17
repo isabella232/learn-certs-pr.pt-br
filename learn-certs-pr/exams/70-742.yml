@@ -1,0 +1,62 @@
+### YamlMime:Examination
+title: Identity with Windows Server 2016
+metadata:
+  title: 'Exam 70-742: Identity with Windows Server 2016'
+  description: 'Exam 70-742: Identity with Windows Server 2016'
+uid: exam.70-742
+displayName: 70-742
+summary: |-
+  <div><div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
+  </div>
+
+  Os candidatos a este exame gerenciam as identidades usando as funcionalidades no Windows Server 2016. Os candidatos instalam, configuram, gerenciam e mantém os Active Directory Domain Services (AD DS), além de implementar Objetos de Política de Grupo (GPOs).
+
+  Os candidatos também devem estar familiarizados com a implementação e gerenciamento de Directory Certificate Services (AD CS), Active Directory Federations Services (AD FS), Active Directory Rights Management Services (AD RMS) e proxy de Aplicativos Web.
+
+  <div style='font-weight&#58; bold;'><br/>Note&#58; Existem atualizações de exame efetivas a partir 3 de novembro de 2017. Para saber mais sobre essas alterações e como elas afetam as habilidades medidas, baixe e leia o documento de alteração do Exame 742.</div>
+subTitle: Os candidatos a este exame gerenciam as identidades usando as funcionalidades no Windows Server 2016. Os candidatos instalam, configuram, gerenciam e mantém os Active Directory Domain Services (AD DS), além de implementar Objetos de Política de Grupo (GPOs).
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1l
+practiceTestUrl: https://www.mindhub.com/70-742-Identity-with-Windows-Server-2016-Microsoft-p/mu-70-742_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=70-742&examname=Identity%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-742
+locales:
+- en
+- es
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- Instalar e configurar Serviços de Domínio do Active Directory (AD DS) (20-25%)
+- Gerenciar e manter AD DS (15-20%)
+- Criar e gerenciar Política de Grupo (25-30%)
+- Implementar Serviços de Certificados do Active Directory (AD CS) (10-15%)
+- Implementar Federação de Identidade e Soluções de Acesso (15-20%)
+roles:
+- administrator
+products:
+- windows-server
+courses:
+- uid: course.20742
+relatedCertifications:
+- related:
+    uid: certification.mcsa-windows-server-2016-certification
+resources:
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: ../certification-exam-policies.md
+
