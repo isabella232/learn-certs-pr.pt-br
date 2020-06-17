@@ -1,0 +1,63 @@
+### YamlMime:Examination
+title: Mobility and Devices Fundamentals
+metadata:
+  title: 'Exam 98-368: Mobility and Devices Fundamentals'
+  description: 'Exam 98-368: Mobility and Devices Fundamentals'
+uid: exam.98-368
+displayName: 98-368
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  Os candidatos para este exame possuem conhecimentos fundamentais sobre dispositivos e mobilidade do Windows. Os candidatos devem ter alguma experiência prática com dispositivos Windows, redes baseadas em Windows, Active Directory, produtos antimalware, firewalls, dispositivos, topologias e portas de rede.
+
+  <div style='font-weight&#58; bold;'><br/> Existem atualizações de exame efetivas a partir 31 de janeiro de 2018. Para saber mais sobre essas alterações e como elas afetam as habilidades medidas, baixe e leia o documento de alteração do exame 98-368.</div>
+subTitle: Os candidatos para este exame possuem conhecimentos fundamentais sobre dispositivos e mobilidade do Windows. Os candidatos devem ter alguma experiência prática com dispositivos Windows, redes baseadas em Windows, Active Directory, produtos antimalware, firewalls, dispositivos, topologias e portas de rede.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy9
+practiceTestUrl: https://www.mindhub.com/MTA-98-368-Mobility-and-Devices-Fundamentals-p/mu-98-368_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=98-368&examname=Mobility%20and%20Devices%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-368
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+- tr
+levels:
+- beginner
+skills:
+- Compreender as configurações do dispositivo (20-25%)
+- Compreender acesso aos dados e gerenciamento (20-25%)
+- Compreender a segurança do dispositivo (20-25%)
+- Compreender os serviços da nuvem (20-25%)
+- Compreender a mobilidade corporativa (20-25%)
+roles:
+- administrator
+products:
+- windows
+courses:
+- uid: course.40368
+relatedCertifications:
+- related:
+    uid: certification.mta-mobility-and-device-fundamentals
+resources:
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: ../certification-exam-policies.md
+

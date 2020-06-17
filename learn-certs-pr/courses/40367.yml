@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Security Fundamentals: MTA Exam 98-367'
+metadata:
+  title: 'Course 40367-B: Security Fundamentals: MTA Exam 98-367'
+  description: 'Course 40367-B: Security Fundamentals: MTA Exam 98-367'
+uid: course.40367
+courseNumber: '40367-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compreender as camadas de segurança
+- skill: Compreender a segurança do sistema operacional
+- skill: Compreender a segurança de rede
+- skill: Compreender o software de segurança
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-367
+summary: |-
+  Este curso de treinamento MTA de três dias ajudará você a se preparar para o exame Microsoft Technology Associate 98-367 e a adquirir uma compreensão dos seguintes tópicos&#58; camadas de segurança, segurança do sistema operacional, segurança de rede e software de segurança. Este curso utiliza o mesmo conteúdo disponibilizado nos Microsoft Official Academic Courses (MOAC) para este exame. Este curso foi atualizado para suporte ao Windows 10.
+
+  #### Perfil do público
+  O Microsoft Technology Associate (MTA) é o mais novo conjunto de exames de certificação de tecnologia da Microsoft que permitem validar os conhecimentos básicos necessários para que você construa uma carreira centrada nas tecnologias da Microsoft. Este programa fornece um ponto de entrada apropriado para uma carreira futura em tecnologia e exige que o estudante possua alguma experiência prática ou treinamento, mas não requer experiência no ambiente de trabalho.
+prerequisitesSection: |-
+  Não há pré-requisitos para a realização deste curso.
+outlineSection: |-
+  ### Módulo 1&#58; Compreendendo as camadas de segurança
+
+  ### Módulo 2&#58; Compreendendo a autenticação, autorização e contabilização
+
+  ### Módulo 3&#58; Compreendendo políticas de segurança
+
+  ### Módulo 4&#58; Compreendendo a segurança de rede
+
+  ### Módulo 5&#58; Proteção do servidor e do cliente
+

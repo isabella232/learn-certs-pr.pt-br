@@ -1,0 +1,316 @@
+### YamlMime:Course
+title: Programming in HTML5 with JavaScript and CSS3
+metadata:
+  title: 'Course 20480-C: Programming in HTML5 with JavaScript and CSS3'
+  description: 'Course 20480-C: Programming in HTML5 with JavaScript and CSS3'
+uid: course.20480
+courseNumber: '20480-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Explique como usar o Visual Studio 2017 para criar e executar um aplicativo Web.
+- skill: Descrever os novos recursos do HTML5 e crie e estilize as páginas HTML5.
+- skill: Adicione interatividade a uma página HTML5 usando JavaScript.
+- skill: Criar formulários HTML5 usando diferentes tipos de entrada e valide a entrada do usuário usando atributos HTML5 e código JavaScript.
+- skill: Envie e receba dados de e para uma fonte de dados remota usando objetos de solicitação XMLHTTP e API de busca.
+- skill: Estilize páginas HTML5 usando CSS3.
+- skill: Criar um código JavaScript bem estruturado e de fácil manutenção.
+- skill: Escreva um código JavaScript moderno e use o babel para torná-lo compatível com todos os navegadores.
+- skill: Usar APIs HTML5 comuns em aplicativos interativos da Web.
+- skill: Criar aplicativos da Web que suportem operações offline.
+- skill: Criar páginas da Web HTML5 que possam se adaptar a diferentes dispositivos e fatores de forma.
+- skill: Adicione gráficos avançados a uma página HTML5 usando elementos Canvas e usando e Scalable Vector Graphics.
+- skill: Melhore a experiência do usuário adicionando animações a uma página HTML5.
+- skill: Usar os soquetes da Web para enviar e receber dados entre um aplicativo da Web e um servidor.
+- skill: Melhore a capacidade de resposta de um aplicativo da Web que executa operações de longa execução usando processos do Trabalhador da Web.
+- skill: Usar o WebPack para empacotar aplicativos da web para produção.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.70-480
+summary: |-
+  Este curso fornece uma introdução ao HTML5, CSS3 e JavaScript. Este curso ajuda os alunos a adquirir habilidades básicas de programação HTML5 / CSS3 / JavaScript. Este curso é um ponto de entrada nos caminhos de treinamento dos aplicativos Web e Windows Store. Ele enfoca o uso de HTML5/CSS3/JavaScript para implementar lógica de programação, definir e usar variáveis, realizar loop e ramificação, desenvolver interfaces do usuário, capturar e validar entrada de usuário, armazenar dados e criar aplicativos bem estruturados. Os cenários de laboratório deste curso são selecionados para apoiar e demonstrar a estrutura de vários cenários de aplicativos. Eles pretendem se concentrar nos princípios e componentes/estruturas de codificação usados para estabelecer um aplicativo de software HTML5. Este curso usa o Visual Studio 2017 instalado no Windows 10.
+
+  #### Perfil do público
+  Este curso é destinado a desenvolvedores profissionais com 6 a 12 meses de experiência em programação e interessados em desenvolver aplicativos usando HTML5 com JavaScript e CSS3 (aplicativos da Windows Store para Windows 10 ou aplicativos da Web).
+prerequisitesSection: |-
+  - 1-3 meses de experiência na criação de aplicativos da Web, incluindo a escrita de código JavaScript simples
+  - 1 mês de experiência na criação de aplicativos clientes do Windows
+  - 1 mês de experiência no Visual Studio 2017
+outlineSection: |-
+  ### Módulo 1&#58; Visão geral de relatórios e análises
+  A maioria dos aplicativos da Web modernos são criados com base em páginas HTML que descrevem o conteúdo com o qual os usuários leem e interagem, folhas de estilo para tornar esse conteúdo visualmente agradável e código JavaScript para fornecer um nível de interatividade entre usuário e página e servidor. O navegador da web usa a marcação HTML e as folhas de estilo para renderizar esse conteúdo e executa o código JavaScript para implementar o comportamento do aplicativo. Este módulo analisa os conceitos básicos de HTML e CSS e apresenta as ferramentas que este curso usa para criar páginas e folhas de estilo HTML.
+  #### Lições
+  - Visão geral do HTML
+  - Visão geral do CSS
+  - Criando um aplicativo Web usando o Visual Studio 2017
+
+
+  #### Laboratório&#58; Explorando o aplicativo de conferência da Contoso
+  - Explorando o aplicativo de conferência Contoso
+  - Examinando e modificando o aplicativo de conferência Contoso
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Explique como usar elementos e atributos HTML para criar uma página da web.
+  - Explique como usar CSS para aplicar estilo básico a uma página da web.
+  - Descrever as ferramentas que o Microsoft Visual Studio fornece para criar aplicativos da Web.
+
+
+  ### Módulo 2&#58; Criando e estilizando páginas HTML
+  As tecnologias que formam a base de todos os aplicativos da Web HTML, CSS e JavaScript estão disponíveis há muitos anos, mas o objetivo e a sofisticação dos aplicativos da Web mudaram significativamente. O HTML5 é a primeira grande revisão do HTML em 10 anos e fornece um meio altamente adequado de apresentar conteúdo para aplicativos tradicionais da Web, aplicativos executados em dispositivos móveis portáteis e também na plataforma Windows 10. Este módulo apresenta o HTML5, descreve seus novos recursos, demonstra como apresentar o conteúdo usando os novos recursos no HTML5 e como estilizar esse conteúdo usando CSS.
+  #### Lições
+  - Criando uma página HTML5
+  - Como estilizar uma página HTML5
+
+
+  #### Laboratório&#58; criando e estilizando páginas HTML5
+  - Criando páginas HTML5
+  - Estilo de páginas HTML
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a finalidade e os novos recursos do HTML5 e explique como usar novos elementos HTML5 para criar uma página da Web.
+  - Explique como usar CSS para estilizar o layout, o texto e o plano de fundo de uma página da web.
+
+
+  ### Módulo 3&#58; Introdução às JavaScript
+  HTML e CSS fornecem as informações estruturais, semânticas e de apresentação para uma página da web. No entanto, essas tecnologias não descrevem como o usuário interage com uma página usando um navegador. Para implementar essa funcionalidade, todos os navegadores modernos incluem um mecanismo JavaScript para suportar o uso de scripts em uma página. Eles também implementam o DOM (Document Object Model), um padrão W3C que define como um navegador deve refletir uma página na memória para permitir que os mecanismos de script acessem e alterem o conteúdo dessa página. Este módulo apresenta a programação JavaScript e o DOM.
+  #### Lições
+  - Visão geral do JavaScript
+  - Introdução ao modelo de objeto de documento
+
+
+  #### Laboratório&#58; Exibindo dados e manipulando eventos usando JavaScript.
+  - Exibindo dados programaticamente
+  - Manipulação de Eventos
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a sintaxe básica do JavaScript.
+  - Escreva código JavaScript que use o DOM para alterar e recuperar informações de uma página da web.
+
+
+  ### Módulo 4&#58; Criando formulários para coletar e validar entrada do usuário
+  Os aplicativos da Web frequentemente precisam reunir informações do usuário para executar suas tarefas. Uma página da web precisa ser clara e concisa sobre a entrada esperada de um usuário para minimizar mal-entendidos frustrantes sobre as informações que o usuário deve fornecer. Além disso, todas as entradas devem ser validadas para garantir que estejam em conformidade com os requisitos do aplicativo. Neste módulo, você aprenderá como definir formulários de entrada usando os novos tipos de entrada disponíveis no HTML5. Você também verá como validar dados usando atributos HTML5. Por fim, você aprenderá como executar a validação de entrada estendida usando o código JavaScript e como fornecer feedback aos usuários quando a entrada deles não é válida ou não corresponde às expectativas dos aplicativos.
+  #### Lições
+  - Criando formulários HTML5
+  - Validar entrada de usuário usando atributos do HTML5
+  Validar entrada de usuário usando JavaScript
+
+
+  #### Laboratório&#58; criando um formulário e validando a entrada do usuário
+  - Criando um formulário e validando a entrada do usuário usando atributos HTML5
+  - Validar entrada de usuário usando JavaScript
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar formulários de entrada usando HTML5.
+  - Usar atributos de formulário HTML5 para validar dados.
+  - Escreva código JavaScript para executar tarefas de validação que não podem ser facilmente implementadas usando atributos HTML5.
+
+
+  ### Módulo 5&#58; Comunicação com um servidor remoto
+  Muitos aplicativos da Web exigem o uso de dados mantidos por um site remoto. Em alguns casos, você pode acessar esses dados simplesmente baixando-os de um URL especificado, mas em outros casos os dados são encapsulados pelo site remoto e disponibilizados por meio de um serviço da web. Neste módulo, você aprenderá como acessar um serviço da Web usando o código JavaScript e incorporar dados remotos em seus aplicativos da Web. Você analisará duas tecnologias para conseguir isso&#58; o objeto XMLHttpRequest, que atua como um invólucro programático em torno de solicitações HTTP para sites remotos, e a API Fetch, que simplifica muitas das tarefas envolvidas no envio de solicitações e no recebimento de dados. Como a API Fetch e o objeto XMLHttpRequest são api assíncronos. Você aprenderá primeiro como lidar com tarefas assíncronas com o objeto Promise, as funções de seta e a nova sintaxe async / wait que permite lidar com solicitações assíncronas como se fossem síncronas.
+  #### Lições
+  - Programação assíncrona em JavaScript
+  - Enviando e recebendo dados usando o objeto XMLHttpRequest
+  - Enviando e recebendo dados usando a API de busca
+
+
+  #### Laboratório&#58; comunicando-se com uma fonte de dados remota
+  Recuperando Dados
+  - Serializando e transmitindo dados
+  - Refatorando o código usando o método jQuery ajax
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Lidar com tarefas JavaScript assíncronas usando as novas tecnologias de programação assíncrona.
+  - Envie dados para um serviço da Web e receba dados de um serviço da Web usando um objeto XMLHttpRequest.
+  - Envie dados para um serviço web e receba dados de um serviço web usando a API de busca.
+
+
+  ### Módulo 6&#58; Estilo do HTML5 usando CSS3
+  O estilo do conteúdo exibido por uma página da web é um aspecto importante para tornar um aplicativo atraente e fácil de usar. O CSS é o principal mecanismo usado pelos aplicativos da Web para implementar o estilo, e os recursos adicionados ao CSS3 suportam muitos dos novos recursos encontrados nos navegadores modernos. Onde CSS1 e CSS2.1 eram documentos únicos, o World Wide Web Consortium escolheu escrever CSS3 como um conjunto de módulos, cada um focado em um único aspecto da apresentação, como cor, texto, modelo de caixa e animações. Isso permite que as especificações se desenvolvam de forma incremental, juntamente com suas implementações. Cada especificação define propriedades e valores que já existem no CSS1 e CSS2 e também novas propriedades e valores. Neste módulo, você examinará as propriedades e os valores definidos em vários desses módulos, os novos seletores definidos no CSS3 e o uso de pseudo-classes e pseudo-elementos para refinar essas seleções.
+  #### Lições
+  - Estilo de texto usando CSS3
+  - Elementos do bloco de estilo
+  - Pseudo-Classes e Pseudo-Elementos
+  - Aprimorando efeitos gráficos usando CSS3
+
+
+  #### Laboratório&#58; estilizando texto e elementos de bloco usando CSS3
+  - Estilo da barra de navegação
+  - Estilo do link de registro
+  - Estilo da página Sobre
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Usar os novos recursos do CSS3 para estilizar elementos de texto.
+  - Usar os novos recursos do CSS3 para estilizar elementos de bloco.
+  - Usar seletores CSS3, pseudo-classes e pseudo-elementos para refinar o estilo dos elementos.
+  - Melhore as páginas usando efeitos gráficos CSS3.
+
+
+  ### Módulo 7&#58; Criando objetos e métodos usando JavaScript
+  A reutilização de código e a facilidade de manutenção são os principais objetivos da criação de aplicativos bem estruturados. Se você atingir esses objetivos, reduzirá os custos associados à gravação e manutenção do seu código. Este módulo descreve como escrever código JavaScript bem estruturado usando recursos de linguagem como namespaces, objetos, encapsulamento e herança. Esses conceitos podem parecer familiares se você tiver experiência em uma linguagem como Java ou C #, mas a abordagem JavaScript é bem diferente e há muitas sutilezas que você deve entender se desejar escrever código sustentável.
+  #### Lições
+  - Escrevendo código JavaScript bem estruturado
+  - Criar objetos personalizados
+  - Estendendo Objetos
+
+
+  #### Laboratório&#58; refinando o código para manutenção e extensibilidade
+  - Herança de Objetos
+  - Refatorando código JavaScript para usar objetos
+
+  Depois este módulo, os estudantes estarão aptos a&#58;
+  - Escreva código JavaScript bem estruturado.
+  - Usar o código JavaScript para criar objetos personalizados.
+  - Implementar técnicas orientadas a objetos usando expressões JavaScript.
+
+
+  ### Módulo 8&#58; Criando páginas interativas usando APIs HTML5
+  A interatividade é um aspecto essencial dos aplicativos Web modernos, permitindo que você crie sites atraentes que possam responder rapidamente às ações do usuário e também se adaptem à localização do usuário. Este módulo descreve como criar aplicativos da Web HTML5 interativos que podem acessar o sistema de arquivos local, permitir que o usuário arraste e solte dados nos elementos de uma página da Web, reproduza arquivos multimídia e obtenha informações de localização geográfica.
+  #### Lições
+  - Interagindo com arquivos
+  - Incorporando Multimídia
+  - Reagindo à localização e ao contexto do navegador
+  - Depurando e criando um perfil de um aplicativo Web
+
+
+  #### Laboratório&#58; criando páginas interativas com APIs HTML5
+  - Arrastando e soltando imagens
+  - Incorporando Vídeo
+  - Usando a API de geolocalização para relatar a localização atual do usuário
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Acesse o sistema de arquivos local e adicione suporte a arrastar e soltar nas páginas da web.
+  - Reproduza arquivos de vídeo e áudio em uma página da web, sem a necessidade de plugins. Obtenha informações sobre a localização atual do usuário.
+  - Usar as Ferramentas de desenvolvedor F12 no Microsoft Edge para depurar e criar um perfil de um aplicativo Web.
+
+
+  ### Módulo 9&#58; Adicionando suporte offline a aplicativos da Web
+  Os aplicativos da Web dependem de poder se conectar a uma rede para buscar páginas e dados da Web. No entanto, em alguns ambientes, uma conexão de rede pode ser intermitente. Nessas situações, pode ser útil permitir que o aplicativo continue funcionando usando dados armazenados em cache no dispositivo do usuário. O HTML5 oferece uma opção de novas opções de armazenamento do lado do cliente, incluindo armazenamento de sessão e armazenamento local, e um mecanismo de armazenamento em cache de recursos chamado Cache de Aplicativo. Neste módulo, você aprenderá como usar essas tecnologias para criar aplicativos Web robustos que podem continuar em execução mesmo quando uma conexão de rede não estiver disponível.
+  #### Lições
+  - Leitura e gravação de dados localmente
+  - Adicionando suporte offline usando o cache do aplicativo
+
+
+  #### Laboratório&#58; Adicionando suporte offline a aplicativos da Web
+  - Armazenando em cache dados offline usando a API de cache do aplicativo
+  - Persistindo dados do usuário usando a API de armazenamento local
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Salve dados localmente no dispositivo do usuário e acesse esses dados em um aplicativo da web.
+  - Configure um aplicativo Web para dar suporte a operações offline usando o Cache do Aplicativo.
+
+
+  ### Módulo 10&#58; Implementando uma interface de usuário adaptável
+  Um dos recursos mais duradouros da web é sua natureza temporária. Pela primeira vez, o monopólio do teclado e do mouse está sendo desafiado, e isso significa questionar como as interfaces do usuário são projetadas. Você pode desenvolver um aplicativo Web em um computador com um monitor grande e de alta resolução, um mouse e um teclado, mas outros usuários podem visualizar e interagir com seu aplicativo em um smartphone ou tablet sem mouse ou ter um monitor com uma resolução diferente. Os usuários também podem querer imprimir páginas do seu aplicativo. Neste módulo, você aprenderá como criar um site que adapte o layout e a funcionalidade de suas páginas aos recursos e fator de forma do dispositivo no qual está sendo visualizado. Você verá como detectar o tipo de dispositivo que está sendo usado para visualizar uma página e aprenderá estratégias para definir o conteúdo que segmenta efetivamente dispositivos específicos.
+  #### Lições
+  - Suporte a múltiplos fatores de formulário
+  - Criando uma interface de usuário adaptável
+
+
+  #### Laboratório&#58; implementando uma interface de usuário adaptável
+  - Criando uma folha de estilos para impressão
+  - Adaptação do layout da página para ajustar diferentes fatores de forma
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os requisitos em um site para responder a diferentes fatores de forma.
+  - Criar páginas da web que possam adaptar seu layout para corresponder ao fator de forma do dispositivo no qual elas são exibidas.
+
+
+  ### Módulo 11&#58; Criando gráficos avançados
+  Os gráficos interativos de alta resolução são uma parte essencial das aplicações mais modernas. Os gráficos podem ajudar a melhorar a experiência do usuário, fornecendo um aspecto visual ao conteúdo, tornando um site mais atraente e fácil de usar. A interatividade permite que os elementos gráficos em um site se adaptem e respondam às entradas ou alterações do usuário no ambiente e é outro elemento importante para reter a atenção do usuário e seu interesse no conteúdo.
+
+  Este módulo descreve como criar gráficos avançados em HTML5 usando SVG (Scalable Vector Graphics) e a API do Microsoft Canvas. Você aprenderá como usar elementos relacionados ao SVG, como, e para exibir conteúdo gráfico em uma página da web. Você também aprenderá como permitir que o usuário interaja com elementos SVG por meio do uso de eventos como eventos de teclado e mouse.
+
+  A API do Canvas é um pouco diferente do SVG. A API do Canvas fornece um elemento e um conjunto de funções JavaScript que você pode chamar para desenhar gráficos na superfície da tela. Você aprenderá como usar a API do Canvas e também descobrirá quando é mais apropriado usar o Canvas ou SVG.
+  #### Lições
+  - Criando gráficos interativos usando SVG
+  - Desenhando gráficos usando a API do Canvas
+
+
+  #### Laboratório&#58; Criando gráficos avançados
+  - Criando um mapa de local interativo usando SVG
+  - Criando um selo de alto-falante usando a API do Canvas
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Usar SVG para criar conteúdo gráfico interativo.
+  - Usar a API do Canvas para gerar conteúdo gráfico programaticamente.
+
+
+  ### Módulo 12&#58; Animando a interface do usuário
+  As animações são um elemento essencial para manter o interesse de um usuário em um site. Implementadas com cuidado, as animações melhoram a usabilidade de uma página da web e fornecem feedback visual útil sobre as ações do usuário.
+
+  Este módulo descreve como aprimorar as páginas da web usando animações CSS. Você aprenderá como aplicar transições aos valores da propriedade. As transições permitem especificar o tempo das alterações de propriedade. Por exemplo, você pode especificar que um elemento altere sua largura e altura por um período de cinco segundos quando o ponteiro do mouse passar o mouse sobre ele. Em seguida, você aprenderá como aplicar transformações 2D e 3D aos elementos. As transformações permitem dimensionar, converter, girar e inclinar elementos. Você também pode aplicar transições a transformações, para que a transformação seja aplicada gradualmente durante um período de animação especificado.
+
+  No final deste módulo, você aprenderá como aplicar animações de quadro-chave a elementos. As animações de quadro-chave permitem definir um conjunto de valores de propriedades em momentos específicos durante uma animação. Por exemplo, você pode especificar a cor e a posição de um elemento em 0%, 33%, 66% e 100% do período da animação.
+  #### Lições
+  - Aplicando transições CSS
+  - Elementos transformadores
+  - Aplicando animações de quadro-chave CSS
+
+
+  #### Laboratório&#58; Animando a interface do usuário
+  - Aplicando transições CSS
+  - Aplicando animações de quadro-chave
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Aplique transições para animar valores de propriedades a elementos HTML.
+  - Aplique transformações 2D e 3D aos elementos HTML.
+  - Aplique animações de quadro-chave a elementos HTML.
+
+
+  ### Módulo 13&#58; Implementando a comunicação em tempo real usando soquetes da Web
+  As páginas da Web solicitam dados sob demanda de um servidor da Web enviando solicitações HTTP. Esse modelo é ideal para criar aplicativos interativos, nos quais a funcionalidade é direcionada pelas ações de um usuário. No entanto, em um aplicativo que precisa exibir informações constantemente alteradas, esse mecanismo é menos adequado. Por exemplo, uma página de ações financeiras é inútil se mostrar preços com apenas alguns minutos e você não pode esperar que um usuário atualize constantemente a página exibida no navegador. É aqui que os soquetes da web são úteis. A API do Web Sockets fornece um mecanismo para implementar a comunicação bidirecional em tempo real entre o servidor da Web e o navegador.
+
+  Este módulo apresenta soquetes da Web, descreve como eles funcionam e explica como criar uma conexão de soquete da Web que pode ser usada para transmitir dados em tempo real entre uma página da Web e um servidor da Web.
+  #### Lições
+  - Introdução a Web Sockets
+  - Usando a API WebSocket
+
+
+  #### Laboratório&#58; realizando comunicação em tempo real usando soquetes da Web
+  - Recebendo mensagens de um soquete da Web
+  - Enviando mensagens para um soquete da Web
+  - Manipulação de diferentes tipos de mensagens de soquete da Web
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever como o uso de soquetes da web ajuda a ativar as comunicações em tempo real entre uma página da web e um servidor da web.
+  - Usar a API de soquetes da Web para conectar-se a um servidor da Web a partir de uma página da Web e troque mensagens entre a página e o servidor da Web.
+
+
+  ### Módulo 14&#58; Executando o processamento em segundo plano usando trabalhadores da Web
+  O código JavaScript é uma ferramenta poderosa para implementar a funcionalidade em uma página da Web, mas é necessário lembrar que esse código é executado quando uma página da Web é carregada ou em resposta a ações do usuário enquanto a página da Web está sendo exibida. O código é executado pelo navegador e, se ele executar operações que demoram um tempo significativo para serem concluídas, o navegador poderá deixar de responder e prejudicar a experiência do usuário.
+
+  O HTML5 apresenta trabalhadores da Web, que permitem descarregar o processamento para separar threads em segundo plano e, assim, permitir que o navegador permaneça responsivo. Este módulo descreve como os trabalhadores da Web operam e como você pode usá-los em seus aplicativos da Web.
+  #### Lições
+  - Entendendo Web Sockets
+  - Executando processamento assíncrono usando trabalhadores da Web
+
+
+  #### Laboratório&#58; Criando um processo de trabalho na Web
+  - Melhorando a capacidade de resposta usando um trabalhador da Web
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Explique como os trabalhadores da Web podem ser usados para implementar multithreading e melhorar a capacidade de resposta de um aplicativo da Web.
+  - Realize o processamento usando um trabalhador da Web, comunique-se com um trabalhador da Web e controle um trabalhador da Web.
+
+
+  ### Módulo 15&#58; Empacotando JavaScript para implantação de produção
+  O uso de modelos permite criar aplicativos grandes e complexos. O progresso do idioma na versão do ECMAScript6 permite que o aplicativo de compilação simplifique o processo de construção do aplicativo.
+  No entanto, o uso dos módulos ECMAScript6 e outros recursos ainda não é suportado em todos os navegadores. Ferramentas como Node.js, Webpack e Babel permitem o uso de novos recursos de idioma, além de suporte para diferentes navegadores, a fim de evitar prejudicar a experiência do usuário.
+
+  Neste módulo, apresentaremos a teoria por trás dessas ferramentas, quando precisamos usá-las, e as diferentes opções de uso. No final do módulo, veremos como usar essas ferramentas para escrever código ECMAScript6 suportado em todos os navegadores.
+  #### Lições
+  - Compreendendo transpilers e agregação de módulos
+  - Criando pacotes separados para suporte entre navegadores
+
+
+  #### Laboratório&#58; configurando o pacote Webpack para produção
+  - Criando e implantando pacotes usando o WebPack
+

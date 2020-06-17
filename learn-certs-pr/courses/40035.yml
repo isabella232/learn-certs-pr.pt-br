@@ -1,0 +1,77 @@
+### YamlMime:Course
+title: 'Software Development Fundamentals with .NET: Training 2-Pack for MTA Exams 98-361 and 98-372'
+metadata:
+  title: 'Course 40035-A: Software Development Fundamentals with .NET: Training 2-Pack for MTA Exams 98-361 and 98-372'
+  description: 'Course 40035-A: Software Development Fundamentals with .NET: Training 2-Pack for MTA Exams 98-361 and 98-372'
+uid: course.40035
+courseNumber: '40035-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compreender a programação básica
+- skill: Compreender a programação orientada a objeto
+- skill: Compreender o desenvolvimento geral de software
+- skill: Compreender os aplicativos Web
+- skill: Compreender os aplicativos de desktop
+- skill: Compreender os bancos de dados
+- skill: Compreender os conceitos de .NET Framework
+- skill: Compreender namespaces e classes no .NET Framework
+- skill: Compreender a compilação de códigos .NET
+- skill: Compreender as classes de E/S no .NET Framework
+- skill: Compreender a segurança
+- skill: Compreender as linguagens .NET
+- skill: Compreender o gerenciamento de memória
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- dotnet
+exams:
+- uid: exam.98-361
+summary: |-
+  Este curso de treinamento de cinco dias e 2 partes ajudará você a se preparar para os exames Microsoft Technology Associate 98-361 e 98-372 e a obter uma compreensão dos seguintes tópicos&#58; programação básica, programação orientada a objetos, desenvolvimento geral de software, aplicativos Web, aplicativos de desktop, bancos de dados, conceitos de .NET Framework, namespaces e classes no .NET Framework, compilação de códigos.NET, classes de E/S no .NET Framework, segurança, linguagens .NET e gerenciamento de memória. Esses cursos utilizam o mesmo conteúdo disponibilizado nos Microsoft Official Academic Courses (MOAC) para esses exames.
+
+  #### Perfil do público
+  O Microsoft Technology Associate (MTA) é o mais novo conjunto de exames de certificação de tecnologia da Microsoft que permitem validar os conhecimentos básicos necessários para que você construa uma carreira centrada nas tecnologias da Microsoft. Este programa fornece um ponto de entrada apropriado para uma carreira futura em tecnologia e exige que o estudante possua alguma experiência prática ou treinamento, mas não requer experiência no ambiente de trabalho.
+prerequisitesSection: |-
+  Não há pré-requisitos para a realização deste curso.
+outlineSection: |-
+  ### Módulo 1&#58; Introdução à programação
+
+
+  ### Módulo 2&#58; Introdução à programação orientada a objetos
+
+
+  ### Módulo 3&#58; Compreendendo o desenvolvimento geral de software
+
+
+  ### Módulo 4&#58; Compreendendo os aplicativos Web
+
+
+  ### Módulo 5&#58; Compreendendo os aplicativos de desktop
+
+
+  ### Módulo 6&#58; Compreendendo os bancos de dados
+
+
+  ### Módulo 7&#58; Compreendendo a programação orientada a objetos
+
+
+  ### Módulo 8&#58; Compreendendo os tipos e coletas de dados
+
+
+  ### Módulo 9&#58; Compreendendo eventos e exceções
+
+
+  ### Módulo 10&#58; Compreendendo a compilação e implementação de códigos
+
+
+  ### Módulo 11&#58; Compreendendo as classes de entrada/saída (E/S)
+
+
+  ### Módulo 12&#58; Compreendendo a segurança
+

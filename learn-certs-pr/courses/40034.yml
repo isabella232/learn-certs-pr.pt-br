@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: 'Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+metadata:
+  title: 'Course 40034-A: Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+  description: 'Course 40034-A: Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+uid: course.40034
+courseNumber: '40034-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compreender a programação básica
+- skill: Compreender a programação orientada a objeto
+- skill: Compreender o desenvolvimento geral de software
+- skill: Compreender os aplicativos Web
+- skill: Compreender os aplicativos de desktop
+- skill: Compreender os bancos de dados
+- skill: Gerenciar o ciclo de vida dos aplicativos
+- skill: Construir a interface do usuário com HTML5
+- skill: Formatar a interface do usuário com CSS
+- skill: Codificação com o uso de JavaScript
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-361
+summary: |-
+  Este curso de treinamento de 2 partes e duração de cinco dias ajudará você a se preparar para os exames Microsoft Technology Associate 98-361 e 98-365 e a adquirir uma compreensão dos seguintes tópicos&#58; programação básica, programação orientada a objetos, desenvolvimento geral de software, aplicativos Web, aplicativos de desktop, bancos de dados, gerenciamento do ciclo de vida do aplicativo, criação da interface do usuário com HTML5, formatação da interface do usuário com CSS e codificação com o uso de JavaScript. Esses cursos utilizam o mesmo conteúdo disponibilizado nos Microsoft Official Academic Courses (MOAC) para esses exames.
+
+  #### Perfil do público
+  O Microsoft Technology Associate (MTA) é o mais novo conjunto de exames de certificação de tecnologia da Microsoft que permitem validar os conhecimentos básicos necessários para que você construa uma carreira centrada nas tecnologias da Microsoft. Este programa fornece um ponto de entrada apropriado para uma carreira futura em tecnologia e exige que o estudante possua alguma experiência prática ou treinamento, mas não requer experiência no ambiente de trabalho.
+prerequisitesSection: |-
+  Não há pré-requisitos para a realização deste curso.
+outlineSection: |-
+  ### Módulo 1&#58; Introdução à programação
+
+
+  ### Módulo 2&#58; Introdução à programação orientada a objetos
+
+
+  ### Módulo 3&#58; Compreendendo o desenvolvimento geral de software
+
+
+  ### Módulo 4&#58; Compreendendo os aplicativos Web
+
+
+  ### Módulo 5&#58; Compreendendo os aplicativos de desktop
+
+
+  ### Módulo 6&#58; Compreendendo os bancos de dados
+
+
+  ### Módulo 7&#58; Gerenciando o ciclo de vida do aplicativo
+
+
+  ### Módulo 8&#58; Construindo interfaces de usuário com HTML5&#58; Texto, gráficos e mídia
+
+
+  ### Módulo 9&#58; Construindo interfaces de usuário com HTML5&#58; Organização, entrada e validação
+
+
+  ### Módulo 10&#58; Compreendendo os fundamentos de CSS&#58; Fluxo, posicionamento e estilo de conteúdo
+
+
+  ### Módulo 11&#58; Compreendendo os fundamentos de CSS&#58; Layouts
+
+
+  ### Módulo 12&#58; Gerenciando o fluxo de texto com CSS
+
+
+  ### Módulo 13&#58; Gerenciando a interface gráfica com CSS
+
+
+  ### Módulo 14&#58; Compreendendo os fundamentos da codificação de JavaScript
+
+
+  ### Módulo 15&#58; Criando animações, trabalhando com gráficos e acessando dados
+
+
+  ### Módulo 16&#58; Codificação de JavaScript para os recursos da interface de toque, dispositivo e sistema operacional entre outros
+

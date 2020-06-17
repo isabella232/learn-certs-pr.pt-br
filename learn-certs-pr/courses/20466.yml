@@ -1,0 +1,242 @@
+### YamlMime:Course
+title: Implementing Data Models and Reports with SQL Server 2014
+metadata:
+  title: 'Course 20466-D: Implementing Data Models and Reports with SQL Server 2014'
+  description: 'Course 20466-D: Implementing Data Models and Reports with SQL Server 2014'
+uid: course.20466
+courseNumber: '20466-D'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever os componentes, a arquitetura e a natureza de uma solução de BI.
+- skill: Crie um banco de dados multidimensional com o Analysis Services.
+- skill: Implementar dimensões em um cubo.
+- skill: Implementar medidas e grupos de medidas em um cubo.
+- skill: Usar a sintaxe MDX.
+- skill: Personalizar um cubo.
+- skill: Implementar um modelo de dados tabulares no SQL Server Analysis Services.
+- skill: Usar DAX para aprimorar um modelo tabular.
+- skill: Criar relatórios com o Reporting Services.
+- skill: Aprimorar relatórios com gráficos e parâmetros.
+- skill: Gerenciar a execução e entrega de relatórios.
+- skill: Implementar um painel no SharePoint Server com o PerformancePoint Services.
+- skill: Usar Data Mining para análise preditiva.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-466
+summary: |-
+  O foco deste curso de cinco dias, ministrado por instrutor, está na criação de soluções de BI corporativas gerenciadas. Ele descreve como implementar modelos de dados multidimensionais e tabulares, fornecer relatórios com o Microsoft® SQL Server® Reporting Services, criar painéis com o Microsoft SharePoint Server PerformancePoint Services e descobrir insights de negócios usando a mineração de dados.
+
+  Nota&#58; Este curso foi desenvolvido para clientes interessados em aprender o SQL Server 2012 ou o SQL Server 2014. Ele abrange os novos recursos do SQL Server 2014, mas também os recursos importantes da plataforma de dados do SQL Server.
+
+  #### Perfil do público
+  Este curso é destinado a profissionais de banco de dados que precisam cumprir uma função de Desenvolvedor de Business Intelligence para criar soluções de análise e relatório. As responsabilidades principais incluem&#58;
+  - Implementando modelos de dados analíticos, como cubos OLAP.
+  - Implementando relatórios e gerenciando a entrega de relatórios.
+  - Criando painéis de desempenho de negócios.
+  - Suporte à mineração de dados e análise preditiva.
+prerequisitesSection: |-
+  Este curso requer que você cumpra os seguintes pré-requisitos&#58;
+  - Pelo menos 2 anos de experiência no trabalho com bancos de dados relacionais, incluindo&#58; 
+    - Projetando um banco de dados normalizado. 
+    - Criando tabelas e relacionamentos. 
+    - Consulta com Transact-SQL. 
+    - Alguns conhecimentos básicos de topologia de esquema de armazém de dados (incluindo esquemas em estrela e floco de neve). 
+    - Alguma exposição a construções básicas de programação (como loop e ramificação).
+    - É desejável ter consciência das principais prioridades de negócios, como receita, lucratividade e contabilidade financeira.
+outlineSection: |-
+  ### Módulo 1&#58; Introdução ao Business Intelligence e Modelagem de Dados
+  Como profissional de banco de dados do SQL Server, pode ser necessário que você participe de um projeto, ou talvez até o conduza, com o objetivo de implementar uma solução de BI corporativa eficaz. Portanto, é importante que você tenha um bom entendimento dos vários elementos que compõem uma solução de BI, a equipe de negócios e de TI normalmente envolvida em um projeto de BI e os produtos da Microsoft que você pode usar para implementar a solução.
+  #### Lições
+  - Introdução a Business Intelligence
+  - A Plataforma Microsoft Enterprise BI
+
+
+  #### Laboratório&#58; Explorando uma solução de BI
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever os elementos de uma solução típica de BI. 
+  - Selecionar as tecnologias Microsoft apropriadas para uma solução de BI.
+  - Descrever as principais considerações para o planejamento de um projeto de BI.
+
+
+  ### Módulo 2&#58; Criando bancos de dados multidimensionais
+  Este módulo fornece uma introdução aos bancos de dados multidimensionais e apresenta os componentes principais de um cubo do Online Analytical Processing (OLAP).
+  #### Lições
+  - Introdução à Análise Multidimensional
+  - Criando fontes de dados e visualizações de fontes de dados
+  - Criando um cubo
+  - Visão geral da segurança do cubo
+
+
+  #### Laboratório&#58; Criação de bancos de dados multidimensionais
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever as considerações para um banco de dados multidimensional. 
+  - Criar fontes de dados e visualizações de fontes de dados.
+  - Criar um cubo.
+  - Implementar segurança em um banco de dados multidimensional.
+
+
+  ### Módulo 3&#58; Trabalhando com Cubos e Dimensões
+  Este módulo descreve como criar e configurar dimensões e hierarquias de dimensões em um modelo de dados multidimensionais do Analysis Services.
+  #### Lições
+  - Configurando dimensões
+  - Definindo hierarquias de atributos
+  - Classificação e agrupamento de hierarquias
+
+
+  #### Laboratório&#58; Trabalhando com Cubos e Dimensões
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Configurar dimensões. 
+  - Definir hierarquias de atributos.
+  - Classificar e agrupar atributos.
+
+
+  ### Módulo 4&#58; Trabalhando com medidas e grupos de medidas
+  Este módulo descreve medidas e grupos de medidas. Também explica como você pode usá-los para definir tabelas de fatos e associar dimensões a medidas.
+  #### Lições
+  - Trabalhando com Medidas
+  - Trabalhando com grupos de Medidas
+
+
+  #### Laboratório&#58; configurando medidas e grupos de medidas
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Configurar medidas.
+  - Configurar grupos de medidas.
+
+
+  ### Módulo 5&#58; Introdução a MDX
+  Este módulo descreve os fundamentos do MDX e explica como criar cálculos, como membros calculados e conjuntos nomeados.
+  #### Lições
+  - Fundamentos do MDX
+  - Adicionando cálculos a um cubo
+  - Usando o MDX para consultar um cubo
+
+
+  #### Laboratório&#58; Usando MDX
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever MDX.
+  - Adicione cálculos a um cubo.
+  - Descrever como usar o MDX em aplicativos clientes.
+
+
+  ### Módulo 6&#58; Personalizando a funcionalidade do cubo
+  Este módulo descreve como aprimorar um cubo com indicadores chave de desempenho (KPIs), ações, perspectivas e traduções.
+  #### Lições
+  - Implementando indicadores chave de desempenho
+  - Implementando ações
+  - Implementando perspectivas
+  - Implementando traduções
+
+
+  #### Laboratório&#58; personalizando um cubo
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Implementar indicadores chave de desempenho.
+  - Implementar ações. 
+  - Implementar perspectivas.
+  - Implementar traduções.
+
+
+  ### Módulo 7&#58; Implementando um modelo de dados tabulares do Analysis Services
+  Este módulo descreve os modelos de dados tabulares do Analysis Services e explica como desenvolver um modelo de dados tabulares usando o suplemento SQL Server Data Tools for Business Intelligence (BI) para Visual Studio.
+  #### Lições
+  - Introdução aos modelos de dados tabulares
+  - Criando um modelo de dados tabular
+  - Usando um modelo de dados tabular do Analysis Services em uma solução de BI corporativo
+
+
+  #### Laboratório&#58; implementando um modelo de dados tabulares do Analysis Services
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever projetos de modelo de dados tabulares do Analysis Services. 
+  - Implementar um modelo de dados tabulares do Analysis Services.
+  - Usar um modelo de dados tabular do Analysis Services.
+
+
+  ### Módulo 8&#58; Introdução a Data Analysis Expression (DAX)
+  Este módulo explica os fundamentos da linguagem DAX. Também explica como você pode usar o DAX para criar colunas e medidas calculadas e como usá-las em seus modelos de dados tabulares.
+  #### Lições
+  - Fundamentos do DAX
+  - Usando o DAX para criar colunas e medidas calculadas em um modelo de dados tabulares
+
+
+  #### Laboratório&#58; Criando colunas e medidas calculadas usando DAX
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever os fundamentos do DAX.
+  - Usar o DAX para criar colunas e medidas calculadas.
+
+
+  ### Módulo 9&#58; Implementando relatórios com o SQL Server Reporting Services
+  Este módulo apresenta o Microsoft SQL Server Reporting Services e discute as ferramentas e técnicas que um desenvolvedor de BI profissional pode usar para criar e publicar relatórios.
+  #### Lições
+  - Introdução a Reporting Services
+  - Criando um relatório com o Report Designer
+  - Agrupando e agregando dados em um relatório
+  - Mostrando dados graficamente
+  - Filtrando relatórios usando parâmetros
+
+
+  #### Laboratório&#58; criando um relatório com o Report Designer
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever os principais atributos da instalação. 
+  - Usar o Report Designer para criar um relatório.
+  - Agrupe e agregue dados em um relatório.
+  - Publique e visualize um relatório.
+
+
+  ### Módulo 10&#58; Automatizando a execução e entrega de relatórios
+  Este módulo descreve como aplicar as configurações de segurança e execução de relatórios e como criar assinaturas para entregar relatórios.
+  #### Lições
+  - Gerenciar segurança de relatórios
+  - Gerenciar execução de relatórios
+  - Entrega de relatórios com assinaturas e alertas de dados
+  - Solução de problemas do Reporting Services
+
+
+  #### Laboratório&#58; Implementando assinatura de relatórios
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Defina as configurações de segurança para um servidor de relatório. 
+  - Defina as configurações de execução de relatório para otimizar o desempenho. 
+  - Usar assinaturas e alertas para automatizar a entrega de relatórios e dados.
+  - Solução de problemas de relatórios.
+
+
+  ### Módulo 11&#58; Entrega de BI com o SharePoint PerformancePoint Services
+  Este módulo apresenta o Microsoft SharePoint Server como uma plataforma para BI e, em seguida, se concentra na criação de painéis e scorecards de BI com o PerformancePoint Services.
+  #### Lições
+  - Introdução ao SharePoint Server como uma plataforma de BI
+  - Planejando a segurança de uma solução de BI do SharePoint Server
+  - Planejando os serviços PerformancePoint
+
+
+  #### Laboratório&#58; Implementando Serviços de PerformancePoint
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever o SharePoint Server como uma plataforma de BI.
+  - Usar os Serviços PerformancePoint para fornecer funcionalidade de BI.
+  - Configure fontes de dados do PerformancePoint.
+  - Criar relatórios, scorecards e painéis.
+
+
+  ### Módulo 12&#58; Executando análise preditiva com mineração de dados
+  Este módulo apresenta a mineração de dados, descreve como criar uma solução de mineração de dados, como validar modelos de mineração de dados, como usar os Suplementos de Mineração de Dados para Microsoft Excel e como incorporar os resultados da mineração de dados nos relatórios do Reporting Services.
+  #### Lições
+  - Visão geral de Data Mining
+  - Usando o suplemento de mineração de dados para Excel
+  - Criando uma solução de mineração de dados personalizada
+  - Validando um modelo de mineração de dados
+  - Conectando e consumindo dados de mineração de dados
+
+
+  #### Laboratório&#58; Usando a mineração de dados para apoiar uma campanha de marketing
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever os principais conceitos de mineração de dados e use os Suplementos de Mineração de Dados para Excel.
+  - Criar uma solução de mineração de dados.
+  - Valide modelos de mineração de dados.
+  - Usar dados de mineração de dados em um relatório.
+

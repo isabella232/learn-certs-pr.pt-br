@@ -1,0 +1,143 @@
+### YamlMime:Course
+title: Introduction to Programming Using Python
+metadata:
+  title: 'Course 55264-A: Introduction to Programming Using Python'
+  description: 'Course 55264-A: Introduction to Programming Using Python'
+uid: course.55264
+courseNumber: '55264-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Criar operações com tipos de dados e operadores
+- skill: Criar operações de fluxo de controle
+- skill: Criar operações de entrada e saída
+- skill: Escrever e documentar códigos para solucionar um problema específico
+- skill: Diagnosticar problemas e gravar operações de manipulação de erros
+- skill: Realizar operações usando módulos e ferramentas
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-381
+summary: |-
+  Este curso presencial de cinco dias destina-se aos estudantes que buscam aprender a escrever códigos Python para solucionar um determinado problema por meio de lógica. Os candidatos aprenderão a escrever, depurar, manter e documentar o código Python. O material preparará os alunos para o exame de certificação da Microsoft 98-381.
+
+  #### Perfil do público
+  Este curso destina-se aos programadores iniciantes e experientes que desejam aprender a escrever e solucionar problemas de código Python. Este curso é recomendado pela Microsoft como preparação para o exame 98-381. A experiência anterior em programação não é necessária, mas recomendada.
+prerequisitesSection: |-
+  Antes de participar deste curso, os estudantes devem ter&#58;
+  - Experiência em realizar operações de linha de comando em computadores Windows, Linux ou Mac
+  - Seis meses de experiência escrevendo código em qualquer linguagem de programação (recomendável)
+outlineSection: |-
+  ### Módulo 1&#58; Realizar operações usando tipos de dados e operadores
+  Este módulo explica como usar operadores e tipos de dados Python para obtenção de um resultado especificado.
+  #### Lições
+  - Atribuir tipos de dados a variáveis
+  - Executar operações de dados e tipos de dados
+  - Realizar operações aritméticas, comparativas e lógicas
+  - Análise
+
+
+  #### Laboratório&#58; Realizar operações usando tipos de dados e operadores
+  - Atribuir tipos de dados a variáveis
+  - Executar operações de dados e tipos de dados
+  - Realizar operações aritméticas, comparativas e lógicas
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Atribuir tipos de dados a variáveis
+  - Gerenciar operações de dados e tipos de dados
+  - Realizar operações aritméticas, comparativas e lógicas
+
+
+  ### Módulo 2&#58; Fluxo de controle com decisões e loops
+  Este módulo descreve como usar as operações de fluxo de controle e looping no Python.
+  #### Lições
+  - Construir e analisar segmentos de código com instruções de ramificação
+  - Construir e analisar segmentos de código que realizam iteração
+  - Análise
+
+
+  #### Laboratório&#58; Fluxo de controle com decisões e loops
+  - Uso de operações de ramificação
+  - Uso de operações de iteração
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar operações de ramificação
+  - Criar operações de iteração
+
+
+  ### Módulo 3&#58; Realizar operações de entrada e saída
+  Este módulo descreve como construir operações de entrada e saída por meio de arquivos ou do console.
+  #### Lições
+  - Criar segmentos de código Python para realizar operações de entrada e saída de arquivos
+  - Criar segmentos de código Python para realizar operações de entrada e saída do console
+  - Análise
+
+
+  #### Laboratório&#58; Realizar operações de entrada e saída
+  - Realizar operações de entrada e saída com o uso de arquivos
+  - Realizar operações de entrada e saída do console
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Usar arquivos para operações de entrada e saída
+  - Usar o console para realizar operações de entrada e saída
+
+
+  ### Módulo 4&#58; Documentação e estruturação de códigos
+  Este módulo descreve como estruturar e documentar códigos Python bem escritos.
+  #### Lições
+  - Construir e analisar segmentos de código
+  - Documentar segmentos de código com strings de comentários e documentação
+  - Análise
+
+
+  #### Laboratório&#58; Documentação e estruturação de códigos
+  - Construir e analisar segmentos de código
+  - Documentar segmentos de código
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Criar segmentos de código
+  - Documentar segmentos de código
+
+
+  ### Módulo 5&#58; Realizar diagnóstico de problemas e tratamento de erros
+  Este módulo explica como executar operações de diagnóstico de problemas e tratamento de erros no Python.
+  #### Lições
+  - Analisar detectar e corrigir segmentos de código que contenham erros
+  - Analisar e construir segmentos de código para tratamento de exceções
+  - Análise
+
+
+  #### Laboratório&#58; Realizar diagnóstico de problemas e tratamento de erros
+  - Analisar detectar e corrigir segmentos de código que contenham erros
+  - Analisar e construir segmentos de código para tratamento de exceções
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Detectar e corrigir erros de código
+  - Criar código de tratamento de erros
+
+
+  ### Módulo 6&#58; Realizar operações com o uso de módulos e ferramentas
+  Este módulo descreve como usar módulos internos.
+  #### Lições
+  - Uso de módulos internos para realizar operações básicas
+  - Uso de módulos internos para realizar operações complexas
+  - Análise
+
+
+  #### Laboratório&#58; Realizar operações com o uso de módulos e ferramentas
+  - Uso de módulos internos para realizar operações básicas
+  - Uso de módulos internos para realizar operações complexas
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Usar módulos internos para realizar operações do sistema operacional, datas e operações matemáticas
+
+  #### Leitura adicional&#58; para ajudá-lo a se preparar para esta aula, consulte os seguintes recursos&#58;
+  - Objetivos de teste da Microsoft para o exame 98-381
+

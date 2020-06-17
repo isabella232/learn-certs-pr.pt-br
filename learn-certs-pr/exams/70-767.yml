@@ -1,0 +1,53 @@
+### YamlMime:Examination
+title: Implementing a Data Warehouse using SQL
+metadata:
+  title: 'Exam 70-767: Implementing a Data Warehouse using SQL'
+  description: 'Exam 70-767: Implementing a Data Warehouse using SQL'
+uid: exam.70-767
+displayName: 70-767
+summary: |-
+  <div><div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
+  </div>
+
+  Este exame destina-se a desenvolvedores de extração, transformação e carregamento (ETL) e data warehouse que criam soluções de Business Intelligence (BI). Suas responsabilidades incluem limpeza de dados, além da implementação de ETL e data warehouse.
+
+  <div style='font-weight&#58; bold;'><br/>A partir de março de 2017, este exame foi atualizado. Para saber mais sobre essas alterações e como elas afetam as habilidades medidas, baixe e leia o documento de alteração do exame 70-767.</div>
+subTitle: Este exame destina-se a desenvolvedores de extração, transformação e carregamento (ETL) e data warehouse que criam soluções de Business Intelligence (BI). Suas responsabilidades incluem limpeza de dados, além da implementação de ETL e data warehouse.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trnq
+practiceTestUrl: http://www.mindhub.com/70-767-Developing-Implementing-a-Data-Warehouse-p/mu-70-767_p.htm
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=70-767&examname=Implementing%20a%20Data%20Warehouse%20using%20SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-767
+locales:
+- en
+levels:
+- advanced
+skills:
+- Projetar, implementar e manter um data warehouse (35-40%)
+- Extrair, transformar e carregar dados (40-45%)
+- Compilar soluções de qualidade dos dados (15-20%)
+roles:
+- data-analyst
+products:
+- sql-server
+courses:
+- uid: course.20767
+relatedCertifications:
+- related:
+    uid: certification.mcsa-sql2016-business-intelligence-certification
+- related:
+    uid: certification.mcse-data-management-analytics
+resources:
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: ../certification-exam-policies.md
+

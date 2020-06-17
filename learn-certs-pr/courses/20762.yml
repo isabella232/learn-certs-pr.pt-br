@@ -1,0 +1,413 @@
+### YamlMime:Course
+title: Developing SQL Databases
+metadata:
+  title: 'Course 20762-C: Developing SQL Databases'
+  description: 'Course 20762-C: Developing SQL Databases'
+uid: course.20762
+courseNumber: '20762-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Projetar e implementar Tabelas.
+- skill: Descrever projetos avançados de tabelas
+- skill: Assegurar a integridade dos dados com restrições.
+- skill: Descrever índices, incluindo índices Otimizados e Columnstore
+- skill: Projetar e implementar exibições.
+- skill: Desenvolver e implementar procedimentos armazenados.
+- skill: Projetar e implementar funções definidas pelo usuário.
+- skill: Responda à manipulação de dados usando gatilhos.
+- skill: Projetar e implementar Tabelas In-Memory.
+- skill: Implementar código gerenciado no SQL Server.
+- skill: Armazenar e consultar dados XML.
+- skill: Trabalhar com Dados Espaciais.
+- skill: Armazenar e consultar blobs e documentos de texto.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- database-administrator
+products:
+- sql-server
+exams:
+- uid: exam.70-762
+summary: |-
+  Este curso de cinco dias, ministrado por instrutor, fornece aos alunos o conhecimento e as habilidades para desenvolver um banco de dados do Microsoft SQL Server. O curso se concentra em ensinar às pessoas como usar os recursos e ferramentas do produto SQL Server relacionados ao desenvolvimento de um banco de dados.
+
+  #### Perfil do público
+  O público-alvo principal deste curso são os profissionais de TI que desejam se qualificar nos recursos e tecnologias do produto SQL Server para implementar um banco de dados. 
+
+  O público secundário deste curso são indivíduos que são desenvolvedores de outras plataformas de produtos que desejam se tornar hábeis na implementação de um banco de dados do SQL Server.
+prerequisitesSection: "- Noções básicas do sistema operacional Microsoft Windows e suas funcionalidades essenciais.\n- Conhecimento prático de Transact-SQL. \n- Conhecimento prático de bancos de dados relacionais."
+outlineSection: |-
+  ### Módulo 1&#58; Introdução ao Desenvolvimento de Bando de Dados
+  Antes de começar a trabalhar com o Microsoft SQL Server em uma função de desenvolvimento ou administração, é importante entender o escopo da plataforma SQL Server. Em particular, é útil entender que o SQL Server não é apenas um mecanismo de banco de dados - é uma plataforma completa para gerenciar dados corporativos.
+
+  O SQL Server fornece uma plataforma de dados sólida para todos os tamanhos de organizações, além de um conjunto abrangente de ferramentas para tornar o desenvolvimento mais fácil e mais robusto.
+  #### Lições
+  - Introdução à plataforma SQL Server
+  - Tarefas de Desenvolvimento de Bancos de Dados SQL Server
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever plataforma SQL Server. 
+  - Usar as ferramentas de administração do SQL Server.
+
+
+  ### Módulo 2&#58; Projetando e Implementando Tabelas
+  Em um sistema de gerenciamento de banco de dados relacional (RDBMS), os dados do usuário e do sistema são armazenados em tabelas. Cada tabela consiste em um conjunto de linhas que descrevem entidades e um conjunto de colunas que mantêm os atributos de uma entidade. Por exemplo, uma tabela Customer pode ter colunas como CustomerName e CreditLimit e uma linha para cada cliente. No Microsoft SQL Server, as tabelas de software de gerenciamento de dados estão contidas em esquemas muito semelhantes em conceito às pastas que contêm arquivos no sistema operacional. O design de tabelas é uma das tarefas mais importantes que um desenvolvedor de banco de dados realiza, porque o design incorreto da tabela leva à incapacidade de consultar os dados com eficiência.
+
+  Após a criação de um design apropriado, é importante saber como implementá-lo corretamente.
+  #### Lições
+  - Criação de tabelas
+  - Tipos de dados
+  - Trabalhos com Esquemas
+  - Criando e alterando tabelas
+
+
+  #### Laboratório&#58; Projetando e implementando tabelas
+  - Criação de tabelas
+  - Criando esquemas
+  - Criando tabelas
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Projetar tabelas usando normalização, chaves primárias e estrangeiras.
+  - Trabalhar com colunas de identidade.
+  - Entender os tipos de dados internos e do usuário.
+  - Usar esquemas em seus designs de banco de dados para organizar dados e gerenciar a segurança do objeto.
+  - Trabalhar com colunas computadas e tabelas temporárias.
+
+
+  ### Módulo 3&#58; Proteção de tabela avançada
+  O design físico de um banco de dados pode ter um impacto significativo na capacidade do banco de dados de atender aos requisitos de armazenamento e desempenho estabelecidos pelas partes interessadas. Projetar uma implementação de banco de dados físico inclui planejar os grupos de arquivos, como usar o particionamento para gerenciar tabelas grandes e usar a compactação para melhorar o armazenamento e o desempenho. As tabelas temporais são um novo recurso do SQL Server e oferecem uma solução direta para a coleta de alterações nos seus dados.
+  #### Lições
+  - Particionando dados
+  - Compactação de dados
+  - Tabelas Temporais
+
+
+  #### Laboratório&#58; usando designs avançados de tabela
+  - Particionando dados
+  - Compactação de dados
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever as considerações para o uso de tabelas particionadas em um banco de dados do SQL Server.
+  - Planejar o uso da compactação de dados em um banco de dados do SQL Server.
+  - Usar tabelas temporais para armazenar e consultar alterações nos seus dados.
+
+
+  ### Módulo 4&#58; Garantindo a integridade dos dados por meio de restrições
+  A qualidade dos dados em seu banco de dados determina em grande parte a utilidade e a eficácia dos aplicativos que dependem dele - o sucesso ou o fracasso de uma organização ou empreendimento comercial pode depender disso. Garantir a integridade dos dados é uma etapa crítica na manutenção de dados de alta qualidade.
+
+  Você deve impor a integridade dos dados em todos os níveis de um aplicativo, desde a primeira entrada ou coleta até o armazenamento. O software de gerenciamento de dados do Microsoft SQL Server fornece vários recursos para simplificar o trabalho.
+  #### Lições
+  - Reforçando a Integridade de Dados
+  - Implementando a integridade do domínio de dados
+  - Implementando Entidade e Integridade Referencial
+
+
+  #### Laboratório&#58; Usando integridade dos dados por meio de restrições
+  - Adicionar restrições
+  - Testar as restrições
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever as opções para reforçar a integridade dos dados e os níveis em que eles devem ser aplicados.
+  - Implementar a integridade do domínio por meio de opções como restrições de verificação, exclusivas e padrão.
+  - Implementar integridade referencial através de restrições de chave primária e estrangeira.
+
+
+  ### Módulo 5&#58; Introdução índices
+  Um índice é uma coleção de páginas associadas a uma tabela. Os índices são usados para melhorar o desempenho das consultas ou reforçar a exclusividade. Antes de aprender a implementar índices, é útil entender como eles funcionam, quão eficazes são os diferentes tipos de dados quando usados nos índices e como os índices podem ser construídos a partir de várias colunas. Este módulo discute estruturas de tabela que não possuem índices e os diferentes tipos de índices disponíveis no Microsoft SQL Server.
+  #### Lições
+  - Conceitos básicos de indexação
+  - Tipo e Índices de Dados
+  - Pilhas, índices agrupados e não clusterizados
+  - Coluna única e índices compostos
+
+
+  #### Laboratório&#58; Implementando Índices
+  - Criando uma pilha
+  - Criando um índice clusterizado
+  - Criando um índice coberto
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Explicar os principais conceitos de indexação.
+  - Avaliar qual índice usar para diferentes tipos de dados.
+  - Descrever a diferença entre índices de coluna única e composta.
+
+
+  ### Módulo 6&#58; Criando estratégias de índice otimizadas
+  Os índices desempenham um papel importante ao permitir que o SQL Server recupere dados de um banco de dados de maneira rápida e eficiente. Este módulo discute tópicos avançados do índice, incluindo índices de cobertura, cláusula INCLUDE, dicas de consulta, fator de preenchimento e preenchimento, estatísticas, usando DMOs, o Orientador de Otimização do Banco de Dados e o Query Store.
+  #### Lições
+  - Estratégias de índice
+  - Gerenciar índices
+  - Planos de Execução
+  - O Orientador de Otimização do Mecanismo de Banco de Dados
+  - Query Store
+
+
+  #### Laboratório&#58; Otimizando Índices
+  - Usando Query Store
+  - Heaps e índices agrupados
+  - Criando um índice coberto
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - O que é um índice de cobertura e quando usá-lo.
+  - Os problemas envolvidos no gerenciamento de índices.
+  - Planos de execução reais e estimados.
+  - Como usar o Database Tuning Advisor para melhorar o desempenho das consultas.
+  - Como usar o Query Store para melhorar o desempenho da consulta.
+
+
+  ### Módulo 7&#58; Índices Columnstore
+  Introduzido no Microsoft SQL Server 2012, os índices columnstore são usados em grandes soluções de data warehouse por muitas organizações. Este módulo destaca os benefícios do uso desses índices em grandes conjuntos de dados; as melhorias feitas nos índices columnstore no SQL Server 2016; e as considerações necessárias para usar índices columnstore efetivamente em suas soluções.
+
+  #### Lições
+  - Introdução aos índices Columnstore
+  - Criando índices Columnstore
+  - Trabalhando com índices Columnstore
+
+
+  #### Laboratório&#58; Uso de Índices de Columnstore
+  - Criando índice Columnstore
+  - Criar uma tabela Columnstore otimizada para memória
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever os índices columnstore e identificar cenários adequados para seu uso.
+  - Criar índices columnstore clusterizados e não clusterizados.
+  - Descrever considerações para o uso de índices columnstore.
+
+
+  ### Módulo 8&#58; Projetando e Implementando Exibições
+  Este módulo descreve o design e a implementação de visualizações. Uma exibição é um tipo especial de consulta - que é armazenada e pode ser usada em outras consultas - como uma tabela. Em uma exibição, apenas a definição de consulta é armazenada no disco; não é o conjunto de resultados. A única exceção a isso são as visualizações indexadas, quando o conjunto de resultados também é armazenado no disco, como uma tabela.
+
+  As visualizações simplificam o design de um banco de dados, fornecendo uma camada de abstração e ocultando a complexidade das junções da tabela. As visualizações também são uma maneira de proteger seus dados, concedendo aos usuários permissões para usá-las, sem conceder permissões aos objetos subjacentes. Isso significa que os dados podem ser mantidos em sigilo e só podem ser visualizados pelos usuários apropriados.
+  #### Lições
+  - Introdução ao Views
+  - Criando e Gerenciando Exibições
+  - Considerações de desempenho para visualizações
+
+
+  #### Laboratório&#58; projetando e implementando visualizações
+  - Criando vistas padrão
+  - Criando uma exibição atualizável
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Entender o papel das visualizações no projeto de banco de dados.
+  - Criar e gerenciar exibições.
+  - Compreender as considerações de desempenho com visualizações.
+
+
+  ### Módulo 9&#58; Projetando e Implementando Procedimentos Armazenados
+  Este módulo descreve o design e a implementação de procedimentos armazenados.
+  #### Lições
+  - Introdução ao Procedimentos Armazenados
+  - Trabalhando com Procedimentos Armazenados
+  - Implementando procedimentos armazenados parametrizados
+  - Controlando o contexto de execução
+
+
+  #### Laboratório&#58; Projetando e implementando procedimentos armazenados
+  - Criar procedimentos armazenados
+  - Criar procedimentos armazenados parametrizados
+  - Altera o contexto de execução do procedimento armazenado
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Entender o que são procedimentos armazenados e quais benefícios eles têm.
+  - Projetar, criar e alterar procedimentos armazenados.
+  - Controlar o contexto de execução de procedimentos armazenados.
+  - Implementar procedimentos armazenados que usam parâmetros.
+
+
+  ### Módulo 10&#58; Projetando e implementando funções definidas pelo usuário
+  Funções são rotinas usadas para encapsular a lógica executada com frequência. Em vez de ter que repetir a lógica da função em muitos lugares, o código pode chamar a função. Isso torna o código mais sustentável e mais fácil de depurar.
+
+  Neste módulo, você aprenderá a projetar e implementar UDFs (funções definidas pelo usuário) que aplicam regras de negócios ou consistência de dados. Você também aprenderá como modificar e manter as funções existentes.
+  #### Lições
+  - Visão geral das funções
+  - Projetando e implementando funções escalares
+  - Projetando e implementando funções com valor de tabela
+  - Considerações para implementar funções
+  - Alternativas às funções
+
+
+  #### Laboratório&#58; projetando e implementando funções definidas pelo usuário
+  - Formato de números de telefone
+  - Modificar uma função existente
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever os diferentes tipos de funções.
+  - Projetar e implementar funções escalares.
+  - Projetar e implementar funções com valor de tabela (TVFs).
+  - Descrever considerações para implantação de funções.
+  - Descrever alternativas para funções.
+
+  
+  ### Módulo 11&#58; Respondendo à manipulação de dados por meio de gatilhos
+  Os gatilhos DML (Data Manipulation Language) são ferramentas poderosas que você pode usar para impor domínio, entidade, integridade de dados referenciais e lógica de negócios. A imposição da integridade ajuda a criar aplicativos confiáveis. Neste módulo, você aprenderá o que são os gatilhos DML, como eles reforçam a integridade dos dados, os diferentes tipos de gatilho disponíveis e como defini-los em seu banco de dados.
+
+
+  #### Lições
+  - Projetando gatilhos DML
+  - Implementando gatilhos DML
+  - Conceitos avançados de gatilho
+
+
+  #### Laboratório&#58; Respondendo à manipulação de dados usando gatilhos
+  - Criar e testar o acionador de auditoria
+  - Melhorar o acionador de auditoria
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Projetar gatilhos DML
+  - Implementar gatilhos DML
+  - Explicar conceitos avançados de acionador de DML, como aninhamento e recursão.
+
+
+  ### Módulo 12&#58; Usando tabelas na memória
+  O software de gerenciamento de dados Microsoft SQL Server 2014 introduziu os recursos da funcionalidade de processamento de transações on-line (OLTP) na memória para melhorar o desempenho das cargas de trabalho OLTP. O SQL Server adiciona vários aprimoramentos, como a capacidade de alterar uma tabela com otimização de memória sem recriá-la. As tabelas com otimização de memória são armazenadas principalmente na memória, o que proporciona um desempenho aprimorado ao reduzir o acesso ao disco rígido.
+
+  Os procedimentos armazenados compilados nativamente melhoram ainda mais o desempenho em relação ao Transact-SQL tradicional interpretado.
+  #### Lições
+  - Tabelas otimizadas para memória
+  - Procedimentos armazenados compilados nativamente
+
+
+  #### Laboratório&#58; usando recursos de banco de dados na memória
+  - Usando tabelas com otimização de memória
+  - Usando procedimentos armazenados nativamente compilados
+
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Usar tabelas com otimização de memória para melhorar o desempenho de cargas de trabalho ligadas a trava.
+  - Usar procedimentos armazenados compilados nativamente.
+
+
+  ### Módulo 13&#58; Implementando código gerenciado no SQL Server
+  Como profissional do SQL Server, é provável que você seja solicitado a criar bancos de dados que atendam às necessidades de negócios. A maioria dos requisitos pode ser atendida usando o Transact-SQL. No entanto, ocasionalmente, você pode precisar de recursos adicionais que só podem ser atendidos usando o código CLR (Common Language Runtime).
+
+  À medida que a funcionalidade é adicionada ao SQL Server a cada nova versão, a necessidade de usar código gerenciado diminui. No entanto, há momentos em que você pode precisar criar agregados, procedimentos armazenados, gatilhos, funções definidas pelo usuário ou tipos definidos pelo usuário. Você pode usar qualquer linguagem do .NET Framework para desenvolver esses objetos.
+
+  Neste módulo, você aprenderá como usar o código gerenciado CLR para criar objetos de banco de dados definidos pelo usuário para o SQL Server.
+  #### Lições
+  - Introdução à integração do CLR no SQL Server
+  - Implementando e publicando CLR Assemblies
+
+
+  #### Laboratório&#58; implementando código gerenciado no SQL Server
+  - Avaliação do código CLR proposto
+  - Criando uma função CLR com valor escalar
+  - Criando uma função CLR com valor de tabela
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Explicar a importância da integração do CLR no SQL Server. 
+  - Implementar e publicar CLR assemblies usando o SQL Server Data Tools (SSDT).
+
+
+  ### Módulo 14&#58; Armazenando e consultando dados XML no SQL Server
+  O XML fornece regras para codificar documentos em um formato legível por máquina. Tornou-se um padrão amplamente adotado para representar estruturas de dados, em vez de enviar documentos não estruturados. Os servidores que executam o software de gerenciamento de dados do Microsoft SQL Server geralmente precisam usar XML para trocar dados com outros sistemas; muitas ferramentas do SQL Server fornecem uma interface baseada em XML.
+  
+  O SQL Server oferece tratamento extensivo de XML, tanto para armazenamento quanto para consultas. Este módulo apresenta o XML, mostra como armazenar dados XML no SQL Server e mostra como consultar os dados XML.
+  A capacidade de consultar dados XML diretamente evita a necessidade de extrair dados em um formato relacional antes de executar consultas SQL (Structured Query Language). Para processar efetivamente o XML, você deve poder consultar dados XML de várias maneiras&#58; retornando dados relacionais existentes como XML e consultando dados que já são XML.
+  #### Lições
+  - Introdução aos esquemas XML e XML
+  - Armazenando dados e esquemas XML no SQL Server
+  - Implementando o tipo de dados XML
+  - Usando a instrução Transact-SQL FOR XML
+  - Introdução ao XQuery
+  - Destruição de XML
+
+
+  #### Laboratório&#58; Armazenando e consultando dados XML no SQL Server
+  - Determinar quando usar espaços XML
+  - Testando o armazenamento de dados XML em variáveis
+  - Usando esquemas XML
+  - Usando consultas FOR XML
+  - Criando um procedimento armazenado para retornar XML
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever esquemas XML e XML.
+  - Armazenar dados XML e esquemas XML associados no SQL Server.
+  - Implementar os índices XML no SQL Server.
+  - Usar a instrução Transact-SQL FOR XML.
+  - Trabalhar com consultas XQuery básicas.
+
+
+  ### Módulo 15&#58; Armazenando e consultando dados espaciais no SQL Server
+  Este módulo descreve dados espaciais e como esses dados podem ser implementados no SQL Server.
+  #### Lições
+  - Introdução aos dados espaciais
+  - Trabalhando com tipos de dados espaciais do SQL Server
+  - Usando dados espaciais em aplicativos
+
+
+  #### Laboratório&#58; Trabalhando com dados espaciais do SQL Server
+  - Familiarize-se com o tipo de dados geometria
+  - Adicionar dados espaciais a uma tabela existente
+  - Encontrar locais próximos
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever como os dados espaciais podem ser armazenados no SQL Server
+  - Usar métodos básicos dos tipos de dados GEOMETRIA e GEOGRAFIA
+  - Consultar bancos de dados contendo dados espaciais
+
+
+  ### Módulo 16&#58; Armazenando e consultando BLOBs and Documentos de Texto em SQL Server
+  Tradicionalmente, os bancos de dados são usados para armazenar informações na forma de valores simples - como números inteiros, datas e cadeias - que contrastam com formatos de dados mais complexos, como documentos, planilhas, arquivos de imagem e arquivos de vídeo. À medida que os sistemas que os bancos de dados suportam se tornam mais complexos, os administradores acharam necessário integrar esses dados de arquivo mais complexos aos dados estruturados nas tabelas de banco de dados. Por exemplo, em um banco de dados do produto, pode ser útil associar um registro do produto ao manual de serviço ou aos vídeos instrucionais desse produto. O SQL Server fornece várias maneiras de integrar esses arquivos - geralmente conhecidos como BLOBs (Objetos Binários Grandes) - e permite que seu conteúdo seja indexado e incluído nos resultados da pesquisa. Neste módulo, você aprenderá como projetar e otimizar um banco de dados que inclui BLOBs.
+  #### Lições
+  - Considerações para dados BLOB
+  - Trabalhando com FILESTREAM
+  - Usando a pesquisa de texto completo
+
+
+  #### Laboratório&#58; armazenando e consultando BLOBs e documentos de texto no SQL Server
+  - Ativando e usando colunas FILESTREAM
+  - Ativando e usando tabelas de arquivos
+  - Usando um índice de texto completo
+
+  Depois de completar este módulo, vocês estarão aptos a&#58; 
+  - Descrever as considerações para projetar bancos de dados que incorporam dados BLOB.
+  - Descrever os benefícios e as considerações de design para usar o FILESTREAM para armazenar dados BLOB em um sistema de arquivos do Windows.
+  - Descrever os benefícios do uso da indexação de texto completo e da Pesquisa Semântica e explique como usar esses recursos para pesquisar dados do SQL Server, incluindo dados não estruturados.
+
+
+  ### Módulo 17&#58; Concorrência de SQL Server
+  Este módulo explica como nomear, declarar, atribuir valores e usar variáveis. Também descreve como armazenar dados em uma matriz.
+  
+  O controle de simultaneidade é um recurso crítico dos sistemas de banco de dados multiusuário; permite que os dados permaneçam consistentes quando muitos usuários estão modificando dados ao mesmo tempo. Este módulo aborda a implementação de simultaneidade no Microsoft SQL Server. Você aprenderá sobre como o SQL Server implementa controles de simultaneidade e as diferentes maneiras de configurar e trabalhar com configurações de simultaneidade.
+
+  #### Lições
+  - Concorrência e transações
+  - Internos de travamento
+
+
+  #### Laboratório&#58; Concorrência do SQL Server
+  - Implementar isolamento de instantâneo
+  - Implementar bloqueio de nível de partição
+
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Descrever simultaneidade e transações no SQL Server.
+  - Descrever bloqueio do SQL Server.
+
+
+  ### Módulo 18&#58; Desempenho e monitoramento
+  Este módulo explica como nomear, declarar, atribuir valores e usar variáveis. Também descreve como armazenar dados em uma matriz.
+  
+  Este módulo analisa como medir e monitorar o desempenho dos bancos de dados do SQL Server. As duas primeiras lições abordam o SQL Server Extended Events, um sistema de manipulação de eventos leve e flexível, incorporado ao Microsoft SQL Server Database Engine. Essas lições se concentram nos conceitos de arquitetura, estratégias de solução de problemas e cenários de uso.
+  #### Lições
+  - Extended Events
+  - Trabalhando com eventos estendidos
+  - Estatísticas de consulta ao vivo
+  - Otimizar a configuração do arquivo de banco de dados
+  - Métricas
+
+
+  #### Laboratório&#58; Monitoramento, rastreamento e base
+  - Coletando e analisando dados usando eventos estendidos
+  - Implementando a metodologia de linha de base
+
+  Depois de completar este módulo, vocês estarão aptos a&#58;
+  - Entender os eventos estendidos e como usá-los.
+  - Trabalhar com eventos estendidos.
+  - Entender as estatísticas de consulta ao vivo.
+  - Otimizar a configuração do arquivo de seus bancos de dados.
+  - Usar DMVs e Performance Monitor para criar linhas de base e coletar métricas de desempenho.
+

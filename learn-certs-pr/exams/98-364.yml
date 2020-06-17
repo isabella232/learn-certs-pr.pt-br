@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Database Fundamentals
+metadata:
+  title: 'Exam 98-364: Database Fundamentals'
+  description: 'Exam 98-364: Database Fundamentals'
+uid: exam.98-364
+displayName: 98-364
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  Os candidatos a esse exame querem provar o conhecimento de básico e as habilidades com bancos de dados, incluindo bancos de dados relacionais, como Microsoft SQL Server. Recomenda-se que os candidatos sejam familiarizados com os conceitos e tenham experiência prática com as tecnologias descritas aqui, seja por cursos relevantes ou pelo trabalho com tutoriais e exemplos disponíveis no MSDN e no Microsoft Visual Studio. Embora seja recomendada experiência prática mínima com as tecnologias, esses exames não pressupõem experiência de trabalho.
+subTitle: Os candidatos a esse exame querem provar o conhecimento de básico e as habilidades com bancos de dados, incluindo bancos de dados relacionais, como Microsoft SQL Server. Recomenda-se que os candidatos sejam familiarizados com os conceitos e tenham experiência prática com as tecnologias descritas aqui, seja por cursos relevantes ou pelo trabalho com tutoriais e exemplos disponíveis no MSDN e no Microsoft Visual Studio. Embora seja recomendada experiência prática mínima com as tecnologias, esses exames não pressupõem experiência de trabalho.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJq
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=98-364&examname=Database%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-364
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- Entendendo os principais conceitos do banco de dados (20-25%)
+- Criar objetos de banco de dados (20-25%)
+- Manipular dados (25-30%)
+- Compreender o armazenamento de dados (15-20%)
+- Administração de uma de banco de dados (10-15%)
+roles:
+- developer
+products:
+- sql-server
+courses:
+- uid: course.40364
+relatedCertifications:
+- related:
+    uid: certification.mta-database-fundamentals
+resources:
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: ../certification-exam-policies.md
+

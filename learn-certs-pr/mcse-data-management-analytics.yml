@@ -1,0 +1,64 @@
+### YamlMime:Certification
+title: 'MCSE: Data Management and Analytics'
+metadata:
+  title: 'MCSE: Data Management and Analytics'
+  description: 'MCSE: Data Management and Analytics'
+uid: certification.mcse-data-management-analytics
+iconUrl: /media/learn/certification/badges/mcse-badge.svg
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><strong>Esta certificação será desativada em 31 de janeiro de 2021. Não será mais possível obter esta certificação após esta data. Todas as certificações que você obtiver antes das datas de desativação continuarão visíveis em sua transcrição no <a href='https://www.microsoft.com/learning/dashboard.aspx'>Painel de Certificação</a>. Além disso, é possível <a href='/learn/certifications/retired-certifications'>pesquisar todas as certificações desativadas</a>.</strong><br/><br/></div>
+  </div>
+
+  Demonstre seu amplo conjunto de habilidades em administração de SQL, desenvolvimento de soluções de dados de nível empresarial e uso de dados de business intelligence, tanto em ambiente físico como em nuvem.
+
+  Para obter a certificação MCSE&#58; Data Management and Analytics, você deve ser aprovado em um dos seguintes exames&#58;
+  - [70-464&#58; Developing Microsoft SQL Server Databases](/learn/certifications/exams/70-464)
+  - [70-465&#58; Designing Database Solutions for Microsoft SQL Server](/learn/certifications/exams/70-465)
+  - [70-466&#58; Implementing Data Models and Reports with Microsoft SQL Server](/learn/certifications/exams/70-466)
+  - [70-467&#58; Designing Business Intelligence Solutions with Microsoft SQL Server](/learn/certifications/exams/70-467)
+  - [70-762&#58; Developing SQL Databases](/learn/certifications/exams/70-762)
+  - [70-767&#58; Implementing a Data Warehouse using SQL](/learn/certifications/exams/70-767)
+  - [70-768&#58; Developing SQL Data Models](/learn/certifications/exams/70-768)
+  - [70-777&#58; Implementing Microsoft Azure Cosmos DB Solutions](/learn/certifications/exams/70-777)
+subTitle: Demonstre seu amplo conjunto de habilidades em administração de SQL, desenvolvimento de soluções de dados de nível empresarial e uso de dados de business intelligence, tanto em ambiente físico como em nuvem.
+levels:
+- intermediate
+skills:
+- nenhuma
+roles:
+- database-administrator
+type: mcse
+products:
+- sql-server
+courses:
+- uid: course.20464
+- uid: course.20465
+- uid: course.20466
+- uid: course.20467
+- uid: course.20762
+- uid: course.20767
+- uid: course.20768
+- uid: course.20777
+exams:
+- uid: exam.70-464
+- uid: exam.70-465
+- uid: exam.70-466
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+
