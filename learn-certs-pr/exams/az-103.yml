@@ -32,7 +32,6 @@ levels:
 - intermediate
 skills:
 - UMA NOVA VERSÃO DESTE EXAME, AZ-104, FICOU DISPONÍVEL EM 2 DE ABRIL DE 2020. Você poderá fazer esse exame até que ele seja retirado em segunda-feira, 31 de agosto de 2020 ou por volta disso. Faça o download do documento de habilidades medido abaixo para ver informações detalhadas sobre as alterações.
-- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - Gerenciar assinaturas e recursos do Azure (15-20%)
 - Implementar e gerenciar armazenamento (15-20%)
 - Implementar e gerenciar máquinas virtuais (VMs) (15-20%)
@@ -49,6 +48,7 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
+- uid: course.az-010t00
 - uid: course.az-103t00
 paths:
 - uid: learn.administer-infrastructure-resources-in-azure

@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: Access 2013
+metadata:
+  title: 'Exam 77-424: Access 2013'
+  description: 'Exam 77-424: Access 2013'
+uid: exam.77-424
+displayName: 77-424
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  Este exame é destinado a candidatos que têm conhecimento básico do ambiente do Access 2013 e capacidade de realizar tarefas de forma independente. Ele deve conhecer e demonstrar a aplicação correta dos principais recursos do Access 2013.
+subTitle: Este exame é destinado a candidatos que têm conhecimento básico do ambiente do Access 2013 e capacidade de realizar tarefas de forma independente. Ele deve conhecer e demonstrar a aplicação correta dos principais recursos do Access 2013.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJp
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=77-424&examname=Access%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-424
+locales:
+- en
+- zh-cn
+- zh-tw
+- es
+- ja
+- ko
+- nl
+levels:
+- beginner
+skills:
+- Criar e gerenciar um banco de dados (20-25%)
+- Criar tabelas (25-30%)
+- Criar consultas (15-20%)
+- Criar formulários (15-20%)
+- Criar relatórios (15-20%)
+roles:
+- business-user
+products:
+- office-access
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
+resources:
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: ../certification-exam-policies.md
+

@@ -54,7 +54,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 7197 | A | Managing Enterprise Desktops using the Microsoft® Desktop Optimization Pack | Inglês | 30/06/2020 |
     | 10035 | A | Notions de base sur l’infrastructure réseau et la plateforme d’applications Windows Server® 2008 | francês | 30/06/2020 |
     | 10054 | A | Écriture de requêtes avec Microsoft SQL Server 2008 Transact-SQL | francês | 30/06/2020 |
-    | 10055 | A | Schreiben von Abfragen mit Microsoft SQL Server 2008 Transact-SQL | alemão | 06/30/2020 |
+    | 10055 | A | Schreiben von Abfragen mit Microsoft SQL Server 2008 Transact-SQL | alemão | 30/06/2020 |
     | 10076 | A | Maintaining a Microsoft® SQL Server® 2008 Database | japonês | 30/06/2020 |
     | 10076 | A | Maintaining a Microsoft® SQL Server® 2008 Database | japonês | 30/06/2020 |
     | 10135 | B | Configuring, Managing and Troubleshooting Microsoft® Exchange Server 2010 | Inglês | 30/06/2020 |
@@ -136,6 +136,23 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 22697-2 | B | Deploying and Managing Windows 10 | francês | 30/06/2020 |
     | 23697-1 | B | Installing and Configuring Windows 10 | japonês | 30/06/2020 |
     | 23697-2 | B | Deploying and Managing Windows 10 Using Enterprise Services | japonês | 30/06/2020 |
+
+* Cursos desativados em 29 de maio de 2020
+
+    | Número do curso | Versão | Título | Idioma | Data de desativação |
+    | --- | --- | --- | --- | --- |
+    | AZ-400T01 | A | Implementing DevOps Development Processes | Inglês | 29/05/2020 |
+    | AZ-400T02 | A | Implementing Continuous Integration | Inglês | 29/05/2020 |
+    | AZ-400T03 | A | Implementing Continuous Delivery | Inglês | 29/05/2020 |
+    | AZ-400T04 | A | Implementing Dependency Management | Inglês | 29/05/2020 |
+    | AZ-400T05 | A | Implementing Application Infrastructure | Inglês | 29/05/2020 |
+    | AZ-400T06 | A | Implementing Continuous Feedback | Inglês | 29/05/2020 |
+    | AZ-400T07 | A | Designing a DevOps Strategy | Inglês | 29/05/2020 |
+    | MS-500T01 | A | Managing Microsoft 365 Identity and Access | Inglês | 29/05/2020 |
+    | MS-500T02 | A | Implementing Microsoft 365 Threat Protection | Inglês | 29/05/2020 |
+    | MS-500T03 | A | Implementing Microsoft 365 Information Protection | Inglês | 29/05/2020 |
+    | MS-500T04 | A | Administering Microsoft 365 Built-in Compliance | Inglês | 29/05/2020 |
+    | 40517 | G | Microsoft Cloud Workshop: Migrate EDW to Azure SQL Data Warehouse | Inglês | 29/05/2020 |
 
 * Cursos desativados em 28 de Fevereiro de 2020
 
@@ -235,17 +252,17 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 10140 | A | Configuring, Managing and Maintaining Windows Server 2008 Servers | português | 31/12/2019 |
     | 10142 | A | Manutenção de um banco de dados do Microsoft® SQL Server® 2008 | português | 31/12/2019 |
     | 10168 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | português | 31/12/2019 |
-    | 10216 | A | Konfiguration, Verwaltung und Problembehandlung in Microsoft® Exchange Server 2010 | alemão | 12/31/2019 |
+    | 10216 | A | Konfiguration, Verwaltung und Problembehandlung in Microsoft® Exchange Server 2010 | alemão | 31/12/2019 |
     | 10217 | A | Microsoft® Exchange Server 2010 の構成、管理、トラブルシューティング | japonês | 31/12/2019 |
     | 10219 | A | Configuration, gestion et résolution des problèmes de Microsoft® Exchange Server 2010 | francês | 31/12/2019 |
-    | 10220 | A | Planen und Verwalten von Windows® 7-Desktopbereitstellungen und -umgebungen | alemão | 12/31/2019 |
+    | 10220 | A | Planen und Verwalten von Windows® 7-Desktopbereitstellungen und -umgebungen | alemão | 31/12/2019 |
     | 10222 | A | Configuração e solução de problemas dos Serviços de Domínio Active Directory® no Windows Server® 2008 | português | 31/12/2019 |
     | 10223 | A | Planification et gestion des environnements et des déploiements de postes de travail Windows®7 | francês | 31/12/2019 |
     | 10224 | A | Installation et configuration du client Windows® 7 | francês | 31/12/2019 |
-    | 10225 | A | Installieren und Konfigurieren von Windows® 7 Client | alemão | 12/31/2019 |
+    | 10225 | A | Installieren und Konfigurieren von Windows® 7 Client | alemão | 31/12/2019 |
     | 10226 | A | Windows® 7 クライアントのインストールおよび構成 | japonês | 31/12/2019 |
     | 10228 | A | Instalação e configuração do cliente Windows® 7 | português | 31/12/2019 |
-    | 10229 | A | Konfigurieren von Identitäts- und Zugriffslösungen und Problembehandlung mit Windows Server® 2008 Active Directory® | alemão | 12/31/2019 |
+    | 10229 | A | Konfigurieren von Identitäts- und Zugriffslösungen und Problembehandlung mit Windows Server® 2008 Active Directory® | alemão | 31/12/2019 |
     | 10230 | A | Configuração e solução de problemas de soluções de identidade e acesso no Windows Server® 2008 Active Directory® | português | 31/12/2019 |
     | 10555 | A | Configuração, gerenciamento e solução de problemas do Microsoft® Exchange Server 2010 | português | 31/12/2019 |
     | 10557 | A | Introduction au développement Web avec Microsoft® Visual Studio® 2010 | francês | 31/12/2019 |
@@ -254,23 +271,23 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 10563 | A | Microsoft® Visual Studio® 2010 C# 编程 | simplificado chinês | 31/12/2019 |
     | 10564 | A | Microsoft® Visual Studio® 2010 Web 开发基础 | simplificado chinês | 31/12/2019 |
     | 10701 | A | Configuration et gestion de Microsoft SharePoint 2010 | francês | 31/12/2019 |
-    | 10702 | A | Konfiguration und Verwaltung von Microsoft SharePoint 2010 | alemão | 12/31/2019 |
+    | 10702 | A | Konfiguration und Verwaltung von Microsoft SharePoint 2010 | alemão | 31/12/2019 |
     | 10704 | A | Configuração e gerenciamento do Microsoft SharePoint 2010 | português | 31/12/2019 |
     | 10707 | A | Instalowanie i konfigurowanie klienta systemu Windows® 7 | polaco | 31/12/2019 |
     | 10708 | A | Instalación y configuración del cliente de Windows® 7 | espanhol | 31/12/2019 |
-    | 10709 | A | Установка и настройка клиента Windows® 7 | Russion | 12/31/2019 |
+    | 10709 | A | Установка и настройка клиента Windows® 7 | Russion | 31/12/2019 |
     | 10714 | A | Desenvolvimento de aplicativos Web com o Microsoft® Visual Studio® 2010 | português | 31/12/2019 |
     | 10755 | A | Implémentation et gestion de la virtualisation de serveurs Microsoft® | francês | 31/12/2019 |
-    | 10756 | A | Implementierung und Verwaltung von Microsoft® Server Virtualization | alemão | 12/31/2019 |
+    | 10756 | A | Implementierung und Verwaltung von Microsoft® Server Virtualization | alemão | 31/12/2019 |
     | 10757 | A | Implementação e gerenciamento da virtualização de servidores da Microsoft® | português | 31/12/2019 |
     | 10758 | A | Implémentation et gestion de la virtualisation de postes de travail Microsoft | francês | 31/12/2019 |
-    | 10759 | A | Implementierung und Verwaltung von Microsoft Desktop Virtualization | alemão | 12/31/2019 |
+    | 10759 | A | Implementierung und Verwaltung von Microsoft Desktop Virtualization | alemão | 31/12/2019 |
     | 10947 | A | 使用Visual Studio 2010 开发数据访问应用程序 | simplificado chinês | 31/12/2019 |
     | 10948 | A | 使用Visual Studio 2010 开发WCF应用程序 | simplificado chinês | 31/12/2019 |
     | 10949 | A | 使用Visual Studio 2010 开发 Windows 应用程序 | simplificado chinês | 31/12/2019 |
     | 10951 | A | Implementing and Managing Microsoft® Server Virtualization (simplificado chinês) | simplificado chinês | 31/12/2019 |
     | 10952 | A | Microsoft SharePoint 2010 配置与管理 | simplificado chinês | 31/12/2019 |
-    | 21416 | B | Implementieren von Umgebungen für Desktopanwendungen | alemão | 12/31/2019 |
+    | 21416 | B | Implementieren von Umgebungen für Desktopanwendungen | alemão | 31/12/2019 |
     | 2180 | A | Implementação de uma infra estrutura de rede do Microsoft® Windows Server™ 2003: hosts de rede | português | 31/12/2019 |
     | 2180 | A | Implementação de uma infra estrutura de rede do Microsoft® Windows Server™ 2003: hosts de rede | português | 31/12/2019 |
     | 2197 | A | Planning, Implementing, and Maintaining a Microsoft® Windows® Server 2003 Active Directory® Infrastructure | português | 31/12/2019 |
@@ -298,11 +315,11 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 50601 | A | Designing and Implementing Management Solution for Microsoft SQL Server 2008 Database | japonês | 31/12/2019 |
     | 50602 | A | Designing and Planning Microsoft Lync Server 2010 Solutions | japonês | 31/12/2019 |
     | 50603 | A | Configuring and Administering Microsoft Lync Server 2010 | japonês | 31/12/2019 |
-    | 6237 | B | Windows Server® 2008 Active Directory®-Domänendienste: Konfiguration und Problembehandlung | alemão | 12/31/2019 |
+    | 6237 | B | Windows Server® 2008 Active Directory®-Domänendienste: Konfiguration und Problembehandlung | alemão | 31/12/2019 |
     | 6238 | B | Configuration et résolution des problèmes des services de domaine Active Directory® Windows Server® 2008 | francês | 31/12/2019 |
     | 6744 | A | Configuration et résolution des problèmes en utilisant Internet Information Services dans Windows Server® 2008 | francês | 31/12/2019 |
-    | 6745 | A | Internetinformationsdienste in Windows Server® 2008: Konfiguration und Problembehandlung | alemão | 12/31/2019 |
-    | 6748 | B | Einrichten von Servern unter Windows Server® 2008 | alemão | 12/31/2019 |
+    | 6745 | A | Internetinformationsdienste in Windows Server® 2008: Konfiguration und Problembehandlung | alemão | 31/12/2019 |
+    | 6748 | B | Einrichten von Servern unter Windows Server® 2008 | alemão | 31/12/2019 |
     | 6850 | A | Fundamentals of Windows Server® 2008 Network and Applications Infrastructure (simplificado chinês) | simplificado chinês | 31/12/2019 |
     | 6852 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (simplificado chinês) | simplificado chinês | 31/12/2019 |
     | 6854 | A | Windows Server® 2008 Internet 信息服务的配置与故障排除 | simplificado chinês | 31/12/2019 |
@@ -502,7 +519,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | alemão | 30/6/2018
     | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | francês | 30/6/2018
     | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | alemão | 30/6/2018
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | francês | 30/6/2018
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003: services réseau | francês | 30/6/2018
     | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | alemão | 30/6/2018
     | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | francês | 30/6/2018
     | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | português | 30/6/2018
@@ -742,7 +759,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 80580 | A | Microsoft Dynamics AX 2012 の個別の製造の詳細 | japonês | 30/6/2017
     | 80581 | A | Microsoft Dynamics AX 2012 の個別の製造の基本 | japonês | 30/6/2017
 
-* Cursos desativados em 15 de abril de 2017
+* Cursos desativados 15 de abril de 2017
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
@@ -875,7 +892,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 37 | Office 2013 and Office 365 Demonstration Sessions | espanhol | 18/4/2016
     | 36 | Office 2013 and Office 365 Demonstration Sessions | alemão  | 18/4/2016
     | 35 | Office 2013 and Office 365 Demonstration Sessions | russo | 18/4/2016
-    | 34 | Office 2013 and Office 365 Demonstration Sessions | Brazilian, português | 4/18/2016
+    | 34 | Office 2013 and Office 365 Demonstration Sessions | Brazilian, português | 18/04/2016
     | 33 | Office 2013 and Office 365 Demonstration Sessions | chinês (simplificado) | 18/4/2016
     | 32 | Office 2013 and Office 365 Demonstration Sessions | francês | 18/04/2016
     | 31 | Office 2013 and Office 365 Demonstration Sessions | Inglês | 18/4/2016
@@ -911,7 +928,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 10703 | A | Microsoft SharePoint 2010 の構成および管理 | japonês | 31/8/2015
     | 10713 | A | Microsoft Visual Studio 2010 による Web アプリケーションの開発 | japonês | 31/8/2015
     | 10775 | A | Administering Microsoft SQL Server 2012 Databases | Inglês | 31/8/2015
-    | 50430 | B | Administering Team Foundation Server 2010 | Inglês | 31/8/2015
+    | 50430 | B | Administering Team Foundation Server 2010 | Inglês | 31/08/2015
     | 50523 | A | Deploying the Optimized Desktop with Windows 7 and Office 2010 | Inglês | 31/8/2015
 
 * Cursos desativados em 30 de junho de 2015
@@ -985,7 +1002,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 40005 | B | First Look Clinic: Windows Server 2012 | Inglês | 31/12/2013
     | 40006 | B | Hands On Lab: Windows Server 2012 | Inglês | 31/12/2013
 
-* Cursos desativados em 30 de setembro de 2013
+* Cursos desativados em segunda-feira, 30 de setembro de 2013
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |

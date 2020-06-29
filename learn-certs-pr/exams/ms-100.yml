@@ -1,23 +1,24 @@
 ### YamlMime:Examination
 title: Microsoft 365 Identity and Services
 metadata:
-  title: 'Exame MS-100: Microsoft 365 Identity and Services'
-  description: 'Exame MS-100: Microsoft 365 Identity and Services'
+  title: 'Exam MS-100: Microsoft 365 Identity and Services'
+  description: 'Exam MS-100: Microsoft 365 Identity and Services'
 uid: exam.ms-100
 displayName: MS-100
-summary: >-
-  Os candidatos a este exame são os administradores do Microsoft 365 Enterprise que participam da avaliação, planejamento, migração, implementação e gerenciamento dos serviços do Microsoft 365. Eles executam tarefas de gerenciamento de locatários do Microsoft 365 para uma empresa, incluindo suas identidades, segurança, conformidade e tecnologias de suporte.
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
 
+  Os candidatos a este exame são os administradores do Microsoft 365 Enterprise que participam da avaliação, planejamento, migração, implantação e gerenciamento dos serviços do Microsoft 365. Eles executam tarefas de gerenciamento de locatários do Microsoft 365 para uma empresa, incluindo suas identidades, segurança, conformidade e tecnologias de suporte.
 
-  Os candidatos têm um conhecimento prático das cargas de trabalho do Microsoft 365 e devem ter sido administradores de pelo menos uma carga de trabalho do Microsoft 365 (Exchange, SharePoint, Skype para Empresas, Windows como Serviço). Os candidatos também têm um conhecimento prático de redes, administração de servidores e fundamentos de TI, como DNS, Active Directory e PowerShell.
+  Os candidatos têm um conhecimento prático das cargas de trabalho do Microsoft 365 e devem ter sido administradores de pelo menos uma carga de trabalho do Microsoft 365 (Exchange, SharePoint, Skype for Business, Windows como Serviço). Os candidatos também têm um conhecimento prático de redes, administração de servidores e fundamentos de TI, como DNS, Active Directory e PowerShell.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: desenvolver e implementar serviços do Microsoft 365, gerenciar a identidade e as funções do usuário, gerenciar o acesso e autenticação e planejar cargas de trabalho e aplicativos do Office 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVE
 practiceTestUrl: https://us.mindhub.com/p/MU-MS-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-100&examname=Exam%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-100
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-100&examname=Exame%20MS-100:%20Microsoft%20365%20Identity%20and%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-100
 levels:
 - advanced
 skills:
@@ -27,16 +28,14 @@ skills:
 - Planejar cargas de trabalho e aplicativos do Office 365 (10-15%)
 roles:
 - administrator
-exams:
-- uid: exam.ms-101
 products:
 - m365
 - azure-active-directory
 - office-365
+exams:
+- uid: exam.ms-101
 courses:
-- uid: course.ms-100t01
-- uid: course.ms-100t02
-- uid: course.ms-100t03
+- uid: course.ms-100t00
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator
@@ -44,18 +43,22 @@ resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetir Exame
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Ajuda para exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
   description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de exames e perguntas frequentes
-  description: Consulte as políticas do exame e as perguntas frequentes.
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md
+

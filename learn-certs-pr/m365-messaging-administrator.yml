@@ -2,48 +2,43 @@
 title: 'Microsoft 365 Certified: Messaging Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Messaging Administrator Associate'
-  description: Administradores de mensagens do Microsoft 365 implantam, configuram, gerenciam e monitoram a infraestrutura de mensagens, permissões, acesso de clientes, proteção de e-mail e fluxo de mensagens em ambientes corporativos locais, híbridos e em nuvem.
+  description: 'Os Administradores de Mensagens do Microsoft 365 implementam, configuram, gerenciam, diagnosticam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes híbridos e na nuvem.'
 uid: certification.m365-messaging-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Administradores de mensagens do Microsoft 365 implantam, configuram, gerenciam e monitoram a infraestrutura de mensagens, permissões, acesso de clientes, proteção de e-mail e fluxo de mensagens em ambientes corporativos locais, híbridos e em nuvem.
-subTitle: Administradores de mensagens do Microsoft 365 implantam, configuram, gerenciam e monitoram a infraestrutura de mensagens, permissões, acesso de clientes, proteção de e-mail e fluxo de mensagens em ambientes corporativos locais, híbridos e em nuvem.
+summary: |-
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+
+  Os Administradores de Mensagens do Microsoft 365 implementam, configuram, gerenciam, diagnosticam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes híbridos e na nuvem.
+subTitle: Os Administradores de Mensagens do Microsoft 365 implementam, configuram, gerenciam, diagnosticam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes híbridos e na nuvem.
 levels:
 - intermediate
 skills:
-- Gerenciar uma infraestrutura moderna de mensagens
-- Gerenciar a topologia de fluxo de correio
-- Gerenciar destinatários e dispositivos
-- Planejar e implementar uma configuração e migração híbridas
-- Proteger o ambiente de mensagens
-- Gerenciar configurações organizacionais
+- Gerenciar configurações e recursos organizacionais
+- Planejar e gerenciar a arquitetura de e-mail
+- Planejar e implementar uma configuração e migração híbrida
+- Proteger o ambiente de mensagem
 roles:
 - administrator
 type: role-based
 products:
 - m365
-courses:
-- uid: course.ms-200t01
-- uid: course.ms-200t02
-- uid: course.ms-200t03
-- uid: course.ms-201t01
-- uid: course.ms-201t02
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
 exams:
-- uid: exam.ms-200
-- uid: exam.ms-201
+- uid: exam.ms-203
 resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetir exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Apoio às certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -2,14 +2,20 @@
 title: 'Microsoft Certified: Azure Administrator Associate'
 metadata:
   title: 'Microsoft Certified: Azure Administrator Associate'
-  description: 'Os Azure administradores implementam, monitoram e mantêm soluções da Microsoft Azure, incluindo os principais serviços relacionados a computação, armazenamento, rede e segurança.'
+  description: 'Os administradores do Azure implementam, gerenciam e monitoram o ambiente Microsoft Azure da organização.'
 uid: certification.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></font></div>
 
-  Os Azure administradores implementam, monitoram e mantêm soluções da Microsoft Azure, incluindo os principais serviços relacionados a computação, armazenamento, rede e segurança.
-subTitle: Os Azure administradores implementam, monitoram e mantêm soluções da Microsoft Azure, incluindo os principais serviços relacionados a computação, armazenamento, rede e segurança.
+  Os candidatos à certificação Azure Administrator Associate devem ser especialistas na implementação, gerenciamento e monitoramento do ambiente Microsoft Azure da organização.
+
+  As responsabilidades atribuídas à função incluem a implementação, gerenciamento e monitoramento de redes de identidade, governança, armazenamento, computação e redes virtuais em um ambiente em nuvem, além de fornecer, dimensionar, monitorar e ajustar recursos, quando necessário.
+
+  O administrador do Azure geralmente atua como parte de uma equipe maior dedicada à implementação da infraestrutura de nuvem da sua organização.
+
+  O candidato a esta certificação deve ter pelo menos seis meses de experiência prática na administração do Azure, além de sólida compreensão dos principais serviços, cargas de trabalho, segurança e governança do Azure. Além disso, esta função deve ter experiência no uso de modelos do PowerShell, CLI e portal do Azure e do Azure Resource Manager.
+subTitle: Os administradores do Azure implementam, gerenciam e monitoram o ambiente Microsoft Azure da organização.
 levels:
 - intermediate
 skills:
@@ -29,23 +35,22 @@ products:
 - azure-virtual-network
 - azure-resource-manager
 courses:
+- uid: course.az-010t00
 - uid: course.az-104t00
 paths:
-- uid: learn.administer-infrastructure-resources-in-azure
-- uid: learn.architect-storage-infrastructure
-- uid: learn.architect-network-infrastructure
-- uid: learn.architect-infrastructure-operations
-- uid: learn.architect-compute-infrastructure
-- uid: learn.architect-migration-bcdr
-- uid: learn.manage-resources-in-azure
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.administer-containers-in-azure
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUF
 exams:
 - uid: exam.az-104
 resources:
+- title: Tabela de certificação do Azure
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

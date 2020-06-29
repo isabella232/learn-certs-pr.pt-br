@@ -5,21 +5,24 @@ metadata:
   description: 'MO-201: Microsoft Excel Expert (Excel and Excel 2019)'
 uid: exam.mo-201
 displayName: MO-201
-summary: Um indivíduo que recebe esta certificação tem aproximadamente 150 horas de instrução e experiência prática com o produto, possui competência comprovada em nível de especialista na área e está pronto para entrar no mercado de trabalho. Eles podem demonstrar a aplicação correta dos principais recursos do Excel em um nível de especialista e podem concluir tarefas de maneira independente.
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  O exame abrange a capacidade de personalizar ambientes do Excel para atender às necessidades  do projeto e para  aumentar a produtividade. Entre os exemplos de pasta de trabalho especialistas estão modelos corporativos, gráficos financeiros de vários eixos, tabelas de amortização e agendamentos de inventário. Os candidatos devem demonstrar a aplicação correta dos principais recursos do Excel em nível de especialista e concluir as tarefas de maneira independente.
 subTitle: Este exame mede a competência na criação, gerenciamento e distribuição de planilhas profissionais para uma série de finalidades e situações específicas. O exame abrange a capacidade de personalizar ambientes do Excel para atender às necessidades  do projeto e para  aumentar a produtividade. Entre os exemplos de pasta de trabalho especialistas estão modelos corporativos, gráficos financeiros de vários eixos, tabelas de amortização e agendamentos de inventário.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE47RTC
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
 levels:
 - advanced
 skills:
 - Gerenciar opções e configurações de pasta de trabalho (15-20%)
 - Gerenciar e formatas dados (20-25%)
-- Criar gráficos e macros avançados (30-35%)
+- Criar fórmulas e macros avançados (30-35%)
 - Gerenciar gráficos e tabelas avançados (25-30%)
 roles:
 - business-user
@@ -34,11 +37,12 @@ resources:
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
   description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de exames e perguntas frequentes
-  description: Consulte as políticas do exame e as perguntas frequentes.
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md
+

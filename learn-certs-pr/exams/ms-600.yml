@@ -22,7 +22,6 @@ locales:
 levels:
 - intermediate
 skills:
-- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - Implementar o Microsoft Identity (20-25%)
 - Construir aplicativos com o Microsoft Graph (20-25%)
 - Expandir e Personalizar o SharePoint (20-25%)

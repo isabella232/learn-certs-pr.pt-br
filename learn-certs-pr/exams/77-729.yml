@@ -1,19 +1,28 @@
 ### YamlMime:Examination
 title: 'PowerPoint 2016: Core Presentation Design and Delivery Skills'
 metadata:
-  title: 'Exame 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
-  description: 'Exame 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
+  title: 'Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
+  description: 'Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
 uid: exam.77-729
 displayName: 77-729
-summary: "Candidatos bem-sucedidos terão um entendimento fundamental do ambiente do PowerPoint e demonstrarão a aplicação correta do PowerPoint 2016. Os candidatos criam, editam e melhoram as apresentações e apresentações de slides. Exemplos de apresentações incluem apresentações de vendas profissionais, treinamento de funcionários, materiais instrucionais e apresentações de slides de quiosques.\n\nOs testes de certificação do Microsoft Office Specialist (MOS) 2016 introduzem um novo formato baseado em desempenho para melhorar o teste de conhecimento, habilidades e capacidades de um candidato usando os programas do MOS 2016&#58;\n- As instruções da tarefa do teste MOS 2016 geralmente não incluem o nome do comando, como em versões anteriores. Por exemplo, evita-se o uso de nomes de funções e elas são substituídas por descritores. Isso significa que os candidatos devem entender a finalidade e o uso comum da funcionalidade do programa, a fim de concluir com sucesso as tarefas em cada projeto. \n- O formato de teste MOS 2016 incorpora múltiplos projetos. \n"
-subTitle: Candidatos bem-sucedidos terão um entendimento fundamental do ambiente do PowerPoint e demonstrarão a aplicação correta do PowerPoint 2016. Os candidatos criam, editam e melhoram as apresentações e apresentações de slides. Exemplos de apresentações incluem apresentações de vendas profissionais, treinamento de funcionários, materiais instrucionais e apresentações de slides de quiosques.
+summary: |+
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  Os candidatos qualificados terão um entendimento básico do ambiente do PowerPoint e demonstrarão a aplicação correta do PowerPoint 2016. Os candidatos criam, editam e melhoram as apresentações e apresentações de slides. Alguns exemplos de apresentações incluem apresentações de vendas profissionais, treinamento de funcionários, materiais instrucionais e apresentações de slides de quiosques.
+
+  Os exames de certificação do Microsoft Office Specialist (MOS) 2016 introduzem um novo formato baseado em desempenho para melhorar o teste de conhecimento, habilidades e capacidades de um candidato usando os programas do MOS 2016&#58;
+  - As instruções da tarefa do exame MOS 2016 geralmente não incluem o nome do comando, como em versões anteriores. Por exemplo, evita-se o uso de nomes de funções, que são substituídas por descritores. Isso significa que os candidatos devem entender a finalidade e o uso comum da funcionalidade do programa, a fim de concluir com sucesso as tarefas em cada projeto.
+  - O formato de exame MOS 2016 incorpora múltiplos projetos.
+subTitle: Os candidatos qualificados terão um entendimento básico do ambiente do PowerPoint e demonstrarão a aplicação correta do PowerPoint 2016. Os candidatos criam, editam e melhoram as apresentações e apresentações de slides. Alguns exemplos de apresentações incluem apresentações de vendas profissionais, treinamento de funcionários, materiais instrucionais e apresentações de slides de quiosques.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8dr
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
+- ar-sa
+- bg-bg
 - zh-cn
 - zh-tw
 - de
@@ -50,11 +59,12 @@ resources:
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre a solicitação de uma acomodação para o seu exame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de exames e perguntas frequentes
-  description: Consulte as políticas do exame e as perguntas frequentes.
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md
+

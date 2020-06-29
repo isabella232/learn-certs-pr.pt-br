@@ -1,61 +1,71 @@
 ### YamlMime:Examination
 title: Implementing a Hybrid and Secure Messaging Platform
 metadata:
-  title: 'Exame MS-201: Implementing a Hybrid and Secure Messaging Platform'
-  description: 'Exame MS-201: Implementing a Hybrid and Secure Messaging Platform'
+  title: 'Exam MS-201: Implementing a Hybrid and Secure Messaging Platform'
+  description: 'Exam MS-201: Implementing a Hybrid and Secure Messaging Platform'
 uid: exam.ms-201
 displayName: MS-201
-summary: >-
-  Os candidatos a este exame são Messaging Administrators que implementam, configuram, gerenciam, solucionam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes corporativos no local e na nuvem.
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>UMA NOVA VERSÃO DESTE EXAME, <a href="/learn/certifications/exams/ms-203">MS-203</a>, FICOU DISPONÍVEL EM terça-feira, 2 de junho de 2020. Você poderá fazer esse exame até que ele seja retirado em segunda-feira, 31 de agosto de 2020 ou por volta disso. OBSERVAÇÃO&#58; O exame será desativado às 23&#58;59 Horário Central Padrão.<br/><br/></div>
+  </div>
 
+  Os candidatos a este exame são Messaging Administrators que implementam, configuram, gerenciam, solucionam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes corporativos no local e na nuvem.
 
   Os Messaging Administrators são responsáveis por gerenciar a limpeza, a infraestrutura de mensagens, a configuração híbrida, a migração, a recuperação de desastres, a alta disponibilidade e o acesso do cliente.
 
-
   Os Messaging Administrators colaboram com o Security Administrator e o Microsoft 365 Enterprise Administrator para implementar uma topologia híbrida segura que atenda às necessidades de negócios de uma organização moderna.
 
-
   O Messaging Administrator deve ter um conhecimento prático dos tipos de autenticação, licenciamento e integração com aplicativos do Microsoft 365.
+
+  <div style='font-weight&#58; bold;'><br/>Observação&#58; Você receberá a seguinte certificação se for aprovado neste exame&#58; <a href="/learn/certifications/m365-messaging-administrator">Microsoft 365 Certified&#58; Messaging Administrator Associate</a>.</div>
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: planejar e implementar uma configuração e migração híbrida, proteger o ambiente de mensagens e gerenciar as configurações organizacionais.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk9
+practiceTestUrl: https://www.mindhub.com/p/MU-MS-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-201&examname=Exam%20MS-201:%20Implementing%20a%20Hybrid%20and%20Secure%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-201
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-201&examname=Exame%20MS-201:%20Implementing%20a%20Hybrid%20and%20Secure%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-201
 levels:
 - intermediate
 skills:
 - Planejar e implementar uma configuração e migração híbrida (35-40%)
 - Proteger o ambiente de mensagem (40-45%)
 - Gerenciar as configurações organizacionais (15-20%)
+retirementDate: 08/31/2020
 roles:
 - administrator
-exams:
-- uid: exam.ms-200
 products:
 - m365
+exams:
+- uid: exam.ms-200
 courses:
 - uid: course.ms-201t01
 - uid: course.ms-201t02
 relatedCertifications:
 - related:
-    uid: certification.m365-messaging-administrator
+    uid: none
 resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Resposta ao exame
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
-  description: Obtenha ajuda através dos fóruns de suporte  da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Reveja e gerencie seus compromissos, certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre como solicitar um alojamento para o seu exame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Políticas de exame e perguntas frequentes
-  description: Consulte as políticas do exame e as perguntas frequentes.
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md
+

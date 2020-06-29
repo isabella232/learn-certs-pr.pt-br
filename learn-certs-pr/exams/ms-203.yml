@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Microsoft 365 Messaging
+metadata:
+  title: 'Exam MS-203: Microsoft 365 Messaging'
+  description: 'Exam MS-203: Microsoft 365 Messaging'
+uid: exam.ms-203
+displayName: MS-203
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  Os candidatos a este exame são Messaging Administrators que implementam, configuram, gerenciam, solucionam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes híbridos e na nuvem.
+
+  Os Messaging Administrators são responsáveis por gerenciar a higiene, a infraestrutura de mensagens, a configuração híbrida, a migração, o transporte, as caixas de correio e o acesso do cliente.
+
+  Os Messaging Administrators colaboram com o Security Administrator e o Microsoft 365 Enterprise Administrator para implementar uma topologia híbrida somente na nuvem segura que atenda às necessidades de negócios da empresa.
+
+  O Messaging Administrator deve ter um conhecimento prático dos tipos de autenticação, licenciamento e integração com aplicativos do Microsoft 365.
+subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: gerenciar configurações e recursos organizacionais, planejar e gerenciar a arquitetura de e-mail, planejar e implementar uma configuração e migração híbridas e proteger o ambiente de mensagens.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Gerenciar configurações e recursos organizacionais (30-35%)
+- Planejar e gerenciar a arquitetura de e-mail (20-25%)
+- Planejar e implementar uma configuração e migração híbrida (20-25%)
+- Proteger o ambiente de mensagem (20-25%)
+roles:
+- administrator
+products:
+- m365
+relatedCertifications:
+- related:
+    uid: certification.m365-messaging-administrator
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
+  href: ../certification-exam-policies.md
+

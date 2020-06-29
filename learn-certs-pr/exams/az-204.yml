@@ -1,23 +1,23 @@
 ### YamlMime:Examination
-title: Developing Solutions for Microsoft Azure (beta)
+title: Developing Solutions for Microsoft Azure
 metadata:
-  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
-  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure (beta)'
+  title: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
+  description: 'Exam AZ-204: Developing Solutions for Microsoft Azure'
 uid: exam.az-204
 displayName: AZ-204
 summary: |-
   <div><div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame será atualizado em 18 de maio de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 18 de maio de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
   </div>
 
-  Os candidatos a esse exame são desenvolvedores de nuvem que participam de todas as fases do desenvolvimento, da definição e design dos requisitos, ao desenvolvimento, implantação e manutenção. Eles fazem parceria com DBAs em nuvem, administradores em nuvem e clientes para implementar a solução.
+  Os candidatos a este exame devem ter experiência no projeto, construção, teste e manutenção de aplicativos e serviços em nuvem no Microsoft Azure.
 
-  Os candidatos devem ter proficiência em SDKs do Azure, opções de armazenamento de dados, conexões de dados, APIs, autenticação e autorização de aplicativos, implantação de computação e contêiner, depuração, ajuste de desempenho e monitoramento.
+  As responsabilidades de um Azure Developer incluem a participação em todas as fases do desenvolvimento da nuvem, desde a definição e o design dos requisitos até o desenvolvimento, implantação, manutenção, configuração do desempenho e monitoramento.
   <br/>
 
-  Os candidatos devem ter 1 a 2 anos de experiência em desenvolvimento profissional e experiência com o Microsoft Azure. Eles devem poder programar em um Idioma Suportado do Azure.
+  Os Azure Developers trabalham em parceria com os arquitetos de soluções, DBAs e administradores de nuvem e clientes para implementar soluções.
 
-  <div><br/><strong>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</strong></div>
+  Os candidatos a este exame devem ter de um a dois anos de experiência em desenvolvimento profissional e experiência com o Microsoft Azure. Além disso, a função deve ter conhecimentos de programação em uma linguagem compatível com o Azure e proficiência em SDKs do Azure, Azure PowerShell, CLI do Azure, opções de armazenamento de dados, conexões de dados, APIs, autenticação e autorização de aplicativos, computação, implementação de contêineres, depuração, configuração de desempenho e monitoramento.
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: desenvolver a infraestrutura Azure como uma soluções de computação de serviço; desenvolver para armazenamento Azure; implementar a segurança Azure; monitorar, solucionar, e optimizar soluções; e conectar-se e consumir serviços Azure e serviços de terceiros.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
@@ -26,12 +26,14 @@ locales:
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-204&examname=Exam%20AZ-204:%20Developing%20Solutions%20for%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-204
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 18 de maio de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
+- O conteúdo deste exame foi atualizado em 18 de maio de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
 - Desenvolver soluções de computação do Azure (25-30%)
-- Develop for Azure storage (10-15%)
+- Desenvolva para armazenamento Azure (10-15%)
 - Implementar a segurança Azure (15-20%)
 - Monitorar, solucionar problemas e otimizar soluções Azure (10-15%)
 - Conectar a e consumir serviços Azure e serviços de terceiros (25-30%)
@@ -66,23 +68,24 @@ products:
 - azure-stream-analytics
 - azure-traffic-manager
 - azure-virtual-machines
+courses:
+- uid: course.az-020t00
+- uid: course.az-204t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together
-- uid: learn.work-with-relational-data-in-azure
 - uid: learn.store-data-in-azure
 - uid: learn.deploy-a-website-with-azure-virtual-machines
 - uid: learn.manage-resources-in-azure
 - uid: learn.deploy-a-website-with-azure-app-service
-- uid: learn.data-science
 - uid: learn.secure-your-cloud-data
 relatedCertifications:
 - related:
     uid: certification.azure-developer
 resources:
-- title: Certificação Caminho de Aprendizagem
-  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Developer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação Azure Developer Associate e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

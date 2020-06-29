@@ -2,16 +2,23 @@
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
-  description: Os engenheiros de AI do Azure usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de AI da Microsoft envolvendo processamento de linguagem natural, fala, visão de computador, bots e agentes.
+  description: 'Os engenheiros de AI do Azure usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de AI da Microsoft envolvendo processamento de linguagem natural, fala, visão de computador, bots e agentes.'
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Os engenheiros de AI do Azure usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de AI da Microsoft envolvendo processamento de linguagem natural, fala, visão de computador, bots e agentes.
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+
+  Os candidatos à certificação Azure AI Engineer Associate devem ser especialistas no uso de serviços cognitivos, aprendizado de máquina e mineração de conhecimento para projetar e implementar soluções de inteligência artificial da Microsoft que envolvem o processamento de linguagem natural, fala, pesquisa visual computacional e IA para reconhecimento vocal.
+
+  As responsabilidades da função incluem a análise de requisitos de soluções de IA, recomendação das ferramentas e tecnologias apropriadas e projeto e implementação de soluções de IA que atendam aos requisitos de escalabilidade e desempenho.
+
+  Os engenheiro de IA do Azure traduzem a visão dos arquitetos de soluções e trabalham com cientistas de dados, engenheiros de dados, especialistas em IoT e desenvolvedores de IA para a criação de soluções completas.
+
+  O candidato à certificação deve ter conhecimento e experiência na criação e implementação de aplicativos e agentes de IA que usam os Serviços Cognitivos do Microsoft Azure, o Serviço de Bot do Azure, o Azure Cognitive Search e o armazenamento de dados no Azure. Além disso, o candidato deve ser capaz de recomendar soluções que usem tecnologias de código aberto, entender os componentes que compõem o portfólio de IA do Azure e as opções de armazenamento de dados disponíveis e entender quando uma API personalizada deve ser desenvolvida para atender a requisitos específicos.
 subTitle: Os engenheiros de AI do Azure usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de AI da Microsoft envolvendo processamento de linguagem natural, fala, visão de computador, bots e agentes.
 levels:
 - intermediate
 skills:
-- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - Analisar os requisitos da solução
 - AI Soluções de design
 - Implementar e monitorar soluções de AI
@@ -36,6 +43,12 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEH
 exams:
 - uid: exam.ai-100
 resources:
+- title: Tabela de certificação do Azure
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação Azure AI Engineer Associate e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -51,3 +64,4 @@ resources:
 - title: Painel de certificação
   description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

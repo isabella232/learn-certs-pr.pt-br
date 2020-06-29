@@ -6,18 +6,22 @@ metadata:
 uid: exam.ai-100
 displayName: AI-100
 summary: |-
-  Os candidatos a este exame analisam os requisitos para soluções de AI baseadas em nuvem, recomendam ferramentas e tecnologias apropriadas e implementam soluções que atendem aos requisitos de escalabilidade e desempenho.
-  <br/>
+  <div>
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 20 de maio de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
+  </div>
 
-  Os candidatos traduzem a visão de arquitetos de soluções e trabalham com cientistas de dados, engenheiros de dados, especialistas em IoT e desenvolvedores de AI para criar soluções completas de ponta a ponta. Os candidatos projetam e implementam aplicativos e agentes de IA que usam o Microsoft Azure Cognitive Services e o Azure Bot Service. Os candidatos podem recomendar soluções que usam tecnologias de código aberto.
+  Os candidatos a este exame devem ser especialistas no uso de serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de inteligência artificial da Microsoft que envolvem processamento de linguagem natural, fala, pesquisa visual por computador e IA para reconhecimento vocal.
 
-  Os candidatos entendem os componentes que compõem o portfólio do Azure AI e as opções de armazenamento de dados disponíveis.
+  As responsabilidades do engenheiro de IA do Azure incluem a análise de requisitos de soluções de IA, recomendação das ferramentas e tecnologias apropriadas e projeto e implementação de soluções de IA que atendam aos requisitos de escalabilidade e desempenho.
 
-  Os candidatos implementam soluções de IA que usam Serviços Cognitivos, bots do Azure, Azure Search e armazenamento de dados no Azure. Os candidatos devem saber quando uma API personalizada será desenvolvida para atender aos requisitos específicos.
+  Os engenheiro de IA do Azure traduzem a visão dos arquitetos de soluções e trabalham com cientistas de dados, engenheiros de dados, especialistas em IoT e desenvolvedores de IA para a criação de soluções completas.
+
+  O candidato ao exame deve ter conhecimento e experiência na criação e implementação de aplicativos e agentes de IA que usam os Serviços Cognitivos do Microsoft Azure, o Serviço de Bot do Azure, o Azure Cognitive Search e o armazenamento de dados no Azure. Além disso, o candidato deve ser capaz de recomendar soluções que usem tecnologias de código aberto, entender os componentes que compõem o portfólio de IA do Azure e as opções de armazenamento de dados disponíveis e entender quando uma API personalizada deve ser desenvolvida para atender a requisitos específicos.
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: analisar os requisitos da solução, projetar soluções, integrar modelos de IA em soluções e implementar e gerenciar soluções.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6C
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AI-100&examname=Exam%20AI-100:%20Designing%20and%20Implementing%20an%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-100
 locales:
 - en
 - ja
@@ -26,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
+- O conteúdo deste exame foi atualizado em 20 de maio de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
 - Analisar os requisitos da solução (25-30%)
 - Projetar soluções  AI (40-45%)
 - Implementar e monitorar soluções  AI (25-30%)
@@ -50,6 +54,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-ai-engineer
 resources:
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação Azure AI Engineer Associate e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -66,8 +73,9 @@ resources:
   description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre como solicitar um alojamento para o seu exame..
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de exames e perguntas frequentes
   description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md
+

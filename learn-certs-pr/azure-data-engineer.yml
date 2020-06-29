@@ -6,12 +6,13 @@ metadata:
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+
   Os Engenheiros de Dados do Azure projetam e implementam o gerenciamento, o monitoramento, a segurança e a privacidade dos dados usando a pilha completa de serviços de dados do Azure para atender às necessidades de negócios.
 subTitle: Os Engenheiros de Dados do Azure projetam e implementam o gerenciamento, o monitoramento, a segurança e a privacidade dos dados usando a pilha completa de serviços de dados do Azure para atender às necessidades de negócios.
 levels:
 - intermediate
 skills:
-- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - Implementar soluções de armazenamento de dados
 - Gerenciar e desenvolver processamento de dados
 - Monitorar e otimizar soluções de dados
@@ -49,6 +50,9 @@ exams:
 - uid: exam.dp-200
 - uid: exam.dp-201
 resources:
+- title: Tabela de certificação do Azure
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -64,3 +68,4 @@ resources:
 - title: Painel de certificação
   description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

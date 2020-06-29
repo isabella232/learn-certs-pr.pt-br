@@ -2,11 +2,16 @@
 title: 'Microsoft Office Specialist: Microsoft Word Expert (Word and Word 2019)'
 metadata:
   title: 'Microsoft Office Specialist: Microsoft Word Expert (Word and Word 2019)'
-  description: 'Demonstre que você possui as habilidades necessárias para explorar ao máximo o Office ganhando uma certificação Microsoft Office Specialist: Certificação de especialista em um programa Office específico.'
+  description: 'Demonstre que você possui as habilidades necessárias para explorar ao máximo o Word obtendo uma certificação Microsoft Office Specialist: Word Expert.'
 uid: certification.mos-word-expert-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Demonstre que você possui as habilidades avançadas necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist&#58; Certificação de especialista em um programa Office específico.
-subTitle: 'Demonstre que você possui as habilidades avançadas necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist: Certificação de especialista em um programa Office específico.'
+summary: |-
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+
+  Demonstre que você possui as habilidades necessárias para explorar ao máximo o Word obtendo uma certificação Microsoft Office Specialist&#58; Word Expert. Esta certificação demonstra competência na criação e gerenciamento de documentos profissionais para diversos fins e situações especializadas.
+
+  Um indivíduo que recebe esta certificação tem aproximadamente 150 horas de instrução e experiência prática com o produto, possui competência comprovada em nível de especialista na área e está pronto para entrar no mercado de trabalho. Eles podem demonstrar a aplicação correta dos principais recursos do Word em um nível de especialista e podem  concluir tarefas de maneira independente.
+subTitle: 'Demonstre que você possui as habilidades necessárias para explorar ao máximo o Word obtendo uma certificação Microsoft Office Specialist: Word Expert.'
 levels:
 - advanced
 skills:
@@ -27,12 +32,13 @@ resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Resposta ao exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
 - title: Suporte para certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

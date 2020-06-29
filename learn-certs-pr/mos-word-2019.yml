@@ -2,16 +2,21 @@
 title: 'Microsoft Office Specialist: Word Associate (Word and Word 2019)'
 metadata:
   title: 'Microsoft Office Specialist: Word Associate (Word and Word 2019)'
-  description: Esta certificação demonstra que você possui as habilidades necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist (MOS) em um programa Office específico.
+  description: 'Demonstre que você possui as habilidades necessárias para explorar ao máximo o Word obtendo uma certificação Microsoft Office Specialist: Word Associate.'
 uid: certification.mos-word-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Esta certificação demonstra que você possui as habilidades necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist (MOS) em um programa Office específico.
-subTitle: Esta certificação demonstra que você possui as habilidades necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist (MOS) em um programa Office específico.
+summary: |-
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+
+  Demonstre que você possui as habilidades necessárias para explorar ao máximo o Word obtendo uma certificação Microsoft Office Specialist&#58; Word Associate. Esta certificação demonstra a competência na aplicação correta dos principais recursos do Word a ao criar e editar documentos para diversas finalidades e situações.
+
+  Um estudante que recebe esta certificação tem aproximadamente 150 horas de instrução e experiência prática com relação ao produto, competência comprovada em nível de associado do setor e está pronto para entrar no mercado de trabalho. Eles podem demonstrar a aplicação correta dos principais recursos do Word e concluir tarefas de maneira independente.
+subTitle: 'Demonstre que você possui as habilidades necessárias para explorar ao máximo o Word obtendo uma certificação Microsoft Office Specialist: Word Associate.'
 levels:
 - intermediate
 skills:
 - gerenciar documentos
-- Formatar texto, parágrafos e seções
+- Inserir e formatar texto, parágrafos e seções
 - Gerenciar tabelas e listas
 - Criar e gerenciar referências
 - Inserir e formatar elementos gráficos
@@ -29,12 +34,13 @@ resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetir exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Apoio às certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

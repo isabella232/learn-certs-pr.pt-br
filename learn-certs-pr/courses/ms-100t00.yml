@@ -8,12 +8,12 @@ courseNumber: 'MS-100T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Projetando, configurando e gerenciando seu inquilino do Microsoft 365
+- skill: Projetando, configurando e gerenciando locatários do Microsoft 365
 - skill: Funcionalidade do produto Office 365
 - skill: Configurando o Office 365
-- skill: Gerenciando implantações do Office 365 ProPlus
+- skill: Gerenciando implementações do Office 365 ProPlus
 - skill: Planejando e implementando a sincronização de identidades
-- skill: Implementando Aplicativo e Acesso Externo
+- skill: Implementando aplicativos e acesso externo
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -28,10 +28,12 @@ products:
 exams:
 - uid: exam.ms-100
 summary: |-
-  Este curso aborda três elementos centrais da administração corporativa do Microsoft 365&#58; gerenciamento de inquilinos e serviços do Microsoft 365, gerenciamento do Office 365 e gerenciamento de identidade do Microsoft 365.
-  No gerenciamento de inquilino e serviço do Microsoft 365, você examinará todos os principais componentes que devem ser planejados ao projetar o inquilino do Microsoft 365. Quando essa fase de planejamento estiver concluída, você aprenderá a configurar o inquilino do Microsoft 365, incluindo o perfil organizacional, opções de assinatura do inquilino, serviços de componentes, contas e licenças de usuários e grupos de segurança. Por fim, você aprenderá como gerenciar seu inquilino, o que inclui a configuração das funções de inquilino e o gerenciamento de sua saúde e serviços.
-  Com o inquilino do Microsoft 365 agora firme, você examinará os principais componentes do gerenciamento do Office 365. Isso começa com uma visão geral da funcionalidade do produto Office 365, incluindo Exchange Online, SharePoint Online, Microsoft Teams, recursos adicionais do produto e gerenciamento de dispositivos. Você fará a transição para a configuração do Office 365, com foco principal na configuração da conectividade do cliente do Office no Office 365. Por fim, você examinará como gerenciar implantações do Office 365 ProPlus, desde instalações de clientes orientadas pelo usuário até implantações centralizadas do Office 365 ProPlus. Você encerrará esta seção aprendendo a configurar a Telemetria do Office e o Microsoft Analytics.
-  O curso termina com um exame aprofundado da sincronização de identidade do Microsoft 365, com foco no Azure Active Directory Connect. Você aprenderá como planejar e implementar o Azure AD Connect, como gerenciar identidades sincronizadas e como implementar o gerenciamento de senhas no Microsoft 365 usando autenticação multifatorial e gerenciamento de senhas de autoatendimento. Esta seção termina com uma visão abrangente da implementação de aplicativos e acesso externo. Você aprenderá como adicionar e gerenciar aplicativos no Azure Active Directory, incluindo como configurar aplicativos multilocatários. Você examinará como configurar o Proxy de Aplicativo do Azure AD, incluindo como instalar e registrar um conector e como publicar um aplicativo local para acesso remoto. Por fim, você examinará como projetar e gerenciar soluções para acesso externo. Isso inclui diretrizes de licenciamento para a colaboração do Azure AD B2B, criação de um usuário colaborativo e solução de problemas de uma colaboração B2B.
+  Este curso aborda três elementos centrais da administração corporativa do Microsoft 365&#58; gerenciamento de locatários e serviços do Microsoft 365, gerenciamento do Office 365 e gerenciamento de identidade do Microsoft 365.
+  No gerenciamento de locatário e serviço do Microsoft 365, você examinará todos os principais componentes que devem ser planejados ao projetar o locatário do Microsoft 365. Quando essa fase de planejamento estiver concluída, você aprenderá a configurar o locatário do Microsoft 365, incluindo o perfil organizacional, opções de assinatura do locatário, serviços de componentes, contas e licenças de usuários e grupos de segurança. Por último, você aprenderá como gerenciar seu locatário, o que inclui a configuração das funções de locatário e o gerenciamento de sua saúde e serviços.
+
+  Com o locatário do Microsoft 365 corretamente configurado, você examinará os principais componentes do gerenciamento do Office 365. Isso começa com uma visão geral da funcionalidade do produto Office 365, incluindo Exchange Online, SharePoint Online, Microsoft Teams, Microsoft Power Platform recursos adicionais do produto e gerenciamento de dispositivos. Em seguida, você passará para a configuração do Office 365, com foco principal na configuração da conectividade do cliente do Office. Por último, você aprenderá a gerenciar o Microsoft 365 Apps (antes conhecido como Office 365 ProPlus), desde instalações de clientes orientadas pelo usuário até implementações centralizadas. Você encerrará esta seção aprendendo a configurar a telemetria do Office e o Microsoft Analytics.
+
+  O curso termina com um exame aprofundado da sincronização de identidade do Microsoft 365, com foco no Azure Active Directory Connect. Você aprenderá a planejar e implementar o Azure AD Connect, a gerenciar identidades sincronizadas e a implementar o gerenciamento de senhas no Microsoft 365 por meio de autenticação multifatorial e gerenciamento de senhas de autoatendimento. Esta seção termina com uma visão abrangente da implementação de aplicativos e acesso externo. Você aprenderá a adicionar e gerenciar aplicativos no Azure Active Directory, incluindo como configurar aplicativos multilocatários. Você aprenderá a configurar o Proxy de Aplicativo do Azure AD, incluindo como instalar e registrar um conector e como publicar um aplicativo local para acesso remoto. Por último, você examinará como projetar e gerenciar soluções para acesso externo. Isso inclui diretrizes de licenciamento para a colaboração do Azure AD B2B, criação de um usuário colaborativo e solução de problemas de uma colaboração B2B.
 
   #### Perfil do público
   Este curso foi desenvolvido para pessoas que aspiram à função de administrador do Microsoft 365 Enterprise e concluíram um dos caminhos de certificação de administrador com base no Microsoft 365.
@@ -40,85 +42,216 @@ prerequisitesSection: |-
   - Conhecimento profundo do DNS e experiência funcional básica com os serviços do Microsoft 365.
   - Uma compreensão proficiente das práticas gerais de TI.
 outlineSection: |-
-  ### Módulo 1&#58; Projetando seu inquilino do Microsoft 365
+  ### Módulo 1&#58; Criando um locatário no Microsoft 365
+  Este módulo abrange principalmente o planejamento da sua experiência com o Microsoft 365. Isso inclui o planejamento da assinatura adequada do Microsoft 365, o planejamento do Microsoft 365 em sua infraestrutura local, o planejamento da solução de identidade e autenticação que melhor se adapta aos seus requisitos organizacionais, o planejamento da configuração do serviço, o planejamento de ambientes híbridos e a migração para o Microsoft 365.
   #### Lições
+  - Planejando sua experiência com o Microsoft 365
   - Planejando o Microsoft 365 em sua infraestrutura local
-  - Planejando sua solução de identidade e autenticação
+  - Planejando uma solução de identidade e autenticação
   - Planejando sua configuração de serviço
   - Planejando seu ambiente híbrido
   - Planejando sua migração para o Office 365
 
 
-  ### Módulo 2&#58; Configurando seu inquilino do Microsoft 365
+  #### Laboratório&#58; Migração para o Microsoft 365
+  - Migração para o Microsoft 365
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Determinar qual oferta de assinatura do Microsoft 365 melhor se adapta aos requisitos da sua organização
+  - Compreender como otimizar os serviços de componentes do Microsoft 365 para atender às suas necessidades organizacionais
+  - Planejar sua assinatura do Microsoft 365
+  - Identificar as etapas necessárias para migrar com êxito os dados existentes para o Microsoft 365
+  - Preparar sua organização para o Microsoft 365
+  - Estimar a largura de banda da sua rede
+  - Testar a rede existente usando as ferramentas fornecidas pela Microsoft
+  - Descrever as práticas recomendadas para integração com o Microsoft 365
+  - Identificar as diferentes estratégias de implementação dos serviços do Microsoft 365
+  - Descrever o comportamento da autenticação ao conectar-se com ou sem autenticação moderna
+  - Descrever a autenticação multifator nas implantações do Microsoft 365
+  - Criar um plano para sincronização de diretórios e autenticação por meio do Azure AD Connect Pass
+  - Descrever os problemas, vantagens e práticas recomendadas ao implementar o ADFS
+  - Planejar o login único contínuo do Azure AD
+  - Planejar a migração de e-mails para o Office 365
+  - Planejar os requisitos de armazenamento e colaboração de arquivos
+  - Planejar seu ambiente do Microsoft Teams
+  - Planejar a sincronização de usuários e grupos com o Azure AD Connect
+  - Planejar ambientes híbridos do Exchange, SharePoint e Skype for Business
+  - Planejar a implementação usando a lista de verificação do planejamento de implantação
+  - Analisar o Active Directory e planejar qualquer limpeza necessária com a ferramenta ID Fix
+  - Determinar qual estratégia de migração usar para migrar suas informações de e-mail, calendário e contatos
+  - Descrever problemas de desempenho e de rede a serem considerados ao planejar sua estratégia de migração
+
+
+  ### Módulo 2&#58; Configurando o locatário do Microsoft 365
+  Enquanto o módulo 1 se concentra o planejamento do locatário do Microsoft 365, este módulo abrange a configuração do locatário. Isso envolve a configuração da sua experiência com o Microsoft 365, incluindo o perfil da sua organização, sua assinatura de locatário, serviços e suplementos e sua configuração do locatário. Você aprenderá a gerenciar contas de usuário e licenças do Microsoft 365, grupos de segurança e serviços de domínio. Você concluirá examinando como utilizar o FastTrack e os serviços de parceiros.
   #### Lições
-  - Planejando sua experiência com o Microsoft 365
   - Configurando sua experiência com o Microsoft 365
   - Gerenciando contas e licenças de usuário no Microsoft 365
   - Gerenciando grupos de segurança no Microsoft 365
-  - Implementando seus serviços de Domínio
-  - Aproveitando o FastTrack e serviços de parceiros
+  - Implementando seus serviços de domínio
+  - Uso de FastTrack e serviços de parceiros
 
 
-  ### Módulo 3&#58; Laboratório 1 - Configurando seu inquilino do Microsoft 365
+  #### Laboratório&#58; Configurar o locatário do Microsoft 365
+  - Inicializar o locatário do Microsoft 365
+  - Gerenciar usuários e grupos
+  - Adicionar domínio personalizado
 
-  #### Laboratório &#58; Configurando seu inquilino do Microsoft 365
-  - Exercício 1 - Configurar um inquilino de avaliação do Microsoft 365
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Preencher o perfil da organização da sua empresa
+  - Manter os requisitos mínimos de assinatura para sua empresa
+  - Gerenciar seus serviços e suplementos
+  - Descrever as identidades do usuário no Microsoft 365
+  - Criar contas de usuário no centro de administração do Microsoft 365 e no Windows PowerShell
+  - Gerenciar contas de usuário e licenças
+  - Recuperar contas de usuário excluídas
+  - Descrever os vários tipos de grupos disponíveis no Microsoft 365
+  - Criar e gerenciar grupos no centro de administração do Microsoft 365 com o Windows PowerShell
+  - Implementar serviços de domínio
+  - Planejar DNS para domínios personalizados
+  - Identificar requisitos de registro DNS para domínios personalizados
+  - Adicionar domínios personalizados ao Microsoft 365
+  - Descrever como o FastTrack para Microsoft 365 ajuda os clientes a implementar o Microsoft 365
+  - Solicitar um parceiro para ajudá-lo com o processo FastTrack
 
 
-  ### Módulo 4&#58; Gerenciando seu inquilino do Microsoft 365
+  ### Módulo 3&#58; Gerenciando o locatário do Microsoft 365
+  Nos módulos anteriores, você aprendeu a planejar e configurar seu locatário do Microsoft 365. Neste módulo, você dará o próximo passo no processo de implementação aprendendo a gerenciar seu locatário depois de ter sido implementado. Isso inclui a configuração das funções de administrador do Microsoft 365, gerenciamento da integridade e dos serviços do locatário e gerenciamento das implementações centralizadas e controladas pelo usuário do Microsoft 365 Apps para empresas (anteriormente Office 365 ProPlus).
   #### Lições
-  - Configurando funções de inquilino
-  - Gerenciando inquilino Saúde e serviços
+  - Configurando funções administrativas do Microsoft 365
+  - Gerenciamento da integridade e serviços do locatário
+  - Gerenciando instalações de clientes controladas pelo usuário
+  - Gerenciando implementações centralizadas do Microsoft 365 Apps para empresas
 
 
-  ### Módulo 5&#58; Laboratório 2 - Gerenciando o inquilino do Microsoft 365
+  #### Laboratório&#58; Gerenciar locatários do Microsoft 365
+  - Gerenciar a delegação de administração
+  - Monitorar e diagnosticar problemas do Microsoft 365
+  - Instalar o Microsoft 365 Apps para empresas
 
-  #### Laboratório &#58; Gerenciando seu inquilino do Microsoft 365
-  - Exercício 1 - Gerenciar delegação de administração
-  - Exercício 2 - Configurar o Office 365 Message Encryption (OME)
-  - Exercício 3 - Monitorar e solucionar problemas do Office 365
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever as principais funções administrativas no Microsoft 365
+  - Identificar as principais responsabilidades das funções de administrador primário
+  - Configurar funções de locatário
+  - Monitorar a integridade do serviço Microsoft 365 da sua organização no centro de administração do Microsoft 365
+  - Desenvolver um plano de resposta em caso de incidentes nos serviços do Microsoft 365
+  - Solicitar assistência da Microsoft para resolver problemas de suporte técnico, pré-vendas, cobrança e assinatura
+  - Descrever como funciona a tecnologia “clique para executar” no Microsoft 365 Apps para empresas
+  - Descrever os processos de licenciamento e ativação corporativa do Microsoft 365 Apps para empresas
+  - Planejar qual branch de atualização pode ser aplicável à sua organização
+  - Planejar qual método usar para aplicar branches de atualização aos seus usuários
+  - Identificar os obstáculos típicos que impedem a instalação bem-sucedida do Microsoft 365 Apps para empresas
+  - Identificar como impedir que os usuários instalem o Microsoft 365 Apps para empresas
+  - Instalar e configurar o Microsoft 365 Apps para empresas com a Ferramenta de Implantação do Office
+  - Implementar o Microsoft 365 Apps para empresas usando políticas de grupo
+  - Descrever como gerenciar as atualizações do Microsoft 365 Apps para empresas
 
 
-  ### Módulo 6&#58; Visão geral do Office 365
+  ### Módulo 4&#58; Visão geral do Office 365
+  Este módulo examina os principais recursos e funcionalidades dos serviços essenciais do Microsoft 365, incluindo Exchange Online, SharePoint Online, Teams, Power Apps, Power Automate, Power BI e Power Virtual Agents. Este módulo também apresenta os recursos adicionais do Microsoft 365 e fornece uma introdução ao gerenciamento de dispositivos usando o Microsoft Intune, linhas de base de segurança e acesso condicional.
   #### Lições
   - Visão geral do Exchange Online
   - Visão geral do SharePoint Online
   - Visão geral do Teams
+  - Visão Geral do Power Platform
+  - Visão Geral do Power Apps
+  - Visão geral do Power Automate
+  - Visão geral do Power BI
+  - Visão geral do Power Virtual Agents
   - Visão geral de recursos adicionais
   - Visão geral do gerenciamento de dispositivos
 
 
-  ### Módulo 7&#58; Laboratório 3 - Visão geral do Office 365
+  #### Laboratório&#58; Avaliando a funcionalidade do Office 365
+  - Avaliar os principais recursos do Exchange Online
+  - Avaliar os principais recursos do SharePoint Online
+  - Crie um sistema de emissão de tíquetes no SharePoint
+  - Avaliar os principais recursos do Microsoft Teams
+  - Explorar o centro de administração da Power Platform
+  - Criar um Power App de uma fonte de dados do SharePoint
+  - Criar um Power App do zero
+  - Criar um fluxo com o Power Automate
+  - Criar política DLP com o Power Automate
+  - Criar um relatório e painel do Power BI
 
-  #### Laboratório &#58; Visão geral do Office 365
-  - Exercício 1 - Visão geral do Exchange Online
-  - Exercício 2 - Visão geral do SharePoint Online
-  - Exercício 3 - Visão geral das equipes
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os tipos de destinatários mais comuns disponíveis no Exchange Online
+  - Gerenciar políticas antimalware e antispam no Exchange Online
+  - Planejar as necessidades de recuperação de desastres da sua organização relacionadas aos e-mails da empresa e do usuário
+  - Determinar marcas e políticas de retenção que o ajudarão a gerenciar o ciclo de vida de e-mail da sua organização
+  - Descrever as estratégias de migração e coexistência e compreender as diferenças entre elas
+  - Selecionar a estratégia de migração de e-mail adequada para sua organização
+  - Determinar quando alterar o registro DNS MX para um domínio em uma migração do Office 365
+  - Descrever as diversas maneiras de migrar caixas de correio para o Office 365 em um ambiente híbrido do Exchange
+  - Determinar os níveis de permissão que sua organização deve usar no SharePoint Online
+  - Descrever os níveis de criptografia dos dados em repouso e em trânsito no SharePoint Online
+  - Descrever as opções do SharePoint Online para manutenção e recuperação de conteúdo em uma intranet
+  - Descrever as várias opções que oferecem proteção antimalware no SharePoint Online
+  - Descrever as funcionalidades básicas do Teams e a infraestrutura de apoio seus objetivos
+  - Descrever como o Teams se compara aos outros aplicativos de colaboração no Office 365
+  - Gerenciar licenças de usuário no centro de administração do Office 365 e no PowerShell para fornecer acesso ao Teams
+  - Descrever a funcionalidade fornecida pelo acesso de convidado no Microsoft Teams
+  - Descrever a funcionalidade de conferência de áudio disponível no Microsoft Teams
+  - Gerenciar configurações do usuário para audioconferência
+  - Implementar sistemas de telefonia no Microsoft Teams
+  - Identificar os componentes que compõem a família de produtos Power Platform
+  - Descrever os recursos básicos do centro de administração da Power Platform
+  - Descrever o que são Power Apps, incluindo seu impacto nos negócios e componentes principais
+  - Descrever como o Power App se conecta às fontes de dados
+  - Criar um Power App básico
+  - Testar e monitorar um Power App
+  - Executar um Power App
+  - Descrever a estrutura de segurança do Power App
+  - Criar e executar um fluxo de trabalho básico usando o Power Automate
+  - Administrar o Power Automate
+  - Criar e compartilhar um relatório e painel básicos do Power BI
+  - Administrar o Power BI
+  - Explicar o que são os Power Virtual Agents e como capacitam as equipes a criar bots poderosos de maneira eficiente
+  - Descrever os principais recursos dos Power Virtual Agents
+  - Descrever como o gerenciamento de dispositivos permite que as organizações protejam seus recursos e dados
+  - Descrever como as organizações devem usar o Microsoft Intune para proteger dados proprietários
+  - Gerenciar linhas de base de segurança para proteger dispositivos
+  - Usar o acesso condicional para gerenciar dispositivos e aplicativos
 
 
-  ### Módulo 8&#58; Configurando o Office 365
+  ### Módulo 5&#58; Configurando clientes Microsoft 365
+  Este módulo apresenta os clientes Microsoft 365, incluindo clientes móveis e clientes offline. Este módulo também descreve como configurar a conectividade do cliente do Office com o Microsoft 365, incluindo configuração automática do cliente, registros DNS necessários para a configuração automática do cliente, configuração de clientes do Outlook, configuração do MFA e diagnóstico de problemas de conectividade do cliente.
   #### Lições
-  - Visão geral do cliente do Office 365
-  - Configurando a conectividade do cliente do Office com o Office 365
+  - Visão geral do cliente Microsoft 365
+  - Configurando a conectividade do cliente Office com o Microsoft 365
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Identificar os pacotes de clientes suportados pelo Microsoft 365
+  - Identificar os clientes móveis suportados pelo Microsoft 365
+  - Identificar os recursos do Microsoft 365 disponíveis para cada plataforma de cliente móvel
+  - Comparar o Office Online, o Microsoft 365 Apps para empresas e o Office 2016 Professional Plus
+  - Trabalhar com aplicativos do Office Online
+  - Descrever como o Outlook utiliza a Descoberta Automática para conectar inicialmente um cliente Outlook ao Exchange Online
+  - Identificar os registros DNS necessários para o Outlook localizar os serviços no Office 365 usando a Descoberta Automática
+  - Descrever os protocolos de conectividade que permitem ao Outlook se conectar ao Office 365
+  - Descrever como o MFA aumenta a segurança ao adicionar uma camada extra de verificação do usuário
 
 
-  ### Módulo 9&#58; Gerenciando implantações do Office 365 ProPlus
+  ### Módulo 6&#58; Capturando dados controlados pelo usuário
+  Este módulo descreve como capturar dados controlados pelo usuário usando a telemetria do Office e o Workplace Analytics.
   #### Lições
-  - Gerenciando instalações de clientes orientadas ao usuário
-  - Gerenciando implantações centralizadas do Office 365 ProPlus
-  - Configurando a Telemetria do Office
-  - Configurando o Microsoft Analytics
+  - Configurando o Office telemetria
+  - Configurando o Workplace Analytics
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Identificar os cinco componentes do Painel de Telemetria do Office
+  - Descrever os requisitos e problemas típicos de implementação que podem ser encontrados ao implementar o Office
+  - Descreva os tipos de dados coletados pelo Agente de Telemetria do Office
+  - Instalar e configurar a telemetria do Office
+  - Descrever como o Workplace Analytics pode ajudar as organizações
+  - Descrever como as organizações podem usar o Workplace Analytics
+  - Configurar o Workplace Analytics
+  - Registrar dispositivos no Workplace Analytics
+  - Verificar a preparação usando o Workplace Analytics
 
 
-  ### Módulo 10&#58; Laboratório 4 - Gerenciando instalações do Office 365 ProPlus
-
-  #### Laboratório &#58; Gerenciando instalações do Office 365 ProPlus
-  - Exercício 1 - Prepare uma instalação gerenciada do Office 365 ProPlus
-  - Exercício 2 - Gerenciar uma instalação centralizada do Office 365 ProPlus
-  - Exercício 3 - Implantar e configurar componentes de telemetria do Office
-
-
-  Módulo 11&#58; Planejando e implementando a sincronização de identidades
+  ### Módulo 7&#58; Planejando e implementando a sincronização de identidades
+  Este módulo fornece um exame aprofundado da sincronização de identidades do Microsoft 365 com ênfase no Azure Active Directory Connect. Você aprenderá a planejar e implementar o Azure AD Connect, a gerenciar identidades sincronizadas e a implementar o gerenciamento de senhas no Microsoft 365 por meio de autenticação multifatorial e gerenciamento de senhas de autoatendimento.
   #### Lições
   - Introdução à sincronização de identidades
   - Planejamento para o Azure AD Connect
@@ -127,16 +260,48 @@ outlineSection: |-
   - Gerenciamento de senhas no Microsoft 365
 
 
-  ### Módulo 12&#58; Laboratório 5 - Implementando a sincronização de identidades
+  #### Laboratório&#58; Gerenciar identidades
+  - Preparar-se para a sincronização de identidades
+  - Implementando a sincronização de identidades
+  - Implementar o gerenciamento de senhas
 
-  #### Laboratório &#58; Implementando a sincronização de identidades
-  - Exercício 1 - Configure sua organização para sincronização de identidades
-  - Exercício 2 - Implementar sincronização de identidade
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever as opções de autenticação do Microsoft 365
+  - Explicar a sincronização de diretórios
+  - Fornecer uma visão geral do Azure AD Connect
+  - Planejar a sincronização de diretórios para sincronizar seus objetos do Active Directory com o Azure AD no local
+  - Planejar uma implementação do Azure AD Connect
+  - Planejar solução do Azure AD Connect em um cenário de diversas florestas
+  - Configurar pré-requisitos do Azure AD Connect
+  - Configurar o Azure AD Connect
+  - Descrever a integridade do Azure AD Connect
+  - Executar tarefas para garantir que os usuários sincronizem a implementação do Azure AD Connect com eficiência e sucesso
+  - Gerenciar grupos com sincronização de diretório
+  - Usar os Grupos de segurança de sincronização do Azure AD Connect para delegar o controle do Azure AD Connect a outros usuários
+  Solucionar problemas de sincronização de diretórios usando uma variedade de tarefas e ferramentas de diagnóstico de problemas
+  - Descrever os recursos de gerenciamento de senhas disponíveis no Microsoft 365
 
 
-  ### Módulo 13&#58; Implementando aplicativos e acesso externo
+  ### Módulo 8&#58; Implementando aplicativos e acesso externo
+  Este módulo fornece uma visão abrangente da implementação de aplicativos e do acesso externo. Você aprenderá a adicionar e gerenciar aplicativos no Azure Active Directory, incluindo como configurar aplicativos multilocatários. Você aprenderá a configurar o Proxy de Aplicativo do Azure AD, incluindo como instalar e registrar um conector e como publicar um aplicativo local para acesso remoto. Por último, você examinará como projetar e gerenciar soluções para acesso externo. Isso inclui diretrizes de licenciamento para a colaboração do Azure AD B2B, criação de um usuário colaborativo e solução de problemas de uma colaboração B2B.
   #### Lições
   - Implementando aplicativos no Azure AD
   - Configurando o Proxy de Aplicativo do Azure AD
-  - Projetando soluções para acesso externo
+  - Soluções para acesso externo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Registrar um aplicativo ou serviço no locatário do Azure AD
+  - Atualizar um aplicativo na estrutura de consentimento do Azure AD
+  - Modificar a configuração de um aplicativo de um único servidor para torná-lo um aplicativo de vários servidores
+  - Remover o registro de um aplicativo do seu locatário do Azure AD
+  - Descrever os benefícios do Proxy de Aplicativo do Azure AD e como ele funciona
+  - Identificar os pré-requisitos de proxy do aplicativo Azure AD
+  - Instalar e registrar um conector e verificar se foi instalado corretamente
+  - Publicar um aplicativo no local para acesso remoto e testar o aplicativo publicado para verificar seu funcionamento
+  - Gerenciar o acesso externo com a colaboração do Azure AD B2B.
+  - Explicar a diferença entre o acesso externo ao Microsoft 365 e a colaboração do Azure AD B2B
+  - Descrever os atributos de um usuário colaborativo.
+  - Demonstrar a colaboração do Azure B2B
+  - Gerenciar o acesso externo e acesso de convidados com o Microsoft Teams
+  - Gerenciar solicitações do sistema de proteção de dados do cliente
 

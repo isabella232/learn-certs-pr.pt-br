@@ -5,17 +5,16 @@ metadata:
   description: Microsoft Certified Educator
 uid: certification.microsoft-certified-educator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: >-
-  A certificação Microsoft Certified Educator (MCE) atesta que os educadores possuem as competências e o conhecimento tecnológico como educadores globais necessários para proporcionar aos alunos uma experiência de aprendizado rica e personalizada.
+summary: |-
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
+  A certificação Microsoft Certified Educator (MCE) atesta que os educadores possuem as competências e o conhecimento tecnológico como educadores globais necessários para proporcionar aos alunos uma experiência de aprendizado eficiente e personalizada.
   A Certificação MCE é ideal para educadores em treinamento, o corpo docente de faculdades que formam professores e educadores em serviço.
-
 
   A Microsoft oferece um currículo abrangente de e-learning, 21CLD, destinado a ajudar os educadores a se prepararem para esse exame rigoroso.
 
-
   **Observação** O exame Microsoft Certified Educator avalia se os educadores compreendem como aplicar as ferramentas de tecnologia aos seis diferentes domínios de conteúdo, e não se têm competência para usar ferramentas de tecnologia específicas. Se estiver em busca de informações sobre como obter certificação para ministrar cursos relacionados a tecnologias e produtos Microsoft, visite a página [Microsoft Certified Trainer](https://www.microsoft.com/learning/mct-certification.aspx).
-subTitle: A certificação Microsoft Certified Educator (MCE) atesta que os educadores possuem as competências e o conhecimento tecnológico como educadores globais necessários para proporcionar aos alunos uma experiência de aprendizado rica e personalizada.
+subTitle: A certificação Microsoft Certified Educator (MCE) atesta que os educadores possuem as competências e o conhecimento tecnológico como educadores globais necessários para proporcionar aos alunos uma experiência de aprendizado eficiente e personalizada.
 levels:
 - advanced
 skills:
@@ -30,6 +29,7 @@ roles:
 type: mce
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlT
 exams:
 - uid: exam.62-193
 resources:
@@ -38,7 +38,8 @@ resources:
   href: https://education.microsoft.com/GetTrained/ITL-Research
 - title: Guia de estudo
   description: Encontre materiais de treinamento para preparar-se para o exame
-  href: https://aka.ms/MCEStudyGuide
-- title: Repetir Exame
+  href: http://aka.ms/MCEStudyGuide
+- title: Exam Replay
   description: Kit digital para a campanha Ensine o futuro hoje (pôster, folha de dados e domínio de objetivo do exame MCE)
-  href: https://aka.ms/MCEAssets
+  href: http://aka.ms/MCEAssets
+

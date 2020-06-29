@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Excel 2010 Expert
+metadata:
+  title: 'Exam 77-888: Excel 2010 Expert'
+  description: 'Exam 77-888: Excel 2010 Expert'
+uid: exam.77-888
+displayName: 77-888
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  Os usuários do Microsoft Office Excel 2010 com nível de especialista podem usar o software Excel 2010 com proficiência e segurança nos níveis de recursos e funcionalidade. Os usuários experientes são proficientes com fórmulas avançadas, funções e ferramentas de análise de dados. Os usuários experientes podem manipular dados para análise, apresentação e colaboração. Além disso, os usuários experientes podem manipular as opções do Excel para personalizar seu ambiente para atender às diversas necessidades e aumentar a produtividade.
+subTitle: Os usuários do Microsoft Office Excel 2010 com nível de especialista podem usar o software Excel 2010 com proficiência e segurança nos níveis de recursos e funcionalidade. Os usuários experientes são proficientes com fórmulas avançadas, funções e ferramentas de análise de dados. Os usuários experientes podem manipular dados para análise, apresentação e colaboração. Além disso, os usuários experientes podem manipular as opções do Excel para personalizar seu ambiente para atender às diversas necessidades e aumentar a produtividade.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k0
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=77-888&examname=Excel%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-888
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+levels:
+- beginner
+skills:
+- Compartilhar e manter pastas de trabalho
+- Aplicar fórmulas e funções
+- Apresentação de dados visuais
+- Trabalhar com macros e formulários
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: ../certification-exam-policies.md
+

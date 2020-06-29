@@ -2,10 +2,13 @@
 title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
-  description: Os 'Microsoft Dynamics 365 Sales Functional Consultants implementa soluções que antecipam e planejam conexões com clientes, gerenciam negócios por meio de processamento e fechamento e aceleram o desempenho da equipe de vendas usando análise de dados.
+  description: 'Os Consultores Funcionais do Microsoft Dynamics 365 para Sales implementam soluções que antecipam e planejam conexões com clientes, gerenciam negócios por meio de processamento e fechamento e aceleram o desempenho da equipe de vendas usando análise de dados.'
 uid: certification.d365-functional-consultant-sales
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Os Consultores Funcionais do Microsoft Dynamics 365 para Sales implementam soluções que antecipam e planejam conexões com clientes, gerenciam negócios por meio de processamento e fechamento e aceleram o desempenho da equipe de vendas usando análise de dados.
+summary: |-
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+
+  Os Consultores Funcionais do Microsoft Dynamics 365 para Sales implementam soluções que antecipam e planejam conexões com clientes, gerenciam negócios por meio de processamento e fechamento e aceleram o desempenho da equipe de vendas usando análise de dados.
 subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 para Sales implementam soluções que antecipam e planejam conexões com clientes, gerenciam negócios por meio de processamento e fechamento e aceleram o desempenho da equipe de vendas usando análise de dados.
 levels:
 - intermediate
@@ -13,11 +16,11 @@ skills:
 - Realizar descoberta, planejamento e análise
 - Gerenciar o projeto da experiência do usuário
 - Gerenciar entidades e dados
-- Implementar segurança
-- Implementar integração
-- Realizar a implementação e teste de soluções
+- Implementar a segurança
+- Implementar a integração
+- Executar a implementação e teste de soluções
 - Executar a configuração
-- Gerenciar entidades de vendas principais
+- Gerenciar principais entidades de vendas
 - Gerenciar entidades de vendas
 roles:
 - functional-consultant
@@ -26,10 +29,7 @@ products:
 - dynamics
 - dynamics-sales
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
+- uid: course.mb-200t00
 - uid: course.mb-210t01
 paths:
 - uid: learn-bizapps.create-powerapps
@@ -50,21 +50,22 @@ exams:
 - uid: exam.mb-200
 - uid: exam.mb-210
 resources:
-- title: Caminhos de aprendizado de certificação
+- title: Certificação Caminho de Aprendizagem
   description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35xKa
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetir Exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
 - title: Suporte para certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

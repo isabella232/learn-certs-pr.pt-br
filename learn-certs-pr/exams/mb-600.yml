@@ -1,20 +1,18 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+title: 'Microsoft Dynamics 365 + Power Platform Solution Architect'
 metadata:
-  title: 'Exam MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
-  description: 'Exam MB-600: Microsoft Power Apps + Dynamics 365 Solution Architect (beta)'
+  title: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
+  description: 'Exam MB-600: Microsoft Dynamics 365 + Power Platform Solution Architect'
 uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
 
-  Os Solution Architects para aplicativos controlados por modelos do Microsoft Power Apps no Dynamics 365 lideram implementações bem-sucedidas e se concentram em como as soluções atendem às necessidades técnicas e de negócios mais abrangentes das organizações.
+  Os arquitetos de soluções do Power Apps no Microsoft Dynamics 365 conduzem implementações bem-sucedidas e se concentram em como as soluções podem atender às necessidades técnicas e empresariais mais amplas das organizações.
 
   O Solution Architect tem conhecimento funcional e técnico dos aplicativos controlados por modelos da Plataforma Power no Dynamics 365, como Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing e Dynamics 365 Sales, soluções em nuvem da Microsoft e tecnologias de terceiros. O Solution Architect aplica conhecimento e experiência durante o projeto como um todo. O Solution Architect realiza trabalho proativo e preventivo para aumentar o valor do investimento do cliente e promover a saúde organizacional. Essa função requer a capacidade de identificar oportunidades para resolver problemas de negócios.
 
   Os Solution Architects têm experiência em disciplinas funcionais e técnicas da Plataforma Power e aplicativos controlados por modelos no Dynamics 365. Os Solution Architects devem poder facilitar as decisões do projeto por meio do desenvolvimento, configuração, integração, infraestrutura, segurança, disponibilidade, armazenamento e gerência da mudança. Essa função equilibra as necessidades de negócios de um projeto, ao mesmo tempo em que atende aos requisitos funcionais e não funcionais.
-
-  <div style='font-weight&#58; bold;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</div>
 subTitle: 'Esse exame mede a sua capacidade de realizar as seguintes tarefas técnicas: realizar a previsão de soluções e análise de requisitos; arquitetar uma solução; e implementar a solução.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
@@ -24,7 +22,6 @@ locales:
 levels:
 - advanced
 skills:
-- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - Executar Previsão de Solução e Análise de Requisitos (30-35%)
 - Arquitetura de uma solução (45-50%)
 - Implementar a solução (20-25%)
@@ -42,7 +39,7 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-solution-architect-expert
 resources:
 - title: Certificação Caminho de Aprendizagem
-  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert.'
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

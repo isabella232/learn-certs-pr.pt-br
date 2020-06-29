@@ -6,7 +6,7 @@ metadata:
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
   Prove que você entende o Microsoft Dynamics 365; inteligência artificial; realidade mista; a plataforma de energia; conceitos de nuvem; segurança na nuvem; Segurança do Dynamics 365; Serviço de Dados Comum; Relatórios do Dynamics 365; Integrações do Dynamics 365; e implantação na nuvem.
 subTitle: 'Prove que você entende o Microsoft Dynamics 365; inteligência artificial (IA); realidade mista (RM); a plataforma de energia; conceitos de nuvem; segurança na nuvem; Segurança do Dynamics 365; Serviço de Dados Comum; Relatórios do Dynamics 365; Integrações do Dynamics 365; e implantação na nuvem.'

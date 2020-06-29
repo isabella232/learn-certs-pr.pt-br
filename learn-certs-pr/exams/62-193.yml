@@ -6,16 +6,19 @@ metadata:
 uid: exam.62-193
 displayName: 62-193
 summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
   Os candidatos para este exame incluem indivíduos que estão se preparando para se tornarem educadores de sala de aula, educadores atuais, docentes de treinamento de professores ou faculdades pré-serviço, administradores educacionais ou outros profissionais em busca de fornecer a validação da competência.
 
   O teste de certificação para MCE&#58; Technology Literacy for Educators  é um exame de nível intermediário destinada a ser uma medida válida e confiável das competências como medido pela estrutura do 21st Century Learning Design (design de aprendizagem do século 21) (21CLD).
 subTitle: Os candidatos para este exame incluem indivíduos que estão se preparando para se tornarem educadores de sala de aula, educadores atuais, docentes de treinamento de professores ou faculdades pré-serviço, administradores educacionais ou outros profissionais em busca de fornecer a validação da competência.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHlU
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F62-193
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F62-193
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - de
@@ -27,7 +30,7 @@ locales:
 - pl
 - ja
 - tr
-levels: 
+levels:
 - beginner
 skills:
 - Facilitar a colaboração do aluno
@@ -49,8 +52,9 @@ resources:
   description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
-  description: Saiba mais sobre como solicitar um alojamento para o seu exame..
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de exames e perguntas frequentes
   description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md
+

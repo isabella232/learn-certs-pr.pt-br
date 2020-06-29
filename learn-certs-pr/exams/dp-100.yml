@@ -8,7 +8,7 @@ displayName: DP-100
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame será atualizado em 22 de maio de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 22 de maio de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
   </div>
 
   O Azure Data Scientists aplica seus conhecimentos de ciência de dados e aprendizado de máquina para implementar e executar cargas de trabalho de aprendizado de máquina no Azure; em particular, usando o Serviço de Aprendizado de Máquina do Azure. Isso envolve o planejamento e a criação de um ambiente de trabalho adequado para cargas de trabalho de ciência de dados no Azure, executando experimentos de dados e treinando modelos preditivos, gerenciando e otimizando modelos e implantando modelos de aprendizado de máquina na produção.
@@ -24,7 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 22 de maio de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.
+- O conteúdo deste exame foi atualizado em 22 de maio de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
 - Configurar um espaço de trabalho do Azure Machine Learning (30-35%)
 - Realize experimentos e modelos de trem (25-30%)
 - Otimizar e gerenciar modelos (20-25%)

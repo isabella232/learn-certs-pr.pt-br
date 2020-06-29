@@ -1,0 +1,51 @@
+### YamlMime:Examination
+title: 'Microsoft Azure Data Fundamentals (beta)'
+metadata:
+  title: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
+  description: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
+uid: exam.dp-900
+displayName: DP-900
+summary: "<div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>\r\n\r\nOs candidatos a este exame devem ter conhecimento básico nos principais conceitos de dados e como são implementados por meio dos serviços de dados do Microsoft Azure.\r\n\r\nEste exame destina-se a candidatos que estão iniciando no ambiente de dados em nuvem.\r\n\r\nOs candidatos devem estar familiarizados com os conceitos de dados relacionais e não relacionais e com diferentes tipos de cargas de trabalho de dados, como transacionais ou analíticas.\r\n\r\nO Azure Data Fundamentals pode ser usado como capacitação para outras certificações baseadas em funções do Azure, como o Azure Database Administrador Associate ou o Azure Data Engineer Associate, mas não é um pré-requisito para nenhuma delas.  \r\n\r\n<div style='font-weight&#58; bold;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">sobre o valor e a importância dos exames beta</a>.</div>"
+subTitle: 'Prove que você pode descrever o seguinte: conceitos básicos de dados, como trabalhar com dados relacionais e dados não relacionais no Azure e cargas de trabalho de análise no Azure.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
+locales:
+- en
+levels:
+- beginner
+skills:
+- Descrever os conceitos básicos de dados (15-20%)
+- Descrever como trabalhar com dados relacionais no Azure (25-30%)
+- Descrever como trabalhar com dados não relacionais no Azure (25-30%)
+- Descrever uma carga de trabalho de análise no Azure (25-30%)
+roles:
+- data-engineer
+- database-administrator
+products:
+- azure
+relatedCertifications:
+- related:
+    uid: certification.azure-data-fundamentals
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
+  href: ../certification-exam-policies.md
+

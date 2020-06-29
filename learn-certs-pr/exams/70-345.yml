@@ -31,7 +31,6 @@ locales:
 levels:
 - advanced
 skills:
-- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - Planejar, implementar, gerenciar e solucionar problemas de bancos de dados de caixa de correio (15-20%)
 - Planejar, implementar, gerenciar e solucionar problemas dos serviços de acesso do cliente (15-20%)
 - Planejar, implementar, gerenciar e solucionar problemas dos serviços de transporte (15-20%)

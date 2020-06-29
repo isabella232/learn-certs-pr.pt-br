@@ -1,27 +1,29 @@
 ### YamlMime:Examination
 title: Deploying SharePoint Server Hybrid
 metadata:
-  title: 'Exame MS-301: Deploying SharePoint Server Hybrid'
-  description: 'Exame MS-301: Deploying SharePoint Server Hybrid'
+  title: 'Exam MS-301: Deploying SharePoint Server Hybrid'
+  description: 'Exam MS-301: Deploying SharePoint Server Hybrid'
 uid: exam.ms-301
 displayName: MS-301
-summary: >-
-  Os candidatos a este exame são os Administradores do Teamwork responsáveis por configurar, implantar e gerenciar as cargas de trabalho do Office 365 e do Azure que se concentram na colaboração e adoção eficientes e eficazes. Os Administradores do Teamwork gerenciam aplicativos, serviços e infraestrutura de suporte para atender aos requisitos de negócios. O Administrador do Teamwork deve ser capaz de implementar, gerenciar, migrar e proteger o SharePoint (online, no local e híbrido), o OneDrive e o Teams.
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>ESTE EXAME SERÁ DESATIVADO EM 31 DE AGOSTO DE 2020. Observação&#58; O exame será desativado às 11h59 Horário Central Padrão.<br/></div>
+  </div>
 
+  Os candidatos a este exame são os Administradores do Teamwork responsáveis por configurar, implantar e gerenciar as cargas de trabalho do Office 365 e do Azure que se concentram na colaboração e adoção eficientes e eficazes. Os Administradores do Teamwork gerenciam aplicativos, serviços e infraestrutura de suporte para atender aos requisitos de negócios. O Administrador do Teamwork deve ser capaz de implementar, gerenciar, migrar e proteger o SharePoint (online, no local e híbrido), o OneDrive e o Teams.
   <br/>
 
-
   O Administrador do Teamwork está envolvido nas decisões relativas à governança e trabalha com outros administradores para implementar muitas das decisões tomadas pelos órgãos de governança. O Administrador do Teamwork colabora com o Administrador de Mensagens para configurar opções e segurança relacionadas a tarefas de e-mail, o Administrador de Voz para integrar recursos de voz nas organizações e o Administrador de Segurança para garantir a segurança de ponta a ponta.
-
 
   Os candidatos a este exame têm uma compreensão básica dos pontos de integração com os seguintes aplicativos e serviços&#58; Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner e Project. O administrador entende como integrar aplicativos e serviços de terceiros, incluindo aplicativos da linha de negócios. Os candidatos também entendem os conceitos de gerenciamento do SQL Server, o Active Directory do Azure, o PowerShell, a rede, a administração de servidores do Windows, o Sistema de Nome de Domínio (DNS), o gerenciamento de dispositivos móveis do Active Directory e os sistemas operacionais alternativos.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: configurar e gerenciar o SharePoint On-Premises, configurar e gerenciar cenários híbridos e migrar para o SharePoint Online.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8S
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-301&examname=Exam%20MS-301:%20Deploying%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-301
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-301&examname=Exame%20MS-301:%20Deploying%20SharePoint%20Server%20Hybrid&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fpt-br%2Flearn%2Fcertifications%2Fexams%2Fms-301
 levels:
 - intermediate
 skills:
@@ -30,14 +32,14 @@ skills:
 - Migrar para o SharePoint Online (5-10%)
 roles:
 - administrator
-exams:
-- uid: exam.ms-300
 products:
 - m365
 - office-sp
 - office-onedrive
 - office-teams
 - office-yammer
+exams:
+- uid: exam.ms-300
 courses:
 - uid: course.ms-301t01
 - uid: course.ms-301t02
@@ -47,24 +49,28 @@ relatedCertifications:
 - related:
     uid: certification.m365-teamwork-administrator
 resources:
-- title: Caminhos de aprendizado de certificação
+- title: Certificação Caminho de Aprendizagem
   description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Teamwork Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Repetir Exame
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Ajuda para exames de certificação
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Apoio aos  exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: Solicitar acomodações
   description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Políticas de exames e perguntas frequentes
-  description: Consulte as políticas do exame e as perguntas frequentes.
+  description: Revise as políticas do exame e as perguntas mais frequentes.
   href: ../certification-exam-policies.md
+
