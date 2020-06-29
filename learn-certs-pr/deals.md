@@ -46,8 +46,7 @@ Aproveite os descontos significativos em exames de Microsoft Certified Professio
 
 [**Saiba mais**](/learn/certifications/certification-exam-policies)
 
-<a name="frequently-asked-questions"></a>
-## Perguntas frequentes
+## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
 **P. O que é Exam Replay?**
 
