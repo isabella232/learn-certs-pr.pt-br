@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Word 2010 Expert
+metadata:
+  title: 'Exam 77-887: Word 2010 Expert'
+  description: 'Exam 77-887: Word 2010 Expert'
+uid: exam.77-887
+displayName: 77-887
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  Os usuários do Microsoft Word 2010 com nível de especialista podem usar o software Word 2010 com proficiência e segurança nos níveis de recursos e funcionalidade. Os usuários experientes trabalham com os recursos avançados do Word 2010 para aprimorar documentos profissionais, criar documentos prontos para publicação e colaborar de maneira efetiva em projetos de edição em grupo. Os usuários experientes podem manipular as opções do Word para personalizar seu ambiente para atender às diversas necessidades e aumentar a produtividade.
+subTitle: Os usuários do Microsoft Word 2010 com nível de especialista podem usar o software Word 2010 com proficiência e segurança nos níveis de recursos e funcionalidade. Os usuários experientes trabalham com os recursos avançados do Word 2010 para aprimorar documentos profissionais, criar documentos prontos para publicação e colaborar de maneira efetiva em projetos de edição em grupo. Os usuários experientes podem manipular as opções do Word para personalizar seu ambiente para atender às diversas necessidades e aumentar a produtividade.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy7
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=77-887&examname=Word%202010%20Expert&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-887
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+levels:
+- beginner
+skills:
+- Gerenciar e manter documentos (15-20%)
+- Formatar o conteúdo (25–30%)
+- Controlar alterações e inserir referências nos documentos (20-25%)
+- Realizar operações de mala direta (15-20%)
+- Gerenciar macros e formulários (25-30%)
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: ../certification-exam-policies.md
+

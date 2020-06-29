@@ -1,5 +1,5 @@
 ---
-title: Sobre Microsoft Certification exams | Documentos da Microsoft
+title: Sobre Microsoft Certification exams | Microsoft Docs
 description: Sobre Microsoft Certification exams 
 documentationcenter: NA 
 author: bipach
@@ -16,27 +16,13 @@ A Certificação Microsoft pode levar você do início ao auge da sua carreira. 
 
 ## Como inscrever-se em um exame de Certificação Microsoft
 
-### Certificações Microsoft Office
+Para exames Microsoft Office Specialist (MOS) oferecidos por intermédio de centros acadêmicos, [inscreva-se no Certiport](https://www.certiport.com/portal/Pages/Registration.aspx).
 
-Para os exames Microsoft Office Specialist (MOS) e Microsoft Technology Associate (MTA) entregues por meio acadêmico, [registre-se na Certiport](https://www.certiport.com/portal/Pages/Registration.aspx).
-
-### Certificação Técnica da Microsoft
-
-Para todos os outros caminhos de certificação da Microsoft e exames MTA entregues em estabelecimentos comerciais, [entre com a Microsoft](https://www.microsoft.com/learning/signin.aspx) e, em seguida, [selecione seu exame e agende com Pearson VUE](https://www.microsoft.com/learning/exam-list.aspx).
-
-## Procurar exames de certificação
-
-- [Azure exams](https://www.microsoft.com/learning/azure-exams.aspx)
-- [Data exams](https://www.microsoft.com/learning/data-and-ai-exams.aspx)
-- [Exames do Microsoft 365](https://www.microsoft.com/learning/microsoft-365-exams.aspx)
-- [Exames do Microsoft Dynamics 365](https://www.microsoft.com/learning/dynamics-365-exams.aspx)
-- [Exames modernos de desktop](https://www.microsoft.com/learning/modern-desktop-exams.aspx)
-- [Testes do Windows Server 2016](https://www.microsoft.com/learning/windows-server-2016-exams.aspx)
-- [Os exames](https://www.microsoft.com/learning/exam-list.aspx)
+Para exames oferecidos por intermédio de estabelecimentos comerciais, [selecione seu exame, acesse sua conta da Microsoft e siga as instruções para se registrar](/learn/certifications/browse/?resource_type=examination).
 
 ## Prepare-se para seu exame
 
-A página de detalhes de cada exame contém uma seção "Habilidades avaliadas", que lista as habilidades que serão avaliadas no exame, assim como quaisquer ferramentas e recursos de preparação disponíveis fornecidos pela Microsoft.
+A página de detalhes de cada exame contém uma seção “Habilidades avaliadas”, que lista as habilidades que serão avaliadas no exame, assim como quaisquer ferramentas e recursos de preparação disponíveis fornecidos pela Microsoft.
 
 ### Recursos adicionais que poderão ajudá-lo a começar:
 
@@ -46,7 +32,8 @@ A página de detalhes de cada exame contém uma seção "Habilidades avaliadas",
 
 #### Explorar Treinamentos On-Line Gratuitos
 
-[Treinamento online gratuito por especialistas de classe mundial para ajudá-lo a desenvolver suas habilidades técnicas e avançar em sua carreira.](https://mva.microsoft.com/)
+Aprenda novas habilidades e descubra o poder dos produtos Microsoft com orientações passo a passo.  
+[Comece sua jornada hoje explorando nossos caminhos e módulos de aprendizagem.](/learn/browse/)
 
 #### Testes Práticos Oficiais da Microsoft
 
@@ -61,99 +48,100 @@ A página de detalhes de cada exame contém uma seção "Habilidades avaliadas",
 Para garantir a segurança dos exames e o valor de nossas certificações, não identificamos formatos nem tipos de perguntas antes do exame. A Microsoft está sempre desenvolvendo tecnologias de teste inovadoras e tipos de perguntas, portanto se reserva o direito de incorporá-los nos exames a qualquer momento e sem notificação prévia. O exame pode conter o seguinte:
 
 ### Amostras de exames e perguntas
+
 #### Tela ativa (0:44)
 
 <div>
-    <a href="https://www.youtube.com/watch?v=7CvYGpSVbkA" target="_blank"><img width="450px" src="images/active-screen.jpg" alt="Active screen"/></a>
-    <br/>
+	<a href="https://www.youtube.com/watch?v=7CvYGpSVbkA" target="_blank"><img width="450px" src="images/active-screen.jpg" alt="Active screen"/></a>
+	<br/>
 </div>
 
 
 #### Melhor resposta (0:20)
 
 <div>
-    <a href="https://youtu.be/-Z2GPTFtvjk" target="_blank"><img width="450px" src="images/best-answer.jpg" alt="Best answer"/></a>
-    <br/>
+	<a href="https://youtu.be/-Z2GPTFtvjk" target="_blank"><img width="450px" src="images/best-answer.jpg" alt="Best answer"/></a>
+	<br/>
 </div>
 
 
 #### Lista de compilação (0:45)
 
 <div>
-    <a href="https://youtu.be/lUN2mIaegJM" target="_blank"><img width="450px" src="images/build-list.jpg" alt="Build list"/></a>
-    <br/>
+	<a href="https://youtu.be/lUN2mIaegJM" target="_blank"><img width="450px" src="images/build-list.jpg" alt="Build list"/></a>
+	<br/>
 </div>
 
 
 #### Estudos de caso (1:13)
 
 <div>
-    <a href="https://youtu.be/iGxdMTz788k" target="_blank"><img width="450px" src="images/case-studies.jpg" alt="Case studies"/></a>
-    <br/>
+	<a href="https://youtu.be/iGxdMTz788k" target="_blank"><img width="450px" src="images/case-studies.jpg" alt="Case studies"/></a>
+	<br/>
 </div>
 
 
 #### Arrastar e soltar (0:37)
 
 <div>
-    <a href="https://youtu.be/yfvegCS-2WE" target="_blank"><img width="450px" src="images/drag-and-drop.jpg" alt="Drag and drop"/></a>
-    <br/>
+	<a href="https://youtu.be/yfvegCS-2WE" target="_blank"><img width="450px" src="images/drag-and-drop.jpg" alt="Drag and drop"/></a>
+	<br/>
 </div>
 
 
 #### Área ativa (0:17)
 
 <div>
-    <a href="https://youtu.be/vWyzLlyi4oY" target="_blank"><img width="450px" src="images/hot-area.jpg" alt="Hot area"/></a>
-    <br/>
+	<a href="https://youtu.be/vWyzLlyi4oY" target="_blank"><img width="450px" src="images/hot-area.jpg" alt="Hot area"/></a>
+	<br/>
 </div>
 
 
 #### Múltipla escolha (0:37)
 
 <div>
-    <a href="https://youtu.be/lvpACCsv558" target="_blank"><img width="450px" src="images/multiple-choice.jpg" alt="Multiple choice"/></a>
-    <br/>
+	<a href="https://youtu.be/lvpACCsv558" target="_blank"><img width="450px" src="images/multiple-choice.jpg" alt="Multiple choice"/></a>
+	<br/>
 </div>
 
 
 #### Opções de respostas repetidas (0:20)
 
 <div>
-    <a href="https://youtu.be/fb4KSwY_dxo" target="_blank"><img width="450px" src="images/repeated-answer-choices.jpg" alt="Repeated answer choices"/></a>
-    <br/>
+	<a href="https://youtu.be/fb4KSwY_dxo" target="_blank"><img width="450px" src="images/repeated-answer-choices.jpg" alt="Repeated answer choices"/></a>
+	<br/>
 </div>
 
 
 #### Resposta curta (0:29)
 
 <div>
-    <a href="https://youtu.be/qJzQDPs9he8" target="_blank"><img width="450px" src="images/short-answer.jpg" alt="Short answer"/></a>
-    <br/>
+	<a href="https://youtu.be/qJzQDPs9he8" target="_blank"><img width="450px" src="images/short-answer.jpg" alt="Short answer"/></a>
+	<br/>
 </div>
 
 
 #### Laboratórios (2:58)
 
 <div>
-    <a href="https://www.microsoft.com/en-us/videoplayer/embed/RE4ppkp" target="_blank"><img width="450px" src="images/labs.jpg" alt="Labs"/></a>
-    <br/>
+	<a href="https://www.microsoft.com/en-us/videoplayer/embed/RE4ppkp" target="_blank"><img width="450px" src="images/labs.jpg" alt="Labs"/></a>
+	<br/>
 </div>
 
 
 #### Marcar para revisão (00:33)
 
 <div>
-    <a href="https://youtu.be/ROO_PzuXbMw" target="_blank"><img width="450px" src="images/mark-review.jpg" alt="Mark review"/></a>
-    <br/>
+	<a href="https://youtu.be/ROO_PzuXbMw" target="_blank"><img width="450px" src="images/mark-review.jpg" alt="Mark review"/></a>
+	<br/>
 </div>
 
 
 #### Tela de revisão (01:36)
 
 <div>
-    <a href="https://youtu.be/BJygBpl_8PI" target="_blank"><img width="450px" src="images/review-screen.jpg" alt="Review screen"/></a>
-    <br/>
+	<a href="https://youtu.be/BJygBpl_8PI" target="_blank"><img width="450px" src="images/review-screen.jpg" alt="Review screen"/></a>
+	<br/>
 </div>
 
 
@@ -163,7 +151,7 @@ Para garantir a segurança dos exames e o valor de nossas certificações, não 
 Os exames de Certificação Microsoft são cuidadosamente desenvolvidos com a experiência de profissionais do setor para refletir a forma como os produtos Microsoft são usados em organizações do mundo todo.
 
 1. Definir o domínio da habilidade.
-Especialistas identificam as tarefas essenciais realizadas quando estiver usando uma tecnologia específica com posições ou funções específicas de trabalho.
+Os especialistas identificam as tarefas críticas que alguns cargos ou funções específicas realizam utilizando as tecnologias e soluções da Microsoft.
 
 2. Defina a distribuição de habilidades no exame.
 Essas habilidades identificadas no passo 1 são avaliadas por especialistas técnicos e da função de trabalho do mundo inteiro. Suas avaliações passarão a ser o plano gráfico que definirá a distribuição das perguntas no domínio de habilidades.
@@ -175,7 +163,7 @@ Os especialistas no assunto (SMEs) escrevem as perguntas do exame para medir as 
 Uma bancada de especialistas que não participaram da elaboração das perguntas revisará cada uma quanto à precisão técnica, relevância, utilidade do conhecimento e alinhamento dos objetivos durante a revisão alfa.
 
 5. Teste beta das perguntas.
-Os itens revisados por alfa são então testados por piloto em uma situação semelhante a um exame, conhecida como "exame beta".  Isso garante que apenas o melhor conteúdo seja incluído no exame ao vivo.
+Os itens revisados por alfa são então testados por piloto em uma situação semelhante a um exame, conhecida como “exame beta”. Isso garante que apenas o melhor conteúdo seja incluído no exame ao vivo.
 
 6. Finalize o conjunto de perguntas.
 Os resultados do exame beta são psicometricamente analisados com base em fatores como dificuldade, capacidade de diferenciar quem apresenta melhor e pior desempenho, confiabilidade e muito mais. Somente as perguntas que atendem aos critérios psicométricos da Microsoft aparecerão no exame ao vivo.
@@ -184,7 +172,7 @@ Os resultados do exame beta são psicometricamente analisados com base em fatore
 Um painel de especialistas trabalha com o psicométrico da Microsoft para determinar uma pontuação de aprovação. Essa nota se baseia nas competências necessárias para que a pessoa seja avaliada pelo domínio da competência e em relação a dificuldade das perguntas incluídas no exame.
 
 8. O exame está disponível em todo o mundo.
-Pearson VUE ou Certiport, provedores de exame independentes, administram o exame de certificação final. O exame está disponível em centros de teste em todo o mundo ou através de inspeção online se entregue através do VUE (a inspeção online não está disponível no momento através do Certiport).
+Provedores de entrega de exames independentes administram o exame de certificação. O exame está disponível nos centros de testes a nível mundial ou por meio de supervisão online se (a supervisão online não está disponível atualmente por meio de canais acadêmicos).
 
 9. Sustentar/manter ao longo da vida do exame.
 A Microsoft monitora a performance psicométrica dos exames durante todo o seu ciclo de vida, garantindo que continuem a oferecer medidas válidas e confiáveis do domínio da habilidade. As perguntas que não possuem uma performance psicométrica são removidas e novos itens são adicionados como características e funcionalidades são atualizadas e/ou substitutas de itens removidos por razões psicométricas ou por causa de mudanças na tecnologia.
@@ -202,7 +190,7 @@ Para obter o código, você pode ser membro de nosso banco de dados de perfis de
 
 O programa de banco de dados SME Profile agora está hospedado no [Microsoft Collaborate](https://aka.ms/collaborate). Veja o blog da comunidade [Ajude-nos a criar exames e conteúdo de aprendizado! Participe do nosso banco de dados de PME hoje!](/learn/certifications/posts/help-us-create-exams-and-learning-content) para obter instruções sobre como ingressar no programa no Collaborate.
 
-Para algumas tecnologias, contamos com muito mais candidatos qualificados no banco de dados de perfis de SME do que com vagas disponíveis. Nesses casos, selecionamos um número de candidatos qualificados aleatoriamente e enviamos os convites. Se não for selecionado, você ainda pode participar consultando a página Anúncios, onde postaremos um código diferente no dia que o registro para o exame beta for iniciado.
+Para algumas funções, temos muito mais candidatos qualificados no banco de dados de perfis de SME do que vagas disponíveis. Nesses casos, selecionamos um número de candidatos qualificados aleatoriamente e enviamos os convites. Se não for selecionado, você ainda pode participar consultando a página Anúncios, onde postaremos um código diferente no dia que o registro para o exame beta for iniciado.
 
 Se você deseja fazer o exame beta, mas não recebeu um convite ou não conseguiu se inscrever para uma vaga com desconto, poderá fazer o exame durante esse período registrando-se como faria em qualquer exame e pagando o preço normal. Sabemos que alguns candidatos querem realizá-lo com antecedência para atender a um requisito profissional, necessidade de crescimento na carreira ou para demonstrar que são os primeiros especialistas a adotar a tecnologia.
 
@@ -234,9 +222,8 @@ Se você não passar no exame beta, não conseguirá refazê-lo na versão beta.
 
 Se você acredita que sua pontuação beta deve estar disponível (porque o exame está ativo ou porque viu um tuíte que afirmava isso), verifique primeiro se o provedor de exame a publicou online. Se não a publicou, entre em contato com o provedor do exame. (observe que pode demorar até duas semanas após a versão final do exame estar disponível publicamente para a sua pontuação beta aparecer online). Se o provedor de entrega do exame publicou uma pontuação, mas você não a vê na transcrição da Microsoft, entre em contato com [Suporte à certificação](https://aka.ms/mcpforum).
 
-## Obtenha reconhecimento de seus conhecimentos e habilidades
-
-[Explore todos os exames de certificação.](https://www.microsoft.com/learning/exam-list.aspx)
+## Obtenha reconhecimento de seus conhecimentos e habilidades. 
+[Explore todos os exames de certificação.](/learn/certifications/browse/?resource_type=examination)
 
 
 

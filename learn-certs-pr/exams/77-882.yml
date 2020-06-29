@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: Excel 2010
+metadata:
+  title: 'Exam 77-882: Excel 2010'
+  description: 'Exam 77-882: Excel 2010'
+uid: exam.77-882
+displayName: 77-882
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  O usuário do Microsoft Office Excel 2010 de nível básico deve ser capaz de navegar pelo software Microsoft Office Excel 2010 em nível funcional e de recursos. Eles devem estar familiarizados e saber usar pelo menos 80% das funcionalidades e recursos do Microsoft Office Excel 2010. O usuário de nível básico deve ser capaz de usar o Microsoft Office Excel 2010 para criar e editar planilhas de aparência profissional para diversas finalidades e situações. Os usuários incluem pessoas de uma ampla variedade de funções em quase todas as áreas profissionais, acadêmicas e pessoais.
+subTitle: O usuário do Microsoft Office Excel 2010 de nível básico deve ser capaz de navegar pelo software Microsoft Office Excel 2010 em nível funcional e de recursos. Eles devem estar familiarizados e saber usar pelo menos 80% das funcionalidades e recursos do Microsoft Office Excel 2010. O usuário de nível básico deve ser capaz de usar o Microsoft Office Excel 2010 para criar e editar planilhas de aparência profissional para diversas finalidades e situações. Os usuários incluem pessoas de uma ampla variedade de funções em quase todas as áreas profissionais, acadêmicas e pessoais.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toWe
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=77-882&examname=Excel%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-882
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Gerenciamento do ambiente de pastas de trabalho
+- Criação de dados da célula
+- Formatação de células e planilhas
+- Gerenciamento de planilhas e pastas de trabalho
+- Aplicar fórmulas e funções
+- Apresentação de dados visuais
+- Compartilhar dados da planilha com outros usuários
+- Analisar e organizar dados
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: ../certification-exam-policies.md
+

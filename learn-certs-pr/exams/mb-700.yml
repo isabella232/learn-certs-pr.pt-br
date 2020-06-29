@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
+title: 'Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 metadata:
-  title: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
-  description: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect (beta)'
+  title: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
+  description: 'Exam MB-700: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 uid: exam.mb-700
 displayName: MB-700
 summary: |-
@@ -13,8 +13,6 @@ summary: |-
   Um Solution Architect é responsável pela integridade e a entrega bem sucedida do projeto completo da solução. O arquiteto fornece orientações críticas durante o processo de pré-vendas e projeto e realiza consultas durante todo o restante do ciclo de vida do projeto para resolver questões que surgem ao longo da implementação.
 
   O Solution Architect deve ter uma gama de conhecimento e experiência que abranjam as necessidades do negócio e funcionalidades do produto. O Solution Architect deve ter ampla experiência funcional e técnica, como um desenvolvedor ou consultor funcional em um dos seguintes aspectos&#58; Finanças, Manufatura ou Gestão da Cadeia de Suprimentos. Além disso, têm amplo conhecimento de domínio em um ou mais setores de clientes.
-
-  <div style='font-weight&#58; bold;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</div>
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: identificar os requisitos de solução, projetar componentes de solução e definir testes de solução e estratégias de gestão.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Vdh
@@ -39,6 +37,9 @@ relatedCertifications:
 - related:
     uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 resources:
+- title: Certificação Caminho de Aprendizagem
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vyT7
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

@@ -8,10 +8,10 @@ displayName: MB-500
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame será atualizado em 22 de maio de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 22 de maio de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
   </div>
 
-  Este exame destina-se aos desenvolvedores que trabalham com aplicativos de Finanças e Operações no Microsoft Dynamics 365 implementam e aprimoram os aplicativos para atender aos requisitos dos negócios. Os candidatos fornecem soluções totalmente abrangentes usando padrões de codificação de aplicativo padronizado, recursos extensíveis e integrações externas.
+  Este exame destina-se aos desenvolvedores que trabalham com aplicativos de Finanças e Operações no Microsoft Dynamics 365 implementam e aprimoram os aplicativos para atender aos requisitos dos negócios. Os candidatos fornecem soluções completamente realizadas usando padrões de codificação de aplicativo padronizado, recursos extensíveis e integrações externas.
 
   Os candidatos são responsáveis por desenvolver a lógica de negócio por meio de X++, criar e modificar relatórios e espaços de trabalho de Finanças e Operações, personalizar interfaces de usuário, fornecer terminais e APIs para dar suporte aos aplicativos de Power Platform e sistemas externos, realizar testes, monitorar performance, analisar e manipular dados, criar projetos técnicos e detalhes de implementação e implementar políticas de permissão e requisitos de segurança.
 
@@ -31,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 22 de maio de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.
+- O conteúdo deste exame foi atualizado em 22 de maio de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
 - Planejar a Arquitetura e Design de Soluções (10-15%)
 - Aplicar Ferramentas de Desenvolvedor (10-15%)
 - Projetar e Desenvolver Elementos de AOT (20-25%)

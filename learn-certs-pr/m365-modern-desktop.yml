@@ -2,17 +2,20 @@
 title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
-  description: Modern Desktop Administrators implantam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos clientes em um ambiente corporativo.
+  description: 'Modern Desktop Administrators implantam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos clientes em um ambiente corporativo.'
 uid: certification.modern-desktop
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Modern Desktop Administrators implantam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos clientes em um ambiente corporativo.
+summary: |-
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+
+  Modern Desktop Administrators implantam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos clientes em um ambiente corporativo.
 subTitle: Modern Desktop Administrators implantam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos clientes em um ambiente corporativo.
 levels:
 - intermediate
 skills:
 - Implantar o Windows
 - Gerenciar dispositivos e dados
-- Configurar conectividade
+- configurar a conectividade
 - Manter o Windows
 - Implantar e atualizar sistemas operacionais
 - Gerenciar políticas e perfis
@@ -25,35 +28,33 @@ products:
 - m365
 - windows
 courses:
-- uid: course.md-100t01
-- uid: course.md-100t02
-- uid: course.md-100t03
-- uid: course.md-100t04
-- uid: course.md-101t01
-- uid: course.md-101t02
-- uid: course.md-101t03
+- uid: course.md-100t00
+- uid: course.md-101t00
 paths:
+- uid: learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
 - uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.manage-enterprise-deployment-m365
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUD
 exams:
 - uid: exam.md-100
 - uid: exam.md-101
 resources:
-- title: Caminhos de aprendizado de certificação
-  description: 'Descubra os recursos de treinamento para obter a Microsoft 365 Certified: Modern Desktop Administrator Associate.'
+- title: Certificação Caminho de Aprendizagem
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especializações.
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Repetir Exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
 - title: Suporte para certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Consulte e gerencie seus compromissos agendados, certificados e transcrições.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

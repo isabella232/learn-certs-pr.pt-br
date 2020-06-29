@@ -11,7 +11,7 @@ summary: |-
   <div style='font-weight&#58; bold;'>UMA NOVA VERSÃO DESTE EXAME, <a href="/learn/certifications/exams/az-304">AZ-304</a>, ESTARÁ DISPONÍVEL EM OU PRÓXIMO A 29 DE JUNHO DE 2020. Você poderá fazer esse exame até que ele seja retirado em quarta-feira, 30 de setembro de 2020 ou por volta disso. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
   </div>
 
-  Os candidatos a este exame são os arquitetos da Azure Solution Architects, que aconselham as partes interessadas e traduzem os requisitos do negócio em soluções seguras, escaláveis e confiáveis. Os candidatos devem ter experiência e conhecimento avançados em vários aspectos das operações de TI, incluindo redes, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança. Essa função exige gerenciar como as decisões em cada área afetam uma solução geral. Os candidatos devem ser proficientes na Azure administration, no Azure development e no DevOps e ter habilidades de nível de especialista em pelo menos um desses domínios.
+  Os candidatos a este exame são os arquitetos da Azure Solution Architects, que aconselham as partes interessadas e traduzem os requisitos do negócio em soluções seguras, escaláveis e confiáveis. Os candidatos devem ter experiência e conhecimento avançados em vários aspectos das operações de TI, incluindo redes, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança. Essa função requer o gerenciamento de como as decisões em cada área afetam uma solução geral. Os candidatos devem ser proficientes na administração do Azure, no desenvolvimento do Azure e no DevOps e ter habilidades de nível de especialista em pelo menos um desses domínios.
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: determinar os requisitos de carga de trabalho; projetar para identidade e segurança; projetar uma solução de plataforma de dados; projetar uma estratégia de continuidade de negócios; projetar para implantação, migração e integração; e projetar uma estratégia de infraestrutura.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
@@ -25,11 +25,11 @@ locales:
 levels:
 - advanced
 skills:
-- UMA NOVA VERSÃO DESTE EXAME, AZ-304, ESTARÁ DISPONÍVEL EM OU PRÓXIMO A 29 de junho de 2020. Você poderá fazer esse exame até que ele seja retirado em quarta-feira, 30 de setembro de 2020 ou por volta disso. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.
+- UMA NOVA VERSÃO DESTE EXAME, AZ-304, ESTARÁ DISPONÍVEL EM OU PRÓXIMO A 29 DE JUNHO DE 2020. Você poderá fazer esse exame até que ele seja retirado em quarta-feira, 30 de setembro de 2020 ou por volta disso. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.
 - Determinar os requisitos de carga de trabalho (10-15%)
 - Desenvolver estratégias de identidade e segurança (20-25%)
 - Desenvolver uma solução de plataforma de dados (15-20%)
-- Desenvolver uma estratégia de continuidade de negócios (15-20%)
+- Projetar uma estratégia de continuidade de negócios (15-20%)
 - Desenvolver soluções para implantação, migração e integração (10-15%)
 - Desenvolver uma estratégia de infraestrutura (15-20%)
 retirementDate: 09/30/2020
@@ -78,9 +78,6 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: Certificação Caminho de Aprendizagem
-  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

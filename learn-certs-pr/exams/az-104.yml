@@ -5,11 +5,26 @@ metadata:
   description: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
 uid: exam.az-104
 displayName: AZ-104
-summary: "<div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>\r\n  \r\nO Azure Administrator implementa, gerencia e monitora redes de identidade, governança, armazenamento, computação e virtual em um ambiente em nuvem. O Azure Administrator provisionará, dimensionará, monitorará e ajustará os recursos conforme apropriado.\r\n\r\nOs candidatos devem ter pelo menos seis meses de experiência prática na administração do Azure. Os candidatos devem ter um forte entendimento dos principais serviços do Azure, cargas de trabalho, segurança e governança do Azure. Os candidatos a esse exame devem ter experiência no uso do PowerShell, da Interface da Linha de Comandos, do Portal do Azure e dos modelos ARM.\r\n\r\n<div style='font-weight&#58; bold;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">sobre o valor e a importância dos exames beta</a>.</div>"
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  Os candidatos a este exame devem ter experiência na implementação, gerenciamento e monitoramento do ambiente Microsoft Azure da organização.
+
+  As responsabilidades de um administrador do Azure incluem a implementação, gerenciamento e monitoramento de redes de identidade, governança, armazenamento, computação e redes virtuais em um ambiente em nuvem, além de fornecer, dimensionar, monitorar e ajustar recursos, quando necessário.
+
+  O administrador do Azure geralmente atua como parte de uma equipe maior dedicada à implementação da infraestrutura de nuvem da sua organização.
+
+  O candidato a este exame deve ter pelo menos seis meses de experiência prática na administração do Azure, além de sólida compreensão dos principais serviços, cargas de trabalho, segurança e governança do Azure. Além disso, esta função deve ter experiência no uso de modelos do PowerShell, CLI e portal do Azure e do Azure Resource Manager.
+
+  <div style='font-weight&#58; bold;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</div>
 subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: gerenciar identidades e governança do Azure; implementar e gerenciar armazenamento; implantar e gerenciar recursos de computação do Azure; configurar e gerenciar redes virtuais; e monitorar e fazer backup de recursos do Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
@@ -25,19 +40,15 @@ roles:
 products:
 - azure
 courses:
+- uid: course.az-010t00
 - uid: course.az-104t00
 paths:
-- uid: learn.administer-infrastructure-resources-in-azure
-- uid: learn.architect-storage-infrastructure
-- uid: learn.architect-network-infrastructure
-- uid: learn.architect-infrastructure-operations
-- uid: learn.architect-compute-infrastructure
-- uid: learn.architect-migration-bcdr
-- uid: learn.manage-resources-in-azure
-- uid: learn.security.manage-identity-and-access
-- uid: learn.security.manage-security-operations
-- uid: learn.security.implement-resource-mgmt-security
-- uid: learn.administer-containers-in-azure
+- uid: learn.az104-admin-prerequisites
+- uid: learn.az-104-manage-identities-governance
+- uid: learn.az-104-manage-storage
+- uid: learn.az-104-manage-compute-resources
+- uid: learn.az-104-manage-virtual-networks
+- uid: learn.az-104-monitor-backup-resources
 relatedCertifications:
 - related:
     uid: certification.azure-administrator

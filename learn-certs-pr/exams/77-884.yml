@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Outlook 2010
+metadata:
+  title: 'Exam 77-884: Outlook 2010'
+  description: 'Exam 77-884: Outlook 2010'
+uid: exam.77-884
+displayName: 77-884
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  Os candidatos podem formatar conteúdo de mensagem de email usando caracteres e formatação de parágrafo, criar ou inserir elementos gráficos, como gráficos, tabelas e gráficos SmartArt, em mensagens. Eles podem também enviar mensagens para destinatários privados usando o campo Cco. Os candidatos são capazes de criar registros de contatos, tarefas e compromissos de mensagens recebidas, e configuram grupos de contato para facilitar a comunicação com outros usuários do Outlook. Eles podem compartilhar informações de agenda com outros usuários do Outlook também. Os candidatos agendam reuniões envolvendo pessoas e recursos do sistema, e delegam tarefas aos outros. Os principais usuários personalizam a janela do programa Outlook e a barra de ferramentas de acesso rápido para maximizar sua eficiência. Eles organizam mensagens e outros itens do Outlook e exibem diferentes visualizações de pastas de e-mail e do calendário, catálogo de endereços e lista de tarefas. Eles também podem exibir vários calendários e compartilhar calendários com outros usuários do Outlook.
+subTitle: Os candidatos podem formatar conteúdo de mensagem de email usando caracteres e formatação de parágrafo, criar ou inserir elementos gráficos, como gráficos, tabelas e gráficos SmartArt, em mensagens. Eles podem também enviar mensagens para destinatários privados usando o campo Cco. Os candidatos são capazes de criar registros de contatos, tarefas e compromissos de mensagens recebidas, e configuram grupos de contato para facilitar a comunicação com outros usuários do Outlook. Eles podem compartilhar informações de agenda com outros usuários do Outlook também. Os candidatos agendam reuniões envolvendo pessoas e recursos do sistema, e delegam tarefas aos outros. Os principais usuários personalizam a janela do programa Outlook e a barra de ferramentas de acesso rápido para maximizar sua eficiência. Eles organizam mensagens e outros itens do Outlook e exibem diferentes visualizações de pastas de e-mail e do calendário, catálogo de endereços e lista de tarefas. Eles também podem exibir vários calendários e compartilhar calendários com outros usuários do Outlook.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toWg
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=77-884&examname=Outlook%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-884
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Gerenciamento do ambiente Outlook (15-20%)
+- Criar e formatar o conteúdo do item (25–30%)
+- Gerenciar mensagens de e-mail (25-30%)
+- Gerenciar contatos (15-20%)
+- Gerenciar objetos de calendário (15-20%)
+- Trabalhar com tarefas, anotações e entradas de diário (5-10%)
+roles:
+- business-user
+products:
+- office-outlook
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: ../certification-exam-policies.md
+

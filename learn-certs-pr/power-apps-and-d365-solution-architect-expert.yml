@@ -1,19 +1,18 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
+title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
 metadata:
-  title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
-  description: Os Solution Architects para aplicativos controlados por modelos do Microsoft Power Apps no Dynamics 365 lideram implementações bem-sucedidas e se concentram em como as soluções atendem às necessidades técnicas e de negócios mais abrangentes das organizações.
+  title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
+  description: Os arquitetos de soluções do Power Apps no Microsoft Dynamics 365 conduzem implementações bem-sucedidas e se concentram em como as soluções podem atender às necessidades técnicas e empresariais mais amplas das organizações.
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  
-  Os Solution Architects para aplicativos controlados por modelos do Microsoft Power Apps no Dynamics 365 lideram implementações bem-sucedidas e se concentram em como as soluções atendem às necessidades técnicas e de negócios mais abrangentes das organizações. 
-subTitle: Os Solution Architects para aplicativos controlados por modelos do Microsoft Power Apps no Dynamics 365 lideram implementações bem-sucedidas e se concentram em como as soluções atendem  às necessidades técnicas e de negócios mais abrangentes das organizações.
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+
+  Os arquitetos de soluções do Power Apps no Microsoft Dynamics 365 conduzem implementações bem-sucedidas e se concentram em como as soluções podem atender às necessidades técnicas e empresariais mais amplas das organizações.
+subTitle: Os arquitetos de soluções do Power Apps no Microsoft Dynamics 365 conduzem implementações bem-sucedidas e se concentram em como as soluções podem atender às necessidades técnicas e empresariais mais amplas das organizações.
 levels:
 - advanced
 skills:
-- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - Executar Previsão de Solução e Análise de Requisitos
 - Arquitetura de uma solução
 - Implementar a solução
@@ -43,7 +42,7 @@ prerequisites:
   isOptional: false
 resources:
 - title: Certificação Caminho de Aprendizagem
-  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert.'
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

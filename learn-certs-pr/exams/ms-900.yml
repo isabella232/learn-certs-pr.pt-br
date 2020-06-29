@@ -8,7 +8,7 @@ displayName: MS-900
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 14 de abril de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>O conteúdo deste exame será atualizado em quarta-feira, 8 de julho de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
   </div>
 
   Este exame foi projetado para candidatos que desejam demonstrar conhecimento fundamental sobre as considerações e os benefícios da adoção de serviços em cloud em geral e o modelo de cloud Software as a Service (SaaS). Este exame também abordará o conhecimento das opções disponíveis e os benefícios obtidos pela implementação das ofertas de serviços na nuvem da Microsoft 365.
@@ -29,7 +29,7 @@ providers:
 levels:
 - beginner
 skills:
-- O conteúdo deste exame foi atualizado em 14 de abril de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- O conteúdo deste exame será atualizado em quarta-feira, 8 de julho de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
 - Descrever os conceitos de nuvem (15-20%)
 - Descrever os serviços e conceitos básicos do Microsoft 365 (30-35%)
 - Descrever a segurança, conformidade, privacidade e confiança no Microsoft 365 (25-30%)

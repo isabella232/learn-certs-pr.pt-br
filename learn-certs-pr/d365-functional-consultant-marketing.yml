@@ -6,7 +6,7 @@ metadata:
 uid: certification.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
   Os Consultores Funcionais do Microsoft Dynamics 365 para Marketing apresentam soluções que atraem e convertem clientes em potencial, criam reconhecimento de marca, padronizam o serviço omnicanal e fornecem insights de marketing.
 subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 para Marketing apresentam soluções que atraem e convertem clientes em potencial, criam reconhecimento de marca, padronizam o serviço omnicanal e fornecem insights de marketing.
@@ -34,12 +34,8 @@ products:
 - dynamics
 - dynamics-marketing
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
-- uid: course.mb-220t01
-- uid: course.mb-220t02
+- uid: course.mb-200t00
+- uid: course.mb-220t00
 paths:
 - uid: learn-dynamics.set-up-dynamics-365-marketing
 - uid: learn-dynamics.work-core-features-marketing

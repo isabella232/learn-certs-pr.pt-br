@@ -8,7 +8,7 @@ displayName: AZ-303
 summary: |-
   <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
 
-  Os candidatos a este exame são Azure Solution Architects que aconselham as partes interessadas ​e traduzem os requisitos de negócios em soluções seguras, escalonáveis e confiáveis. Os candidatos devem ter experiência e conhecimento avançados de TI, incluindo rede, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança. Essa função exige gerenciar como as decisões em cada área afetam uma solução geral.
+  Os candidatos a este exame são Azure Solution Architects que aconselham as partes interessadas ​e traduzem os requisitos de negócios em soluções seguras, escalonáveis e confiáveis. Os candidatos devem ter experiência e conhecimento avançados de TI, incluindo rede, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança. Essa função requer o gerenciamento de como as decisões em cada área afetam uma solução geral.
 
   Os candidatos devem ter habilidades de nível de especialista na administração do Azure e experiência nos processos de desenvolvimento do Azure e nos processos de DevOps.
 
@@ -16,7 +16,6 @@ summary: |-
 subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: implementar e monitorar uma infraestrutura do Azure; implementar soluções de gerenciamento e segurança; implementar soluções para aplicativos; e implementar e gerenciar plataformas de dados.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4psD6
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-303&examname=Exam%20AZ-303:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-303
 locales:
 - en
 levels:
@@ -34,9 +33,6 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Certificação Caminho de Aprendizagem
-  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

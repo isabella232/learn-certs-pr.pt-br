@@ -2,18 +2,17 @@
 title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
 metadata:
   title: 'Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert'
-  description: Os Solution Architects para aplicativos de Finanças e Operações do Microsoft Dynamics 365 são consultores confiáveis que consultam organizações e membros da equipe de implementação para refinar as necessidades de negócios em uma solução bem definida e econômica..
+  description: Os Solution Architects para aplicativos de Finanças e Operações do Microsoft Dynamics 365 são consultores confiáveis que consultam organizações e membros da equipe de implementação para refinar as necessidades de negócios em uma solução bem definida e econômica.
 uid: certification.d365-finance-and-operations-apps-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
   Os Solution Architects para aplicativos de Finanças e Operações do Microsoft Dynamics 365 são consultores confiáveis que consultam organizações e membros da equipe de implementação para refinar as necessidades de negócios em uma solução bem definida e econômica.
-subTitle: Os Solution Architects para aplicativos de Finanças e Operações do Microsoft Dynamics 365 são consultores confiáveis que consultam organizações e membros da equipe de implementação para refinar as necessidades de negócios em uma solução bem definida e econômica..
+subTitle: Os Solution Architects para aplicativos de Finanças e Operações do Microsoft Dynamics 365 são consultores confiáveis que consultam organizações e membros da equipe de implementação para refinar as necessidades de negócios em uma solução bem definida e econômica.
 levels:
 - advanced
 skills:
-- 'OBSERVAÇÃO: As marcações que aparecem abaixo de cada uma das habilidades medidas no documento abaixo têm como objetivo ilustrar como estamos avaliando essa habilidade. Essa lista não é definitiva nem exaustiva.'
 - identificar os requisitos de solução
 - projetar componentes de solução
 - Definir Soluções de Testes e Estratégias de Gestão
@@ -39,6 +38,9 @@ prerequisites:
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   isOptional: false
 resources:
+- title: Certificação Caminho de Aprendizagem
+  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vyT7
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

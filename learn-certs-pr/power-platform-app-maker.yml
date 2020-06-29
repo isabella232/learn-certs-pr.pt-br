@@ -1,0 +1,81 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform App Maker Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform App Maker Associate'
+  description: Esta certificação será disponibilizada na data aproximada de sexta-feira, 17 de julho de 2020. O criador de aplicativos cria soluções para simplificar, automatizar e transformar tarefas e processos para ele e sua equipe, os quais possuem profundo conhecimento no domínio da solução. Eles são especializados em tarefas essenciais de analistas de negócios técnicos, como modelagem de dados, design básico de UX, análise de requisitos, e análise de processos.
+uid: certification.power-platform-app-maker
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></font></div>
+
+  O criador de aplicativos cria soluções para simplificar, automatizar e transformar tarefas e processos para ele e sua equipe, os quais possuem profundo conhecimento no domínio da solução. Eles são especializados em tarefas essenciais de analistas de negócios técnicos, como modelagem de dados, design básico de UX, análise de requisitos, e análise de processos.
+
+  <div><strong><br/>Nota&#58; Esta certificação será disponibilizada provavelmente em julho de 2020.</strong></div>
+subTitle: Esta certificação será disponibilizada provavelmente em julho de 2020. O criador de aplicativos cria soluções para simplificar, automatizar e transformar tarefas e processos para ele e sua equipe, os quais possuem profundo conhecimento no domínio da solução. Eles são especializados em tarefas essenciais de analistas de negócios técnicos, como modelagem de dados, design básico de UX, análise de requisitos, e análise de processos.
+levels:
+- intermediate
+skills:
+- Soluções de design
+- Criar soluções.
+- Analisar dados
+- Implementar e gerenciar soluções
+roles:
+- business-analyst
+- business-owner
+- business-user
+- data-analyst
+- developer
+- devops-engineer
+- maker
+- technology-manager
+type: role-based
+products:
+- dynamics
+- office
+- office-access
+- office-excel
+- office-exchange-server
+- office-365
+- office-365-atp
+- office-add-ins
+- office-onedrive
+- office-onenote
+- office-outlook
+- office-planner
+- office-powerpoint
+- office-project
+- office-project-server
+- office-publisher
+- office-sp
+- office-sp-designer
+- office-teams
+- office-visio
+- office-word
+- power-platform
+- ai-builder
+- common-data-service
+- forms-pro
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAsW
+exams:
+- uid: exam.pl-100
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

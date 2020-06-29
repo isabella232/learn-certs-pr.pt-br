@@ -6,7 +6,7 @@ metadata:
 uid: certification.data-analyst-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
   Os Analistas de Dados permitem que as empresas maximizem o valor de seus ativos de dados usando o Microsoft Power BI. Como especialista no assunto, os analistas de dados são responsáveis por projetar e construir modelos de dados escaláveis, limpar e transformar dados e habilitar recursos analíticos avançados que fornecem valor comercial significativo por meio de visualizações de dados fáceis de entender.
 subTitle: Os Analistas de Dados permitem que as empresas maximizem o valor de seus ativos de dados usando o Microsoft Power BI.
@@ -23,10 +23,15 @@ roles:
 type: role-based
 products:
 - power-bi
+courses:
+- uid: course.da-100t00
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qbu6
 exams:
 - uid: exam.da-100
 resources:
+- title: Tabela de certificação do Azure
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

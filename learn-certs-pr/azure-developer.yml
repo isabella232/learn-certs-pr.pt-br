@@ -2,12 +2,20 @@
 title: 'Microsoft Certified: Azure Developer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Developer Associate'
-  description: 'Microsoft Azure developers concebem, constroem, testam e mantêm soluções em nuvem, tais como aplicações e serviços, estabelecendo parcerias com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar estas soluções.'
+  description: 'Os Azure Developers projetam, constroem, testam e mantêm aplicativos e serviços na nuvem.'
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Azure Developers concebem, constroem, testam e mantêm soluções em nuvem, tais como aplicações e serviços, estabelecendo parcerias com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar estas soluções.
-subTitle: Microsoft Azure Developers concebem, constroem, testam e mantêm soluções em nuvem, tais como aplicações e serviços, estabelecendo parcerias com arquitetos de soluções em nuvem, DBAs em nuvem, administradores em nuvem e clientes para implementar estas soluções.
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></font></div>
+
+  Os candidatos à certificação Azure Developer Associate devem ser especialistas no projeto, construção, teste e manutenção de aplicativos e serviços em nuvem do Microsoft Azure.
+
+  As responsabilidades atribuídas à função incluem a participação em todas as fases do desenvolvimento da nuvem, desde a definição e o design dos requisitos até o desenvolvimento, implantação, manutenção, configuração do desempenho e monitoramento.
+
+  Os Azure Developers trabalham em parceria com os arquitetos de soluções, DBAs e administradores de nuvem e clientes para implementar soluções.
+
+  Os candidatos a esta certificação devem ter de um a dois anos de experiência em desenvolvimento profissional e experiência com o Microsoft Azure. Além disso, o candidato deve ter conhecimentos de programação em uma linguagem compatível com o Azure e proficiência em SDKs do Azure, opções de armazenamento de dados, conexões de dados, APIs, autenticação e autorização de aplicativos, computação, implementação de contêineres, depuração, configuração de desempenho e monitoramento.
+subTitle: Os Azure Developers projetam, constroem, testam e mantêm aplicativos e serviços na nuvem.
 levels:
 - intermediate
 skills:
@@ -31,12 +39,8 @@ products:
 - azure-functions
 - azure-logic-apps
 courses:
-- uid: course.az-203t01
-- uid: course.az-203t02
-- uid: course.az-203t03
-- uid: course.az-203t04
-- uid: course.az-203t05
-- uid: course.az-203t06
+- uid: course.az-204t00
+- uid: course.az-020t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together
@@ -54,9 +58,12 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJU
 exams:
 - uid: exam.az-204
 resources:
-- title: Certificação Caminho de Aprendizagem
-  description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Azure Developer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
+- title: Tabela de certificação do Azure
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação Azure Developer Associate e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -66,9 +73,10 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Apoio às certificações
-  description: Obtenha ajuda por meio de fóruns de suporte de Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Revise e gerencie seus compromissos certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

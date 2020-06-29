@@ -11,7 +11,7 @@ ms.author: micsullivan
 ---
 # Exames programados para serem desativados
 
-Encontre os exames agendados para serem desativados nos próximos 12 meses, listados por tecnologia (as informações a seguir estão sujeitas à alteração).
+Encontre os exames agendados para serem desativados nos próximos 12 meses, listados por tecnologia. (as informações a seguir estão sujeitas à alteração).
 
 | Será desativado em domingo, 31 de janeiro de 2021 | |
 | --- | --- |
@@ -66,6 +66,10 @@ Encontre os exames agendados para serem desativados nos próximos 12 meses, list
 
 | Será desativado em segunda-feira, 31 de agosto de 2020 | |
 | --- | --- |
+| [MS-200](/learn/certifications/exams/ms-200): Planning and Configuring a Messaging Platform |  |
+| [MS-201](/learn/certifications/exams/ms-201): Implementing a Hybrid and Secure Messaging Platform |  |
+| [MS-300](/learn/certifications/exams/ms-300): Deploying Microsoft 365 Teamwork |  |
+| [MS-301](/learn/certifications/exams/ms-301): Deploying SharePoint Server Hybrid |  |
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
@@ -490,7 +494,7 @@ Para fins de referência, os testes desativado dentro do último ano terão um l
 | MB5-854 | C5 2010 Programming | 1° de outubro de 2013
 | MB5-855 | C5 2010 Advanced Programming | 1° de outubro de 2013
 | MB5-856 | C5 2010 Application Consultant | 1° de outubro de 2013
-| MB5-858 | Managing Microsoft Dynamics Implementations | 20 de setembro de 2013
+| MB5-858 | Managing Microsoft Dynamics Implementations | sexta-feira, 20 de setembro de 2013
 | MB6-202 | Axapta 3.0 Programming | 12 de janeiro de 2010
 | MB6-203 | Axapta 3.0 Financials | 12 de janeiro de 2010
 | MB6-204 | Axapta 3.0 Trade and Logistics | 12 de janeiro de 2010

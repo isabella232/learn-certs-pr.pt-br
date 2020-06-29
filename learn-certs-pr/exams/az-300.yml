@@ -8,10 +8,16 @@ displayName: AZ-300
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>UMA NOVA VERSÃO DESTE EXAME, <a href="/learn/certifications/exams/az-303">AZ-303</a>, ESTARÁ DISPONÍVEL EM OU PRÓXIMO A 29 DE JUNHO DE 2020. Você poderá fazer esse exame até que seja desativado na data aproximada de 30 de setembro de 2020.<br/><br/>Além disso, o conteúdo deste exame será atualizado em 2 de junho de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>UMA NOVA VERSÃO DESTE EXAME, <a href="/learn/certifications/exams/az-303">AZ-303</a>, ESTARÁ DISPONÍVEL EM OU PRÓXIMO A 29 DE JUNHO DE 2020. Você poderá fazer esse exame até que seja desativado na data aproximada de 30 de setembro de 2020.<br/><br/>Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
   </div>
 
-  Os candidatos a este exame são os arquitetos da Azure Solution Architects, que aconselham as partes interessadas e traduzem os requisitos do negócio em soluções seguras, escaláveis e confiáveis. Os candidatos devem ter experiência e conhecimento avançados em vários aspectos das operações de TI, incluindo redes, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança. Essa função exige gerenciar como as decisões em cada área afetam uma solução geral. Os candidatos devem ser proficientes na Azure administration, no Azure development e no DevOps e ter habilidades de nível de especialista em pelo menos um desses domínios.
+  Os candidatos a este exame devem ter experiência no design e implementação de soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança.
+
+  As responsabilidades de um Azure Solution Architect incluem consultoria aos profissionais envolvidos e adaptação dos requisitos de negócios em soluções em nuvem seguras, escaláveis e confiáveis.
+
+  O Azure Solution Architect trabalha em parceria com administradores e DBAs de nuvem e clientes para a implementação de soluções.
+
+  O candidato a este exame deve ter experiência e conhecimento avançados em vários aspectos das operações de TI, incluindo rede, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança (esta função deve ser capaz de administrar o modo como as decisões em cada área podem afetar uma solução global). Além disso, a função deve ser proficiente em pelo menos um desses domínios de conhecimento do Azure&#58; administração, desenvolvimento ou DevOps.
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: implantar e configurar a infraestrutura, implementar cargas de trabalho e segurança; criar e implantar aplicativos, implementar autenticação e dados seguros; e desenvolver para o armazenamento em nuvem e Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
@@ -25,8 +31,8 @@ locales:
 levels:
 - advanced
 skills:
-- UMA NOVA VERSÃO DESTE EXAME, AZ-303, ESTARÁ DISPONÍVEL EM OU PRÓXIMO A 29 de junho de 2020. Você poderá fazer esse exame até que ele seja retirado em quarta-feira, 30 de setembro de 2020 ou por volta disso. , O conteúdo deste exame será atualizado em terça-feira, 2 de junho de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.
-- Implementar e configurar a infraestrutura (40-45%)
+- UMA NOVA VERSÃO DESTE EXAME, AZ-303, ESTARÁ DISPONÍVEL EM OU PRÓXIMO A 29 DE JUNHO DE 2020. Você poderá fazer esse exame até que ele seja retirado em quarta-feira, 30 de setembro de 2020 ou por volta disso. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
+- Implementar e configurar infraestrutura (40-45%)
 - Implementar cargas de trabalho e segurança (25-30%)
 - Criar e implementar aplicativos (5-10%)
 - Implementar a autenticação e dados seguros (5-10%)
@@ -78,9 +84,6 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: Certificação Caminho de Aprendizagem
-  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

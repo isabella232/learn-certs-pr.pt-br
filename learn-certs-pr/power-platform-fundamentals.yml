@@ -1,21 +1,24 @@
 ### YamlMime:Certification
-title: Microsoft Certified Power Platform Fundamentals
+title: 'Microsoft Certified: Power Platform Fundamentals'
 metadata:
-  title: Microsoft Certified Power Platform Fundamentals
-  description: Prove que você entende das capacidades centrais do Power Plaform - a partir do valor de negócio e capacidades de produto centrais para desenvolver uma aplicação de tela de Aplicações Power, conexão de fontes de dados, automação com Microsoft Automate e criação de um painel de controle Power BI.
+  title: 'Microsoft Certified: Power Platform Fundamentals'
+  description: Prove que você compreende os principais recursos da Power Platform, desde o valor comercial e os recursos essenciais do produto até a criação de um aplicativo de tela simples dos Power Apps, conectando fontes de dados, automatizando processos básicos de negócios com o Power Automate, criando um painel do Power BI e criando assistentes virtuais poderosos com Power Virtual Agents.
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  Prove que você entende das capacidades centrais do Power Plaform - a partir do valor de negócio e capacidades de produto centrais para desenvolver uma aplicação de tela de Aplicações Power, conexão de fontes de dados, automação com Microsoft Automate e criação de um painel de controle Power BI.
-subTitle: Prove que você entende das capacidades centrais do Power Plaform - a partir do valor de negócio e capacidades de produto centrais para desenvolver uma aplicação de tela de Aplicações Power, conexão de fontes de dados, automação com Microsoft Automate e criação de um painel de controle Power BI.
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+
+  Prove que você compreende os principais recursos da Power Platform, desde o valor comercial e os recursos essenciais do produto até a criação de um aplicativo de tela simples dos Power Apps, conectando fontes de dados, automatizando processos básicos de negócios com o Power Automate, criando um painel do Power BI e criando assistentes virtuais poderosos com Power Virtual Agents.
+subTitle: Prove que você compreende os principais recursos da Power Platform, desde o valor comercial e os recursos essenciais do produto até a criação de um aplicativo de tela simples dos Power Apps, conectando fontes de dados, automatizando processos básicos de negócios com o Power Automate, criando um painel do Power BI e criando assistentes virtuais poderosos com Power Virtual Agents.
 levels:
 - beginner
 skills:
-- Entender o valor comercial da Power Platform
-- Compreender os componentes principais da Power Platform
-- Demonstrar o valor comercial do Power BI
-- Demonstrar o valor comercial dos Power Apps
-- Demonstração de valor de negócio do Power Automate
+- Descrever o valor comercial da Power Platform
+- Identificar os componentes principais da Power Platform
+- Descrever o valor comercial do Power BI
+- Descrever o valor comercial dos Power Apps
+- Descrever o valor comercial do Power Automate
+- Demonstrar o valor comercial dos Power Virtual Agents
 roles:
 - business-user
 - functional-consultant
@@ -30,7 +33,7 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43KL
 exams:
 - uid: exam.pl-900
 resources:
-- title: Caminhos de aprendizado de certificação
+- title: Certificação Caminho de Aprendizagem
   description: 'Descubra os recursos de treinamento para se tornar um Microsoft Certified: Power Platform Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
 - title: Guia de treinamento e certificação
@@ -48,3 +51,4 @@ resources:
 - title: Painel de certificação
   description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+
