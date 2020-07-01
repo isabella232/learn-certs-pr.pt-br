@@ -16,7 +16,7 @@ summary: |-
 subTitle: Este exame é destinado principalmente a desenvolvedores de ETL e data warehouse que criam soluções de Business Intelligence (BI) e cujas responsabilidades incluem limpeza de dados e implementação de Extract Transform Load e data warehouse.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toVI
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=70-463&examname=Implementing%20a%20Data%20Warehouse%20with%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-463
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=463&examname=Implementing%20a%20Data%20Warehouse%20with%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-463
 locales:
 - en
 - zh-cn

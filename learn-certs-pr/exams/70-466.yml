@@ -16,7 +16,7 @@ summary: |-
 subTitle: Este exame destina-se a desenvolvedores de Business Intelligence (BI) com foco na criação de soluções de BI que exigem implementar modelos de dados multidimensionais, implementar e manter cubos OLAP e criar exibições de informações usadas na tomada de decisão de negócios.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkJ
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=70-466&examname=Implementing%20Data%20Models%20and%20Reports%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-466
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=466&examname=Implementing%20Data%20Models%20and%20Reports%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-466
 locales:
 - en
 - zh-cn

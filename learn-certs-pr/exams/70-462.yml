@@ -16,7 +16,7 @@ summary: |-
 subTitle: Este exame destina-se a profissionais de banco de dados que executam tarefas de instalação, manutenção e configuração. Outras responsabilidades incluem configurar sistemas de banco de dados, garantir que os sistemas funcionem de forma eficiente e armazenar fazer backup e proteger regularmente dados contra acesso não autorizado.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIN
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=70-462&examname=Administering%20Microsoft%20SQL%20Server%202012/2014%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-462
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=462&examname=Administering%20Microsoft%20SQL%20Server%202012/2014%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-462
 locales:
 - en
 - zh-cn
