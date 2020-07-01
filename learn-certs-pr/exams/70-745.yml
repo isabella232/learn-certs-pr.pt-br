@@ -18,7 +18,7 @@ summary: |-
 subTitle: Os candidatos a este exame são profissionais de TI responsáveis por implementar um datacenter definido por software (SDDC) com o Windows Server 2016 e o Microsoft System Center 2016 Virtual Machine Manager (SCVMM).
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1k
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=70-745&examname=Implementing%20a%20Software-Defined%20Datacenter&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-745
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=745&examname=Implementing%20a%20Software-Defined%20Datacenter&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-745
 locales:
 - en
 levels:

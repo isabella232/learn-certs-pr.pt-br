@@ -16,7 +16,7 @@ summary: |-
 subTitle: Este exame é destinado a administradores de banco de dados do SQL Server, engenheiros de sistemas e desenvolvedores com dois anos de experiência ou mais, que estão buscando validar suas habilidades e conhecimentos em escrever consultas.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t54W
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=70-461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
 locales:
 - en
 - zh-cn

@@ -16,7 +16,7 @@ summary: |-
 subTitle: Candidatos a este exame são desenvolvedores e arquitetos que utilizam o Azure Cosmos DB. Os candidatos devem compreender os conceitos fundamentais de particionamento, replicação e governança de recurso para criar e configurar aplicações escaláveis que não dependem de uma API Cosmos DB. Os candidatos também devem ter conhecimento básico do funcionamento da API Cosmos DB SQL.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjS
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=70-777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
 locales:
 - en
 levels:

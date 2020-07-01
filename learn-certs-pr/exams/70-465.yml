@@ -16,7 +16,7 @@ summary: |-
 subTitle: Este exame é destinado a profissionais de banco de dados que projetam e compilam soluções de banco de dados na organização. Eles são responsáveis pela criação de planos e projetos para estrutura, armazenamento, objetos e servidores de banco de dados. Eles criam o plano para o ambiente em que a solução de banco de dados é executada.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t560
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=70-465&examname=Designing%20Database%20Solutions%20for%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-465
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=465&examname=Designing%20Database%20Solutions%20for%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-465
 locales:
 - en
 - zh-cn

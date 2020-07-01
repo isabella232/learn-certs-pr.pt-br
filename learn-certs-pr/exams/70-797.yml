@@ -20,7 +20,7 @@ summary: |-
 subTitle: Este exame valida o conhecimento básico e as habilidades do candidato para criar identidades sólidas, proteção de conteúdo (proteção contra perda de dados), política de gerenciamento de dispositivos móveis, virtualização com Hyper-V, gerenciamento de aplicativos usando o Company Portal e a Windows Store. Os candidatos serão avaliados em segurança do Windows 10 e recursos integrados do Azure.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=70-797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
 locales:
 - en
 levels:
