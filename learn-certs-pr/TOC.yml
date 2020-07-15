@@ -4,8 +4,10 @@
   href: deals.md
 - name: Licenciamento por volume
   href: volume-licensing-program.md
+- name: Parceiro de Aprendizagem Microsoft.
+  href: partners.md
 - name: Certificações, exames e cursos desativados
-  expanded: false
+  expanded: falso
   items:
   - name: Certificações desativadas
     href: retired-certifications.md
@@ -15,11 +17,17 @@
     href: retired-courses.md
 - name: Torne-se um Microsoft Certified Trainer
   href: mct-certification.md
-- name: Sobre Microsoft Certification exams
+- name: Sobre os exames de certificação da Microsoft
   href: certification-exams.md
-- name: Sobre exames online
+- name: Selos de certificação de exame da Microsoft
+  href: badges.md
+- name: Sobre os exames online
   href: online-exams.md
 - name: Políticas de exames e perguntas frequentes
   href: certification-exam-policies.md
 - name: Ajuda para certificação
   href: help.md
+- name: Perguntas frequentes sobre o programa de certificação da Microsoft 
+  href: microsoft-certification-program-faqs.md
+- name: Transferindo o Microsoft Learning...
+  href: learnfaq.md
