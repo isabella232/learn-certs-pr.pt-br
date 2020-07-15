@@ -1,0 +1,39 @@
+### YamlMime:Certification
+title: 'MTA: Introduction to Programming Using Java'
+metadata:
+  title: 'MTA: Introduction to Programming Using Java'
+  description: 'MTA: Introduction to Programming Using Java'
+uid: certification.mta-introduction-to-programming-using-java
+iconUrl: /media/learn/certification/badges/mta-badge.svg
+summary: |-
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  
+  As certificações MTA são um excelente ponto de partida se você deseja entrar no ramo da tecnologia. As certificações MTA abrangem um amplo espectro de conceitos técnicos fundamentais, avaliam e validam o conhecimento técnico essencial e aumentam a credibilidade técnica. Note&#58; Os exames MTA não o qualificam para a certificação MCP e também não são pré-requisito para as certificações MCSA ou MCSD.
+subTitle: 'As certificações MTA são um excelente ponto de partida se você deseja entrar no ramo da tecnologia. As certificações MTA abrangem um amplo espectro de conceitos técnicos fundamentais, avaliam e validam o conhecimento técnico essencial e aumentam a credibilidade técnica. Note: Os exames MTA não o qualificam para a certificação MCP e também não são pré-requisito para as certificações MCSA ou MCSD.'
+levels:
+- beginner
+skills:
+- nenhuma
+roles:
+- developer
+type: mta
+products:
+- vs
+exams:
+- uid: exam.98-388
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx

@@ -21,28 +21,34 @@ O exame de certificação gratuito estará disponível para resgate a partir de 
 
 Siga as instruções passo a passo abaixo para solicitar seu exame gratuito.
 
-**Passo 1:** Selecione um dos [exames de qualificação](#eligible-exams) e clique no botão "Agendar exame" para iniciar o processo de registro online.
+**Passo 1:** Selecione um dos [exames elegíveis](#eligible-exams-for-this-offer) e clique no botão "Agendar exame" para iniciar o processo de registro on-line.  
 ![Agendar exame](images/step1.png)
 
 **Passo 2:** Entre no seu Perfil de Certificação Microsoft existente ou crie um usando uma conta da Microsoft.  
 ![Entrar com a conta Microsoft](images/step-2-2x.png)
 
-**Passo 3:** Depois de fazer login no seu perfil de certificação, verifique se os detalhes no seu perfil de certificação estão corretos.
+**Passo 3:** Depois de fazer login no seu perfil de certificação, verifique se os detalhes no seu perfil de certificação estão corretos.  
 ![Confirmar os detalhes no perfil de certificação da Microsoft](images/step3.png)
 
-**Passo 4:** Clique no botão “Salvar e continuar” na parte inferior da página Perfil de Certificação para prosseguir para a página “Descontos para exames”.
+**Passo 4:** Clique no botão “Salvar e continuar” na parte inferior da página Perfil de Certificação para prosseguir para a página “Descontos para exames”.  
 ![Clicar no botão Salvar e continuar na parte inferior da página Perfil de certificação](images/step-4-2x.png)
 
-**Passo 5:** Na página “Descontos para exames”, selecione o evento em que participou e clique no botão “Verificar conta”.
-![Clicar no botão Verificar conta na página de descontos para exames](images/step5.png)
+**Passo 5:** Na página "Descontos no exame", digite o e-mail que você usou para se registrar em um evento (por exemplo: alias@company.com ou alias@outlook.com).  
+![Digite o e-mail usado para se registrar em um evento](images/step5-1-enter-email.png)
 
-**Passo 6:** Ao verificar sua conta, você deve se autenticar usando a conta sada para o registro de eventos (Observação: se você usou uma conta da Microsoft para registro de eventos, deve usar a mesma conta da Microsoft para fazer login no seu perfil de certificação e agendar seu exame. Se isso resultar em dois Perfis de Certificação, entre em contato com [suporte da Certificação Microsoft](https://trainingsupport.microsoft.com/en-us/mcp/forum) para mesclar seus perfis depois de preencher o exame.)
+**Passo 6:** Se você tiver direito a um desconto no exame, receberá um e-mail de verificação no endereço informado. Você deve digitar a senha que recebeu por e-mail para continuar. Se você não receber um e-mail, poderá solicitar o reenvio do código.  
+![Digite a senha recebida no e-mail](images/step6-enter-passcode.png)
 
-![Autenticar usando a mesma conta social para verificar a conta](images/step6.png)
+**Passo 7:** Depois de digitar a senha correta, você será solicitado a vincular suas contas. Você DEVE concordar em vincular suas contas para receber um desconto.  
+![Vincule contas para receber descontos](images/step7-linkmodal.png)
 
-**Passo 7:** Siga as informações nas telas subsequentes e forneça os detalhes necessários para agendar seu exame. Durante a finalização da compra, verifique se o valor total devido é de $ 0,00 e envie o pedido.
+Na próxima vez que fizer login, se tiver direito a descontos nos exames em qualquer uma dessas contas, os descontos serão exibidos automaticamente. Para remover uma conta, vá para o [Painel de certificação](https://aka.ms/certdashboard) e clique em “Edite seu perfil de certificação”.
 
-![Forneça os detalhes necessários para agendar seu exame](images/step7.png)
+**Passo 8:** Você verá um desconto mostrado na parte superior. Escolha o desconto que deseja utilizar e continue com a finalização da compra clicando no botão do exame agendado.  
+![Escolha o desconto e continue clicando no botão do exame agendado](images/step8-coupon.png)
+
+**Passo 9:** Siga as informações nas telas subsequentes e forneça os detalhes necessários para agendar seu exame. Durante o processo de finalização da compra, verifique o montante total devido é de $0,00 e envie o pedido.  
+![Vincule as contas para receber descontos](images/step9.png)
 
 ### Suporte para certificação:
 

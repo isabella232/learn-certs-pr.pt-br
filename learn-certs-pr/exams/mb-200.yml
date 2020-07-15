@@ -8,10 +8,10 @@ displayName: MB-200
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 1 de maio de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em quarta-feira, 1 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
   </div>
 
-  Os candidatos a este exame são consultores funcionais que têm acesso aos recursos e funcionalidades do produto licenciado da empresa. Como consultor funcional, o candidato está ciente das versões integradas dos recursos, mas não trabalha principalmente com esses pacotes de produtos.
+  Os candidatos a este exame são consultores funcionais que têm acesso aos recursos e funcionalidades do produto licenciado da empresa. Como consultor funcional, o candidato está ciente das versões integradas dos recursos, mas não trabalha principalmente com esses produtos agrupados.
 
   Os candidatos são os principais responsáveis por configurar o sistema para atender às necessidades do cliente, executar tarefas de design relacionadas à implementação de novos recursos e funcionalidades e implementar e testar alterações no sistema.
 
@@ -27,13 +27,13 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 1 de maio de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- O conteúdo deste exame foi atualizado em quarta-feira, 1 de julho de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
 - Realizar descoberta, planejamento e análise (5-10%)
 - Gerenciar o projeto da experiência do usuário (20-25%)
 - Gerenciar entidades e dados (15-20%)
 - Implementar a segurança (5-10%)
 - Implementar a integração (15-20%)
-- Executar a implementação e teste de soluções (25-30%)
+- Realizar a implementação e testes de soluções (25-30%)
 roles:
 - functional-consultant
 products:
@@ -72,7 +72,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos  exames de certificação
+- title: Apoio aos exames de certificação
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
