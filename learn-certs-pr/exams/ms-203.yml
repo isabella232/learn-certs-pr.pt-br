@@ -32,6 +32,8 @@ roles:
 - administrator
 products:
 - m365
+courses:
+- uid: course.ms-203t00
 relatedCertifications:
 - related:
     uid: certification.m365-messaging-administrator
@@ -45,7 +47,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos  exames de certificação
+- title: Apoio aos exames de certificação
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

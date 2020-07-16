@@ -8,7 +8,7 @@ displayName: MB-210
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 1 de maio de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em quarta-feira, 1 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
   </div>
 
   Os candidatos a este exame são consultores funcionais do Dynamics 365 com experiência de vendas. Os candidatos são responsáveis pela implementação de soluções que suportam um ciclo de vida de vendas a serem executados de forma eficiente e eficaz para atender às metas de receita, estratégias de negócios e objetivos da empresa.
@@ -25,7 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 1 de maio de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- O conteúdo deste exame foi atualizado em quarta-feira, 1 de julho de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
 - Realizar a configuração (40-45%)
 - Gerenciar principais entidades de vendas (20-25%)
 - Gerenciar entidades de vendas (35-40%)
@@ -58,7 +58,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos  exames de certificação
+- title: Apoio aos exames de certificação
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
