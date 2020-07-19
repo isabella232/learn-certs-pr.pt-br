@@ -13,14 +13,21 @@ locales:
 levels:
 - beginner
 roles:
+- administrator
+- ai-engineer
+- data-analyst
+- data-engineer
+- data-scientist
+- database-administrator
 - developer
+- security-engineer
 products:
 - azure
 exams:
 - uid: exam.az-900
 summary: |-
   Este curso de dois dias fornecerá conhecimento de nível fundamental sobre conceitos de nuvem; serviços principais do Azure; segurança, privacidade, conformidade e confiança; e preços e suporte do Azure.
-  Observação: Este curso fornece um passe e tempo do Azure para os alunos participarem de laboratórios práticos. Se você não precisa de experiência prática, considere o AZ-900T01: Curso Microsoft Azure Fundamentals (1 dia). O conteúdo dos dois cursos está alinhado ao domínio objetivo do exame AZ-900.
+  Observação&#58; Este curso fornece um passe e tempo do Azure para os alunos participarem de laboratórios práticos. Se você não precisa de experiência prática, considere o AZ-900T01&#58; Curso Microsoft Azure Fundamentals (1 dia). O conteúdo dos dois cursos está alinhado ao domínio objetivo do exame AZ-900.
 
   #### Perfil do público
   Este curso é adequado para a equipe de TI que está começando a trabalhar com o Azure. Esse público-alvo deseja conhecer nossas ofertas e obter experiência prática com o produto. Este curso usa principalmente o portal do Azure para criar serviços e não requer habilidades de script.  Os alunos deste curso ganharão confiança para realizar outros cursos e certificações com base em funções, como o Azure Administrator. Este curso fornece um passe do Azure e um ambiente de laboratório opcional. Este curso combina palestras, demonstrações e laboratórios práticos.  Este curso também ajudará a preparar alguém para o exame AZ -900.
@@ -111,12 +118,11 @@ outlineSection: |-
   - Descrever normas de privacidade, conformidade e de proteção de dados.
 
 
-  ### Módulo 4&#58; Tabela de preços e suporte do Azure
+  ### Módulo 4&#58; Preço do Azure, acordos de nível de serviço (SLAs) e ciclo de vida
   Neste módulo, você aprenderá sobre assinaturas do Azure, planejamento e gerenciamento de custos, opções de suporte, SLAs e ciclos de vida do serviço.
   #### Lições
   - Assinaturas do Azure
   - Planejamento e gerenciamento de custos
-  - Opções de suporte do Azure
   - Acordos de nível de serviço (SLAs)
   - Ciclo de vida dos serviços no Azure
 
@@ -125,14 +131,13 @@ outlineSection: |-
 
   #### Laboratório &#58; Passo a passo&#58; Usar a Calculadora de TCO do Azure
 
-  #### Laboratório &#58; Passo a passo&#58; Abra uma solicitação de suporte
-
   #### Laboratório &#58; Passo a passo&#58; Calcular SLAs compostos
 
   #### Laboratório &#58; Passo a passo&#58; Acessar os recursos da Visualização do Azure
+
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Usar uma assinatura Azure.
   - Planejar e gerenciar custos.
-  - Opções de suporte do Azure
   - Descrever SLAs do Azure.
   - Explicar os ciclos de vida do serviço do Azure.
+

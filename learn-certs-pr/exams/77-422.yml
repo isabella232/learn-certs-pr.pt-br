@@ -8,17 +8,11 @@ displayName: 77-422
 summary: |-
   <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
 
-  Guia de Estudo MOS 2013 para Microsoft PowerPoint Publicado&#58; outubro 2013
-
   Aprenda a demonstrar sua experiência com o PowerPoint. Pratique e prepare-se para o exame Microsoft Office Specialist (MOS) do PowerPoint 2013 com este guia de estudo completo. Você encontrará cobertura de exames completos para cada objetivo específico, juntamente com procedimentos e ilustrações fáceis de seguir para avaliar as habilidades essenciais. Além disso, possui exercícios práticos para verificar o seu aprendizado. O guia inclui arquivos de exames práticos para download.
-
-  Compre este manual na Microsoft Press Store
-
-  Os candidatos para este exame são profissionais de TI que usam o Office para criar aplicativos seguros e flexíveis.
 subTitle: 'Os candidatos para este exame são profissionais de TI que usam o Office para criar aplicativos seguros e flexíveis.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXb
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=77-422&examname=PowerPoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-422
 locales:
 - en
 - zh-cn
@@ -34,13 +28,14 @@ locales:
 - pl
 - pt-br
 - ru
+- ar-sa
 levels:
 - beginner
 skills:
 - Criar e gerenciar apresentações
 - Inserir e formatar formas e slides
 - Criar conteúdo do slide
-- plicar transições e animações
+- Aplicar transições e animações
 - Gerenciar diversas apresentações
 roles:
 - business-user
