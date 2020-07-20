@@ -14,7 +14,9 @@ summary: |-
 subTitle: Os candidatos para este exame devem ter conhecimento dos conceitos fundamentais do sistema operacional Windows em um ambiente do Windows 10.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiy8
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=98-349&examname=Windows%20Operating%20System%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-349
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn

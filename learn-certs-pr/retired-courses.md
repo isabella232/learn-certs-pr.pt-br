@@ -13,6 +13,8 @@ ms.author: micsullivan
 
 As tabelas a seguir listam os cursos que estão desativados ou que serão desativados em breve. Após a data de desativação, os cursos não serão mais vendidos.
 
+Se você estiver procurando por cursos do MOC On-Demand desativados, siga o link: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+
 ## Cursos desativados: Treinamento ministrado por instrutor
 
 * Cursos desativados em 30 de Junho de 2020
@@ -112,7 +114,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 21331 | B | Konfigurieren und Verwalten von Microsoft® SharePoint 15 | alemão | 06/30/2020 |
     | 21341 | B | Kernlösungen von Microsoft® Exchange Server 2013 | Inglês | 30/06/2020 |
     | 21415 | B | Implementieren von Umgebungen für Desktopanwendungen | alemão | 06/30/2020 |
-    | 21416 | B | Implementieren von Umgebungen für Desktopanwendungen | alemão | 06/30/2020 |
+    | 21416 | B | Implementieren von Umgebungen für Desktopanwendungen | alemão | 30/06/2020 |
     | 21687 | B | Konfigurieren von Windows® 8 | alemão | 06/30/2020 |
     | 21688 | A | Verwalten und Warten von Windows® 8 | alemão | 06/30/2020 |
     | 21689 | A | Erweitern der Kenntnisse auf MCSA für Windows 8 | alemão | 06/30/2020 |
@@ -388,12 +390,12 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
-    | 40536 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | Inglês | 01/5/2019
-    | 40537 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | Inglês | 01/5/2019
-    | 40538 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms | Inglês | 01/5/2019
-    | 40539 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | Inglês | 01/5/2019
-    | 40540 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | Inglês | 01/5/2019
-    | 40541 | A | Build native cross-platform mobile apps with a shared C# business logic for iOS, Android, and UWP in C# .NET with Xamarin and Visual Studio | Inglês | 01/5/2019
+    | 40536 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | Inglês | 01/05/2019
+    | 40537 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | Inglês | 01/05/2019
+    | 40538 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms | Inglês | 01/05/2019
+    | 40539 | A | Build iOS apps with C# and .NET using the Xamarin tools for Visual Studio | Inglês | 01/05/2019
+    | 40540 | A | Build Android apps with C# and .NET using the Xamarin tools for Visual Studio | Inglês | 01/05/2019
+    | 40541 | A | Build native cross-platform mobile apps with a shared C# business logic for iOS, Android, and UWP in C# .NET with Xamarin and Visual Studio | Inglês | 01/05/2019
     | 40542 | A | Build native cross-platform mobile apps with a shared UI for iOS, Android, and UWP in C# .NET with Xamarin.Forms (retirando em 01-mai-19) | Inglês | 01/5/2019
     | AZ-200T01 | A | Select the appropriate Azure technology development solution | Inglês | 01/5/2019
     | AZ-200T02 | A | Develop for Azure storage | Inglês | 01/5/2019
@@ -506,7 +508,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 50572 | A | Premier Support for Lync Partners Tier 1 | Inglês | 31/07/2018
     | 50573 | A | Premier Support for Lync Partners Tier 2 | Inglês | 31/07/2018
 
-* Cursos desativados em 30 de junho de 2018
+* Cursos desativados em sábado, 30 de junho de 2018
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
@@ -519,7 +521,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | alemão | 30/6/2018
     | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | francês | 30/6/2018
     | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | alemão | 30/6/2018
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003: services réseau | francês | 30/6/2018
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | francês | 30/6/2018
     | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | alemão | 30/6/2018
     | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | francês | 30/6/2018
     | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | português | 30/6/2018
@@ -706,7 +708,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 80630 | A | Service clientèle dans Microsoft Dynamics® CRM 2013 | francês | 30/6/2018
     | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (japonês) | japonês | 30/6/2018
 
-* Cursos desativados em 30 de março de 2018
+* Cursos desativados em sexta-feira, 30 de março de 2018
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
@@ -721,7 +723,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 40441 | A | Designing and Implementing Cloud Data Platform Solutions | Inglês | 31/01/2018
     | 40442 | A | MOC Workshop: Architecting Microsoft Azure Solutions | Inglês | 31/01/2018
 
-* Cursos desativados em 30 de junho de 2017
+* Cursos desativados em sexta-feira, 30 de junho de 2017
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
@@ -765,7 +767,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | --- | --- | --- | --- | --- |
     | 10978 | A | Introduction to Azure for Developers | Inglês | 15/4/2017
 
-* Cursos desativados em 31 de março de 2017
+* Cursos desativados em sexta-feira, 31 de março de 2017
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
@@ -799,7 +801,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 80576 | A | Fixed Assets in Microsoft Dynamics GP 2013 | Inglês | 31/3/2017
     | 80450 | A | Delivering Microsoft Dynamics Solutions with Sure Step | Inglês | 31/3/2017
 
-* Cursos desativados em 31 de dezembro de 2016
+* Cursos desativados em sábado, 31 de dezembro de 2016
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
@@ -855,26 +857,26 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 80565 | A | Microsoft Dynamics AX 2012 中的供应链基础 | simplificado chinês | 31/12/2016
     | 80569 | A | Microsoft Dynamics AX 2012 中的财务 I | simplificado chinês | 31/12/2016
 
-* Cursos desativados em 31 de outubro de 2016
+* Cursos desativados em segunda-feira, 31 de outubro de 2016
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
     | 10983 | A | Upgrading Your Skills to Windows Server 2016 | Inglês | 31/10/2016
     | 20497 | A | Software Testing with Visual Studio 2013 | Inglês | 31/10/2016
 
-* Cursos desativados em 15 de agosto de 2016
+* Cursos desativados em segunda-feira, 15 de agosto de 2016
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
     | 10968 | B | Designing for Office 365 Infrastructure | Inglês | 15/8/2016
 
-* Cursos desativados em 1 de agosto de 2016
+* Cursos desativados em segunda-feira, 1 de agosto de 2016
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
-    | 10747 | D | Administering System Center 2012 Configuration Manager | Inglês | 1/8/2016
+    | 10747 | D | Administering System Center 2012 Configuration Manager | Inglês | 01/8/2016
 
-* Cursos desativados em 24 de junho de 2016
+* Cursos desativados em sexta-feira, 24 de junho de 2016
 
   [Baixe a lista completa de cursos de e-learning desativados](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
@@ -884,7 +886,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | --- | --- | --- | --- | --- |
     | 20346 | D | Managing Office 365 Identities and Services | Inglês | 15/6/2016
 
-* Cursos desativados em 18 de abril de 2016
+* Cursos desativados em segunda-feira, 18 de abril de 2016
 
     | Número do curso | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
@@ -910,11 +912,11 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 12 | Office 2010 Running Start: Demonstration Sessions | alemão | 18/4/2016
     | 11 | Office 2010 Running Start: Demonstration Sessions | Inglês | 18/4/2016
 
-* Cursos desativados em 31 de dezembro de 2015
+* Cursos desativados em quinta-feira, 31 de dezembro de 2015
 
   [Baixe a lista completa de cursos presenciais desativados](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
-* Cursos desativados em 31 de agosto de 2015
+* Cursos desativados em segunda-feira, 31 de agosto de 2015
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
@@ -931,11 +933,11 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 50430 | B | Administering Team Foundation Server 2010 | Inglês | 31/08/2015
     | 50523 | A | Deploying the Optimized Desktop with Windows 7 and Office 2010 | Inglês | 31/8/2015
 
-* Cursos desativados em 30 de junho de 2015
+* Cursos desativados em terça-feira, 30 de junho de 2015
 
   [Baixe a lista completa de cursos presenciais desativados](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
-* Cursos desativados em 31 de janeiro de 2015
+* Cursos desativados em sábado, 31 de janeiro de 2015
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
@@ -944,14 +946,14 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 10777 | A | Implementing a Data Warehouse with Microsoft SQL Server 2012 | Inglês | 31/1/2015
     | 10778 | A | Implementing Data Models and Reports with Microsoft SQL Server 2012 | Inglês | 31/1/2015
 
-* Cursos desativados em 31 de outubro de 2014
+* Cursos desativados em sexta-feira, 31 de outubro de 2014
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
     | 10750 | A | Monitoring and Operating a Private Cloud with System Center 2012 | Inglês | 31/10/2014
     | 10751 | A | Configuring and Deploying a Private Cloud with System Center 2012 | Inglês | 31/10/2014
 
-* Cursos desativados em 25 de agosto de 2014
+* Cursos desativados em segunda-feira, 25 de agosto de 2014
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
@@ -965,7 +967,7 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
     | 6464 | A | Visual Studio 2008: ADO.NET 3.5 | Inglês | 25/8/2014
     | 10953 | A | HTML5 Programming | Inglês | 25/8/2014
 
-* Cursos desativados em 31 de dezembro de 2013
+* Cursos desativados em terça-feira, 31 de dezembro de 2013
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
@@ -1024,23 +1026,23 @@ As tabelas a seguir listam os cursos que estão desativados ou que serão desati
 
 ## Cursos desativados: Aprendizagem on-line
 
-* Cursos desativados em 29 de dezembro de 2017
+* Cursos desativados em sexta-feira, 29 de dezembro de 2017
 
   * [Baixe a lista completa de cursos de SA e-learning desativados](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
   * [Baixe a lista completa de cursos de MSIA e-learning desativados](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
-* Cursos desativados em 15 de agosto de 2017
+* Cursos desativados em terça-feira, 15 de agosto de 2017
 
     | Número do curso | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- |
     | 47003 | Windows Server 2012 Jumpstart | Inglês | 15/8/2017 |
 
-* Cursos desativados em 30 de junho de 2017
+* Cursos desativados em sexta-feira, 30 de junho de 2017
 
   * [Baixe a lista completa de cursos de SA e-learning desativados](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
   * [Baixe a lista completa de cursos de MSIA e-learning desativados](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
-* Cursos desativados em 30 de junho de 2015
+* Cursos desativados em terça-feira, 30 de junho de 2015
 
   * [Baixe a lista completa de cursos de e-learning desativados](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 

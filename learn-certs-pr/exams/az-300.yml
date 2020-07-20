@@ -8,7 +8,7 @@ displayName: AZ-300
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>UMA NOVA VERSÃO DESTE EXAME, <a href="/learn/certifications/exams/az-303">AZ-303</a>, ESTARÁ DISPONÍVEL EM OU PRÓXIMO A 29 DE JUNHO DE 2020. Você poderá fazer esse exame até que seja desativado na data aproximada de 30 de setembro de 2020.<br/><br/>Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>UMA NOVA VERSÃO DESTE EXAME, <a href="/learn/certifications/exams/az-303">AZ-303</a>, FICOU DISPONÍVEL EM segunda-feira, 29 de junho de 2020. Você poderá fazer esse exame até que ele seja retirado em 30 de setembro de 2020 ou por volta disso. OBSERVAÇÃO&#58; O exame será desativado às 23&#58;59 Horário Central Padrão.<br/><br/></div>
   </div>
 
   Os candidatos a este exame devem ter experiência no design e implementação de soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança.
@@ -18,6 +18,8 @@ summary: |-
   O Azure Solution Architect trabalha em parceria com administradores e DBAs de nuvem e clientes para a implementação de soluções.
 
   O candidato a este exame deve ter experiência e conhecimento avançados em vários aspectos das operações de TI, incluindo rede, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança (esta função deve ser capaz de administrar o modo como as decisões em cada área podem afetar uma solução global). Além disso, a função deve ser proficiente em pelo menos um desses domínios de conhecimento do Azure&#58; administração, desenvolvimento ou DevOps.
+
+  <div style='font-weight&#58; bold;'><br/>Observação&#58; Você receberá a seguinte certificação se for aprovado neste exame&#58; <a href="/learn/certifications/azure-solutions-architect">Microsoft Certified&#58; Azure Solutions Architect Expert</a>.</div>
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: implantar e configurar a infraestrutura, implementar cargas de trabalho e segurança; criar e implantar aplicativos, implementar autenticação e dados seguros; e desenvolver para o armazenamento em nuvem e Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
@@ -31,7 +33,7 @@ locales:
 levels:
 - advanced
 skills:
-- UMA NOVA VERSÃO DESTE EXAME, AZ-303, ESTARÁ DISPONÍVEL EM OU PRÓXIMO A 29 DE JUNHO DE 2020. Você poderá fazer esse exame até que ele seja retirado em quarta-feira, 30 de setembro de 2020 ou por volta disso. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
+- UMA NOVA VERSÃO DESTE EXAME, AZ-303, FICOU DISPONÍVEL EM segunda-feira, 29 de junho de 2020. Você poderá fazer esse exame até que ele seja retirado em 30 de setembro de 2020 ou por volta disso. Faça o download do documento de habilidades medido abaixo para ver informações detalhadas sobre as alterações.
 - Implementar e configurar infraestrutura (40-45%)
 - Implementar cargas de trabalho e segurança (25-30%)
 - Criar e implementar aplicativos (5-10%)
@@ -82,7 +84,7 @@ paths:
 - uid: learn.architect-migration-bcdr
 relatedCertifications:
 - related:
-    uid: certification.azure-solutions-architect
+    uid: none
 resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
@@ -93,7 +95,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos  exames de certificação
+- title: Apoio aos exames de certificação
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

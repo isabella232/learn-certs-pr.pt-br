@@ -12,9 +12,8 @@ summary: |-
 subTitle: O candidato ideal para o exame atua como profissional de suporte ao usuário, instrutor, acadêmico, professor, usuário do banco de dados ou criador do banco de dados que precisa criar ou manter um banco de dados básico do Access. Os usuários podem criar, modificar e estender a funcionalidade de objetos de banco de dados básicos, incluindo tabelas, consultas, formulários e relatórios. Os usuários também podem criar e modificar relações básicas entre entidades de banco de dados e compartilhar o conhecimento com outras pessoas nas funcionalidades e uso básico do Access. O usuário do Access 2010 geralmente é eficiente na criação, modificação e personalização de objetos. Esse candidato é capaz de trabalhar de forma independente em projetos de banco de dados para responder a perguntas de outros usuários sobre bancos de dados. Os candidatos devem conhecer e demonstrar como criar ou modificar um banco de dados simples do Access e usar modelos para criar objetos básicos.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiDl
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=77-885&examname=Access%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-885
 locales:
-- en
 - zh-cn
 - zh-tw
 - de
@@ -22,6 +21,7 @@ locales:
 - ja
 - ko
 - nl
+- ar-sa
 - pt-br
 levels:
 - beginner
