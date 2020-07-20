@@ -31,7 +31,6 @@ locales:
 - it
 - ja
 - ko
-- nb
 - nl
 - pl
 - pt-br
@@ -46,7 +45,7 @@ skills:
 - Inserir e formatar texto, formas e imagens (20-25%)
 - Inserir tabelas, gráficos, SmartArt e mídia (20-25%)
 - Aplicar transições e animações (10-15%)
-- Gerenciar múltiplas apresentações (5-10%)
+- Gerenciar diversas apresentações (5-10%)
 roles:
 - developer
 products:

@@ -5,7 +5,17 @@ metadata:
   description: 'Exam DP-201: Designing an Azure Data Solution'
 uid: exam.dp-201
 displayName: DP-201
-summary: "<div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>  \r\n  \r\nOs candidatos a este exame são engenheiros de dados do Microsoft Azure que colaboram com as partes interessadas da empresa para identificar e atender aos requisitos de dados para implementar soluções que usam os serviços de dados do Azure.\r\n\r\nOs engenheiros de dados do Azure são responsáveis por tarefas relacionadas a dados que incluem o projeto de soluções de armazenamento de dados do Azure que usam repositórios de dados relacionais e não relacionais, soluções de processamento de dados em tempo real e em lote e soluções de conformidade e segurança de dados.\r\n\r\nOs candidatos a este exame devem criar soluções de dados que usem os seguintes serviços do Azure&#58; Azure Cosmos DB, Banco de Dados SQL do Azure, Azure Synapse Analytics, Armazenamento do Data Lake do Azure, Azure Data Factory, Azure Data Analytics, Azure Stream Analytics, Databricks do Azure e armazenamento de Blob do Azure."
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>O conteúdo deste exame será atualizado em sexta-feira, 31 de julho de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
+  </div>
+
+  Os candidatos a este exame são engenheiros de dados do Microsoft Azure que colaboram com as partes interessadas da empresa para identificar e atender aos requisitos de dados para implementar soluções que usam os serviços de dados do Azure.
+
+  Os engenheiros de dados do Azure são responsáveis por tarefas relacionadas a dados que incluem o projeto de soluções de armazenamento de dados do Azure que usam repositórios de dados relacionais e não relacionais, soluções de processamento de dados em tempo real e em lote e soluções de conformidade e segurança de dados.
+
+  Os candidatos a este exame devem criar soluções de dados que usem os seguintes serviços do Azure&#58; Azure Cosmos DB, Azure Synapse Analytics, Armazenamento do Data Lake do Azure, Azure Data Factory, Azure Data Analytics, Azure Stream Analytics, Databricks do Azure e armazenamento de Blob do Azure.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: projetar soluções de armazenamento de dados do Azure, projetar soluções de processamento de dados e projetar sistemas de segurança e conformidade de dados.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
@@ -19,9 +29,10 @@ locales:
 levels:
 - intermediate
 skills:
-- Desenvolver soluções de armazenamento de dados do Azure (40-45%)
-- Desenvolver soluções de processamento de dados (25-30%)
-- Desenvolver o acesso aos dados e a proteção (25-30%)
+- O conteúdo deste exame será atualizado em sexta-feira, 31 de julho de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
+- Projetar soluções de armazenamento de dados do Azure (40-45%)
+- Projetar soluções de processamento de dados (25-30%)
+- Projetar para segurança de dados e conformidade (25-30%)
 roles:
 - data-engineer
 products:
@@ -61,7 +72,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos  exames de certificação
+- title: Apoio aos exames de certificação
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

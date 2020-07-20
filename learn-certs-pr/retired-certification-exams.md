@@ -59,7 +59,7 @@ Encontre os exames agendados para serem desativados nos próximos 12 meses, list
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
 
-| Será desativado em quarta-feira, 30 de setembro de 2020 | |
+| Será desativado em 30 de setembro de 2020 | |
 | --- | --- |
 | [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx): Microsoft Azure Architect Technologies |  |
 | [AZ-301](https://www.microsoft.com/learning/exam-AZ-301.aspx): Microsoft Azure Architect Design |  |
@@ -73,15 +73,11 @@ Encontre os exames agendados para serem desativados nos próximos 12 meses, list
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
-| Será desativado em 30 de junho de 2020 | |
-| --- | --- |
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
-
 ## Exames desativados recentemente
 
 Para fins de referência, os testes desativado dentro do último ano terão um link para a página de detalhes do teste por um período de 12 meses.
 
-| ITPro/Developer| | |
+| Role-based| | |
 | --- | --- | --- |
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 1° de maio de 2019
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 1° de maio de 2019
@@ -92,6 +88,11 @@ Para fins de referência, os testes desativado dentro do último ano terão um l
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 30 de junho de 2019
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 30 de setembro de 2019
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 30 de setembro de 2019
+
+<br/>
+
+| ITPro/Developer| | |
+| --- | --- | --- |
 | 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 31 de dezembro de 2017
 | 70-247 | Configuring and Deploying a Private Cloud | 31 de dezembro de 2017
 | 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 31 de março de 2019
@@ -112,7 +113,7 @@ Para fins de referência, os testes desativado dentro do último ano terão um l
 | 70-532 | Developing Microsoft Azure Solutions | 31 de dezembro de 2018
 | 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 31 de dezembro de 2018
 | 70-534 | Architecting Microsoft Azure Solutions | 31 de dezembro de 2017
-| 70-535 | Architecting Microsoft Azure Solutions | 31 de dezembro de 2018
+| 70-535 | Architecting Microsoft Azure Solutions | segunda-feira, 31 de dezembro de 2018
 | 70-680 | Windows 7, Configuring | 31 de julho de 2018
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 31 de julho de 2018
 | 70-686 | Windows 7, Administrador de Desktop corporativo | 31 de julho de 2018
@@ -130,6 +131,7 @@ Para fins de referência, os testes desativado dentro do último ano terão um l
 | [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 31 de julho de 2019
 | 74-344| Gerenciamento de programas e projetos com Project Server 2013|  31 de dezembro de 2017
 | 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 31 de julho de 2018
+| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx) | Microsoft SharePoint 2013 |  30 de junho de 2020
 | [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 30 de setembro de 2019
 | [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | 7 de agosto de 2019
 
@@ -469,10 +471,10 @@ Para fins de referência, os testes desativado dentro do último ano terão um l
 | MB3-637 | GP 10.0 Manufacturing Applications | 31 de dezembro de 2013
 | MB3-700 | Microsoft Dynamics GP 2013 Installation & Configuration | 31 de julho de 2015
 | MB3-701 | Microsoft Dynamics GP 2013 Financials | sexta-feira, 31 de julho de 2015
-| MB3-859 | Microsoft Dynamics GP 2010 Financials | quarta-feira, 31 de dezembro de 2014
-| MB3-860 | Microsoft Dynamics GP 2010 Project Series | quarta-feira, 31 de dezembro de 2014
-| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | quarta-feira, 31 de dezembro de 2014
-| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | quarta-feira, 31 de dezembro de 2014
+| MB3-859 | Microsoft Dynamics GP 2010 Financials | 31 de dezembro de 2014
+| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 31 de dezembro de 2014
+| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | 31 de dezembro de 2014
+| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 31 de dezembro de 2014
 | MB4-348 | SL 6.5 Financials | 31 de março de 2011
 | MB4-349 | SL 6.5 Installation & Configuration | 31 de março de 2011
 | MB4-534 | SL 7.0 Installation & Configuration | terça-feira, 31 de dezembro de 2013

@@ -8,16 +8,19 @@ displayName: AZ-304
 summary: |-
   <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
 
-  Os candidatos a este exame são Azure Solution Architects que aconselham as partes interessadas ​e traduzem os requisitos de negócios em soluções seguras, escalonáveis e confiáveis.
+  Os candidatos a este exame devem ter experiência no design e implementação de soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança.
 
-  Os candidatos devem ter experiência e conhecimento avançados de TI, incluindo rede, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança. Essa função requer o gerenciamento de como as decisões em cada área afetam uma solução geral.
+  As responsabilidades de um Azure Solution Architect incluem consultoria aos profissionais envolvidos e adaptação dos requisitos de negócios em soluções em nuvem seguras, escaláveis e confiáveis.
 
-  Os candidatos devem ter habilidades de nível de especialista na administração do Azure e experiência nos processos de desenvolvimento do Azure e nos processos de DevOps.
+  O Azure Solution Architect trabalha em parceria com administradores e DBAs de nuvem e clientes para a implementação de soluções.
 
-  <div style='font-weight&#58; bold;'><br/>Observação&#58; Este exame estará disponível por volta de 29 de junho de 2020.</div>
+  O candidato a este exame deve ter experiência e conhecimento avançados em operações de TI, incluindo redes, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança (esta função deve ser capaz de administrar o modo como as decisões em cada área podem afetar uma solução global). Além disso, essa função deve ter habilidades de nível de especialista em administração do Azure e experiência no desenvolvimento do Azure e nos processos de DevOps.
+
+  <div style='font-weight&#58; bold;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</div>
 subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: monitoramento de projeto; projetar identidade e segurança; armazenamento de dados de design; continuidade de negócios de design; e infraestrutura de design.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWz
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
 locales:
 - en
 levels:
@@ -32,9 +35,13 @@ roles:
 - solution-architect
 products:
 - azure
+exams:
+- uid: exam.az-303
+courses:
+- uid: course.az-304t00
 relatedCertifications:
 - related:
-    uid: none
+    uid: certification.azure-solutions-architect
 resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
@@ -45,7 +52,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos  exames de certificação
+- title: Apoio aos exames de certificação
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

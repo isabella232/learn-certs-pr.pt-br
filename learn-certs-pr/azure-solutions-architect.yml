@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
   title: 'Microsoft Certified: Azure Solutions Architect Expert'
-  description: 'Os Azure Solution Architects projetam e implementam soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança.'
+  description: Os Azure Solutions Architects projetam e implementam soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança.
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
@@ -12,24 +12,22 @@ summary: |-
 
   As responsabilidades da função incluem consultoria aos profissionais envolvidos e adaptação dos requisitos de negócios em soluções em nuvem seguras, escaláveis e confiáveis.
 
-  O Azure Solutions Architect trabalha em parceria com administradores e DBAs de nuvem e clientes para a implementação de soluções.
+  O Azure Solution Architect trabalha em parceria com administradores e DBAs de nuvem e clientes para a implementação de soluções.
 
-  O candidato a esta certificação deve ter experiência e conhecimento avançados em vários aspectos das operações de TI, incluindo rede, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança (esta função deve ser capaz de administrar o modo como as decisões em cada área podem afetar uma solução global). Além disso, a função deve ser proficiente em pelo menos um desses domínios de conhecimento do Azure&#58; administração, desenvolvimento ou DevOps.
-subTitle: Os Azure Solution Architects projetam e implementam soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança.
+  O candidato a essa certificação deve ter experiência e conhecimento avançados em operações de TI, incluindo redes, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança (esta função deve ser capaz de administrar o modo como as decisões em cada área podem afetar uma solução global). Além disso, essa função deve ter habilidades de nível de especialista em administração do Azure e experiência no desenvolvimento do Azure e nos processos de DevOps.
+subTitle: Os Azure Solutions Architects projetam e implementam soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança.
 levels:
 - advanced
 skills:
-- Implementar e configurar infraestrutura
-- Implementar cargas de trabalho e segurança
-- Criar e implementar aplicativos
-- Implementar a autenticação e dados seguros
-- Desenvolver para a nuvem e para o armazenamento do Azure
-- Determinar os requisitos de carga de trabalho
-- Desenvolver estratégias de identidade e segurança
-- Desenvolver uma solução de plataforma de dados
-- Projetar uma estratégia de continuidade de negócios
-- Desenvolver soluções para implantação, migração e integração
-- Desenvolver uma estratégia de infraestrutura
+- Implementar e monitorar uma infraestrutura do Azure
+- Implementar soluções de gerenciamento e segurança
+- Implementar soluções para aplicativos
+- Implementar e gerenciar plataformas de dados
+- Projetar o monitoramento
+- Projetar identidade e segurança
+- Projetar armazenamento de dados
+- Projetar a continuidade dos negócios
+- Projetar infraestrutura
 roles:
 - solution-architect
 type: role-based
@@ -77,8 +75,8 @@ paths:
 - uid: learn.architect-migration-bcdr
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUW
 exams:
-- uid: exam.az-300
-- uid: exam.az-301
+- uid: exam.az-303
+- uid: exam.az-304
 resources:
 - title: Tabela de certificação do Azure
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.

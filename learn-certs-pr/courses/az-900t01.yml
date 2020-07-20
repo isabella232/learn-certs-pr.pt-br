@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Azure Fundamentals
+title: Microsoft Azure Fundamentals (1 Day)
 metadata:
-  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
-  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals'
+  title: 'Course AZ-900T01-A: Microsoft Azure Fundamentals (1 Day)'
+  description: 'Course AZ-900T01-A: Microsoft Azure Fundamentals (1 Day)'
 uid: course.az-900t01
 courseNumber: 'AZ-900T01-A'
 hoursToComplete: 24
@@ -18,20 +18,25 @@ locales:
 levels:
 - beginner
 roles:
+- administrator
+- ai-engineer
+- data-analyst
+- data-engineer
+- data-scientist
+- database-administrator
 - developer
+- security-engineer
 products:
 - azure
 exams:
 - uid: exam.az-900
 summary: |-
-  Este curso fornecerá conhecimentos básicos de serviços em nuvem e como esses serviços são fornecidos com o Microsoft Azure. O curso pode ser feito como uma primeira etapa opcional para aprender sobre os serviços em nuvem e o Microsoft Azure antes de fazer outros cursos sobre serviços em nuvem do Microsoft Azure ou Microsoft.
+  Este curso de um dia fornecerá conhecimento de nível fundamental sobre conceitos de nuvem, serviços básicos do Azure, segurança, privacidade, conformidade, confiabilidade e preços e suporte do Azure.
 
-  O curso abordará conceitos gerais de computação em nuvem, bem como modelos e serviços gerais de computação em nuvem, como nuvem pública, privada e híbrida e infraestrutura como serviço (IaaS), plataforma como serviço (PaaS) e software como serviço (SaaS).
-
-  Além disso, descreverá alguns serviços e soluções principais do Azure, bem como os principais serviços de pilar do Azure relacionados à segurança, privacidade, conformidade e confiabilidade. Por último, descreverá os serviços de preços e suporte disponíveis no Azure.
+  Observação&#58; Este curso não oferece um Azure Pass ou horário para os alunos participarem de laboratórios práticos. Se você estiver interessado em uma experiência prática de laboratório mais interativa, selecione o curso AZ-900T00&#58; Microsoft Azure Fundamentals (2 dias), que inclui laboratórios práticos orientados por instrutor. O conteúdo dos dois cursos está alinhado ao domínio objetivo do exame AZ-900.
 
   #### Perfil do público
-  Não há pré-requisitos para fazer este curso. Ele se destina a quem deseja saber mais sobre o Microsoft Azure.
+  Este curso é adequado para gerentes de programas e vendas técnicas com um experiência geral em TI. Os estudantes querem aprender sobre nossas ofertas, saber como os componentes são implementados e fazer perguntas sobre produtos e recursos. Este curso não oferece um Azure Pass ou horário para os alunos participarem de atividades práticas. Os estudantes podem obter uma avaliação gratuita e seguir as orientações passo a passo fora da sala de aula. Este curso engloba principalmente palestras e demonstrações. Este curso ajudará a preparar o candidato para o exame AZ-900.
 prerequisitesSection: |-
   Não há pré-requisitos para fazer este curso. A experiência técnica de TI não é exigida, mas requer algum conhecimento ou experiência geral de TI.
 outlineSection: |-
@@ -40,7 +45,7 @@ outlineSection: |-
   #### Lições
   - Objetivos de aprendizado
   - Por que serviços em nuvem?
-  - Infraestrutura como serviço (IaaS), plataforma como serviço (PaaS) e software como serviço (SaaS)
+  - Infraestrutura como um serviço (IaaS), Plataforma como um serviço (PaaS) e Software como um serviço (SaaS)
   - Modelos de nuvem pública, privada e híbrida
 
   Depois de concluir este módulo, os estudantes estarão aptos a&#58;
@@ -56,7 +61,8 @@ outlineSection: |-
   - Ferramentas de gerenciamento do Azure
 
   Depois de concluir este módulo, os estudantes estarão aptos a&#58;
-  - Compreender os principais serviços disponíveis com Microsoft Azure
+  - Compreender os principais serviços disponíveis com
+  Microsoft Azure
 
   ### Módulo 3&#58; Segurança, privacidade, conformidade e confiabilidade
   Neste módulo, você aprenderá sobre segurança, privacidade, conformidade e confiabilidade do Microsoft Azure.
@@ -69,16 +75,15 @@ outlineSection: |-
   - Padrões de privacidade, conformidade e proteção de dados no Azure
 
   Depois de concluir este módulo, os estudantes estarão aptos a&#58;
-  - Compreender a segurança, privacidade, conformidade e confiabilidade do Microsoft Azure
+  - Compreender
+  Segurança, privacidade, conformidade e confiabilidade do Microsoft Azure
 
-  ### Módulo 4&#58; Tabela de preços e suporte do Azure
+  ### Módulo 4&#58; Preço do Azure, acordos de nível de serviço (SLAs) e ciclo de vida
   Neste módulo, você se concentrará nos modelos de preços e suporte disponíveis na Microsoft.
   #### Lições
   - Assinaturas do Azure
   - Planejamento e gerenciamento de custos
-  - Opções de suporte disponíveis no Azure
   - Ciclo de vida dos serviços no Azure
 
   Depois de concluir este módulo, os estudantes estarão aptos a&#58;
-  - Compreender os modelos de preços e suporte disponíveis na Microsoft
-
+  - Compreender os modelos de preços e ciclo de vida de serviço disponíveis na Microsoft

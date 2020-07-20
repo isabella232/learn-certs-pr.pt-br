@@ -12,7 +12,11 @@ summary: |-
 subTitle: Os candidatos a este exame procuram comprovar seus conhecimentos em desenvolvimento de software. Recomenda-se que os candidatos sejam familiarizados com os conceitos e tenham experiência prática com as tecnologias descritas aqui, seja por cursos relevantes ou pelo trabalho com tutoriais e exemplos disponíveis no MSDN e no Microsoft Visual Studio. Os candidatos devem ter experiência com C# ou Microsoft Visual Basic .NET.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIO
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=98-361&examname=Software%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-361
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=98-361&examname=Software%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-361
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn

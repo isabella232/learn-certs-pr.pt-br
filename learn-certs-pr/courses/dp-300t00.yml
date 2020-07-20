@@ -1,0 +1,184 @@
+### YamlMime:Course
+title: Administering Relational Databases on Microsoft Azure
+metadata:
+  title: 'Course DP-300T00-A: Administering Relational Databases on Microsoft Azure'
+  description: 'Course DP-300T00-A: Administering Relational Databases on Microsoft Azure'
+uid: course.dp-300t00
+courseNumber: 'DP-300T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Planejar, implementar e configurar ofertas SQL do Azure
+- skill: Monitorar o desempenho do banco de dados e ajustar um banco de dados e consultas para desempenho ideal
+- skill: Planejar e configurar uma solução de alta disponibilidade
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- database-administrator
+products:
+- azure
+- azure-automation
+- azure-database-mysql
+- azure-database-postgresql
+- azure-sql-database
+- azure-storage
+- azure-virtual-machines
+- sql-server
+exams:
+- uid: exam.dp-300
+summary: |-
+  Este curso fornece aos alunos o conhecimento e as habilidades para administrar uma infraestrutura de banco de dados relacional do SQL Server na nuvem, no local e híbrida e que sejam compatíveis com as ofertas de banco de dados relacional do Microsoft PaaS. Além disso, será útil para indivíduos que desenvolvem aplicativos de entrega de conteúdo de bancos de dados relacionais baseados em SQL.
+
+  #### Perfil do público
+  Este curso destina-se a profissionais de dados que gerenciam dados e bancos de dados que desejam aprender sobre a administração das tecnologias da plataforma de dados disponíveis no Microsoft Azure. Este curso também é útil para arquitetos de dados e desenvolvedores de aplicativos que precisam entender quais tecnologias estão disponíveis para a plataforma de dados com o Azure e como trabalhar com essas tecnologias por meio de aplicativos.
+prerequisitesSection: |-
+  Além de sua experiência profissional, os estudantes que participam desse treinamento devem ter conhecimento técnico equivalente aos seguintes cursos&#58;
+  - Fundamentos do Azure
+  - Azure Data Fundamentals
+outlineSection: |-
+  ### Módulo 1&#58; A função do Azure Database Administrator
+  Este módulo explora o papel de um administrador de banco de dados no ambiente do Azure. Ele também fornece algumas informações fundamentais relevantes para o conteúdo geral. Isso inclui uma revisão das várias opções baseadas no SQL Server (SQL Server em uma VM, instâncias gerenciadas e banco de dados SQL do Azure). Os alunos aprenderão por que o nível de compatibilidade é um conceito crucial ao trabalhar com bancos de dados SQL no Azure. Os estudantes também conhecerão outras plataformas de banco de dados disponíveis no Azure, além daquelas baseadas no SQL Server, em especial no PostgreSQL e MySQL. 
+  #### Lições
+  - Funções da plataforma de dados do Azure
+  - Plataformas e opções de banco de dados do Azure
+  - Níveis de compatibilidade do SQL Server
+  - Recursos de visualização do Azure
+
+
+  #### Laboratório&#58; Usando o Portal do Azure e o SQL Server Management Studio
+  - Provisionar um SQL Server em uma máquina virtual do Azure
+  - Conectar-se ao SQL Server e recuperar um backup
+
+  Depois de concluir este módulo, os estudantes&#58;
+  - Entenderão a função do administrador de banco de dados do Azure conforme ele se adapta a outras funções da plataforma de dados
+  - Serão capazes de descrever as principais diferenças entre o banco de dados baseado no SQL Server
+  - Serão capazes de descrever a diferença entre versões e níveis de compatibilidade
+  - Aprenderão a ativar e desativar os recursos de visualização 
+
+
+  ### Módulo 2&#58; Planejar e implementar recursos da plataforma de dados 
+  Este módulo apresenta os métodos para implantação de recursos da plataforma de dados no Azure. Você conhecerá as opções para atualizar e migrar bancos de dados SQL existentes para o Azure. Você aprenderá a configurar os recursos do Azure para hospedar o SQL Server em uma máquina virtual, instância gerenciada, banco de dados SQL do Azure e do PostgreSQL ou do MySQL. Você aprenderá a determinar as melhores opções com base em requisitos específicos, incluindo as necessidades de alta disponibilidade e recuperação de desastres (HADR). Eles aprenderão a calcular os requisitos de recursos e criar modelos para suas implantações.
+  #### Lições
+  - Implementando o SQL Server com IaaS
+  - Implementando o SQL Server com PaaS
+  - Implantando soluções de banco de dados de código aberto no Azure
+
+  #### Laboratório&#58; Implementando o banco de dados SQL do Azure
+  - Implementar uma VM usando um modelo ARM
+  - Configurar os recursos necessários antes da criação de um banco de dados
+  - Implementar um banco de dados SQL no Azure
+  - Registrar a instância do banco de dados SQL do Azure no Azure Data Studio e validar a conectividade
+  - Implementar o PostgreSQL ou MySQL usando uma ferramenta cliente para validar a conectividade
+
+  Depois de concluir este módulo, os estudantes&#58;
+  - Implementar recursos por meio de métodos manuais
+  - Recomendar uma oferta de banco de dados apropriada com base nos requisitos
+  - Configurar recursos do banco de dados
+  - Avaliar e implementar uma estratégia para mover um banco de dados para o Azure
+
+
+  ### Módulo 3&#58; Implementar um ambiente seguro
+  Este módulo descreve as práticas de proteção do banco de dados do SQL Server e do banco de dados SQL do Azure. Isso inclui uma análise das várias opções baseadas no SQL Server, bem como as várias opções do Azure para proteger o banco de dados SQL do Azure, bem como os bancos de dados que residem no banco de dados SQL do Azure. Os estudantes entenderão por que a segurança é crucial ao trabalhar com bancos de dados. Os estudantes também terão acesso a outras plataformas de banco de dados disponíveis no Azure, além daquelas baseadas no SQL Server, em especial o banco de dados do Azure para MariaDB, MySQL e PostgreSQL.
+  #### Lições
+  - Configurar a autenticação do banco de dados
+  - Configurar a autorização do banco de dados
+  - Implementar a segurança para dados em repouso
+  - Implementar a segurança para dados em trânsito
+  - Implementar controles de conformidade para dados confidenciais
+
+  #### Laboratório&#58; Implementar um ambiente seguro
+  - Configurar uma regra de firewall baseada em servidor por meio do Portal do Azure
+  - Autorizar o acesso ao banco de dados SQL do Azure com o Azure Active Directory
+  - Ativar a segurança avançada de dados e classificação de dados
+  - Gerenciar o acesso a objetos de banco de dados
+
+  Depois de concluir este módulo, os estudantes&#58;
+  - Compreender as diferenças entre a autenticação do Windows, SQL Server e Azure Active Directory
+  - Descrever e configurar as soluções de criptografia de dados em repouso, bem como a criptografia de dados em trânsito
+  - Implementar uma solução de confiabilidade de dados
+
+
+  ### Módulo 4&#58; Monitorar e otimizar recursos operacionais
+  Este módulo ensinará sobre otimização de recursos para seus bancos de dados criados por meio dos serviços IaaS ou PaaS. O módulo também abrange o servidor de monitoramento e os recursos de hardware. O curso o familiarizará com as várias ferramentas disponíveis para monitorar o desempenho e estabelecer uma linha de base. Você aprenderá a interpretar métricas de desempenho para os recursos mais críticos. Você também aprenderá a solucionar problemas de desempenho do banco de dados por meio o Database Intelligent Insights do Azure SQL.
+  #### Lições
+  - Linhas de base e monitoramento de desempenho
+  - Causas principais de problemas de desempenho
+  - Configurando recursos para desempenho ideal
+  - Configuração do banco de dados do usuário
+  - Tarefas de manutenção relacionadas ao desempenho
+
+  #### Laboratório&#58; Monitorar e otimizar recursos
+  - Isolar problemas de CPU
+  - Usar o Query Store e observar problemas de bloqueio
+  - Detectar e corrigir problemas de fragmentação
+
+  Depois de concluir este módulo, os estudantes&#58;
+  - Monitorar a atividade e compará-la a uma linha de base
+  - Definir tarefas de manutenção relacionadas ao desempenho
+  - Identificar as principais causas de problemas de desempenho
+  - Configurar recursos para desempenho ideal
+  - Configurar um banco de dados do usuário para obter o desempenho ideal
+
+
+  ### Módulo 5&#58; Otimizar o desempenho da consulta
+  Os planos de execução de consulta são provavelmente o aspecto mais importante do desempenho do banco de dados. O aprimoramento dos planos insatisfatórios é certamente uma área em que uma pequena quantidade de esforço pode trazer grandes melhorias. Embora os problemas de hardware possam limitar o desempenho da consulta, o aprimoramento do hardware geralmente produz melhorias de desempenho na faixa de 10 a 20%, no máximo. De modo geral, os administradores de banco de dados encontram consultas não otimizadas, com estatísticas obsoletas ou ausentes, índices ausentes ou opções de design de banco de dados inapropriado que levam o mecanismo de banco de dados a funcionar mais do que o necessário para retornar resultados para uma determinada consulta. Às vezes, o aprimoramento dos planos pode gerar melhorias de desempenho na faixa de 100 a 200% ou mais, o que significa que, depois de melhorar um plano com melhores índices ou estatísticas, uma consulta pode ser executada duas ou três vezes mais rápido! Este módulo fornece detalhes sobre como analisar o desempenho de consultas individuais e determinar onde melhorias podem ser feitas.
+  #### Lições
+  - Noções básicas sobre planos de consulta do SQL Server
+  - Explorar o design de banco de dados baseado em desempenho
+  - Avaliar as melhorias de desempenho
+
+  #### Laboratório&#58; Diagnóstico de problemas de desempenho de consulta
+  - Identificar problemas com o design do banco de dados AdventureWorks2017
+  - Isolar áreas problemáticas em consultas com baixo desempenho no AdventureWorks2017
+  - Usar o Query Store para detectar e manipular a regressão no AdventureWorks2017
+  - Usar dicas de consulta sobre impactos no desempenho no AdventureWorks2017
+
+  Depois de concluir este módulo, os estudantes&#58;
+  - Analisar planos de consulta e identificar áreas problemáticas
+  - Avaliar possíveis aprimoramentos de consulta
+  - Analisar designs de tabela e de índice
+  - Determinar se as alterações de consulta ou design tiveram um efeito positivo
+
+
+  ### Módulo 6&#58; Automação de tarefas
+  O objetivo comum dos administradores de banco de dados em muitos ambientes é automatizar o máximo de tarefas repetitivas. O processo pode ser simples com o uso de scripts para automatizar um processo de backup e complexo ao criar um sistema de alerta totalmente automatizado. Este módulo fornece detalhes de automação de tarefas para simplificar o trabalho do DBA. Os métodos incluem o agendamento de tarefas para tarefas de manutenção regulares, bem como a administração em várias instâncias e a configuração de notificações para êxito ou falha ou não conclusão da tarefa.
+  #### Lições
+  - Configurando a implementação automática
+  - Definindo tarefas agendadas
+  - Configurando eventos estendidos
+  - Gerenciando recursos de PaaS do Azure com métodos automatizados
+
+  #### Laboratório&#58; Automatizando tarefas
+  - Implementar um modelo do Azure com base em um modelo Quickstart no GitHub
+  - Configurar notificações com base em métricas de desempenho
+  - Implementar um Runbook de Automação do Azure (ou trabalho elástico) para recriar índices em um banco de dados SQL do Azure 
+
+  Depois de concluir este módulo, os estudantes&#58;
+  - Implementar recursos com scripts de implantação automatizados
+  - Criar tarefas agendadas
+  - Criar notificações e alertas
+  - Configurar a automação para serviços PaaS
+
+
+  ### Módulo 7&#58; Planejar e implementar um ambiente de alta disponibilidade e de recuperação de desastres
+  Os dados devem estar disponíveis quando a empresa precisar. Isso significa que as soluções que hospedam os dados devem ser projetadas levando em conta a disponibilidade e a capacidade de recuperação. Suponha que você trabalhe para uma empresa que vende widgets nas lojas e online. Seu aplicativo principal usa um banco de dados altamente transacional para pedidos. O que aconteceria se o servidor ou plataforma que hospedava o banco de dados transacional tivesse um problema que o tornasse indisponível ou inacessível por algum motivo? Que impacto isso teria nos negócios? Se a solução certa for posta em prática, o banco de dados ficará online durante um prazo razoável com o mínimo de esforço, permitindo que os negócios continuem com pouco ou nenhum impacto. Este módulo e seu laboratório associado abrangem a configuração, teste e gerenciamento de uma solução para alta disponibilidade e recuperação de desastres (HADR) no Azure, tanto para implementações de infraestrutura como serviço (IaaS) quanto para plataforma como serviço (PaaS). Este módulo não cobrirá apenas os requisitos básicos, mas também as várias opções disponíveis para alcançar o HADR.
+  #### Lições
+  - Estratégias de alta disponibilidade e de recuperação de desastres
+  - Plataforma IaaS e ferramentas de banco de dados para HADR
+  - Plataforma PaaS e ferramentas de banco de dados para HADR
+  - Backup e recuperação de banco de dados
+
+  #### Laboratório&#58; Planejar e implementar um ambiente de alta disponibilidade e de recuperação de desastres
+  - Criar um grupo de disponibilidade sempre ativa
+  - Ativar a replicação geográfica para o banco de dados SQL do Azure
+  - Backup e recuperação de URL
+
+  Depois de concluir este módulo, os estudantes compreenderão&#58;
+  - A diferença entre o tempo de recuperação e os objetivos do ponto de recuperação
+  - As opções de HADR disponíveis para IaaS e PaaS
+  - As considerações para planejar e configurar soluções HADR, incluindo como fazer backup e recuperação
+  - Os fatores que compõem uma estratégia HADR
+  - Como configurar uma solução de alta disponibilidade por meio de um laboratório prático
