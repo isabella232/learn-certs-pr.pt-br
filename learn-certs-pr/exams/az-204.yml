@@ -7,7 +7,7 @@ uid: exam.az-204
 displayName: AZ-204
 summary: |-
   <div><div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em segunda-feira, 18 de maio de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em, 18 de maio de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
   </div>
 
   Os candidatos a este exame devem ter experiência no projeto, construção, teste e manutenção de aplicativos e serviços em nuvem no Microsoft Azure.
@@ -34,7 +34,7 @@ providers:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em segunda-feira, 18 de maio de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- O conteúdo deste exame foi atualizado em, 18 de maio de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
 - Desenvolver soluções de computação do Azure (25-30%)
 - Desenvolva para armazenamento Azure (10-15%)
 - Implementar a segurança Azure (15-20%)
@@ -71,8 +71,8 @@ products:
 - azure-traffic-manager
 - azure-virtual-machines
 courses:
-- uid: course.az-020t00
 - uid: course.az-204t00
+- uid: course.az-020t00
 paths:
 - uid: learn.create-serverless-applications
 - uid: learn.connect-your-services-together
@@ -97,7 +97,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
+- title: Support for certification exams
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

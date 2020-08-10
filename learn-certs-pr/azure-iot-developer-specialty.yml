@@ -14,7 +14,7 @@ summary: |-
 
   O desenvolvedor da IoT trabalha com engenheiros de dados e outras partes interessadas para garantir uma integração comercial bem-sucedida.
 
-  Os candidatos a esta certificação devem ter experiência na implementação dos serviços do Azure que formam uma solução de IoT, incluindo opções de armazenamento, análise e processamento de dados e opções de plataforma como serviço. Essa função também deve ser capaz de reconhecer as configurações do serviço de IoT do Azure na parte de código de uma solução de IoT e executar tarefas específicas de codificação de IoT em pelo menos uma linguagem suportada pelo Azure, incluindo C #, Node, C ou Python.
+  Os candidatos a esta certificação devem ter experiência na implementação dos serviços do Azure que formam uma solução de IoT, incluindo opções de armazenamento, análise e processamento de dados e opções de plataforma como serviço. Essa função também deve ser capaz de reconhecer as configurações do serviço de IoT do Azure na parte de código de uma solução de IoT e executar tarefas específicas de codificação de IoT em pelo menos uma linguagem suportada pelo Azure, incluindo C#, Node, C ou Python.
 subTitle: Os Azure IoT Developers desenvolvem componentes de nuvem e de borda em uma solução de IoT do Azure.
 levels:
 - intermediate
@@ -47,7 +47,7 @@ resources:
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Jornada à certificação
-  description: Explore as etapas para obter a certificação Azure IoT Developer Specialty e os recursos disponíveis para ajudá-lo a se preparar.
+  description: Explore as etapas para obter a certificação no Azure IoT developer Specialty e os recursos disponíveis para ajudá-lo a se preparar.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.

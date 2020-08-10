@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Analyzing Data with Microsoft Power BI (beta)
+title: Analyzing Data with Microsoft Power BI
 metadata:
-  title: 'Exam DA-100: Analyzing Data with Microsoft Power BI (beta)'
-  description: 'Exam DA-100: Analyzing Data with Microsoft Power BI (beta)'
+  title: 'Exam DA-100: Analyzing Data with Microsoft Power BI'
+  description: 'Exam DA-100: Analyzing Data with Microsoft Power BI'
 uid: exam.da-100
 displayName: DA-100
 summary: |-
@@ -12,16 +12,14 @@ summary: |-
   <br/>
 
   O analista de dados deve ter um entendimento fundamental dos repositórios de dados e do processamento de dados nas instalações e na nuvem.
-
-  <div style='font-weight&#58; bold;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</div>
-subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: preparar os dados; modelar os dados; visualizar os dados; analisar os dados; e implantar e manter entregas. '
+subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: preparar os dados; modelar os dados; visualizar os dados; analisar os dados; e implantar e manter entregas.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
-  - providerType: gsi
-    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
@@ -38,10 +36,20 @@ products:
 - power-bi
 courses:
 - uid: course.da-100t00
+paths:
+- uid: learn-bizapps.get-started-data-analytics
+- uid: learn-bizapps.data-preparation-in-power-bi
+- uid: learn-bizapps.model-power-bi
+- uid: learn-bizapps.visual-data-power-bi
+- uid: learn-bizapps.data-analysis-power-bi
+- uid: learn-bizapps.manage-workspaces-datasets-power-bi
 relatedCertifications:
 - related:
     uid: certification.data-analyst-associate
 resources:
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação Data Analyst Associate e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AzbJ
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -51,7 +59,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
+- title: Support for certification exams
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

@@ -8,12 +8,14 @@ displayName: MS-900
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame será atualizado em quarta-feira, 8 de julho de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em, 8 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
   </div>
 
-  Este exame foi projetado para candidatos que desejam demonstrar conhecimento fundamental sobre as considerações e os benefícios da adoção de serviços em cloud em geral e o modelo de cloud Software as a Service (SaaS). Este exame também abordará o conhecimento das opções disponíveis e os benefícios obtidos pela implementação das ofertas de serviços na nuvem da Microsoft 365.
+  Este exame foi projetado para candidatos que desejam demonstrar conhecimento nível-fundamental sobre as considerações e os benefícios da adoção de serviços em cloud em geral e o modelo de cloud Software as a Service (SaaS). Os candidatos devem ter conhecimento das opções disponíveis e os benefícios obtidos pela implementação das ofertas de serviços na nuvem da Microsoft 365.
 
-  Este exame pode ser considerado um precursor para exames de computação em nuvem e tecnologias, como o Office 365, o Microsoft Intune, o Azure Information Protection (AIP) e o Windows 10.
+  Os candidatos devem ter o conhecimento necessário para recomendar soluções que abordem os desafios organizacionais comuns de TI e para diferenciar as soluções Microsoft 365 da concorrência no mercado. Os candidatos também devem ter conhecimento básico das ofertas, da otimização do licenciamento para obter uma relação custo-benefício e das opções de suporte para as organizações.
+
+  Os candidatos devem poder diferenciar os serviços e produtos da Microsoft (Microsoft 365, Azure e Dynamics 365).
 subTitle: Prove que você compreende os conceitos de cloud, serviços básicos e conceitos do Microsoft 365, segurança, conformidade, privacidade e confiabilidade do Microsoft 365 e preços e suporte do Microsoft 365.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVw
@@ -31,11 +33,11 @@ providers:
 levels:
 - beginner
 skills:
-- O conteúdo deste exame será atualizado em quarta-feira, 8 de julho de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
-- Descrever os conceitos de nuvem (15-20%)
+- O conteúdo deste exame foi atualizado em, 8 de julho de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- Descrever os conceitos de nuvem (10-15%)
 - Descrever os serviços e conceitos básicos do Microsoft 365 (30-35%)
-- Descrever a segurança, conformidade, privacidade e confiança no Microsoft 365 (25-30%)
-- Descrever os preços e suporte do Microsoft 365 (25-30%)
+- Descrever a segurança, conformidade, privacidade e confiança no Microsoft 365 (30-35%)
+- Descrever os preços e suporte do Microsoft 365 (20-25%)
 roles:
 - administrator
 products:
@@ -59,7 +61,7 @@ resources:
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Apoio aos  exames de certificação
+- title: Support for certification exams
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação
