@@ -1,0 +1,55 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
+  description: Esta certificação estará disponível em outubro de 2020. O Power Platform Functional Consultant deve ter amplo conhecimento aplicado da Power Platform, incluindo o entendimento prático de recursos, limites e restrições.
+uid: certification.power-platform-functional-consultant-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></font></div>
+
+  O Power Platform Functional Consultant deve ter amplo conhecimento aplicado da Power Platform, incluindo o entendimento prático de recursos, limites e restrições. Eles devem ter experiência no uso das ferramentas do criador do Power Platform para criar soluções que usam a Power Platform e o Microsoft 365. Os Functional Consultants certificados devem ter proficiência em modelagem de dados, design de experiência do usuário, análise de requisitos e análise de processos.
+
+  <div><br/><strong>Observação&#58; Esta certificação estará disponível em outubro de 2020.</strong></div>
+subTitle: Esta certificação estará disponível em outubro de 2020. O Power Platform Functional Consultant deve ter amplo conhecimento aplicado da Power Platform, incluindo o entendimento prático de recursos, limites e restrições.
+levels:
+- intermediate
+skills:
+- Configurar o Common Data Service
+- Criar um Power App
+- Criar automações com o Power Automate
+- Configurar Power Virtual Agents
+- Criar visualizações com o Power BI
+roles:
+- business-analyst
+- developer
+- functional-consultant
+type: role-based
+products:
+- power-apps
+- power-bi
+- power-automate
+- common-data-service
+- ai-builder
+- power-platform
+- office-teams
+- power-virtual-agents
+exams:
+- uid: exam.pl-200
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

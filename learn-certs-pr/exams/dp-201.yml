@@ -8,7 +8,7 @@ displayName: DP-201
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame será atualizado em sexta-feira, 31 de julho de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>O conteúdo deste exame será atualizado em, 31 de julho de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
   </div>
 
   Os candidatos a este exame são engenheiros de dados do Microsoft Azure que colaboram com as partes interessadas da empresa para identificar e atender aos requisitos de dados para implementar soluções que usam os serviços de dados do Azure.
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em sexta-feira, 31 de julho de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
+- O conteúdo deste exame será atualizado em, 31 de julho de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
 - Projetar soluções de armazenamento de dados do Azure (40-45%)
 - Projetar soluções de processamento de dados (25-30%)
 - Projetar para segurança de dados e conformidade (25-30%)
@@ -63,6 +63,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-data-engineer
 resources:
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação Azure Data Engineer Associate e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -72,7 +75,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
+- title: Support for certification exams
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

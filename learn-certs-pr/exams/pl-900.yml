@@ -7,32 +7,32 @@ uid: exam.pl-900
 displayName: PL-900
 summary: |-
   <div><div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame será atualizado em segunda-feira, 13 de julho de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em, 13 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
   </div>
 
-  Os candidatos a este exame são usuários que desejam melhorar a produtividade compreendendo os recursos da Power Platform, automatizando processos básicos de negócios com o Power Automate, realizando análises básicas de dados com o Power BI para produzir insights de negócios, agindo de forma mais eficaz ao criar experiências com o aplicativo de tela simples do Power Apps e ao criar assistentes virtuais poderosos sem o uso de código.
-subTitle: Este exame avalia sua capacidade de entender o valor comercial da Plataforma Power, entender os componentes principais da Plataforma Power e demonstrar o valor comercial da Power BI do Microsoft Automate.
+  Os candidatos a este exame desejam melhorar a produtividade compreendendo os recursos da Power Platform automatizando processos básicos de negócios com o Power Automate, realizando análises básicas de dados com o Power BI, agindo de forma mais eficaz ao criar experiências com Power Apps e criando assistentes virtuais poderosos por meio de Power Virtual Agents.
+subTitle: Este exame avalia sua capacidade de descrever o valor comercial da Power Platform, identificar os componentes principais da Power Platform, demonstrar os recursos do Power BI, descrever os recursos do Power Apps, demonstrar os recursos do Power Automate e demonstrar o valor comercial dos Power Virtual Agents.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
 providers:
-  - providerType: pearson-vue
-    examUrl: 'https://examregistration.microsoft.com/?locale=pt-br&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
-  - providerType: certiport
-    examUrl: http://www.certiport.com/locator
-  - providerType: gsi
-    examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer   
+- providerType: pearson-vue
+  examUrl: 'https://examregistration.microsoft.com/?locale=pt-br&examcode=PL-900&examname=Exam%20PL-900:%20Microsoft%20Power%20Platform%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-900'
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 levels:
 - beginner
 skills:
-- O conteúdo deste exame será atualizado em segunda-feira, 13 de julho de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
-- Descrever o valor comercial da Power Platform (20-25%)
+- O conteúdo deste exame foi atualizado em, 13 de julho de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- Descrever o valor comercial da Power Platform (15-20%)
 - Identificar os componentes principais da Power Platform (15-20%)
-- Descrever o valor comercial do Power BI (10-15%)
-- Descrever o valor comercial dos Power Apps (15-20%)
-- Descrever o valor comercial do Power Automate (15-20%)
+- Demonstrar os recursos do Power BI (15-20%)
+- Descrever os recursos do Power Apps (15-20%)
+- Demonstrar os recursos do Power Automate (15-20%)
 - Demonstrar o valor comercial dos Power Virtual Agents (10-15%)
 roles:
 - developer
@@ -58,7 +58,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos  exames de certificação
+- title: Support for certification exams
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

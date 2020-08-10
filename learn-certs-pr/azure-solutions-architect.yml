@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
   title: 'Microsoft Certified: Azure Solutions Architect Expert'
-  description: Os Azure Solutions Architects projetam e implementam soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança.
+  description: 'Os Azure Solutions Architects projetam e implementam soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança.'
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
@@ -27,7 +27,7 @@ skills:
 - Projetar identidade e segurança
 - Projetar armazenamento de dados
 - Projetar a continuidade dos negócios
-- Projetar infraestrutura
+- Infraestrutura de projeto
 roles:
 - solution-architect
 type: role-based
@@ -54,15 +54,9 @@ products:
 - azure-sql-database
 - azure-event-hubs
 courses:
-- uid: course.az-300t01
-- uid: course.az-300t02
-- uid: course.az-300t03
-- uid: course.az-300t04
-- uid: course.az-300t06
-- uid: course.az-301t01
-- uid: course.az-301t02
-- uid: course.az-301t03
-- uid: course.az-301t04
+- uid: course.az-303t00
+- uid: course.az-304t00
+- uid: course.az-030t00
 paths:
 - uid: learn.architect-network-infrastructure
 - uid: learn.architect-storage-infrastructure
@@ -81,6 +75,9 @@ resources:
 - title: Tabela de certificação do Azure
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação Azure Solutions Architect Expert e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

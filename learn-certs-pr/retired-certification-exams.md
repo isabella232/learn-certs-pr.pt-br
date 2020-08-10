@@ -59,7 +59,7 @@ Encontre os exames agendados para serem desativados nos próximos 12 meses, list
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
 
-| Será desativado em 30 de setembro de 2020 | |
+| Será desativado em quarta-feira, 30 de setembro de 2020 | |
 | --- | --- |
 | [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx): Microsoft Azure Architect Technologies |  |
 | [AZ-301](https://www.microsoft.com/learning/exam-AZ-301.aspx): Microsoft Azure Architect Design |  |
@@ -104,7 +104,7 @@ Para fins de referência, os testes desativado dentro do último ano terão um l
 | [70-348](https://www.microsoft.com/learning/exam-70-348.aspx) | Managing Projects and Portfolios with Microsoft PPM | 31 de dezembro de 2019
 | 70-398 | Planning for and Managing Devices in the Enterprise | 31 de julho de 2018
 | [70-473](https://www.microsoft.com/learning/exam-70-473.aspx) | Designing and Implementing Cloud Data Platform Solutions | 30 de junho de 2019
-| [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | Designing and Implementing Big Data Analytics Solutions | 30 de julho de 2019
+| [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | Designing and Implementing Big Data Analytics Solutions | 30 de junho de 2019
 | 70-488 | Developing SharePoint Server 2013 Core Solutions | 31 de julho de 2018
 | 70-489 | Developing SharePoint Server 2013 Advanced Solutions | 31 de julho de 2018
 | 70-496 | Administering Visual Studio Team Foundation Server | 31 de dezembro de 2018
@@ -113,7 +113,7 @@ Para fins de referência, os testes desativado dentro do último ano terão um l
 | 70-532 | Developing Microsoft Azure Solutions | 31 de dezembro de 2018
 | 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 31 de dezembro de 2018
 | 70-534 | Architecting Microsoft Azure Solutions | 31 de dezembro de 2017
-| 70-535 | Architecting Microsoft Azure Solutions | segunda-feira, 31 de dezembro de 2018
+| 70-535 | Architecting Microsoft Azure Solutions | 31 de dezembro de 2018
 | 70-680 | Windows 7, Configuring | 31 de julho de 2018
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 31 de julho de 2018
 | 70-686 | Windows 7, Administrador de Desktop corporativo | 31 de julho de 2018
@@ -471,10 +471,10 @@ Para fins de referência, os testes desativado dentro do último ano terão um l
 | MB3-637 | GP 10.0 Manufacturing Applications | 31 de dezembro de 2013
 | MB3-700 | Microsoft Dynamics GP 2013 Installation & Configuration | 31 de julho de 2015
 | MB3-701 | Microsoft Dynamics GP 2013 Financials | sexta-feira, 31 de julho de 2015
-| MB3-859 | Microsoft Dynamics GP 2010 Financials | 31 de dezembro de 2014
-| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 31 de dezembro de 2014
-| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | 31 de dezembro de 2014
-| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 31 de dezembro de 2014
+| MB3-859 | Microsoft Dynamics GP 2010 Financials | quarta-feira, 31 de dezembro de 2014
+| MB3-860 | Microsoft Dynamics GP 2010 Project Series | quarta-feira, 31 de dezembro de 2014
+| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | quarta-feira, 31 de dezembro de 2014
+| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | quarta-feira, 31 de dezembro de 2014
 | MB4-348 | SL 6.5 Financials | 31 de março de 2011
 | MB4-349 | SL 6.5 Installation & Configuration | 31 de março de 2011
 | MB4-534 | SL 7.0 Installation & Configuration | terça-feira, 31 de dezembro de 2013

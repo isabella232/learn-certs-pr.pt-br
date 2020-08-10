@@ -8,13 +8,13 @@ courseNumber: 'AZ-303T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Proteger identidades com o Azure Active Directory e usuários e grupos.
+- skill: Proteger identidades com o Azure Active Directory e usuários e grupos
 - skill: Implementar soluções de identidade que abrangem recursos locais e baseados na nuvem
-- skill: Aplicar soluções de monitoramento para coletar, combinar e analisar dados de diferentes fontes.
-- skill: Gerenciar assinaturas, contas, políticas do Azure e controle de acesso baseado em funções.
-- skill: Administre o Azure usando o gerenciador de recursos, o portal do Azure, Cloud Shell e a CLI.
-- skill: Configurar soluções de conectividade entre sites, como VNet Peering e gateways de rede virtual.
-- skill: Administre o Serviço de Aplicativo do Azure, instâncias de contêiner do Azure e Kubernetes.
+- skill: Aplicar soluções de monitoramento para coletar, combinar e analisar dados de diferentes fontes
+- skill: Gerenciar assinaturas, contas, políticas do Azure e controle de acesso baseado em funções
+- skill: Administre o Azure usando o gerenciador de recursos, o portal do Azure, Cloud Shell e a CLI
+- skill: Configurar soluções de conectividade entre sites, como VNet Peering e gateways de rede virtual
+- skill: Administre o Serviço de Aplicativo do Azure, instâncias de contêiner do Azure e Kubernetes
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -30,7 +30,7 @@ summary: |-
   Este curso ensina aos arquitetos de soluções como traduzir os requisitos de negócios em soluções seguras, escaláveis e confiáveis. As lições incluem virtualização, automação, redes, armazenamento, identidade, segurança, plataforma de dados e infraestrutura de aplicativos. Este curso descreve como as decisões em cada uma dessas área afetam uma solução geral.
 
   #### Perfil do público
-  Este curso destina-se a profissionais de TI com experiência no projeto e implementação de soluções em execução no Microsoft Azure. Eles devem ter amplo conhecimento das operações de TI, incluindo redes, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, plataforma de dados, orçamento e governança. Os Azure Solution Architects usam o Portal do Azure e, à medida que avançam no curso, poderão usar a Interface de Linha de Comando. Os candidatos devem ter habilidades de nível de especialista na administração do Azure e experiência nos processos de desenvolvimento do Azure e nos processos de DevOps. Sem marcadores ou listas.
+  Este curso destina-se a profissionais de TI com experiência no projeto e implementação de soluções em execução no Microsoft Azure. Eles devem ter amplo conhecimento das operações de TI, incluindo redes, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, plataforma de dados, orçamento e governança. Os Azure Solution Architects usam o Portal do Azure e, à medida que avançam no curso, poderão usar a Interface de Linha de Comando. Os candidatos devem ter habilidades de nível de especialista na administração do Azure e experiência nos processos de desenvolvimento do Azure e nos processos de DevOps.
 prerequisitesSection: |-
   Os Azure Solution Architects bem-sucedidos iniciam essa função com experiência em sistemas operacionais, virtualização, infraestrutura de nuvem, estruturas de armazenamento e redes.
   - Compreensão das tecnologias de virtualização local, incluindo&#58; VMs, redes virtuais e discos rígidos virtuais.
@@ -48,9 +48,9 @@ outlineSection: |-
   - Configurar criptografia de disco do Azure
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Planejar implementações de máquinas virtuais.
-  - Criar máquinas virtuais.
-  - Configurar a disponibilidade da máquina virtual, incluindo conjuntos de dimensionamento.
+  - Planejar implementações de máquinas virtuais
+  - Criar máquinas virtuais
+  - Configurar a disponibilidade da máquina virtual, incluindo conjuntos de dimensionamento
   - Compreender as opções de alta disponibilidade para VMs no Azure
 
 
@@ -65,8 +65,8 @@ outlineSection: |-
   - Criar e executar um Runbook de Automação
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Uso do Gerenciador de Recursos do Azure para organizar recursos.
-  - Uso de modelos ARM para implementação de recursos.
+  - Uso do Gerenciador de Recursos do Azure para organizar recursos
+  - Uso de modelos ARM para implementação de recursos
   - Criar e executar um Runbook de Automação
   - Implementar uma VM do Azure com base em um VHD
   - Compreender as tecnologias de criptografia do Azure
@@ -117,7 +117,7 @@ outlineSection: |-
   - Configurar firewalls de armazenamento do Azure e redes virtuais
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Compreender os serviços e tipos da conta de armazenamento|
+  - Compreender os serviços e tipos da conta de armazenamento
   - Configurar o armazenamento de blob, contas, contêineres e camadas de acesso
   - Implementar assinaturas de acesso compartilhado
   - Compreender os firewalls de armazenamento do Azure e redes virtuais
@@ -272,3 +272,4 @@ outlineSection: |-
   - Criar um banco de dados único do banco de dados SQL do Azure
   - Criar uma instância gerenciada do banco de dados SQL do Azure
   - Recomendar modelos de arquitetura de alta disponibilidade usados no banco de dados SQL do Azure
+
