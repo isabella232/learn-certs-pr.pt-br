@@ -37,6 +37,14 @@ products:
 - azure-text-speech
 - azure-translator-speech
 - azure-translator-text
+courses:
+- uid: course.ai-900t00
+paths:
+- uid: learn.wwl.get-started-with-artificial-intelligence-on-azure
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
+- uid: learn.wwl.explore-computer-vision-microsoft-azure
+- uid: learn.wwl.explore-natural-language-processing
+- uid: learn.wwl.explore-conversational-ai
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAEF
 exams:
 - uid: exam.ai-900
@@ -44,6 +52,9 @@ resources:
 - title: Tabela de certificação do Azure
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação no Azure AI Fundamentals e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

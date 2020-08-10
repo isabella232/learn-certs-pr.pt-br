@@ -2,21 +2,19 @@
 title: 'Microsoft Certified: Power Platform App Maker Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform App Maker Associate'
-  description: Esta certificação será disponibilizada na data aproximada de sexta-feira, 17 de julho de 2020. O criador de aplicativos cria soluções para simplificar, automatizar e transformar tarefas e processos para ele e sua equipe, os quais possuem profundo conhecimento no domínio da solução. Eles são especializados em tarefas essenciais de analistas de negócios técnicos, como modelagem de dados, design básico de UX, análise de requisitos, e análise de processos.
+  description: O criador de aplicativos cria soluções para simplificar, automatizar e transformar tarefas e processos para ele e sua equipe, os quais possuem profundo conhecimento no domínio da solução. Eles são especializados em tarefas essenciais de analistas de negócios técnicos, como modelagem de dados, design básico de UX, análise de requisitos, e análise de processos.
 uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></font></div>
 
   O criador de aplicativos cria soluções para simplificar, automatizar e transformar tarefas e processos para ele e sua equipe, os quais possuem profundo conhecimento no domínio da solução. Eles são especializados em tarefas essenciais de analistas de negócios técnicos, como modelagem de dados, design básico de UX, análise de requisitos, e análise de processos.
-
-  <div><strong><br/>Nota&#58; Esta certificação será disponibilizada na data aproximada de 17 de julho de 2020.</strong></div>
-subTitle: Esta certificação será disponibilizada na data aproximada de sexta-feira, 17 de julho de 2020. O criador de aplicativos cria soluções para simplificar, automatizar e transformar tarefas e processos para ele e sua equipe, os quais possuem profundo conhecimento no domínio da solução. Eles são especializados em tarefas essenciais de analistas de negócios técnicos, como modelagem de dados, design básico de UX, análise de requisitos, e análise de processos.
+subTitle: O criador de aplicativos cria soluções para simplificar, automatizar e transformar tarefas e processos para ele e sua equipe, os quais possuem profundo conhecimento no domínio da solução. Eles são especializados em tarefas essenciais de analistas de negócios técnicos, como modelagem de dados, design básico de UX, análise de requisitos, e análise de processos.
 levels:
 - intermediate
 skills:
 - Soluções de design
-- Criar soluções.
+- Criar soluções
 - Analisar dados
 - Implementar e gerenciar soluções
 roles:
@@ -60,6 +58,18 @@ products:
 - power-apps
 - power-virtual-agents
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAsW
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-bizapps.understand-advanced-topics
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.ui-controls-canvas-app-powerapps
+- uid: learn-bizapps.create-business-process-flow
 exams:
 - uid: exam.pl-100
 resources:
