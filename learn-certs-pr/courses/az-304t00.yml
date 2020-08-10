@@ -111,7 +111,7 @@ outlineSection: |-
   Neste módulo, você compreenderá a disponibilidade e a redundância do Azure Key Vault e identidades gerenciadas para recursos do Azure. Além disso, saiba mais sobre identidade gerenciada e VMs do Azure atribuídas pelo sistema.
   #### Lições
   - Recomendar uma solução com o KeyVault
-  - Recomendar uma solução que inclua identidades gerenciadas do Azure AD
+  - Recomendar uma solução usando identidades gerenciadas do Azure AD
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Compreender a autenticação e autorização do Key Vault
@@ -244,3 +244,4 @@ outlineSection: |-
   - Avaliar servidores e aplicativos locais para migração
   - Recomendar soluções para a migração de aplicativos e VMs
   - Determinar o escopo da migração, incluindo dados redundantes, relacionados, triviais e desatualizados
+

@@ -48,6 +48,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate
 resources:
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação Azure Database Administrator Associate e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -57,7 +60,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
+- title: Support for certification exams
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

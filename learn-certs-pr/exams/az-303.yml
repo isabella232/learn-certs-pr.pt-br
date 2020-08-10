@@ -34,14 +34,28 @@ roles:
 - solution-architect
 products:
 - azure
+paths:
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-data-platform
+- uid: learn.architect-messaging-serverless
+- uid: learn.architect-modern-apps
+- uid: learn.architect-api-integration
+- uid: learn.architect-migration-bcdr
 exams:
 - uid: exam.az-304
 courses:
 - uid: course.az-303t00
+- uid: course.az-030t00
 relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação Azure Solutions Architect Expert e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -51,7 +65,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
+- title: Support for certification exams
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

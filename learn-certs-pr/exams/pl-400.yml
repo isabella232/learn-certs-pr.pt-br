@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Developer (beta)'
+metadata:
+  title: 'Exam PL-400: Microsoft Power Platform Developer (beta)'
+  description: 'Exam PL-400: Microsoft Power Platform Developer (beta)'
+uid: exam.pl-400
+displayName: PL-400
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  Os candidatos a este exame projetam, desenvolvem, protegem e solucionam problemas de soluções da Power Platform. Os candidatos implementam componentes da solução que inclui aprimoramentos de aplicativo, experiência de usuário personalizada, integrações de sistema, conversões de dados, automação de processo personalizada e visualizações personalizadas.
+
+  Os candidatos devem ter um sólido conhecimento aplicado dos serviços da Power Platform, incluindo um entendimento profundo dos recursos, limites e restrições. Os candidatos devem ter entendimento básico das práticas de DevOps para a Power Platform.
+
+  Os candidatos devem ter experiência em desenvolvimento que inclua serviços da Power Platform, JavaScript, JSON, TypeScript, C #, HTML, .NET, Microsoft Azure, Microsoft 365, serviços Web RESTful, ASP.NET e Microsoft Power BI.
+
+  <div style='font-weight&#58; bold;'><br/>Observação&#58; Este exame será disponibilizado em outubro de 2020.</div>
+subTitle: 'Este exame será disponibilizado em outubro de 2020. Este teste mede a sua capacidade de realizar as seguintes tarefas técnicas: criar um projeto técnico, configurar o Common Data Service, criar e configurar Power Apps, configurar a automação de processos de negócios, expandir a experiência do usuário e a plataforma e desenvolver integrações.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Criar um projeto técnico (10-15%)
+- Configurar o Common Data Service (15-20%)
+- Criar e configurar Power Apps (15-20%)
+- Configurar a automação de processos de negócios (5-10%)
+- Expandir a experiência do usuário (10-15%)
+- Expandir a plataforma (15-20%)
+- Desenvolver integrações (5-10%)
+roles:
+- developer
+products:
+- power-platform
+- power-apps
+- common-data-service
+relatedCertifications:
+- related:
+    uid: certification.power-platform-developer-associate
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
+  href: ../certification-exam-policies.md
+

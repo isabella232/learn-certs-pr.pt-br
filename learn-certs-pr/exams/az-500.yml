@@ -8,7 +8,7 @@ displayName: AZ-500
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame será atualizado em 29 de julho de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>O conteúdo deste exame será atualizado em, 29 de julho de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.<br/><br/></div>
   </div>
 
   Os candidatos a este exame devem ser especialistas na implementação de controles de segurança e proteção contra ameaças, gerenciamento de identidade e acesso e proteção de dados, aplicativos e redes em ambientes híbridos e em nuvem como parte de uma infraestrutura ponta a ponta.
@@ -35,7 +35,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 29 de julho de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
+- O conteúdo deste exame será atualizado em, 29 de julho de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
 - Gerencie Identidade e acesso (20-25%)
 - Implementar proteção da plataforma (35-40%)
 - Gerenciar operações de segurança (15-20%)
@@ -62,6 +62,9 @@ relatedCertifications:
 - related:
     uid: certification.azure-security-engineer
 resources:
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação Azure Security Engineer Associate e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -71,7 +74,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos exames de certificação
+- title: Support for certification exams
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

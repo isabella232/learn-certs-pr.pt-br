@@ -1,0 +1,52 @@
+### YamlMime:Examination
+title: 'Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+metadata:
+  title: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+  description: 'Exam MB-800: Microsoft Dynamics 365 Business Central Functional Consultant (beta)'
+uid: exam.mb-800
+displayName: MB-800
+summary: |-
+  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+
+  O Dynamics 365 Business Central Core Application Functional Consultant implementa e configura o aplicativo Business Central, incluindo a configuração da funcionalidade do aplicativo de núcleo, módulos e migração de dados para o Business Central. Os consultores configuram a interface do usuário em colaboração com a equipe de implementação para fornecer aos negócios gerenciamento e facilidade de navegação. Eles configuram centros de função, incluindo a adaptação de insights, sugestões, blocos de ação, relatórios, gráficos e extensão do Business Central com o uso de componentes da Power Platform.
+
+  <div style='font-weight&#58; bold;'><br/>Observação&#58; Este exame será disponibilizado em setembro de 2020.</div>
+subTitle: 'Este exame será disponibilizado em setembro de 2020. Este exame avalia sua capacidade de concluir as seguintes tarefas: configurar o Business Central, configurar o Financials, configurar Sales and Purchasing, configurar operações e usar componentes da Power Platform.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Ainda não está disponível
+roles:
+- functional-consultant
+products:
+- business-central
+- power-platform
+relatedCertifications:
+- related:
+    uid: certification.d365-business-central-functional-consultant-associate
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Support for certification exams
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
+  href: ../certification-exam-policies.md
+
