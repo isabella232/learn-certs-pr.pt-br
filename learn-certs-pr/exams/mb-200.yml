@@ -7,8 +7,9 @@ uid: exam.mb-200
 displayName: MB-200
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 1 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  <div><strong>O conteúdo deste exame foi atualizado em, 1 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
+  <div><strong>ESTE EXAME SERÁ DESATIVADO EM 31  DE DEZEMBRO DE 2020. Para saber mais, <a href="https://aka.ms/microsoftlearncommunity">visite nosso blog</a> e consulte as postagens sobre desativação de exames. Observação&#58; O exame será desativado às 23&#58;59 Hora Central Padrão.</strong><br/><br/></div>
   </div>
 
   Os candidatos a este exame são consultores funcionais que têm acesso aos recursos e funcionalidades do produto licenciado da empresa. Como consultor funcional, o candidato está ciente das versões integradas dos recursos, mas não trabalha principalmente com esses produtos agrupados.
@@ -34,10 +35,11 @@ skills:
 - Implementar a segurança (5-10%)
 - Implementar a integração (15-20%)
 - Executar a implementação e teste de soluções (25-30%)
+retirementDate: 12/31/2020
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
@@ -63,7 +65,7 @@ relatedCertifications:
 - related:
     uid: certification.d365-functional-consultant-customer-service
 resources:
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

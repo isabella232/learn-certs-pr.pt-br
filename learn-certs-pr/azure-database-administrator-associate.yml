@@ -6,7 +6,7 @@ metadata:
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
   O Azure Database Administrator implementa e gerencia os aspectos operacionais das soluções de plataforma de dados híbridas e nativas da nuvem criadas no Microsoft Azure Data Services e no Microsoft SQL Server. O Administrador de Banco de Dados do Azure usa uma variedade de métodos e ferramentas para executar operações diárias, incluindo a aplicação do conhecimento do uso do T-SQL para fins de gerenciamento administrativo.
 subTitle: O Azure Database Administrator implementa e gerencia os aspectos operacionais das soluções de plataforma de dados híbridas e nativas da nuvem criadas no Microsoft Azure Data Services e no Microsoft SQL Server.
@@ -19,7 +19,7 @@ skills:
 - Otimizar o desempenho de questionário
 - Executar automação de tarefas
 - Planejar e implementar um ambiente de alta disponibilidade e recuperação de desastres (HADR)
-- Executar a administração usando T -SQL
+- Executar a administração usando T-SQL
 roles:
 - database-administrator
 type: role-based
@@ -34,6 +34,14 @@ products:
 - sql-server
 courses:
 - uid: course.dp-300t00
+paths:
+- uid: learn.azure-sql-fundamentals
+- uid: learn.wwl.plan-implement-data-platform-resources
+- uid: learn.wwl.implement-secure-environment-database-service
+- uid: learn.wwl.monitor-optimize-operational-resources-sql-server
+- uid: learn.wwl.optimize-query-performance-sql-server
+- uid: learn.wwl.automate-tasks-sql-server
+- uid: learn.wwl.plan-implement-ha-dr-environment
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qjf6
 exams:
 - uid: exam.dp-300
@@ -41,10 +49,10 @@ resources:
 - title: Tabela de certificação do Azure
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: Jornada à certificação
+- title: Journey to certification
   description: Explore as etapas para obter a certificação Azure Database Administrator Associate e os recursos disponíveis para ajudá-lo a se preparar.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

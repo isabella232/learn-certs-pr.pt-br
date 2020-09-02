@@ -4,15 +4,24 @@ metadata:
   title: 'MCSD: App Builder'
   description: 'MCSD: App Builder'
 uid: certification.mcsd-app-builder-certification
-iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+iconUrl: /media/learn/certification/badges/mcsd-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div><strong>Esta certificação será desativada em 31 de janeiro de 2021. Não será mais possível obter esta certificação após esta data. Todas as certificações que você obtiver antes das datas de desativação continuarão visíveis em sua transcrição no <a href='https://www.microsoft.com/learning/dashboard.aspx'>Painel de Certificação</a>. Além disso, é possível <a href='/learn/certifications/retired-certifications'>pesquisar todas as certificações desativadas</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  <div><strong>Esta certificação será desativada em domingo, 31 de janeiro de 2021. Não será mais possível obter esta certificação após esta data. Todas as certificações que você obtiver antes das datas de desativação continuarão visíveis em sua transcrição no <a href='https://www.microsoft.com/learning/dashboard.aspx'>Painel de Certificação</a>. Além disso, é possível <a href='/learn/certifications/retired-certifications'>pesquisar todas as certificações desativadas</a>.</strong><br/><br/></div>
   </div>
 
-  Esta certificação valida as competências necessárias para construir aplicações e serviços móveis e/ou web modernos.
-subTitle: Esta certificação valida as competências necessárias para construir aplicações e serviços móveis e/ou web modernos.
+  Esta certificação valida as competências necessárias para construir aplicações e serviços móveis e/ ou web modernos.
+
+  Para obter a certificação App Builder do MCSA, você deve preencher os seguintes requisitos&#58;
+  - Receber uma certificação de pré-requisito&#58;
+    - Opção de pré-requisito 1&#58; [MCSA&#58; Web Applications](/learn/certifications/mcsa-web-applications-certification)
+    - Opção de pré-requisito 2&#58; [MCSA&#58; Universal Windows Platform](/learn/certifications/mcsa-universal-windows-platform)
+  - Deverá ser aprovado em um dos seguintes exames&#58;
+    - [70-357&#58; Desenvolvendo aplicativos móveis](/learn/certifications/exams/70-357)
+    - [70-486&#58; Desenvolvendo aplicativos Web ASP.NET MVC](/learn/certifications/exams/70-486)
+    - [70-487&#58; Desenvolvendo o Microsoft Azure e Serviços da Web](/learn/certifications/exams/70-487)
+subTitle: Esta certificação valida as competências necessárias para construir aplicações e serviços móveis e/ ou web modernos.
 levels:
 - advanced
 skills:
@@ -29,8 +38,13 @@ exams:
 - uid: exam.70-357
 - uid: exam.70-486
 - uid: exam.70-487
+prerequisites:
+- uid: certification.mcsa-web-applications-certification
+  isOptional: false
+- uid: certification.mcsa-universal-windows-platform
+  isOptional: false
 resources:
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

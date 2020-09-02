@@ -1,0 +1,305 @@
+### YamlMime:Course
+title: Developing Microsoft Azure and Web Services
+metadata:
+  title: 'Course 20487-C: Developing Microsoft Azure and Web Services'
+  description: 'Course 20487-C: Developing Microsoft Azure and Web Services'
+uid: course.20487-c
+courseNumber: '20487-C'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever os conceitos básicos de desenvolvimento de serviços e estratégias de acesso a dados por meio da plataforma .NET.
+- skill: Descrever a plataforma Microsoft Azure na nuvem e suas ofertas de hospedagem de computação, dados e aplicativos.
+- skill: Projetar e desenvolver um aplicativo centrado em dados com o Visual Studio 2017 e o Entity Framework Core.
+- skill: Projetar, implementar e consumir serviços HTTP com o ASP.NET Core.
+- skill: Estender os serviços HTTP com o ASP.NET Core.
+- skill: Serviços de hospedagem no local e no Microsoft Azure.
+- skill: Implementar serviços no local e em ambientes de nuvem e gerenciar a interface e as políticas de seus serviços.
+- skill: Escolher uma solução de armazenamento de dados, cache, distribuição e sincronização de dados.
+- skill: Monitorar, registrar e diagnosticar problemas de serviços.
+- skill: Descrever conceitos e padrões de identidade baseados em declarações e implementar a autenticação e autorização com o Azure Active Directory.
+- skill: Criar aplicativos de serviço escaláveis.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- dotnet
+exams:
+- uid: exam.70-487
+summary: |-
+  Neste curso, os estudantes aprenderão a criar e desenvolver serviços que acessam dados locais e remotos de diversas fontes. Os estudantes também aprenderão a desenvolver e implementar serviços em ambientes híbridos, incluindo servidores locais e Microsoft Azure.
+
+  #### Perfil do público
+  Primários&#58; desenvolvedores .NET que desejam aprender a desenvolver serviços e implementá-los em ambientes híbridos.
+
+  Secundários&#58; desenvolvedores .NET com experiência de desenvolvimento de aplicativos da Web que estão explorando o desenvolvimento de novos aplicativos ou compatibilizando os aplicativos existentes com o Microsoft Azure.
+prerequisitesSection: |-
+  Antes de participar deste curso, os estudantes devem ter&#58;
+  - Experiência com programação em C# e conceitos como expressões Lambda, LINQ e tipos anônimos
+  - Compreensão nos conceitos de aplicações n-camadas
+  - Experiência com consulta e manipulação de dados com o ADO.NET
+outlineSection: |-
+  ### Módulo 1&#58; Visão geral das tecnologias de serviços e em nuvem
+  Este módulo oferece uma visão geral das tecnologias de serviço e em nuvem com o Microsoft .NET Core e o Azure. A primeira lição, “Componentes básicos de aplicativos distribuídos”, discute as características comuns aos sistemas distribuídos, independentemente das tecnologias que utilizam. A lição 2, “Dados e tecnologias de acesso a dados”, descreve como os dados são usados em aplicativos distribuídos. A lição 3, “Tecnologias de serviços”, discute dois dos protocolos mais comuns no sistema distribuído e as tecnologias .NET Core usadas para desenvolver serviços com base nesses protocolos. A lição 4, “Computação em nuvem”, descreve a computação em nuvem e como é implementada no Azure.
+  #### Lições
+  - Componentes principais das aplicações distribuídas
+  - Dados e tecnologias de acesso a dados
+  - Tecnologias de serviços
+  - Computação em nuvem
+  - Manipulação de dados
+
+
+  #### Laboratório&#58; Explorando o ambiente de trabalho
+  - Criação de um projeto ASP.NET Core
+  - Criação de um modelo simples de Entity Framework
+  - Criação de uma classe de API na web
+  - Implementação do aplicativo Web no Azure
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a arquitetura de serviços e ambientes de hospedagem
+  - Descrever a computação em nuvem e a plataforma Microsoft Azure na nuvem
+  - Descrever as estratégias de acesso aos dados
+
+
+  ### Módulo 2&#58; Consulta e manipulação de dados com o Entity Framework
+  Neste módulo, você aprenderá sobre o modelo de dados do Entity Framework e sobre como criar, ler, atualizar e excluir dados. Entity Framework é um mapeador de objetos relacionais avançado que fornece uma interface de programação de aplicativos (API) conveniente e poderosa para a manipulação de dados.
+  Este módulo se concentra na abordagem Code First com Entity Framework.
+  #### Lições
+  - Visão geral do ADO.NET
+  - Criação de um modelo de dados de entidade
+  - Consulta de dados
+
+
+  #### Laboratório&#58; Criando uma camada de acesso aos dados com o Framework Entity
+  - Criação de um modelo de dados
+  - Consulta ao banco de dados
+
+
+  #### Laboratório&#58; Manipulação de dados
+  - Criar métodos de repositório
+  - Testar os modelos com o SQL Server e o SQLite
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever objetos básicos em ADO.NET e explicar como funcionam as operações assíncronas.
+  - Criar um modelo de dados do Entity Framework Core.
+  - Consultar dados com o Entity Framework Core.
+  - Inserir, excluir e atualizar entidades com o Entity Framework Core.
+
+
+  ### Módulo 3&#58; Criação e consumo de APIs Web de ASP.NET Core
+  As APIs Web de ASP.NET Core oferecem uma estrutura robusta e moderna para a criação de serviços baseados em protocolo de transferência de hipertexto (HTTP). Neste módulo, você conhecerá os serviços baseados em HTTP. Você também aprenderá como o HTTP funciona e se familiarizará com mensagens HTTP, métodos HTTP, códigos de status e cabeçalhos. Você também será apresentado ao Representational State Transfer (REST) estilo arquitectónico e hipermídia.
+
+  Você aprenderá como criar serviços baseados em HTTP com API Web de ASP.NET Core. Além disso, você aprenderá a consumi-los de vários clientes. Após a lição 3, no laboratório “Criando APIs Web de ASP.NET Core”, você criará uma API Web e a consumirá de um cliente.
+  #### Lições
+  - Serviços HTTP
+  - Criação de uma API Web com ASP.NET Core
+  - Consumo de APIs Web de ASP.NET Core
+  - Manipulação de solicitações e respostas HTTP
+  - Geração automática de solicitações e respostas HTTP
+
+
+  #### Laboratório&#58; Criação de uma API Web com ASP.NET Core
+  - Criação de uma classe controladora
+  - Uso de API de navegador
+  - Criação de cliente
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Desenvolver serviços com o protocolo HTTP.
+  - Criar serviços usando a API da Web do ASP.NET Core.
+  - Usar as classes HttpRequest/IActionResult para controlar mensagens HTTP.
+  - Consumir serviços API Web de ASP.NET.
+
+
+  ### Módulo 4&#58; Extensão de serviços HTTP ASP.NET Core
+  As APIs Web de ASP.NET Core oferecem uma solução completa para a criação de serviços HTTP, no entanto, os serviços geralmente possuem várias necessidades e dependências. Em muitos casos, será preciso ampliar ou personalizar a maneira como a API Web de ASP.NET Core executa seu serviço. As necessidades de manipulação, como a aplicação de tratamento e registro de erros, integram-se com outros componentes do seu aplicativo e oferecem suporte a outros padrões disponíveis no ambiente HTTP.
+  É importante compreender como a API Web de ASP.NET Core funciona ao estender a API Web de ASP.NET Core. A divisão das responsabilidades entre os componentes e a ordem de execução são importantes ao intervir com a forma como a API Web de ASP.NET Core é executada.
+  Por último, com a API Web de ASP.NET Core, é possível também estender a maneira como interagir com outras partes do seu sistema. Com o mecanismo de resolução de dependência, você pode controlar como as instâncias do seu serviço são criadas, dando-lhe controle total sobre o gerenciamento das dependências dos serviços.
+  #### Lições
+  - Pipeline de solicitação de ASP.NET Core
+  - Personalização de controladores e ações
+  - Injetando dependências em controladores
+
+
+  #### Laboratório&#58; Personalização do pipeline de ASP.NET Core
+  - Usar a injeção de dependência para obter um objeto de repositório
+  - Criação de filtro de cache
+  - Criação de middleware para depuração
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Estender o pipeline de solicitação e resposta para APIs Web de ASP.NET.
+  - Personalizar controladores e ações.
+  - Injetar dependências em controladores API Web de ASP.NET.
+
+
+  ### Módulo 5&#58; Serviços de hospedagem no local e no Azure
+  Neste módulo você aprenderá a hospedar aplicativos no local e no Azure.
+  Você também terá noções sobre contêineres Docker e desenvolverá aplicativos sem servidor com Azure Functions.
+  #### Lições
+  - Serviços de hospedagem no local
+  - Serviços de hospedagem no Azure App Service
+  - Serviços de empacotamento em contêineres
+  - Implementação de serviços sem servidor
+
+
+  #### Laboratório&#58; Hospedagem de um serviço ASP.NET Core em um Windows Service
+  - Criação de um novo aplicativo ASP.NET Core
+  - Registro de Windows Service
+
+
+  #### Laboratório&#58; Hospedagem de API Web de ASP.NET Core em um aplicativo Web do Azure
+  - Criação de um aplicativo Web no portal do Azure
+  - Implementação de um API Web de ASP.NET Core ao aplicativo Web
+
+
+  #### Laboratório&#58; Hospedar um serviço ASP.NET Core em instâncias de contêineres do Azure
+  - Publicação do serviço em um contêiner Docker
+  - Hospedagem do serviço em instâncias de contêineres do Azure
+
+
+  #### Laboratório&#58; Implementar uma função do Azure
+  - Desenvolvimento do serviço no local
+  - Implementação do serviço ao Azure Functions
+
+  Depois de concluir este módulo, os estudantes estarão aptos a&#58;
+  - Hospedar serviços no local com Windows Services e Microsoft Internet Information Services (IIS).
+  - Hospedar serviços no ambiente de nuvem do Azure com aplicativos Web, contêineres Docker e Azure Functions.
+  - Empacotar serviços em contêineres.
+  - Implementar serviços sem servidor.
+
+
+  ### Módulo 6&#58; Implementação e gerenciamento de serviços
+  Neste módulo, você aprenderá sobre o Web Deploy e como implementar aplicativos web com o Web Deploy no Visual Studio.
+  Você também aprenderá a definir a integração e os pipelines de entrega contínua e como usar o Azure API Management e o OpenAPI para fornecer APIs robustas, seguras e confiáveis aos seus clientes.
+  #### Lições
+  - Implantação da web com Visual Studio 2017
+  - Entrega contínua com serviços Visual Studio Team
+  - Implantação de aplicativos para ambientes de preparação e produção
+  - Definição de interfaces de serviço com gerenciamento de API do Azure
+
+
+  #### Laboratório&#58; Implementação de um serviço web ASP.NET Core no Linux
+  - Publicar o serviço web ASP.NET Core para Linux
+  - Configurar o Nginx como proxy reverso
+
+
+  #### Laboratório&#58; Implementação para preparação e produção
+  - Implementação do aplicativo para produção
+  - Criação de um slot de preparação
+  - Alternância de ambientes
+
+
+  #### Laboratório&#58; Publicação de uma API Web com Azure API Management
+  - Criação de uma instância de Azure API Management
+  - Teste e gerenciamento de API
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever o Web Deploy com Microsoft Internet Information Services (IIS).
+  - Descrever a implementação de aplicativos Web do Azure usando um pipeline construído com serviços Microsoft Visual Studio Team.
+  - Explicar como implementar serviços Web em instâncias de contêiner do Azure.
+  - Explicar como definir interfaces de serviço com o API Management e com o Swagger.
+  - Explicar como definir políticas com o API Management.
+  - Explicar a definição de interfaces de serviço com o Azure API Management e com o Swagger.
+
+
+  ### Módulo 7&#58; Implementação de armazenamento de dados no Azure
+  Este módulo descreve como armazenar e acessar dados armazenados no Azure Storage. Descreve também como configurar os direitos de acesso ao armazenamento para contêineres de armazenamento e conteúdo.
+  #### Lições
+  - Como escolher um mecanismo de armazenamento de dados
+  - Acessando dados armazenados no Azure
+  - Trabalhando com dados estruturados no Azure
+  - Distribuição geográfica de dados com CDN do Azure
+  - Dimensionamento com cache fora do processo
+
+
+  #### Laboratório&#58; Armazenamento de arquivos no Azure Storage
+  - Armazenar arquivos acessíveis ao público em blobs do Azure
+  - Gerar e armazenar arquivos privados nos blobs do Azure
+
+
+  #### Laboratório&#58; Consultar dados de gráfico com CosmosDB
+  - Criação de banco de dados de gráfico do CosmosDB
+  - Consultar o banco de dados do CosmosDB
+
+
+  #### Laboratório&#58; Armazenar dados em cache fora de processo com Cache Redis do Azure
+  - Criação do serviço Cache Redis do Azure
+  - Acessar o serviço de cache a partir do código
+  - Testar o aplicativo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever a arquitetura de armazenamento.
+  - Controlar o acesso aos seus itens de armazenamento.
+  - Armazenar dados em cache com o Azure Cache para Redis.
+  - Distribuir dados com a rede de distribuição de conteúdo do Microsoft Azure.
+
+
+  ### Módulo 8&#58; Diagnóstico e monitoramento
+  Este módulo explica como monitorar e registrar serviços no local e no Azure.
+  #### Lições
+  - Conectando-se ao ASP.NET Core
+  - Ferramentas de diagnóstico
+  - Application Insights
+
+
+  #### Laboratório&#58; Monitoramento de ASP.NET Core com ETW e LTTng
+  - Coletar e visualizar eventos ETW
+  - Coletar e visualizar eventos LTTng
+
+
+  #### Laboratório&#58; Monitoramento de aplicativos Web do Azure com Application Insights
+  - Adicionar SDK do Application Insights
+  - Realizar teste de carga do serviço Web
+  - Analisar os resultados de desempenho
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever os ouvintes de rastreamento
+  - Descrever os contadores de desempenho
+  - Descrever os eventos ETW e LTTng
+  - Demonstrar o uso de App Insights para monitoramento de serviços
+
+
+  ### Módulo 9&#58; Proteção de serviços no local e no Microsoft Azure
+  Este módulo descreve os conceitos e padrões de identidade baseados em declarações e como implementar a autenticação e autorização com o Azure Active Directory para proteção de um serviço API Web de ASP.NET Core.
+  #### Lições
+  - Explicando a terminologia de segurança
+  - Proteção de serviços com o ASP.NET Core Identity
+  - Proteção de serviços com Azure Active Directory
+
+
+  #### Laboratório&#58; Uso do ASP.NET Core Identity
+  - Adicionar middleware do ASP.NET Core Identity
+  - Adicionar código de autorização
+  - Executar um aplicativo cliente para teste de servidor
+
+
+  #### Laboratório&#58; Uso de Azure Active Directory com ASP.NET Core
+  - Autenticar um aplicativo cliente com AAD B2C e MSAL.js
+
+
+  ### Módulo 10&#58; Serviços de dimensionamento
+  Este módulo descreve como criar serviços e aplicativos escaláveis e como dimensioná-los automaticamente com balanceadores de carga de aplicativos Web, Azure Application Gateway e gerenciador de tráfego do Microsoft Azure.
+  #### Lições
+  - Introdução à escalabilidade
+  - Dimensionamento automático
+  - Azure Application Gateway e gerenciador de tráfego
+
+
+  #### Laboratório&#58; Balanceamento de carga de aplicativos Web do Azure
+  - Preparação do aplicativo para balanceamento de carga
+  - Teste do balanceamento de carga com afinidade de instância
+  - Teste do balanceamento de carga sem afinidade
+
+
+  #### Laboratório&#58; Balanceamento de carga com gerenciador de tráfego do Azure
+  - Implementar um aplicativo Web do Azure para várias regiões
+  - Criar um perfil no gerenciador de tráfego do Azure
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Explicar a necessidade de escalabilidade.
+  - Descrever como usar o balanceamento de carga para serviços de dimensionamento.
+  - Explicar o Azure Load Balancer, Azure Application Gateway e gerenciador de tráfego do Azure.
+

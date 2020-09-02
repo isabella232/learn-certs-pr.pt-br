@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
-  description: Esta certificação será disponibilizada em setembro de 2020. Os Dynamics 365 Business Central Functional Consultants são responsáveis pela implementação dos processos de configuração básicos de aplicativos para pequenas e médias empresas.
+  description: Esta certificação estará disponível em outubro de 2020. Os Dynamics 365 Business Central Functional Consultants são responsáveis pela implementação dos processos de configuração básicos de aplicativos para pequenas e médias empresas.
 uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -10,34 +10,41 @@ summary: |-
 
   Os Dynamics 365 Business Central Functional Consultants são responsáveis pela implementação dos processos de configuração básicos de aplicativos para pequenas e médias empresas.
 
-  <div><br/><strong>Observação&#58; Esta certificação será disponibilizada em setembro de 2020.</strong></div>
-subTitle: Esta certificação será disponibilizada em setembro de 2020. Os Dynamics 365 Business Central Functional Consultants são responsáveis pela implementação dos processos de configuração básicos de aplicativos para pequenas e médias empresas.
+  <div><br/><strong>Observação&#58; Esta certificação estará disponível em outubro de 2020.</strong></div>
+subTitle: Esta certificação estará disponível em outubro de 2020. Os Dynamics 365 Business Central Functional Consultants são responsáveis pela implementação dos processos de configuração básicos de aplicativos para pequenas e médias empresas.
 levels:
 - intermediate
 skills:
-- Ainda não está disponível
+- Configurar o Business Central
+- Configurar finanças
+- Configurar vendas e compras
+- Realizar operações com Business Central
 roles:
 - functional-consultant
 type: role-based
 products:
 - dynamics-business-central
 - power-platform
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSG
 exams:
 - uid: exam.mb-800
 resources:
-- title: Guia de treinamento e certificação
+- title: Cartaz de certificação
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Journey to certification
+  description: Explore as etapas para obter a certificação e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Suporte para certificações
-  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
-  href: help.md
 - title: Painel de certificação
   description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
 

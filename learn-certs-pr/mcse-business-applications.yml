@@ -7,25 +7,23 @@ uid: certification.mcse-business-applications
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div><strong>Esta certificação será desativada em 31 de janeiro de 2021. Não será mais possível obter esta certificação após esta data. Todas as certificações que você obtiver antes das datas de desativação continuarão visíveis em sua transcrição no <a href='https://www.microsoft.com/learning/dashboard.aspx'>Painel de Certificação</a>. Além disso, é possível <a href='/learn/certifications/retired-certifications'>pesquisar todas as certificações desativadas</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  <div><strong>Esta certificação será desativada em domingo, 31 de janeiro de 2021. Não será mais possível obter esta certificação após esta data. Todas as certificações que você obtiver antes das datas de desativação continuarão visíveis em sua transcrição no <a href='https://www.microsoft.com/learning/dashboard.aspx'>Painel de Certificação</a>. Além disso, é possível <a href='/learn/certifications/retired-certifications'>pesquisar todas as certificações desativadas</a>.</strong><br/><br/></div>
   </div>
 
   Esta certificação valida que você tem os conhecimentos necessários para trabalhar e gerenciar as tecnologias Microsoft Dynamics 365. Você começará com uma fundamentação em Microsoft Dynamics 365 e demonstrar conhecimentos adicionais em uma ou mais áreas específicas de negócios.
 
-  Para obter a certificação MCSE&#58; Business Applications, você deve ser aprovado em um dos seguintes exames&#58;
-  - [MB2-716&#58; Microsoft Dynamics 365 Customization and Configuration](/learn/certifications/exams/mb2-716)
-  - [MB2-718&#58; Microsoft Dynamics 365 for Customer Service](/learn/certifications/exams/mb2-718)
-  - [MB2-719&#58; Microsoft Dynamics 365 for Marketing](/learn/certifications/exams/mb2-719)
-  - [MB6-895&#58; Financial Management in Microsoft Dynamics 365 for Finance and Operations](/learn/certifications/exams/mb6-895)
-  - [MB6-896&#58; Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations](/learn/certifications/exams/mb6-896)
-  - [MB6-897&#58; Microsoft Dynamics 365 for Retail](/learn/certifications/exams/mb6-897)
-  - [MB6-898&#58; Microsoft Dynamics 365 for Talent](/learn/certifications/exams/mb6-898)
+  Para obter a certificação Business Applications do MCSA, você deve preencher os seguintes requisitos&#58;
+  - Obter a certificação de pré-requisito&#58; [MCSA&#58; Microsoft Dynamics 365 for Operations](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations)
+  - Deverá ser aprovado em um dos seguintes exames&#58;
+    - [MB2-716&#58; Microsoft Dynamics 365 Customization and Configuration](/learn/certifications/exams/mb2-716)
+    - [MB6-897&#58; Microsoft Dynamics 365 for Retail](/learn/certifications/exams/mb6-897)
+    - [MB6-898&#58; Microsoft Dynamics 365 for Talent](/learn/certifications/exams/mb6-898)
 subTitle: Esta certificação valida que você tem os conhecimentos necessários para trabalhar e gerenciar as tecnologias Microsoft Dynamics 365. Você começará com uma fundamentação em Microsoft Dynamics 365 e demonstrar conhecimentos adicionais em uma ou mais áreas específicas de negócios.
 levels:
 - beginner
 skills:
-- nenhuma
+- none
 roles:
 - business-analyst
 type: mcse
@@ -35,8 +33,11 @@ exams:
 - uid: exam.mb-2-716
 - uid: exam.mb-6-897
 - uid: exam.mb-6-898
+prerequisites:
+- uid: certification.mcsa-microsoft-dynamics-365-for-operations
+  isOptional: false
 resources:
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

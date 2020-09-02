@@ -34,10 +34,13 @@ locales:
 - ja
 - zh-cn
 - ko
+- es
+- de
+- fr
 levels:
 - beginner
 skills:
-- 'O conteúdo deste exame foi atualizado em, 28 de maio de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.'
+- O conteúdo deste exame foi atualizado em, 28 de maio de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
 - Descrever os conceitos de nuvem (15-20%)
 - Descrever os serviços básicos do Azure (30-35%)
 - Descrever segurança, privacidade, conformidade e confiabilidade (25-30%)
@@ -58,10 +61,10 @@ relatedCertifications:
 - related:
     uid: certification.azure-fundamentals
 resources:
-- title: Jornada à certificação
+- title: Journey to certification
   description: Explore as etapas para obter a certificação no Azure Fundamentals e os recursos disponíveis para ajudá-lo a se preparar
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElB
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

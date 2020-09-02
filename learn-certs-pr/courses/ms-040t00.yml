@@ -8,23 +8,23 @@ courseNumber: 'MS-040T00-A'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Configurar sites do SharePoint
-- skill: Gerenciar limites de armazenamento de sites
-- skill: Implementar o cliente de sincronização do OneDrive
-- skill: Usar a política de grupo para controlar as configurações do cliente de sincronização do OneDrive
-- skill: Gerenciar o compartilhamento externo de dados no Microsoft SharePoint e no OneDrive
-- skill: configurar propriedades do perfil de usuário
-- skill: Gerenciar públicos-alvo
-- skill: Usar o catálogo de aplicativos para criar aplicativos personalizados
-- skill: Criar e gerenciar grupos de termos, conjuntos de termos e termos
-- skill: Descrever a diferença entre experiências de pesquisa modernas e clássicas
+- skill: Configurar sites do SharePoint.
+- skill: Gerenciar limites de armazenamento de sites.
+- skill: Implementar o cliente de sincronização do OneDrive.
+- skill: Usar a política de grupo para controlar as configurações do cliente de sincronização do OneDrive.
+- skill: Gerenciar o compartilhamento externo de dados no Microsoft SharePoint e no OneDrive.
+- skill: configurar propriedades do perfil de usuário.
+- skill: Gerenciar públicos-alvo.
+- skill: Usar o catálogo de aplicativos para criar aplicativos personalizados.
+- skill: Criar e gerenciar grupos de termos, conjuntos de termos e termos.
+- skill: Descrever a diferença entre experiências de pesquisa modernas e clássicas.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
 - intermediate
 roles:
-- developer
+- administrator
 products:
 - m365
 summary: |-
@@ -84,12 +84,12 @@ outlineSection: |-
   ### Módulo 4&#58; Gerenciar perfis de usuário e aplicativos
   Este módulo abrange a personalização de perfis de usuário no Microsoft SharePoint. O curso descreve como gerenciar perfis de usuário no Microsoft SharePoint. Descreve também como usar o catálogo de aplicativos para disponibilizar aplicativos comerciais personalizados para o SharePoint no Microsoft 365.
   #### Lições
-  - Gerenciar perfis de usuário
+  - Manage User Profiles
   - Gerenciar aplicativos
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever como configurar propriedades do perfil do usuário.
-  - Descrever como gerenciar públicos-alvo.
+  - Descrever como gerenciar públicos-alvo
   - Descrever como usar o catálogo de aplicativos para criar aplicativos personalizados.
 
 

@@ -6,7 +6,7 @@ metadata:
 uid: exam.mo-300
 displayName: MO-300
 summary: |-
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
   Este exame inclui a habilidade de criar e gerenciar apresentações, inserir e formatar as formas e slides, criar o conteúdo do slide, aplicar transições e animações e gerenciar várias apresentações. Alguns exemplos de apresentações incluem apresentações de vendas profissionais, treinamento de funcionários, materiais instrucionais e apresentações de slides de quiosques. Os candidatos devem demonstrar a aplicação correta dos principais recursos do PowerPoint e concluir as tarefas de maneira independente.
 subTitle: Este exame mede a competência para criar, editar e aprimorar apresentações e apresentações de slides, incluindo a capacidade de criar e gerenciar apresentações, inserir e formatar formas e slides, criar conteúdo de slides, aplicar transições e animações e gerenciar várias apresentações. Alguns exemplos de apresentações incluem apresentações de vendas profissionais, treinamento de funcionários, materiais instrucionais e apresentações de slides de quiosques.
@@ -27,6 +27,9 @@ locales:
 - ru
 - fr
 - pt-br
+- pl
+- el-gr
+- zh-cn
 levels:
 - intermediate
 skills:
@@ -44,7 +47,7 @@ relatedCertifications:
 - related:
     uid: certification.mos-powerpoint-2019
 resources:
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Painel de certificação
