@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |-
-  Conheça o valor comercial e os recursos da Power Platform. Crie um PowerApp simples, conecte dados ao CDS, crie um painel do Power BI e automatize um processo com o Microsoft Flow.
+  Conheça o valor comercial e os recursos da Power Platform. Crie um PowerApp simples, conecte dados ao Common Data Service, crie um painel do Power BI e automatize um processo com o Power Automate.
 
   #### Perfil do público
   Os candidatos a este exame são usuários que aspiram melhorar a produtividade automatizando processos de negócios, analisando dados para produzir insights de negócios e agindo de forma mais eficaz com a criação de experiências de aplicativo simples.
@@ -44,31 +44,14 @@ outlineSection: |-
   - Aprenda o valor de usar a Power Platform para criar soluções de negócio
   - Aprenda os componentes e características do Power Platform
 
-  ### Módulo 2&#58; Inicie com as aplicações Power
-  Aprenda sobre o valor e as capacidades do PowerApps, e maneiras em que outras organizações alavancaram esta tecnologia para desenvolver simples aplicações para seus negócios.
-  #### Lições
-  - Visão Geral do Power Apps
-  - Como desenvolver uma solução de aplicação
-  - Crie aplicação de tela de pessoal
-  - Complete a aplicação
 
-  #### Laboratório &#58; Como desenvolver uma aplicação de tela básica 2
-  - Criação de aplicação de tela de segurança
-
-  Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Aprenda como outras organizações digitalizem seus processos usando Power Appps
-  - Consulte a Power Apps em ação e aprenda opções para fazer sua primeira aplicação
-  - Aprenda sobre o que é Power Apps e seu valor de negócio
-
-
-  ### Módulo 3&#58; Introdução ao serviços de Dados Comuns
+  ### Módulo 2&#58; Introdução ao serviços de Dados Comuns
   O Serviço de Dados Comuns lhe permite aprofunda em soluções de dados potentes e escaláveis na nuvem. Aprenda o que torna o Serviço de Dados Comum funcionar e como pode funcionar com a Power Platform para criar soluções de negócio únicas e eficientes.
   #### Lições
   - Visão geral de serviço de dados comuns
   - Resumo do módulo
 
-
-  #### Laboratório &#58; Modelagem de dados
+  #### Laboratório&#58; Modelagem de dados
   - Criação de ambiente e solução
   - Criação de entidades e relacionamentos
   - Importação de dados
@@ -79,14 +62,36 @@ outlineSection: |-
   - Explique quais ambientes, entidades, campos e relacionamentos estão em serviço de dados comuns
 
 
+  ### Módulo 3&#58; Inicie com as aplicações Power
+  Conheça o valor e os recursos dos Power Apps e as formas que outras organizações utilizam essa tecnologia para criar aplicativos simples para seus negócios.
+  #### Lições
+  - Visão Geral do Power Apps
+  - Como desenvolver uma solução de aplicação
+
+  #### Laboratório&#58; Aplicativo Canvas, parte 1
+  - Crie aplicação de tela de pessoal
+  - Complete a aplicação
+
+  #### Laboratório&#58; Aplicativo Canvas, parte 2
+  - Criação de aplicação de tela de segurança
+
+  #### Laboratório&#58; Aplicativos orientados a modelo
+  - Personalizar visualizações e formulários
+  - Criar aplicativo orientado a modelo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Aprenda como outras organizações digitalizem seus processos usando Power Appps
+  - Consulte a Power Apps em ação e aprenda opções para fazer sua primeira aplicação
+  - Aprenda sobre o que é Power Apps e seu valor de negócio
+
+
   ### Módulo 4&#58; Inicie com Power Automate
   Aprenda como os usuários podem alavancar o Power Automate para aprimorar eficiência e produtividade de negócio.
   #### Lições
   - Visão geral do Power Automate
   - Como desenvolver uma solução automatizada
 
-
-  #### Laboratório &#58; Desenvolva um fluxo simples
+  #### Laboratório&#58; Power Automate
   - Criação de Fluxo de notificação de visita
   - Criação de Fluxo de varrição de segurança
 
@@ -102,8 +107,9 @@ outlineSection: |-
   - Visão geral do Power BI
   - Como desenvolver um Painel de Controle Simples
 
-
-  #### Laboratório &#58; Desenvolver um Relatório de Power BI
+  #### Laboratório&#58; Power BI
+  - Criar relatório do Power BI
+  - Criar painel do Power BI
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Ver como o Power BI funciona e olhe a partir da perspectiva do usuário

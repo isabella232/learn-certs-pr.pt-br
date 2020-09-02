@@ -2,14 +2,16 @@
 title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
-  description: 'Os Consultores Funcionais do Microsoft Dynamics 365 para Atendimento ao Cliente criam soluções CX rápidas e ágeis e utilizam a Inteligência Artificial para conduzir insights acionáveis que antecipam as necessidades do cliente.'
+  description: 'Os Consultores Funcionais do Microsoft Dynamics 365 Customer Service criam soluções CX rápidas e ágeis e utilizam a Inteligência Artificial para conduzir insights acionáveis que antecipam as necessidades do cliente.'
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  <div><strong>MB-200 SERÁ SUBSTITUÍDO POR UM NOVO EXAME, <a href="/learn/certifications/exams/pl-200">PL-200</a>, EM SETEMBRO DE 2020. Você poderá receber essa certificação ao passar no exame MB-200 ou PL-200 e no exame MB-230, até que o exame MB-200 seja desativado em 31 de dezembro de 2020. Após a desativação do exame MB-200, a aprovação nos exames PL-200 e MB-230 será necessária para obter essa certificação.</strong><br/><br/></div></div>/div>
 
-  Os Consultores Funcionais do Microsoft Dynamics 365 para Atendimento ao Cliente criam soluções CX rápidas e ágeis e utilizam a Inteligência Artificial para conduzir insights acionáveis que antecipam as necessidades do cliente.
-subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 para Atendimento ao Cliente criam soluções CX rápidas e ágeis e utilizam a Inteligência Artificial para conduzir insights acionáveis que antecipam as necessidades do cliente.
+  Os Consultores Funcionais do Microsoft Dynamics 365 Customer Service criam soluções CX rápidas e ágeis e utilizam a Inteligência Artificial para conduzir insights acionáveis que antecipam as necessidades do cliente.
+subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 Customer Service criam soluções CX rápidas e ágeis e utilizam a Inteligência Artificial para conduzir insights acionáveis que antecipam as necessidades do cliente.
 levels:
 - intermediate
 skills:
@@ -27,7 +29,7 @@ roles:
 - functional-consultant
 type: role-based
 products:
-- dynamics
+- dynamics-365
 - dynamics-customer-service
 courses:
 - uid: course.mb-200t00
@@ -43,28 +45,31 @@ paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-dynamics.create-forms
+- uid: learn-dynamics.create-surveys
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
 exams:
 - uid: exam.mb-200
 - uid: exam.mb-230
 resources:
-- title: Certificação Caminho de Aprendizagem
-  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35KL2
-- title: Guia de treinamento e certificação
+- title: Cartaz de certificação
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Journey to certification
+  description: Explore as etapas para obter a certificação e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Certificação Caminho de Aprendizagem
+  description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Suporte para certificações
-  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
-  href: help.md
 - title: Painel de certificação
   description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
 

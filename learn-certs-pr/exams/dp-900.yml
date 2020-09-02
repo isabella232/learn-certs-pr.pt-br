@@ -1,11 +1,20 @@
 ### YamlMime:Examination
-title: 'Microsoft Azure Data Fundamentals (beta)'
+title: 'Microsoft Azure Data Fundamentals'
 metadata:
-  title: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
-  description: 'Exam DP-900: Microsoft Azure Data Fundamentals (beta)'
+  title: 'Exam DP-900: Microsoft Azure Data Fundamentals'
+  description: 'Exam DP-900: Microsoft Azure Data Fundamentals'
 uid: exam.dp-900
 displayName: DP-900
-summary: "<div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>\r\n\r\nOs candidatos a este exame devem ter conhecimento básico nos principais conceitos de dados e como são implementados por meio dos serviços de dados do Microsoft Azure.\r\n\r\nEste exame destina-se a candidatos que estão iniciando no ambiente de dados em nuvem.\r\n\r\nOs candidatos devem estar familiarizados com os conceitos de dados relacionais e não relacionais e com diferentes tipos de cargas de trabalho de dados, como transacionais ou analíticas.\r\n\r\nO Azure Data Fundamentals pode ser usado como capacitação para outras certificações baseadas em funções do Azure, como o Azure Database Administrador Associate ou o Azure Data Engineer Associate, mas não é um pré-requisito para nenhuma delas.  \r\n\r\n<div style='font-weight&#58; bold;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">sobre o valor e a importância dos exames beta</a>.</div>"
+summary: |-
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+
+  Os candidatos a este exame devem ter conhecimento básico nos principais conceitos de dados e como são implementados por meio dos serviços de dados do Microsoft Azure.
+
+  Este exame destina-se a candidatos que estão iniciando no ambiente de dados em nuvem.
+
+  Os candidatos devem estar familiarizados com os conceitos de dados relacionais e não relacionais e com diferentes tipos de cargas de trabalho de dados, como transacionais ou analíticas.
+
+  O Azure Data Fundamentals pode ser usado como capacitação para outras certificações baseadas em funções do Azure, como o Azure Database Administrador Associate ou o Azure Data Engineer Associate, mas não é um pré-requisito para nenhuma delas.
 subTitle: 'Prove que você pode descrever o seguinte: conceitos básicos de dados, como trabalhar com dados relacionais e dados não relacionais no Azure e cargas de trabalho de análise no Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
@@ -28,6 +37,8 @@ roles:
 - database-administrator
 products:
 - azure
+courses:
+- uid: course.dp-900t00
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
 - uid: learn.wwl.azure-data-fundamentals-explore-relational-data
@@ -37,10 +48,10 @@ relatedCertifications:
 - related:
     uid: certification.azure-data-fundamentals
 resources:
-- title: Jornada à certificação
+- title: Journey to certification
   description: Explore as etapas para obter a certificação no Azure Dados Fundamentals e os recursos disponíveis para ajudá-lo a se preparar.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

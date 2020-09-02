@@ -7,8 +7,8 @@ uid: exam.az-220
 displayName: AZ-220
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame será atualizado em, 21 de julho de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.<br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  <div><strong>O conteúdo deste exame foi atualizado em, 21 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
   </div>
 
   Os candidatos a este exame devem ter experiência no desenvolvimento de componentes de nuvem e de borda de uma solução de IoT do Azure.
@@ -18,7 +18,7 @@ summary: |-
   O desenvolvedor da IoT trabalha com engenheiros de dados e outras partes interessadas para garantir uma integração comercial bem-sucedida.
 
   Um candidato a este exame deve ter experiência na implementação dos serviços do Azure que formam uma solução de IoT, incluindo opções de armazenamento, análise e processamento de dados e opções de plataforma como serviço. Essa função também deve ser capaz de reconhecer as configurações do serviço de IoT do Azure na parte de código de uma solução de IoT e executar tarefas específicas de codificação de IoT em pelo menos uma linguagem suportada pelo Azure, incluindo C #, Node, C ou Python.
-subTitle: 'Este exame mede sua capacidade de implementar a infraestrutura da solução de IoT; provisionar e gerenciar dispositivos; implementar soluções em dispositivos Azure IoT Edge; processar e gerenciar dados; monitorar, solucionar problemas e otimizar soluções de IoT; e implementar segurança .'
+subTitle: 'Este exame mede sua capacidade de implementar a infraestrutura da solução de IoT; provisionar e gerenciar dispositivos; implementar soluções em dispositivos Azure IoT Edge; processar e gerenciar dados; monitorar, solucionar problemas e otimizar soluções de IoT; e implementar segurança.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -31,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em, 21 de julho de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
+- O conteúdo deste exame foi atualizado em, 21 de julho de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
 - Implementar a infraestrutura da solução de IoT (15-20%)
 - Fornecer e gerenciar dispositivos (20-25%)
 - Implementar o Edge (15-20%)
@@ -55,10 +55,10 @@ relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty
 resources:
-- title: Jornada à certificação
+- title: Journey to certification
   description: Explore as etapas para obter a certificação no Azure IoT developer Specialty e os recursos disponíveis para ajudá-lo a se preparar.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

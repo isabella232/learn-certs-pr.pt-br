@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
-  description: Esta certificação estará disponível em outubro de 2020. O Power Platform Functional Consultant deve ter amplo conhecimento aplicado da Power Platform, incluindo o entendimento prático de recursos, limites e restrições.
+  description: Esta certificação será disponibilizada em setembro de 2020. O Power Platform Functional Consultant deve ter amplo conhecimento aplicado da Power Platform, incluindo o entendimento prático de recursos, limites e restrições.
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -10,16 +10,16 @@ summary: |-
 
   O Power Platform Functional Consultant deve ter amplo conhecimento aplicado da Power Platform, incluindo o entendimento prático de recursos, limites e restrições. Eles devem ter experiência no uso das ferramentas do criador do Power Platform para criar soluções que usam a Power Platform e o Microsoft 365. Os Functional Consultants certificados devem ter proficiência em modelagem de dados, design de experiência do usuário, análise de requisitos e análise de processos.
 
-  <div><br/><strong>Observação&#58; Esta certificação estará disponível em outubro de 2020.</strong></div>
-subTitle: Esta certificação estará disponível em outubro de 2020. O Power Platform Functional Consultant deve ter amplo conhecimento aplicado da Power Platform, incluindo o entendimento prático de recursos, limites e restrições.
+  <div><br/><strong>Observação&#58; Esta certificação será disponibilizada em setembro de 2020.</strong></div>
+subTitle: Esta certificação será disponibilizada em setembro de 2020. O Power Platform Functional Consultant deve ter amplo conhecimento aplicado da Power Platform, incluindo o entendimento prático de recursos, limites e restrições.
 levels:
 - intermediate
 skills:
 - Configurar o Common Data Service
-- Criar um Power App
-- Criar automações com o Power Automate
-- Configurar Power Virtual Agents
-- Criar visualizações com o Power BI
+- Criar aplicativos com Power Apps
+- Criar e gerenciar o Power Automate
+- Implementar assistentes virtuais com Power Virtual Agents
+- Integrar Power Apps com outros aplicativos e serviços
 roles:
 - business-analyst
 - developer
@@ -34,22 +34,26 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4D1eL
 exams:
 - uid: exam.pl-200
 resources:
-- title: Guia de treinamento e certificação
+- title: Cartaz de certificação
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Journey to certification
+  description: Explore as etapas para obter a certificação e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
-- title: Suporte para certificações
-  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
-  href: help.md
 - title: Painel de certificação
   description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
 

@@ -10,7 +10,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Planejar a transformação com objetivos e cronogramas compartilhados
 - skill: Selecionar um projeto e identificar métricas e KPIs do projeto
-- skill: Criar uma equipe e estrutura organizacional ágil
+- skill: Criar uma equipe e estrutura organização ágil
 - skill: Descrever as vantagens do uso do controle de origem
 - skill: Migrar do TFVC para o Git
 - skill: Dimensionar o Git para DevOps corporativos
@@ -192,10 +192,6 @@ outlineSection: |-
 
   #### Laboratório&#58; Integração de controle de origem externa com Azure Pipelines
 
-  #### Laboratório&#58; Integração do Jenkins com Azure Pipelines
-
-  #### Laboratório&#58; Implementando um aplicativo com vários contêineres
-
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Implementar e gerenciar a infraestrutura de construção
   - Explicar por que a integração contínua é importante
@@ -214,6 +210,7 @@ outlineSection: |-
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Gerenciar configurações e segredos do aplicativo
+  - Implementação de ferramentas para gerenciar segurança e conformidade no pipeline
 
 
   ### Módulo 7&#58; Gerenciando políticas de segurança e qualidade de código
@@ -244,7 +241,7 @@ outlineSection: |-
   - Segurança do pacote
   - Software livre
   - Integração de verificações de licença e vulnerabilidade
-  - Implementar uma estratégia de controle de versão (Git Version) 
+  - Implementação de uma estratégia de versão 
 
   #### Laboratório&#58; Gerenciar a segurança e a licença de código aberto com o WhiteSource
 
@@ -344,20 +341,7 @@ outlineSection: |-
   - Integrar e configurar sistemas de emissão de tíquetes com o sistema de gerenciamento de trabalho da equipe de desenvolvimento
 
 
-  ### Módulo 14&#58; Implementar uma estratégia de DevOps móvel
-  #### Lições
-  - Introdução aos DevOps móvel
-  - Introdução ao Visual Studio App Center
-  - Gerenciar conjuntos de dispositivos de destino e grupos de distribuição para dispositivos móveis
-  - Gerenciar conjuntos de dispositivos de teste da IU de destino
-  - Provisionar dispositivos testadores para implantação
-  - Criar grupos de distribuição públicos e privados 
-
-  Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Implementar uma estratégia de DevOps móvel
-
-
-  ### Módulo 15&#58; Ferramentas do Azure de infraestrutura e configuração
+  ### Módulo 14&#58; Ferramentas do Azure de infraestrutura e configuração
   #### Lições
   - Infraestrutura como código e gerenciamento de configuração
   - Criação de recursos do Azure usando modelos ARM
@@ -374,7 +358,7 @@ outlineSection: |-
   - Implementar e gerenciar a infraestrutura usando as tecnologias de automação da Microsoft, como modelos ARM, PowerShell e CLI do Azure
 
 
-  ### Módulo 16&#58; Modelos e serviços de implementação do Azure
+  ### Módulo 15&#58; Modelos e serviços de implementação do Azure
   #### Lições
   - Modelos e opções de implementação
   - Serviços de Infraestrutura como Serviço (IaaS) do Azure
@@ -382,13 +366,13 @@ outlineSection: |-
   - Serviços de computador sem servidor e HPC
   - Azure Service Fabric 
 
-  #### Laboratório&#58; Azure Automation - implementação de IaaS ou PaaS
+  #### Laboratório&#58; Implementando um aplicativo Java com Docker para Web App for Containers do Azure
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever modelos de implementação e serviços disponíveis no Azure
 
 
-  ### Módulo 17&#58; Criação e gerenciamento de infraestrutura de serviço Kubernetes
+  ### Módulo 16&#58; Criação e gerenciamento de infraestrutura de serviço Kubernetes
   #### Lições
   Azure Kubernetes Service
 
@@ -398,7 +382,7 @@ outlineSection: |-
   - Implementar e configurar um cluster do Kubernetes gerenciado
 
 
-  ### Módulo 18&#58; Infraestrutura de terceiros como ferramentas de código disponíveis no Azure
+  ### Módulo 17&#58; Infraestrutura de terceiros como ferramentas de código disponíveis no Azure
   #### Lições
   - Chef
   - Puppet
@@ -410,10 +394,10 @@ outlineSection: |-
   #### Laboratório&#58; Automatização de suas implementações de infraestrutura na nuvem com Terraform e Azure Pipelines
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Implementar e configurar a infraestrutura usando ferramentas e serviços de terceiros com o Azure, como Chef, Puppet, Ansible, SaltStack e Terraform
+  - Implementar e configurar a infraestrutura usando ferramentas e serviços de terceiros com o Azure, como Chef, Puppet, Ansible, e Terraform
 
 
-  ### Módulo 19&#58; Implementar a conformidade e segurança em sua infraestrutura
+  ### Módulo 18&#58; Implementar a conformidade e segurança em sua infraestrutura
   #### Lições
   - Princípios de segurança e conformidade com DevOps
   - Azure Security Center 
@@ -425,7 +409,7 @@ outlineSection: |-
   - Implementar a conformidade e segurança em sua infraestrutura de aplicativos
 
 
-  ### Módulo 20&#58; Recomendar e projetar mecanismos de feedback do sistema
+  ### Módulo 19&#58; Recomendar e projetar mecanismos de feedback do sistema
   #### Lições
   - Loop interno
   - Mentalidade de experimentação contínua
@@ -443,7 +427,7 @@ outlineSection: |-
   - Recomendar ferramentas de controle de uso do sistema e recursos
 
 
-  ### Módulo 21&#58; Otimizar mecanismos de feedback
+  ### Módulo 20&#58; Otimizar mecanismos de feedback
   #### Lições
   - Engenharia de confiabilidade do local
   - Analisar a telemetria para estabelecer uma linha de base
