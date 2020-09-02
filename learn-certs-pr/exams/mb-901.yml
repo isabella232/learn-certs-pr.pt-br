@@ -7,8 +7,8 @@ uid: exam.mb-901
 displayName: MB-901
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em, 10 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  <div><strong>O conteúdo deste exame foi atualizado em, 10 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
   </div>
 
   Este exame cobrirá o posicionamento e os benefícios da adoção do Dynamics 365.
@@ -21,6 +21,12 @@ iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
 locales:
 - en
+- es
+- de
+- zh-cn
+- fr
+- ko
+- ja
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
@@ -37,7 +43,7 @@ skills:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 courses:
 - uid: course.mb-901t00
 paths:
@@ -49,7 +55,7 @@ resources:
 - title: Certificação Caminho de Aprendizagem
   description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Dynamics 365 Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

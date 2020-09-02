@@ -1,12 +1,12 @@
 ### YamlMime:Examination
-title: Administering Relational Databases on Microsoft Azure (beta)
+title: Administering Relational Databases on Microsoft Azure
 metadata:
-  title: 'DP-300: Administering Relational Databases on Microsoft Azure (beta)'
-  description: 'DP-300: Administering Relational Databases on Microsoft Azure (beta)'
+  title: 'DP-300: Administering Relational Databases on Microsoft Azure'
+  description: 'DP-300: Administering Relational Databases on Microsoft Azure'
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
   Os candidatos a este exame são administradores de banco de dados e especialistas em gerenciamento de dados que gerenciam bancos de dados relacionais locais e na nuvem criados com base nos serviços de dados do Microsoft SQL Server e do Microsoft Azure.
 
@@ -14,7 +14,7 @@ summary: |-
 
   Essa função é responsável pelo gerenciamento, disponibilidade, segurança e monitoramento e otimização de desempenho das soluções modernas de banco de dados relacional. Esta função funciona com a função de Engenheiro de Dados do Azure para gerenciar aspectos operacionais das soluções da plataforma de dados.
 
-  <div style='font-weight&#58; bold;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</div>
+  <div><strong><br/>Os exames beta não são pontuados imediatamente, pois estamos coletando dados sobre a qualidade das questões e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</strong></div>
 subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: planejar e implementar recursos da plataforma de dados; implementar um ambiente seguro; monitorar e otimizar recursos operacionais; otimizar o desempenho da consulta; executar automação de tarefas; planejar e implementar um ambiente de alta disponibilidade e recuperação de desastres (HADR); e executar a administração usando o T-SQL.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
@@ -44,14 +44,22 @@ products:
 - sql-server
 courses:
 - uid: course.dp-300t00
+paths:
+- uid: learn.azure-sql-fundamentals
+- uid: learn.wwl.plan-implement-data-platform-resources
+- uid: learn.wwl.implement-secure-environment-database-service
+- uid: learn.wwl.monitor-optimize-operational-resources-sql-server
+- uid: learn.wwl.optimize-query-performance-sql-server
+- uid: learn.wwl.automate-tasks-sql-server
+- uid: learn.wwl.plan-implement-ha-dr-environment
 relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate
 resources:
-- title: Jornada à certificação
+- title: Journey to certification
   description: Explore as etapas para obter a certificação Azure Database Administrator Associate e os recursos disponíveis para ajudá-lo a se preparar.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

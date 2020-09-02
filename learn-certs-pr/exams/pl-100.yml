@@ -5,7 +5,7 @@ metadata:
   description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
 uid: exam.pl-100
 displayName: PL-100
-summary: "<div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>\r\n  \r\nO criador de aplicativos cria soluções para simplificar, automatizar e transformar tarefas e processos para ele e sua equipe, os quais possuem profundo conhecimento no domínio da solução. Eles são especializados em tarefas essenciais de analistas de negócios técnicos, como modelagem de dados, design básico de UX, análise de requisitos, análise de processos etc.<br/><br/>\r\n\r\nO criador de aplicativos cria e aplica processos de negócios, estrutura a coleta digital de informações, melhora a eficiência de tarefas repetíveis e automatiza os processos de negócios.\r\n\r\nO criador de aplicativos usa as ferramentas do criador da Power Platform para solucionar problemas de negócios. Eles devem ter experiência com o Visual Basic for Applications, tabelas dinâmicas do Excel, Teams e outras ferramentas. Eles devem ter noções básicas de modelos de dados, interface do usuário e processos. O criador de aplicativos está ciente dos recursos e limitações das ferramentas disponíveis e entende como aplicá-las.\r\n\r\nO criador de aplicativos é independente e focado na solução. Eles podem não ter treinamento formal em TI, mas se sentem confortáveis ao usar a tecnologia para resolver problemas de negócios tendo em mente o crescimento pessoal. Eles compreendem a necessidade operacional e têm uma visão do resultado desejado. Eles abordam problemas com estratégias graduais e iterativas.\r\n\r\n<div style='font-weight&#58; bold;'><br/>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">sobre o valor e a importância dos exames beta</a>.</div>"
+summary: "<div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>\r\n  \r\nO criador de aplicativos cria soluções para simplificar, automatizar e transformar tarefas e processos para ele e sua equipe, os quais possuem profundo conhecimento no domínio da solução. Eles são especializados em tarefas essenciais de analistas de negócios técnicos, como modelagem de dados, design básico de UX, análise de requisitos, análise de processos etc.<br/><br/>\r\n\r\nO criador de aplicativos cria e aplica processos de negócios, estrutura a coleta digital de informações, melhora a eficiência de tarefas repetíveis e automatiza os processos de negócios.\r\n\r\nO criador de aplicativos usa as ferramentas do criador da Power Platform para solucionar problemas de negócios. Eles devem ter experiência com o Visual Basic for Applications, tabelas dinâmicas do Excel, Teams e outras ferramentas. Eles devem ter noções básicas de modelos de dados, interface do usuário e processos. O criador de aplicativos está ciente dos recursos e limitações das ferramentas disponíveis e entende como aplicá-las.\r\n\r\nO criador de aplicativos é independente e focado na solução. Eles podem não ter treinamento formal em TI, mas se sentem confortáveis ao usar a tecnologia para resolver problemas de negócios tendo em mente o crescimento pessoal. Eles compreendem a necessidade operacional e têm uma visão do resultado desejado. Eles abordam problemas com estratégias graduais e iterativas.\r\n\r\n<div><strong><br/>Os exames beta não são pontuados imediatamente, pois estamos coletando dados sobre a qualidade das questões e do exame. Saiba mais <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">sobre o valor e a importância dos exames beta</a>.</strong></div>"
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: projetar e criar soluções, analisar dados e implementar e gerenciar soluções.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
@@ -20,8 +20,8 @@ levels:
 - intermediate
 skills:
 - Soluções de design (10-15%)
-- Criar soluções (50-55%)
-- Analisar dados (5-10%)
+- Criar soluções (55-60%)
+- Analisar e visualizar dados (5-10%)
 - Implementar e gerenciar soluções (15-20%)
 roles:
 - business-analyst
@@ -34,7 +34,7 @@ roles:
 - maker
 - technology-manager
 products:
-- dynamics
+- dynamics-365
 - office
 - office-access
 - office-excel
@@ -58,7 +58,6 @@ products:
 - power-platform
 - ai-builder
 - common-data-service
-- forms-pro
 - power-automate
 - power-bi
 - power-apps
@@ -79,12 +78,15 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-app-maker
 resources:
-- title: Guia de treinamento e certificação
+- title: Certificação Caminho de Aprendizagem
+  description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

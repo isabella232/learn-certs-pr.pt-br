@@ -6,13 +6,13 @@ metadata:
 uid: exam.mb-2-716
 displayName: MB2-716
 summary: |-
-  <div><div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
   <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
+  <div><strong>O conteúdo deste exame foi atualizado em terça-feira, 4 de fevereiro de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong></div><br/>
   </div>
 
   Os estudantes que desejam obter uma certificação em personalização e configuração Microsoft Dynamics 365 devem realizar este exame. O público normalmente inclui desenvolvedores, consultores de implementação, técnicos de suporte e administradores de sistema. Eles avaliam as necessidades corporativas de um cliente e configuram e personalizam a aplicação.
-
-  <div style='font-weight&#58; bold;'><br/>em 4 de fevereiro de 2020, O conteúdo deste exame foi atualizado. Para saber mais sobre essas alterações e como elas afetam as habilidades medidas, baixe e leia o documento de alteração do exame MB2-716.</div>
 subTitle: Os estudantes que desejam obter uma certificação em personalização e configuração Microsoft Dynamics 365 devem realizar este exame. O público normalmente inclui desenvolvedores, consultores de implementação, técnicos de suporte e administradores de sistema. Eles avaliam as necessidades corporativas de um cliente e configuram e personalizam a aplicação.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o2AP

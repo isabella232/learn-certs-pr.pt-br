@@ -28,7 +28,10 @@ products:
 courses:
 - uid: course.ms-900t01
 paths:
-- uid: learn-m365.microsoft-365-fundamentals
+- uid: learn.wwl.m365-productivity-teamwork-solutions
+- uid: learn.wwl.m365-business-management-solutions
+- uid: learn.wwl.m365-security-compliance-capabilities
+- uid: learn.wwl.m365-licensing-service-support
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRKj
 exams:
 - uid: exam.ms-900
@@ -36,7 +39,7 @@ resources:
 - title: Certificação Caminho de Aprendizagem
   description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

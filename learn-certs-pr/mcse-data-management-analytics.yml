@@ -7,26 +7,33 @@ uid: certification.mcse-data-management-analytics
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div><strong>Esta certificação será desativada em 31 de janeiro de 2021. Não será mais possível obter esta certificação após esta data. Todas as certificações que você obtiver antes das datas de desativação continuarão visíveis em sua transcrição no <a href='https://www.microsoft.com/learning/dashboard.aspx'>Painel de Certificação</a>. Além disso, é possível <a href='/learn/certifications/retired-certifications'>pesquisar todas as certificações desativadas</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  <div><strong>Esta certificação será desativada em domingo, 31 de janeiro de 2021. Não será mais possível obter esta certificação após esta data. Todas as certificações que você obtiver antes das datas de desativação continuarão visíveis em sua transcrição no <a href='https://www.microsoft.com/learning/dashboard.aspx'>Painel de Certificação</a>. Além disso, é possível <a href='/learn/certifications/retired-certifications'>pesquisar todas as certificações desativadas</a>.</strong><br/><br/></div>
   </div>
 
-  Demonstre seu amplo conjunto de habilidades em administração de SQL, desenvolvimento de soluções de dados de nível empresarial e uso de dados de business intelligence, tanto em ambiente físico como em nuvem.
+  Esta certificação atesta que você tem as habilidades necessárias para administrar centros de dados modernos e altamente eficazes e lidar com gerenciamento de identidades, gerenciamento de sistemas, virtualização, armazenamento e sistemas de rede.
 
-  Para obter a certificação MCSE&#58; Data Management and Analytics, você deve ser aprovado em um dos seguintes exames&#58;
-  - [70-464&#58; Developing Microsoft SQL Server Databases](/learn/certifications/exams/70-464)
-  - [70-465&#58; Designing Database Solutions for Microsoft SQL Server](/learn/certifications/exams/70-465)
-  - [70-466&#58; Implementing Data Models and Reports with Microsoft SQL Server](/learn/certifications/exams/70-466)
-  - [70-467&#58; Designing Business Intelligence Solutions with Microsoft SQL Server](/learn/certifications/exams/70-467)
-  - [70-762&#58; Developing SQL Databases](/learn/certifications/exams/70-762)
-  - [70-767&#58; Implementing a Data Warehouse using SQL](/learn/certifications/exams/70-767)
-  - [70-768&#58; Developing SQL Data Models](/learn/certifications/exams/70-768)
-  - [70-777&#58; Implementing Microsoft Azure Cosmos DB Solutions](/learn/certifications/exams/70-777)
+  Para obter a certificação Data Management & Analytics do MCSA, você deve preencher os seguintes requisitos&#58;
+  - Receber uma certificação de pré-requisito&#58;
+    - Opção de pré-requisito 1&#58; [MCSA&#58; SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification)
+    - Opção de pré-requisito 2&#58; [MCSA&#58; SQL 2016 Database Development](/learn/certifications/mcsa-sql2016-database-development-certification)
+    - Opção de pré-requisito 3&#58; [MCSA&#58; SQL 2016 Database Administration](/learn/certifications/mcsa-sql2016-database-administration-certification)
+    - Opção de pré-requisito 4&#58; [MCSA&#58; Desenvolvimento de SQL 2016 BI](/learn/certifications/mcsa-sql2016-business-intelligence-certification)
+    - Opção de pré-requisito 5&#58; [MCSA&#58; BI Reporting](/learn/certifications/mcsa-bi-reporting)
+  - Deverá ser aprovado em um dos seguintes exames&#58;
+    - [70-464&#58; Developing Microsoft SQL Server Databases](/learn/certifications/exams/70-464)
+    - [70-465&#58; Designing Database Solutions for Microsoft SQL Server](/learn/certifications/exams/70-465)
+    - [70-466&#58; Implementing Data Models and Reports with Microsoft SQL Server](/learn/certifications/exams/70-466)
+    - [70-467&#58; Designing Business Intelligence Solutions with Microsoft SQL Server](/learn/certifications/exams/70-467)
+    - [70-762&#58; Developing SQL Databases](/learn/certifications/exams/70-762)
+    - [70-767&#58; Implementing a Data Warehouse using SQL](/learn/certifications/exams/70-767)
+    - [70-768&#58; Developing SQL Data Models](/learn/certifications/exams/70-768)
+    - [70-777&#58; Implementing Microsoft Azure Cosmos DB Solutions](/learn/certifications/exams/70-777)
 subTitle: Demonstre seu amplo conjunto de habilidades em administração de SQL, desenvolvimento de soluções de dados de nível empresarial e uso de dados de business intelligence, tanto em ambiente físico como em nuvem.
 levels:
 - intermediate
 skills:
-- nenhuma
+- none
 roles:
 - database-administrator
 type: mcse
@@ -45,8 +52,19 @@ exams:
 - uid: exam.70-464
 - uid: exam.70-465
 - uid: exam.70-466
+prerequisites:
+- uid: certification.mcsa-sql-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-database-development-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-database-administration-certification
+  isOptional: false
+- uid: certification.mcsa-sql2016-business-intelligence-certification
+  isOptional: false
+- uid: certification.mcsa-bi-reporting
+  isOptional: false
 resources:
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

@@ -7,8 +7,8 @@ uid: exam.mb-240
 displayName: MB-240
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 19 de maio de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  <div><strong>O conteúdo deste exame será atualizado em, 7 de outubro de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que será modificado.</strong><br/><br/></div>
   </div>
 
   Os candidatos a este exame são consultores funcionais do Microsoft Dynamics 365 Customer Engagement com experiência em atendimento ao cliente. Os candidatos são responsáveis pela implementação de soluções que gerem recursos que completam o ciclo de vida de serviço de campo.
@@ -19,13 +19,14 @@ summary: |-
 subTitle: 'Este exame avalia a sua capacidade de realizar as seguintes tarefas técnicas: configurar aplicativos de Field Service, gerenciar ordens de serviço, agendar e expedir ordens de serviço, gerenciar a mobilidade de serviços de campo, gerenciar estoque e compras e gerenciar ativos e contratos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
+practiceTestUrl: https://in.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-240&examname=Exam%20MB-240:%20Microsoft%20Dynamics%20365%20for%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 locales:
 - en
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 19 de maio de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- O conteúdo deste exame será atualizado em, 7 de outubro de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
 - Configurar aplicativos de Field Service (20-25%)
 - Gerenciar ordens de serviço (15-20%)
 - Agendar e despachar ordens de serviço (20-25%)
@@ -35,7 +36,7 @@ skills:
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-field-service
 exams:
 - uid: exam.mb-200
@@ -49,18 +50,18 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-field-service
 resources:
 - title: Certificação Caminho de Aprendizagem
-  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
-- title: Guia de treinamento e certificação
+  description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
-  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos  exames de certificação
+- title: Support for certification exams
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

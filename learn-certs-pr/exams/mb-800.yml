@@ -6,19 +6,29 @@ metadata:
 uid: exam.mb-800
 displayName: MB-800
 summary: |-
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
-  O Dynamics 365 Business Central Core Application Functional Consultant implementa e configura o aplicativo Business Central, incluindo a configuração da funcionalidade do aplicativo de núcleo, módulos e migração de dados para o Business Central. Os consultores configuram a interface do usuário em colaboração com a equipe de implementação para fornecer aos negócios gerenciamento e facilidade de navegação. Eles configuram centros de função, incluindo a adaptação de insights, sugestões, blocos de ação, relatórios, gráficos e extensão do Business Central com o uso de componentes da Power Platform.
+  Os candidatos a este exame são Functional Consultants que implementam processos de configuração de aplicativos básicos para pequenas e médias empresas. Eles implementam e configuram o aplicativo Dynamics 365 Business Central, incluindo a configuração da funcionalidade e módulos básicos do aplicativo e a migração de dados para o Business Central.
 
-  <div style='font-weight&#58; bold;'><br/>Observação&#58; Este exame será disponibilizado em setembro de 2020.</div>
-subTitle: 'Este exame será disponibilizado em setembro de 2020. Este exame avalia sua capacidade de concluir as seguintes tarefas: configurar o Business Central, configurar o Financials, configurar Sales and Purchasing, configurar operações e usar componentes da Power Platform.'
+  Os candidatos configuram a interface do usuário em colaboração com a equipe de implementação para fornecer aos negócios gerenciamento e facilidade de navegação. Eles configuram centros de função, incluindo a adaptação de insights, sugestões, blocos de ação, relatórios, gráficos e extensão do Business Central com o uso da Microsoft Power Platform components.
+
+  Os candidatos possuem conhecimento prático sobre como o atender às necessidades do usuário por meio do aplicativo Business Central, incluindo compreensão básica da gestão financeira, vendas, compras e estoque.
+
+  Os candidatos a este exame geralmente são especialistas em um ou mais conjuntos de recursos da Business Central. Eles compreendem o papel do Business Central em relação ao conjunto de aplicativos Dynamics 365.
+
+  <div><strong><br/>Observação&#58; Este exame estará disponível em outubro de 2020.</strong></div>
+subTitle: 'Este exame estará disponível em outubro de 2020. Este exame avalia sua capacidade de completar as seguintes tarefas: configurar o Business Central, configurar finanças, configurar vendas e compras e realizar operações do Business Central.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Ainda não está disponível
+- Configurar o Business Central (20-25%)
+- Configurar finanças (25-30%)
+- Configurar vendas e compras (10-15%)
+- Realizar operações com Business Central (30-35%)
 roles:
 - functional-consultant
 products:
@@ -28,7 +38,7 @@ relatedCertifications:
 - related:
     uid: certification.d365-business-central-functional-consultant-associate
 resources:
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
