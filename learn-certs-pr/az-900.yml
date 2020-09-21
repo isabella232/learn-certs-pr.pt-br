@@ -1,0 +1,81 @@
+### YamlMime:Examination
+title: Microsoft Azure Fundamentals
+metadata:
+  title: 'Exam AZ-900: Microsoft Azure Fundamentals'
+  description: 'Exam AZ-900: Microsoft Azure Fundamentals'
+uid: exam.az-900
+displayName: AZ-900
+summary: |-
+  <div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  <div><strong>O lançamento do novo OD do exame, exame e o curso de treinamento correspondente foi transferido de 15 de setembro de 2020 para o início de novembro. Volte para obter mais informações. Temos a certeza de que você receberá uma notificação com pelo menos 30 dias de antecedência antes de publicarmos a nova versão do exame. </strong><br/><br/></div> 
+  </div>
+  
+  Os candidatos a este exame devem ter conhecimentos básicos nos serviços em nuvem e como os serviços são provisionados com o Microsoft Azure. O exame é destinado a candidatos que estão apenas começando a trabalhar com soluções e serviços baseados em nuvem ou que não estão familiarizados com o Azure.
+  
+  O exame Azure Fundamentals é uma oportunidade de provar conhecimento de conceitos de nuvem, serviços, cargas de trabalho, segurança e privacidade no Azure, bem como preços e suporte do Azure. Os candidatos devem estar familiarizados com os conceitos gerais de tecnologia, incluindo conceitos de rede, armazenamento, computação, suporte a aplicativos e desenvolvimento de aplicativos.
+
+  O curso Azure Fundamentals pode ser usado para preparar o candidato para outras certificações baseadas em funções ou especialidades do Azure, mas não é um pré-requisito para nenhuma delas.
+subTitle: 'Este exame mede a sua capacidade de compreender os seguintes conceitos: conceitos de nuvem; serviços essenciais do Azure; segurança, privacidade, conformidade e confiança; e preços e suporte do Azure.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
+practiceTestUrl: https://us.mindhub.com/p/MU-AZ-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-900&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+  - providerType: certiport
+    examUrl: http://www.certiport.com/locator
+  - providerType: gsi
+    examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=AZ-900&provider=psi&examname=Exam%20AZ-900:%20Microsoft%20Azure%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-900
+locales:
+- en
+- ja
+- zh-cn
+- ko
+- es
+- de
+- fr
+levels:
+- beginner
+skills:
+- Descrever os conceitos de nuvem (15-20%)
+- Descrever os serviços básicos do Azure (30-35%)
+- Descrever segurança, privacidade, conformidade e confiabilidade (25-30%)
+- Descrever acordos de nível de serviço e preços e ciclos de vida do Azure (20-25%)
+roles:
+- developer
+products:
+- azure
+courses:
+- uid: course.az-900t01
+- uid: course.az-900t00
+paths:
+- uid: learn.wwl.explore-microsoft-azure-cloud-concepts
+- uid: learn.wwl.distinguish-microsoft-azure-core-services
+- uid: learn.wwl.examine-microsoft-azure-security-privacy-compliance-trust
+- uid: learn.wwl.review-microsoft-azure-pricing-slas-lifecycles
+relatedCertifications:
+- related:
+    uid: certification.azure-fundamentals
+resources:
+- title: Journey to certification
+  description: Explore as etapas para obter a certificação no Azure Fundamentals e os recursos disponíveis para ajudá-lo a se preparar
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AElB
+- title: Training and certification guide
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Support for certification exams
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
+  href: ../certification-exam-policies.md
