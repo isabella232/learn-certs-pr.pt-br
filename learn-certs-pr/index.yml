@@ -19,7 +19,7 @@ roles:
   - name: data-scientist
     summary: Os Cientistas de Dados aplicam técnicas de aprendizagem de máquina para treinar, avaliar e implantar modelos que resolvem problemas de negócios.
     url: /learn/certifications/roles/data-scientist
-  - name: engenheiro de ia
+  - name: ai-engineer
     summary: Os Engenheiros de IA usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de IA da Microsoft.
     url: /learn/certifications/roles/ai-engineer
   - name: devops-engineer
