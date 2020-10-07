@@ -8,7 +8,7 @@ displayName: MB-220
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame será atualizado em, 7 de outubro de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que será modificado.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame será atualizado em 7 de outubro de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.</strong><br/><br/></div>
   </div>
 
   Os candidatos a este exame são consultores funcionais do Dynamics 365 Customer Engagement com experiência em marketing. Os candidatos são responsáveis pela implementação de soluções que atraem e converter ligações, criar conscientização de marca, padronizar mensagens omnicanal e fornecer ideias de marketing.
@@ -19,13 +19,14 @@ summary: |-
 subTitle: 'Este exame avalia a sua capacidade de realizar as seguintes tarefas técnicas: configurar aplicativos de marketing, gerenciar segmentos e listas, criar e gerenciar formulários de marketing e páginas, gerenciar leads, criar e gerenciar e-mails de marketing, gerenciar as jornadas dos clientes, gerenciar eventos e webinars e configurar e analisar as respostas dos clientes.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
+practiceTestUrl: https://in.mindhub.com/mb-220-microsoft-dynamics-365-marketing-microsoft-official-practice-test/p/MU-MB-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-220&examname=Exam%20MB-220:%20Microsoft%20Dynamics%20365%20for%20Marketing&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-220
 locales:
 - en
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em, 7 de outubro de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
+- O conteúdo deste exame será atualizado em 7 de outubro de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
 - Configurar aplicativos de marketing (5-10%)
 - Gerenciar segmentos e listas (10-15%)
 - Criar e gerenciar formulários e páginas de marketing (10-15%)

@@ -2,13 +2,12 @@
 title: 'Microsoft Learning Partners and Providers | Microsoft Docs'
 description: 'Microsoft Learning Partners and Providers'
 documentationcenter: NA
-author: micsullivan
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 06/02/2020
-ms.author: msulliv
-ms.prod: non-product-specific
+ms.author: micsullivan
 ---
 # Parceiros de Aprendizado da Microsoft: Ensinando as habilidades de amanhã, hoje
 
@@ -445,18 +444,20 @@ Selecione o país:
 |-----------|
 | [SMACLINK ACADEMY](https://smaclink.com/category/khoa-dao-tao/theo-hang-cong-nghe/microsoft/)   </br>[Trainocate](https://trainocate.com/courses/Microsoft) |
 
+
 ## Explore mais de 1000 provedores de solução
 
 > [!div class="nextstepaction"]
 > [ENCONTRE UM PROVEDOR DE SOLUÇÕES DA MICROSOFT](https://www.microsoft.com/en-us/solution-providers/search?cacheId=6b7c41ec-9246-4196-9541-7a4427a37f97)
 
+
 ## Habilidades centrais para desenvolvedores e profissionais de IT
 
-**Aprenda uma nova tecnologia.** Com apenas um curso, você pode desenvolver habilidades práticas que cobrem todo o ciclo de vida da adoção da tecnologia - do planejamento ao suporte. E você ganha um nível de proficiência que só pode ser ensinado através de laboratórios práticos, simulações e a aplicação de habilidades reais. </br ></br> **Prepare-se para a certificação.** [As Certificações Microsoft](https://www.microsoft.com/learning/certification-overview.aspx) estão disponíveis para as principais tecnologias da Microsoft e níveis de habilidades. Os cursos oficiais da Microsoft são criados com a Microsoft Certification em mente e são ministrados por instrutores qualificados do setor.</br ></br>**Comece uma nova carreira.** Os instrutores do setor que ensinam cursos oficiais da Microsoft podem ajudá-lo a adquirir habilidades de IT que se transferem da sala de aula diretamente para o local de trabalho. Os cursos oferecem acesso a recursos digitais valiosos, que permanecem disponíveis muito depois que você concluir um curso.</br ></br> Os profissionais que realizaram o treinamento em IT ou em negócios durante o ano passado receberam uma média de quase US$ 3.400 a mais do que aqueles que não o fizeram (Global Knowledge, *IT Skills and Salary Survey*, março de 2011)
+**Aprenda uma nova tecnologia**. Com apenas um curso, você pode desenvolver habilidades práticas que cobrem todo o ciclo de vida da adoção da tecnologia - do planejamento ao suporte. E você ganha um nível de proficiência que só pode ser ensinado através de laboratórios práticos, simulações e a aplicação de habilidades reais. </br ></br> **Prepare-se para a certificação.** [As Certificações Microsoft](https://www.microsoft.com/learning/certification-overview.aspx) estão disponíveis para as principais tecnologias da Microsoft e níveis de habilidades. Os cursos oficiais da Microsoft são criados com a Microsoft Certification em mente e são ministrados por instrutores qualificados do setor.</br ></br>**Comece uma nova carreira**. Os instrutores do setor que ensinam cursos oficiais da Microsoft podem ajudá-lo a adquirir habilidades de IT que se transferem da sala de aula diretamente para o local de trabalho. Os cursos oferecem acesso a recursos digitais valiosos, que permanecem disponíveis muito depois que você concluir um curso.</br ></br> Os profissionais que realizaram o treinamento em IT ou em negócios durante o ano passado receberam uma média de quase US$ 3.400 a mais do que aqueles que não o fizeram. (Global Knowledge, *IT Skills and Salary Survey*, março de 2011)
 
 ## Benefícios para gerentes de IT
 
-**Melhore a eficiência e a produtividade.** Os Parceiros de Aprendizagem da Microsoft podem ajudá-lo a aproveitar ao máximo o investimento da sua empresa em tecnologia. Seus funcionários podem melhorar sua proficiência com as tecnologias Microsoft, do treinamento em sala de aula ou com os Cursos Oficiais On-Demand da Microsoft. </br ></br> **Prepare-se para a implantação.** O treinamento especificado disponibilizado pelo Microsoft Learning Partners permite às empresas acelerar novas implementações de tecnologia da Microsoft e podem reduzir o tempo de inatividade. A pesquisa mostra que 40 por cento do tempo de inatividade operacional é devido a erros do operador, atribuível a uma falta significativa de treinamento nos principais sistemas. (Anderson, Cushing. "Impact of Training on Network Administration: Certification Leads to Operational Productivity." Estudo IDC. Conforme relatado por Linda Musthaler no Network World em 25 de novembro de 2009) </br ></br> **Desenvolvimento, recrutamento e retenção de funcionários.** Treinamento e certificação são métodos eficazes para medir o quão bem os membros da equipe podem trabalhar com tecnologias, hardware e software específicos. </br ></br> Sessenta por cento dos entrevistados executivos de tecnologia dizem que um dos maiores desafios no planejamento de grandes projetos de infraestrutura de IT é a disponibilidade de profissionais com as competências necessárias quando necessário. (TEKsystems/CIO Custom Solutions Group, *IT Workforce Planning Trends*, junho de 2011)
+**Melhore a eficiência e a produtividade**. Os Parceiros de Aprendizagem da Microsoft podem ajudá-lo a aproveitar ao máximo o investimento da sua empresa em tecnologia. Seus funcionários podem melhorar sua proficiência com as tecnologias Microsoft, do treinamento em sala de aula ou com os Cursos Oficiais On-Demand da Microsoft. </br ></br> **Prepare-se para a implantação**. O treinamento especificado disponibilizado pelo Microsoft Learning Partners permite às empresas acelerar novas implementações de tecnologia da Microsoft e podem reduzir o tempo de inatividade. A pesquisa mostra que 40 por cento do tempo de inatividade operacional é devido a erros do operador, atribuível a uma falta significativa de treinamento nos principais sistemas. (Anderson, Cushing. "Impact of Training on Network Administration: Certification Leads to Operational Productivity." Estudo IDC. Conforme relatado por Linda Musthaler no Network World em 25 de novembro de 2009) </br ></br> **Desenvolvimento, recrutamento e retenção de funcionários**. Treinamento e certificação são métodos eficazes para medir o quão bem os membros da equipe podem trabalhar com tecnologias, hardware e software específicos. </br ></br> Sessenta por cento dos entrevistados executivos de tecnologia dizem que um dos maiores desafios no planejamento de grandes projetos de infraestrutura de IT é a disponibilidade de profissionais com as competências necessárias quando necessário. (TEKsystems/CIO Custom Solutions Group, *IT Workforce Planning Trends*, junho de 2011)
 
 ## Torne-se um parceiro de aprendizagem Microsoft
 

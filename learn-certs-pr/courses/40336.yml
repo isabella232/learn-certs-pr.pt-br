@@ -1,0 +1,82 @@
+### YamlMime:Course
+title: 'First Look Clinic: Windows 10 for IT Professionals'
+metadata:
+  title: 'Course 40336-A: First Look Clinic: Windows 10 for IT Professionals'
+  description: 'Course 40336-A: First Look Clinic: Windows 10 for IT Professionals'
+uid: course.40336
+courseNumber: '40336-A'
+hoursToComplete: 12
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Listar e explicar os novos recursos do Windows 10.
+- skill: Entender os recursos que estão disponíveis agora e em qual versão.
+- skill: Utilizar e personalizar a nova interface do usuário no Windows 10
+- skill: Descrever os preparativos necessários à implantação e ao gerenciamento do Windows 10
+- skill: Entender as Opções de Implantação
+- skill: Entender as Opções de Gerenciamento
+- skill: Entender os recursos gerais de segurança do Windows 10
+- skill: Listar os recursos do Device Guard
+- skill: Entender uma metodologia para implantar o Device Guard
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows
+summary: |-
+  Esta Clínica de Análise Inicial apresenta aos Profissionais de TI os novos recursos e funcionalidades do Windows 10, usando a Edição Enterprise do Windows 10. Também aborda os principais ecossistemas do Windows 10 de Gerenciamento de Identidade, serviços em nuvem como o Azure Active Directory (AAD), ferramentas de implantação/gerenciamento e a nova Interface do Usuário. Nenhum tópico é abordado em profundidade, mas os alunos concluirão a clínica com um entendimento dos novos recursos e funcionalidades do Windows 10 e dos serviços e ferramentas de administração relacionados.
+
+  #### Perfil do público
+  Esta clínica é destinada a profissionais de TI interessados em aprender sobre os novos recursos e funcionalidades do Windows 10. Em geral, os adotantes de novas tecnologias ou pessoas que procuram uma visão antecipada da funcionalidade do Windows 10 e dos serviços e ferramentas em nuvem relacionados irão beneficiar de sua participação nesta Clínica de Análise Inicial. Os principais influenciadores técnicos e tomadores de decisões na área da tecnologia em uma empresa de TI podem também participar desta clínica, pois podem beneficiar do conhecimento antecipado de alguns dos recursos e tecnologias mais recentes que o Windows 10 inclui.
+outlineSection: |-
+  ### Módulo 1&#58; Introdução ao Windows 10
+  O Windows 10 é a versão mais recente do sistema operacional do cliente Windows. Este inclui a mesma funcionalidade central do Windows 8.1, bem como vários aprimoramentos importantes e melhorias de funcionalidade que impactam o ambiente empresarial, especialmente em torno da segurança. O design do Windows 10 atende a uma ampla gama de necessidades de computação e permite que os usuários executem tarefas de forma eficiente. Este módulo apresenta os principais novos recursos do Windows 10.
+  #### Lições
+  - Novos recursos do Windows 10
+  - Recursos do Windows 10 não disponíveis no Lançamento Inicial
+  - Explorando a nova Interface do Usuário (UI) do Windows 10
+  - Edições Windows 10 para Desktop e Tablet
+  - Requisitos de Hardware do Windows 10
+
+  Após completar esta lição, você será capaz de&#58;
+  - Listar e explicar os novos recursos do Windows 10.
+  - Listar os recursos que estão disponíveis agora e em qual versão.
+  - Usar a nova interface do usuário no Windows 10.
+  - Listar e descrever os dispositivos que podem rodar o Windows 10.
+  - Listar os requisitos de hardware do Windows 10.
+  - Explicar as várias edições do Windows 10
+
+
+  ### Módulo 2&#58; Implantação e Gerenciamento do Windows 10
+  A avaliação dos requisitos de implementação de uma empresa começa pela compreensão de seu ambiente de hardware e infraestrutura, determinar se esse hardware é compatível com o Windows 10, e funcionalidades consideradas importantes à empresa. A mudança para o Windows 10, na maioria dos casos, será bem direta e exigirá um mínimo de atualizações para um processo de implementação existente em uma empresa, embora agora tenham mais opções. A estratégia recomendada é implantar o Windows 10 como plataforma base e depois, através do Windows como um serviço, serão oferecidos recursos novos. A migração para o Windows 10, como mencionado anteriormente, não será tão cara ou demorada como uma atualização do Windows XP para o Windows 7. Na maioria dos casos, o hardware e o software serão compatíveis com o Windows 10.  Neste módulo, analisaremos os recursos das ferramentas de gerenciamento e implantação para abordar esta evolução.
+  #### Lições
+  - Implantação do Windows 10
+  - Provisionamento para Windows 10
+  - Gerenciamento do Windows 10
+  - Compatível com Windows 10
+
+  Após concluir este módulo, você será capaz de&#58;
+  - Descrever os preparativos necessários à implantação e ao gerenciamento do Windows 10
+  - Entender as Opções de Implantação
+  - Entender as Opções de Gerenciamento
+
+
+  ### Módulo 3&#58; Recursos de Segurança do Windows 10
+  O Windows 10 foi projetado para protegê-lo contra ameaças de segurança modernas e focamos nossos esforços em torno dos seguintes pilares&#58; dispositivo/hardware seguro, identidades seguras, proteção de informações e resistência contra ameaças.
+
+  Neste módulo, teremos uma visão geral dos recursos de segurança do Windows 10 e, em seguida, mergulharemos profundamente nas facetas do Device Guard.
+  #### Lições
+  - Visão geral da segurança do Windows 10
+  - Visão geral do Device Guard
+  - Integridade de código configurável
+  - Planejamento para o Device Guard
+  - Arquivos do Catálogo do Device Guard
+  - Utilização do Device Guard
+
+  Após completar este módulo, você será capaz de&#58;
+  - Entender os recursos gerais de segurança do Windows 10
+  - Entender os recursos do Device Guard
+

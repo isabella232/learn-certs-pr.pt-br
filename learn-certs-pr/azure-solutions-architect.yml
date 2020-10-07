@@ -15,6 +15,13 @@ summary: |-
   O Azure Solution Architect trabalha em parceria com administradores e DBAs de nuvem e clientes para a implementação de soluções.
 
   O candidato a essa certificação deve ter experiência e conhecimento avançados em operações de TI, incluindo redes, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança (esta função deve ser capaz de administrar o modo como as decisões em cada área podem afetar uma solução global). Além disso, essa função deve ter habilidades de nível de especialista em administração do Azure e experiência no desenvolvimento do Azure e nos processos de DevOps.
+
+  <div><strong><br/>OBSERVAÇÃO&#58; Você receberá esta certificação se for aprovado em uma das seguintes combinações de exames&#58; <ul>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> e <a href="/learn/certifications/exams/az-301">AZ-301</a></li>
+  <li><a href="/learn/certifications/exams/az-303">AZ-303</a> e <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-300">AZ-300</a> e <a href="/learn/certifications/exams/az-304">AZ-304</a></li>
+  <li><a href="/learn/certifications/exams/az-301">AZ-301</a> e <a href="/learn/certifications/exams/az-303">AZ-303</a></li>
+  </ul></strong></div>
 subTitle: Os Azure Solutions Architects projetam e implementam soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança.
 levels:
 - advanced
@@ -75,10 +82,10 @@ resources:
 - title: Tabela de certificação do Azure
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: Jornada à certificação
+- title: Journey to certification
   description: Explore as etapas para obter a certificação Azure Solutions Architect Expert e os recursos disponíveis para ajudá-lo a se preparar.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

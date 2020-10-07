@@ -42,7 +42,7 @@ resources:
 - title: Certificação Caminho de Aprendizagem
   description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

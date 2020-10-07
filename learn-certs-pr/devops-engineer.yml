@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
-  description: 'Profissionais de Azure DevOps combinam pessoas, processos e tecnologias para oferecer continuamente produtos e serviços valiosos que atendam às necessidades do usuário final e objetivos de negócios.'
+  description: 'Profissionais de Microsoft DevOps combinam pessoas, processos e tecnologias para oferecer continuamente produtos e serviços valiosos que atendam às necessidades do usuário final e objetivos de negócios.'
 uid: certification.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
@@ -13,7 +13,7 @@ summary: |-
   As responsabilidades para esta função incluem o projeto e implementação de estratégias de colaboração, código, infraestrutura, controle de origem, segurança, conformidade, integração contínua, teste, entrega, monitoramento e feedback.
 
   Os candidatos à certificação devem estar familiarizados com a administração e o desenvolvimento do Azure e são especialistas em pelo menos uma dessas áreas.
-subTitle: Profissionais de Azure DevOps combinam pessoas, processos e tecnologias para oferecer continuamente produtos e serviços valiosos que atendam às necessidades do usuário final e objetivos de negócios.
+subTitle: Profissionais de Microsoft DevOps combinam pessoas, processos e tecnologias para oferecer continuamente produtos e serviços valiosos que atendam às necessidades do usuário final e objetivos de negócios.
 levels:
 - advanced
 skills:
@@ -54,10 +54,10 @@ resources:
 - title: Tabela de certificação do Azure
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: Jornada à certificação
+- title: Journey to certification
   description: Explore as etapas para obter a certificação DevOps Engineer Expert e os recursos disponíveis para ajudá-lo a se preparar.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

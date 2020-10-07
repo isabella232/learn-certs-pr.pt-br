@@ -1,6 +1,6 @@
 ### YamlMime:CertificationHome
 
-title: Certificações Microsoft
+title: Microsoft Certifications
 summary: Receba uma certificação que comprova que você está em sintonia com os requisitos técnicos atuais. Selecione uma função de trabalho para descobrir os caminhos de certificação.
 
 roles:
@@ -14,7 +14,7 @@ roles:
     summary: Os Solution Architects têm experiência em computação, rede, armazenamento e segurança.
     url: /learn/certifications/roles/solutions-architect
   - name: data-engineer
-    summary: Os Engenheiros de Dados projetam e implementam o gerenciamento, monitoramento, segurança e privacidade  dos dados usando o pacote completo de serviços de dados.
+    summary: Os Engenheiros de Dados projetam e implementam o gerenciamento, monitoramento, segurança e privacidade dos dados usando o pacote completo de serviços de dados.
     url: /learn/certifications/roles/data-engineer
   - name: data-scientist
     summary: Os Cientistas de Dados aplicam técnicas de aprendizagem de máquina para treinar, avaliar e implantar modelos que resolvem problemas de negócios.
@@ -29,13 +29,13 @@ roles:
     summary: Os Engenheiros de Segurança implementam controles de segurança e proteção contra ameaças, gerenciam identidade e acesso e protegem dados, aplicativos e redes.
     url: /learn/certifications/roles/security-engineer
   - name: functional-consultant
-    summary: Os Functional Consultants fazem uso do Microsoft Dynamics 365 para antecipar e planejar as necessidades dos clientes.
+    summary: Os Functional Consultants aproveitam o Microsoft Dynamics 365 e a Microsoft Power Platform para antecipar e planejar as necessidades do cliente.
     url: /learn/certifications/roles/functional-consultant
 
 
 certificationsSection:
   title: Obtenha uma Certificação Microsoft
-  summary: "A Microsoft possui caminhos de certificação para várias funções técnicas. Cada uma dessas certificações consiste em ser aprovado em uma série de exames para obter a certificação"
+  summary: 'A Microsoft possui caminhos de certificação para várias funções técnicas. Cada uma dessas certificações consiste em ser aprovado em uma série de exames para obter a certificação.'
   tiers:
     - title: Certificações básicas
       summary: Ponto de partida. Ideal para aqueles que estão apenas começando na tecnologia ou pretendem mudar de carreira.
@@ -45,7 +45,7 @@ certificationsSection:
         - uid: certification.power-platform-fundamentals
       browseLink:
         text: Pesquisar certificações básicas
-        url: /learn/certifications/browse?levels=beginner&term=fundamentals 
+        url: /learn/certifications/browse/?type=fundamentals 
     - title: Certificações baseadas em função
       summary: Escolha uma certificação baseada em função para começar a aprender habilidades valiosas de função.
       certifications:
@@ -65,6 +65,13 @@ certificationsSection:
         text: Pesquisar certificações adicionais
         url: /learn/certifications/browse?resource_type=certification
 
+upworkSection:
+    title: Quer ganhar uma renda extra?
+    summary: Firmamos parceria com o Upwork para conectar freelancers certificados do Azure com os clientes.
+    signupLink:
+        text: Registre-se no Upwork
+        url: https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRw3HkB8qWX5Iq22_B4ihseZUN1haSVVPNUpINTRFRVRaQ1BRSzNCRllQNS4u
+
 trainingSection:
   title: Como se preparar para a certificação
   summary: A Microsoft entende que todos têm preferências de aprendizado diferentes, portanto oferecemos certificações e opções de treinamento ao longo de sua jornada de certificação.
@@ -83,7 +90,7 @@ trainingSection:
     title: Prepare-se com treinamento ministrado por instrutor
     summary: Os Microsoft Learning Partners oferecem uma amplitude de soluções para se adaptarem às suas necessidades de aprendizado, capacitando você a alcançar suas metas de treinamento. Os Microsoft Certified Trainers completaram um treinamento rigoroso e cumpriram os requisitos rigorosos de certificação técnica.
     browseLinks:
-    - text: Navegue por todos os treinamentos ministrados por instrutores 
+    - text: Navegue por todos os treinamentos ministrados por instrutores
       url: /learn/certifications/courses/browse/
 
 resourcesSection:
@@ -93,7 +100,7 @@ resourcesSection:
       summary: Nossa rede de parceiro mundial entrega treinamento flexível, baseado em soluções e personalizados nas tecnologias da Microsoft.
       url: https://www.microsoft.com/learning/partners.aspx
     - title: Apoio às certificações e exames
-      summary: Obtenha ajuda através de fóruns . O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+      summary: Obtenha ajuda através de fóruns. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
       url: /learn/certifications/help
     - title: Procurar todas as certificações e exames
       summary: Explorar todas as certificações para levar sua carreira ao próximo nível.
@@ -104,10 +111,10 @@ statisticsSection:
   summary: As certificações oferecem a você uma vantagem profissional com evidências de habilidades baseadas em funções reconhecidas pelo setor.
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
-    iframeTitle: Certificações Microsoft
+    iframeTitle: Microsoft Certifications
     iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
     title: Vantagens das Certificações Microsoft
-    summary: Depois de receber uma certificação, 23% dos tecnólogos certificados pela Microsoft reportaram um aumento de até 20% no salário. Além do mais, a supervisão dos colegas muitas vezes é confiada aos funcionários certificados, os colocando mais perto de uma promoção.  Valor da —Certificação Pearson VUE 2017 folheto técnico.
+    summary: Depois de receber uma certificação, 23% dos tecnólogos certificados pela Microsoft reportaram um aumento de até 20% no salário. Além do mais, a supervisão dos colegas muitas vezes é confiada aos funcionários certificados, os colocando mais perto de uma promoção. Valor da —Certificação Pearson VUE 2017 folheto técnico.
   items:
     - title: 38%
       summary: as vagas de TI estarão baseadas em nuvem até 2021.

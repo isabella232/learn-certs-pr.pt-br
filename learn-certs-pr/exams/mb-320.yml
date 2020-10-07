@@ -6,7 +6,10 @@ metadata:
 uid: exam.mb-320
 displayName: MB-320
 summary: |-
+  <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  <div><strong>O conteúdo deste exame será atualizado em 16 de outubro de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.</strong><br/><br/></div>
+  </div>
 
   Os candidatos a este exame são consultores funcionais que analisam os requisitos de negócio e transformam esses requisitos em processos de negócio plenamente realizados e soluções que implementam as práticas recomendadas da indústria. Os candidatos atuam como um recurso fundamental na implementação e configuração de aplicativos para atender aos requisitos de negócios.
   <br/>
@@ -26,8 +29,9 @@ locales:
 levels:
 - intermediate
 skills:
+- O conteúdo deste exame será atualizado em 16 de outubro de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
 - Instalar e configurar fabricação (30-35%)
-- Criar e gerenciar ordens de produção e ordens simplificadas (lean) (25-30%)
+- Criar e gerenciar ordens de produção e simplificadas (lean) (25-30%)
 - Criar, processar e gerenciar ordens de lotes de produção (40-45%)
 roles:
 - functional-consultant

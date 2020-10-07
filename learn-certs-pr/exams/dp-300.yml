@@ -6,15 +6,16 @@ metadata:
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
+  <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  <div><strong>O conteúdo deste exame será atualizado em 24 de setembro de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.</strong><br/><br/></div>
+  </div>
 
   Os candidatos a este exame são administradores de banco de dados e especialistas em gerenciamento de dados que gerenciam bancos de dados relacionais locais e na nuvem criados com base nos serviços de dados do Microsoft SQL Server e do Microsoft Azure.
 
   O Azure Database Administrator implementa e gerencia os aspectos operacionais das soluções de plataforma de dados híbridas e nativas da nuvem criadas no Microsoft Azure Data Services e no Microsoft SQL Server. O Administrador de Banco de Dados do Azure usa uma variedade de métodos e ferramentas para executar operações diárias, incluindo a aplicação do conhecimento do uso do T-SQL para fins de gerenciamento administrativo.
 
   Essa função é responsável pelo gerenciamento, disponibilidade, segurança e monitoramento e otimização de desempenho das soluções modernas de banco de dados relacional. Esta função funciona com a função de Engenheiro de Dados do Azure para gerenciar aspectos operacionais das soluções da plataforma de dados.
-
-  <div><strong><br/>Os exames beta não são pontuados imediatamente, pois estamos coletando dados sobre a qualidade das questões e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</strong></div>
 subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: planejar e implementar recursos da plataforma de dados; implementar um ambiente seguro; monitorar e otimizar recursos operacionais; otimizar o desempenho da consulta; executar automação de tarefas; planejar e implementar um ambiente de alta disponibilidade e recuperação de desastres (HADR); e executar a administração usando o T-SQL.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
@@ -24,13 +25,14 @@ locales:
 levels:
 - intermediate
 skills:
+- O conteúdo deste exame será atualizado em 24 de setembro de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
 - Planejar e implementar recursos da plataforma de dados (15-20%)
 - Implementar um ambiente seguro (15-20%)
 - Monitorar e otimizar recursos operacionais (15-20%)
 - Otimizar o desempenho de questionário (5-10%)
 - Executar automação de tarefas (10-15%)
 - Planejar e implementar um ambiente de alta disponibilidade e recuperação de desastres (HADR) (15-20%)
-- Executar a administração usando T -SQL (10-15%)
+- Executar a administração usando T-SQL (10-15%)
 roles:
 - database-administrator
 products:

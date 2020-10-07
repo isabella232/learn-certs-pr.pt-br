@@ -56,7 +56,7 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-sales
     levels:
     - intermediate
-    - uid: certification.d365-functional-consultant-marketing
+  - uid: certification.d365-functional-consultant-marketing
     levels:
     - intermediate
   - uid: certification.d365-functional-consultant-customer-service
@@ -71,14 +71,17 @@ certificationPaths:
 certifications:
 - uid: certification.azure-solutions-architect
   requiredExams:
-  - uid: exam.az-300
-  - uid: exam.az-301
+  - uid: exam.az-303
+  - uid: exam.az-304
 - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
   requiredExams:
   - uid: exam.mb-700
 - uid: certification.power-apps-and-d365-solution-architect-expert
   requiredExams:
   - uid: exam.mb-600
+- uid: certification.azure-for-sap-workloads-specialty
+  requiredExams:
+  - uid: exam.az-120
 resources:
 - title: Guia de Treinamento e Certificações Microsoft
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
@@ -86,6 +89,6 @@ resources:
 - title: Cartaz de Treinamento e Certificações
   description: Escolha seu caminho para o sucesso com este cartaz de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Apoio às certificações
+- title: Suporte para certificações
   href: ../help.md
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
