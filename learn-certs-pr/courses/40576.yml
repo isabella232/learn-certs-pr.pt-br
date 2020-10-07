@@ -1,0 +1,46 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+metadata:
+  title: 'Course 40576-G: Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+  description: 'Course 40576-G: Microsoft Cloud Workshop: Azure Synapse Analytics and AI'
+uid: course.40576
+courseNumber: '40576-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Projetar e construir uma solução analítica avançada completa de ponta a ponta usando o Azure Synapse Analytics.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  Nesta sessão de design de quadro branco, você trabalhará em grupo para analisar o processo de criação de uma solução ponta a ponta usando o Azure Synapse Analytics. A sessão de design abrangerá o carregamento de dados, preparação de dados, transformação de dados e serviço de dados, juntamente com a aprendizagem e manipulação de dados em lote e em tempo real.
+
+  #### Perfil do público
+  Este seminário é destinado a Arquitetos de Cloud e profissionais de TI que possuam experiência em arquitetura de projetos de infraestrutura e soluções em tecnologias de nuvem e queiram aprender mais sobre o Azure e os serviços do Azure, conforme descrito nas áreas "Sobre este Curso" e "Na Conclusão do Curso".  Os participantes deste seminário devem também ser experientes em outras tecnologias em nuvem que não sejam da Microsoft, atender aos pré-requisitos do curso e desejar fazer um treinamento cruzado no Azure.
+prerequisitesSection: |-
+  O conteúdo do seminário pressupõe 300 níveis de conhecimento arquitetônico de infra-estrutura e projeto de soluções. Sugerimos aos estudantes que aceitem este pré-requisito antes de participar deste workshop.
+  - Curso Microsoft Azure Essentials, http&#58;//www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Módulo 1&#58;  Sessão de Design no Quadro Branco - Azure Synapse Analytics e AI
+  #### Lições
+  - Revisar o estudo do caso do cliente
+  - Projetar uma solução à prova de conceito
+  - Apresentar a solução
+
+  ### Módulo 2&#58; Laboratório Prático - Azure Synapse Analytics e AI
+  #### Lições
+  - Acesso à área de trabalho do Azure Synapse Analytics
+  - Criar e preencher as tabelas de apoio no SQL Pool
+  - Explorar o parquet bruto
+  - Explorar dados baseados em texto bruto com o Azure Synapse SQL Serverless
+  - Dutos Synapse e Busca Cognitiva
+  - Segurança
+  - Aprendizagem da máquina
+  - Monitoramento
+

@@ -8,7 +8,7 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>ESTA CERTIFICAÇÃO SERÁ DESATIVADA NO EM 31 DE AGOSTO DE 2020. Não será mais possível obter esta certificação após esta data. Todas as certificações que você obtiver antes das datas de desativação continuarão visíveis em sua transcrição no <a href="https://www.microsoft.com/learning/dashboard.aspx">Painel de Certificação</a>.</strong><br/><br/></div>
+  <div><strong>Este certificação foi desativado em 31 de agosto de 2020. Todas as certificações que você obtiver antes das datas de desativação continuarão visíveis em sua transcrição no <a href="https://www.microsoft.com/learning/dashboard.aspx">Painel de Certificação</a>.</strong><br/><br/></div>
   </div>
 
   Os administradores do Microsoft 365 Teamwork Administrators configuram, implantam e gerenciam cargas de trabalho do Office 365 que focam na colaboração eficiente e eficaz, como o SharePoint (online, no local e híbrido), o OneDrive e as Equipes.
@@ -51,7 +51,7 @@ resources:
 - title: Certificação Caminho de Aprendizagem
   description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Teamwork Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE453ss
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

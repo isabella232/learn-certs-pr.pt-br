@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 'Microsoft Power Apps + Dynamics 365 Solution Architect'
+title: 'Microsoft Dynamics 365 + Power Platform Solution Architect'
 metadata:
-  title: 'Course MB-600T00-A: Microsoft Power Apps + Dynamics 365 Solution Architect'
-  description: 'Course MB-600T00-A: Microsoft Power Apps + Dynamics 365 Solution Architect'
+  title: 'Course MB-600T00-A: Microsoft Dynamics 365 + Power Platform Solution Architect'
+  description: 'Course MB-600T00-A: Microsoft Dynamics 365 + Power Platform Solution Architect'
 uid: course.mb-600t00
 courseNumber: 'MB-600T00-A'
 hoursToComplete: 72
@@ -15,7 +15,7 @@ levels:
 roles:
 - solution-architect
 products:
-- dynamics
+- dynamics-365
 - power-apps
 exams:
 - uid: exam.mb-600
@@ -23,22 +23,17 @@ summary: |-
   O arquiteto de soluções é responsável pelo design, implementação, implantação e adoção bem-sucedidos de uma solução geral. O arquiteto de soluções garante que a solução atenda às necessidades do cliente agora e no futuro. Neste curso, os alunos aprenderão sobre as decisões que um arquiteto de soluções toma durante uma implementação, incluindo cobrindo segurança, integrações, arquitetura de Power Apps, arquitetura de Power Automate e muito mais. Este curso foi desenvolvido para fornecer uma introdução à função de arquiteto de soluções.
 
   #### Perfil do público
-  
-  Consultores seniores (funcionais e técnicos) que desejam ser arquitetos de soluções ou arquitetos de soluções atuais que são novos na função.  
+
+  Consultores seniores (funcionais e técnicos) que desejam ser arquitetos de soluções ou arquitetos de soluções atuais que são novos na função.
 prerequisitesSection: |-
   Antes de participar deste curso, os alunos devem ter&#58;
-  
+
   - Deve ter sido aprovado no exame MB-200
   - Experiência com o Dynamics 365 e a Power Platform
   - Consultor sênior (funcional ou técnico) ou arquiteto de soluções novo no cargo
   - Algum conhecimento do Microsoft Azure
-outlineSection: |-  
-  ### Módulo 1&#58; Introdução
-  
-  Introdução ao curso
-  
-  ### Módulo 2&#58; Tornando-se um arquiteto de soluções/conhecendo seu cliente
-
+outlineSection: |-
+  ### Módulo 1&#58; Tornando-se um arquiteto de soluções/conhecendo seu cliente
   #### Lições
   - Definir um arquiteto de soluções
   - Função do arquiteto de soluções em projetos
@@ -46,51 +41,51 @@ outlineSection: |-
   - Conhecendo seu cliente
   - Exercício em grupo&#58; Conhecendo seu cliente
 
-  ### Módulo 3&#58; Conceptualização do design com base nos requisitos
-  
+
+  ### Módulo 2&#58; Conceptualização do design com base nos requisitos
   #### Lições
   - Como liderar o esforço de obtenção de requisitos
   - Uso de análise de lacuna de ajuste
   - Pilares da boa arquitetura
   - Planejando a arquitetura da solução
   - Exercício em grupo&#58; Design com base nos requisitos
-  
-  ### Módulo 4&#58; Governança do projeto e trabalho em equipe
-    
+
+
+  ### Módulo 3&#58; Governança do projeto e trabalho em equipe
   #### Lições
   - Papel do arquiteto de soluções na governança de projetos
   - Técnicas para manter um projeto dentro do prazo
   - Cenários que podem causar falhas no projeto
   - Exercício em grupo&#58; Governança do projeto e trabalho em equipe
-  
-  ### Módulo 5&#58; Arquitetura da Power Platform
-  
+
+
+  ### Módulo 4&#58; Arquitetura da Power Platform
   #### Lições
   - Principais componentes da arquitetura da Power Platform
   - Entenda como o design e os limites da plataforma influenciam as arquiteturas da solução
   - Atualizações e versões de recursos
   - Saiba como se comunicar e como a plataforma atende às necessidades do cliente
-  
-  ### Módulo 6&#58; Modelagem de dados
-  
+
+
+  ### Módulo 5&#58; Modelagem de dados
   #### Lições
   - Influências do modelo de dados
   - Estratégia de modelo de dados
   - Tipos de dados
   - Relações de dados
   - Exercício em grupo&#58; Modelo de dados
-  
-  ### Módulo 7&#58; Visualizações, análises, relatórios e IA
-  
+
+
+  ### Módulo 6&#58; Análise e inteligência artificial
   #### Lições
   - Planejamento e avaliação de requisitos
   - Relatórios operacionais
   - Power BI
   - Enterprise BI
   - Insights pré-criados e IA personalizada
-  
-  ### Módulo 8&#58; Arquitetura do Power Apps
-  
+
+
+  ### Módulo 7&#58; Arquitetura do Power Apps
   #### Lições
   - Discutir opções para aplicativos e como escolher por onde começar
   - Discutir opções de composição de aplicativos
@@ -98,54 +93,55 @@ outlineSection: |-
   - Considerações para inclusão de portais como um aplicativo em sua arquitetura
   - Exercício em grupo&#58; Tópicos de arquitetura de Power Apps
 
-  ### Módulo 9&#58; Gerenciamento do ciclo de vida do aplicativo (ALM)
-  
+
+  ### Módulo 8&#58; Gerenciamento do ciclo de vida do aplicativo (ALM)
   #### Lições
   - Microsoft Vision e papel do Solution Architect no ALM
   - Estratégias ambientais
   - Definindo uma estrutura de solução para a sua entrega
-  
+
   #### Laboratório&#58; Laboratório prático sobre ALM
-  
-  ### Módulo 10&#58; Arquitetura do Power Automate
-  
+
+
+  ### Módulo 9&#58; Arquitetura do Power Automate
   #### Lições
   - Discutir opções para automação e lógica personalizada
   - Analisar as considerações para uso de gatilhos e ações comuns
   - Explorar o uso de Fluxos do Processo Empresarial (BPF) para orientar os usuários nos processos de negócios
   - Exercício em grupo&#58; Avaliar cenários para uso do Power Automate
-  
-  ### Módulo 11&#58; Modelo de segurança
-  
+
+
+  ### Módulo 10&#58; Modelo de segurança
   #### Lições
   - Papel do arquiteto de soluções no modelo de segurança
   - Descobrir e conhecer o ambiente do seu cliente
   - Controle do acesso a ambientes e recursos
   - Controle do acesso aos dados CDS
   - Exercício em grupo&#58; Modelo de segurança
-  
-  ### Módulo 12&#58; Integrações
-  
+
+
+  ### Módulo 11&#58; Integração
   #### Lições
   - Função de arquitetos de solução em integrações
   - O que é uma integração e por que precisamos dela
   - Recursos da plataforma que permitem a integração
   - Publicação de eventos CDS
   - Cenários para discussão em grupo
-  
-  ### Módulo 13&#58; Arquitetura dos aplicativos do Dynamics 365
-  
+
+
+  ### Módulo 12&#58; Arquitetura dos aplicativos do Dynamics 365
   #### Lições
   - Função do arquiteto de solução ao implementar aplicativos do Dynamics 365
   - Considerações de arquitetura para aplicativos essenciais
   - Exercício em grupo&#58; Grupos de trabalho específicos para aplicativos avaliam requisitos
-  
-  ### Módulo 14&#58; Teste e ativação
-  
+
+
+  ### Módulo 13&#58; Teste e ativação
   #### Lições
   - papel do arquiteto de soluções em testes e ativação
   - Planejamento para testes
   - Planejamento da ativação
-  
+
   #### Leitura adicional
   https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/
+

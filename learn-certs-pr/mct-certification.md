@@ -1,6 +1,6 @@
 ---
-title: Become a Microsoft Certified Trainer | Microsoft Docs
-description: Torne-se um Microsoft Certified Trainer
+title: 'Become a Microsoft Certified Trainer | Microsoft Docs'
+description: 'Become a Microsoft Certified Trainer' 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -23,7 +23,7 @@ Contate o [MCT Support](https://aka.ms/mctforum) se tiver dúvidas sobre os requ
 
 ## Vantagens do Programa MCT
 
-Como instrutor Microsoft Certified, você terá acesso a um [painel](https://www.microsoft.com/learning/dashboard.aspx) personalizado, onde poderá encontrar uma grande variedade de recursos úteis do MCT, baixar o seu certificado MCT e visualizar descontos disponíveis para você!
+Como Microsoft Certified Trainer, você terá acesso a um [painel](https://www.microsoft.com/learning/dashboard.aspx) personalizado, onde poderá encontrar uma grande variedade de recursos úteis do MCT, baixar o seu certificado MCT e visualizar descontos disponíveis para você!
 
 Além disso, você terá acesso à [MCT Central](https://www.microsoft.com/en-us/learning/mct-central.aspx), que ajuda os MCTs a manterem-se atualizados sobre as últimas notícias, encontrar um emprego, se conectar com outros MCTs ao redor do mundo ou entrar em contato com seu líder regional do MCT.
 
@@ -31,9 +31,10 @@ Além disso, você terá acesso à [MCT Central](https://www.microsoft.com/en-us
 
 ## Requisitos
 
-O programa MCT destina-se a educadores em todo o mundo que oferecem ativamente treinamento nas tecnologias Microsoft. Se você possui uma certificação de qualificação ou qualificação e adora oferecer treinamentos nas tecnologias Microsoft, nós o encorajamos a se inscrever.
+O programa MCT é destinado a educadores em todo o mundo que oferecem ativamente treinamento nas tecnologias Microsoft. Se você possui uma certificação de qualificação ou qualificação e adora oferecer treinamentos nas tecnologias Microsoft, nós o encorajamos a se inscrever.
 
 Para obter informações detalhadas sobre os requisitos do programa MCT, leia o Guia do Programa MCT e o Acordo do Programa MCT na seção [Processo de inscrição](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) desta página.
+
 
 ### Requisitos para inscrição no Programa MCT
 - Possuir uma Certificação Microsoft atual ou uma qualificação aceitável para o programa MCT. 
@@ -42,7 +43,7 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
   - Certificação de habilidades instrucionais
     - CompTIA CTT+
     - Essential Educate Trainer (certificação interna da Microsoft)
-    - Fourth Dimension Technologies, Inc.
+	- Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Global Knowledge Instructional Skills Certification
     - IAMCT Approved Technical Trainer (IAMCT ATT)
@@ -51,6 +52,8 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
     - Learning Tree do programa de treinamento de instrutores
     - Marcom Deli
     - Microsoft Certified Trainer Instructional Skills Certification (MCT-ISC)
+	- Certificação para instrutor de serviço de suporte e atendimento ao cliente Microsoft (CSS)
+	- Habilidades de treinamento básico da Microsoft
     - New Horizons Instructional Skills Certification
     - PrepMasters USA
   
@@ -81,10 +84,11 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
 - [Microsoft Certified: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)
 - [Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/learning/azure-data-scientist.aspx)
 - [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/learning/azure-data-engineer.aspx)
+- [Microsoft Certified: Azure Database Administrator Associate](/learn/certifications/azure-database-administrator-associate)
 - [Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
-- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx) (Será desativado na 31 de Agosto de 2020)
+- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx) (desativado em 31 de agosto de 2020)
 - [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/learning/m365-security-administrator.aspx)
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
@@ -140,7 +144,7 @@ Use a ferramenta de inscrição no MCT para:
 
 ## Programa MCT Alumni
 
-Há mais de duas décadas, os MCTs são a linha de frente de adoção e treinamentos de tecnologias Microsoft. Em reconhecimento das contribuições significativas, oferecemos o programa MCT Alumni. Esse programa destina-se a todos os MCTs com certificação válida na Microsoft, que não ministram mais treinamentos como parte do programa MCT e que desejam manter esse relacionamento com a comunidade MCT.
+Há mais de duas décadas, os MCTs são a linha de frente de adoção e treinamentos de tecnologias Microsoft. Em reconhecimento das contribuições significativas, oferecemos o programa MCT Alumni. Esse programa é destinado a todos os MCTs com certificação válida na Microsoft, que não ministram mais treinamentos como parte do programa MCT e que desejam manter esse relacionamento com a comunidade MCT.
 
 Requisitos do programa MCT Alumni:
 
@@ -161,6 +165,7 @@ Os benefícios do MCT Alumni incluem:
 ### Processo de inscrição do MCT Alumni
 
 Se estiver interessado em tornar-se um MCT Alumni, consulte o Acordo do Programa MCT Alumni para entender os termos da associação.<br/>
+
 
 [Acordo do Programa MCT Alumni](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2XP6W)
 
