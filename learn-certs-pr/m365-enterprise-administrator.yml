@@ -10,7 +10,7 @@ summary: |-
 
   Os administradores do Microsoft 365 Enterprise avaliam, planejam, migram, implantam e gerenciam os serviços do Microsoft 365.
 
-  <div><br/><strong>A certificação MCSE Productivity Solutions Expert será desativada em 31 de janeiro de 2021. Portanto, a certificação MCSE Productivity Solutions Expert Certification não será qualificada como uma opção de pré-requisito para a certificação Microsoft 365 Certified&#58; Enterprise Administrator Expert após 31 de janeiro de 2022 (1 ano após a desativação do MCSE).</strong></div>
+  <div><br/><strong>A certificação MCSE Productivity Solutions Expert será desativada em 31 de janeiro de 2021. Portanto, a Certificação Especialista das Soluções de Produtividade MCSE não será qualificada como uma opção de pré-requisito para o Certificação de Microsoft 365 Certified&#58; Enterprise Administrator Expert após 31 de janeiro de 2022 (1 ano após a desativação do MCSE).</strong></div>
 subTitle: Os administradores do Microsoft 365 Enterprise avaliam, planejam, migram, implantam e gerenciam os serviços do Microsoft 365.
 levels:
 - advanced
@@ -48,7 +48,7 @@ exams:
 - uid: exam.ms-100
 - uid: exam.ms-101
 resources:
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

@@ -1,0 +1,53 @@
+### YamlMime:Course
+title: Microsoft Power Platform App Maker
+metadata:
+  title: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
+  description: 'Course PL-100T00-A: Microsoft Power Platform App Maker'
+uid: course.pl-100t00
+courseNumber: 'PL-100T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Criar aplicativos e automatizar fluxos de trabalho
+- skill: Criar aplicativos e automatizar fluxos de trabalho
+- skill: Analisar e visualizar dados no contexto de um aplicativo ou fluxo de trabalho automatizado
+- skill: Implementar e gerenciar aplicativos e fluxos de trabalho automatizados
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- power-platform
+exams:
+- uid: exam.pl-100
+summary: |-
+  Este curso irá ensiná-lo a criar aplicativos com técnicas de código mínimo para simplificar, automatizar e transformar tarefas e processos de negócios usando a Microsoft Power Platform.
+
+  #### Perfil do público
+  O criador de aplicativos cria soluções para simplificar, automatizar e transformar tarefas e processos para ele e sua equipe, os quais possuem profundo conhecimento no domínio de negócios da solução. Eles devem ser especialistas em modelagem básica de dados, design de experiência do usuário, análise de requisitos e de análise de processos. O criador de aplicativos cria e aplica processos de negócios, estrutura a coleta digital de informações, melhora a eficiência de tarefas repetíveis e automatiza os processos de negócios. O criador de aplicativos usa as ferramentas do criador da Power Platform para solucionar problemas de negócios. Eles podem usar recursos avançados de aplicativos da Microsoft e ferramentas de produtividade de terceiros. O criador de aplicativos está ciente dos recursos e limitações das ferramentas disponíveis e entende como aplicá-las. O criador de aplicativos é independente e focado na solução. Eles podem não ter treinamento formal em TI, mas se sentem confortáveis ao usar a tecnologia para resolver problemas de negócios tendo em mente o crescimento pessoal. Eles compreendem a necessidade operacional e têm uma visão do resultado desejado. Eles abordam problemas com estratégias graduais e iterativas.
+prerequisitesSection: |-
+  - Modelagem básica de dados, design de experiência do usuário, análise de requisitos e de análise de processos.
+  - Têm experiência no uso da tecnologia para solucionar problemas de negócios tendo em mente o crescimento pessoal.
+  - Compreensão da necessidade operacional com uma visão do resultado desejado. Eles abordam problemas com estratégias graduais e iterativas.
+outlineSection: |-
+  ### Módulo 1&#58; Criar um aplicativo baseado em modelo no Power Apps
+  Este módulo apresenta a criação de um aplicativo orientado a modelo no Power Apps que utiliza o Common Data Service.
+
+  ### Módulo 2&#58; Criar aplicativos de tela no Power Apps
+  Este módulo apresenta o Power Apps, que o ajudará a criar e personalizar um aplicativo, gerenciá-lo e distribuí-lo.
+
+  ### Módulo 3&#58; Uso da IU e os controles em um aplicativo de tela no Power Apps
+  Este módulo se concentrará em como fornecer a melhor navegação de aplicativo e no desenvolvimento da melhor IU com o uso de temas, ícones, imagens, personalização, diversos fatores forma e controles.
+
+  ### Módulo 4&#58; Automatizar um processo de negócios usando o Power Automate
+  Este módulo apresenta o Power Automate e ensina o estudante a criar fluxos de trabalho e a administrar fluxos.
+
+  ### Módulo 5&#58; Criar e usar relatórios analíticos com o Power BI
+  Aprenda o que é Power BI, incluindo seus blocos de construção e como funcionam em conjunto.
+
+  ### Módulo 6&#58; Introdução ao AI Builder
+  Este módulo ajuda o estudante a construir um modelo de IA desde o início e o ensinará como usá-lo em seu negócio sem escrever uma única linha de código.
+

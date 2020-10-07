@@ -19,23 +19,22 @@ Encontre certificações agendadas para serem aposentadas nos próximos 12 meses
 
 |                                             |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSA: Dynamics 365 for Operations](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365-for-operations.aspx) | a ser desativado em 31 de janeiro de 2021 |
-| [MCSA: BI Reporting](https://www.microsoft.com/learning/mcsa-bi-reporting.aspx) | a ser desativado em 31 de janeiro de 2021 |
-| [MCSA: SQL 2016 Database Admin](https://www.microsoft.com/learning/mcsa-sql2016-database-administration-certification.aspx) | a ser desativado em 31 de janeiro de 2021 |
-| [MCSA: SQL 2016 BI Development](https://www.microsoft.com/learning/mcsa-sql2016-business-intelligence-certification.aspx) | a ser desativado em 31 de janeiro de 2021 |
-| [MCSA: SQL 2016 Database Dev](https://www.microsoft.com/learning/mcsa-sql2016-database-development-certification.aspx) | a ser desativado em 31 de janeiro de 2021 |
-| [MCSA: SQL Server 2012/2014](https://www.microsoft.com/learning/mcsa-sql-certification.aspx) | a ser desativado em 31 de janeiro de 2021 |
-| [MCSA: Universal Windows Platform](https://www.microsoft.com/learning/mcsa-universal-windows-platform.aspx) | a ser desativado em 31 de janeiro de 2021 |
-| [MCSA: Web Applications](https://www.microsoft.com/learning/mcsa-web-applications-certification.aspx) | a ser desativado em 31 de janeiro de 2021 |
-| [MCSA: Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx) | a ser desativado em 31 de janeiro de 2021 |
-| [MCSA: Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx) | a ser desativado em 31 de janeiro de 2021 |
-| [MCSD: App Builder](https://www.microsoft.com/learning/mcsd-app-builder-certification.aspx) | a ser desativado em 31 de janeiro de 2021 |
-| [MCSE: Business Applications](https://www.microsoft.com/learning/mcse-business-applications.aspx) | a ser desativado em 31 de janeiro de 2021 |
-| [MCSE: Core Infrastructure](https://www.microsoft.com/learning/mcse-core-infrastructure.aspx) | a ser desativado em 31 de janeiro de 2021 |
-| [MCSE: Data Management & Analytics](https://www.microsoft.com/learning/mcse-data-management-analytics.aspx) | a ser desativado em 31 de janeiro de 2021 |
-| [MCSE: Productivity](https://www.microsoft.com/learning/mcse-productivity-certification.aspx) | a ser desativado em 31 de janeiro de 2021 |
-[Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | a ser desativado em 31 de dezembro de 2020 |
-[Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator) | a ser desativado em 31 de agosto de 2020 |
+| [MCSA: Dynamics 365 for Operations](/learn/certifications/mcsa-microsoft-dynamics-365-for-operations) | Será desativado na 31 de janeiro de 2021 |
+| [MCSA: BI Reporting](/learn/certifications/mcsa-bi-reporting) | Será desativado na 31 de janeiro de 2021 |
+| [MCSA: SQL 2016 Database Admin](/learn/certifications/mcsa-sql2016-database-administration-certification) | Será desativado na 31 de janeiro de 2021 |
+| [MCSA: SQL 2016 BI Development](/learn/certifications/mcsa-sql2016-business-intelligence-certification) | Será desativado na 31 de janeiro de 2021 |
+| [MCSA: SQL 2016 Database Dev](/learn/certifications/mcsa-sql2016-database-development-certification) | Será desativado na 31 de janeiro de 2021 |
+| [MCSA: SQL Server 2012/2014](/learn/certifications/mcsa-sql-certification) | Será desativado na 31 de janeiro de 2021 |
+| [MCSA: Universal Windows Platform](/learn/certifications/mcsa-universal-windows-platform) | Será desativado na 31 de janeiro de 2021 |
+| [MCSA: Web Applications](/learn/certifications/mcsa-web-applications-certification) | Será desativado na 31 de janeiro de 2021 |
+| [MCSA: Windows Server 2012](/learn/certifications/mcsa-windows-server-certification) | Será desativado na 31 de janeiro de 2021 |
+| [MCSA: Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification) | Será desativado na 31 de janeiro de 2021 |
+| [MCSD: App Builder](/learn/certifications/mcsd-app-builder-certification) | Será desativado na 31 de janeiro de 2021 |
+| [MCSE: Business Applications](/learn/certifications/mcse-business-applications) | Será desativado na 31 de janeiro de 2021 |
+| [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure) | Será desativado na 31 de janeiro de 2021 |
+| [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | Será desativado na 31 de janeiro de 2021 |
+| [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | Será desativado na 31 de janeiro de 2021 |
+| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | a ser desativado em 31 de dezembro de 2020 |
 
 ## Certificações desativadas
 
@@ -43,30 +42,24 @@ Encontre certificações que foram aposentadas no ano passado. Quando uma certif
 
 Observação: Depois que uma certificação é desativada, a Microsoft continua a rever as tecnologias correspondentes para determinar se elas ainda são relevantes. Se a tecnologia correspondente não for mais relevante, as certificações associadas serão transferidas para a seção Histórico de Certificação da transcrição.
 
-Expanda as seções abaixo para ver a lista de certificações desativadas por tipo ao lado da data de desativação associada.
+| Baseado em função                                                                         |                    |
+| ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 31 de agosto de 2020 |
 
-| Microsoft Certified Solutions Developer                                            |
-| ---------------------------------------------------------------------------------- |
+| Microsoft Certified Solutions Developer                                            |                    |
+| ---------------------------------------------------------------------------------- | ------------------ |
 |                                                                                    |
 
 | Microsoft Certified Solutions Associate                                            |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MCSA: CRM Dynamics Technical                                                                                          | 31 de dezembro de 2019  |
-| [MCSA: Cloud Platform](https://www.microsoft.com/learning/mcsa-cloud-platform-certification.aspx)                     | 31 de dezembro de 2018  |
-| [MCSA: Linux on Azure](https://www.microsoft.com/learning/mcsa-linux-azure-certification.aspx)                        | 31 de dezembro de 2018  |
-| [MCSA: Office 365](https://www.microsoft.com/learning/mcsa-office365-certification.aspx)                              | 30 de abril de 2019     |
-| [MCSA: Windows 10](https://www.microsoft.com/learning/mcsa-windows-10-certifications.aspx)                            | 30 de abril de 2019     |
-| [MCSA: Microsoft Dynamics 365](https://www.microsoft.com/learning/mcsa-microsoft-dynamics-365.aspx)                   | 30 de junho de 2019      |
-| [MCSA: Machine Learning](https://www.microsoft.com/learning/mcsa-machine-learning.aspx)                               | 30 de junho de 2019      |
-| [MCSA: Data Engineering with Azure](https://www.microsoft.com/learning/mcsa-data-engineering-with-azure.aspx)         | 30 de junho de 2019      |
+| MCSA: CRM Dynamics Technical                                                                                                | 31 de dezembro de 2019  |
 
-| Microsoft Certified Solutions Expert                                               |                    |
-| ---------------------------------------------------------------------------------- | ------------------ |
-| [MCSE: Cloud Platfrom and Infrastructure](https://www.microsoft.com/learning/mcse-cloud-platform-infrastructure.aspx) | 31 de dezembro de 2018  |
-| [MCSE: Mobility](https://www.microsoft.com/learning/mcse-mobility-certification.aspx)                                 | 30 de abril de 2019     |
+| Microsoft Certified Solutions Expert                                               |
+| ---------------------------------------------------------------------------------- |
+|                                                                                    |
 
 | Microsoft Technology Associate                                                     |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MTA: 98-369: Cloud Fundamentals                                                                                             | segunda-feira, 30 de setembro de 2019 |
-| MTA: 98-380: Introdução à Programação Usando Linguagens Baseadas em Bloco (Touch Develop)                                        | 7 de agosto de 2019     |
+| MTA: 98-369: Cloud Fundamentals                                                                                             | 30 de setembro de 2019 |
+| MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop)                                        | 7 de agosto de 2019     |
 ___

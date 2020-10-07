@@ -8,33 +8,33 @@ courseNumber: 'WS-011T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Usar técnicas e ferramentas administrativas no Windows Server 2019
-- skill: Implementar serviços de identidade
-- skill: Gerenciar serviços de infraestrutura de rede
-- skill: Configurar servidores de arquivos e armazenamento
+- skill: Usar técnicas e ferramentas administrativas no Windows Server 2019.
+- skill: Implementar serviços de identidade.
+- skill: Gerenciar serviços de infraestrutura de rede.
+- skill: Configurar servidores de arquivos e armazenamento.
 - skill: Gerenciar máquinas virtuais usando virtualização e contêineres Hyper-V
-- skill: Implementar soluções de alta disponibilidade e recuperação de desastres
-- skill: Aplicar recursos de segurança para proteção de recursos críticos
-- skill: Configurar os serviços da área de trabalho remota
-- skill: Configurar uma implementação de infraestrutura de área de trabalho baseada em máquina virtual
-- skill: Implementar o acesso remoto e serviços da web
-- skill: Implementar o monitoramento de serviços e desempenho e aplicar o diagnóstico de problemas
-- skill: Realizar atualizações e migração relacionadas ao AD DS e armazenamento
+- skill: Implementar soluções de alta disponibilidade e recuperação de desastres.
+- skill: Aplicar recursos de segurança para proteção de recursos críticos.
+- skill: Configurar os serviços da área de trabalho remota.
+- skill: Configurar uma implementação de infraestrutura de área de trabalho baseada em máquina virtual.
+- skill: Implementar o acesso remoto e serviços da web.
+- skill: Implementar o monitoramento de serviços e desempenho e aplicar o diagnóstico de problemas.
+- skill: Realizar atualizações e migração relacionadas ao AD DS e armazenamento.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
 - intermediate
 roles:
-- developer
+- administrator
 products:
 - windows-server
 summary: |-
   Este curso de cinco dias, ministrado por instrutor, foi desenvolvido principalmente para profissionais de TI com alguma experiência com o Windows Server. O curso foi desenvolvido para profissionais que serão responsáveis pelo gerenciamento de identidade, rede, armazenamento e computação usando o Windows Server 2019 e que precisam compreender os cenários, requisitos e opções disponíveis e aplicáveis ao Windows Server 2019. Ele proporciona aos profissionais de TI as competências básicas de rede necessárias para a implementação e suporte do Windows Server 2019 na maioria das organizações.
 
   #### Perfil do público
-  Este curso destina-se a profissionais de tecnologia da informação (TI) que têm alguma experiência prática no Windows Server e buscam um único curso de cinco dias que cubra os principais componentes e tecnologias de administração no Windows Server 2019. Este curso também ajuda os administradores de servidor de versões anteriores do Windows Server a atualizar seus conhecimentos e habilidades relacionados ao Windows Server 2019.
-  Além disso, este curso pode ajudar as pessoas que procuram materiais de preparação para passar nos exames relacionados ao Windows Server. O curso destina-se também a indivíduos que trabalham em uma central de serviços que desejam fazer a transição para a manutenção do servidor.
+  Este curso é destinado a profissionais de tecnologia da informação (TI) que têm alguma experiência prática no Windows Server e buscam um único curso de cinco dias que cubra os principais componentes e tecnologias de administração no Windows Server 2019. Este curso também ajuda os administradores de servidor de versões anteriores do Windows Server a atualizar seus conhecimentos e habilidades relacionados ao Windows Server 2019.
+  Além disso, este curso pode ajudar as pessoas que procuram materiais de preparação para passar nos exames relacionados ao Windows Server. O curso é destinado também a indivíduos que trabalham em uma central de serviços que desejam fazer a transição para a manutenção do servidor.
 prerequisitesSection: |-
   - Algum conhecimento e experiência em conceitos e tecnologias Serviços de Domínio do Active Directory (AD DS) no Windows Server 2012 ou no Windows Server 2016.
   - Algum conhecimento e experiência em conceitos e tecnologias Serviços de Domínio do Active Directory (AD DS) no Windows Server 2012 ou no Windows Server 2016.
@@ -45,12 +45,11 @@ prerequisitesSection: |-
   - Experiência básica no Windows PowerShell.
 outlineSection: |-
   ### Módulo 1&#58; Visão geral da administração do Windows Server
-  Este módulo descreve como distinguir diferentes edições e técnicas do Windows Server 2019 para implementação, manutenção e ativação. O módulo também apresenta o Windows Server Core e o compara com a versão Desktop Experience. O módulo descreve as ferramentas e conceitos para administrar o Windows Server, como o centro de administração do Windows, o PowerShell e a delegação de privilégios.
+  Este módulo descreve como distinguir diferentes edições e técnicas do Windows Server 2019 para implementação, manutenção e ativação. O módulo também apresenta o Windows Server Core e o compara com a versão Desktop Experience. O módulo descreve as ferramentas e conceitos para administrar o Windows Server, como o Windows Admin Center, o PowerShell e a delegação de privilégios.
   #### Lições
+  - Visão geral dos princípios e ferramentas de administração do Windows Server
   - Introduzindo o Windows Server 2019
   - Visão Geral do Windows Server Core
-  - Visão geral dos princípios e ferramentas de administração do Windows Server
-
 
   #### Laboratório&#58; Implementação e configuração do Windows Server
   - Implementação e configuração do Windows Core
@@ -67,21 +66,20 @@ outlineSection: |-
   - Visão geral do AD DS
   - Implementando controladores de domínio do Windows Server
   - Visão geral do Azure AD
-  - Implementar política de grupo.
+  - Implementar política de grupo
   - Visão geral dos Serviços de Certificados do Active Directory
-
 
   #### Laboratório&#58; Implementando serviços de identidade e da política de grupo
   - Implementando um novo controlador de domínio no Server Core
   - Configurando a política de grupo
   - Implementando e utilizando serviços de certificado
-  - Explicar os princípios básicos da política de grupo e configurar GPOs em um ambiente de domínio
-  - Descrever a função dos serviços de certificado do Active Directory e o uso de certificados
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever o AD DS em um ambiente Windows Server.
   - Implementar controladores de domínio no AD DS.
   - Descrever o Azure AD e as vantagens da integração do Azure AD ao AD DS.
+  - Explicar os princípios básicos da política de grupo e configurar GPOs em um ambiente de domínio.
+  - Descrever a função dos serviços de certificado do Active Directory e o uso de certificados.
 
 
   ### Módulo 3&#58; Serviços de infraestrutura de rede no Windows Server
@@ -90,13 +88,10 @@ outlineSection: |-
   - Implementando e gerenciando o DHCP
   - Implementando e gerenciando o serviço DNS
   - Implementando e gerenciando o IPAM
-  - Serviços de acesso remoto no Windows Server
-
 
   #### Laboratório&#58; Implementando e configurando serviços de infraestrutura de rede no Windows Server
   - Implementação e configuração do DHCP
   - Implementação e configuração do DNS
-  - Implementação do Proxy de Aplicativo Web
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever, implementar e configurar o serviço DHCP.
@@ -113,7 +108,6 @@ outlineSection: |-
   - Implementar Data Deduplication
   - Implementando o iSCSI
   - Implementando o sistema de arquivos distribuído
-
 
   #### Laboratório&#58; Implementando soluções de espaços de armazenamento no Windows Server
   - Implementar Data Deduplication
@@ -138,7 +132,6 @@ outlineSection: |-
   - Contêineres no Windows Server
   - Visão geral do Kubernetes
 
-
   #### Laboratório&#58; Implementando e configurando a virtualização no Windows Server
   - Criando e configurando VMs
   - Instalando e configurando contêineres
@@ -159,9 +152,9 @@ outlineSection: |-
   - Visão geral dos clusters estendidos
   - Soluções de alta disponibilidade e recuperação de desastre com VMs do Hyper-V
 
-
-  #### Laboratório &#58; Implementando clustering de failover
-  - Configurando o armazenamento e criando um cluster
+  #### Laboratório&#58; Implementando clustering de failover
+  - Configurando armazenamento iSCSI
+  - Configurando um cluster de failover
   - Implementando e configurando um servidor de arquivos de alta disponibilidade
   - Validando a implementação de um servidor de arquivos de alta disponibilidade
 
@@ -178,7 +171,6 @@ outlineSection: |-
   - Hyper-V Replica
   - Infraestrutura de backup e recuperação do Windows Server
 
-
   #### Laboratório&#58; Implementando o Hyper-V Replica e backup do Windows Server
   - Implementando o Hyper-V Replica
   - Implementando o backup e recuperação com o backup do Windows Server
@@ -193,14 +185,13 @@ outlineSection: |-
   ### Módulo 8&#58; segurança do Windows Server
   Este módulo descreve os recursos de segurança do Windows Server e como implementá-los. O módulo abrange as credenciais usadas no Windows Server e explica como implementar a proteção de acesso privilegiada. Além de descrever métodos e tecnologias para reforçar a segurança do Windows Server, o módulo descreve como configurar o recurso Just Enough Administration (JEA) e como proteger o tráfego SMB. Por último, o módulo abrange as opções de implementação e gerenciamento do Windows Update.
   #### Lições
-  - Credenciais e proteção de acesso privilegiada
+  - Credenciais e proteção de acesso privilegiado no Windows Server
   - Aprimorando a segurança do Windows Server
-  - JEA no Windows Server
+  - Just Enough Administration no Windows Server
   - Proteger e analisar o tráfego SMB
   - Gerenciamento de atualização do Windows Server
 
-
-  #### Laboratório &#58; Configurando a segurança no Windows Server
+  #### Laboratório&#58; Configurando a segurança no Windows Server
   - Configurando a proteção de credenciais do Windows Defender
   - Localização de contas problemáticas
   - Implementar o LAPS
@@ -214,17 +205,16 @@ outlineSection: |-
   - Descrever as opções de implementação e gerenciamento do Windows Update.
 
 
-  ### Módulo 9&#58; RDS no Windows Server
+  ### Módulo 9&#58; Serviços de área de trabalho remota no Windows Server
   Este módulo descreve os principais recursos do Protocolo de Área de Trabalho Remota (RDP) e da Infraestrutura de Área de Trabalho Virtual (VDI) no Windows Server. Os módulos abordam como implementar áreas de trabalho baseadas em sessão e descrevem áreas de trabalho virtuais pessoais e em pools.
   #### Lições
-  - Visão geral do RDS
+  - Visão geral dos serviços de área de trabalho remota
   - Configurando uma implementação de área de trabalho baseada em sessão
   - Visão geral das áreas de trabalho virtuais pessoais e em pool
 
-
   #### Laboratório&#58; Implementando o RDS no Windows Server
   - Implementar o RDS
-  - Definindo as configurações da coleção de sessões e uso do RDC
+  - Definição das configurações de coleções de RemoteApp
   - Configurando um modelo de área de trabalho virtual
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
@@ -234,15 +224,16 @@ outlineSection: |-
 
 
   ### Módulo 10&#58; Acesso remoto e serviços Web no Windows Server
-  Este módulo descreve como implementar redes privadas virtuais (VPNs), Servidor de Políticas de Rede (NPS) e os Serviços de Informações da Internet da Microsoft (IIS). O módulo descreve a funcionalidade Always On VPN, além de como configurar o NPS e o servidor Web (IIS) no Windows Server.
+  Este módulo descreve como implementar redes privadas virtuais (VPNs), Servidor de Políticas de Rede (NPS) e os Serviços de Informações da Internet da Microsoft (IIS). O módulo fornece uma visão geral dos serviços de acesso remoto e descreve a funcionalidade Always On VPN, além de como configurar o NPS e o servidor Web (IIS) no Windows Server.
   #### Lições
+  - Visão geral do RAS no Windows Server
   - Implementação de VPN
-  - Implementando Always On VPN
   - Implementar o NPS
+  - Implementando Always On VPN
   - Implementando servidor Web no Windows Server
 
-
-  #### Laboratório &#58; Implementando controlador de rede
+  #### Laboratório&#58; Implementando controlador de rede
+  - Implementação do Proxy de Aplicativo Web
   - Implementando VPNs no Windows Server
   - Implementando e configurando servidor Web
 
@@ -253,20 +244,18 @@ outlineSection: |-
   - Descrever e configurar o servidor Web (IIS).
 
 
-  ### Módulo 11&#58; Monitoramento de servidor e desempenho no Windows Server
+  ### Módulo 11&#58; Monitoramento, desempenho e diagnóstico de problemas
   Este módulo descreve como implementar o monitoramento de serviço e desempenho e como aplicar o diagnóstico de problemas no Windows Server. O módulo destaca as ferramentas de monitoramento e descreve como monitorar o desempenho, incluindo o log de eventos e como executar o monitoramento de log de eventos para fins de solução de problemas.
   #### Lições
   - Visão geral das ferramentas de monitoramento do Windows Server
   - Uso do Monitor de Desempenho
   - Monitorando logs de eventos para solução de problemas
 
-
   #### Laboratório&#58; Monitorando e solucionando problemas do Windows Server
-  - Estabelecendo uma base de desempenho
-  - Identificando a origem de um problema de desempenho
-  - Identificando a origem de um problema de desempenho
-
-  Identificando a origem de um problema de desempenho
+  - Estabelecendo uma base de desempenho.
+  - Identificando a origem de um problema de desempenho.
+  - Visualizando e configurando logs de eventos centralizados.
+  - Identificando a origem de um problema de desempenho.
   - Descrever as ferramentas de monitoramento no Windows Server.
   - Descrever o monitoramento de desempenho e como usá-lo no Windows Server.
   - Descrever o log de eventos e realizar o monitoramento de log de eventos para fins de solução de problemas.
@@ -279,9 +268,9 @@ outlineSection: |-
   - Serviço de Migração de Armazenamento
   - Ferramentas de migração do Windows Server
 
-
   #### Laboratório&#58; Migrando cargas de trabalho do servidor
-  - Implementando o Serviço de Migração de Armazenamento
+  - Selecionar um processo para migrar cargas de trabalho do servidor
+  - Planejar como migrar arquivos usando o Serviço de Migração de Armazenamento
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Descrever as ferramentas a serem usadas na migração do AD DS.

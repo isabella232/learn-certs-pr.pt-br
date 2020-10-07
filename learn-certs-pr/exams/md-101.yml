@@ -6,10 +6,11 @@ metadata:
 uid: exam.md-101
 displayName: MD-101
 summary: |-
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
-  Se você passou [Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) antes de expirar em 31 de março de 2019, só precisa fazer um exame MD-101 para receber a certificação Modern Desktop. Os candidatos a este exame são Administradores que implementam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos cliente em um ambiente corporativo. Os candidatos gerenciam identidade, acesso, políticas, atualizações e aplicativos.
-  <br/>
+  Se você passou [Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) antes de expirar em 31 de março de 2019, só precisa fazer um exame MD-101 para receber a certificação Modern Desktop.
+
+  Os candidatos a este exame são Administradores que implementam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos cliente em um ambiente corporativo. Os candidatos gerenciam identidade, acesso, políticas, atualizações e aplicativos.
 
   Como Administrador, os candidatos normalmente colaboram com o Microsoft 365 Enterprise Administrator para projetar e implementar uma estratégia de dispositivo que atenda às necessidades de negócios de uma organização moderna.
 
@@ -48,7 +49,7 @@ resources:
 - title: Certificação Caminho de Aprendizagem
   description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Modern Desktop Administrator Associate.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
-- title: Guia de treinamento e certificação
+- title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
@@ -57,7 +58,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Apoio aos  exames de certificação
+- title: Support for certification exams
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

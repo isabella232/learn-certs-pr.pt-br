@@ -1,12 +1,12 @@
 ### YamlMime:Role 
-title: consultor funciona 
+title: Functional Consultant 
 metadata: 
-  title: consultor funciona 
-  description: Os Functional Consultants fazem uso do Microsoft Dynamics 365 para antecipar e planejar as necessidades dos clientes.  
+  title: Functional Consultant 
+  description: Os Functional Consultants aproveitam o Microsoft Dynamics 365 e a Microsoft Power Platform para antecipar e planejar as necessidades do cliente. 
 uid: role.functional-consultant 
 summary: | 
-  Os Functional Consultants fazem uso do Microsoft Dynamics 365 para antecipar e planejar as necessidades dos clientes.
-subTitle: Os Functional Consultants fazem uso do Microsoft Dynamics 365 para antecipar e planejar as necessidades dos clientes.
+  Os Functional Consultants aproveitam o Microsoft Dynamics 365 e a Microsoft Power Platform para antecipar e planejar as necessidades do cliente.
+subTitle: Os Functional Consultants aproveitam o Microsoft Dynamics 365 e a Microsoft Power Platform para antecipar e planejar as necessidades do cliente.
 certificationPaths: 
 - title: Dynamics 365 Customer Service Functional Consultant
   linkedInKeywords: Dynamics 365 Customer Service Functional Consultant
@@ -129,6 +129,12 @@ certifications:
   requiredExams:
   - uid: exam.mb-300
   - uid: exam.mb-330  
+- uid: certification.power-platform-functional-consultant-associate
+  requiredExams:
+  - uid: exam.pl-200  
+- uid: certification.d365-business-central-functional-consultant-associate
+  requiredExams:
+  - uid: exam.mb-800
 resources:
 - title: Guia de Treinamento e Certificações Microsoft
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
@@ -136,6 +142,6 @@ resources:
 - title: Cartaz de Treinamento e Certificações
   description: Escolha seu caminho para o sucesso com este cartaz de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Apoio às certificações
+- title: Suporte para certificações
   href: ../help.md
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.

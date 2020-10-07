@@ -55,7 +55,7 @@ certificationPaths:
 certifications:
 - uid: certification.azure-developer
   requiredExams:
-  - uid: exam.az-203
+  - uid: exam.az-204
 - uid: certification.d365-finance-and-operations-apps-developer-associate
   requiredExams:
   - uid: exam.mb-300
@@ -65,7 +65,13 @@ certifications:
   - uid: exam.ms-600
 - uid: certification.power-apps-and-d365-developer-associate
   requiredExams:
-  - uid: exam.pl-900
+  - uid: exam.mb-400
+- uid: certification.power-platform-developer-associate
+  requiredExams:
+  - uid: exam.pl-400
+- uid: certification.azure-iot-developer-specialty
+  requiredExams:
+  - uid: exam.az-220
 resources:
 - title: Guia de Treinamento e Certificações Microsoft
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
@@ -73,6 +79,6 @@ resources:
 - title: Cartaz de Treinamento e Certificações
   description: Escolha seu caminho para o sucesso com este cartaz de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Apoio às certificações
+- title: Suporte para certificações
   href: ../help.md
-  description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.

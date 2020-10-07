@@ -48,7 +48,6 @@ Aprenda novas habilidades e descubra o poder dos produtos Microsoft com orienta�
 Para garantir a segurança dos exames e o valor de nossas certificações, não identificamos formatos nem tipos de perguntas antes do exame. A Microsoft está sempre desenvolvendo tecnologias de teste inovadoras e tipos de perguntas, portanto se reserva o direito de incorporá-los nos exames a qualquer momento e sem notificação prévia. O exame pode conter o seguinte:
 
 ### Amostras de exames e perguntas
-
 #### Tela ativa (0:44)
 
 <div>
@@ -129,7 +128,7 @@ Para garantir a segurança dos exames e o valor de nossas certificações, não 
 </div>
 
 
-#### Marcar para revisão (00:33)
+#### Marcar para revisão (0:33)
 
 <div>
 	<a href="https://youtu.be/ROO_PzuXbMw" target="_blank"><img width="450px" src="images/mark-review.jpg" alt="Mark review"/></a>
@@ -184,15 +183,15 @@ Uma parte crítica do processo de desenvolvimento do exame é o exame beta. Ao r
 
 ### Como participar
 
-Os exames beta da Microsoft são oferecidos com 80% de desconto (requer código). Os candidatos que fazem o exame recebem um desconto de 25% no próximo exame após a conclusão do resgate, conforme explicado aqui [Atualizações](/learn/certifications/posts/updates-on-microsoft-beta-exam-program) no Programa de Exame Microsoft Beta.
+Os exames beta da Microsoft são oferecidos com 80% de desconto (requer código). Os candidatos que utilizarem o desconto de 80% para realizar o exame beta receberão um desconto de 25% em seu próximo exame após a conclusão da reavaliação, conforme descrito aqui: [Atualizações no programa de exames beta da Microsoft](/learn/certifications/posts/updates-on-microsoft-beta-exam-program). _Este desconto NÃO está geralmente disponível para todos os participantes beta. Se você pagar pelo exame beta usando qualquer outro método, não terá direito ao voucher de desconto de 25 %._
 
-Para obter o código, você pode ser membro de nosso banco de dados de perfis de PME ou na seção Anúncios, à esquerda de nossa [Página de políticas e perguntas frequentes sobre exames](/learn/certifications/certification-exam-policies) . Os participantes qualificados do programa de banco de dados SME Profile recebem um código de desconto exclusivo para participar dos exames beta - aumentando a probabilidade de conseguir uma vaga no exame beta.
+Para obter o código, você pode ser membro de nosso banco de dados de perfis de PME ou na seção Anúncios, à esquerda de nossa [Página de políticas e perguntas frequentes sobre exames](/learn/certifications/certification-exam-policies). Os participantes qualificados do programa de banco de dados SME Profile recebem um código de desconto exclusivo para participar dos exames beta - aumentando a probabilidade de conseguir uma vaga no exame beta.
 
 O programa de banco de dados SME Profile agora está hospedado no [Microsoft Collaborate](https://aka.ms/collaborate). Veja o blog da comunidade [Ajude-nos a criar exames e conteúdo de aprendizado! Participe do nosso banco de dados de PME hoje!](/learn/certifications/posts/help-us-create-exams-and-learning-content) para obter instruções sobre como ingressar no programa no Collaborate.
 
 Para algumas funções, temos muito mais candidatos qualificados no banco de dados de perfis de SME do que vagas disponíveis. Nesses casos, selecionamos um número de candidatos qualificados aleatoriamente e enviamos os convites. Se não for selecionado, você ainda pode participar consultando a página Anúncios, onde postaremos um código diferente no dia que o registro para o exame beta for iniciado.
 
-Se você deseja fazer o exame beta, mas não recebeu um convite ou não conseguiu se inscrever para uma vaga com desconto, poderá fazer o exame durante esse período registrando-se como faria em qualquer exame e pagando o preço normal. Sabemos que alguns candidatos querem realizá-lo com antecedência para atender a um requisito profissional, necessidade de crescimento na carreira ou para demonstrar que são os primeiros especialistas a adotar a tecnologia.
+Se você deseja realizar o exame beta, mas não recebeu um convite ou não conseguiu se inscrever para uma vaga com desconto, poderá realizar o exame durante esse período registrando-se como faria em qualquer exame e pagando o preço normal. Sabemos que alguns candidatos querem realizá-lo com antecedência para atender a um requisito profissional, necessidade de crescimento na carreira ou para demonstrar que são os primeiros especialistas a adotar (e serem competentes na) a tecnologia.
 
 Apenas candidatos com experiência com a tecnologia devem participar dos exames beta.
 
@@ -216,9 +215,9 @@ Você geralmente recebe sua pontuação no exame entre 2 e 3 semanas após a dis
 
 ### Aprovação no exame beta
 
-A aprovação em um exame beta conta para a sua certificação. Você não precisa refazer o exame em sua versão final. Certifique-se de fazer outro exame em até um ano para tirar proveito do desconto de 25% que ganhou por fazer o exame beta.
+A aprovação em um exame beta conta para a sua certificação. Você não precisa refazer o exame em sua versão final. Certifique-se de realizar outro exame no prazo de um ano para que possa aproveitar o desconto de 25% que você ganhou ao realizar o exame beta por meio de nosso programa de descontos para exames beta.
 
-Se você não passar no exame beta, não conseguirá refazê-lo na versão beta. Se você estiver interessado em obter uma certificação que exija a conclusão bem-sucedida desse exame, aguarde para refazê-lo a um custo regular quando estiver ativo, ou poderá aplicar o desconto de 25% que recebeu por participar do exame beta.
+Se você não passar no exame beta, não conseguirá refazê-lo na versão beta. Se estiver interessado em obter uma certificação que requer a conclusão bem-sucedida daquele exame, você precisa esperar para realizar novamente o exame a custo normal quando estiver disponível ou você pode aplicar o desconto de 25% que recebeu por participar do exame beta por meio de nosso programa de descontos para exames beta.
 
 Se você acredita que sua pontuação beta deve estar disponível (porque o exame está ativo ou porque viu um tuíte que afirmava isso), verifique primeiro se o provedor de exame a publicou online. Se não a publicou, entre em contato com o provedor do exame. (observe que pode demorar até duas semanas após a versão final do exame estar disponível publicamente para a sua pontuação beta aparecer online). Se o provedor de entrega do exame publicou uma pontuação, mas você não a vê na transcrição da Microsoft, entre em contato com [Suporte à certificação](https://aka.ms/mcpforum).
 
