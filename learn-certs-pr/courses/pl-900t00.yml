@@ -8,12 +8,12 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 'Descreva os componentes da Power Platform: Power Apps, Power BI e Microsoft Automate'
-- skill: 'Descreva os componentes da Power Platform: Common Data Service, Connectors e AI builder'
-- skill: Descrevas os cenários dos serviços M365, Dynamics 365, Microsoft Azure e de terceiros na nuvem
-- skill: Identifique as vantagens e os recursos da Power Platform
-- skill: Identifique as funcionalidades básicas e o valor comercial dos componentes da Power Platform
-- skill: Implemente soluções simples com o Microsoft Automate, Power BI e Power Apps
+- skill: 'Descreva os componentes da Plataforma de Energia: Power Apps, Power BI e Microsoft Automate'
+- skill: 'Descreva os componentes da Plataforma de Energia: Serviço de Dados Comum, Conectores e construtor de IA'
+- skill: Descrever cenários em nuvens cruzadas em M365, Dynamics 365, Microsoft Azure e serviços de terceiros
+- skill: Identificar os benefícios e capacidades da Plataforma de Energia
+- skill: Identificar a funcionalidade básica e o valor comercial Componentes da plataforma de energia
+- skill: Implementar soluções simples com Power Apps, Power Automate, Power BI, e Power Virtual Agents
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -26,93 +26,119 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |-
-  Conheça o valor comercial e os recursos da Power Platform. Crie um PowerApp simples, conecte dados ao Common Data Service, crie um painel do Power BI e automatize um processo com o Power Automate.
+  Aprenda o valor comercial e as capacidades de produto da Plataforma de Energia. Criar aplicativos Power simples, conectar dados com o Serviço de Dados Comum, construir um Painel Power BI, automatizar um processo com Power Automate, e construir um chatbot com agentes Power Virtual.
 
   #### Perfil do público
-  Os candidatos a este exame são usuários que aspiram melhorar a produtividade automatizando processos de negócios, analisando dados para produzir insights de negócios e agindo de forma mais eficaz com a criação de experiências de aplicativo simples.
+
+  Os candidatos a este exame são usuários que aspiram a melhorar a produtividade automatizando processos de negócios, analisando dados para produzir insights comerciais e agindo de forma mais eficaz criando experiências de aplicação simples.
 prerequisitesSection: |-
-  Nenhum pré-requisitos para este curso
+  Nenhum pré-requisito para este curso
 outlineSection: |-
-  ### Módulo 1&#58; Introdução à Power Platform
-  Aprenda sobre os componentes do Power Platform, as maneiras de conectar dados e como as organizações podem fazer uso essa tecnologia para criar soluções de negócios.
+  ### Módulo 1&#58; Introdução à Plataforma de Energia
+  Aprenda sobre os componentes da Plataforma de Energia, formas de conectar dados e como as organizações podem aproveitar esta tecnologia para criar soluções comerciais.
   #### Lições
-  - Visão Geral do Power Platform
+  - Visão geral da plataforma de energia
   - Resumo do módulo
 
-  Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Identifique quando usar cada componente da aplicação do Power Platform para criar soluções de negócio
-  - Aprenda o valor de usar a Power Platform para criar soluções de negócio
-  - Aprenda os componentes e características do Power Platform
+  Após completar este módulo, os alunos poderão&#58;
+  - Identificar quando usar cada aplicativo de componente da Plataforma de Energia para criar soluções de negócios
+  - Aprenda o valor de usar a Plataforma Power para criar soluções comerciais
+  - Conheça os componentes e características da Plataforma de Energia
 
 
-  ### Módulo 2&#58; Introdução ao serviços de Dados Comuns
-  O Serviço de Dados Comuns lhe permite aprofunda em soluções de dados potentes e escaláveis na nuvem. Aprenda o que torna o Serviço de Dados Comum funcionar e como pode funcionar com a Power Platform para criar soluções de negócio únicas e eficientes.
+  ### Módulo 2&#58; Introdução ao Serviço de Dados Comum
+  O Serviço de Dados Comum permite que você mergulhe em soluções de dados poderosas e escaláveis na nuvem. Saiba o que faz o Serviço de Dados Comum funcionar e como ele pode trabalhar com a Plataforma Power para criar soluções de negócios únicas e eficientes.
   #### Lições
-  - Visão geral de serviço de dados comuns
+  - Visão geral dos serviços de dados comuns
   - Resumo do módulo
 
-  #### Laboratório&#58; Modelagem de dados
-  - Criação de ambiente e solução
-  - Criação de entidades e relacionamentos
-  - Importação de dados
+  #### Laboratório &#58; Modelagem de dados
+  - Criar solução
+  - Criar Entidades e Relacionamentos
+  - Dados de importação
 
-  Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Descreva a diferença entre Serviço de Dados Comuns e Modelo de Dados Comuns
-  - Explique casos de uso e limitações de regras de negócio e fluxos de processo
-  - Explique quais ambientes, entidades, campos e relacionamentos estão em serviço de dados comuns
+  Após completar este módulo, os alunos poderão&#58;
+  - Descrever a diferença entre Serviço de Dados Comum e Modelo de Dados Comum
+  - Explicar casos de uso e limitações das regras comerciais e fluxos de processo
+  - Explicar que ambientes, entidades, campos e relacionamentos estão em comum no serviço de dados
 
 
-  ### Módulo 3&#58; Inicie com as aplicações Power
-  Conheça o valor e os recursos dos Power Apps e as formas que outras organizações utilizam essa tecnologia para criar aplicativos simples para seus negócios.
+  ### Módulo 3&#58; Começar com Power Apps
+  Aprender sobre o valor e as capacidades das Power Apps, e como outras organizações têm aproveitado esta tecnologia para construir Aplicativos simples para seus negócios.
   #### Lições
-  - Visão Geral do Power Apps
-  - Como desenvolver uma solução de aplicação
+  - Introdução às Aplicativos de energia
+  - Como construir um aplicativo de lona
+  - Como construir um aplicativo orientado por modelos
+  - Introdução aos portais Power Apps
 
-  #### Laboratório&#58; Aplicativo Canvas, parte 1
-  - Crie aplicação de tela de pessoal
-  - Complete a aplicação
+  #### Laboratório &#58; Como construir um aplicativo de lona, parte 1
+  - Criar aplicativo de tela para funcionários
+  - Completar o aplicativo
 
-  #### Laboratório&#58; Aplicativo Canvas, parte 2
-  - Criação de aplicação de tela de segurança
+  #### Laboratório &#58; Como construir um aplicativo de lona, parte 2
+  - Criar aplicativo de Tela de Segurança
 
-  #### Laboratório&#58; Aplicativos orientados a modelo
-  - Personalizar visualizações e formulários
-  - Criar aplicativo orientado a modelo
+  #### Laboratório &#58; Como construir um aplicativo orientado por modelos
+  - Personalização de Vistas e Formulários
+  - Criar aplicativo orientado por modelos
 
-  Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Aprenda como outras organizações digitalizem seus processos usando Power Appps
-  - Consulte a Power Apps em ação e aprenda opções para fazer sua primeira aplicação
-  - Aprenda sobre o que é Power Apps e seu valor de negócio
+  #### Laboratório &#58; Como construir um portal Power Apps
+  - Fornecimento de um portal Power Apps
+  - Criar uma página Web do Portal
+  - Alterar o Tema do Portal
+
+  Após completar este módulo, os alunos poderão&#58;
+  - Aprender como outras organizações digitalizam seus processos usando Power Apps
+  - Ver o Power Apps em ação e aprenda opções para fazer seu primeiro aplicativo
+  - Saber mais sobre o que é Power Apps e seu valor comercial
 
 
-  ### Módulo 4&#58; Inicie com Power Automate
-  Aprenda como os usuários podem alavancar o Power Automate para aprimorar eficiência e produtividade de negócio.
+  ### Módulo 4&#58; Comece com o Power Automate
+  Saiba como os usuários podem alavancar o Power Automate para melhorar a eficiência e produtividade dos negócios.
   #### Lições
   - Visão geral do Power Automate
-  - Como desenvolver uma solução automatizada
+  - Como construir uma solução automatizada
 
-  #### Laboratório&#58; Power Automate
-  - Criação de Fluxo de notificação de visita
-  - Criação de Fluxo de varrição de segurança
+  #### Laboratório &#58; Power Automate
+  - Criar fluxo de Notificação de Visita
+  - Criar fluxo de varredura de segurança
 
-  Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Veja como o Power Automate funciona e olhe a partir da perspectiva do usuário
-  - Desenvolva um fluxo simples
-  - Aprenda o valor de negócio e características do Power Automate
+  Após completar este módulo, os alunos poderão&#58;
+  - Ver como o Power Automate funciona e como parece do ponto de vista do usuário
+  - Construir um fluxo simples
+  - Conhecer o valor comercial e as características do Power Automate
 
 
-  ### Módulo 5&#58; Inicie com Power BI
-  Aprenda como as organizações podem usar o Power BI para facilmente, limpar, exibir e entender dados para assegurar decisões mais informadas.
+  ### Módulo 5&#58; Começar com Power BI
+  Saiba como as organizações podem usar o Power BI para limpar, exibir e compreender facilmente os dados para garantir decisões mais bem informadas.
   #### Lições
   - Visão geral do Power BI
-  - Como desenvolver um Painel de Controle Simples
+  - Como construir um painel de controle simples
 
-  #### Laboratório&#58; Power BI
-  - Criar relatório do Power BI
-  - Criar painel do Power BI
+  #### Laboratório &#58; Como construir um painel de controle simples
+  - Criar relatório Power BI
+  - Criar Painel de Controle Power BI
 
-  Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Ver como o Power BI funciona e olhe a partir da perspectiva do usuário
-  - Apenda como desenvolver um painel de Power BI simples
-  - Descrição do valor de negócio e características do Power BI
+  Após completar este módulo, os alunos poderão&#58;
+  - Ver como o Power BI funciona e como parece do ponto de vista do usuário
+  - Aprender a construir um painel de controle Power BI simples
+  - Descrever o valor comercial e as características do Power BI
+
+  ### Módulo 6&#58; Introdução aos Agentes Virtuais de Poder
+  Saiba mais sobre o valor e as capacidades dos Agentes Virtuais Power e como as organizações podem alavancar esta tecnologia para construir soluções chatbot para seus negócios.
+  #### Lições
+  - Visão geral dos Agentes Virtuais de Energia
+  - Como construir um chatbot
+
+  #### Laboratório &#58; Como construir um chatbot básico
+  - Inscrever no PVA e criar um Bot Novo
+  - Criar tópicos
+  - Testar tópicos
+  - Alterar a saudação
+  - Publicar o bot
+
+  Após completar este módulo, os alunos poderão&#58;
+  - Descrever o valor comercial e as características dos agentes Power Virtual
+  - Construir um chatbot básico
+  - Aprender os componentes essenciais que compõem o Power Virtual Agents e chatbots
 

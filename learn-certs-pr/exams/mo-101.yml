@@ -18,15 +18,17 @@ providers:
 locales:
 - en
 - es-mx
+- fr
+- de
 levels:
 - intermediate
 skills:
-- Gerenciar opções e configurações de documento
-- Uso de recursos de edição e formatação avançados
-- Criar elementos de documentos personalizados
-- Uso de recursos avançados do Word
+- Gerenciar opções e configurações de documentos
+- Usar recursos avançados de edição e formatação
+- Criar elementos de documento personalizados
+- Usar recursos avançados do Word
 roles:
-- developer
+- business-user
 products:
 - office
 - office-word
@@ -34,7 +36,7 @@ relatedCertifications:
 - related:
     uid: certification.mos-word-expert-2019
 resources:
-- title: Training and certification guide
+- title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Painel de certificação

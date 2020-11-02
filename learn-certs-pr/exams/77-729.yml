@@ -5,8 +5,8 @@ metadata:
   description: 'Exam 77-729: PowerPoint 2016: Core Presentation Design and Delivery Skills'
 uid: exam.77-729
 displayName: 77-729
-summary: |+
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
   Os candidatos qualificados terão um entendimento básico do ambiente do PowerPoint e demonstrarão a aplicação correta do PowerPoint 2016. Os candidatos criam, editam e melhoram as apresentações e apresentações de slides. Alguns exemplos de apresentações incluem apresentações de vendas profissionais, treinamento de funcionários, materiais instrucionais e apresentações de slides de quiosques.
 
@@ -47,14 +47,16 @@ skills:
 - Aplicar transições e animações (10-15%)
 - Gerenciar diversas apresentações (5-10%)
 roles:
-- developer
+- business-user
 products:
 - office-powerpoint
 relatedCertifications:
 - related:
     uid: certification.mos-powerpoint-2016
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
-- title: Guia de treinamento e certificação
+- title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Painel de certificação

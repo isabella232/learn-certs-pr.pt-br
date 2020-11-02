@@ -5,8 +5,8 @@ metadata:
   description: 'Exam 77-726: Word 2016 Expert: Creating Documents for Effective Communication'
 uid: exam.77-726
 displayName: 77-726
-summary: |+
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
   Os candidatos ao Nível Especialista para o teste Word 2016 utilizam os recursos avançados do Word 2016 de forma proficiente para gestão de documentos e conteúdo e para formatação avançada.
 
@@ -39,14 +39,16 @@ skills:
 - Criar referências avançadas (20-25%)
 - Criar elementos personalizados do Word (15-20%)
 roles:
-- developer
+- business-user
 products:
 - office
 relatedCertifications:
 - related:
     uid: certification.mos-word-2016-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2016
 resources:
-- title: Guia de treinamento e certificação
+- title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Painel de certificação

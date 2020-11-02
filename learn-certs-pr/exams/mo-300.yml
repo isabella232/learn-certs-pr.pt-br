@@ -30,6 +30,8 @@ locales:
 - pl
 - el-gr
 - zh-cn
+- zh-tw
+- ja
 levels:
 - intermediate
 skills:
@@ -37,9 +39,9 @@ skills:
 - Gerenciar slides
 - Inserir e formatar texto, formas e imagens
 - Inserir tabelas, gráficos, smartArt, modelos 3D e mídia
-- plicar transições e animações
+- Aplicar transições e animações
 roles:
-- developer
+- business-user
 products:
 - office
 - office-powerpoint
@@ -47,7 +49,7 @@ relatedCertifications:
 - related:
     uid: certification.mos-powerpoint-2019
 resources:
-- title: Training and certification guide
+- title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Painel de certificação
