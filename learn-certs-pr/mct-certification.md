@@ -2,12 +2,13 @@
 title: 'Become a Microsoft Certified Trainer | Microsoft Docs'
 description: 'Become a Microsoft Certified Trainer' 
 documentationcenter: NA 
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 11/26/2019
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Torne-se um Microsoft Certified Trainer
 
@@ -35,9 +36,9 @@ O programa MCT é destinado a educadores em todo o mundo que oferecem ativamente
 
 Para obter informações detalhadas sobre os requisitos do programa MCT, leia o Guia do Programa MCT e o Acordo do Programa MCT na seção [Processo de inscrição](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) desta página.
 
-
 ### Requisitos para inscrição no Programa MCT
-- Possuir uma Certificação Microsoft atual ou uma qualificação aceitável para o programa MCT. 
+
+- Possuir uma Certificação Microsoft atual ou uma qualificação aceitável para o programa MCT.
 (veja abaixo a lista de certificações de qualificação)
 - Demonstrar habilidades de instrução verificadas por um dos seguintes:
   - Certificação de habilidades instrucionais
@@ -59,7 +60,7 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
   
   OU<br/><br/>
 
-  - Forneça referência de suporte por pelo menos um ano a partir da experiência de ensino 
+  - Forneça referência de suporte por pelo menos um ano a partir da experiência de ensino
 
 **Observação** Para renovar como um MCT, você deve atender aos requisitos de renovação do programa MCT na data do aniversário.
 
@@ -93,6 +94,7 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
+- [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)
@@ -108,7 +110,7 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Aplicações de Negócios (a ser desativado em domingo, 31 de janeiro de 2021), Gestão de Dados e Análise (a ser desativado em domingo, 31 de janeiro de 2021), Produtividade (a ser desativado em domingo, 31 de janeiro de 2021), ou Infraestrutura Central (a ser desativado em domingo, 31 de janeiro de 2021)
 - [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): Desenvolvedor de Aplicações (a ser desativado em domingo, 31 de janeiro de 2021)
 - [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Outlook Associate (Outlook and Outlook 2019)](/learn/certifications/mos-outlook-2019), [Microsoft Office Specialist: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019), [Access Expert (Access and Access 2019)](/learn/certifications/mos-access-expert-2019) ou [Microsoft Office Specialist: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
- 
+
 **Observação** As Certificações Microsoft e as qualificações exigidas para o programa MCT estão sujeitas à alteração. Todas as novas certificações baseadas em função podem ser qualificáveis para o Programa MCT uma vez que sejam emitidas. As certificações descontinuadas serão para o programa MCT serão qualificáveis até 6 meses após a data da retirada. [Saiba mais sobre a descontinuação de certificações](https://www.microsoft.com/learning/retired-certifications.aspx).
 
 ## Processo de inscrição
@@ -165,7 +167,6 @@ Os benefícios do MCT Alumni incluem:
 ### Processo de inscrição do MCT Alumni
 
 Se estiver interessado em tornar-se um MCT Alumni, consulte o Acordo do Programa MCT Alumni para entender os termos da associação.<br/>
-
 
 [Acordo do Programa MCT Alumni](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2XP6W)
 

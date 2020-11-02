@@ -2,25 +2,24 @@
 title: Microsoft Learning Azure Passes | Microsoft Docs
 description: Microsoft Learning Azure Passes
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 04/01/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 
 # Acesso ao Microsoft Learning Azure Pass para estudantes de parceiros de aprendizado da Microsoft autorizados
 
-<div>A seguir informações sobre o Azure Passes que a Microsoft fornece para oferecer suporte a soluções de laboratório para cursos específicos que cobrem tecnologias em nuvem da Microsoft.  Para obter mais informações sobre soluções alternativas garantidas por SLA, entre em contato com um dos Authorized Lab Hosters (ALH) que atualmente disponibilizam acesso ao Azure.</div>
+<div>A seguir informações sobre o Azure Passes que a Microsoft fornece para oferecer suporte a soluções de laboratório para cursos específicos que cobrem tecnologias em nuvem da Microsoft. Para obter mais informações sobre soluções alternativas garantidas por SLA, entre em contato com um dos Authorized Lab Hosters (ALH) que atualmente disponibilizam acesso ao Azure.</div>
 
-Última atualização: **quinta-feira, 6 de agosto de 2020**
+Última atualização: **6 de agosto de 2020**
 
 A Microsoft oferece a seus alunos acesso gratuito de 30 dias ao Microsoft Azure Pass ao se registrarem em um curso relacionado ao Azure qualificado usando os Cursos Oficiais da Microsoft. Os passes para estudantes só podem ser obtidos pelo Microsoft Learning Partner autorizado, através do Courseware Marketplace, e estão diretamente vinculados à aquisição do curso MOC com um limite de um passe por curso MOC solicitado. Não existe nenhum outro sistema disponível para obtenção de passes para estudantes. Se um Parceiro de Aprendizagem solicitar um curso MOC, mas não selecionar o Azure Pass que está disponível com o curso no momento da compra, o parceiro terá a opção de retornar ao Courseware Marketplace e, posteriormente, solicitar o passe, se necessário.
 
 Os parceiros devem consultar os termos e condições para Azure Pass distribuídos por meio do Courseware Marketplace [aqui](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions). Os passes terão validade de 90 dias após serem atribuídos a você no Courseware Marketplace. Os passes vencidos não podem ser reemitidos
-
-Os passes não podem ser obtidos ou utilizados para cursos ou treinamentos realizados por parceiros que não sejam Parceiros de Aprendizado ou MCTs não afiliados a um Parceiro de Aprendizado atual. Os passes não podem ser obtidos ou usados para cursos não qualificáveis, como Community Courseware.
 
 Os MCTs podem solicitar um passe para suas necessidades de preparação de cursos do Azure qualificados. Esta continua a mesma e os MCTs podem solicitar seu passe de preparação para o curso do Azure qualificado [aqui](https://vouchers.cloudapp.net/AzurePass/), no entanto, esta oferta pode ser encerrada a qualquer momento.
 

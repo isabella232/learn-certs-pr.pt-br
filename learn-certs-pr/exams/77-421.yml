@@ -6,7 +6,7 @@ metadata:
 uid: exam.77-421
 displayName: 77-421
 summary: |-
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
   Os candidatos do exame Microsoft OneNote 2013 devem ter uma compreensão essencial do ambiente OneNote e capacidade para executar tarefas de modo independente. Ele deve conhecer e demonstrar a aplicação correta dos principais recursos do OneNote 2013.
 
@@ -22,8 +22,8 @@ levels:
 - beginner
 skills:
 - Proteção do ambiente OneNote (25-30%)
-- Compartilhar e colaborar com outros usuários (15–20%)
-- Organizar e localizar notas (20–25%)
+- Compartilhar e colaborar com outros usuários (15-20%)
+- Organizar e localizar notas (20-25%)
 - Editar e vincular conteúdo no OneNote (25-30%)
 roles:
 - business-user
@@ -31,7 +31,9 @@ products:
 - office-onenote
 relatedCertifications:
 - related:
-    uid: none
+    uid: certification.mos-onenote-2013
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.

@@ -5,29 +5,37 @@ metadata:
   description: 'Microsoft Office Specialist: Microsoft Access 2016'
 uid: certification.mos-access-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Esta certificação demonstra que você possui as habilidades necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist (MOS) em um programa Office específico.
+summary: |-
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+
+  Demonstre que você possui as habilidades necessárias para explorar ao máximo o Access obtendo uma certificação Microsoft Office Specialist (MOS) 2016. Os candidatos qualificados para o Certificação do Access 2016 deve ter um entendimento básico sobre o ambiente do aplicativo.
 subTitle: Esta certificação demonstra que você possui as habilidades necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist (MOS) em um programa Office específico.
 levels:
 - intermediate
 skills:
-- nenhuma
+- Criar e gerenciar um banco de dados
+- Criar tabelas
+- Criar pesquisas
+- Criar formulários
+- Criar relatórios
 roles:
-- developer
+- business-user
 type: mos
 products:
 - office-access
 exams:
 - uid: exam.77-730
 resources:
-- title: Guia de treinamento e certificação
+- title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Resposta ao exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
 - title: Suporte para certificações
-  description: Obtenha ajuda através dos fóruns de suporte  da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: help.md
 - title: Painel de certificação
-  description: Reveja e gerencie seus compromissos, certificados e transcrições agendados.
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

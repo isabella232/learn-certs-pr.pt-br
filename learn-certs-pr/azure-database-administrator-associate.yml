@@ -16,10 +16,10 @@ skills:
 - Planejar e implementar recursos da plataforma de dados
 - Implementar um ambiente seguro
 - Monitorar e otimizar recursos operacionais
-- Otimizar o desempenho de questionário
+- Otimizar o desempenho da consulta
 - Executar automação de tarefas
 - Planejar e implementar um ambiente de alta disponibilidade e recuperação de desastres (HADR)
-- Executar a administração usando T-SQL
+- Executar a administração usando o T-SQL
 roles:
 - database-administrator
 type: role-based
@@ -49,10 +49,10 @@ resources:
 - title: Tabela de certificação do Azure
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: Journey to certification
+- title: Jornada para a certificação
   description: Explore as etapas para obter a certificação Azure Database Administrator Associate e os recursos disponíveis para ajudá-lo a se preparar.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
-- title: Training and certification guide
+- title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação

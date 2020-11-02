@@ -1,12 +1,12 @@
 ### YamlMime:Examination
-title: 'Outlook 2016: Core Communication, Collaboration and Email Skills'
+title: 'Outlook 2016: Core Communication, Collaboration, and Email Skills'
 metadata:
-  title: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
-  description: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
+  title: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills'
+  description: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration, and Email Skills'
 uid: exam.77-731
 displayName: 77-731
-summary: |+
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
   Os candidatos qualificados criarão e editarão mensagens de e-mail com aparência profissional, manterão calendários em fusos horários e programarão tarefas para uma variedade de fins e situações. Os candidatos usarão o Outlook 2016 para melhorar a correspondência profissional, criar calendários e programar compromissos. Exemplos de aplicações incluem coordenação de recursos de construção, envio de mensagens para campanhas de marketing, planejamento de reuniões de equipe e designação de itens de ação de reunião.
 
@@ -38,14 +38,14 @@ skills:
 - Gerenciar cronogramas (35-40%)
 - Gerenciar contatos e grupos (10-15%)
 roles:
-- developer
+- business-user
 products:
 - office-outlook
 relatedCertifications:
 - related:
     uid: certification.mos-outlook-2016
 resources:
-- title: Guia de treinamento e certificação
+- title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Painel de certificação

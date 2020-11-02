@@ -7,7 +7,7 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Learn more</a>.</strong></font><br/><br/></div><div><strong>O conteúdo deste exame foi atualizado em 21 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div><div><strong>O conteúdo deste exame foi atualizado em, 17 de setembro de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
   </div>
 
   Os candidatos ao exame devem ser arquitetos ou engenheiros com vasta experiência e conhecimento do cenário do sistema SAP e dos padrões do setor específicos para a operação de longo prazo de uma solução SAP no Microsoft Azure.
@@ -31,7 +31,7 @@ locales:
 levels:
 - advanced
 skills:
-- O conteúdo deste exame foi atualizado em, 21 de julho de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- O conteúdo deste exame foi atualizado em, 17 de setembro de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
 - Migrar soluções SAP para o Azure (10-15%)
 - Projetar uma solução do Azure para dar suporte às cargas de trabalho do SAP (20-25%)
 - Criar e implementar cargas de trabalho do SAP no Azure (35-40%)
@@ -53,10 +53,10 @@ relatedCertifications:
 - related:
     uid: certification.azure-for-sap-workloads-specialty
 resources:
-- title: Journey to certification
+- title: Jornada para a certificação
   description: Explore as etapas para obter a certificação no Azure for SAP Workloads Specialty e os recursos disponíveis para ajudá-lo a se preparar.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
-- title: Training and certification guide
+- title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
@@ -65,7 +65,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Support for certification exams
+- title: Suporte para exames de certificação
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

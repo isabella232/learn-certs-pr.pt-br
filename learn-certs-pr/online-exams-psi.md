@@ -2,16 +2,17 @@
 title: Sobre exames online com a PSI | Microsoft Docs
 description: Sobre exames online com a PSI 
 documentationcenter: NA 
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 09/01/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Sobre exames online com a PSI
 
-Os exames de certificação Fundamentals e baseados em funções que fazem parte da [oferta de exame para candidatos a emprego](https://aka.ms/skillscert) devem ser feitos online através do PSI. Fazer um exame online proporciona uma experiência completamente digital no conforto de sua casa ou escritório, mantendo a integridade dos resultados do exame, sendo monitorado por um supervisor por webcam e microfone. Para entender como é a experiência, [assista ao vídeo da PSI no YouTube](https://www.youtube.com/watch?v=FvqONzwF2nM) e saiba mais sobre como fazer exames online supervisionados com a PSI.
+Os exames bsicos e de certificao com base em funes que fazem parte da [oferta de exame de USD 15 para candidatos a emprego](https://aka.ms/skillscert) devem ser feitos online atravs da PSI, o parceiro de entrega do exame da Microsoft para esta oferta. Fazer um exame online proporciona uma experiência completamente digital no conforto de sua casa ou escritório, mantendo a integridade dos resultados do exame, sendo monitorado por um supervisor por webcam e microfone. Para entender como é a experiência, [assista ao vídeo da PSI no YouTube](https://www.youtube.com/watch?v=FvqONzwF2nM) e saiba mais sobre como fazer exames online supervisionados com a PSI.
 
 ## <a name="participating-countries-and-supported-languages"></a> Países participantes e idiomas disponíveis
 
@@ -23,7 +24,7 @@ Os exames online da PSI estão disponíveis na maioria dos países em diversos i
 2. Complete a [verificação do sistema](#run-a-system-check) necessária no mesmo computador e no mesmo local onde você irá realizar o teste para garantir a compatibilidade com o software de supervisão online.
 3. Certifique-se de que sua identidade seja compatível (leia os [requisitos de verificação de identidade](/learn/certifications/online-exams-psi#identity-verification-requirements) abaixo) e que o nome em seu perfil de Certificação Microsoft, usado no momento da inscrição para a consulta do exame, está atualizado. Para fazer o exame, seu nome usado para acessar a consulta do exame deve corresponder à identidade que você apresentar.
 
-Se desejar solicitar acomodações para a realização do exame, [envie uma solicitação de acomodações à PSI](https://psihelpdesk1522166508.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000991532) antes de agendar um exame. A PSI responderá no prazo de 24-48 horas úteis.
+Se desejar solicitar acomodações para a realização do exame, [envie uma solicitação de acomodações à PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) antes de agendar um exame. A PSI responderá no prazo de 24-48 horas úteis.
 
 ## <a name="system-requirements"></a> Requisitos de sistema
 
@@ -103,7 +104,7 @@ Alguns softwares de antivírus podem causar problemas de desempenho. Desabilite 
         </tr>
         <tr>
             <td>
-                <p><strong>computador do trabalho</strong></p>
+                <p><strong>Computador do trabalho</strong></p>
             </td>
             <td>
                 <p>Recomendamos que você realize o teste em um computador pessoal, pois os computadores de seu local de trabalho podem bloquear o software PSI Bridge.</p>
@@ -251,7 +252,7 @@ Não, você não deve se inscrever para um exame online com a PSI se o seu siste
 
 ### Como faço para solicitar acomodações para o exame?
 
-Para solicitar acomodações para a realização do exame, [envie uma solicitação de acomodações à PSI](https://psihelpdesk1522166508.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000991532) antes de agendar um exame. A PSI responderá à solicitação dentro de 24-48 horas úteis.
+Para solicitar acomodações para a realização do exame, [envie uma solicitação de acomodações à PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) antes de agendar um exame. A PSI responderá à solicitação dentro de 24-48 horas úteis.
 
 ### Como me registro para um exame online da PSI?
 
@@ -259,13 +260,13 @@ Consulte a seção "**[Registre-se para um exame online](/learn/certifications/o
 
 ### Posso remarcar ou cancelar meu exame?
 
-Sim, mas você deve fazê-lo pelo menos 24 horas antes de reagendar o exame. Faça login no painel [painel de Certificação Microsoft](https://aka.ms/CertDashboard) e selecione o botão "**Cancelar/Reagendar**" na seção **Agendamentos**. Em seguida, você será redirecionado ao site da PSI para cancelar ou reagendar seu exame.  
+Sim, mas você deve fazê-lo pelo menos 24 horas antes de reagendar o exame. Faça login no painel [painel de Certificação Microsoft](https://aka.ms/CertDashboard) e selecione o botão "**Cancelar/Reagendar**" na seção **Agendamentos**. Em seguida, você será redirecionado ao site da PSI para cancelar ou reagendar seu exame.
 
 Observação: A oferta de USD15 para exames de candidato a emprego deve ser reivindicada até 31 de dezembro de 2020 e o exame deve ser realizado até 31 de março de 2021. O reagendamento do exame pode ser feito a qualquer momento antes de 31 de dezembro de 2020, no entanto, se você cancelar a data do exame após 31 de dezembro de 2020, não poderá reagendá-lo usando a oferta com desconto.
 
 ### Posso refazer o exame com o desconto no valor de USD15?
 
-Não, a oferta do exame dá direito a você se inscrever e receber uma (1) oferta válida de exame de Certificação Microsoft pelo desconto de USD15 por oferta [Termos e Condições](/learn/certifications/skillingoffer?WT.mc_id=gsi#terms-conditions). No entanto, você pode refazer um exame de certificação pelo preço padrão indo para a página do exame de certificação selecionada e clicando no botão "Agendar com a Pearson VUE".  
+Não, a oferta do exame dá direito a você se inscrever e receber uma (1) oferta válida de exame de Certificação Microsoft pelo desconto de USD15 por oferta [Termos e Condições](/learn/certifications/skillingoffer?WT.mc_id=gsi#terms-conditions). No entanto, você pode refazer um exame de certificação pelo preço padrão indo para a página do exame de certificação selecionada e clicando no botão "Agendar com a Pearson VUE".
 
 ### Parece que seria muito mais fácil trapacear se eu não estivesse em um centro de testes. O exame online é seguro?
 
@@ -361,7 +362,7 @@ Embora os Microsoft Certification exams forneçam comentários sobre as áreas e
 
 Você também pode pedir ajuda a outras pessoas para realizar essas tarefas. Elas realizam a tarefa de forma diferente? Entenda por que isso é feito. Leia os relatórios técnicos, visite documentos [Microsoft Docs](https://docs.microsoft.com?WT.mc_id=gsi) e [Microsoft Learn](https://microsoft.com/learn?WT.mc_id=gsi) para obter outras informações sobre as tarefas que aparecem no exame.
 
-Além disso, os [Microsoft Official Practice Test](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) estão disponíveis para alguns de nossos exames de certificação. Eles podem fornecer mais informações sobre seus domínios e deficiências mais específicos. No entanto, passar em um teste de prática não garante que você passará no exame de certificação.
+Além disso, os [Testes Práticos Oficiais da Microsoft](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx) estão disponíveis para alguns de nossos exames de certificação. Eles podem fornecer mais informações sobre seus domínios e deficiências mais específicos. No entanto, passar em um teste de prática não garante que você passará no exame de certificação.
 
 ### Eu não tenho mais o e-mail de relatório de pontuação. Como posso solicitar outro?
 

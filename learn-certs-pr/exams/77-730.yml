@@ -5,8 +5,8 @@ metadata:
   description: 'Exam 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
 uid: exam.77-730
 displayName: 77-730
-summary: |+
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+summary: |
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
   Os candidatos qualificados para o exame do Access 2016 deve ter um entendimento básico sobre o ambiente do aplicativo. Eles entendem os princípios básicos de design de banco de dados e são capazes de concluir as tarefas de maneira independente. Eles conhecem e demonstram a correta aplicação dos principais recursos do Access 2016 e demonstram a habilidade em criar e manter objetos de bancos de dados básicos do Access, incluindo tabelas, relações, formulários de entrada de dados, relatórios multinível e pesquisas várias tabelas.
 
@@ -37,14 +37,14 @@ skills:
 - Criar formulários (15-20%)
 - Criar relatórios (15-20%)
 roles:
-- developer
+- business-user
 products:
 - office-access
 relatedCertifications:
 - related:
     uid: certification.mos-access-2016
 resources:
-- title: Guia de treinamento e certificação
+- title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Painel de certificação

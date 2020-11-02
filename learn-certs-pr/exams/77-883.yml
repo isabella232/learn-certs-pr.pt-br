@@ -6,7 +6,7 @@ metadata:
 uid: exam.77-883
 displayName: 77-883
 summary: |-
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
   O candidato típico para o exame é um estudante, funcionário de escritório ou instrutor que precisa navegar no PowerPoint 2010 no nível de recursos e funcionalidades.
 
@@ -14,31 +14,20 @@ summary: |-
 subTitle: O candidato típico para o exame é um estudante, funcionário de escritório ou instrutor que precisa navegar no PowerPoint 2010 no nível de recursos e funcionalidades.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=77-883&examname=MOS:%20PowerPoint%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-883
+scheduleExamUrl: https://www.certiport.com/locator
 locales:
-- zh-cn
-- zh-tw
-- de
-- es
-- fr
-- ja
-- ko
-- nl
-- ru
 - ar-sa
-- it
-- pt-br
 levels:
 - beginner
 skills:
 - Gerenciar o ambiente do PowerPoint
-- Criar uma apresentação
+- Criar uma apresentação de slides
 - Trabalhar com elementos gráficos e multimídia
 - Criar gráficos e tabelas
 - Aplicar transições e animações
 - Colaborar em apresentações
 - Preparar apresentações para entrega
-- Fazer apresentações
+- Entregar apresentações
 roles:
 - business-user
 products:
