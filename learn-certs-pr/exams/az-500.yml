@@ -8,7 +8,7 @@ displayName: AZ-500
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame será atualizado em, 24 de setembro de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar. </strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame foi atualizado em 24 de setembro de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
   </div>
 
   Os candidatos a este exame devem ser especialistas na implementação de controles de segurança e proteção contra ameaças, gerenciamento de identidade e acesso e proteção de dados, aplicativos e redes em ambientes híbridos e em nuvem como parte de uma infraestrutura ponta a ponta.
@@ -18,7 +18,7 @@ summary: |-
   Os Azure Security Engineers normalmente fazem parte de uma equipe maior dedicada ao gerenciamento e segurança baseados em nuvem ou ambientes híbridos que integram uma infraestrutura ponta a ponta.
 
   O candidato a este exame deve estar familiarizado com scripts e automação e possuir um profundo entendimento de rede e virtualização. O candidato também deve ter excelentes conhecimentos dos recursos da nuvem, produtos e serviços do Azure e outros produtos e serviços da Microsoft.
-subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: gerenciar a identidade e acesso, implementar a proteção da plataforma, gerenciar operações de segurança e proteger dados e aplicativos.'
+subTitle: 'Este exame avalia a sua capacidade de realizar as seguintes tarefas técnicas: gerenciar a identidade e acesso, implementar a proteção da plataforma, gerenciar operações de segurança e proteger dados e aplicativos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -35,8 +35,8 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em, 24 de setembro de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
-- Gerencie Identidade e acesso (30-35%)
+- O conteúdo deste exame foi atualizado em, 24 de setembro de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- Gerenciar a identidade e acesso (30-35%)
 - Implementar proteção da plataforma (15-20%)
 - Gerenciar operações de segurança (25-30%)
 - Proteção de dados e aplicativos (20-25%)
@@ -62,10 +62,10 @@ relatedCertifications:
 - related:
     uid: certification.azure-security-engineer
 resources:
-- title: Jornada à certificação
+- title: Jornada para a certificação
   description: Explore as etapas para obter a certificação Azure Security Engineer Associate e os recursos disponíveis para ajudá-lo a se preparar.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
-- title: Training and certification guide
+- title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Cartaz de certificação
@@ -74,7 +74,7 @@ resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
-- title: Support for certification exams
+- title: Suporte para exames de certificação
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
 - title: Painel de certificação

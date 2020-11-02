@@ -5,24 +5,31 @@ metadata:
   description: 'Microsoft Office Specialist: Microsoft Excel 2016'
 uid: certification.mos-excel-2016
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Esta certificação demonstra que você possui as habilidades necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist (MOS) em um programa Office específico.
+summary: |-
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+
+  Demonstre que você possui as habilidades necessárias para explorar ao máximo o Excel obtendo uma certificação Microsoft Office Specialist (MOS) 2016. Os candidatos qualificados para o de certificação do Microsoft Office Specialist Excel 2016 têm conhecimento básico do ambiente do Excel e capacidade para concluir tarefas de maneira independente.
 subTitle: Esta certificação demonstra que você possui as habilidades necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist (MOS) em um programa Office específico.
 levels:
 - intermediate
 skills:
-- nenhuma
+- Criar e gerenciar planilhas e pastas de trabalho
+- Gerenciar células de dados e intervalos
+- Criar tabelas
+- Executar operações com fórmulas e funções
+- Criar gráficos e objetos
 roles:
-- developer
+- business-user
 type: mos
 products:
 - office-excel
 exams:
 - uid: exam.77-727
 resources:
-- title: Guia de treinamento e certificação
+- title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Resposta ao exame
+- title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: deals.md
 - title: Suporte para certificações
@@ -31,3 +38,4 @@ resources:
 - title: Painel de certificação
   description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,6 +1,6 @@
 ---
-title: 'FAQ: Agendamento do curso para Learning Partner no Learn | Microsoft Docs'
-description: 'FAQ: Agendamento do curso para Learning Partner no Learn'
+title: 'FAQ: Learning Partner course scheduling on Learn | Microsoft Docs'
+description: 'FAQ: Learning Partner course scheduling on Learn'
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -12,73 +12,93 @@ ms.prod: non-product-specific
 ---
 # FAQ: Agendamento do curso para Learning Partner no Learn
 
-## Curso ministrado por instrutor
+## Treinamento ministrado por instrutor
 
 ### O que é o serviço de agendamento no curso de treinamento ministrado por instrutor Microsoft Learning Partner?
 
 A Microsoft está lançando uma experiência de aprendizagem simplificada e otimizada com recursos de agendamento de curso de treinamento ministrado por instrutor em tempo real para [**Microsoft Learn**](/learn). A integração da programação do curso Microsoft Learn permitirá que os alunos visualizem os cursos de treinamento ministrados por instrutor oferecidos por Learning Partner qualificados. Depois de selecionar o curso, você será direcionado diretamente ao site do Learning Partner para efetuar a inscrição e o pagamento.
 
-Atualmente, o serviço é uma “versão prévia pública” e o registro do curso estará disponível em inglês apenas para o início. Learning Partners qualificados adicionais serão adicionados ao longo do próximo ano. 
+Atualmente, o serviço é uma “versão prévia pública” e o registro do curso estará disponível em inglês apenas para o início. Learning Partners qualificados adicionais serão adicionados ao longo do próximo ano.
+
+### Quais cursos estão disponíveis com o serviço de agendamento de treinamento ministrado por instrutores do Parceiro de Aprendizagem?
+
+A partir de 22 de setembro de 2020, os seguintes cursos estarão disponíveis com o serviço de agendamento. Os cursos adicionais serão eventualmente adicionados à medida que adicionamos parceiros de aprendizagem adicionais.
+
+1. Microsoft Azure Fundamentals (2 dia)
+2. Microsoft Azure Fundamentals (1 dia)
+3. Microsoft Azure Administrator
+4. Developing Solutions for Microsoft Azure
+5. Designing and Implementing an Azure AI Solution
+6. Designing and Implementing a Data Science Solution on Azure
+7. Designing an Azure Data Solution
+8. Implementing an Azure Data Solution
+9. Designing for Identity and Security
+10. Deploying and Configuring Infrastructure
+11. Microsoft Azure Architect Design
+12. Microsoft Azure Security Technologies
+13. Installing Windows 10
+14. Dynamics 365: Power Platform Applications
+15. Office 365 Management
+16. Managing Microsoft 365 Identity and Access
+17. Microsoft 365 Fundamentals
 
 ### Preciso criar um perfil para usar o Microsoft Learn?
 
 Não, a criação do perfil não é necessária. Você ainda pode acessar e seguir os caminhos de aprendizagem online, [procurar cursos ministrados por instrutor](/learn/certifications/courses/browse/) e [encontrar um Microsoft Learning Partner por país ou região](/learn/certifications/partners#find-a-microsoft-learning-partner-by-country) sem a necessidade de criar um perfil.
 
-Ao agendar um curso de treinamento ministrado por instrutor no Microsoft Learn, você será redirecionado ao site do Learning Partner selecionado para concluir o registro e o pagamento. O Learning Partner pode solicitar que você faça login em seu site. 
+Ao agendar um curso de treinamento ministrado por instrutor no Microsoft Learn, você será redirecionado ao site do Learning Partner selecionado para concluir o registro e o pagamento. O Learning Partner pode solicitar que você faça login em seu site.
 
 ### Quais recursos estarão disponíveis para mim depois de criar um perfil do Microsoft Learn e acessar o sistema?
 
-- Acompanhamento do progresso nas atividades de aprendizagem 
-- Criar e compartilhar coleções de módulos 
-- Salvar favoritos 
-- Acumular pontos e conquistas 
-- Usar recursos gratuitos do Azure 
-- Ver as recomendações personalizadas 
+- Acompanhamento do progresso nas atividades de aprendizagem
+- Criar e compartilhar coleções de módulos
+- Salvar favoritos
+- Acumular pontos e conquistas
+- Usar recursos gratuitos do Azure
+- Ver as recomendações personalizadas
 
-### Fiz a inscrição em um curso com um Learning Partner no Microsoft Learn e não recebi a confirmação do curso. O que devo fazer? 
+### Fiz a inscrição em um curso com um Learning Partner no Microsoft Learn e não recebi a confirmação do curso. O que devo fazer?
 
-Verifique sua caixa de entrada, lixo eletrônico ou spam e localize o e-mail do Learning Partner para o curso no qual você se inscreveu.  
+Verifique sua caixa de entrada, lixo eletrônico ou spam e localize o e-mail do Learning Partner para o curso no qual você se inscreveu.
 
 Se você ainda não conseguir localizar seu e-mail de confirmação, entre em contato com o Learning Partner no qual você agendou as aulas. O Learning Partner pode ajudá-lo a solucionar quaisquer problemas de e-mail e/ou validar o registro do curso. As informações de contato do Learning Partner podem ser encontradas em: [encontrar um Microsoft Learning Partner por país ou região](/learn/certifications/partners#find-a-microsoft-learning-partner-by-country)
 
-### Estou me inscrevendo em um curso e entrei no site do Learning Partner, mas não há nada no carrinho.   
+### Estou me inscrevendo em um curso e entrei no site do Learning Partner, mas não há nada no carrinho.
 
 Entre em contato com o provedor de aprendizagem que você selecionou para o curso para resolver o problema. As informações de contato do Learning Partner podem ser encontradas em: [encontrar um Microsoft Learning Partner por país ou região](/learn/certifications/partners#find-a-microsoft-learning-partner-by-country)
 
-### Preciso cancelar ou reagendar um curso.   
+### Preciso cancelar ou reagendar um curso.
 
 Entre em contato com o Learning Partner diretamente. As informações de contato do Learning Partner podem ser encontradas em: [encontrar um Microsoft Learning Partner por país ou região](/learn/certifications/partners#find-a-microsoft-learning-partner-by-country)
 
-### O preço listado no site do Learn não era o mesmo que estava listado na finalização da compra. 
+### O preço listado no site do Learn não era o mesmo que estava listado na finalização da compra.
 
-O preço no site ou carrinho do Learning Partner deve sempre ser usado como o preço do item, mesmo que o Learn mostrar um valor diferente.  
+O preço no site ou carrinho do Learning Partner deve sempre ser usado como o preço do item, mesmo que o Learn mostrar um valor diferente.
 
-É possível que o preço final seja diferente no site ou carrinho do Learning Partner, pois pode haver taxas incluídas ou taxas que precisam ser calculadas durante a finalização da compra. Isso pode incluir imposto sobre vendas e imposto sobre valor agregado (IVA). O valor final a ser pago também pode ser afetado pela localização do comprador ou pelo idioma do curso.  
+É possível que o preço final seja diferente no site ou carrinho do Learning Partner, pois pode haver taxas incluídas ou taxas que precisam ser calculadas durante a finalização da compra. Isso pode incluir imposto sobre vendas e imposto sobre valor agregado (IVA). O valor final a ser pago também pode ser afetado pela localização do comprador ou pelo idioma do curso.
 
-Alguns Learning Partners podem oferecer serviços adicionais durante o processo de finalização da compra. O preço desses serviços pode alterar o preço final que você vê na finalização da compra.   
+Alguns Learning Partners podem oferecer serviços adicionais durante o processo de finalização da compra. O preço desses serviços pode alterar o preço final que você vê na finalização da compra.
 
-### Quando verei os cursos em meu país ou região?  
+### Quando verei os cursos em meu país ou região?
 
-Este é um novo serviço que foi lançado como “versão prévia pública” com um pequeno número de Learning Partners qualificados para testar a funcionalidade e ajustar o processo. Inicialmente, o agendamento do curso será em inglês, com outros Learning Partners adicionados ao longo dos 12 meses seguintes. 
+Este é um novo serviço que foi lançado como “versão prévia pública” com um pequeno número de Learning Partners qualificados para testar a funcionalidade e ajustar o processo. Inicialmente, o agendamento do curso será em inglês, com outros Learning Partners adicionados ao longo dos 12 meses seguintes.
 
-### Por que outros cursos de treinamento são mais ou menos caros do que aquele que desejo frequentar? 
+### Por que outros cursos de treinamento são mais ou menos caros do que aquele que desejo frequentar?
 
-Como em qualquer mercado, o preço da aula é determinado por cada Learning Partner. Os parceiros são obrigados a oferecer uma experiência completa de treinamento do Microsoft Official Course pelo preço listado na ferramenta de agendamento Microsoft Learn. Os parceiros estão autorizados a anunciar produtos e serviços adicionais opcionais. Se você acha que o preço anunciado é enganoso ou impreciso, entre em contato conosco no [fórum de suporte para agendamento do curso ministrado por instrutor do Learning Partner no Learn](https://trainingsupport.microsoft.com/iltvilt/forum). 
+Como em qualquer mercado, o preço da aula é determinado por cada Learning Partner. Os parceiros são obrigados a oferecer uma experiência completa de treinamento do Microsoft Official Course pelo preço listado na ferramenta de agendamento Microsoft Learn. Os parceiros estão autorizados a anunciar produtos e serviços adicionais opcionais. Se você acha que o preço anunciado é enganoso ou impreciso, entre em contato conosco no [fórum de suporte para agendamento do curso ministrado por instrutor do Learning Partner no Learn](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1).
 
-### A filtragem por local, data etc. do curso não está funcionando corretamente. 
+### A filtragem por local, data etc. do curso não está funcionando corretamente.
 
-Se a filtragem não estiver funcionando, atualize seu navegador e tente novamente. Se achar que os filtros ainda não estão funcionando, você pode fazer sua pergunta no [fórum de suporte para agendamento do curso ministrado por instrutor do Learning Partner no Learn](https://trainingsupport.microsoft.com/iltvilt/forum). É o melhor recurso para pesquisar e solicitar ajuda, relatar um problema e obter dicas.    
- 
-### Não consigo encontrar o Learning Partners na minha área. 
+Se a filtragem não estiver funcionando, atualize seu navegador e tente novamente. Se achar que os filtros ainda não estão funcionando, você pode fazer sua pergunta no [fórum de suporte para agendamento do curso ministrado por instrutor do Learning Partner no Learn](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1). É o melhor recurso para pesquisar e solicitar ajuda, relatar um problema e obter dicas.
 
-Se você não encontrar o Learning Partner ou o curso que está procurando, poderá encontrar dias e horários adicionais diretamente no site do Learning Partner além do que é exibido no Microsoft Learn.  Os Learning Partners não são obrigados a listar horários para todas as suas aulas. Você pode encontrar uma lista de todos os Microsoft Learning Partners em [encontrar um Microsoft Learning Partner por país ou região](/learn/certifications/partners#find-a-microsoft-learning-partner-by-country). 
+### Não consigo encontrar o Learning Partners na minha área.
 
-Conforme lançamos este novo serviço, estamos limitando o número de Learning Partners qualificados. No próximo ano, os Learning Partners que atenderem a critérios específicos serão incorporados.   
+Se você não encontrar o Learning Partner ou o curso que está procurando, poderá encontrar dias e horários adicionais diretamente no site do Learning Partner além do que é exibido no Microsoft Learn.  Os Learning Partners não são obrigados a listar horários para todas as suas aulas. Você pode encontrar uma lista de todos os Microsoft Learning Partners em [encontrar um Microsoft Learning Partner por país ou região](/learn/certifications/partners#find-a-microsoft-learning-partner-by-country).
 
-### Acessei o canal de suporte do Learning Partner e não recebi nenhuma resposta.  
+Conforme lançamos este novo serviço, estamos limitando o número de Learning Partners qualificados. No próximo ano, os Learning Partners que atenderem a critérios específicos serão incorporados.
 
-O Learning Partner é responsável por fornecer suporte relacionado à programação em seu site. Você pode tentar localizar outros números do Learning Partner visitando o site.   
+### Acessei o canal de suporte do Learning Partner e não recebi nenhuma resposta.
 
-Se ainda não conseguir entrar em contato com o Learning Partner, você pode postar sua pergunta no [fórum de suporte para agendamento do curso ministrado por instrutor do Learning Partner no Learn](https://trainingsupport.microsoft.com/iltvilt/forum). É o melhor recurso para buscar ajuda, relatar um problema e obter dicas. 
+O Learning Partner é responsável por fornecer suporte relacionado à programação em seu site. Você pode tentar localizar outros números do Learning Partner visitando o site.
 
-
+Se ainda não conseguir entrar em contato com o Learning Partner, você pode postar sua pergunta no [fórum de suporte para agendamento do curso ministrado por instrutor do Learning Partner no Learn](https://trainingsupport.microsoft.com/iltvilt/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1). É o melhor recurso para buscar ajuda, relatar um problema e obter dicas.

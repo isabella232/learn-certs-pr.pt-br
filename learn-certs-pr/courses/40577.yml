@@ -1,0 +1,54 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+metadata:
+  title: 'Course 40577-G: Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+  description: 'Course 40577-G: Microsoft Cloud Workshop: Innovate and modernize apps with Data and AI'
+uid: course.40577
+courseNumber: '40577-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Capturar dados do dispositivo Internet das Coisas (IoT) com o Azure IoT Hub
+- skill: Processar dados do dispositivo com Azure Stream Analytics
+- skill: Aplicar o padrão CQRS (Segregação de Responsabilidade de Comando e Consulta) com funções Azure
+- skill: Construir um modelo de manutenção preditiva usando os cadernos do Azure Synapse Analytics Spark
+- skill: Implementar o modelo em um registro modelo de Aprendizagem de Máquinas Azure
+- skill: Implementar o modelo para uma instância de contêineres Azure
+- skill: Gerar previsões com funções Azure acessando uma alimentação de mudança Cosmos DB
+- skill: Modernizar os aplicativos e integrar a Inteligência Artificial no aplicativo
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  Neste seminário, você vai analisar o processo de implementação de um aplicativo moderno com os serviços Azure. O workshop cobrirá o fornecimento de eventos e o padrão de Segregação de Responsabilidade de Comando e Consulta (CQRS), carregamento de dados, preparação de dados, transformação de dados, serviço de dados, detecção de anomalias, criação de um modelo de manutenção preditiva e pontuação em tempo real de um modelo de manutenção preditiva.
+
+  #### Perfil do público
+  Este seminário é destinado a arquitetos e profissionais de TI que possuem experiência arquitetônica em projetos de infraestrutura e soluções em tecnologias em nuvem e querem aprender mais sobre Azure e os serviços do Azure como descrito nas áreas 'Sobre este Curso' e 'Na Conclusão do Curso'. Os participantes deste seminário também devem ser experientes em outras tecnologias em nuvem não-Microsoft, atender aos pré-requisitos do curso e querer fazer um cross-train no Azure.
+prerequisitesSection: |-
+  O conteúdo do seminário pressupõe 300 níveis de conhecimento arquitetônico de infraestrutura e design de soluções. Sugerimos aos estudantes que aceitem este pré-requisito antes de participarem deste workshop.
+  - Curso Microsoft Azure Essentials, http&#58;//www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Módulo 1&#58; Sessão de Design no Quadro Branco - Inovar e modernizar aplicativos com Dados e IA
+  #### Lições
+  - Revisar o estudo de caso do cliente
+  - Projetar uma prova de solução conceitual
+  - Apresentar a solução
+
+
+  ### Módulo 2&#58; Laboratório Prático - Inovar e modernizar aplicativos com Dados e IA
+  #### Lições
+  - Implementar um simulador de carga de fábrica
+  - Utilizar o Azure Machine Learning para treinar e registrar um modelo de manutenção preditiva
+  - Criar uma função Azure para enviar telemetria de eventos para a Cosmos DB
+  - Enriquecer a telemetria de eventos com resultados de manutenção preditiva
+  - Enriquecer a telemetria de eventos com a detecção automática de anomalias
+  - Enviar dados de telemetria pontuados para o PostgreSQL
+  - Modernizar a lógica de serviços para usar a fonte de eventos e CQRS
+  - Visualizar o status da fábrica em um relatório Power BI
+

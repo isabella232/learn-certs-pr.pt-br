@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Power Platform Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Developer Associate'
-  description: Esta certificação será disponibilizada na data aproximada de 25 de setembro de 2020. Os candidatos à certificação Microsoft Power Platform Developer Associate projetam, desenvolvem, protegem e solucionam problemas de soluções da Power Platform.
+  description: Os candidatos à certificação Microsoft Power Platform Developer Associate projetam, desenvolvem, protegem e solucionam problemas de soluções da Power Platform.
 uid: certification.power-platform-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -12,10 +12,8 @@ summary: |-
 
   Os candidatos devem ter um sólido conhecimento prático dos serviços da Power Platform. Os candidatos devem ter uma compreensão profunda de suas capacidades, limites e restrições. Além disso, devem ter entendimento básico das práticas de DevOps para a Power Platform.
 
-  Sua experiência de desenvolvimento para essa função deve incluir serviços da Power Platform, JavaScript, JSON, TypeScript, C#, HTML, .NET, Microsoft Azure, Microsoft 365, serviços Web RESTful, ASP.NET e Power BI.
-
-  <div><br/><strong>Observação&#58; Esta certificação será disponibilizada na data aproximada de 25 de setembro de 2020.</strong></div>
-subTitle: Esta certificação será disponibilizada na data aproximada de 25 de setembro de 2020. Os candidatos à certificação Microsoft Power Platform Developer Associate projetam, desenvolvem, protegem e solucionam problemas de soluções da Power Platform.
+  Sua experiência de desenvolvimento para essa função deve incluir serviços da Power Platform, JavaScript, JSON, TypeScript, C #, HTML, .NET, Microsoft Azure, Microsoft 365, serviços Web RESTful, ASP.NET e Power BI.
+subTitle: Os candidatos à certificação Microsoft Power Platform Developer Associate projetam, desenvolvem, protegem e solucionam problemas de soluções da Power Platform.
 levels:
 - intermediate
 skills:
@@ -33,6 +31,16 @@ products:
 - power-platform
 - power-apps
 - common-data-service
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.integrate-power-platform
+- uid: learn-dynamics.use-power-apps-component-framework
+- uid: learn-bizapps.administer-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhzw
 exams:
 - uid: exam.pl-400
@@ -40,10 +48,10 @@ resources:
 - title: Cartaz de certificação
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Journey to certification
+- title: Jornada para a certificação
   description: Explore as etapas para obter a certificação e os recursos disponíveis para ajudá-lo a se preparar.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
-- title: Training and certification guide
+- title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Exam Replay

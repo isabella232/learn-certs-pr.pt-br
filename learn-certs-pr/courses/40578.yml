@@ -1,0 +1,47 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+metadata:
+  title: 'Course 40578-G: Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+  description: 'Course 40578-G: Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+uid: course.40578
+courseNumber: '40578-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Aproveite as tecnologias Microsoft 365 e Azure para construir uma infraestrutura de Desktop Virtual Windows.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  Neste seminário, você ganhará experiência projetando soluções para Windows Virtual Desktop utilizando as tecnologias Microsoft 365 e Azure. Os seguintes componentes precisarão ser determinados como parte das soluções. O primeiro consistirá da assinatura do Microsoft 365 que será necessária para entregar aos usuários os requisitos de segurança, Active Directory do Azure, aplicativos e licenciamento do Windows. Em seguida, a infraestrutura Azure necessária para suportar o ambiente Windows Virtual Desktop precisará ser configurada. Finalmente, os requisitos de rede precisarão ser determinados para a conectividade com a infraestrutura atual no local para servidores de aplicativos, e acesso adequado aos desktops dos usuários e à rede no local com alta segurança e latência limitada.
+
+  #### Perfil do público
+  Este seminário é destinado a arquitetos e profissionais de TI que possuem experiência arquitetônica em projetos de infraestrutura e soluções em tecnologias em nuvem e querem aprender mais sobre Azure e os serviços do Azure como descrito nas áreas 'Sobre este Curso' e 'Na Conclusão do Curso'. Os participantes deste seminário também devem ser experientes em outras tecnologias em nuvem não-Microsoft, atender aos pré-requisitos do curso e querer fazer um cross-train no Azure.
+prerequisitesSection: |-
+  O conteúdo do seminário pressupõe 300 níveis de conhecimento arquitetônico de infraestrutura e design de soluções. Sugerimos aos estudantes que aceitem este pré-requisito antes de participarem deste seminário.
+  - Curso Microsoft Azure Essentials, http&#58;//www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Módulo 1&#58; Sessão de Design no Quadro Branco – Implementação do Windows Virtual Desktop na empresa
+  #### Lições
+  - Revisar o estudo de caso do cliente
+  - Projetar uma prova de solução conceitual
+  - Apresentar uma solução
+
+
+  ### Módulo 2&#58; Laboratório Prático – Implementação do Windows Virtual Desktop na empresa
+  #### Lições
+  - Configuração do Azure AD Conectar com AD DS
+  - Criar grupos AD no Azure para a WVD
+  - Criar um compartilhamento de arquivos Azure para a FSLogix
+  - Criar uma imagem mestre para a WVD
+  - Criar uma piscina anfitriã para computadores pessoais
+  - Criar um pool de anfitriões e atribuir aplicativos remotos agrupados.
+  - Conectar-se à WVD com o cliente web
+  - Monitoramento de configuração para WVD
+

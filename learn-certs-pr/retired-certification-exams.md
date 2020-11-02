@@ -2,12 +2,13 @@
 title: Microsoft Retired Exam | Microsoft Docs
 description: Microsoft Retired Exam
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # Exames programados para serem desativados
 
@@ -31,7 +32,7 @@ Encontre os exames agendados para serem desativados nos próximos 12 meses, list
 | [70-463](/learn/certifications/exams/70-463): Implementing a Data Warehouse with Microsoft SQL Server 2012/2014 |
 | [70-464](/learn/certifications/exams/70-464): Developing Microsoft SQL Server Databases |
 | [70-465](/learn/certifications/exams/70-465): Designing Database Solutions for Microsoft SQL Server |
-| [70-466](/learn/certifications/exams/70-466): Implementing Data Models and Reports with Microsoft SQL Server | 
+| [70-466](/learn/certifications/exams/70-466): Implementing Data Models and Reports with Microsoft SQL Server |
 | [70-467](/learn/certifications/exams/70-467): Designing Business Intelligence Solutions with Microsoft SQL Server |
 | [70-480](/learn/certifications/exams/70-480): Programming in HTML5 with JavaScript and CSS3 |
 | [70-483](/learn/certifications/exams/70-483): Programming in C# |
@@ -64,12 +65,6 @@ Encontre os exames agendados para serem desativados nos próximos 12 meses, list
 | [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
 | [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
 
-| a ser desativado em quarta-feira, 30 de setembro de 2020 |
-| --- |
-| [AZ-300](/learn/certifications/exams/AZ-300): Microsoft Azure Architect Technologies |
-| [AZ-301](/learn/certifications/exams/AZ-301): Microsoft Azure Architect Design |
-
-
 ## Exames desativados recentemente
 
 Para fins de referência, os testes desativado dentro do último ano terão um link para a página de detalhes do teste por um período de 12 meses.
@@ -84,6 +79,8 @@ Para fins de referência, os testes desativado dentro do último ano terão um l
 | AZ-201 | Microsoft Azure Developer Advanced Solutions (publicado em 24 de setembro de 2018) | 3 de janeiro de 2019
 | AZ-202 | Microsoft Azure Developer Certification Transition (publicado em 24 de setembro de 2018) | 31 de março de 2019
 | [AZ-203](/learn/certifications/exams/AZ-203) | Developing Solutions for Microsoft Azure | 31 de agosto de 2020.
+| [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | 30 de setembro de 2020
+| [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | 30 de setembro de 2020
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 30 de junho de 2019
 | [MS-200](/learn/certifications/exams/ms-200) | Planning and Configuring a Messaging Platform | 31 de agosto de 2020.
 | [MS-201](/learn/certifications/exams/ms-201) | Implementing a Hybrid and Secure Messaging Platform | 31 de agosto de 2020.
@@ -474,10 +471,10 @@ Para fins de referência, os testes desativado dentro do último ano terão um l
 | MB3-637 | GP 10.0 Manufacturing Applications | 31 de dezembro de 2013
 | MB3-700 | Microsoft Dynamics GP 2013 Installation & Configuration | 31 de julho de 2015
 | MB3-701 | Microsoft Dynamics GP 2013 Financials | sexta-feira, 31 de julho de 2015
-| MB3-859 | Microsoft Dynamics GP 2010 Financials | quarta-feira, 31 de dezembro de 2014
-| MB3-860 | Microsoft Dynamics GP 2010 Project Series | quarta-feira, 31 de dezembro de 2014
-| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | quarta-feira, 31 de dezembro de 2014
-| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | quarta-feira, 31 de dezembro de 2014
+| MB3-859 | Microsoft Dynamics GP 2010 Financials | 31 de dezembro de 2014
+| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 31 de dezembro de 2014
+| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | 31 de dezembro de 2014
+| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 31 de dezembro de 2014
 | MB4-348 | SL 6.5 Financials | 31 de março de 2011
 | MB4-349 | SL 6.5 Installation & Configuration | 31 de março de 2011
 | MB4-534 | SL 7.0 Installation & Configuration | terça-feira, 31 de dezembro de 2013

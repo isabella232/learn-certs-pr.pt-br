@@ -1,17 +1,17 @@
 ### YamlMime:Examination
-title: Excel 2013 Expert Part Two
+title: Microsoft Excel 2013 Expert Part Two
 metadata:
-  title: 'Exam 77-428: Excel 2013 Expert Part Two'
-  description: 'Exam 77-428: Excel 2013 Expert Part Two'
+  title: 'Exam 77-428: Microsoft Excel 2013 Expert Part Two'
+  description: 'Exam 77-428: Microsoft Excel 2013 Expert Part Two'
 uid: exam.77-428
 displayName: 77-428
 summary: |-
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
   Os candidatos de nível Especialista do exame do Excel 2013 devem ter um entendimento avançado do ambiente do Excel e a capacidade de orientar outras pessoas no uso apropriado dos recursos no Excel 2013 do Office Professional Plus. Eles devem saber e ser capazes de demonstrar o uso de recursos avançados e especializados dentro do aplicativo.
 
   Os candidatos devem ser capazes de criar, gerenciar e distribuir planilhas profissionais para vários objetivos e situações específicos e devem ser capazes de personalizar seus ambientes do Excel para atender às necessidades e melhorar a produtividade. Entre os exemplos de pasta de trabalho estão modelos corporativos, gráficos financeiros de vários eixos, tabelas de amortização e agendamentos de inventário. As funções dos candidatos podem incluir contadores, analistas financeiros, analistas de dados, bancários e outros.
-subTitle: Os candidatos de nível Especialista do exame do Excel 2013 devem ter um entendimento avançado do ambiente do Excel e a capacidade de orientar outras pessoas no uso apropriado dos recursos no Excel 2013 do Office Professional Plus. Eles devem saber e ser capazes de demonstrar o uso de recursos avançados e especializados dentro do aplicativo.
+subTitle: Os candidatos de nível Especialista do exame do Excel 2013 devem ter um entendimento avançado do ambiente do Excel e a capacidade de orientar outras pessoas no uso apropriado dos recursos no Excel 2013 do Office Professional Plus.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJE
 scheduleExamUrl: https://www.certiport.com/locator
@@ -28,6 +28,7 @@ locales:
 - nl
 - pt-br
 - ru
+- ar-sa
 levels:
 - beginner
 skills:
@@ -41,7 +42,9 @@ products:
 - office-excel
 relatedCertifications:
 - related:
-    uid: none
+    uid: certification.mos-excel-2013-expert
+- related:
+    uid: certification.microsoft-office-specialist-master-certification-2013
 resources:
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
