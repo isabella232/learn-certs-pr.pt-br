@@ -12,14 +12,13 @@ ms.prod: non-product-specific
 ---
 # Exam security policy and Exam retake policy
 
-## <a name="security-policies"></a> Polticas e acordos
-
 A Microsoft conta com políticas específicas que abrangem áreas da segurança pertinentes aos exames Microsoft Exame de Certificação.
 
-### Validade da certificação e recertificações
+### Expiração e Recertificações da Certificação
+
 As certificações com base em funções e especiais da Microsoft so atualmente válidas por dois anos a partir da data em que as certificações so obtidas. Devido à pandemia de COVID-19 e seu impacto sobre indivíduos e empresas, fornecemos extensões para indivíduos cujas certificações estavam inicialmente programadas para expirar antes de 31 de dezembro de 2020. Continuaremos acompanhando a situação da COVID-19. Se necessário, notificaremos e daremos mais tempo aos estudantes cujas certificações estejam expirando. No momento, nenhuma ação exigida de sua parte para garantir que suas certificações permaneçaam válidas. Continuaremos a informá-lo sobre a situação e as mudanças. Mantenha-se informado sobre as futuras atualizações do programa e requisitos para recertificação, inscrevendo-se no [blog do Microsoft Learn](https://aka.ms/learningblog).
 
-### Candidatos banidos
+## Candidatos banidos
 
 Se um candidato violar qualquer regra, política de exame ou termo do exame sob o contrato de exame (NDA) ou se envolver em qualquer conduta imprópria que, de qualquer maneira, diminua a segurança e a integridade do Programa de Certificação Microsoft, o candidato poderá ser permanentemente proibido de realizar quaisquer exames futuros de Certificação Microsoft. Além disso, o candidato poderá ter o certificado do Programa de Certificação Microsoft cancelado e as pontuações do teste e as certificações poderão ser revogadas.
 
@@ -40,7 +39,7 @@ Entre exemplos de condutas impróprias, uso indevido e fraudes estão, mas não 
 - Violar o acordo de confidencialidade da Microsoft (NDA) de qualquer maneira
 - Violar o acordo com o provedor de exames de qualquer maneira
 
-### Direito de contestação do candidato
+## Direito de contestação do candidato
 
 1. Os candidatos podem contestar contra a decisão de seu banimento enviando um recurso para [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 2. O candidato poderá recorrer do banimento por falsificar um relatório de notas enviando o relatório original para (cópias digitalizadas ou eletrônicas não serão aceitas) para:
@@ -51,7 +50,7 @@ Entre exemplos de condutas impróprias, uso indevido e fraudes estão, mas não 
 
 3. A Equipe Microsoft Worldwide Learning Security julgará todos os recursos enviados e dará início a uma completa investigação de cada caso específico, comunicando diretamente ao candidato a conclusão da investigação e a decisão final do recurso.
 
-### Política de reaplicação do exame
+## Política de reaplicação do exame
 
 1. Política para reaplicação de exame de Certificação Microsoft
     1. Se o candidato não atingir a nota para aprovação em um exame na primeira vez, deverá aguardar pelo menos 24 horas para refazer o exame. Após esse período, os candidatos podem fazer login no [painel de certificação](https://aka.ms/certdashboard) e reagendar o exame eles mesmos.
@@ -91,20 +90,20 @@ Entre exemplos de condutas impróprias, uso indevido e fraudes estão, mas não 
     1. Os exames beta podem ser feitos apenas uma vez durante o período beta. Se o candidato for aprovado no exame (determinado após o término do período beta), ele/ela obterá um crédito pela certificação. Se o candidato não passar no exame, ele poderá ser repetido de acordo com as políticas acima.
     2. Essa política substitui a política geral de reaplicação do exame.
 
-### Fechamento do centro de testes por questões de segurança
+## Fechamento do centro de testes por questões de segurança
 
 1. A Microsoft poderá suspender os testes de qualquer local em que julgar haver um problema de segurança ou integridade.
 2. A Microsoft poderá suspender os testes em locais que estejam relacionados a outros locais que apresentam riscos à segurança.
 
-### Direito de contestação do centro de testes
+## Direito de contestação do centro de testes
 
 Os responsáveis pelos centros de testes podem entrar com recurso contra o fechamento do local enviando um agravo para [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
-### Peritagem judicial dos dados
+## Peritagem judicial dos dados
 
 A Microsoft usará a peritagem judicial dos dados como base para entrar com processo contra um candidato. As evidências estatísticas poderão demonstrar falta de integridade no exame e/ou ser usadas para comprovar atividades ilícitas. Os exames e as notas poderão ser cancelados, os candidatos, banidos, e os centros de testes poderão ser fechados, dependendo das evidências estatísticas.
 
-### Testes fora do país
+## Testes fora do país
 
 **Para se inscrever em um exame de Certificação Microsoft em um centro de testes na Índia, China ou Paquistão, você precisa ser residente do país. Caso você seja residente legítimo do país, observe o seguinte:**
 
@@ -120,15 +119,15 @@ Devido às leis de privacidade naquele país, os exames supervisionados online n
 
 - Os candidatos que residem fora da Eslovênia podem ver a monitoração online como uma opção de teste disponível, no entanto, não poderão concluir com êxito o teste quando apresentarem a identificação de cidadania eslovena (passaporte ou outra identificação) como prova de identificação. Esses candidatos devem agendar um exame no centro de testes.
 
-### Nova tentativa de teste do candidato por solicitação da Microsoft
+## Nova tentativa de teste do candidato por solicitação da Microsoft
 
 1. A Microsoft se reserva o direito de solicitar que qualquer candidato refaça o teste por suspeitar de qualquer atividade fraudulenta ou comportamento atípico a qualquer momento.
 2. As novas tentativas acontecerão em um local determinado pela Microsoft, a qualquer momento, mediante acordo entre a Microsoft e o candidato.
 
-### Revogação de certificações
+## Revogação de certificações
 
 Se um candidato violar qualquer regra, política de exame ou termo do exame sob o contrato de exame (NDA) ou se envolver em qualquer conduta imprópria que, de qualquer maneira, diminua a segurança e a integridade do Programa de Certificação Microsoft, o candidato poderá ser permanentemente proibido de realizar quaisquer exames futuros de Certificação Microsoft. Além disso, o candidato poderá ter o certificado do Programa de Certificação Microsoft cancelado e as pontuações do teste e as certificações poderão ser revogadas.
 
-### Direito de exclusão
+## Direito de exclusão
 
 Com base nas preocupações com a segurança e a integridade, a Microsoft se reserva o direito de excluir regiões, países e centros de testes específicos do Programa de Certificação Microsoft.

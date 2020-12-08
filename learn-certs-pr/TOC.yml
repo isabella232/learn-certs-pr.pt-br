@@ -28,8 +28,8 @@
 - name: Políticas de exames e perguntas frequentes
   expanded: false
   items:
-  - name: Visão geral do processo do exame
-    href: exam-process-overview.md  
+  - name: Perguntas mais frequentes
+    href: frequently-asked-questions.md   
   - name: Política de segurançaa e política de retomada de exames
     href: exam-security-policy-and-exam-retake-policy.md
   - name: Política de reagendamento e cancelamento de exames

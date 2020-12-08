@@ -26,10 +26,18 @@ summary: |-
   #### Perfil do público
   Este curso destina-se a data scientists e pessoas com responsabilidades administrativas no treinamento e na implementação de modelos de aprendizado de máquina.
 prerequisitesSection: |-
-  Antes de participar deste curso, os estudantes devem&#58;
-  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
-  - Ter compreensão da ciência de dados, incluindo como preparar dados, treinar modelos e avaliar modelos concorrentes para selecionar o melhor.
-  - Ter noções de programação na linguagem de programação Python e como usar as bibliotecas do Python&#58; pandas, scikit-learn, matplotlib e seaborn.
+  Os cientistas de dados do Azure bem sucedidos começam este cargo com um conhecimento fundamental dos conceitos de computação no cloud, e experiência em ciência de dados em geral e ferramentas e técnicas de aprendizagem de máquinas.
+  
+  Especificamente&#58;
+  - Criação de recursos de cloud no Microsoft Azure.
+  - Utilização do Python para explorar e visualizar dados.
+  - Formação e validação de modelos de aprendizagem de máquinas utilizando estruturas comuns como Scikit-Learn, PyTorch, e TensorFlow.
+  
+  Para obter estas competências prévias, faça a seguinte formação online gratuita antes de frequentar o curso&#58;
+  - [Explorar conceitos da Microsoft](/learn/paths/explore-microsoft-azure-cloud-concepts/).
+  - [Criar modelos de aprendizagem de máquinas](/learn/paths/create-machine-learn-models/). 
+  
+  Se é completamente novo na ciência dos dados e na aprendizagem de máquinas, por favor preencha primeiro [Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals).
 outlineSection: |-
   ### Módulo 1&#58; Fazendo ciência de dados no Azure
   O estudante aprenderá sobre o processo de ciência de dados e a função do Data Scientist.  Em seguida, o estudante compreenderá como os serviços do Azure podem oferecer suporte e aumentar o processo de ciência de dados.

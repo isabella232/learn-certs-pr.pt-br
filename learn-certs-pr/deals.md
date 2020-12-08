@@ -41,12 +41,7 @@ Valide suas habilidades, tenha uma vantagem profissional e aumente sua confianç
 </div>
 
 
-## Economize com descontos para estudantes
-Aproveite os descontos significativos em exames de Microsoft Certified Professional verificando seus status de estudante antes de se registrar para um exame. *Observação Os descontos de estudante para os exames Microsoft Certified Professional não estão disponíveis na Índia ou China.*
-
-[**Saiba mais**](/learn/certifications/certification-exam-policies)
-
-## Perguntas frequentes
+## <a name="frequently-asked-questions"></a>Perguntas frequentes
 
 **P. O que é Exam Replay?**
 

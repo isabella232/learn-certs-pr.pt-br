@@ -8,15 +8,15 @@ displayName: MB-240
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame será atualizado em 7 de outubro de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame será atualizado a 10 de Novembro de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.</strong><br/><br/></div>
   </div>
 
-  Os candidatos a este exame são consultores funcionais do Microsoft Dynamics 365 Customer Engagement com experiência em atendimento ao cliente. Os candidatos são responsáveis pela implementação de soluções que gerem recursos que completam o ciclo de vida de serviço de campo.
+  Os candidatos a este exame são Consultores Funcionais da Dynamics 365 Customer Engagement com experiência em serviço no campo. Os candidatos são responsáveis pela implementação de soluções que gerem recursos que completam o ciclo de vida do serviço de campo.
 
-  Os candidatos implementam os processos de manutenção projetadas em colaboração com equipes internas e externas. Esta colaboração inclui a configuração das áreas de administração padrão do aplicativo de Serviço de Campo, implementando a solução Connected Field Service (IoT) e o aplicativo móvel, e implementação de todas as personalizações necessárias adicionais. Os candidatos são responsáveis pela configuração e implementação de aplicativos de serviço de campo juntamente com aplicativos básicos de atendimento ao cliente.
+  Os candidatos implementam os processos de serviço de campo concebidos em colaboração com equipas internas e externas. Esta colaboração inclui a configuração das áreas de administração padrão da aplicação de Serviço de Campo, a implementação da solução Connected Field Service (IoT) e do aplicativo móvel, e a implementação de quaisquer personalizações adicionais necessárias. Os candidatos são responsáveis pela configuração e implementação da aplicação do Serviço de Campo em conjunto com a aplicação central de serviço ao cliente.
 
   Os candidatos devem ter conhecimento de como configurar e personalizar componentes do aplicativo de serviço de campo, incluindo serviços de configuração, recursos, características, incidentes, integração de inventário, contratos de serviços, agendamento de recursos, ordens de trabalho, tarefas de serviço, funções de usuário de serviço de campo, configurações de serviço de campo, a solução de Connected Field Service (IoT) e configuração do aplicativo Field Service Mobile.
-subTitle: 'Este exame avalia a sua capacidade de realizar as seguintes tarefas técnicas: configurar aplicativos de Field Service, gerenciar ordens de serviço, agendar e expedir ordens de serviço, gerenciar a mobilidade de serviços de campo, gerenciar estoque e compras e gerenciar ativos e contratos.'
+subTitle: 'Este exame mede a sua capacidade em realizar as seguintes tarefas técnicas: configurar aplicativos de serviço no campo; gerir ordens de trabalho; programar e enviar ordens de trabalho; gerir a mobilidade de serviço de campo; gerir inventário e compras; e implementar Connected Field Service.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
 practiceTestUrl: https://in.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,13 +26,13 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 7 de outubro de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
-- Configurar aplicativos de Field Service (20-25%)
+- O conteúdo deste exame será atualizado a 10 de Novembro de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
+- Configurar aplicativos de serviço no campo (15-20%)
 - Gerenciar ordens de serviço (15-20%)
-- Agendar e despachar ordens de serviço (20-25%)
+- Programação e expedição de ordens de trabalho (25-30%)
 - Gerenciar mobilidade de Field Service (10-15%)
-- Gerenciar inventário e compras (10-15%)
-- Gerenciar ativos e contratos (10-15%)
+- Gerir o inventário e as compras (5-10%)
+- Implementar Connected Field Service (10-15%)
 roles:
 - functional-consultant
 products:
@@ -51,7 +51,7 @@ relatedCertifications:
 resources:
 - title: Certificação Caminho de Aprendizagem
   description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

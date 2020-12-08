@@ -26,7 +26,7 @@ skills:
 - Agendar e despachar ordens de serviço
 - Gerenciar mobilidade de Field Service
 - Gerenciar inventário e compras
-- Gerenciar ativos e contratos
+- Implementar Serviço de Campo Conectado
 roles:
 - functional-consultant
 type: role-based
@@ -56,7 +56,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Journey to certification
   description: Explore as etapas para obter a certificação e os recursos disponíveis para ajudá-lo a se preparar.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

@@ -69,8 +69,8 @@ Emitimos crachás para todos os exames e certificações ativos no programa Micr
 
 - Nos casos em que a aprovação em um exame resulta em uma certificação, um emblema é emitido para a certificação, e não para o exame.
 - Exame 74-343 Gerenciamento de projetos com o Microsoft Project (aposentado em julho de 2019).
-- Exames MOS 2010 (74-881, 74-882, 74-883, 74-884, 74-885, MB2-887, MB2-888).
-- Exames do Microsoft Dynamics CRM (MB2-706, MB2-707, MB2-708, MB2-710, MB2-711, MB2-712, MB2-713, MB2-714 (todos desativados em 31 de dezembro de 2019)).
+- Exames e Certificações MOS 2010.
+- Exames Microsoft Dynamics CRM (MB2-706, MB2-707, MB2-708, MB2-710, MB2-711, MB2-712, MB2-713, MB2-714 (todos reformados a 31 de Dezembro de 2019)).
 - Exames e certificações legados. Os selos não estão disponíveis para alguns de nossos exames e certificações herdados. Se você não encontrar um crachá para um exame ou certificação herdado em seu perfil do Acclaim, não emitimos um para esse exame ou certificação.
 
 Se você ganhou um crachá por um exame ou certificação que foi aposentado, ainda é possível reivindicar o selo por meio da plataforma Acclaim do Credly e compartilhá-lo com outras plataformas ou por e-mail. Veja a resposta para “Você tem emblemas não reclamados?” Nas Perguntas frequentes para saber como.

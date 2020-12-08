@@ -15,12 +15,13 @@ levels:
 skills:
 - Uso de funcionalidade comuns e ferramentas de implementação
 - Configurar segurança, processos e opções
-- Realizar migração de dados
+- Gerir Dados Financeiros e Operacionais
 - Validar e oferecer suporte à solução
 - Implementar gerenciamento de informações do produto
 - Implementar gerenciamento de estoque
-- Implementar e gerenciar processos da cadeia de suprimentos
-- Implementar o gerenciamento de warehouse e gestão de transportes e executar processos de negócios
+- Implementar e gerir processos de Supply Chain
+- Implementar a gestão de armazém e gestão de transporte
+- Implementar o planeamento mestre
 roles:
 - functional-consultant
 type: role-based

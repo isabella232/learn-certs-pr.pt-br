@@ -28,10 +28,18 @@ summary: |-
 
   #### Perfil do público
   Este curso destina-se a profissionais e arquitetos de dados que desejam aprender sobre a migração de tecnologias de plataforma de dados existentes no Microsoft Azure e como as cargas de trabalho existentes baseadas em SQL podem ser migradas e modernizadas.
+  
   Este curso também se destina a pessoas que gerenciam plataformas de dados ou desenvolvem aplicativos que entregam conteúdo das tecnologias de plataforma de dados existentes.
 prerequisitesSection: |-
-  Além de sua experiência profissional no SQL Server, os alunos que participam desse treinamento devem ter conhecimento técnico equivalente aos seguintes cursos&#58;
-  - [Azure fundamentals](https://docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
+  Os estudantes bem sucedidos começam este papel com um conhecimento fundamental dos conceitos de computação no cloud e experiência profissional na implementação de soluções SQL.
+  
+  Especificamente&#58;
+  - Trabalhar com e manter cargas de trabalho SQL 
+  - Experiência com o Azure, como a distribuição e gestão de recursos
+  
+  Para adquirir estas competências, faça a seguinte formação online gratuita antes de frequentar o curso&#58;
+  - [Introdução ao Azure SQL](/learn/modules/azure-sql-intro/)
+  - [Azure Fundamentals](/learn/certifications/azure-fundamentals)
 outlineSection: |-
   ### Módulo 1&#58; Introdução à modernização da plataforma de dados
   Neste módulo, os estudantes aprenderão sobre o objetivo da modernização da plataforma de dados e descreverão os benefícios que a modernização da plataforma de dados pode trazer para uma organização. Os estudantes conhecerão os vários estágios dos projetos de migração de uma plataforma de dados para entender o que está envolvido em cada estágio para maximizar as chances de um projeto de modernização da plataforma de dados bem-sucedido. Por fim, os estudantes irão explorar os vários caminhos de migração de dados para entender como cada abordagem é diferente e por que você deve escolher uma abordagem de migração em detrimento de outra.
@@ -65,7 +73,7 @@ outlineSection: |-
   - Migração de cargas de trabalho não pertencentes ao SQL Server para o Azure usando o Assistente de Migração de SQL
 
 
-  #### Lab &#58; Escolha das ferramentas adequadas para a migração de dados
+  #### Laboratório &#58; Escolha das ferramentas adequadas para a migração de dados
   - Identifique os candidatos à migração usando o Assistente de Migração de Dados
   - Avalie uma carga de trabalho de dados usando o Assistente para Experimentos de Banco de Dados
 

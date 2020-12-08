@@ -15,12 +15,12 @@ levels:
 skills:
 - Uso de funcionalidade comuns e ferramentas de implementação
 - Configurar segurança, processos e opções
-- Realizar migração de dados
+- Gerir Dados Financeiros e Operacionais
 - Validar e oferecer suporte à solução
 - Instalar e configurar gestão financeira
-- Gerenciar e aplicar processos comuns
-- Implementar e gerenciar contas a pagar e a receber
-- Gerenciar orçamento e imobilizados
+- Implementar e gerir contas a pagar e despesas 
+- Implementar contas a receber, crédito, cobranças e reconhecimento de receitas 
+- Gerir o orçamento e os ativos fixos
 roles:
 - functional-consultant
 type: role-based

@@ -1,6 +1,6 @@
 ---
-title: 'Exam process overview | Microsoft Docs'
-description: 'Exam process overview' 
+title: 'Perguntas mais frequentes | Microsoft Docs'
+description: 'Perguntas mais frequentes' 
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -10,22 +10,11 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Exam process overview
-
-## Polticas e acordos
+# Perguntas mais frequentes
 
 Encontre respostas para as perguntas mais frequentes sobre os Microsoft Certification exams.
 
-- Noções básicas do exame
-- Especificações do exame
-- Pontuação e resultados
-- Políticas de segurança e integridade do exame
-- Teste baseado em desempenho
-- Certificações baseadas em função
-- Preços acadêmicos para exames
-- Pedidos de acomodações
-
-### Noções básicas do exame
+## Noções básicas do exame
 
 **De quantas questões é composto o meu exame?**
 
@@ -76,7 +65,7 @@ Os treinadores certificados pela Microsoft trabalham com muitos candidatos na pr
 
 Você também pode querer perguntar como outras pessoas fazem essas tarefas, ler documentos técnicos, MSDN ou TechNet para obter informações adicionais sobre as tarefas que estão incluídas no exame e/ou explorar os recursos fornecidos na seção “Materiais de preparação” na página de detalhes do exame com links para todos os cursos online disponíveis, microaprendizagem, opções e um portal onde você pode encontrar opções de treinamento orientadas por instrutor em sua área.
 
-Além disso, os [Testes Práticos Oficiais da Microsoft](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1) estão disponíveis para alguns de nossos exames de certificação. Eles podem fornecer mais informações sobre seus domínios e deficiências mais específicos. No entanto, passar em um teste de prática não garante que você passará no exame de certificação.
+Além disso, os [Testes Práticos Oficiais da Microsoft](https://www.measureup.com/microsoft/microsoft-technical/microsoft-practice-tests.html) estão disponíveis para alguns de nossos exames de certificação. Eles podem fornecer mais informações sobre seus domínios e deficiências mais específicos. No entanto, passar em um teste de prática não garante que você passará no exame de certificação.
 
 Se você fez o exame e não passou, priorize as competências a serem praticadas, concentrando-se em áreas em que seu desempenho se mostrou menor e em áreas que têm maior percentual das questões.
 
@@ -86,11 +75,11 @@ Visite a [página de registro do exame](https://docs.microsoft.com/learn/certifi
 
 **Preciso realizar o exame em inglês?**
 
-Os Microsoft Certification exams estão disponíveis em vários idiomas. No entanto, os candidatos que optarem pelo exame em inglês em vez de um exame em seu idioma nativo podem solicitar um tempo adicional. A aprovação do tempo adicional é fornecida caso a caso e deve ser solicitada antes do exame. Isso deve ser solicitado por meio do [processo de acomodação](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
+Os Microsoft Certification exams estão disponíveis em vários idiomas. No entanto, os candidatos que optarem pelo exame em inglês em vez de um exame em seu idioma nativo podem solicitar um tempo adicional. A aprovação do tempo adicional é fornecida caso a caso e deve ser solicitada antes do exame. Isso deve ser solicitado por meio do [processo de acomodação](/learn/certifications/request-accomodations).
 
 **Quais as acomodações com acessibilidade para pessoas com algum tipo de deficiência?**
 
-A Microsoft se dedica em desenvolver exames que sejam de acesso a todos, incluindo quem sofre de alguma deficiência. Para obter uma lista das acomodações disponíveis, visite a [seção acomodações](/learn/certifications/certification-exam-policies#special-accommodations-when-taking-exams).
+A Microsoft se dedica em desenvolver exames que sejam de acesso a todos, incluindo quem sofre de alguma deficiência. Para obter uma lista das acomodações disponíveis, visite a [seção de pedidos de acomodações](/learn/certifications/exam-process-overview#accommodation-requests).
 
 **Quanto custam os exames?**
 
@@ -114,7 +103,7 @@ Para enviar outros tipos de comentários, entre em contato a [suporte à certifi
 
 Para informar um problema de segurança, entre em contato com [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
 
-### Especificações do exame
+## Especificações do exame
 
 **Quais tipos de perguntas aparecem nos Microsoft Certification exams?**
 
@@ -195,7 +184,7 @@ Como você não é penalizado por respostas erradas e os exames contêm alguns i
 
 Não. O mesmo exame não pode ser usado para atender aos requisitos de um MCSA e um exame opcional no mesmo caminho MCSE ou MCSD.
 
-### Pontuação e resultados
+## Pontuação e resultados
 
 **Como e quando receberei os resultados do exame?**
 
@@ -317,7 +306,7 @@ Consulte a seção [Políticas de segurança e reaplicação](/learn/certificati
 
 **Como posso contestar uma questão do exame?**
 
-Se você acredita que determinada questão de um Microsoft Certification exam seja imprecisa, solicite uma avaliação da questão usando o [formulário de contestação de item de exame](/learn/certifications/exam-reschedule-and-cancellation-policy) no prazo de 30 dias corridos após a realização do exame. O processo de avaliação existe para ajudar a identificar e corrigir questões problemáticas e para atualizar os exames.
+Se você acredita que determinada questão de um Microsoft Certification exam seja imprecisa, solicite uma avaliação da questão usando o [formulário de contestação de item de exame](/learn/certifications/exam-item-challenge-process) no prazo de 30 dias corridos após a realização do exame. O processo de avaliação existe para ajudar a identificar e corrigir questões problemáticas e para atualizar os exames.
 
 **Haverá um funcionário da Microsoft para revisar e avaliar a questão que estou contestando?**
 
@@ -335,7 +324,7 @@ Para ajudar a garantir a segurança do exame, mantemos confidencial a lógica da
 
 Não. A Microsoft não reembolsa os participantes por terem sido reprovados no exame nem por terem perdido as datas do exame.
 
-### Políticas de segurança e integridade do exame
+## Políticas de segurança e integridade do exame
 
 **Por que preciso aceitar um acordo de confidencialidade (NDA) antes de realizar o exame?**
 
@@ -399,7 +388,7 @@ Envie um e-mail para [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com), in
 
 Sim. Todas as correspondências para [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) permanecem anônimas e nós não divulgaremos suas informações de contato. Se quiser incluir suas informações de contato para que possamos passar a você informações sobre o andamento, elas permanecerão em segurança.
 
-### Teste baseado em desempenho
+## Teste baseado em desempenho
 
 **O que é o teste baseado em desempenho (PBT)?**
 
@@ -448,7 +437,7 @@ A maioria das tarefas vale um ponto; se a tarefa vale mais de um ponto, essas in
 
 **Quanto tempo terei para concluir os laboratórios?**
 
- Os laboratórios não são cronometrados separadamente do exame. No início do exame, o número de laboratórios, estudos de caso e perguntas, bem como o tempo do exame serão fornecidos. Você deve responder a todas as perguntas, incluindo a conclusão de tarefas associadas a qualquer laboratório, no tempo fornecido. Gerencie seu tempo de acordo para poder concluir todas as atividades que devem ser realizadas.
+Os laboratórios não são cronometrados separadamente do exame. No início do exame, o número de laboratórios, estudos de caso e perguntas, bem como o tempo do exame serão fornecidos. Você deve responder a todas as perguntas, incluindo a conclusão de tarefas associadas a qualquer laboratório, no tempo fornecido. Gerencie seu tempo de acordo para poder concluir todas as atividades que devem ser realizadas.
 
 **Terei tempo suficiente para concluir os laboratórios?**
 
@@ -490,7 +479,7 @@ Não. As competências avaliadas permanecem as mesmas, seja qual for o formato d
 
 Os exames que incluem laboratórios exigem que os centros de testes atendam a certos requisitos de conectividade à Internet, portanto, um conjunto menor de centros de testes está disponível. À medida que os laboratórios são adicionados a mais exames novos baseados em funções, eles também estarão sujeitos ao mesmo conjunto de centros de teste. Se você tiver centros de testes específicos em mente, entre em contato com o centro de testes específico para saber se eles podem oferecer laboratórios. Caso contrário, eles não serão listados como centros de teste disponíveis depois que você selecionar o exame. Se isso ocorrer, recomendamos que você encontre um centro de testes diferente ou faça o exame por meio de supervisão online. Observação: Você pode participar de laboratórios por meio de supervisão online, no entanto, isso dependerá da sua largura de banda e conexão com a Internet.
 
-### Certificações baseadas em função
+## Certificações baseadas em função
 
 **Como as certificações baseadas em função serão denominadas? Elas ainda serão MCSA, MCSD e MCSE?**
 
@@ -512,7 +501,7 @@ Antes da retirada dos exames, certifique-se ser aprovados em todos aqueles que f
 
 Não, não estamos reduzindo o nível de experiência que as pessoas precisam para passar nos exames ou obter nossas certificações. O treinamento é projetado para preparar as pessoas para os exames, no entanto, é provável que por si só não seja suficiente. As perguntas sobre nossos exames baseados em funções exigem que você aplique as habilidades e os conhecimentos adquiridos no treinamento de problemas do mundo real.
 
-### Preços acadêmicos para exames
+## Preços acadêmicos para exames
 
 **Posso obter um reembolso se me registrar e pagar por um exame antes de verificar um desconto acadêmico que obtive só agora?**
 
@@ -530,11 +519,11 @@ Sim. Você precisa seguir o mesmo processo de um aluno. Em outras palavras, voc�
 
 Se você tiver perguntas gerais relacionadas ao registro de exames ou perguntas específicas para uma solicitação de verificação nova ou pendente, entre em contato com [Certification Support](https://aka.ms/mcpforum).
 
-### Pedidos de acomodações
+## Pedidos de acomodações
 
 **Como faço para solicitar uma acomodação?**
 
-Se você precisar de equipamento especial ou outra acomodação ao realizar um exame, poderá solicitar uma acomodação por meio da [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) using their “Reasonable Adjustments Request System” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Mais detalhes são fornecidos na seção [Acomodações especiais ao fazer um exame](/learn/certifications/request-accomodations) acima.
+Se você precisar de equipamento especial ou outra acomodação ao realizar um exame, poderá solicitar uma acomodação por meio da [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) using their “Reasonable Adjustments Request System” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). Mais detalhes são fornecidos na seção [Solicitar acomodações](/learn/certifications/request-accomodations).
 
 **Por que preciso enviar documentação?**
 
