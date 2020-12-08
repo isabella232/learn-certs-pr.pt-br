@@ -35,9 +35,16 @@ summary: |-
   #### Perfil do público
   Este curso destina-se a profissionais de dados que gerenciam dados e bancos de dados que desejam aprender sobre a administração das tecnologias da plataforma de dados disponíveis no Microsoft Azure. Este curso também é útil para arquitetos de dados e desenvolvedores de aplicativos que precisam entender quais tecnologias estão disponíveis para a plataforma de dados com o Azure e como trabalhar com essas tecnologias por meio de aplicativos.
 prerequisitesSection: |-
-  Além de sua experiência profissional, os estudantes que participam desse treinamento devem ter conhecimento técnico equivalente aos seguintes cursos&#58;
-  - Fundamentos do Azure
-  - Azure Data Fundamentals
+  Os administradores de bases de dados bem sucedidos do Azure assumem este cargo com experiência profissional na gestão de bases de dados e conhecimentos técnicos de tecnologias de cloud.
+  
+  Especificamente&#58;
+  - Trabalhar com, manter e desenvolver com o SQL Server
+  - Experiência com o Azure, como a distribuição e gestão de recursos 
+  
+  No mínimo, deverá conhecer a informação na seguinte formação em linha antes de frequentar o curso&#58;
+  - [Introdução ao Azure SQL](/learn/modules/azure-sql-intro/)
+  - [Azure Fundamentals](/learn/certifications/azure-fundamentals)
+  - [Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals)
 outlineSection: |-
   ### Módulo 1&#58; A função do Azure Database Administrator
   Este módulo explora o papel de um administrador de banco de dados no ambiente do Azure. Ele também fornece algumas informações fundamentais relevantes para o conteúdo geral. Isso inclui uma revisão das várias opções baseadas no SQL Server (SQL Server em uma VM, instâncias gerenciadas e banco de dados SQL do Azure). Os alunos aprenderão por que o nível de compatibilidade é um conceito crucial ao trabalhar com bancos de dados SQL no Azure. Os estudantes também conhecerão outras plataformas de banco de dados disponíveis no Azure, além daquelas baseadas no SQL Server, em especial no PostgreSQL e MySQL. 

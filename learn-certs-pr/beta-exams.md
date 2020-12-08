@@ -12,12 +12,10 @@ ms.prod: non-product-specific
 ---
 # Beta exams
 
-## Program information
-
 Cerca de 400 pessoas podem fazer o exame beta com preço reduzido. Para aproveitar esse valor reduzido, você precisa de um código beta que deve ser inserido como parte do seu pagamento durante o registro. Para obter este código, você pode:
 
 1. Juntar-se ao nosso banco de dados de perfis SME. Os membros cujas habilidades correspondem com a área do conteúdo do exame receberão um e-mail com este código, este código será único para este grupo. Caso você seja membro de nosso banco de dados de SME, o acesso antecipado à versão beta exige que você mantenha seu perfil atualizado, pois direcionamos a distribuição desses códigos para aqueles que possuem habilidades relacionadas ao novo exame. (o programa de banco de dados de perfis SME será hospedado no [Microsoft Collaborate](https://aka.ms/collaborate). Confira a postagem no blog [Help Us Create Exams and Learning Content!](/learn/certifications/posts/help-us-create-exams-and-learning-content) Junte-se a nossa base de dados de PME hoje!)
-2. Assista aos anúncios no Microsoft Learn ou em nosso [blog da comunidade](https://www.microsoft.com/en-us/learning/community-blog.aspx) para obter informações sobre os próximos exames beta. Essas postagens conterão um código que pode ser usado para receber um desconto no exame. As mensagens são geralmente postadas na data de abertura do registro para um exame beta. Este código é diferente do que é enviado para SMEs que fazem parte do nosso banco de dados.
+2. Veja os anúncios no [Blog de Aprendizagem Microsoft](https://aka.ms/learningblog) para informações sobre os próximos exames beta. Essas postagens conterão um código que pode ser usado para receber um desconto no exame. As mensagens são geralmente postadas na data de abertura do registro para um exame beta. Este código é diferente do que é enviado para SMEs que fazem parte do nosso banco de dados.
 
 Observe que as vagas são limitadas e estão disponíveis por ordem de chegada e que os exames beta não são oferecidos na China, Índia, Paquistão ou Turquia por motivos de segurança.
 

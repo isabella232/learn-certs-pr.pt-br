@@ -11,7 +11,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Compreender os conceitos gerais de computação em nuvem
 - skill: Conhecer os principais serviços disponíveis no Microsoft Azure
-- skill: Compreender a segurança, privacidade, conformidade e confiabilidade do Microsoft Azure
+- skill: Compreender a segurança, privacidade, conformidade e confiança com o Microsoft Azure
 - skill: Compreender os modelos de preços e suporte disponíveis na Microsoft
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -39,7 +39,7 @@ summary: |-
   #### Perfil do público
   Este curso é adequado para gerentes de programas e vendas técnicas com um experiência geral em TI. Os estudantes querem aprender sobre nossas ofertas, saber como os componentes são implementados e fazer perguntas sobre produtos e recursos. Este curso não oferece um Azure Pass ou horário para os alunos participarem de atividades práticas. Os estudantes podem obter uma avaliação gratuita e seguir as orientações passo a passo fora da sala de aula. Este curso engloba principalmente palestras e demonstrações. Este curso ajudará a preparar o candidato para o exame AZ-900.
 prerequisitesSection: |-
-  Não há pré-requisitos para fazer este curso. A experiência técnica de TI não é exigida, mas requer algum conhecimento ou experiência geral de TI.
+  Não existem pré-requisitos para frequentar este curso. Não é necessária experiência técnica em TI, no entanto alguns conhecimentos ou experiência geral em TI seriam benéficos.
 outlineSection: |-
   ### Módulo 1&#58; Conceitos de nuvem
   Neste módulo, você aprenderá os conceitos básicos de nuvem.
@@ -62,8 +62,7 @@ outlineSection: |-
   - Ferramentas de gerenciamento do Azure
 
   Depois de concluir este módulo, os estudantes estarão aptos a&#58;
-  - Compreender os principais serviços disponíveis com
-  Microsoft Azure
+  - Compreender os principais serviços disponíveis com Microsoft Azure
 
   ### Módulo 3&#58; Segurança, privacidade, conformidade e confiabilidade
   Neste módulo, você aprenderá sobre segurança, privacidade, conformidade e confiabilidade do Microsoft Azure.
@@ -76,8 +75,7 @@ outlineSection: |-
   - Padrões de privacidade, conformidade e proteção de dados no Azure
 
   Depois de concluir este módulo, os estudantes estarão aptos a&#58;
-  - Compreender
-  Segurança, privacidade, conformidade e confiabilidade do Microsoft Azure
+  - Compreender Segurança, privacidade, conformidade e confiabilidade do Microsoft Azure
 
   ### Módulo 4&#58; Preço do Azure, acordos de nível de serviço (SLAs) e ciclo de vida
   Neste módulo, você se concentrará nos modelos de preços e suporte disponíveis na Microsoft.

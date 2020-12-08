@@ -18,20 +18,20 @@ Os preços acadêmicos para exames Microsoft Certified Professional estão dispo
 
 Você deve verificar seu status de estudante antes de agendar seu exame para se qualificar para preços acadêmicos.
 
-### Confirmar status de aluno por meio do perfil da conta
+## Confirmar status de aluno por meio do perfil da conta
 
 1. Faça login com as credenciais da sua conta da Microsoft.
 2. Selecione **Configurações de perfil** no menu **Conta** na parte superior da página.
 3. No menu **Função de trabalho**, selecione ou certifique-se de que “Aluno” esteja selecionado.
 4. Localize o aviso de preço acadêmico exibido ao lado do menu **Função de trabalho**. Se seu status de aluno não tiver sido validado, clique em “Verificar” para verificar seu status.
 
-### Confirmar status de aluno ao se registrar para um exame
+## Confirmar status de aluno ao se registrar para um exame
 
 1. Faça login com as credenciais da sua conta da Microsoft.
 2. No exame para o qual deseja se registrar, clique em **Agendar exame**.
 3. Na página **Confirmar detalhes de registro do exame**, certifique-se de que o campo **Função de trabalho** exibe “Aluno - Verificado”. Caso contrário, clique em “Verificar” para validar seu status ou clique em **Editar** para alterar seu status.
 
-### Verificar seu status acadêmico
+## Verificar seu status acadêmico
 
 Selecione o método que deseja usar para verificar seu status. Os métodos são:
 

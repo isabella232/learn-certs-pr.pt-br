@@ -5,7 +5,19 @@ metadata:
   description: 'Exam AI-900: Microsoft Azure AI Fundamentals'
 uid: exam.ai-900
 displayName: AI-900
-summary: "<div>\n<div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>\n<div><strong>O conteúdo deste exame será atualizado em 22 de outubro de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.</strong><br/><br/></div>\n</div>\n\nOs candidatos a este exame devem ter conhecimento básico sobre os conceitos de aprendizado de máquina (ML) e inteligência artificial (AI) e serviços relacionados do Microsoft Azure.\n\nEste exame é uma oportunidade para demonstrar o conhecimento comum sobre cargas de trabalho de aprendizado de máquina e inteligência artificial e como implementá-las no Azure.  \n\nEste exame foi desenvolvido para candidatos com formação técnica e não técnica. A experiência em ciência de dados e engenharia de software não é necessária, no entanto, é recomendável algum conhecimento ou experiência geral em programação.  \n\nO Azure IA Fundamentals pode ser usado como capacitação para outras certificações baseadas em funções do Azure, como o Azure Data Scientist Associate ou o Azure AI Engineer Associate, mas não é um pré-requisito para nenhuma delas."
+summary: |-
+  <div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  <div><strong>O conteúdo deste exame foi atualizado em 22 de Outubro de 2020. Por favor, faça download do documento de avaliação de competências abaixo para ver o que mudou.</strong><br/><br/></div>
+  </div>
+
+  Os candidatos a este exame devem ter conhecimento básico sobre os conceitos de aprendizado de máquina (ML) e inteligência artificial (AI) e serviços relacionados do Microsoft Azure.
+
+  Este exame é uma oportunidade para demonstrar o conhecimento comum sobre cargas de trabalho de aprendizado de máquina e inteligência artificial e como implementá-las no Azure.  
+
+  Este exame foi desenvolvido para candidatos com formação técnica e não técnica. A experiência em ciência de dados e engenharia de software não é necessária, no entanto, é recomendável algum conhecimento ou experiência geral em programação.  
+
+  O Azure IA Fundamentals pode ser usado como capacitação para outras certificações baseadas em funções do Azure, como o Azure Data Scientist Associate ou o Azure AI Engineer Associate, mas não é um pré-requisito para nenhuma delas.
 subTitle: 'Prove que você pode descrever o seguinte: Cargas de trabalho e considerações de IA, princípios básicos do aprendizado de máquina no Azure, recursos de cargas de trabalho de pesquisa visual computacional, recursos de cargas de trabalhos de Processamento de Linguagem Natural (PLN) e recursos de cargas de trabalho de IA para reconhecimento vocal no Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
@@ -28,7 +40,7 @@ locales:
 levels:
 - beginner
 skills:
-- O conteúdo deste exame será atualizado em 22 de outubro de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
+- O conteúdo deste exame foi atualizado a 22 de Outubro de 2020. Por favor, faça download do esboço das competências do exame abaixo para ver o que mudou.
 - Descrever as cargas de trabalho e considerações de IA (15-20%)
 - Descrever os princípios fundamentais do aprendizado de máquina no Azure (30-35%)
 - Descrever os recursos das cargas de trabalho de pesquisa visual computacional no Azure (15-20%)

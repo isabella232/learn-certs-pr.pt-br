@@ -33,13 +33,13 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHl
 exams:
 - uid: exam.62-193
 resources:
-- title: Projeto de pesquisa de Ensino e Aprendizagem inovadores (ITL)
-  description: Projeto de pesquisa de Ensino e Aprendizagem inovadores (ITL)
-  href: https://education.microsoft.com/GetTrained/ITL-Research
+- title: Centro Educador Microsoft
+  description: Treinamento, programas e recursos para educadores.
+  href: https://education.microsoft.com/pt-br
 - title: Guia de estudo
   description: Encontre materiais de treinamento para preparar-se para o exame
-  href: http://aka.ms/MCEStudyGuide
+  href: https://aka.ms/MCEStudyGuide
 - title: Exam Replay
   description: Kit digital para a campanha Ensine o futuro hoje (pôster, folha de dados e domínio de objetivo do exame MCE)
-  href: http://aka.ms/MCEAssets
+  href: https://aka.ms/MCEAssets
 

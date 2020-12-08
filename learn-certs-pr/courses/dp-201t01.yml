@@ -35,9 +35,18 @@ summary: |-
   #### Perfil do público
   Este curso destina-se a profissionais de dados, arquitetos de dados e profissionais de Business Intelligence que desejam aprender sobre as tecnologias de plataforma de dados existentes no Microsoft Azure. Este curso também destina-se a indivíduos que desenvolvem aplicativos que fornecem conteúdo das tecnologias da plataforma de dados existentes no Microsoft Azure.
 prerequisitesSection: |-
-  Além de sua experiência profissional, os estudantes que participam desse treinamento devem ter conhecimento técnico equivalente aos seguintes cursos&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/pt-br/learn/modules/welcome-to-azure/)
-  - DP-200&#58; Implementação de uma solução de dados do Azure
+  Os estudantes bem sucedidos iniciam este curso com conhecimento dos conceitos de computação no cloud e experiência profissional com soluções de dados. 
+  
+  Especificamente&#58;
+  - Criação de recursos de cloud no Microsoft Azure
+  - Identificação de casos de utilização de grandes dados
+  - Compreender como os serviços de computação no cloud podem resolver as necessidades comerciais comuns 
+  
+  Para adquirir estas competências prévias, faça a seguinte formação online gratuita antes de frequentar o curso&#58;
+  - [Explorar os conceitos da Microsoft](/learn/paths/explore-microsoft-azure-cloud-concepts/)
+  - [Identificar tarefas de um engenheiro de dados](/learn/modules/data-engineering-processes/)
+  - [Serviços centrais de cloud - opções de Azure data storage](/learn/modules/intro-to-data-in-azure/)
+  - [Serviços centrais de cloud - Opções de Azure compute](/learn/modules/intro-to-azure-compute/)
 outlineSection: |-
   ### Módulo 1&#58; Considerações sobre arquitetura da plataforma de dados
   Neste módulo, os estudantes aprenderão a projetar e criar soluções seguras, escaláveis e de alto desempenho no Azure, examinando os princípios básicos encontrados em toda boa arquitetura. Eles aprenderão como o uso dos princípios básicos em toda a arquitetura, independentemente da escolha da tecnologia, pode ajudá-lo a projetar, construir e melhorar continuamente a arquitetura para o benefício de uma organização.
@@ -83,8 +92,6 @@ outlineSection: |-
   - Criar soluções Enterprise BI no Azure
   - Atualizar as soluções Enterprise BI no Azure
   - Desenvolver um bot de conversação de nível empresarial no Azure
-
-
 
   ### Módulo 3&#58; Arquiteturas de referência em tempo real do Azure
   Neste módulo, os estudantes conhecerão os padrões de design e arquitetura de referência para criar soluções de dados de streaming. Eles aprenderão como os dados de streaming podem ser consumidos pelos hubs de eventos e pelo Stream Analytics para fornecer análises de dados em tempo real. Eles também explorarão uma arquitetura de ciência de dados que transmite dados para os Databricks do Azure para executar a análise de tendências. Por último, aprenderão como uma arquitetura da Internet das Coisas (IoT) exigirá tecnologias da plataforma de dados para armazenar dados.
@@ -160,7 +167,7 @@ outlineSection: |-
 
 
   ### Módulo 6&#58; Planejamento da eficiência e operações
-  Neste módulo, os estudantes aprenderão a projetar uma arquitetura do Azure que seja operacionalmente eficiente e minimizem os custos, reduzindo os gastos, e entenderão como projetar arquiteturas que eliminam o desperdício e lhes dão total visibilidade do que está sendo utilizado no ambiente do Azure da organização .
+  Neste módulo, os estudantes aprenderão a projetar uma arquitetura do Azure que seja operacionalmente eficiente e minimizem os custos, reduzindo os gastos, e entenderão como projetar arquiteturas que eliminam o desperdício e lhes dão total visibilidade do que está sendo utilizado no ambiente do Azure da organização.
   #### Lições
   - Maximização da eficiência do seu ambiente em nuvem
   - Uso de monitoramento e a análise para obter insights operacionais

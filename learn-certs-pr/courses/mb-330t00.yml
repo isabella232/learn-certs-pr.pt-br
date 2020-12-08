@@ -8,7 +8,9 @@ courseNumber: 'MB-330T00-A'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Gerenciar inventário e armazenamento no Dynamics 365
+- skill: Configurar as funcionalidades mais importantes da Dynamics 365 Supply Chain Management.
+- skill: Processar a maioria das transações de Dynamics 365 Supply Chain Management.
+- skill: Explicar a outros como funcionam as características e funcionalidades do Dynamics 365 Supply Chain Management.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -22,353 +24,130 @@ products:
 exams:
 - uid: exam.mb-330
 summary: |-
-  Este curso discute o gerenciamento da cadeia de suprimentos no conjunto de aplicativos Dynamics 365
+  Este curso foi concebido para construir as suas bases em conhecimento de aplicação de Dynamics 365 Supply Chain Management. Este curso cobrirá as características e funcionalidades mais importantes necessárias ao consultor funcional de Gestão da Cadeia de Abastecimento da Dynamics 365, incluindo A informação do produto e como configurar, criar, e gerir o seu produto e inventário. A configuração e processamento da gestão da cadeia de fornecimento. As características de gestão de transporte, e as características de gestão de armazém. As funcionalidades de gestão de qualidade e controlo de qualidade. A configuração e processamento do planeamento mestre. Este curso inclui palestras e vários exercícios práticos. Os exercícios serão apresentados sob a forma de um estudo de caso apresentado a um consultor funcional da Dynamics 365 Supply Chain Management. Cada exercício será baseado num cenário de negócios seguido de uma pergunta ou discussão e depois de uma orientação passo a passo para executar as etapas relacionadas com o sistema.
 
   #### Perfil do público
-  Um consultor funcional do Dynamics 365 Finance é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+  Este curso foi concebido para o consultor funcional da Dynamics 365 Supply Chain Management. O consultor funcional da Dynamics 365 Supply Chain Management é um recurso chave que concebe e configura aplicativos para satisfazer os requisitos de um cliente. O consultor funcional analisa os requisitos empresariais e traduz esses requisitos em processos e soluções empresariais plenamente realizados que implementam práticas recomendadas pela indústria. O consultor funcional é especializado em um ou mais dos seguintes conjuntos de características da Dynamics&#58; finanças, produção, ou gestão da cadeia de fornecimento. Fazem parcerias com arquitetos, promotores, administradores, e outros interessados para fornecer soluções que satisfazem ou excedem as necessidades dos seus clientes.
 outlineSection: |-
-  ### Módulo 1&#58; Gerenciamento de suprimentos
-  Para configurar o inventário, deve-se primeiro entender as operações diárias do inventário. Nesta lição, discutimos primeiro as operações de entrada e saída de inventário.
-
-  Este módulo explica como configurar componentes do Inventory para processos de gerenciamento da cadeia de suprimentos no Finance and Operations.
+  ### Módulo 1&#58; Implementar gestão de informação do produto
+  Este módulo irá apresentar-lhe os seguintes tópicos: Criar e lançar produtos e variantes de produtos Criar e aplicar modelos de produtos Criar listas técnicas (BOMs) Identificar a finalidade e capacidades dos modelos de configuração de produtos Configurar pesos de captura Configurar produtos de entrega direta Criar e gerir dimensões de inventário Configurar grupos de itens Criar e atribuir códigos de barras e códigos de Número de Identificação Comercial Global (GTIN) Configurar hierarquias de categorias e atributos de produtos Configurar conversões de unidades de produtos Configurar definições de encomenda padrão Descrever métodos de cálculo de custos de inventário e grupos de modelos Configurar versões de cálculo de custos para custos padrão e planeados Configurar e preços de compra padrão, preços de venda padrão, e acordos comerciais.
   #### Lições
-  - Introdução
-  - Configurar números de série e lote
-  - Configurar detalhamento do inventário
-  - Configurar diários de inventário e armazém
-  - Configurar dimensões do inventário
-  - Fechamento e ajuste de estoque
-  - Laboratórios práticos
-  - Resumo do módulo
+  - Criar e gerir produtos
+  - Configurar produtos para gestão da cadeia de abastecimento
+  - Gerir os preços e os custos do inventário
 
-  Executar operações de estoque de entrada e saída
-  - Configurar parametros do inventário
-  - Configurar grupos de números de rastreamento
-  - Configurar detalhamento do inventário
-  - Configurar diários de inventário e armazém
-  - Configurar unidades
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar a gestão de informação sobre produtos
 
 
-  ### Módulo 2&#58; Usar diários de inventário
-  Este tópico explica como usar os diários de inventário no Finance and Operations.
+  ### Módulo 2&#58; Implementar gestão de inventário
+  Este módulo irá apresentar-lhe as seguintes áreas&#58; Configurar parâmetros de gestão de inventário e periódicos Configurar estrutura de repartição de inventário Configurar classificações ABC Configurar relatórios de avaliação de inventário Criar e processar periódicos incluindo lista de materiais, chegada de artigos, transferência, movimento, ajuste de inventário, contagem, e etiquetas de contagem de periódicos Criar e processar ordens de transferência Efetuar encerramentos e ajustes de inventário.
   #### Lições
-  - Introdução
-  - Usar diários de inventário
-  - Laboratórios práticos
-  - Resumo do módulo
+  - Configurar a gestão de inventários
+  - Gerir e processar atividades de inventário
 
-  Usar revistas de movimento
-  - Usar diários de ajuste de inventário
-  - Usar diários de transferência
-  - Usar contagem e contagem de tags
-  - Usar diário de chegada do item
-  - Usar diário em consignação
+  #### Laboratório &#58; Estudo de caso 1 Implementar a gestão de inventário
+  - Exercício #1 Adicionar produtos a um novo armazém utilizando a gestão básica do inventário
+  - Exercício #2 Criar uma versão de custo padrão que utilize um grupo modelo específico
+  - Exercício #3 Adicionar e lançar novos produtos a um armazém
+  - Exercício #4 Utilizar o diário de movimento de inventário para inicializar os níveis de stock num armazém
+  - Exercício #5 Utilizar o diário de transferência de inventário para mover itens para um novo local no armazém
+  - Exercício #6 Ajustar os níveis de estoque usando o diário de ajuste de estoque
+  - Exercício #7 Utilizar o diário de contagem de inventário para comparar as quantidades de inventário D365 com as quantidades de inventário contadas manualmente
+  - Exercício #8 Criar uma lista técnica (BOM) no BOM designer
+  
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar a gestão do inventário
 
 
-  ### Módulo 3&#58; Usar relatórios de inventário
-  Este tópico explica como usar relatórios de inventário para processos de gerenciamento da cadeia de suprimentos no Finance and Operations.
+  ### Módulo 3&#58; Implementar e gerir processos da cadeia de fornecimento
+  Este módulo irá apresentar-lhe os seguintes tópicos&#58; Criar e gerir requisições de compra, pedidos de cotação (RFQs), e ordens de compra (POs) Configurar processos de gestão de alterações Configurar e aplicar descontos de fornecedor Introdução à colaboração com fornecedores Gerir inventário de consignação Gerir entregas em excesso e em falta Configurar categorias de aprovisionamento e políticas de compras Configurar taxas Configurar cotações, encomendas de vendas e encomendas de devolução Configurar grupos de vendas e comissões Configurar pesquisas de clientes, produtos e prospectos Configurar e processar documentos de relações comerciais entre empresas Introdução aos Guias D365 Autoria dos Guias D365 Funcionamento dos Guias D365.
   #### Lições
-  - Introdução
-  - Compreender a classificação ABC
-  - Usar outras consultas e relatórios de inventário
-  - Laboratórios práticos
-  - Resumo do módulo
+  - Implementar o Procurement e sourcing
+  - Implementar características comuns de vendas e marketing
+  - Usando os Guias Microsoft
 
-  Compreender a classificação ABC
-  - Usar consultas e relatórios de inventário
+  #### Laboratório &#58; Estudo de caso 2A Aquisição e aprovisionamento
+  - Exercício #1 Criar, submeter, e aprovar uma requisição de compra
+  - Exercício #2 Criar, responder e aceitar um pedido de orçamento
+  - Exercício #3 Criar requisição de compra e políticas de compra
+  - Exercício #4 Criar uma ordem de compra para entrega em vários locais
+  - Exercício #5 Criar um código de encargos
+  - Exercício #6 Criar um grupo de encargos de vendedores e atribuir aos vendedores
+  - Exercício #7 Criar uma carga automática
+  - Exercício #8 Aprovar ordens de compra antes da confirmação
+  - Exercício #9 Criar acordos comerciais para vendedores
+  - Exercício #10 Criar uma ordem de compra com base num acordo comercial
+  
+  #### Laboratório &#58; Estudo de caso 2B Vendas e marketing
+  - Exercício #1 Entrar e confirmar a ordem de venda
+  - Exercício #2 Criar e rever uma ordem de venda para comissão
+  - Exercício #3 Criar um acordo comercial com o cliente
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar e gerir processos da cadeia de abastecimento
 
 
-  ### Módulo 4&#58; Criar produtos e mestres de produtos
-  O gerenciamento de informações do produto no Dynamics 365 for Finance and Operations é para a criação e manutenção de um Repositório de Produtos Corporativos. Ele suporta organizações maiores em uma abordagem estruturada e centralizada na criação e manutenção de dados mestre principais, como definições de produtos. Organizações menores que exigem uma abordagem mais descentralizada podem, com algumas restrições, criar e manter seus respectivos produtos enquanto seus produtos são automaticamente adicionados ao repositório de produtos compartilhados.
-
-  Este tópico explica como configurar produtos para processos de gerenciamento da cadeia de suprimentos no Finance and Operations.
+  ### Módulo 4&#58; Implementar gestão de armazém e gestão de transporte
+  Este módulo irá apresentar-lhe os seguintes tópicos&#58; Criar locais, armazéns, localizações, formatos de localização, perfis de localização, tipos de localização e zonas Implementar diretivas de localização Configurar estados de inventário, grupos de sequência de unidades, e hierarquias de reservas Implementar modelos de construção por ondas e trabalho, modelos Implementar modelos de construção por ondas Configurar menus de dispositivos móveis, itens de menu, e exibir configurações gerir processos de movimentação de stocks Executar contagem de ciclos Processo de entrada e saída de encomendas Processar envios Descrever o processo de reabastecimento cross-docking Introdução Configurar transportadoras e grupos de transportadoras Executar planeamento e execução de cargas e envios Configurar e gerar faturas e guias de frete Configurar planos de rota e guias Configurar motores de rota e taxas Configurar e utilizar marcação de docas
   #### Lições
-  - Introdução
-  - Criar produtos
-  - Criar mestres de produtos com variantes
-  - Criar e configurar atributos e hierarquias de categorias
-  - Configurar preços de itens
-  - Laboratórios práticos
-  - Resumo do módulo
+  - Configurar a gestão de armazéns
+  - Realizar processos de gestão de armazéns
+  - Implementar a gestão do transporte
 
-  Criar produtos como tipo de item e serviço
-  - Definir configurações padrão do pedido
-  - Criar mestres de produtos com variantes predefinidas
-  - Criar e configurar hierarquias de categorias
-  - Criar atributos do produto
+  #### Laboratório &#58; Estudo de caso 3 Gestão de armazéns e gestão de transportes
+  - Exercício #1 Configurar a gestão do armazém
+  - Exercício #2 Criar uma hierarquia de reservas
+  - Exercício #3 Criar códigos de disposição e diretivas de localização de entrada
+  - Exercício #4 Configurar dispositivos móveis
+  - Exercício #5 Configurar ordens de compra
+  - Exercício #6 Configurar o processamento de ondas
+  - Exercício #7 Configurar a contagem de ciclos
+  - Exercício #8 Definir contagem de ciclos
+  - Exercício #9 Definir um processo de contagem do ciclo de localização parcial
+  - Exercício #10 Transferir pedidos de e reabastecimentos
+  - Exercício #11 Configurar reabastecimento
+  - Exercício #12 Configurar o processamento de saída
+  - Exercício #13 Configurar a apanha de clusters
+  - Exercício #14 Configurar empacotamento manual
+  - Exercício #15 Configurar portadores
+  - Exercício #16 Configurar mestres de taxas
+  - Exercício #17 Definir planos de rota e guias de rota
+  - Exercício #18 Processar remessas de entrada
+  - Exercício #19 Processar envios de saída
+  - Exercício #20 Configurar a reconciliação de cargas
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar a gestão de armazém e gestão de transporte
 
 
-  ### Módulo 5&#58; Criar lista de materiais
-  Uma lista de materiais é uma lista abrangente de todos os componentes, peças, matérias-primas, montagens e suas quantidades necessárias para produzir um produto acabado.
-
-  Este módulo explica como criar listas técnicas e versões de listas técnicas usando o designer de listas técnicas no Finance and Operations.
+  ### Módulo 5&#58; Configurar e gerir o controlo de qualidade e a gestão da qualidade
+  Este módulo irá apresentar-lhe os seguintes tópicos&#58; Configurar controlo de qualidade Configurar gestão de qualidade Gerir encomendas de qualidade e quarentena Gerir bloqueio de inventário.
   #### Lições
-  - Introdução
-  - Usar designer de lista de materiais
-  - Laboratório prático
-  - Resumo do módulo
+  - Configurar o controlo de qualidade e gestão da qualidade
+  - Gerir o controlo de qualidade e gestão da qualidade
 
-  Criar listas de materiais e versões de listas de materiais usando o designer de listas técnicas
-
-  ### Módulo 6&#58; Configurar e executar o processo de compra e compra
-  Este tópico explica como configurar e executar o processo de compra e compra no Finance and Operations.
+  #### Laboratório &#58; Estudo de caso 4 Controlo de qualidade e gestão da qualidade
+  - Exercício #1 Ativar o processo de gestão da qualidade
+  - Exercício #2 Criar uma encomenda manual de qualidade com uma especificação
+  - Exercício #3 Definir condições para trabalhar com questões de não-conformidade
+  - Exercício #4 Utilizar uma ordem de não conformidade para reparar um artigo e uma máquina avariada
+  - Exercício #5 Executar relatórios de não-conformidade
+  
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar e gerir o controlo e a gestão da qualidade
+  
+  
+  ### Módulo 6&#58; Implementar planeamento principal
+  Este módulo irá apresentar-lhe os seguintes tópicos&#58; Diferenciar entre optimização de planeamento e planeamento principal Configurar grupos de cobertura e cobertura de itens Configurar parâmetros de planeamento principal, plano principal, planos de previsão e planos de continuidade Diferenciar entre mensagens de ação, mensagens de atraso, vedações de tempo, e dias negativos Processar e visualizar ordens planeadas Configurar e utilizar o formulário de Supply Schedule Configurar e processar revistas de stocks de segurança Configurar e implementar planeamento principal entre empresas Implementar previsão de base de procura Implementar optimização de planeamento.
   #### Lições
-  - Introdução
-  - Procurement and sourcing business scenario
-  - Criar fluxo de trabalho de requisições de compra
-  - Criar requisições de compra
-  - Criar pedidos de cotação
-  - Usar políticas de compras
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Aplicar os processos de compras e fornecimento em um cenário de negócios
-  - Usar políticas de compras
-  - Criar e manter fornecedores
-  - Criar requisições de compra
-  - Criar pedidos para cotações
-
-
-  ### Módulo 7&#58; Configurar colaborações de fornecedores
-  Este tópico explica como configurar colaborações de fornecedores no Finance and Operations.
-  #### Lições
-  - Introdução
-  - Configurar colaboradores do fornecedor
-  - Usar colaboração de fornecedor
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Configurar colaborações do fornecedor
-  - Trabalhar com o espaço de trabalho de colaboração do fornecedor
-  - Usar a colaboração do fornecedor como parte do processo de compra com pagamento
-
-
-  ### Módulo 8&#58; Configurar e executar o processo de compra para pagamento
-  O módulo Pedidos de Compra revisa o processo necessário para criar e gerenciar pedidos no Dynamics 365 for Finance and Operations. Uma empresa usa pedidos para registrar informações sobre os bens e serviços que estão comprando de vários fornecedores.
-  #### Lições
-  - Introdução
-  - Criar ordens de compra
-  - Usar o gerenciamento de alterações de ordens de compra
-  - Usar pedidos e chegada de itens
-  - Gerenciar entrega e cobranças acima e abaixo
-  - Criar devoluções de fornecedores
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Compreender a visão geral do cenário de compra a pagar
-  - Usar o gerenciamento de alterações de ordens de compra
-  - Criar uma Ordem de compra
-  - Usar chegadas de itens e visão geral de chegadas
-  - Gerar e lançar a fatura
-  - Criar o diário da fatura
-  - Gerar e lançar os pagamentos do fornecedor
-  - Criar devoluções de fornecedores
-
-
-  ### Módulo 9&#58; Configurar e usar acordos
-  Este tópico explica como configurar e usar o contrato no Finance and Operations.
-  #### Lições
-  - Introdução
-  - Manter acordos comerciais
-  - Criar contratos de vendas
-  - Criar contratos de compra
-  - Configurar subsídio comercial
-  - Configurar corretagem
-  - Configurar royalties
-  - Configurar descontos
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Manter acordos comerciais
-  - Configurar arredondamento inteligentes
-  - Criar contratos de vendas
-  - Usar políticas de compras
-  - Criar contratos de compra
-  - Configurar subsídio comercial
-  - Configurar corretagem
-  - Configurar royalties
-  - Configurar descontos
-
-
-  ### Módulo 10&#58; Configurar e usar o processo de pedido em dinheiro
-  Este tópico explica como configurar e usar o processo de pedido em dinheiro no Finance and Operations.
-  #### Lições
-  - Introdução
-  - Compreender o cenário de pedido em dinheiro
-  - Configurar e usar comissões
-  - Configurar pesquisas de clientes e item
-  - Criar e confirmar cotações e pedidos de vendas
-  - Configurar pedido promissor
-  - Configurar códigos de retenção de pedidos
-  - Imprimir e publicar listas de seleção
-  - Processar devoluções de clientes
-  - Laboratório Prático
-  - Resumo do módulo
-
-  Executar o processo de pedido em dinheiro
-  - Configurar e usar comissões
-  - Configurar pesquisas de clientes e item
-  - Criar e confirmar cotações de vendas
-  - Criar e confirmar pedidos de vendas
-  - Imprimir e publicar listas de seleção
-  - Gerar e lançar a fatura
-  - Configurar códigos de retenção de pedidos
-  - Processar devoluções de clientes
-
-
-  ### Módulo 11&#58; Configurar e usar processos de controle e gerenciamento da qualidade
-  Neste módulo, descrevemos como configurar e usar o controle de qualidade no Finance and Operations, como usar a funcionalidade de controle de qualidade, como definir e manter as não conformidades e como lidar com as correções.
-
-  Mas primeiro vamos nos familiarizar com os processos gerais de gerenciamento de qualidade.
-  #### Lições
-  - Introdução
-  - Executar controle de qualidade e processos de gerenciamento
-  - Aplicar bloqueio de inventário
-  - Executar o gerenciamento de quarentena
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Executar controle de qualidade e processos de gerenciamento de qualidade
-  - Aplicar bloqueio de inventário
-  - Executar o gerenciamento de quarentena
-
-
-  ### Módulo 12&#58; Configurar e usar relações comerciais entre empresas
-  A funcionalidade entre empresas no Dynamics 365 for Finance and Operations fornece um mecanismo para a consolidação de dados estáticos e dinâmicos de várias empresas como entidades legais separadas em um único banco de dados.
-
-  O comércio entre empresas permite que locais de fabricação, centros de distribuição e subsidiárias de vendas globalmente dispersos atuem como uma organização unificada.
-
-  Este tópico explica como configurar e usar as relações comerciais entre empresas e processar pedidos entre empresas no Finance and Operations.
-  #### Lições
-  - Introdução
-  - Entenda a negociação entre empresas
-  - Configurar relações comerciais entre empresas
-  - Processar pedidos em cadeia entre empresas
-  - Configurar acordos entre empresas e entregas diretas
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Configurar produtos para relações comerciais entre empresas
-  - Configurar relações comerciais entre empresas
-  - Configurar acordos entre empresas
-  - Processar pedidos entre empresas
-  - Processar entregas diretas entre empresas
-  - Processar cobranças entre empresas
-  - Entender a cadeia de ordem de devolução intercompanhia
-
-
-  ### Módulo 13&#58; Configurar e usar o planejamento mestre
-  Este tópico explica como configurar e usar o planejamento mestre no Finance and Operations.
-  #### Lições
-  - Introdução
-  - Considerações e configuração do planejamento mestre
-  - Criar planos mestre
-  - Aprender sobre previsões de demanda e oferta
-  - Configurar cobertura do item
-  - Breve introdução ao planejamento intercompanhia
-  - Executar planos e firmar pedidos planejados
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Definir políticas de planejamento mestre
-  - Aprender sobre previsões de demanda e oferta
-  - Configurar atrasos calculados
-  - Configurar cobertura do item
-  - Entender a breve introdução ao planejamento intercompanhia
-  - Executar planos e firmar pedidos planejados
-
-
-  ### Módulo 14&#58; Configurar Gerenciamento de Depósito
-  O módulo de gerenciamento de armazém do Dynamics 365 for Finance and Operations ajuda a gerenciar processos de armazém em empresas de manufatura, distribuição e varejo.
-
-  Possui uma ampla variedade de recursos para oferecer suporte às instalações do armazém em um nível ideal, a qualquer momento. O gerenciamento de armazém é totalmente integrado a outros processos de negócios em Finanças e Operações, como transporte, fabricação, controle de qualidade, compra, transferência, vendas e devoluções.
-  #### Lições
-  - Introdução
-  - Configurar gerenciamento de armazém
-  - Compreender hierarquias de reserva
-  - Diretivas de localização e modelos de trabalho
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Configurar parâmetros do gerenciamento de armazém
-  - Criar armazéns e locais
-  - Configurar pools de trabalho, zonas, formato de localização e perfis
-  - Criar hierarquias de reserva
-  - Configurar diretivas de localização
-  - Configurar ondas
-  - Configurar cargas
-  - Configurar status do inventário
-  - Configurar contagem de ciclos
-  - Configurar embalagem e conteinerização
-  - Configurar e gerar etiquetas
-
-
-  ### Módulo 15&#58; Configurar dispositivos móveis para gerenciamento de armazém
-  Este tópico explica como definir a configuração do dispositivo móvel para Gerenciamento de armazém no Finance and Operations.
-  #### Lições
-  - Introdução
-  - Configurar dispositivos móveis
-  - Laboratório Prático
-  - Resumo do módulo
-
-  Criar novas classes de trabalho
-  - Configurar dispositivos móveis
-  - Configurar itens de menu para atividades e consultas
-  - Configurar itens de menu para Criar trabalho para outro trabalhador ou processo
-  - Configurar itens de menu para processar o trabalho existente
-  - Definir o layout dos menus do dispositivo móvel
-  - Configurar a aparência básica dos dispositivos móveis
-  - Criar usuários de dispositivos móveis
-  - Configurar layouts de etiquetas e Definir configurações para imprimir etiquetas
-
-
-  ### Módulo 16&#58; Usar gerenciamento de depósito
-  Antes de poder usar o dispositivo móvel para gerenciamento de armazém, é necessário instalar o aplicativo. Este tópico explica como usar os processos de gerenciamento de armazém no Finance and Operations.
-  #### Lições
-  - Introdução
-  - Configurar dispositivo móvel
-  - Operações de entrada
-  - Contagem de ciclo
-  - Transferências e reabastecimento
-  - Operações de saída
-  - Seleção de cluster
-  - Embalagem e contentorização
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Operações de entrada
-  - Operações de saída
-  - Seleção de cluster
-  - Embalagem e contentorização
-  - Contagem de ciclo
-  - Transferências e reabastecimento
-
-
-  ### Módulo 17&#58; Configurar Gerenciamento de Transporte
-  Este módulo fornece uma visão geral da funcionalidade de gerenciamento de Transporte no Microsoft Dynamics 365 for Finance and Operations e ensina como configurar e usar o gerenciamento de Transporte.
-  #### Lições
-  - Introdução
-  - Planejamento e configuração do gerenciamento de transporte
-  - Procedimentos
-  - Fluxos de roteamento e transporte
-  - Motores de transporte e gerenciamento de frete
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Planejamento de transportes
-  - Roteamento
-  - Avaliação
-  - Operações de entrada
-  - Carregar processos
-  - Operações de saída
-
-
-  ### Módulo 18&#58; Conclusão do Curso
-  Avaliação final e resumo do curso, bem como uma pesquisa pós-curso.
-  #### Lições
-  - Avaliação final
-  - Resumo do curso
-  - Pesquisa pós-curso
-
-  Os você terão concluído o curso.
-
+  - Configurar o planeamento mestre e a previsão
+  - Executar planos diretores e gerir ordens planeadas
+  - Implementar características adicionais de planeamento principal
+  
+  #### Laboratório &#58; Estudo de caso 5 Planeamento mestre
+  - Exercício #1 Processar e ver ordens planeadas
+  - Exercício #2 Criar e executar planos diretores interempresariais
+  
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar o planeamento mestre
