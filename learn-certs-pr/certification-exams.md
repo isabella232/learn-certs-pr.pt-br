@@ -28,7 +28,7 @@ A página de detalhes de cada exame contém uma seção “Habilidades avaliadas
 
 #### Cursos ministrados por instrutor
 
-[Encontre treinamento em sala de aula e sob demanda sobre tecnologias Microsoft fornecidas pelo Microsoft Certified Trainers.](https://www.microsoft.com/learning/find-partner.aspx)
+[Encontre treinamento em sala de aula e sob demanda sobre tecnologias Microsoft fornecidas pelo Microsoft Certified Trainers.](/learn/certifications/partners)
 
 #### Explorar Treinamentos On-Line Gratuitos
 
@@ -185,7 +185,7 @@ Uma parte crítica do processo de desenvolvimento do exame é o exame beta. Ao r
 
 Os exames beta da Microsoft são oferecidos com 80% de desconto (requer código). Os candidatos que utilizarem o desconto de 80% para realizar o exame beta receberão um desconto de 25% em seu próximo exame após a conclusão da reavaliação, conforme descrito aqui: [Atualizações no programa de exames beta da Microsoft](/learn/certifications/posts/updates-on-microsoft-beta-exam-program). _Este desconto NÃO está geralmente disponível para todos os participantes beta. Se você pagar pelo exame beta usando qualquer outro método, não terá direito ao voucher de desconto de 25 %._
 
-Para obter o código, você pode ser membro de nosso banco de dados de perfis de PME ou na seção Anúncios, à esquerda de nossa [Página de políticas e perguntas frequentes sobre exames](/learn/certifications/certification-exam-policies). Os participantes qualificados do programa de banco de dados SME Profile recebem um código de desconto exclusivo para participar dos exames beta - aumentando a probabilidade de conseguir uma vaga no exame beta.
+Para obter o código, pode ser membro da nossa base de dados de Perfil de PME, ou pode obtê-lo a partir dos anúncios no [Blog de Aprendizagem Microsoft](https://aka.ms/learningblog). Os participantes qualificados do programa de banco de dados SME Profile recebem um código de desconto exclusivo para participar dos exames beta - aumentando a probabilidade de conseguir uma vaga no exame beta.
 
 O programa de banco de dados SME Profile agora está hospedado no [Microsoft Collaborate](https://aka.ms/collaborate). Veja o blog da comunidade [Ajude-nos a criar exames e conteúdo de aprendizado! Participe do nosso banco de dados de PME hoje!](/learn/certifications/posts/help-us-create-exams-and-learning-content) para obter instruções sobre como ingressar no programa no Collaborate.
 

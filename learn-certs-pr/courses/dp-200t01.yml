@@ -37,8 +37,18 @@ summary: |-
   #### Perfil do público
   Este curso destina-se principalmente a profissionais e arquitetos de dados e profissionais de Business Intelligence que desejam aprender sobre as tecnologias de plataforma de dados existentes no Microsoft Azure. Este curso também se destina desenvolvedores de aplicativos que fornecem conteúdo da plataforma de dados de tecnologias existentes no Microsoft Azure.
 prerequisitesSection: |-
-  Além de sua experiência profissional, os estudantes que participam desse treinamento devem ter conhecimento técnico equivalente aos seguintes cursos&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/pt-br/learn/modules/welcome-to-azure/)
+  Os estudantes bem sucedidos iniciam este curso com conhecimento dos conceitos de computação no cloud e experiência profissional com soluções de dados. 
+  
+  Especificamente&#58;
+  - Criação de recursos de cloud no Microsoft Azure
+  - Identificação de casos de utilização de grandes dados
+  - Compreender como os serviços de computação no cloud podem resolver as necessidades comerciais comuns 
+  
+  Para adquirir estas competências prévias, faça a seguinte formação online gratuita antes de frequentar o curso&#58;
+  - [Explorar os conceitos da Microsoft](/learn/paths/explore-microsoft-azure-cloud-concepts/)
+  - [Identificar tarefas de um engenheiro de dados](/learn/modules/data-engineering-processes/)
+  - [Serviços centrais de cloud - opções de Azure data storage](/learn/modules/intro-to-data-in-azure/)
+  - [Serviços centrais de cloud - Opções de Azure compute](/learn/modules/intro-to-azure-compute/)
 outlineSection: |-
   ### Módulo 1&#58; Azure para engenheiros de dados
   Este módulo aborda como o mundo dos dados evoluiu e como as tecnologias da plataforma de dados em nuvem estão oferecendo novas oportunidades para as empresas explorarem seus dados de maneiras diferentes. Os estudantes terão uma visão geral das várias tecnologias de plataforma de dados disponíveis e como a função e as responsabilidades de um engenheiro de dados evoluíram para trabalhar neste novo mundo em benefício de uma organização.

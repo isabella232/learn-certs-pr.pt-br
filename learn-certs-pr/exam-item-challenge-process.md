@@ -12,8 +12,6 @@ ms.prod: non-product-specific
 ---
 # Exam item challenge process
 
-## Polticas e acordos
-
 Os exames de certificação da Microsoft são projetados para garantir que os candidatos aprovados e obtenham nossas certificações demonstrem os níveis de proficiência exigidos nos domínios de habilidade. Cada pergunta do exame de certificação da Microsoft é cuidadosamente revisada por um painel de especialistas e técnicos da área e para precisão, clareza e relevância técnicas. Se você acredita que determinada questão de um Microsoft Certification Exam seja imprecisa, solicite uma avaliação da questão usando o formulário de contestação de item de exame, criado para ajudar a identificar e corrigir perguntas problemáticas. No entanto, mesmo que uma pergunta tenha sido formulada de maneira errônea, não podemos supor que você a teria respondido corretamente, portanto, a maioria dos exames não é salva. Nesses casos, oferecemos aos aprendizes a oportunidade de fazer novamente o exame gratuitamente.
 
 ### Critérios para aceitação de uma contestação de itens de exame:

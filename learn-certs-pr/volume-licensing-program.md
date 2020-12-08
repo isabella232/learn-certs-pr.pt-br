@@ -30,22 +30,25 @@ Ao consolidar a compra, orçamento e rastreamento dos produtos de treinamento e 
 
 * Microsoft Imagine Academy (para organizações qualificadas)
 
-  O programa de Microsoft Imagine Academy oferece um currículo de tecnologia de classe mundial, do século XXI para se manter atualizado sobre as mais recentes tecnologias Microsoft. Os educadores podem facilmente integrar planos de aula de tecnologia, e-learning, projetos de alunos e avaliações em currículos novos ou já existentes de alunos de todas as idades e níveis de experiência. Além disso, o programa Imagine Academy também oferece aos educadores e funcionários oportunidades de desenvolvimento profissional.
+  O programa Microsoft Imagine Academy (MSIA) é um benefício de competências que fornece cursos de tecnologia, recursos de ensino, e benefícios relacionados alinhados com a mão-de-obra/aptidões de carreira a pedido. Percursos de aprendizagem abrangentes e currículos preparam os estudantes para alcançar com sucesso a certificação e o emprego reconhecidos pela indústria. Os materiais didáticos incluem currículos para Microsoft Office Specialist, Microsoft Technology Associate, e preparação para a certificação Microsoft Fundamentals.
 
-  O Imagine Academy oferece o seguinte:
+  A Microsoft Imagine Academy oferece o seguinte:
 
-  * Acesso a cursos Microsoft Online Learning
-  * O Instructor Learning Management System (LMS) conduzido por instrutor para ajudar a rastrear e monitorar o progresso dos alunos
-  * Descontos em material oficial (disponível somente para instituições acadêmicas)
-  * Recursos de marketing para promover a associação com a marca Microsoft e certificações oficiais
+  * 30 vouchers de exame de certificação sem custos para o desenvolvimento profissional de educador/pessoal (MOS, MTA, Fundamentals, e MCE) Conforme acordo de VL (partilhado entre escolas)
+  * Pacotes de conteúdo do curso para cursos de produtividade (MOS) e cursos de nível básico de TI (MTA) - MOAC
+  * Guias de estudo de exame para MOS 2016 e MOS 2019/O365
+  * Desconto de 50% no programa MCT (Microsoft Certified Trainer)
+  * Acesso ao conteúdo oficial do Microsoft Courseware (MOC)
+  * Certificados de conclusão de curso personalizáveis
+  * 40% de desconto nos Livros de Imprensa da Microsoft 
 
-  O programa de educação pronto para a faculdade e a carreira está disponível para todas as instituições acadêmicas credenciadas como uma associação baseada em assinatura. Para participar do [programa Microsoft Imagine Academy](https://www.microsoft.com/en-us/education/imagine-academy/default.aspx), você deve cumprir certas [normas e requisitos](https://edudownloads.azureedge.net/msdownloads/Imagine_Academy_Program_Guide_10_languages.zip).
+  O acesso à Microsoft Imagine Academy (MSIA) está disponível mediante nova aquisição ou renovação de EES (Enrollment for Education Solutions), Escola, e OVS-ES (Open Value Subscription - Education Enrollment Subscriptions) como um programa de aquisição de licenças por volume de assinaturas, sem custo adicional.
 
 * Pacotes de exame de Microsoft Certification para instituições acadêmicas
 
-  Com as Microsoft Certifications, você pode validar as competências tecnológicas de seus alunos, ajudando-os a se diferenciar e melhorar as perspectivas de educação e de carreira. Além disso, você pode usar as Microsoft Certifications para apoiar suas metas de desenvolvimento profissional de professores e funcionários. Com uma assinatura no Microsoft Imagine Academy adicionada ao seu contrato de Microsoft Academic Volume Licensing, você tem uma solução de educação tecnológica completa.
+  Com as Microsoft Certifications, você pode validar as competências tecnológicas de seus alunos, ajudando-os a se diferenciar e melhorar as perspectivas de educação e de carreira. Além disso, você pode usar as Microsoft Certifications para apoiar suas metas de desenvolvimento profissional de professores e funcionários.
 
-  Você pode solicitar classes de exames e pacotes de site e treinamento para  exames que coloquem os alunos no caminho para obter uma Microsoft Certification, incluindo as certificações Microsoft Office Specialist (MOS), Microsoft Technology Associate (MTA) e Microsoft Certified Professional. Os pacotes de aulas e sites  de exames de certificação incluem um número específico de comprovantes de exames que você pode usar ao longo de um ano. Seja para uma escola secundária, faculdade de dois ou de quatro anos, você pode personalizar uma combinação de certificações para atender às suas necessidades específicas.
+  Pode encomendar aulas para exame e pacotes de site que colocam os estudantes no caminho para ganharem uma Certificação Microsoft - incluindo Microsoft Office Specialist (MOS), Microsoft Technology Associate (MTA), Fundamentals, e certificações Microsoft Certified Professional. Os pacotes de aulas e sites  de exames de certificação incluem um número específico de comprovantes de exames que você pode usar ao longo de um ano. Seja para uma escola secundária, faculdade de dois ou de quatro anos, você pode personalizar uma combinação de certificações para atender às suas necessidades específicas.
 
   | Produto de certificação | Descrição | Nº de vouchers de exame por site/pacote de aula|
   | --- | --- | --- |
@@ -53,32 +56,28 @@ Ao consolidar a compra, orçamento e rastreamento dos produtos de treinamento e 
   | MTA/MCE and MOS/MCE Site Pack | Pacotes de 125 exames que podem ser usados em conjunto com os exames MTA/MCE e MOS/MCE. Os exames MOS validam a compreensão geral e o profundo conhecimento das habilidades do Office necessárias para as empresas, diferenciando os alunos e melhorando suas chances de sucesso à medida que avançam no ensino superior ou ingressam na força de trabalho. Os exames MTA validam os principais conceitos de tecnologia em infraestrutura, banco de dados e desenvolvimento, ajudando os alunos a se prepararem para a educação tecnológica e/ou certificações mais avançadas. A certificação MTA pode ser obtida em um semestre e pode ser usada para demonstrar capacidade e compromisso para cargos de TI de nível inicial. O programa Microsoft Certified Educator (MCE) fornece ferramentas robustas que ajudam os educadores a promover a melhor integração da classe da tecnologia da informação e comunicação (TIC) nas instruções em sala de aula. Mapeado para o Quadro de Competências TIC da UNESCO para Educadores. | 125 |
   | Microsoft Certified Professional Class Pack | Os vouchers para exames Microsoft Certified Professional para obter as certificações Microsoft Certified Solutions Associate (MCSA), Microsoft Certified Solutions Expert (MCSE) ou Microsoft Certified Solutions Developer (MCSD). Estas certificações validam as habilidades que são cruciais para as carreiras atuais em TI. As certificações MCSA validam as principais habilidades na plataforma e as certificações MCSD e MCSE validam o profundo conhecimento necessário para projetar, criar e implementar soluções. | 30 |
 
-  Você pode solicitar sua associação anual ao Microsoft Imagine Academy e os pacotes de exames de Certificação Microsoft através dos seguintes programas de Microsoft Academic Volume Licensing:
+  Pode encomendar os seus pacotes de exames de Certificação Microsoft através dos seguintes programas de Licenciamento de Volume Académico Microsoft:
 
-  *  Enrollment for Education Solutions [Inscrição para Soluções Educacionais](EES)
-  *  School Enrollment [Inscrição na escola](sob um Contrato Campus e Escola)
-  * Select Plus for Academic [Selecione Plus para Academic]
-
-  Para obter mais informações, entre em contato com o seu  Academic Licensing Reseller [Revendedor de Licenciamento Acadêmico] ou visite a página [programas de Microsoft Licensing para indústrias](https://www.microsoft.com/licensing/licensing-options/for-industries.aspx).
+  EES (Enrollment for Education Solutions), Escola, e subscrições por volume de licenças de OVS-ES (Open Value Subscription - Assinaturas de Inscrição para Educação). Para mais informações, contacte o seu Revendedor de Licenciamento Académico ou visite a página [Programas de licenciamento da Microsoft para as indústrias](https://www.microsoft.com/licensing/licensing-options/for-industries.aspx).
 
   **Recursos adicionais de certificação acadêmica  de Licenciamento por Volume**
 
-  * [Microsoft Imagine Academy Program Benefits Guide](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [Microsoft Imagine Academy Program](https://www.microsoft.com/en-us/education/imagine-academy)
   * [Ficha de dados da Microsoft Certification para Instituições Acadêmicas](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
   * [Microsoft Imagine Academy Certification Roadmap](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
   * [Ficha de dados do pacote de exame de Microsoft Certification para Licenciamento por Volume Acadêmico](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * Recursos de e-learning adicionais de Licenciamento por Volume
 
-  Com as Microsoft Certifications, você pode validar as competências tecnológicas de seus alunos, ajudando-os a se diferenciar e melhorar as perspectivas de educação e de carreira. Além disso, você pode usar as Microsoft Certifications para apoiar suas metas de desenvolvimento profissional de professores e funcionários. Com uma assinatura no Microsoft Imagine Academy adicionada ao seu contrato de Microsoft Academic Volume Licensing, você tem uma solução de educação tecnológica completa.
+  Com as Microsoft Certifications, você pode validar as competências tecnológicas de seus alunos, ajudando-os a se diferenciar e melhorar as perspectivas de educação e de carreira. Além disso, você pode usar as Microsoft Certifications para apoiar suas metas de desenvolvimento profissional de professores e funcionários.
 
-  Você pode solicitar classes de exames e pacotes de site e treinamento para  exames que coloquem os alunos no caminho para obter uma Microsoft Certification, incluindo as certificações Microsoft Office Specialist (MOS), Microsoft Technology Associate (MTA) e Microsoft Certified Professional. Os pacotes de aulas e sites  de exames de certificação incluem um número específico de comprovantes de exames que você pode usar ao longo de um ano. Seja para uma escola secundária, faculdade de dois ou de quatro anos, você pode personalizar uma combinação de certificações para atender às suas necessidades específicas.
+  Pode encomendar aulas de exame e pacotes de site que colocam os estudantes no caminho para ganharem uma Certificação Microsoft - incluindo Microsoft Office Specialist (MOS), Microsoft Technology Associate (MTA), Fundamentals, e Microsoft Certified Professional certifications. Os pacotes de aulas e sites  de exames de certificação incluem um número específico de comprovantes de exames que você pode usar ao longo de um ano. Seja para uma escola secundária, faculdade de dois ou de quatro anos, você pode personalizar uma combinação de certificações para atender às suas necessidades específicas.
 
   A Microsoft não está mais oferecendo e-learning com Licenciamento por Volume. Os seguintes recursos são para clientes que ainda utilizam nosso conteúdo de e-learning de acordo com os contratos existentes. Eles foram criados para ajudá-lo a implementar, configurar e administrar sua compra de e-learning de Licenciamento por Volume.
 
   * [Guia do Gerente de Serviços Online de Licenciamento por Volume para Uso Online](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
   * [Guia do Usuário Final/Aluno de Licenciamento por Volume para Uso Online](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [Programa Microsoft Imagine Academy](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [Programa Microsoft Imagine Academy](https://www.microsoft.com/en-us/education/imagine-academy)
   * [Microsoft Certification para instituições acadêmicas](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
   * [Microsoft Imagine Academy Certification Roadmap](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
   * [Pacote de exame de Microsoft Certification para Licenciamento por Volume Acadêmico](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
@@ -169,10 +168,6 @@ Lembre-se de que é importante para a sua equipe obter experiência prática com
 **P: Quais opções de currículo estão disponíveis para se preparar para os exames incluídos no Microsoft Certified Professional (MCP) Class Pack, Microsoft Office Specialist (MOS) Site Pack e Microsoft Technology Associate (MTA) Site Pack?**
 
 Cada exame tem materiais de preparação disponíveis. Escolha o exame na [nova lista de exames](/learn/certifications/browse/?resource_type=examination) e localize as opções de preparação disponíveis para o exame.
-
-**P: É necessário que a minha instituição tenha um Microsoft Imagine Academy para solicitar um pacote de treinamentos ou de sites de exames de Microsoft Certification por meio do Licenciamento por Volume?**
-  
-Não. Qualquer um dos exames de Microsoft Certifications de um pacote de treinamentos ou de sites disponível para compra por meio do Licenciamento por Volume pode ser adquirido e resgatado por qualquer instituição credenciada.
 
 **P: Como o pacote de treinamento MCP é fornecido?**
 

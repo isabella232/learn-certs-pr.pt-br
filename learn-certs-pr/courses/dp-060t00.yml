@@ -26,8 +26,16 @@ summary: |-
   #### Perfil do público
   Este curso destina-se aos desenvolvedores de banco de dados que planejam migrar suas cargas de trabalho do MongoDB ou Cassandra DB para o Azure usando o Cosmos DB.
 prerequisitesSection: |-
-  Além de experiência profissional, os estudantes que fizerem esse curso devem ter o seguinte conhecimento técnico&#58;
-  - Os candidatos devem compreender os conceitos fundamentais de particionamento, replicação e governança de recurso para criar e configurar aplicações escaláveis que não dependem de uma API Cosmos DB.
+  Os estudantes bem sucedidos começam este papel com um conhecimento fundamental dos conceitos de computação no cloud e experiência profissional na configuração de aplicativos NoSQL.
+  
+  Especificamente&#58;
+  - Os conceitos fundamentais de partição, replicação, e gestão de recursos para construir e configurar aplicativos NoSQL escaláveis que são agnósticas ao Cosmos DB API. 
+  - Experiência com Azure, tais como a implementação e gestão de recursos
+  
+  Para adquirir estas competências, faça a seguinte formação online gratuita antes de frequentar o curso&#58;
+  - [Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals)
+  - [Serviços de cloud centrais – Azure compute options](/learn/modules/intro-to-azure-compute/)
+  - [Estudos de caso&#58; NoSQL databases and cloud object storage](/learn/modules/cmu-case-study-nosql-databases/)
 outlineSection: |-
   ### Módulo 1&#58; Criação de bancos de dados distribuídos a nível global com o Cosmos DB
   Este módulo descreve as vantagens e a arquitetura do banco de dados Cosmos DB.

@@ -8,19 +8,13 @@ displayName: MB-310
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame será atualizado em 16 de outubro de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame foi atualizado em 16 de Outubro de 2020. Por favor, faça download do documento de avaliação de competências abaixo para ver o que mudou.</strong><br/><br/></div>
   </div>
 
-  Os candidatos a este exame são consultores funcionais que analisam os requisitos de negócio e transformam esses requisitos em processos de negócio plenamente realizados e soluções que implementam as práticas recomendadas da indústria. Os candidatos atuam como um recurso fundamental na implementação e configuração de aplicativos para atender aos requisitos de negócios.
-  <br/>
+  Os candidatos a este exame são Consultores Funcionais que analisam os requisitos empresariais e traduzem esses requisitos em processos e soluções empresariais plenamente realizados que implementam as melhores práticas da indústria. Os candidatos servem como um recurso chave na implementação e configuração de candidaturas para satisfazer os requisitos empresariais.
 
-  Os candidatos a este exame têm uma compreensão fundamental dos princípios contábeis e operações financeiras de empresas, serviço ao cliente, serviço de campo, manufatura, varejo e conceitos de gestão da cadeia de fornecedores.
-  <br/>
-
-  Os candidatos a este exame geralmente se especializam em um ou mais conjuntos de recursos do Microsoft Dynamics 365 Finance, incluindo finanças, manufatura e gestão de cadeia de suprimentos.
-
-  Os candidatos devem ter conhecimentos de princípios e práticas contábeis básicas.
-subTitle: 'Este exame avalia a sua capacidade de realizar as seguintes tarefas técnicas: instalar e configurar gestão financeira, gerenciar e aplicar processos comuns, implementar e gerenciar contas a pagar e a receber e gerenciar orçamentos e ativos fixos.'
+  Os candidatos a este exame devem ter uma compreensão fundamental dos princípios contabilísticos e das operações financeiras das empresas, incluindo contas a pagar e contas a receber, impostos, princípios de custeio, ativos fixos, e orçamento.
+subTitle: 'Este exame mede a sua capacidade em realizar as seguintes tarefas técnicas: criar e configurar a gestão financeira; implementar e gerir contas a pagar e despesas; implementar contas a receber, crédito, cobranças e reconhecimento de receitas; e gerir o orçamento e os ativos fixos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHU
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-310&examname=Exam%20MB-310:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Financials&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-310
@@ -29,11 +23,11 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 16 de outubro de 2020. Baixe a descrição das habilidades do exame abaixo para saber o que pode mudar.
-- Instalar e configurar gestão financeira (35-40%)
-- Gerenciar e aplicar processos comuns (20-25%)
-- Implementar e gerenciar contas a pagar e a receber (20-25%)
-- Gerenciar orçamento e imobilizados (15-20%)
+- O conteúdo deste exame foi atualizado em 16 de Outubro de 2020. Por favor, faça download do esquema de competências do exame abaixo para ver o que mudou.
+- Criar e configurar a gestão financeira (50-55%)
+- Implementar e gerir as contas a pagar e as despesas (10-15%)
+- Implementar contas a receber, crédito, cobranças e reconhecimento de receitas (20-25%)
+- Gerir orçamento e os ativos fixos (10-15%)
 roles:
 - functional-consultant
 products:
@@ -57,7 +51,7 @@ relatedCertifications:
 resources:
 - title: Certificação Caminho de Aprendizagem
   description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRF
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56Y
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

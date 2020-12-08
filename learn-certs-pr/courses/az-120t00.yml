@@ -6,12 +6,12 @@ metadata:
 uid: course.az-120t00
 courseNumber: 'AZ-120T00-A'
 hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Migrar SAP HANA, S/4HANA, SAP NetWeaver para Azure
 - skill: Uso do Portal do Azure, Cloud Shell, Azure PowerShell, CLI e gerenciador de recursos
 - skill: Uso de recursos de conectividade entre sites, incluindo o emparelhamento de VNet e conexões VNet a VNet
 - skill: Trabalhar com Azure Active Directory (AAD) e Azure AD Connect
-iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -31,17 +31,31 @@ summary: |-
 
   Este curso destina-se a administradores do Azure que migram e gerenciam soluções SAP no Azure. Os administradores do Azure gerenciam os serviços em nuvem que abrangem os recursos de armazenamento, rede e computação em nuvem, com um entendimento profundo de cada serviço em todo o ciclo de vida de TI. Eles recebem solicitações do usuário final para novos aplicativos em nuvem e fazem recomendações sobre os serviços a serem usados para obter desempenho e escala ideais, além de fornecê-los, dimensioná-los, monitorá-los e ajustá-los conforme apropriado. Essa função requer comunicação e coordenação com os fornecedores. Os administradores do Azure usam o Portal do Azure e, à medida que se tornam mais proficientes, usam o PowerShell e a interface de linha de comandos.
 prerequisitesSection: |-
-  - Os administradores e arquitetos das soluções do Azure para SAP devem possuir sólidos conhecimentos de aplicativos SAP, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW, servidores de OS para aplicativos e bancos de dados do SAP.
-  - Antes de fazer este curso, recomenda-se que os estudantes participem do curso Azure Administrator (AZ-103) ou Azure Solutions Architect (AZ-300), além do treinamento em SAP HANA e Linux.
+  Os estudantes devem possuir um conhecimento sólido sobre a implementação, migração e administração de Aplicativos SAP com experiência prévia em sistemas operativos Linux, virtualização, infra-estrutura de cloud, estruturas de armazenamento, e redes. Especificamente&#58;
+
+  Experiência Pré-requisitada&#58;
+
+  - Experiência prática com soluções Azure IaaS e PaaS, incluindo VM, VNet, Load Balancers, Storage (Blob, Ficheiros, Discos).
+  - Compreensão das tecnologias de virtualização on-premises e de cloud, incluindo&#58; VMs, redes virtuais, e discos rígidos virtuais.
+  - Compreensão da configuração de redes, incluindo TCP/IP, Domain Name System (DNS), redes privadas virtuais (VPNs), firewalls, e tecnologias de encriptação. 
+  - Compreensão dos conceitos de Active Directory
+  - Experiência com ambientes Linux/Unix. 
+  - Sólidos conhecimentos de Aplicativos SAP, SAP HANA, S/4HANA, SAP NetWeaver, SAP BW, Servidores OS para Aplicativos SAP e Bases de Dados.
+  - Compreensão da implementação e configuração de SAP HANA. 
+  - Experiência prática com a administração de SAP HANA 
+  Cursos Pré-requisitos (ou conhecimentos equivalentes e experiência prática)&#58;
+  - AZ-900 Azure Fundamentals 
+  - AZ-104 Azure Administrator
 outlineSection: |-
-  ### Módulo 1&#58; Introdução
-  Contém uma visão geral da parceria entre o SAP e a Microsoft.
-
-  ### Módulo 2&#58; Fundamentos do SAP no Azure
-
-  Contém breves lições sobre computação, armazenamento e redes do Azure, SAP HANA para Azure (instâncias grandes), serviços de identidade, governança e capacidade de gerenciamento, serviços de backup e proteção de dados e serviços de migração.
+  ### Módulo 1&#58; Introdução ao Azure para cargas de trabalho SAP
   
-  ### Módulo 3&#58; Ofertas SAP certificadas no Azure
+  Os estudantes aprenderão sobre a parceria entre a Microsoft e a SAP, explorarão uma visão geral da carga de trabalho do Azure para SAP, e aprenderão termos e significados comuns.
+
+  ### Módulo 2&#58; Fundamentos do Azure para as cargas de trabalho do SAP
+  
+  Contém lições sobre computação Azure, armazenamento Azure, redes Azure, serviços de identidade, e Governação e capacidade de gestão.
+
+  ### Módulo 3&#58; ofertas certificadas SAP sobre o Azure
 
   Contém lições sobre pré-requisitos gerais (suporte da SAP em ambientes de nuvem pública), opções de implementação das cargas de trabalho do Azure para SAP, suporte específico do produto SAP para o Azure, suporte de sistema operacional das cargas de trabalho do Azure para SAP, suporte de armazenamento das cargas de trabalho do Azure para SAP, suporte de rede para SAP, suporte de banco de dados para SAP, suporte de alta disponibilidade e recuperação de desastres e requisitos de monitoramento para SAP.
 
@@ -49,17 +63,13 @@ outlineSection: |-
 
   #### Laboratório &#58; Laboratório online; Implementação de clustering do Windows em VMs do Azure
 
-  ### Módulo 4&#58; Arquitetura de referência do SAP no Azure
-
-  Contém lições sobre o SAP NetWeaver com AnyDB, SAP S4 HANA e SAP HANA no Azure (instâncias grandes) nas VMs do Azure.
-
-  ### Módulo 4&#58; Arquitetura de referência do SAP no Azure
-
-  Contém lições sobre o SAP NetWeaver com AnyDB, SAP S4 HANA e SAP HANA no Azure (instâncias grandes) nas VMs do Azure.
+  ### Módulo 4&#58; Azure para arquitetura de referência de cargas de trabalho SAP
+  
+  Contém lições sobre SAP NetWeaver com AnyDB em VMs Azure, e SAP S4 HANA em VMs Azure.
 
   ### Módulo 5&#58; Planejamento da implementação de soluções SAP no Azure
     
-  Contém lições sobre considerações de computação, rede e armazenamento de VMs do Azure. Além da alta disponibilidade e recuperação de desastres de VM do Azure, inclui considerações de backup, monitoramento e segurança e autenticação de VM do Azure e considerações de controle de acesso.
+  Contém lições sobre computação, rede, e considerações de armazenamento do Azure VM, considerações de alta disponibilidade e recuperação de desastres do Azure VM, considerações de backup do Azure VM, considerações de monitorização do Azure VM, considerações de segurança do Azure VM, considerações de autenticação e controlo de acesso do Azure VM, e considerações de licenciamento, preço, e suporte do Azure VM.
 
   ### Módulo 6&#58; Planejamento da migração de cargas de trabalho do SAP para o Azure
     
@@ -67,25 +77,24 @@ outlineSection: |-
 
   ### Módulo 7&#58; Implementação de soluções SAP baseadas em VM do Azure
     
-  Contém lições sobre metodologias de implementação de VM do Azure, implementações de instância única (nível 2 ou 3), implementação do HA SAP NetWeaver com AnyDB nas VMs do Azure, implementação do HA SAP HANA nas VMs do Azure, configuração da extensão de monitoramento avançado do Azure para SAP e implementação de autenticação baseada em AD e Azure AD.
+  Contém lições sobre metodologias de implementação de VM Azure, implementações de uma única instalação (2 e 3 níveis), implementação de HA SAP NetWeaver com AnyDB em VM Azure, implementação de HA SAP HANA em VM Azure, configuração de extensão de monitorização Azure Enhanced Monitoring Extension para SAP, e implementação de autenticação baseada em AD e Azure AD.
 
-  ### Módulo 8&#58; Implementação de HANA de instâncias grandes (HLI)
+  #### Laboratório&#58; Online Laboratório&#58; Implementando a arquitetura SAP em VMs do Azure executando Linux
+
+  #### Laboratório&#58; Online Laboratório&#58; Implementando a arquitetura SAP em VMs do Azure a correr Windows
+
+  ### Módulo 8&#58; SAP HANA em Azure (Large Instances) (HLI)
     
-  Contém uma lição sobre a implementação de HANA de instâncias grandes (HLI).
-
-  ### Módulo 9&#58; Migração de cargas de trabalho do SAP para o Azure
+  Contém lições sobre os fundamentos do SAP HANA no Azure (Large Instances) (HLI), ofertas certificadas de HLI, arquitetura de amostras HLI, considerações de planeamento HLI, alta disponibilidade HLI e planeamento de recuperação de desastres HLI, considerações de apoio HLI, considerações de segurança HLI, licenciamento e apoio HLI, implementação e implementação de HLI, gestão de HLI, e monitorização e resolução de problemas HLI.
+  
+  ### Módulo 9&#58; Migração de cargas de trabalho SAP para Azure
     
-  Contém lições sobre opções de migração, metodologias DMO, opções de migração na nuvem e migração de banco de dados em lotes grandes para o Azure.
-
-  #### Laboratório &#58; Laboratório online - Implementação de arquitetura do SAP em VMs do Azure rodando Linux
-
-  #### Laboratório &#58; Laboratório online - Implementação de arquitetura do SAP em VMs do Azure rodando Windows
-
-  ### Módulo 10&#58; Manutenção do SAP no Azure
-    
-  Contém lições sobre gerenciamento remoto, execução de backups e recuperações, atualizações de sistema operacional e carga de trabalho, dimensionamento vertical e horizontal e recuperação de desastres (DR).
-
-  ### Módulo 11&#58; Monitoramento e diagnóstico de problemas de SAP no Azure
-    
-  Contém lições sobre o monitoramento de VMs do Azure, monitoramento do SAP HANA no Azure (instâncias grandes) e a integração de soluções SAP com os serviços de nuvem da Microsoft.
-
+  Contém lições sobre opções de migração, metodologia DMO, opções de migração de cloud, e migração de bases de dados muito grandes para Azure. 
+  
+  ### Módulo 10&#58; Manutenção do Azure para cargas de trabalho SAP
+  
+  Contém lições sobre gestão remota, realização de backups e restauros, alterações de rede, actualizações de SO e carga de trabalho, escalas verticais e horizontais, e recuperação de desastres.
+  
+  ### Módulo 11&#58; Monitorização e resolução de problemas Azure para cargas de trabalho SAP
+  
+  Contém lições sobre monitorização e resolução de problemas de VMs no Azure, e levantamento de pedidos de apoio.

@@ -12,7 +12,7 @@ summary: |-
 
   Os candidatos implementam o design fornecido por um arquiteto de soluções ou em colaboração com este e os padrões, identidade visual e artefatos estabelecidos pelos designers de experiência do usuário. Eles projetam integrações para fornecer integração perfeita com aplicativos e serviços de terceiros.
 
-  Os candidatos colaboram de maneira efetiva com os membros da equipe de garantia de qualidade para garantir que as soluções atendam aos requisitos funcionais e não funcionais. Eles identificam, geram e fornecem artefatos para embalagem e implantação aos engenheiros da DevOps e fornecem treinamento de operações e manutenção aos administradores da Power Platform.
+  Os Consultores Funcionais da Plataforma Power devem estar familiarizados com os aplicativos orientados por modelos Dynamics 365 e devem ter experiência na utilização dos componentes da Plataforma Power para alargar e personalizar as aplicativos orientadas por modelos Dynamics 365.
 
   <div><strong><br/>Os exames beta não são pontuados imediatamente, pois estamos coletando dados sobre a qualidade das questões e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</strong></div>
 subTitle: 'Este exame avalia sua capacidade de completar as seguintes tarefas: configurar o Common Data Service, criar aplicativos com Power Apps, criar e gerenciar o Power Automate, implementar assistentes virtuais com o Power Virtual Agents e integrar o Power Apps com outros aplicativos e serviços.'
@@ -42,6 +42,8 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+courses:
+- uid: course.pl-200t00
 paths:
 - uid: learn-dynamics.get-started-using-common-data-service
 - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
@@ -60,6 +62,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate
 resources:
+- title: Certificação Caminho de Aprendizagem
+  description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GP08
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

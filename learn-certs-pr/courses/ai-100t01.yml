@@ -30,10 +30,20 @@ summary: |-
   #### Perfil do público
   Este curso destina-se a arquitetos de soluções em nuvem, designers de inteligência artificial do Azure e desenvolvedores de IA.
 prerequisitesSection: |-
-  Antes de participar deste curso, os estudantes devem&#58;
-  - Conhecer os fundamentos do Azure
-  - Ter compreensão das tecnologias de armazenamento do Azure
-  - Ter experiência em C#
+  Engenheiros AI do Azure bem sucedidos começam este papel com experiência profissional com tecnologias de cloud, e experiência com kits de desenvolvimento de software.  
+  
+  Especificamente&#58;
+  - Implementação de soluções em C# ou Python
+  - Desenvolvimento de aplicativos no cloud
+  - Compreender as tecnologias de armazenamento no Azure  
+
+  Para adquirir estas competências prévias, faça a seguinte formação online gratuita antes de frequentar o curso&#58;
+  - [Explore os conceitos de cloud do Microsoft Azure](/learn/paths/explore-microsoft-azure-cloud-concepts/)
+  - [Dê seus primeiros passos com C#](/learn/paths/csharp-first-steps/) or [Dê seus primeiros passos com Python](/learn/paths/python-first-steps/)
+  - [Serviços Centrais de Cloud – Introdução ao Azure](/learn/modules/welcome-to-azure/)
+  - [Serviços Centrais de Cloud – Opções de Azure compute](/learn/modules/intro-to-azure-compute/)
+
+  Se é completamente novo aos serviços de AI Azure, por favor complete primeiro [Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals).
 outlineSection: |-
   ### Módulo 1&#58; Apresentação dos Serviços Cognitivos do Azure
   O estudante aprenderá sobre os Serviços Cognitivos disponíveis no Microsoft Azure e seu papel na arquitetura de soluções de IA.
@@ -65,7 +75,6 @@ outlineSection: |-
   - Introdução ao reconhecimento de voz
   - Criação de um novo serviço LUIS
   - Construção de LUIS
-
 
   ### Módulo 5&#58; Aprimoramento de Bots com LUIS
   O estudante aprenderá sobre a integração do LUIS com um Bot para entender melhor as intenções dos usuários ao interagir com o Bot.
