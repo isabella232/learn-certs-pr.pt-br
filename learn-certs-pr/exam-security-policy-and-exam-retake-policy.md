@@ -14,10 +14,6 @@ ms.prod: non-product-specific
 
 A Microsoft conta com políticas específicas que abrangem áreas da segurança pertinentes aos exames Microsoft Exame de Certificação.
 
-### Expiração e Recertificações da Certificação
-
-As certificações com base em funções e especiais da Microsoft so atualmente válidas por dois anos a partir da data em que as certificações so obtidas. Devido à pandemia de COVID-19 e seu impacto sobre indivíduos e empresas, fornecemos extensões para indivíduos cujas certificações estavam inicialmente programadas para expirar antes de 31 de dezembro de 2020. Continuaremos acompanhando a situação da COVID-19. Se necessário, notificaremos e daremos mais tempo aos estudantes cujas certificações estejam expirando. No momento, nenhuma ação exigida de sua parte para garantir que suas certificações permaneçaam válidas. Continuaremos a informá-lo sobre a situação e as mudanças. Mantenha-se informado sobre as futuras atualizações do programa e requisitos para recertificação, inscrevendo-se no [blog do Microsoft Learn](https://aka.ms/learningblog).
-
 ## Candidatos banidos
 
 Se um candidato violar qualquer regra, política de exame ou termo do exame sob o contrato de exame (NDA) ou se envolver em qualquer conduta imprópria que, de qualquer maneira, diminua a segurança e a integridade do Programa de Certificação Microsoft, o candidato poderá ser permanentemente proibido de realizar quaisquer exames futuros de Certificação Microsoft. Além disso, o candidato poderá ter o certificado do Programa de Certificação Microsoft cancelado e as pontuações do teste e as certificações poderão ser revogadas.
