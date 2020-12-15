@@ -34,8 +34,11 @@ ms.author: micsullivan
 ### Sobre o Programa de Certificação Microsoft
 1. [O que é o Programa de Certificação Microsoft?](#c1)
 
+### Sobre a renovação da certificação
+1. [Como faço para renovar minha Certificação Microsoft ou mantê-la atualizada?](#d1)
+
 ### Entre em contato com o suporte
-1. [Como faço para contatar o suporte do Programa de Certificação Microsoft?](#d1)
+1. [Como faço para contatar o suporte do Programa de Certificação Microsoft?](#e1)
 
 <br/>
 
@@ -147,8 +150,16 @@ Para manter sua conta ativa, acesse seu perfil de Certificação Microsoft uma v
 
 <br/>
 
+## Sobre a renovação da certificação
+
+**P: Como faço para renovar minha Certificação Microsoft ou mantê-la atualizada?**<a name="d1"></a>
+
+**R:** Para obter informações sobre como manter suas Certificações Microsoft atualizadas, visite a [página Como renovar sua Certificação Microsoft](/learn/certifications/renew-your-microsoft-certification).
+
+<br/>
+
 ## Entre em contato com o suporte
 
-**P: Como faço para acessar o meu suporte de Certificação Microsoft?**<a name="d1"></a>
+**P: Como faço para acessar o meu suporte de Certificação Microsoft?**<a name="e1"></a>
 
 **R:** Se precisar de ajuda com o seu perfil de Certificação Microsoft, para visualizar seu relatório de pontuação, acessar suas realizações ou se precisar de outra ajuda com o programa, entre em contato com [Certification Support](https://aka.ms/mcpforum). O moderador do fórum responderá a você em até 24 horas úteis.
