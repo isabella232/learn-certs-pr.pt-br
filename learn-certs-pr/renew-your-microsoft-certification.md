@@ -30,7 +30,7 @@ Confira o seguinte roteiro (sujeito a alterações) conforme lançamos inicialme
 | Microsoft Certified: Azure Developer Associate |
 | Microsoft Certified: Azure Security Engineer Associate |
 | Microsoft Certified: DevOps Engineer Expert |
-| Microsoft Certified: Azure Solutions Architect Associate |
+| Microsoft Certified: Azure Solutions Architect Expert |
 | Microsoft Certified: Azure for SAP Workloads Specialty |
 | Microsoft Certified: Azure IoT Developer Specialty |
 | Microsoft Certified: Azure Data Scientist Associate |
