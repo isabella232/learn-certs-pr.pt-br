@@ -52,7 +52,7 @@ A inscrição no curso estará disponível em inglês apenas no início. Learnin
 			<td>
 				<ul>
 					<li>Consulte as perguntas <a href="/learn/certifications/training-faq">frequentes</a>.</li>
-					<li>Se você não encontrar uma resposta para sua pergunta, poste-a no <a href="https://trainingsupport.microsoft.com/iltvilt/forum">fórum de suporte para agendamento do curso ministrado por instrutor do Learning Partner no Learn</a>.
+					<li>Se você não encontrar uma resposta para sua pergunta, poste-a no <a href="https://trainingsupport.microsoft.com/en-us/iltvilt/forum">fórum de suporte para agendamento do curso ministrado por instrutor do Learning Partner no Learn</a>.
 </li>
 				</ul>
             </td>

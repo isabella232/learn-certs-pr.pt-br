@@ -12,6 +12,8 @@ summary: |-
   </div>
 
   O Azure Data Scientists aplica seus conhecimentos de ciência de dados e aprendizado de máquina para implementar e executar cargas de trabalho de aprendizado de máquina no Azure; em particular, usando o Serviço de Aprendizado de Máquina do Azure. Isso envolve o planejamento e a criação de um ambiente de trabalho adequado para cargas de trabalho de ciência de dados no Azure, executando experimentos de dados e treinando modelos preditivos, gerenciando e otimizando modelos e implantando modelos de aprendizado de máquina na produção.
+
+  Você pode se qualificar para o crédito ACE de faculdade se passar neste exame de certificação. Consulte [ACE crédito de faculdade para exames de certificação](/learn/certifications/ace-credit-for-certification-exams) para obter detalhes.
 subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: configurar um espaço de trabalho do Azure Machine Learning; executar experimentos e treinar modelos; otimizar e gerenciar modelos; e implantar e consumir modelos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjA

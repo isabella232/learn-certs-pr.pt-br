@@ -17,6 +17,8 @@ summary: |-
   Os candidatos são os principais responsáveis por configurar o sistema para atender às necessidades do cliente, executar tarefas de design relacionadas à implementação de novos recursos e funcionalidades e implementar e testar alterações no sistema.
 
   Os candidatos planejam o design funcional de soluções, implementam um processo de gerenciamento do ciclo de vida de aplicativos (ALM), migram dados e objetos de sistemas legados e externos, integram a Power Platform com outros sistemas e gerenciam o ambiente da Power Platform.
+
+  <div><strong><br/>Sendo que este exame será removido em 31 de dezembro de 2020, a Microsoft não atualizará as referências de “Common Data Service” para “Microsoft Dataverse”.</strong></div>
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: realizar descobertas, planejamento e análise, gerenciar projetos de experiência do usuário, gerenciar entidades e dados, implementar a segurança, implementar a integração e executar soluções de implementação e testes.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb

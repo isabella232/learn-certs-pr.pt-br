@@ -57,6 +57,8 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
 	- Habilidades de treinamento básico da Microsoft
     - New Horizons Instructional Skills Certification
     - PrepMasters USA
+    - Modern Classroom Certified Trainer (MCCT®)
+    - Certified Virtual Educator
   
   OU<br/><br/>
 

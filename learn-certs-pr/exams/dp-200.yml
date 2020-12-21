@@ -8,14 +8,14 @@ displayName: DP-200
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame será atualizado a 24 de Novembro de 2020. Por favor, faça download do documento de avaliação de competências abaixo para ver o que vai mudar.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Baixe o documento de competências avaliadas abaixo para ver as alterações.</strong><br/><br/></div>
   </div>
 
   Os candidatos a este exame são engenheiros de dados do Microsoft Azure que colaboram com as partes interessadas da empresa para identificar e atender aos requisitos de dados que visam implementar soluções de dados que usam os serviços de dados do Azure.
 
   Os engenheiros de dados do Azure são responsáveis por implementar tarefas relacionadas aos dados que incluem provisionamento de serviços de armazenamento de dados, importação de dados de streaming e em lotes, transformação de dados, implementação de requisitos de segurança, implementação de políticas de retenção de dados, identificação de gargalos de desempenho e acesso a fontes de dados externas.
 
-  Os candidatos a este exame devem ser capazes de implementar soluções de dados com o uso dos seguintes serviços do Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics (anteriormente Azure SQL DW), Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks e Azure Blob storage.
+  Os candidatos a este exame devem ser capazes de implementar soluções de dados que utilizem os seguintes serviços do Azure&#58; Azure Cosmos DB, Azure Synapse Analytics (anteriormente Azure SQL DW), Azure Data Factory, Azure Stream Analytics, Azure Databricks, e Azure Blob storage.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: implementar soluções de armazenamento de dados, gerenciar e desenvolver processamento de dados e monitorar e otimizar soluções de dados.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
@@ -29,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado no dia 24 de Novembro de 2020. Por favor, faça download do esboço das competências do exame abaixo para ver o que irá mudar.
+- O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Faça o download do esboço das ompetências ao exame abaixo para ver as alterações.
 - Implementar soluções de armazenamento de dados (40-45%)
 - Gerenciar e desenvolver processamento de dados (25-30%)
 - Monitorar e otimizar soluções de dados (30-35%)
