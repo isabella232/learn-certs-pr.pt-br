@@ -7,16 +7,14 @@ uid: exam.ms-700
 displayName: MS-700
 summary: |-
   <div><div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div><strong>O conteúdo deste exame será atualizado a 24 de Novembro de 2020. Por favor, faça download do documento de avaliação de competências abaixo para ver o que vai mudar.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Baixe o documento de competências avaliadas abaixo para ver as alterações.</strong><br/><br/></div>
   </div>
 
-  Os candidatos a este exame são Administradores de Equipes Microsoft em suas organizações. O Microsoft Teams Administrator configura, implementa e gerencia cargas de trabalho do Office 365 para o Microsoft Teams visando a colaboração e comunicação eficiente e efetiva em um ambiente empresarial.
+  O Microsoft Teams Administrator configura, implementa e gerencia cargas de trabalho do Office 365 para o Microsoft Teams visando a colaboração e comunicação eficiente e efetiva em um ambiente empresarial.
 
-  O Teams Administrator deve ser capaz de planejar, implantar e gerenciar Teams de chat, aplicativos, canais, reuniões, audioconferência, eventos ao vivo e chamadas. O Teams Administrator também é responsável por atualizar a partir do Skype for Business para o Teams.
+  O Teams Administrator deve ser capaz de planejar, implantar e gerenciar Teams de chat, aplicativos, canais, reuniões, audioconferência, eventos ao vivo e chamadas. O Teams Administrator também é responsável por atualizar a partir do Skype for Business para o Teams. Os candidatos a este exame devem ser proficientes no administração configurações de Teams usando o PowerShell. O Teams Administrator tem uma compreensão fundamental dos pontos de integração com aplicativos e serviços, incluindo, mas não se limitando a SharePoint, OneDrive, Exchange, Azure AD e Grupos Office 365. O Teams Administrator entende como integrar aplicativos e serviços externos.
 
   O Administrador de Equipes colabora com engenheiros de telefonia para integrar recursos avançados de voz em Microsoft Teams. Esta função não é responsável por configurar roteamento direto, configurar roteamento de chamada ou integração de telefonia. O Teams Administrator pode trabalhar com outras funções de administrador de carga de trabalho, incluindo segurança e conformidade, mensagens, redes, identidade e dispositivos.
-
-  Os candidatos a exame devem ser proficientes no gerenciamento das definições do Teams usando o PowerShell. O Teams Administrator tem uma compreensão fundamental dos pontos de integração com aplicativos e serviços, incluindo, mas não limitado ao SharePoint, OneDrive for Business, Exchange, Azure AD, e Office 365 Groups. O Teams Administrator compreender como integrar aplicativos e serviços externos.
 subTitle: 'Este teste mede a sua capacidade de realizar as seguintes tarefas técnicas: planejar e configurar um ambiente Microsoft Teams; administrar  chat, chamadas e reuniões; e gerenciar Equipes e políticas de aplicativos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcF
@@ -31,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado no dia 24 de Novembro de 2020. Por favor, faça download do esboço das competências do exame abaixo para ver o que irá mudar.
+- O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Faça o download do esboço das competências ao exame abaixo para ver as alterações.
 - Planejar e configurar um ámbiente do Microsoft Teams (45-50%)
 - Administrar chat, chamadas e reuniões (30-35%)
 - Gerenciar Equipes e políticas de aplicativos (20-25%)

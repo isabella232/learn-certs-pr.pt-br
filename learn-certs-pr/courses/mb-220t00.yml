@@ -32,126 +32,106 @@ summary: |-
   Este curso revisará a configuração do aplicativo de marketing necessária para impulsionar o crescimento empresarial. Ele também abordará o gerenciamento de leads, formulários e páginas de marketing, segmentação e mensagens de marketing por email. Todas essas peças são unidas por meio do design interativo da jornada do cliente, incluindo a configuração de eventos e pesquisas.
 
   #### Perfil do público
-  Este curso foi desenvolvido para profissionais de TI ou de marketing que desejam aprender a aproveitar o Dynamics 365 for Marketing para empresas.
+  Este curso foi desenvolvido para profissionais de IT ou marketing que desejam aprender como aproveitar o Dynamics 365 Marketing para empresas.
 prerequisitesSection: |-
   Conhecimento da plataforma Dynamics 365 e entendimento dos princípios básicos de marketing.
 outlineSection: |-
-  ### Módulo 1&#58; Configuração de aplicativos de marketing
+  ### Módulo  1&#58; Configurar o Dynamics 365 for Marketing
   Neste módulo, você aprenderá sobre configurações avançadas, conteúdo de marketing, modelos e integrações no Dynamics 365 for Marketing.
   #### Lições
-  - Definir configuração avançada
-  - Gerenciar conteúdo e modelos de marketing
-  - Gerenciar integrações do LinkedIn e do Power BI
+  - Definir configurações de organização e administração
+  - Definir configurações de marketing
+  - Definir configurações de eventos
 
-  Depois de completar este módulo, os você estarão aptos a&#58;
-  - Definir configurações avançadas como organização, gerenciamento de negócios e conteúdo.
+  Após concluir este módulo, você será capaz de&#58;
+  - Definir configurações avançadas como organização, administração comercial e conteúdo.
   - Gerenciar conteúdo e modelos de marketing.
-
-
-  ### Módulo 2&#58; Leads
-  Este módulo analisará como criar, gerenciar e pontuar leads.
-  #### Lições
-  - Criar e gerenciar leads
-  - Avaliar a prontidão das vendas
-
-  Depois de completar este módulo, os você estarão aptos a&#58;
-  - Criar e gerenciar leads.
-  - Sincronizar leads do LinkedIn.
-  - Avaliar a prontidão de vendas usando modelos de pontuação de leads.
-
-
-  ### Módulo 3&#58; Formulários e páginas de marketing
-  Este módulo abordará como criar formulários e páginas de marketing.
-  #### Lições
-  - Criar formulários de marketing
-  - Criar páginas de marketing
-  - Gerenciar marketing na internet
-
-  Depois de completar este módulo, os você estarão aptos a&#58;
-  - Criar formulários de marketing e incorporá-los nas páginas de marketing.
-  - Criar uma página de marketing.
-  - Visualizar, validar e entrar ao vivo com uma página de marketing.
-  - Criar formulário de marketing e modelos de página.
-
-
-  ### Módulo 4&#58; Segmentos e listas
-  Este módulo abordará como gerenciar segmentos, centrais de assinaturas, listas e inscrição dupla.
+  
+  
+  ### Módulo  2&#58; Gerenciar segmentos e listas
+  Este módulo irá revisar como criar, gerenciar e usar segmentos e centros de assinatura.
   #### Lições
   - Criar e gerenciar segmentos
-  - Criar e gerenciar o subscription center
-  - Opção dupla
-
-  Depois de completar este módulo, os você estarão aptos a&#58;
-  - Configurar segmentos estáticos e dinâmicos.
-  - Criar uma lista de assinaturas.
-  - Configurar uma página da central de assinaturas.
-  - Configurar e ativar um processo de aceitação dupla.
-
-
-  ### Módulo 5&#58; E-mails de marketing
-  Este módulo abordará como criar mensagens de email no Dynamics 365 Marketing.
+  - Criar e gerenciar centros de assinaturas e listas
+  
+  Depois de concluir este módulo, você será capaz de&#58;
+  - Criar e gerenciar segmentos.
+  - Criar e gerenciar centros de assinatura.
+  
+  
+  ### Módulo  3&#58; Gerenciar formulários e páginas de marketing
+  Este módulo fala sobre como criar formulários e páginas de marketing.
   #### Lições
-  - Criar mensagens de e-mail
-
-  Depois de completar este módulo, os você estarão aptos a&#58;
-  - Criar e criar mensagens de email.
-  - Visualizar, validar e entrar no ar com mensagens de email.
-  - Salvar uma mensagem de email como modelo.
-
-
-  ### Módulo 6&#58; Jornadas do cliente
+  - Gerenciar formulários
+  - Gerenciar páginas de marketing
+  
+  Depois de concluir este módulo, você será capaz de&#58;
+  - Criar formulários de marketing e incorporá-los nas páginas de marketing.
+  - Criar uma página de marketing.
+  - Visualizar, validar e fazer transmissão ao vivo com uma página de marketing.
+  - Criar formulário de marketing e modelos de página.
+  
+  
+  ### Módulo  4&#58; Gerenciar pistas, contas e contatos
+  Este módulo abordará como gerenciar clientes tais como contas ou contatos e como alimentá-los durante o ciclo de vida da pista.
+  #### Lições
+  - Criar e gerenciar pistas
+  - Gerenciar contas e contatos
+  
+  Depois de concluir este módulo, você será capaz de&#58;
+  - Rastrear clientes como contas ou contatos.
+  - Criar uma pista e convertê-la numa oportunidade.
+  - Gerenciar pistas ao longo do ciclo de vida da pista.
+  
+  
+  ### Módulo  5&#58; Gerenciar e-mails de marketing e jornadas de clientes
+  Este módulo fala sobre como criar mensagens de e-mail e jornadas do cliente no Dynamics 365 Marketing.
+  #### Lições
+  - Criar e-mails de marketing
+  - Criar jornadas de clientes
+  
+  Depois de concluir este módulo, você será capaz de&#58;
+  - Criar e projetar mensagens de e-mail.
+  - Visualizar, validar e publicar mensagens de e-mail.
+  - Guardar uma mensagem de e-mail como modelo.
+  - Criar uma jornada de cliente.
+  
+  
+  ### Módulo  6&#58; Gerenciar eventos
   Este módulo revisará o processo de criação da jornada do cliente.
   #### Lições
-  - Criar jornadas do cliente
-
-  Depois de completar este módulo, os você estarão aptos a&#58;
-  - Criar uma jornada do cliente a partir de um modelo.
-  - Identificar blocos e propriedades da jornada do cliente.
-  - Validar e entrar ao vivo com uma jornada do cliente.
-  - Criar uma jornada do cliente com base na conta.
-  - Compreender os recursos do calendário de marketing.
-
-
-  ### Módulo 7&#58; Insights
-  Este módulo demonstrará como visualizar, entender e gerenciar as percepções dos clientes.
+  - Criar um evento no local
+  - Criar um evento de webinar
+  - Promover e gerenciar eventos
+  
+  Depois de concluir este módulo, você será capaz de&#58;
+  - Criar um evento de webinar.
+  - Criar um evento no local.
+  - Promover um evento.
+  - Gerenciar o site do evento.
+  - Definir as configurações de eventos.
+  
+  
+  ### Módulo  7&#58; Criar pesquisas com Dynamics 365 Customer Voice
+  Este módulo demonstrará como criar e distribuir pesquisas para clientes.
   #### Lições
-  - Insights de mercado
-  - Insights sobre o cliente
-  - Insights de execução de marketing
-  - Insights de gerenciamento de leads
-  - Insights de marketing na internet
-
-  Depois de completar este módulo, os você estarão aptos a&#58;
-  - Localizar informações.
-  - Entender as idéias de marketing, como contato, segmento, jornada do cliente, e-mail de marketing e leads.
-
-
-  ### Módulo 8&#58; Eventos
-  Neste módulo, você aprenderá como gerenciar o planejamento e a execução de eventos no Dynamics 365 for Marketing.
+  - Criar um projeto de pesquisa
+  - Criar pesquisas com a Dynamics 365 Customer Voice
+  - Enviar levantamentos da Dynamics 365 Customer Voice 
+  
+  Depois de concluir este módulo, você será capaz de&#58;
+  - Gerenciar pesquisas usando projetos.
+  - Criar uma pesquisa.
+  - Personalizar uma pesquisa.
+  - Distribuir uma pesquisa aos clientes.
+  
+  
+  ### Módulo  8&#58; Analisar perspectivas no Dynamics 365 Marketing
+  Neste módulo, você aprenderá como usar a funcionalidade de insights para exibir e analisar dados relacionados às suas iniciativas de marketing.
   #### Lições
-  - Gerenciar o planejamento de eventos
-  - Gerenciar execução de evento
-
-  Depois de completar este módulo, os você estarão aptos a&#58;
-  - Criar eventos presenciais e de webinar.
-  - Configurar recursos de planejamento de eventos, como sessões, palestrantes, passes de eventos, listas de espera e locais.
-  - Criar e gerenciar eventos recorrentes.
-
-
-  ### Módulo 9&#58; Pesquisas
-  Neste módulo, você revisará como configurar, projetar e distribuir pesquisas no Dynamics 365 for Marketing.
-  #### Lições
-  - Criar pesquisas
-
-  Depois de completar este módulo, os você estarão aptos a&#58;
-  - Criar um tema de pesquisa reutilizável.
-  - Criar, projetar, visualizar e publicar uma pesquisa.
-
-
-  ### Módulo 10&#58; Resultados
-  No módulo Resultados, você revisará as informações do evento de marketing e da pesquisa.
-  #### Lições
-  - Analisar os resultados do evento e da pesquisa
-
-  Depois de completar este módulo, os você estarão aptos a&#58;
-  - Utilizar o painel de eventos para avaliar o resultado dos seus eventos
+  - Avaliar as iniciativas de marketing com análises
+  
+  Depois de concluir este módulo, você será capaz de&#58;
+  - Use insights para tomar decisões sobre esforços de marketing.
+  - Alcançar pistas.
+  - Ver perspectivas relacionados às jornadas dos clientes e às mensagens de e-mail
