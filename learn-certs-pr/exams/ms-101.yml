@@ -8,12 +8,12 @@ displayName: MS-101
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame será atualizado em 24 de Novembro de 2020. Por favor, faça download do documento de avaliação de competências abaixo para ver o que vai mudar.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Baixe o documento de competências avaliadas abaixo para ver as alterações.</strong><br/><br/></div>
   </div>
 
   Os candidatos a esse exame são os Microsoft 365 Enterprise Administrators que participam da avaliação, planejamento, migração, implantação e gerenciamento dos serviços do Microsoft 365. Eles executam tarefas de gerenciamento de locatários do Microsoft 365 para uma empresa, incluindo suas identidades, segurança, conformidade e tecnologias de suporte.
 
-   Os candidatos têm um conhecimento prático das cargas de trabalho do Microsoft 365 e devem ter sido administradores de pelo menos uma carga de trabalho do Microsoft 365 (Exchange, SharePoint, Skype for Business, Windows como Serviço). Os candidatos também têm um conhecimento prático de redes, administração de servidores e fundamentos de TI, como DNS, Active Directory e PowerShell.
+  Os candidatos têm um conhecimento prático das cargas de trabalho do Microsoft 365 e devem ter sido administradores de pelo menos uma carga de trabalho do Microsoft 365 (Exchange, SharePoint, Skype for Business, Windows como Serviço). Os candidatos também têm um conhecimento prático de redes, administração de servidores e fundamentos de TI, como DNS, Active Directory e PowerShell.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: implementar serviços de dispositivos atualizados, implementar o gerenciamento de segurança e controle de ameaças do Microsoft 365 e gerenciar a governança e conformidade do Microsoft 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
@@ -25,7 +25,7 @@ locales:
 levels:
 - advanced
 skills:
-- O conteúdo deste exame será atualizado no dia 24 de Novembro de 2020. Por favor, faça download do esboço das competências do exame abaixo para ver o que estará a mudar.
+- O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Faça o download do esboço das competências ao exame abaixo para ver as alterações.
 - Implementar serviços de dispositivos modernos (30-35%)
 - Implementar o gerenciamento de segurança e ameaças da Microsoft 365 (30-35%)
 - Gerenciar a governança e conformidade do Microsoft 365 (35-40%)
@@ -39,6 +39,17 @@ exams:
 - uid: exam.ms-100
 courses:
 - uid: course.ms-101t00
+paths:
+- uid: learn-m365.manage-enterprise-deployment-m365
+- uid: learn-m365.identity-and-access
+- uid: learn-m365.m365-cloud-security
+- uid: learn-m365.m365-security-threat-protection
+- uid: learn-m365.m365-security-management
+- uid: learn.security.manage-security-operations
+- uid: learn-m365.m365-messaging-secure-environment
+- uid: learn-m365.m365-compliance-information
+- uid: learn-m365.audit-safeguard-customer-data
+- uid: learn-m365.compliance-discover
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator

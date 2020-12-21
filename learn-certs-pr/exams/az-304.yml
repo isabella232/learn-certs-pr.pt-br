@@ -8,10 +8,10 @@ displayName: AZ-304
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame será atualizado a 24 de Novembro de 2020. Por favor, faça download do documento de avaliação de competências abaixo para ver o que vai mudar.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Baixe o documento de competências avaliadas abaixo para ver as alterações.</strong><br/><br/></div>
   </div>
 
-  Os candidatos a este exame devem ter experiência no design e implementação de soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança.
+  Os candidatos a este exame devem ter experiência no design e implementação de soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança. Os candidatos devem ter competências de nível intermediário para gerenciar o Azure. Os candidatos devem entender o desenvolvimento do Azure e os processos DevOps.
 
   As responsabilidades de um Azure Solution Architect incluem consultoria aos profissionais envolvidos e adaptação dos requisitos de negócios em soluções em nuvem seguras, escaláveis e confiáveis.
 
@@ -31,7 +31,7 @@ locales:
 levels:
 - advanced
 skills:
-- O conteúdo deste exame será atualizado no dia 24 de Novembro de 2020. Por favor, faça download do esboço das competências do exame abaixo para ver o que irá mudar.
+- O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Faça o download do esboço das competências ao exame abaixo para ver as alterações.
 - Projetar o monitoramento (10-15%)
 - Projetar identidade e segurança (25-30%)
 - Projetar armazenamento de dados (15-20%)

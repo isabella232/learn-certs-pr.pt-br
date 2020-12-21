@@ -30,7 +30,24 @@ summary: |-
   Este curso foi concebido para o consultor funcional da Dynamics 365 Supply Chain Management. O consultor funcional da Dynamics 365 Supply Chain Management é um recurso chave que concebe e configura aplicativos para satisfazer os requisitos de um cliente. O consultor funcional analisa os requisitos empresariais e traduz esses requisitos em processos e soluções empresariais plenamente realizados que implementam práticas recomendadas pela indústria. O consultor funcional é especializado em um ou mais dos seguintes conjuntos de características da Dynamics&#58; finanças, produção, ou gestão da cadeia de fornecimento. Fazem parcerias com arquitetos, promotores, administradores, e outros interessados para fornecer soluções que satisfazem ou excedem as necessidades dos seus clientes.
 outlineSection: |-
   ### Módulo 1&#58; Implementar gestão de informação do produto
-  Este módulo irá apresentar-lhe os seguintes tópicos: Criar e lançar produtos e variantes de produtos Criar e aplicar modelos de produtos Criar listas técnicas (BOMs) Identificar a finalidade e capacidades dos modelos de configuração de produtos Configurar pesos de captura Configurar produtos de entrega direta Criar e gerir dimensões de inventário Configurar grupos de itens Criar e atribuir códigos de barras e códigos de Número de Identificação Comercial Global (GTIN) Configurar hierarquias de categorias e atributos de produtos Configurar conversões de unidades de produtos Configurar definições de encomenda padrão Descrever métodos de cálculo de custos de inventário e grupos de modelos Configurar versões de cálculo de custos para custos padrão e planeados Configurar e preços de compra padrão, preços de venda padrão, e acordos comerciais.
+  Este módulo irá apresentar-lhe os seguintes tópicos&#58; 
+  
+  Criar e libere produtos e variantes de produto  
+  Criar e aplique modelos de produto  
+  Criar listas de materiais (BOMs)  
+  Identificar a finalidade e os recursos dos modelos de configuração de produto  
+  Configurar pesos de captura 
+  Configurar produtos de entrega direta  
+  Criar e gerenciar dimensões de estoque  
+  Configurar grupos de itens  
+  Criar e atribuir códigos de barras e códigos de Global Trade Identification Number (GTIN) 
+  Configurar hierarquias de categoria e atributos de produto  
+  Configurar conversões de unidade de produto  
+  Configurar configurações de pedido padrão  
+  Descrever métodos de custo de estoque e grupos de modelo  
+  Configurar versões de custo para custos padronizados e planejados  
+  Configurar e omitir preços de compra, omitir preços de venda e fazer acordos de comércio. 
+
   #### Lições
   - Criar e gerir produtos
   - Configurar produtos para gestão da cadeia de abastecimento
@@ -41,7 +58,16 @@ outlineSection: |-
 
 
   ### Módulo 2&#58; Implementar gestão de inventário
-  Este módulo irá apresentar-lhe as seguintes áreas&#58; Configurar parâmetros de gestão de inventário e periódicos Configurar estrutura de repartição de inventário Configurar classificações ABC Configurar relatórios de avaliação de inventário Criar e processar periódicos incluindo lista de materiais, chegada de artigos, transferência, movimento, ajuste de inventário, contagem, e etiquetas de contagem de periódicos Criar e processar ordens de transferência Efetuar encerramentos e ajustes de inventário.
+  Este módulo irá apresentar-lhe as seguintes áreas&#58; 
+  
+  Configurar parâmetros de administração de estoque e diários  
+  Configurar a Estrutura da divisão de estoque 
+  Configurar classificações ABC 
+  Configurar relatórios de avaliação de estoque  
+  Criar e processar diários incluindo lista de materiais, chegada do item, transferência, movimento, ajuste de estoque, contagem e diários de contagem de etiqueta  
+  Criar e processar pedidos de transferência  
+  Realizar estoque fechamentos e ajustes.
+
   #### Lições
   - Configurar a gestão de inventários
   - Gerir e processar atividades de inventário
@@ -61,7 +87,24 @@ outlineSection: |-
 
 
   ### Módulo 3&#58; Implementar e gerir processos da cadeia de fornecimento
-  Este módulo irá apresentar-lhe os seguintes tópicos&#58; Criar e gerir requisições de compra, pedidos de cotação (RFQs), e ordens de compra (POs) Configurar processos de gestão de alterações Configurar e aplicar descontos de fornecedor Introdução à colaboração com fornecedores Gerir inventário de consignação Gerir entregas em excesso e em falta Configurar categorias de aprovisionamento e políticas de compras Configurar taxas Configurar cotações, encomendas de vendas e encomendas de devolução Configurar grupos de vendas e comissões Configurar pesquisas de clientes, produtos e prospectos Configurar e processar documentos de relações comerciais entre empresas Introdução aos Guias D365 Autoria dos Guias D365 Funcionamento dos Guias D365.
+  Este módulo irá apresentar-lhe os seguintes tópicos&#58; 
+  
+  Criar e gerenciar requisições de compra, solicitações de cotações (RFQs) e ordens de compra (POs)  
+  Configurar processos de administração de mudanças  
+  Configurar e aplicar descontos do fornecedor  
+  Introdução à colaboração do fornecedor  
+  Gerenciar estoque em consignação Gerenciar entregas  
+  excedentes e insuficientes  
+  Configurar categorias de aquisição e políticas de compra  
+  Configurar cobranças  
+  Configurar cotações, pedidos de vendas e pedidos de devolução  
+  Configurar grupos de vendas e comissões  
+  Configurar pesquisas de clientes, produtos e clientes potenciais  
+  Configurar e processar documentos de relações comerciais entre empresas  
+  Introdução aos D365 Guides  
+  Autoria de D365 Guides  
+  Operação de D365 Guides.  
+
   #### Lições
   - Implementar o Procurement e sourcing
   - Implementar características comuns de vendas e marketing
@@ -89,7 +132,27 @@ outlineSection: |-
 
 
   ### Módulo 4&#58; Implementar gestão de armazém e gestão de transporte
-  Este módulo irá apresentar-lhe os seguintes tópicos&#58; Criar locais, armazéns, localizações, formatos de localização, perfis de localização, tipos de localização e zonas Implementar diretivas de localização Configurar estados de inventário, grupos de sequência de unidades, e hierarquias de reservas Implementar modelos de construção por ondas e trabalho, modelos Implementar modelos de construção por ondas Configurar menus de dispositivos móveis, itens de menu, e exibir configurações gerir processos de movimentação de stocks Executar contagem de ciclos Processo de entrada e saída de encomendas Processar envios Descrever o processo de reabastecimento cross-docking Introdução Configurar transportadoras e grupos de transportadoras Executar planeamento e execução de cargas e envios Configurar e gerar faturas e guias de frete Configurar planos de rota e guias Configurar motores de rota e taxas Configurar e utilizar marcação de docas
+  Este módulo irá apresentar-lhe os seguintes tópicos&#58; 
+  
+  Criar sites, armazéns, locais, formatos de localização, perfis de localização, tipos de localização e zonas  
+  Implementar diretivas de localização  
+  Configurar status de inventário, grupos de sequência de unidade e hierarquias de reserva  
+  Implementar onda e trabalho, modelos  
+  Implementar modelo de construção de carga de onda  
+  Configurar menus de dispositivo móvel, itens de menu e configurações de exibição  
+  gerenciar processos de movimentação de estoque
+  Realizar contagem cíclica  
+  Processar pedidos de entrada e saída  
+  Processar remessas  
+  Descrever o processo de reabastecimento cross-docking  
+  Introdução  
+  Configurar transportadoras e grupos de transportadoras  
+  Realizar planejamento e execução de cargas e remessas  
+  Configurar e gerar contas e faturas de frete  
+  Configurar planos de rota e guias  
+  Configurar motores de rota e taxa  
+  Configurar e usar agendamento de nomeação de doca  
+
   #### Lições
   - Configurar a gestão de armazéns
   - Realizar processos de gestão de armazéns
@@ -122,7 +185,13 @@ outlineSection: |-
 
 
   ### Módulo 5&#58; Configurar e gerir o controlo de qualidade e a gestão da qualidade
-  Este módulo irá apresentar-lhe os seguintes tópicos&#58; Configurar controlo de qualidade Configurar gestão de qualidade Gerir encomendas de qualidade e quarentena Gerir bloqueio de inventário.
+  Este módulo irá apresentar-lhe os seguintes tópicos&#58; 
+  
+  Configurar controle de qualidade  
+  Configurar administração de qualidade  
+  Gerenciar pedidos de qualidade e Ordem de quarentena  
+  Gerenciar bloqueio de inventário
+
   #### Lições
   - Configurar o controlo de qualidade e gestão da qualidade
   - Gerir o controlo de qualidade e gestão da qualidade
@@ -139,7 +208,19 @@ outlineSection: |-
   
   
   ### Módulo 6&#58; Implementar planeamento principal
-  Este módulo irá apresentar-lhe os seguintes tópicos&#58; Diferenciar entre optimização de planeamento e planeamento principal Configurar grupos de cobertura e cobertura de itens Configurar parâmetros de planeamento principal, plano principal, planos de previsão e planos de continuidade Diferenciar entre mensagens de ação, mensagens de atraso, vedações de tempo, e dias negativos Processar e visualizar ordens planeadas Configurar e utilizar o formulário de Supply Schedule Configurar e processar revistas de stocks de segurança Configurar e implementar planeamento principal entre empresas Implementar previsão de base de procura Implementar optimização de planeamento.
+  Este módulo irá apresentar-lhe os seguintes tópicos&#58; 
+  
+  Diferenciar entre otimização de planejamento e planejamento mestre  
+  Configurar grupos de cobertura e cobertura de item  
+  Configurar parâmetros de planejamento mestre, plano mestre, planos de previsão e planos de continuidade  
+  Diferenciar mensagens de ação, mensagens de atraso, limites de tempo e dias negativos  
+  Processar e visualizar pedidos planejados  
+  Configurar e usar o formulário de Supply Schedule
+  Configurar e processar diários de estoque de segurança  
+  Configurar e implementar planejamento mestre entre empresas  
+  Implementar previsão de base de demanda  
+  Implementar otimização de planejamento  
+
   #### Lições
   - Configurar o planeamento mestre e a previsão
   - Executar planos diretores e gerir ordens planeadas

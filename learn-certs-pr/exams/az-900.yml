@@ -8,7 +8,7 @@ displayName: AZ-900
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame será atualizado em 9 de Novembro de 2020. Por favor, faça download do documento de avaliação de competências abaixo para ver o que vai mudar. </strong><br/><br/></div> 
+  <div><strong>O conteúdo deste exame foi atualizado em 9 de novembro de 2020. Faça download do documento de competências avaliadas abaixo para ver as alterações.</strong><br/><br/></div> 
   </div>
   
   Os candidatos a este exame devem ter conhecimentos básicos nos serviços em nuvem e como os serviços são provisionados com o Microsoft Azure. O exame é destinado a candidatos que estão apenas começando a trabalhar com soluções e serviços baseados em nuvem ou que não estão familiarizados com o Azure.
@@ -16,6 +16,8 @@ summary: |-
   O exame Azure Fundamentals é uma oportunidade de provar conhecimento de conceitos de nuvem, serviços, cargas de trabalho, segurança e privacidade no Azure, bem como preços e suporte do Azure. Os candidatos devem estar familiarizados com os conceitos gerais de tecnologia, incluindo conceitos de rede, armazenamento, computação, suporte a aplicativos e desenvolvimento de aplicativos.
 
   O curso Azure Fundamentals pode ser usado para preparar o candidato para outras certificações baseadas em funções ou especialidades do Azure, mas não é um pré-requisito para nenhuma delas.
+
+  Você pode se qualificar para o crédito ACE de faculdade se passar neste exame de certificação. Consulte [ACE crédito de faculdade para exames de certificação](/learn/certifications/ace-credit-for-certification-exams) para obter detalhes.
 subTitle: 'Este exame mede a sua capacidade de compreender os seguintes conceitos: conceitos de nuvem; serviços essenciais do Azure; segurança, privacidade, conformidade e confiança; e preços e suporte do Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
@@ -38,13 +40,19 @@ locales:
 levels:
 - beginner
 skills:
-- O conteúdo deste exame será atualizado no dia 9 de Novembro de 2020. Por favor, faça download do esboço das competências do exame abaixo para ver o que estará a mudar.
-- Descrever os conceitos de nuvem (15-20%)
-- Descrever os serviços básicos do Azure (30-35%)
-- Descrever segurança, privacidade, conformidade e confiabilidade (25-30%)
-- Descrever acordos de nível de serviço e preços e ciclos de vida do Azure (20-25%)
+- O conteúdo deste exame foi atualizado em 9 de novembro de 2020. Faça o download do esboço de competências do exame abaixo para ver as alterações.
+- Descrever os conceitos do cloud (20-25%)
+- Descrever os principais serviços do Azure (15-20%)
+- Descrever as principais soluções e ferramentas de administração no Azure (10-15%)
+- Descrever os recursos gerais de segurança e segurança de rede (10-15%)
+- Descrever recursos de identidade, governança, privacidade e conformidade (20-25%)
+- Descrever o administração de custos do Azure e Service Level Agreements (10-15%)
 roles:
+- administrator
+- business-user
 - developer
+- student
+- technology-manager
 products:
 - azure
 courses:

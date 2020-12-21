@@ -9,7 +9,7 @@ summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
 
-  <div><strong>O conteúdo deste exame será atualizado a 24 de Novembro de 2020. Por favor, faça download do documento de avaliação de competências abaixo para ver o que vai mudar.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Baixe o documento de competências avaliadas abaixo para ver as alterações.</strong><br/><br/></div>
   </div>
 
   Os candidatos a este exame devem ter experiência na implementação, gerenciamento e monitoramento do ambiente Microsoft Azure da organização.
@@ -19,6 +19,8 @@ summary: |-
   O administrador do Azure geralmente atua como parte de uma equipe maior dedicada à implementação da infraestrutura de nuvem da sua organização.
 
   O candidato a este exame deve ter pelo menos seis meses de experiência prática na administração do Azure, além de sólida compreensão dos principais serviços, cargas de trabalho, segurança e governança do Azure. Além disso, esta função deve ter experiência no uso de modelos do PowerShell, Azure CLI e Azure portal e do Azure Resource Manager.
+
+  Você pode se qualificar para o crédito ACE de faculdade se passar neste exame de certificação. Consulte [ACE crédito de faculdade para exames de certificação](/learn/certifications/ace-credit-for-certification-exams) para obter detalhes.
 subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: gerenciar identidades e governança do Azure; implementar e gerenciar armazenamento; implantar e gerenciar recursos de computação do Azure; configurar e gerenciar redes virtuais; e monitorar e fazer backup de recursos do Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
@@ -36,7 +38,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado no dia 24 de Novembro de 2020. Por favor, faça download do esboço das competências do exame abaixo para ver o que irá mudar.
+- O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Faça o download do esboço das competências ao exame abaixo para ver as alterações.
 - Identidades e governança do Manage Azure (15-20%)
 - Implementar e gerenciar armazenamento (10-15%)
 - Implantar e gerenciar recursos de computação do Azure (25-30%)

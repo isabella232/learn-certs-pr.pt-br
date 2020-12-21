@@ -11,7 +11,10 @@ ms.author: micsullivan
 ---
 # Sobre os exames online com a Pearson VUE
 
-Você pode fazer qualquer exame de Certificação Microsoft baseado em funções ou essencial online por intermédio da Pearson VUE na comodidade de sua casa ou escritório. A entrega de exames com supervisão online mantém a integridade dos resultados do exame ao monitorar sua experiência com um supervisor por meio de webcam e microfone. Se estiver interessado em realizar um exame online por intermédio da Pearson VUE e quiser obter mais informações antes de se registrar, essa página fornecerá mais detalhes importantes. Assista ao vídeo da Pearson VUE no [YouTube](https://youtu.be/Gm1PqdbwBP0) para mais informações sobre exames online supervisionados. (esta seção não aborda os exames entregues pela Certiport).
+Você pode fazer qualquer exame online de Microsoft Certification baseado em funções ou fundamentos na Pearson VUE e no conforto de sua casa ou escritório. A entrega do exame de supervisão online mantém a integridade dos resultados do exame, monitorando sua experiência de exame por um inspetor via webcam e microfone. Se você estiver interessado em fazer um exame monitorado online atravéz da Pearson VUE e quiser entender melhor o que esperar antes de se registrar, esta página contém detalhes importantes. Assista ao vídeo abaixo para saber mais sobre como fazer os exames monitorados online. (Esta seção não aborda os exames realizados pela Certiport.).
+<br/>
+
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4IFBp]
 
 
 ## <a name="take-a-system-test"></a> Executar um teste do sistema
