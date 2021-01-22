@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 Aumente suas chances de obter uma carreira em TI ampliando seus conhecimentos com uma Certificação Microsoft e validando suas habilidades e a capacidade de desempenhar uma função com as tecnologias da Microsoft. À medida que a transformação digital evolui e afeta a maneira como fazemos negócios, o curso de treinamento e a certificação podem ajudá-lo a acelerar sua capacidade de obter novas oportunidades em áreas técnicas especializadas de alta demanda no mercado.
 
-Os candidatos a emprego que concluíram o treinamento para essas funções técnicas específicas da Microsoft e podem atestar que estão desempregados ou que foram dispensados devido à COVID-19 podem garantir uma Certificação Microsoft reconhecida pelo setor a uma taxa reduzida de USD15. Os candidatos poderão agendar um exame **antes de 31 de dezembro de 2020 e terão até 31 de março de 2021** para comparecer e concluir o exame. Consulte [termos e condições](#terms-conditions).
+Os candidatos a emprego que tenham concluído o treinamento para essas funções técnicas específicas da Microsoft e podem atestar que estão desempregados ou dispensados devido ao COVID-19 podem garantir uma certificação da Microsoft reconhecida pelo setor a uma tarifa com desconto de USD15. Os candidatos à prova terão a possibilidade de agendar um exame **até 30 de dezembro de 2021 e terão até 31 de dezembro de 2021** para comparecer e concluir o exame. Consulte [termos e condições](#terms-conditions).
 <br/>
 <br/>
 
@@ -43,7 +43,7 @@ Com as certificações reconhecidas no setor, você poderá atualizar seu perfil
 
 ## Lista de verificação de agendamento de exames
 
-Para ajudá-lo a se preparar e garantir que você possa se inscrever e fazer o exame de Certificação Microsoft, siga as etapas abaixo. **Observação:** Os participantes qualificáveis devem agendar o exame com desconto até 31 de dezembro de 2020.
+Para ajudá-lo a se preparar e garantir que você possa se inscrever e fazer o exame de Certificação Microsoft, siga as etapas abaixo. **Observação:** Os participantes qualificáveis devem agendar o exame com desconto até 30 de dezembro de 2021.
 
 1. Consulte os seguintes recursos de Certificação Microsoft essenciais:
 	1. [Sobre exames online com a PSI](/learn/certifications/online-exams-psi) inclui, entre outros tópicos, países participantes, requisitos de sistema, requisitos de protocolo de teste, processo de exame online.  
@@ -64,16 +64,17 @@ Para obter perguntas e respostas comuns sobre os exames online da PSI, consulte 
 - Esta oferta de exame está disponível para quem procura emprego e que pode atestar que está desempregado ou em férias coletivas devido à COVID-19.
 - Você deve ter 18 anos ou mais para acessar e usar esta oferta de exame.
 - Esta oferta de exame está disponível para um número limitado de pessoas qualificadas e agendamentos de exame.
-- Esta oferta de exame dá direito a você se inscrever e comparecer a um (1) exame de Certificação Microsoft válido a um preço especial com desconto de tempo limitado de USD15. A oferta finaliza se em 31 de dezembro de 2020.
+- Esta oferta de exame dá direito a você se inscrever e comparecer a um (1) exame de Certificação Microsoft válido a um preço especial com desconto de tempo limitado de USD15. A oferta expira em 31 de dezembro de 2021.
 - Esta oferta de exame pode ser resgatada para a realização de um (1) exame de Certificação Microsoft válido, entregue apenas como exame supervisionado online.
 - Esta oferta de exame é específica do exame e só pode ser resgatada para exames de Certificação Microsoft selecionados.
-- O prazo para agendamento do exame com desconto estará disponível no final do ano, entre 1 de setembro e 31 de dezembro de 2020.
-- Para receber a oferta, o exame deve ser agendado até 31 de dezembro de 2020. Os agendamentos para exame devem ser feitos até 31 de março de 2021.
+- A janela para agendar a oferta do exame estará disponível ainda este ano, entre 1º de setembro de 2020 e 31  de dezembro de 2021.&#42; A oferta do exame deve ser agendada até 30 de dezembro de 2021.&#42; As consultas do exame devem ser concluídas até 31 de dezembro de 2021.*
 - A data de validade da oferta deste exame não pode ser prorrogada sob nenhuma circunstância.
 - Esta oferta de exame não pode ser resgatada ou trocada por dinheiro, crédito, ou reembolso.
 - Esta oferta de exame é intransferível e será anulada se for alterada, revisada ou transferida.
 - Observe as políticas de cancelamento e reagendamento e quaisquer taxas associadas aplicáveis.
 - Os candidatos aos exames devem concordar com o [contrato de não divulgação do exame de certificação](/learn/certifications/certification-exam-policies#non-disclosure-agreement).
 - Os candidatos a testar devem atender aos [requisitos de sistema](/learn/certifications/online-exams-psi#system-requirements) e aos [requisitos de protocolo de teste](/learn/certifications/online-exams-psi#testing-protocol-requirements).
+
+*e#42; Os exames devem ser agendados 24 horas antes. Portanto, se você quiser fazer um exame no último dia da oferta, 31 de dezembro de 2021, deve agendar até 30 de dezembro de 2021.*
 
 Para obter informações adicionais, consulte os [Termos de Uso da Microsoft](https://www.microsoft.com/en-us/legal/intellectualproperty/copyright/default.aspx) completos.

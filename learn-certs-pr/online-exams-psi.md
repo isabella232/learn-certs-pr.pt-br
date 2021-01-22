@@ -213,6 +213,7 @@ Seu escritório ou sua casa deve atender aos seguintes requisitos:
 - Para agendar um exame online com a PSI, clique no exame de Certificação Microsoft que deseja fazer [lista de exames qualificáveis](/learn/certifications/skillingoffer?WT.mc_id=gsi#discounted-microsoft-certification-exams-available-through-this-offer) e selecione o botão "**Agendar para USD15**".
 - Se os exames online estiverem disponíveis no seu país, você poderá selecionar essa opção durante o processo de registro do exame. Você será conduzido ao site de agendamento do PSI, onde poderá selecionar seu país e o fuso horário, o idioma e a data e hora de realização do exame.
 - Após a conclusão, você precisará pagar pelo exame.
+- Os exames devem ser agendados 24 horas antes. Portanto, se você quiser fazer um exame no último dia da oferta, 31 de dezembro de 2021, você deve agendar até 30 de dezembro de 2021.
 
 ## Iniciar o exame e processo de check-in do candidato
 
@@ -262,7 +263,9 @@ Consulte a seção "**[Registre-se para um exame online](/learn/certifications/o
 
 Sim, mas você deve fazê-lo pelo menos 24 horas antes de reagendar o exame. Faça login no painel [painel de Certificação Microsoft](https://aka.ms/CertDashboard) e selecione o botão "**Cancelar/Reagendar**" na seção **Agendamentos**. Em seguida, você será redirecionado ao site da PSI para cancelar ou reagendar seu exame.
 
-Observação: A oferta de USD15 para exames de candidato a emprego deve ser reivindicada até 31 de dezembro de 2020 e o exame deve ser realizado até 31 de março de 2021. O reagendamento do exame pode ser feito a qualquer momento antes de 31 de dezembro de 2020, no entanto, se você cancelar a data do exame após 31 de dezembro de 2020, não poderá reagendá-lo usando a oferta com desconto.
+Nota: A oferta de exame de candidato a emprego de USD15 deve ser solicitada até 31 de dezembro de 2021&#42; e o exame deve ser feito até 31 de dezembro de 2021. O reagendamento do exame pode ser feito a qualquer momento antes de 30 de dezembro de 2021; no entanto, se você cancelar sua consulta ao exame após 31 de dezembro de 2021&#42;, você não poderá agendar novamente usando a oferta com desconto.
+
+*&#42; Os exames devem ser agendados 24 horas antes. Portanto, se você quiser fazer um exame no último dia da oferta, 31 de dezembro de 2021, você deve agendar até 30 de dezembro de 2021.*
 
 ### Posso refazer o exame com o desconto no valor de USD15?
 

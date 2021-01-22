@@ -8,6 +8,7 @@ displayName: DA-100
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div><div><strong>O conteúdo deste exame foi atualizado em, quinta-feira, 24 de setembro de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Por favor, baixe o documento de habilidades avaliadas abaixo para ver o que será alterado. </strong><br/><br/></div>
   </div>
 
   Os Analistas de Dados permitem que as empresas maximizem o valor de seus ativos de dados usando o Microsoft Power BI. Como especialista no assunto, os analistas de dados são responsáveis por projetar e construir modelos de dados escaláveis, limpar e transformar dados e habilitar recursos analíticos avançados que fornecem valor comercial significativo por meio de visualizações de dados fáceis de entender. Os analistas de dados também colaboram com as principais partes interessadas nas verticais para fornecer informações relevantes com base nos requisitos de negócios identificados.
@@ -31,7 +32,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em, 24 de setembro de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Por favor, baixe o resumo de habilidades do exame apresentado abaixo para ver o que será alterado.
 - Preparar os dados (20-25%)
 - Modelar os dados (25-30%)
 - Visualizar os dados (20-25%)

@@ -2,14 +2,23 @@
 title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Functional Consultant Associate'
-  description: O Power Platform Functional Consultant deve ter amplo conhecimento aplicado da Power Platform, incluindo o entendimento prático de recursos, limites e restrições.
+  description: Como consultor funcional, use essa certificação para se comercializar de forma mais eficaz para projetos e outros compromissos. A certificação Microsoft Power Platform Functional Consultant Associate permite que as organizações saibam que—sem código ou pouco código—podem ser criadas soluções que normalmente requerem experiência do desenvolvedor.
 uid: certification.power-platform-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></font></div>
 
-  O Power Platform Functional Consultant deve ter amplo conhecimento aplicado da Power Platform, incluindo o entendimento prático de recursos, limites e restrições. Eles devem ter experiência no uso das ferramentas do criador do Power Platform para criar soluções que usam a Power Platform e o Microsoft 365. Os Functional Consultants certificados devem ter proficiência em modelagem de dados, design de experiência do usuário, análise de requisitos e análise de processos.
-subTitle: O Power Platform Functional Consultant deve ter amplo conhecimento aplicado da Power Platform, incluindo o entendimento prático de recursos, limites e restrições.
+  Você é um consultor funcional, analista de dados ou desenvolvedor procurando aprimorar suas habilidades de consultoria e configuração, ou arquiteto de soluções no caminho da certificação de arquiteto de soluções? Ou talvez você seja um profissional de IT com conhecimento e experiência configurando a Microsoft Power Platform. Se isso lhe descreve e você está familiarizado com os aplicativos baseados em modelos e princípios de modelagem de dados da Microsoft Dynamics 365, explore como a certificação Microsoft Power Platform Functional Consultant Associate pode ajudar a melhorar sua carreira e torná-lo um membro-chave de sua equipe. Esta certificação indica ao mundo que você é considerado qualificado para construir e implementar soluções que usam Power Apps, Power BI e Power Virtual Agents.
+
+  Como candidato a esta certificação, você trabalha com as partes interessadas de uma organização e especialistas no assunto, como arquitetos de soluções, desenvolvedores e testadores, para reunir requisitos e, em seguida, implementar soluções de Microsoft Power Platform.
+
+  Você constrói aplicativos de modelos, canvas e em portal. E você cria fluxos de Power Automate, projeta chatbots usando Power Virtual Agents e analisa dados usando visualização de Power BI e dashboards. Você ainda cria melhorias de aplicativos, experiências customizadas de usuário, integrações de sistemas, conversões de dados, automação customizada de processos e visualizações customizadas.
+
+  Se você precisa de mais experiência antes de tentar obter essa certificação, estão aqui algumas sugestões&#58;
+  - Construir um painel básico usando Power BI.
+  - Tome caminhos de aprendizagem disponíveis no Microsoft Learn.
+  - Inscreva-se para um curso de treinamento ministrado por instrutores.
+subTitle: Como consultor funcional, use essa certificação para se comercializar de forma mais eficaz para projetos e outros compromissos. A certificação Microsoft Power Platform Functional Consultant Associate permite que as organizações saibam que—sem código ou pouco código—podem ser criadas soluções que normalmente requerem experiência do desenvolvedor.
 levels:
 - intermediate
 skills:
@@ -32,6 +41,8 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+courses:
+- uid: course.pl-200t00
 paths:
 - uid: learn-dynamics.get-started-using-common-data-service
 - uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service

@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Functional Consultant (beta)'
+title: 'Microsoft Power Platform Functional Consultant'
 metadata:
-  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
-  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant'
+  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant'
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
@@ -13,8 +13,6 @@ summary: |-
   Os candidatos implementam o design fornecido por um arquiteto de soluções ou em colaboração com este e os padrões, identidade visual e artefatos estabelecidos pelos designers de experiência do usuário. Eles projetam integrações para fornecer integração perfeita com aplicativos e serviços de terceiros.
 
   Os Consultores Funcionais da Plataforma Power devem estar familiarizados com os aplicativos orientados por modelos Dynamics 365 e devem ter experiência na utilização dos componentes da Plataforma Power para alargar e personalizar as aplicativos orientadas por modelos Dynamics 365.
-
-  <div><strong><br/>Os exames beta não são pontuados imediatamente, pois estamos coletando dados sobre a qualidade das questões e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta</a>.</strong></div>
 subTitle: 'Este exame avalia sua capacidade de completar as seguintes tarefas: configurar o Common Data Service, criar aplicativos com Power Apps, criar e gerenciar o Power Automate, implementar assistentes virtuais com o Power Virtual Agents e integrar o Power Apps com outros aplicativos e serviços.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
