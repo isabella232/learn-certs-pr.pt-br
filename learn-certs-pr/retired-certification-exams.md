@@ -65,6 +65,11 @@ Encontre os exames agendados para serem desativados nos próximos 12 meses, list
 | [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
 | [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
 
+| Será reformado em 30 de junho de 2021 |
+| --- |
+| [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
+
+
 ## Exames desativados recentemente
 
 Para fins de referência, os testes desativado dentro do último ano terão um link para a página de detalhes do teste por um período de 12 meses.

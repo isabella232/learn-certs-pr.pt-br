@@ -8,7 +8,7 @@ displayName: DP-900
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame foi atualizado em 22 de Outubro de 2020. Por favor, faça download do documento de avaliação de competências abaixo para ver o que mudou.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Por favor, baixe o documento de habilidades avaliadas abaixo para ver o que será alterado. </strong><br/><br/></div>
   </div>
 
   Os candidatos a este exame devem ter conhecimento básico nos principais conceitos de dados e como são implementados por meio dos serviços de dados do Microsoft Azure.
@@ -40,7 +40,7 @@ locales:
 levels:
 - beginner
 skills:
-- O conteúdo deste exame foi atualizado a 22 de Outubro de 2020. Por favor, faça download do esboço das competências do exame abaixo para ver o que mudou.
+- O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Por favor, baixe o resumo de habilidades do exame apresentado abaixo para ver o que será alterado.
 - Descrever os principais conceitos de dados (15-20%)
 - Descrever como trabalhar com dados relacionais no Azure (25-30%)
 - Descrever como trabalhar com dados não relacionais no Azure (25-30%)
