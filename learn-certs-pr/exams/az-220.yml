@@ -8,7 +8,7 @@ displayName: AZ-220
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame foi atualizado em 24 de setembro de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Por favor, baixe o documento de habilidades avaliadas abaixo para ver o que será alterado. </strong><br/><br/></div>
   </div>
 
   Os candidatos a este exame devem ter experiência no desenvolvimento de componentes de nuvem e de borda de uma solução de IoT do Azure.
@@ -31,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em, 24 de setembro de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Por favor, baixe o resumo de habilidades do exame apresentado abaixo para ver o que será alterado.
 - Implementar a infraestrutura da solução de IoT (15-20%)
 - Fornecer e gerenciar dispositivos (20-25%)
 - Implementar o Edge (15-20%)

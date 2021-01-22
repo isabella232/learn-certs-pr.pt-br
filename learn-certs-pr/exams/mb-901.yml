@@ -8,6 +8,7 @@ displayName: MB-901
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  <div><strong>ESTE EXAME SERÁ REFORMADO EM 30 DE JUNHO DE 2021. Dois exames de substituição, MB-910 e MB-920, estão disponíveis. Para obter mais informações, visite <a href="/learn/certifications/exams/mb-910">MB-910</a> e <a href="/learn/certifications/exams/mb-920">MB-920</a> detalhes do exame. Nota&#58; Os exames serão reformados às 23h59, Horário Padrão Central. </strong><br/><br/></div>
   <div><strong>O conteúdo deste exame foi atualizado em, 10 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
   </div>
 
@@ -19,7 +20,7 @@ summary: |-
 
   Você pode se qualificar para o crédito ACE de faculdade se passar neste exame de certificação. Consulte [ACE crédito de faculdade para exames de certificação](/learn/certifications/ace-credit-for-certification-exams) para obter detalhes.
 
-  <div><br/><strong>NOTA&#58; Microsoft não atualizará as referências de “Common Data Service” para “Microsoft Dataverse” neste momento.</strong> </div>
+  <div><br/><strong>Como este exame será reformado em 30 de junho de 2021, a Microsoft não atualizará referências de "Common Data Service" para "Microsoft Dataverse".</strong></div>
 subTitle: Este exame mede sua capacidade de entender o Microsoft Dynamics 365; inteligência artificial; realidade mista; a plataforma de energia; conceitos de nuvem; segurança na nuvem; segurança baseada em função no Dynamics 365; Serviço de Dados Comum; estrutura de gerenciamento de dados; Relatórios do Dynamics 365; Integrações do Dynamics 365; e implantação na nuvem.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
@@ -44,6 +45,7 @@ skills:
 - Descrever a inteligência artificial e a realidade mista no Dynamics 365 (10-15%)
 - Descrever os aplicativos orientados a modelo (25-30%)
 - Descrever os aplicativos de finanças e operações (25-30%)
+retirementDate: 06/30/2021
 roles:
 - business-owner
 - business-user

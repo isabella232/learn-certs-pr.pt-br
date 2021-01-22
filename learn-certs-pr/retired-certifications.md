@@ -35,6 +35,7 @@ Encontre certificações agendadas para serem aposentadas nos próximos 12 meses
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | Será desativado na 31 de janeiro de 2021 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | Será desativado na 31 de janeiro de 2021 |
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | a ser desativado em 31 de dezembro de 2020 |
+| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Será reformado em 30 de junho de 2021 |
 
 ## Certificações desativadas
 

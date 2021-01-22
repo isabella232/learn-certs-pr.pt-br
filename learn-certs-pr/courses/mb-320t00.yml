@@ -1,19 +1,21 @@
 ### YamlMime:Course
-title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing
+title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant
 metadata:
-  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
-  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
+  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
+  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
 uid: course.mb-320t00
 courseNumber: 'MB-320T00-A'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Ser proficiente em fabricação no Dynamics 365
+- skill: Configurar os recursos e funcionalidades mais importantes e comumente utilizados dentro da Dynamics 365 
+- skill: Processar a maioria das transações de Dynamics 365 Manufacturing
+- skill: Explicar a outros como funciona Dynamics 365 Supply Chain Management, Manufacturing
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
-- beginner
+- intermediate
 roles:
 - developer
 products:
@@ -22,332 +24,134 @@ products:
 exams:
 - uid: exam.mb-320
 summary: |-
-  Este curso discute a manufatura no conjunto de aplicativos do Dynamics 365&#58; manufatura discreta, manufatura enxuta e produção
+  Este curso possui seis módulos e é projetado para 4 dias de experiência de aprendizagem. Pode ser ensinado pessoalmente e/ou virtualmente. Seu instrutor irá fornecer-lhe a agenda para este curso. O módulo 1 apresentará a necessidade de configuração para a Dynamics 365 Supply Chain Management, Manufacturing. O módulo 2 se aprofundará a questão da gestão dos diferentes tipos de processos de fabricação. O módulo 3 abordará implementação do planejamento mestre para a produção. O módulo 4 abordará a implementação de várias características de fabricação. O módulo 5 se concentrará na subcontratação para a fabricação de produtos. 
 
   #### Perfil do público
-  Um consultor funcional do Dynamics 365 Finance é responsável por realizar a descoberta, capturar requisitos, envolver especialistas e partes interessadas no assunto, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, aplicativos e integrações de serviços.
+  Um Dynamics 365 for Finance and Operations Functional Consultan é responsável por realizar a descoberta, capturar requisitos, engajar especialistas e intervenientes, traduzir requisitos e configurar a solução e aplicativos. O Consultor Funcional implementa uma solução usando recursos fora da caixa, extensibilidade sem código, integrações de aplicativos e serviços.
 prerequisitesSection: |-
-  - Habilidades básicas de fabricação
-  - Habilidades principais do Dynamics 365
+ - Compreensão básica para gestão da cadeia de fornecimento e terminologia de fabricação
+ - Compreensão básica dos aplicativos de Dynamics 365 finance and operation
 outlineSection: |-
-  ### Módulo 1&#58; Introdução ao controle de produção
-  Este módulo explica os conceitos usados ​​no módulo de controle de Produção em Finanças e Operações.
+  ### Módulo 1&#58; Configurar Dynamics 365 Supply Chain Management, Manufacturing
+  Este módulo abordará as diferentes configurações nas quais os consultores funcionais precisarão implementar os recursos de fabricação.
 
-  #### Lições
-  - Introdução
-  - Comparar manufatura discreta, enxuta e de processo
-  - Configurar controle de produção para fabricação unificada
-  - Compreender o planejamento de capacidade
-  - Razão geral e módulo de controle de produção
-  - Laboratórios práticos
-  - Sumário
+  #### Aulas
+  - Configurar e gerenciar o módulo de controle de produção
+  - Configurar e gerenciar recursos para processos de produção - Configurar fabricação discreta
+  - Configurar fabricação de processos
+  - Configurar fabricação enxuta
 
-  Metodologias de fabricação discretas, enxutas e de processo
-  - Fabricação unificada
-  - Como configurar o controle de produção para fabricação unificada
-  - Planejador de capacidade
-  - Interconectividade entre o razão geral e os módulos de controle de produção
-  - Pools de produção
+  Após concluir este módulo, os alunos poderão&#58;
+  - Configurar e gerenciar o módulo de controle de produção
+  - Configurar e gerenciar recursos para processos de produção - Configurar fabricação discreta
+  - Configurar a fabricação de processos
+  - Configurar a fabricação enxuta
 
 
-  ### Módulo 2&#58; Introdução à Manufatura Discreta
-  Embora os processos de fabricação de cada entidade legal sejam únicos, dependendo da natureza do ambiente de produção, os principais elementos conceituais usados ​​no módulo de controle de produção são frequentemente muito semelhantes.
-  #### Lições
-  - Introdução
-  - Compreender os status discretos do processo de produção
-  - Compreender a Lista de Materiais
-  - Trabalhando com configurações de BOM e item
-  - Criar lista de materiais
-  - Ordens de produção
-  - Laboratórios práticos
-  - Resumo do módulo
+  ### Módulo 2&#58; Gerenciar processos de fabricação 
+  Este módulo irá ajudá-lo a entender e praticar a maioria das transações necessárias para os diferentes cenários de fabricação.
+  #### Aulas
+  - Gerenciar pedidos de produção
+  - Gerenciar pedidos em lote
+  - Gerenciar pedidos kanban
 
-  Conceitos de fabricação discretos
-  - Estátuas do processo de produção
-  - Fases de produção
-  - lista de materiais (BOM)
-  - Recursos
-  - Rotas e Operações
+  #### Laboratório &#58; Estudo de caso 1A fabricação discreta
+  - Exercício #1&#58; Atualização dos parâmetros de controle de produção
+  - Exercício #2&#58; Criar novas piscinas de produção
+  - Exercício #3&#58; Criar e gerenciar recursos
+  - Exercitar #4&#58; Criar uma operação, atribuir relações e criar uma rota
+  - Exercício #5&#58; Criar um BOM simples sem versão
+  - Exercício #6&#58; Criar um BOM no designer BOM (Bônus)
+  - Exercício #7&#58; Criar um BOM com uma versão
+  - Exercício #8&#58; Criar um pedido de produção
+  - Exercício #9&#58; Iniciar um pedido de produção discreta (Bônus)
+  - Exercício #10&#58; Executar um cronograma de recursos
+  - Exercício #12&#58; Configurar políticas de custeio
+  - Exercício #13&#58; Configurar execução de fabricação (Bônus)
+  - Exercício #14&#58; Configurar o consumo automático de rotas em trabalhos de configuração (Bônus)
+  - Exercício #15&#58; Usar execução de fabricação (Bônus) 
+
+  ### Laboratório &#58; Estudo de caso 1B fabricação de processos
+  - Exercício #1&#58; Criar uma lista de fornecedores aprovada e um método de configuração para Avisos Somente (Bônus)
+  - Exercício #2&#58; Criar itens com diferentes tipos de produção
+  - Exercício #3&#58; Criar e ativar uma fórmula usando diferentes tipos de produtos
+  - Exercício #4&#58; Criar uma nova fórmula com uma versão do formulário de produtos lançados (Bônus)
+  - Exercício #5&#58; Revisar, atualizar e ativar uma fórmula (Bônus)
+  - Exercício #6&#58; Usar o recurso de escalabilidade para criar uma nova fórmula
+  - Exercício #7&#58; Criar e ativar uma fórmula baseada em porcentagem (Bônus)
+  - Exercício #8&#58; Alterar um consumo linear para um consumo passo-a-passo
+  - Exercício #9&#58; Configurar preços de commodities (Bônus)
+  - Exercício #10&#58; Alterar um cálculo de preços e atualizar acordos comerciais
+  - Exercício #11&#58; Criação de um cálculo de preço de comodidades
+  - Exercício #12&#58; Criação de listas, registros e carregamento de arquivos PSDS para conformidade com o produto
+  - Exercício #13&#58; Adicionar detalhes de relatórios para um item
+  - Exercício #14&#58; Criar um pedido de vendas e imprimir um PSDS 
+  - Exercício #15&#58; Criar e associar um atributo de lote
+  - Exercitar #16&#58; Criar um novo número de lote e registar manualmente o atributo do lote
+  - Exercitar #17&#58; Criar pedidos de qualidade e verificar atributos em lote
+  - Exercício #18&#58; Completar uma reserva em lote usando um requisito de atributo
+  - Exercício #19&#58; Definir um item de peso de captura de visibilidade parcial
+  - Exercício #20&#58; Usar itens de peso de captura num contrato comercial de compra
+  - Exercício #21&#58; Criar um atributo de lote para um item de potência
+  - Exercício #22&#58; Modificar e ativar uma cópia de uma fórmula de item de potência
+  - Exercício #23&#58; Configurar preços com base no atributo (Bônus) de um item
+  - Exercício #24&#58; Registo de potência no recebimento (Bônus)
+  - Exercício #25&#58; Relatório e balanceamento de pedidos em lote (Bônus) 
+
+  #### Laboratório &#58; Estudo de caso 1C Fabricação Lean
+  - Exercício #1&#58; Criar fluxos de valor
+  - Exercitar #2&#58; criar um novo modelo de fluxo de produção
+  - Exercício #3&#58; Criar uma atividade de processo
+  - Exercício #4&#58; Criar uma nova atividade de transferência
+  - Exercício #5&#58; Adicionar um sucessor à atividade de fluxo de produção e realizar validação e ativação
+  - Exercício #6&#58; Criar regras Kanban e agendar o trabalho Kanban 
+  - Exercício #7&#58; Processo programado Kanban para trabalhos de processo e transferência
+  - Exercício #8&#58; Cumprir um pedido de vendas planejando um Kanban e produzir um item (Bônus)
+
+  Após concluir este módulo, os alunos serão capazes de&#58; 
+  - Gerenciar pedidos de produção
+  - Gerenciar pedidos em lote
+  - Gerenciar pedidos kanban
 
 
-  ### Módulo 3&#58; Configurar fabricação discreta
-  Antes de poder trabalhar no módulo de controle de Produção e criar ordens de produção, é necessário configurar os parâmetros de produção. Os parâmetros que você seleciona têm impacto direto na ordem de produção e no ciclo de vida da produção. Você pode definir parâmetros por empresa ou site, o que determina se o Dynamics 365 for Finance and Operations usa os parâmetros no nível da empresa ou os parâmetros específicos do site.
+  ### Módulo 3&#58; Implementar o planejamento mestre para a produção
+  Este módulo explicará os aspectos do planejamento mestre necessários para a fabricação do consultor funcional
+  #### Aulas
+  - Configurar e gerenciar o planejamento mestre
+  - Planejar, programar e executar o planejamento da capacidade de produção
 
-  Parâmetros, ordens de produção e ciclo de vida revisam como esses parâmetros são definidos, como os nomes dos diários são usados, como as ordens de produção são criadas e as maneiras pelas quais eles são processados ​​através da fabricação com base em seu status e no ciclo de vida da produção. Esta lição explica como configurar a manufatura discreta no Finance and Operations.
+  #### Laboratório &#58; Estudo de caso 2 planejamento mestre
+  - Exercício #1&#58; Firmar um pedido planejado e alterar o tipo de pedido
+  - Exercício #2&#58; Criar um grupo de planejamento entre empresas e atribuir uma chave de alocação de itens
+  - Exercício #3&#58; Planejar um cronograma de produção a partir de uma corrida de planejamento mestre (Bônus) 
 
-  #### Lições
-  - Introdução
-  - Preparar contabilidade para produção
-  - Configurar parâmetros de controle de produção
-  - Configurar calendário e recursos
-  - Configurar operações e rotas.
-  - Laboratório prático
-  - Resumo do módulo
-
-  Configurar dimensões de estoque na produção
-  - Configurar parâmetros, ordens de produção e status
-  - Configurar agendas e recursos
-  - Configurar operações e rotas.
+  Após a conclusão deste módulo, os alunos poderão&#58;
+  - Configurar e gerenciar o planejamento mestre
+  - Planejar, agendar e executar o planejamento da capacidade de produção
 
 
-  ### Módulo 4&#58; Criar e concluir ordens de produção
-  O ciclo de vida de uma ordem de produção reflete as etapas reais que são tomadas para fabricar um produto. Começa com a criação de uma ordem de produção e termina com um produto acabado e fabricado, pronto para o cliente. A ordem de produção recebe um status que reflete onde está no ciclo de vida da produção.
-
-  Este módulo revisa os estágios Release, Start, Report como concluído e End no ciclo de vida da produção na ordem em que são conduzidos. Liberar, Iniciar e Relatório como concluídos são considerados parte do controle de produção
-  #### Lições
-  - Introdução
-  - Planejamento, programação e subcontratação de capacidade
-  - Sucata e resíduos
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Compreender o planejamento de capacidade
-  - Criar ordens de produção discretas
-  - Agendar uma ordem de produção
-  - Processar pedidos de produção
-  - Controle e produção final
-
-
-  ### Módulo 5&#58; Trabalhar com planilha de custos
-  Este módulo descreve como configurar uma planilha de custos que inclui material e fabricação, bem como como a configuração afeta os resultados do cálculo da BOM.
-
-  Vamos aprender como configurar e gerenciar a planilha de custos no Finance and Operations.
-  #### Lições
-  - Introdução
-  - Entenda a tabela de custos
-  - Cálculo de lista técnica e análise de planilha de custos
-  - Resumo do módulo
-
-  Como trabalhar com a planilha de custos
-
-  ### Módulo 6&#58; Usar execução de fabricação
-  A execução da fabricação destina-se principalmente a ser usada pelas empresas de fabricação. Os trabalhadores podem registrar o tempo e o consumo de itens nos trabalhos de produção e atividades do projeto usando o formulário Registro de trabalhos.
-
-  Todos os registros são aprovados e subsequentemente transferidos para os módulos relevantes do Dynamics 365 for Finance and Operations. A aprovação e a transferência contínuas de registros oferecem aos gerentes a capacidade de rastrear facilmente os custos reais nas ordens de produção.
-  #### Lições
-  - Introdução
-  - Compreender as execuções de fabricação
-  - Identificar funções
-  - Considerações de planejamento
+  ### Módulo 4&#58; Implementar outros recursos de fabricação
+  Este módulo abordará diferentes características importantes comumente usadas pelos clientes de fabricação.
+  #### Aulas
   - Configurar execução de fabricação
-  - Controle de produção
-  - Laboratórios práticos
-  - Resumo do módulo
+  - Configurar políticas de custeio
+  - Definir modelos de configuração do produto usando o Product Configurator
 
-  Compreender a execução da fabricação
-  - Identificar as funções na execução da fabricação
-  - Processar pedidos de produção
-  - Compreender os fluxos de trabalho do processo para gerenciar uma produção
-
-
-  ### Módulo 7&#58; Introdução à configuração do produto
-  A configuração do produto é uma ferramenta de configuração de produto baseada em restrições que usa a tecnologia de produto Microsoft Solver Foundation (MSF) projetada para modelagem e solução de restrições.
-
-  Você pode usar a configuração do produto para criar e manter modelos de configuração do produto e reutilizar componentes e tipos de atributos. Atributos, restrições, subcomponentes, requisitos do usuário, linhas da lista de materiais (BOM) e operações de rota são implicitamente reutilizadas quando você reutiliza um componente. Os componentes também podem reutilizar definições de restrição de tabela.
-
-  Este módulo explica como começar a configurar o produto no Finance and Operations.
-  #### Lições
-  - Introdução
-  - Compreender o modelo de configuração do produto
-  - Construir um modelo de configuração do produto
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  A terminologia que é importante para entender os conceitos e processos
-  - Cenário de ponta a ponta da configuração do produto
-  - As diferentes áreas que abrangem o processo de configuração do produto
-  - O modelo de configuração do produto
-  - Como construir um modelo de configuração do produto
+  Após a conclusão deste módulo, os alunos poderão&#58;
+  - Configurar a execução da fabricação
+  - Configurar políticas de custeio
+  - Definir modelos de configuração do produto usando o Product Configurator
 
 
-  ### Módulo 8&#58; Introdução ao Lean Manufacturing
-  Este tópico explica como iniciar a fabricação enxuta no Finance and Operations.
+  ### Módulo 5&#58; Subcontratação para fabricação de produtos
+  Este módulo abordará a configuração e o uso de recursos de subcontratação
+  #### Aulas
+  - Configuração de subcontratação
+  - Utilizando subcontratação
 
-  #### Lições
-  - Introdução
-  - Conceitos e terminologia
-  - Resumo do módulo
+  #### Laboratório &#58; Estudo de caso 3 subcontratação
+  - Exercício #1&#58; Configurar recursos de subcontratação 
 
-  Entenda a fabricação enxuta
-  - Compreender conceitos e terminologia Lean
-
-
-  ### Módulo 9&#58; Configurar a fabricação enxuta
-  Este tópico explica como configurar a manufatura enxuta no Finance and Operations.
-
-  Um cenário de manufatura enxuta é geralmente mais do que um acúmulo de regras Kanban não relacionadas ou políticas de fornecimento de material. O fluxo de material e produtos pelas células e locais de trabalho para um cenário específico de produção ou fornecimento pode ser descrito como uma sequência ou pequena rede de atividades de processo ou transferência, chamada fluxo de produção.
-
-  Os fluxos de produção baseados em atividades são introduzidos no Finance and Operations para estabelecer um contexto de produção e custo para vários cenários de Kanban. Todas as regras do Kanban estão diretamente conectadas a essa estrutura predefinida.
-
-  O modelo baseado em atividades permite que os usuários configurem uma variedade maior de cenários do que o suportado pelas versões anteriores do Lean Manufacturing para Finanças e Operações, sem adicionar complexidade aos trabalhadores da fábrica, porque todos os cenários usam a mesma interface do usuário baseada em atividades.
-  #### Lições
-  - Introdução
-  - Configurar parâmetros
-  - Criar fluxos de valor e modelos de fluxo de produção
-  - Criar fluxos de produção
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Configurar parâmetros
-  - Configurar fluxos de valor
-  - Criar fluxos de produção
-  - Configurar células de trabalho de fabricação enxuta
-
-
-  ### Módulo 10&#58; Criar e processar regras Kanban fixas
-  No Dynamics 365 for Finance and Operations, um Kanban é implementado como uma estrutura para planejar, rastrear e processar com base nos sinais Pull.
-
-  Um Kanban é uma parte essencial de um sistema de fornecimento pull, que é um elemento crítico da produção/fornecimento Lean. Quando um Kanban é consumido, ele deve ser passado (acionado) para a fonte de suprimento para reabastecê-lo. Essa fonte de suprimento é definida pelas atividades de fluxo de produção às quais o Kanban está vinculado.
-
-  As regras do Kanban no Finance and Operations estão vinculadas aos fluxos de produção como a base que define as atividades de um Kanban. As regras do Kanban podem ser configuradas para oferecer suporte a uma variedade de cenários de produção em estoque e sob encomenda.
-  #### Lições
-  - Introdução
-  - Painéis Kanban
-  - Configurar uma regra Kanban fixa
-  - Processar Kanbans fixos
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Você entendeu uma visão geral dos tipos Kanbans e Kanban
-  - Como configurar e processar as regras Kanban Fixas
-  - Regras Kanban
-  - Fabricação Kanbans
-  - Retirada Kanbans
-  - Quantidade fixa de Kanbans
-
-
-  ### Módulo 11&#58; Criar e processar regras Kanban de eventos
-  Neste módulo, discutimos os Kanbans de eventos e as diferentes maneiras de acioná-los.
-  #### Lições
-  - Introdução
-  - Configurar regras Kanban de eventos
-  - Configurar vendas, Kanban, reabastecimento de estoque e eventos de linha de BOM
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Configurar e processar regras Kanban de eventos
-  - Regras Kanban
-  - Fabricação Kanbans
-  - Retirada Kanbans
-  - Criar e gerenciar o evento da linha de vendas Kanban
-  - Criar e gerenciar o evento da linha da lista técnica Kanban
-  - Você entende cenários de amostra para processos de Kanbans de eventos e tipos diferentes de Kanban de eventos.
-
-
-  ### Módulo 12&#58; Criar e processar regras Kanban agendadas
-  As ordens planejadas do tipo Kanban são criadas com base na regra Kanban e seguem a lógica e os horizontes de planejamento mestre. As configurações de cobertura do item de Planejamento Mestre determinam como as ordens planejadas são criadas e se são automáticas ou manualmente reafirmadas. Neste módulo, discutimos o Kanban agendado no Dynamics 365 for Finance and Operations.
-  #### Lições
-  - Introdução
-  - Configurar regras Kanban agendadas
-  - Compreender os cálculos de quantidade Kanban e Kanbans de circulação
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Configurar e trabalhar com regras Kanban
-  - Configurar e trabalhar com Kanbans de Manufatura
-  - Configurar e trabalhar com Kanbans de Retirada
-  - Configurar e trabalhar com Criar e gerenciar Kanban agendado
-  - Configurar e trabalhar com o cronograma de Suprimentos
-  - Configurar e trabalhar com cálculos de quantidade Kanban
-
-
-  ### Módulo 13&#58; Configurar subcontratação baseada em atividades e custo do fluxo de produção
-  O princípio básico de um fluxo de produção não muda quando as atividades são subcontratadas usando Finanças e Operações; o material ainda flui entre locais, as atividades de processo convertem material em produtos e as atividades de transferência movem material ou produtos de um local para outro.
-
-  No Dynamics 365 for Finance and Operations, há duas abordagens para subcontratação&#58; ordens de produção e fabricação enxuta.
-
-  A primeira abordagem modela o trabalho de subcontratação como um serviço relacionado a uma atividade de um fluxo de produção. É necessário configurar um tipo de grupo de custos, terceirização direta, para que os serviços de subcontratação não façam parte de uma lista de material.
-
-  A contabilidade de custos do trabalho subcontratado é completamente integrada no novo custo de fabricação do Microsoft Dynamics 365 for Finance and Operations.
-  #### Lições
-  - Introdução
-  - Configurar subcontratação baseada em atividades
-  - Entender o custo do fluxo de produção
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Configurar subcontratação baseada em atividades
-  - Configurar programação de produção e subcontratação
-  - Designar fornecedores como subcontratados
-  - Configurar o custo do fluxo de produção
-
-
-  ### Módulo 14&#58; Introdução à Manufatura de Processos
-  Este tópico explica como iniciar o processo de fabricação no Finance and Operations.
-  #### Lições
-  - Introdução
-  - Compreender a fabricação de processos
-  - Entender o gerenciamento de fórmulas
-  - Compreender co-produtos e subprodutos
-  - Configurar fornecedores aprovados
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Compreender a fabricação de processos
-  - Entender o gerenciamento de fórmulas
-  - Compreender co-produtos e subprodutos
-  - Entender os fornecedores aprovados
-
-
-  ### Módulo 15&#58; Identificar e configurar atributos de lote para fabricação de processos
-  Este tópico explica como configurar atributos de lote no Finance and Operations.
-
-  #### Lições
-  - Introdução
-  - Identificar e configurar atributos de lote
-  - Criar e configurar itens de obtenção de peso (Catch Weight)
-  - Gerenciamento de potência de configuração
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Compreender atributos de lote
-  - Identificar e configurar atributos de lote
-  - Entender processos de controle de lotes e batches
-  - Configurar retrabalho em lote
-
-
-  ### Módulo 16&#58; Configurar preços de commodities e conformidade do produto
-  Este tópico explica como trabalhar com preços de commodities e conformidade no Finance and Operations.
-  #### Lições
-  - Introdução
-  - Configurar preços de commodities
-  - Configurar conformidade do produto
-  - Laboratórios práticos
-  - Resumo do módulo
-
-  Configurar preços de commodities
-  - Configurar conformidade do produto
-
-
-  ### Módulo 17&#58; Usar Gerenciamento de armazém para fabricação
-  Os objetivos deste módulo são revisar a interação entre reservas de fabricação e armazém, revisar a configuração de grupos de modelos de itens para utilizar fabricação e armazenamento e discutir as regras relacionadas à reserva de itens usando fabricação de processos e armazenamento.
-  #### Lições
-  - Introdução
-  - Preparar o gerenciamento de armazém para fabricação
-  - Usar o gerenciamento de armazém para fabricação
-  - Resumo do módulo
-
-  Entender as ondas de produção
-  - Criar modelos de onda para ordens de produção
-  - Operações diretas de rota de matérias-primas
-  - Revisão de como configurar e usar dispositivos móveis com produção de processos
-  - Reservar matérias primas
-  - Liberar ordens de produção
-  - Processar uma coleta de produção
-  - Processar um relatório de produção como concluído
-  - Configuração para pedidos em lote
-  - Processar ordens de lote
-  - Revisar as ordens de lote com potência
-  - Analisar as ordens de lote com co-produtos e subprodutos
-  - Trabalhar com locais para produtos acabados
-  - Locais de entrada para consumo de recursos
-
-
-  ### Módulo 18&#58; Conclusão do Curso
-  Concluir a fabricação
-  #### Lições
-  - Avaliação final
-  - Resumo do curso
-
-  Você concluiu o curso
-
+  Após a conclusão deste módulo, os alunos poderão&#58; 
+  - Configurar subcontratação
+  - Utilizar subcontratação

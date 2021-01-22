@@ -1,0 +1,57 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Business Central Functional Consultant
+metadata:
+  title: 'Course MB-800T00-A: Microsoft Dynamics 365 Business Central Functional Consultant'
+  description: 'Course MB-800T00-A: Microsoft Dynamics 365 Business Central Functional Consultant'
+uid: course.mb-800t00
+courseNumber: 'MB-800T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Entender os casos de uso para módulos da Business Central
+- skill: Configurar Business Central
+- skill: Configurar Finanças
+- skill: Configurar vendas e compras
+- skill: Configurar Operações
+- skill: Entender cenários de Integração e Automação
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-business-central
+- power-platform
+exams:
+- uid: exam.mb-800
+summary: |-
+  Construído e otimizado para pequenas e médias empresas, a Dynamics 365 Business Central é um aplicativo para empresas que superaram seus aplicativos de negócios de nível básico. As empresas em crescimento geralmente superam seus sistemas básicos de software contábil ou de planejamento de recursos corporativos legados (ERP) que são incapazes de lidar com o aumento do estoque e das transações, não têm integração com outros sistemas de linha de negócios e têm limitações de relatórios. As empresas também são desafiadas com a logística de prestação de serviços que tenham mais escalabilidade, maior mobilidade e disponibilidade em cloud. Com o Business Central, você pode gerenciar suas finanças, automatizar e proteger sua cadeia de fornecimento, vender de forma mais inteligente, melhorar o apoio ao cliente e o desempenho do projeto e otimizar suas operações.
+
+  #### Perfil do público
+  Um Dynamics 365 Business Central core Functional Consultant é responsável pela implementação de processos principais de configuração de aplicativos para pequenas e médias empresas.
+prerequisitesSection: |-
+  Este curso é projetado para consultores funcionais que trabalham com a Dynamics 365 Business Central, ou consultores funcionais que trabalham com outros aplicativos Dynamics 365 que desejam expandir seus conhecimentos sobre a Business Central.
+outlineSection: |-
+  ### Módulo 1&#58; Introdução à Business Central
+  Introdução aos Módulos da Business Central 
+  #### Aulas
+  
+  
+  ### Módulo 2&#58; Configuração do Aplicativo
+  
+  
+  ### Módulo 3&#58; Configurar Finanças
+  
+  
+  ### Módulo 4&#58; Configurar Vendas e Compras
+  
+  
+  ### Módulo 5&#58; Operações
+  
+  
+  ### Módulo 6&#58; Integração e Automação
+  
+  #### Leitura Adicional
+  Microsoft.com/learn
