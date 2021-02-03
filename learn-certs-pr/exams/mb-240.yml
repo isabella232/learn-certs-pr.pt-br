@@ -8,13 +8,13 @@ displayName: MB-240
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame foi atualizado em 10 de novembro de 2020. Faça download do documento de competências avaliadas abaixo para ver as alterações.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame será atualizado em 15 de janeiro de 2021. Baixe o esboço abaixo de habilidades avaliadas para ver o que vai mudar.</strong><br/><br/></div>
   </div>
-
+  
   Os candidatos a este exame são Consultores Funcionais da Dynamics 365 Customer Engagement com experiência em serviço no campo. Os candidatos são responsáveis pela implementação de soluções que gerem recursos que completam o ciclo de vida do serviço de campo.
-
+  
   Os candidatos implementam os processos de serviço de campo concebidos em colaboração com equipas internas e externas. Esta colaboração inclui a configuração das áreas de administração padrão da aplicação de Serviço de Campo, a implementação da solução Connected Field Service (IoT) e do aplicativo móvel, e a implementação de quaisquer personalizações adicionais necessárias. Os candidatos são responsáveis pela configuração e implementação da aplicação do Serviço de Campo em conjunto com a aplicação central de serviço ao cliente.
-
+  
   Os candidatos devem ter conhecimento de como configurar e personalizar componentes do aplicativo de serviço de campo, incluindo serviços de configuração, recursos, características, incidentes, integração de inventário, contratos de serviços, agendamento de recursos, ordens de trabalho, tarefas de serviço, funções de usuário de serviço de campo, configurações de serviço de campo, a solução de Connected Field Service (IoT) e configuração do aplicativo Field Service Mobile.
 subTitle: 'Este exame mede a sua capacidade em realizar as seguintes tarefas técnicas: configurar aplicativos de serviço no campo; gerir ordens de trabalho; programar e enviar ordens de trabalho; gerir a mobilidade de serviço de campo; gerir inventário e compras; e implementar Connected Field Service.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 10 de novembro de 2020. Faça o download do esboço de competências do exame abaixo para ver as alterações.
+- O conteúdo deste exame será atualizado em 15 de janeiro de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
 - Configurar aplicativos de serviço no campo (15-20%)
 - Gerenciar ordens de serviço (15-20%)
 - Programação e expedição de ordens de trabalho (25-30%)

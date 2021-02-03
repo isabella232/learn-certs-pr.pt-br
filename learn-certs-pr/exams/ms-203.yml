@@ -7,17 +7,16 @@ uid: exam.ms-203
 displayName: MS-203
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></div>
-  <div><strong>O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Baixe o documento de competências avaliadas abaixo para ver as alterações.</strong><br/><br/></div>
+  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
+  <div><strong>O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que vai mudar.</strong><br/><br/></div>
   </div>
- 
-
+  
   Os candidatos a este exame são Messaging Administrators que implementam, configuram, gerenciam, solucionam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes híbridos e na nuvem.
-
+  
   Os Messaging Administrators são responsáveis por gerenciar a higiene, a infraestrutura de mensagens, a configuração híbrida, a migração, o transporte, as caixas de correio e o acesso do cliente.
-
+  
   Os Messaging Administrators colaboram com o Security Administrator e o Microsoft 365 Enterprise Administrator para implementar uma topologia híbrida somente na nuvem segura que atenda às necessidades de negócios da empresa.
-
+  
   O Messaging Administrator deve ter um conhecimento prático dos tipos de autenticação, licenciamento e integração com aplicativos do Microsoft 365.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: gerenciar configurações e recursos organizacionais, planejar e gerenciar a arquitetura de e-mail, planejar e implementar uma configuração e migração híbridas e proteger o ambiente de mensagens.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -29,7 +28,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Faça o download do esboço das competências ao exame abaixo para ver as alterações.
+- O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
 - Gerenciar configurações e recursos organizacionais (30-35%)
 - Planejar e gerenciar a arquitetura de e-mail (20-25%)
 - Planejar e implementar uma configuração e migração híbrida (20-25%)

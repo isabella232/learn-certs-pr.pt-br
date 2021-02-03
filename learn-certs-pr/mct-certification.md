@@ -57,8 +57,8 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
 	- Habilidades de treinamento básico da Microsoft
     - New Horizons Instructional Skills Certification
     - PrepMasters USA
-    - Modern Classroom Certified Trainer (MCCT®) [Apenas para funcionários da faculdade ou professores]
-    - Certified Virtual Educator [Apenas para funcionários da faculdade ou professores]
+    - Modern Classroom Certified Trainer (MCCT®)
+    - Certified Virtual Educator
   
   OU<br/><br/>
 
@@ -96,9 +96,9 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
-- [Microsoft Certified: Power Platform Functional Consultant Associate](/learn/certifications/power-platform-functional-consultant-associate)
 - [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
 - [Microsoft Certified: Power Platform Developer Associate](/learn/certifications/power-platform-developer-associate)
+- [Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate](/learn/certifications/d365-business-central-functional-consultant-associate)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)
@@ -108,7 +108,7 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
 - [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-supply-chain-management.aspx)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
-- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) (a ser desativado em 31 de dezembro de 2020)
+- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) (reformado em 31 de dezembro de 2020)
 - [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
 - [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (a ser desativado em 31 de janeiro de 2021), Microsoft Dynamics 365 for Operations (a ser desativado em 31 de janeiro de 2021; [veja aqui os requisitos associados a cada qualificação e certificação do Microsoft Dynamics](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm)), SQL 2016 BI Development (a ser desativado em 31 de janeiro de 2021), Administração de bando de dados SQL 2016 (a ser desativado em 31 de janeiro de 2021), Desenvolvimento de banco de dados SQL 2016 (a ser desativado em 31 de janeiro de 2021), SQL Server 2012/2014 (a ser desativado em 31 de janeiro de 2021), Universal Windows Platform (a ser desativado em 31 de janeiro de 2021), Web Applications (a ser desativado em 31 de janeiro de 2021), Windows Server 2012 (a ser desativado em 31 de janeiro de 2021) ou Windows Server 2016 (a ser desativado em 31 de janeiro de 2021)
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Aplicações de Negócios (a ser desativado em domingo, 31 de janeiro de 2021), Gestão de Dados e Análise (a ser desativado em domingo, 31 de janeiro de 2021), Produtividade (a ser desativado em domingo, 31 de janeiro de 2021), ou Infraestrutura Central (a ser desativado em domingo, 31 de janeiro de 2021)
