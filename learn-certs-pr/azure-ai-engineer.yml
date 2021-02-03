@@ -7,13 +7,13 @@ uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-
+  
   Os candidatos à certificação Azure AI Engineer Associate devem ser especialistas no uso de serviços cognitivos, aprendizado de máquina e mineração de conhecimento para projetar e implementar soluções de inteligência artificial da Microsoft que envolvem o processamento de linguagem natural, fala, pesquisa visual computacional e IA para reconhecimento vocal.
-
+  
   As responsabilidades da função incluem a análise de requisitos de soluções de IA, recomendação das ferramentas e tecnologias apropriadas e projeto e implementação de soluções de IA que atendam aos requisitos de escalabilidade e desempenho.
-
+  
   Os engenheiro de IA do Azure traduzem a visão dos arquitetos de soluções e trabalham com cientistas de dados, engenheiros de dados, especialistas em IoT e desenvolvedores de IA para a criação de soluções completas.
-
+  
   O candidato à certificação deve ter conhecimento e experiência na criação e implementação de aplicativos e agentes de IA que usam os Serviços Cognitivos do Microsoft Azure, o Serviço de Bot do Azure, o Azure Cognitive Search e o armazenamento de dados no Azure. Além disso, o candidato deve ser capaz de recomendar soluções que usem tecnologias de código aberto, entender os componentes que compõem o portfólio de IA do Azure e as opções de armazenamento de dados disponíveis e entender quando uma API personalizada deve ser desenvolvida para atender a requisitos específicos.
 subTitle: Os engenheiros de AI do Azure usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de AI da Microsoft envolvendo processamento de linguagem natural, fala, visão de computador, bots e agentes.
 levels:
@@ -29,14 +29,13 @@ products:
 - azure
 - azure-cognitive-services
 - azure-bot-service
-- azure-machine-learning-service
 - azure-machine-learning-studio
 - azure-search
 courses:
 - uid: course.ai-100t01
 paths:
 - uid: learn.data-ai.evaluate-text-with-language-services
-- uid: learn.data-ai.translate-speech-with-speech-services
+- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
 - uid: learn.data-ai.create-bots-with-the-azure-bot-service
 - uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf

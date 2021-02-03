@@ -17,6 +17,12 @@ Se você estiver procurando por cursos do MOC On-Demand desativados, siga o link
 
 ## Cursos desativados: Treinamento ministrado por instrutor
 
+* Reforma de material em 31 de março de 2021
+
+    | Número do curso | Versão | Título | Idioma | Data de desativação |
+    | --- | --- | --- | --- | --- |
+    | 20778 | C | Analyzing Data with Power BI | Inglês | 31/03/2021 |
+
 * Cursos desativados em 31 de dezembro de 2020
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |

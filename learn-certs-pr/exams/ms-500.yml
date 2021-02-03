@@ -8,12 +8,12 @@ displayName: MS-500
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Baixe o documento de competências avaliadas abaixo para ver as alterações.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que vai mudar.</strong><br/><br/></div>
   </div>
-
+  
   Os candidatos a este exame implementam, gerenciam e monitoram soluções de segurança e conformidade em ambientes do Microsoft 365 e ambientes híbridos. O Microsoft 365 Security Administrator protege ambientes corporativos do Microsoft 365 Enterprise, responde a ameaças, realiza investigações e impõe a governança de dados. O Microsoft 365 Security Administrator colabora com o Microsoft 365 Enterprise Administrator, com partes interessadas e com outros administradores para planejar e implementar estratégias de segurança e garante que as soluções estejam em conformidade com as políticas e regulamentos da organização.
   <br/>
-
+  
   Os candidatos a este exame estão familiarizados com as cargas de trabalho do Microsoft 365 e têm sólidos conhecimentos e experiência com proteção de identidade, proteção de informações, proteção contra ameaças, gerenciamento de segurança e governança de dados. Essa função se concentra no ambiente Microsoft 365 e inclui ambientes híbridos.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: implementar e gerenciar a identidade e o acesso, implementar e gerenciar a proteção contra ameaças, implementar e gerenciar a proteção de informações e gerenciar recursos de governança e conformidade no Microsoft 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -30,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Faça o download do esboço das competências ao exame abaixo para ver as alterações.
+- O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que vai mudar.
 - Implementar e gerenciar recursos de identidade e acesso (30-35%)
 - Implementar e gerenciar a proteção contra ameaças (20-25%)
 - Implementar e gerenciar a proteção de informações (15-20%)

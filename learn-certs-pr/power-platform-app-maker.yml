@@ -7,8 +7,18 @@ uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></font></div>
-
-  O criador de aplicativos cria soluções para simplificar, automatizar e transformar tarefas e processos para ele e sua equipe, os quais possuem profundo conhecimento no domínio da solução. Eles são especializados em tarefas essenciais de analistas de negócios técnicos, como modelagem de dados, design básico de UX, análise de requisitos, e análise de processos.
+  
+  Se você é um profissional de negócios com profunda experiência em seu domínio de soluções e quer aproveitar sua paixão por construir soluções da Microsoft Power Platform para simplificar, automatizar e transformar tarefas e processos para sua equipe, essa certificação foi projetada para você. Você deve ter as habilidades para realizar tarefas importantes de analista técnico de negócios, como modelagem de dados, design básico de UX, análise de requisitos e análise de processos.
+  
+  Você se encaixa no perfil para a função de app maker se você é auto direcionado e focado em soluções, e você trabalha com as maker tools da Microsoft Power Platform para resolver problemas de negócios. Você pode ter experiência com Visual Basic for Applications, Excel PivotTables, Teams, e outras ferramentas. Embora você possa não ter treinamento formal de TI, você se sente confortável trabalhando com administradores de TI e desenvolvedores da Microsoft Power Platform usando tecnologia para resolver problemas de negócios. Você é responsável por&#58;
+  - Projetar e criar aplicativos e automatizar fluxos de trabalho.
+  - Analisar e visualizar dados no contexto de um aplicativo ou fluxo de trabalho automatizado.
+  - Implementação e gerenciamento de aplicativos e fluxos de trabalho automatizados.
+  
+  Para saber mais, leia nosso post&#58; [Você é um Criador de Aplicativos da Power Platform? Agora é a hora de obter certificado](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/are-you-a-power-platform-app-maker-now-s-the-time-to-get/ba-p/1512993). Se você precisa de mais experiência antes de tentar esta certificação, você pode&#58;
+  - Se voluntariar num projeto para obter experiência na vida real com modelagem de dados, design básico de UX, análise de requisitos ou análise de processos.
+  - Seguir caminhos de aprendizagem no Microsoft Learn.
+  - Inscrever-se num curso de treinamento ministrado por instrutores.
 subTitle: O criador de aplicativos cria soluções para simplificar, automatizar e transformar tarefas e processos para ele e sua equipe, os quais possuem profundo conhecimento no domínio da solução. Eles são especializados em tarefas essenciais de analistas de negócios técnicos, como modelagem de dados, design básico de UX, análise de requisitos, e análise de processos.
 levels:
 - intermediate

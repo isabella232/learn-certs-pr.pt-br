@@ -60,15 +60,9 @@ Encontre os exames agendados para serem desativados nos próximos 12 meses, list
 | [MB6-897](/learn/certifications/exams/mb6-897): Microsoft Dynamics 365 for Retail |
 | [MB6-898](/learn/certifications/exams/mb6-898): Microsoft Dynamics 365 for Talent |
 
-| a ser desativado em quinta-feira, 31 de dezembro de 2020 |
-| --- |
-| [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
-| [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
-
-| Será reformado em 30 de junho de 2021 |
+| a ser desativado em 30 de junho de 2021 |
 | --- |
 | [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
-
 
 ## Exames desativados recentemente
 
@@ -144,6 +138,8 @@ Para fins de referência, os testes desativado dentro do último ano terão um l
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
+| [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 31 de dezembro de 2010
+| [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 31 de dezembro de 2010
 | [MB-900](https://www.microsoft.com/learning/exam-MB-900.aspx) | Microsoft Dynamics 365 Fundamentals | 31 de dezembro de 2019
 | [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx) | Microsoft Dynamics CRM Online Deployment | 31 de dezembro de 2019
 | [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | 31 de dezembro de 2019

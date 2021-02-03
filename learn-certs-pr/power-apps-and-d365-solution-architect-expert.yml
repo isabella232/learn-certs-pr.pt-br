@@ -10,7 +10,7 @@ summary:
   
   Os arquitetos de soluções do Power Apps no Microsoft Dynamics 365 conduzem implementações bem-sucedidas e se concentram em como as soluções podem atender às necessidades técnicas e empresariais mais amplas das organizações.
 
-  <div><br/><strong>NOTA&#58; A obtenção das duas certificações seguintes qualifica-se como um pré-requisito para esta certificação. Este pré-requisito não está listado abaixo devido às limitações do site.</strong><ul>
+  <div>NOTA&#58; A obtenção das duas certificações seguintes qualifica-se como um pré-requisito para esta certificação. Este pré-requisito não está listado abaixo devido às limitações do site.<ul>
   <li><a href="/learn/certifications/power-platform-functional-consultant-associate">Microsoft Certified&#58; Power Platform Functional Consultant Associate</a></li>
   <li><a href="/learn/certifications/power-platform-developer-associate">Microsoft Certified&#58; Power Platform Developer Associate</a></li></ul></div>
 subTitle: Os arquitetos de soluções do Power Apps no Microsoft Dynamics 365 conduzem implementações bem-sucedidas e se concentram em como as soluções podem atender às necessidades técnicas e empresariais mais amplas das organizações.
@@ -34,8 +34,6 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440p
 exams:
 - uid: exam.mb-600
 prerequisites:
-- uid: certification.power-apps-and-d365-developer-associate
-  isOptional: false
 - uid: certification.d365-functional-consultant-sales
   isOptional: false
 - uid: certification.d365-functional-consultant-marketing
