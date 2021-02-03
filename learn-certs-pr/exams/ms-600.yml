@@ -8,13 +8,13 @@ displayName: MS-600
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Baixe o documento de competências avaliadas abaixo para ver as alterações.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que vai mudar.</strong><br/><br/></div>
   </div>
-
+  
   Os candidatos a este exame são os desenvolvedores do Microsoft 365 que projetam, constroem, testam e mantêm aplicativos e soluções otimizadas para as necessidades de produtividade e colaboração das organizações por meio da plataforma Microsoft 365.
-
+  
   Os candidatos a este exame são proficientes em identidade Microsoft e Microsoft Graph. Eles têm conhecimento geral sobre elementos de interface do usuário (incluindo Adaptive Cards e UI Fabric), pontos de integração (incluindo Microsoft Teams, Office Add-ins, SharePoint Framework, Actionable Messages) e determinação de metas de plataforma de carga de trabalho.
-
+  
   Os candidatos devem ter experiência no desenvolvimento de soluções no Microsoft Teams, Suplementos do Office ou estrutura do SharePoint através de todas as fases de desenvolvimento de software. Eles devem ter entendimento básico de REST APIs, JSON, OAuth2, OData, OpenID Connect, Identidades Microsoft (incluindo contas do Azure AD e da Microsoft), Azure AD B2C e conceitos de permissão/consentimento.
 subTitle: 'Este teste mede a sua capacidade de realizar as seguintes tarefas técnicas: implementar o Microsoft Identity, desenvolver aplicativos com o Microsoft Graph, expandir e personalizar o SharePoint e expandir o Teams e o Office.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -30,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Faça o download do esboço das competências ao exame abaixo para ver as alterações.
+- O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
 - Implementar o Microsoft Identity (20-25%)
 - Criar aplicativos com o Microsoft Graph (15-20%)
 - Estender e personalizar o SharePoint (15-20%)

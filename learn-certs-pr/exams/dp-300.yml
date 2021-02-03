@@ -8,16 +8,16 @@ displayName: DP-300
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Baixe o documento de competências avaliadas abaixo para ver as alterações.</strong><br/><br/></div>
+  <div><strong>O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que vai mudar.</strong><br/><br/></div>
   </div>
-
+  
   Os candidatos a este exame são administradores de banco de dados e especialistas em gerenciamento de dados que gerenciam bancos de dados relacionais locais e na nuvem criados com base no Microsoft SQL Server e no Microsoft Azure Data Services.
-
+  
   O Azure Database Administrator implementa e gerencia os aspectos operacionais de soluções de plataformas de dados híbridas e nativas de cloud criadas no Azure Data Services e no SQL Server. O Azure Database Administrator usa uma variedade de métodos e ferramentas para realizar operações diárias, incluindo a aplicação de conhecimento de uso do T-SQL para fins de administração administrativo.
-
+  
   Essa função é responsável pelo gerenciamento, disponibilidade, segurança e monitoramento e otimização de desempenho das soluções modernas de banco de dados relacional. Esta função funciona com a função de Engenheiro de Dados do Azure para gerenciar aspectos operacionais das soluções da plataforma de dados.
-
-  <div></br>Os candidatos a este cargo devem Entender todos os conceitos abordados no <a href='/learn/certifications/exams/dp-900'>Exam DP-900: Microsoft Azure Data Fundamentals</a>.
+  
+  <div></br>Os candidatos a este cargo devem Entender todos os conceitos abordados no <a href='/learn/certifications/exams/dp-900'>Exam DP-900&#58; Microsoft Azure Data Fundamentals</a>.
   </div>
 subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: planejar e implementar recursos da plataforma de dados; implementar um ambiente seguro; monitorar e otimizar recursos operacionais; otimizar o desempenho da consulta; executar automação de tarefas; planejar e implementar um ambiente de alta disponibilidade e recuperação de desastres (HADR); e executar a administração usando o T-SQL.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -31,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Faça o download do esboço das competências ao exame abaixo para ver as alterações.
+- O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
 - Planejar e implementar recursos da plataforma de dados (15-20%)
 - Implementar um ambiente seguro (15-20%)
 - Monitorar e otimizar recursos operacionais (15-20%)

@@ -12,17 +12,17 @@ ms.prod: non-product-specific
 ---
 # Microsoft Ignite Cloud Skills Challenge 2020: Free Certification Exam
 
-Obrigado por participar do [Microsoft Ignite](https://mybuild.microsoft.com/) e completar o [Microsoft Ignite Cloud Skills Challenge](https://aka.ms/IgniteCloudSkillsChallenge). Todos os participantes do Microsoft Ignite que completarem uma rodada de desafios receberão um exame de certificação gratuito, sujeito aos [Termos e Condições](#terms-and-conditions), para ajudá-lo a continuar aprimorando e comprovando seus conhecimentos técnicos aos empregadores e colegas de trabalho. 
+Obrigado por participar do [Microsoft Ignite](https://mybuild.microsoft.com/) e completar o [Microsoft Ignite Cloud Skills Challenge](https://aka.ms/IgniteCloudSkillsChallenge). Todos os participantes do Microsoft Ignite que completarem uma rodada de desafios receberão um exame de certificação gratuito, sujeito aos [Termos e Condições](#terms-and-conditions), para ajudá-lo a continuar aprimorando e comprovando seus conhecimentos técnicos aos empregadores e colegas de trabalho.
 
 ## Detalhes
 
-O exame de certificação gratuito estará disponível para resgate a partir de 14 de outubro de 2020 e é válido até 31 de março de 2021. Se você não agendar e não realizar o [exame qualificado](#eligible-exams) dentro desse prazo, não poderá resgatar sua oferta. 
+O exame de certificação gratuito estará disponível para resgate a partir de 14 de outubro de 2020 e é válido até 31 de março de 2021. Se você não agendar e não realizar o [exame qualificado](#eligible-exams) dentro desse prazo, não poderá resgatar sua oferta.
 
-## Como solicitar seu exame gratuito 
+## Como solicitar seu exame gratuito
 
-Siga as instruções passo a passo abaixo para solicitar seu exame gratuito. 
+Siga as instruções passo a passo abaixo para solicitar seu exame gratuito.
 
-**Passo 1:** Selecione um dos [exames de qualificação](#eligible-exams) e clique no botão "Agendar exame" para iniciar o processo de registro online. 
+**Passo 1:** Selecione um dos [exames de qualificação](#eligible-exams) e clique no botão "Agendar exame" para iniciar o processo de registro online.
 <br/>
 <br/>
 ![Agendar um exame](images/ignite-cloud-skills-step1.png)

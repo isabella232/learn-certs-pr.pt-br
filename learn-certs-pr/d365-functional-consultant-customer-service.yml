@@ -4,22 +4,24 @@ metadata:
   title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
   description: 'Os Consultores Funcionais do Microsoft Dynamics 365 Customer Service criam soluções CX rápidas e ágeis e utilizam a Inteligência Artificial para conduzir insights acionáveis que antecipam as necessidades do cliente.'
 uid: certification.d365-functional-consultant-customer-service
+certificationRenewalUid: renewal.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div>
   <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  <div><strong>EXAME <a href="/learn/certifications/exams/mb-200">MB-200</a> SERÁ SUBSTITUÍDO POR UM EXAME NOVO, <a href="/learn/certifications/exams/pl-200">PL-200</a>. Para conseguir essa certificação precisa passar em MB-200 ou PL-200, mais MB-230, até que MB-200 seja reformado em 31 de dezembro de 2020. Após a reforma do MB-200, precisa passar em PL-200 e MB-230 para obter essa certificação. Nota&#58; Os exames serão reformados às 23:59, horário padrão central.</strong><br/><br/></div></div>
-
+  </div>
+  
   Os Consultores Funcionais do Microsoft Dynamics 365 Customer Service criam soluções CX rápidas e ágeis e utilizam a Inteligência Artificial para conduzir insights acionáveis que antecipam as necessidades do cliente.
 subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 Customer Service criam soluções CX rápidas e ágeis e utilizam a Inteligência Artificial para conduzir insights acionáveis que antecipam as necessidades do cliente.
 levels:
 - intermediate
 skills:
-- Configurar o Common Data Service
-- Criar aplicativos usando Power Apps
-- Criar e gerenciar o Power Automate
-- Implementar chatbots de Power Virtual Agents
-- Integrar Power Apps com outros aplicativos e serviços
+- Realizar descoberta, planejamento e análise
+- Gerenciar o projeto da experiência do usuário
+- Gerenciar entidades e dados
+- implementar segurança
+- implementar Integração
+- Executar a implementação e teste de soluções
 - gerenciar casos e bases de conhecimento
 - Gerenciar filas, direitos e acordos de nível de serviço (SLAs)
 - implementar agendamentos
@@ -32,29 +34,23 @@ products:
 - dynamics-365
 - dynamics-customer-service
 courses:
-- uid: course.pl-200t00
+- uid: course.mb-200t00
 - uid: course.mb-230t01
 paths:
-- uid: learn-dynamics.get-started-using-common-data-service
-- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-bizapps.create-business-process-flow
+- uid: learn-dynamics.implementing-customer-engagement-online
 - uid: learn-bizapps.automate-process-using-flow
-- uid: learn-bizapps.get-started-power-automate-buttons
-- uid: learn-bizapps.best-practices-environments
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
-- uid: learn-bizapps.work-power-virtual-agents
-- uid: learn-bizapps.bring-ai
-- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
 - uid: learn-dynamics.create-surveys
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
 exams:
-- uid: exam.pl-200
+- uid: exam.mb-200
 - uid: exam.mb-230
 resources:
 - title: Cartaz de certificação
