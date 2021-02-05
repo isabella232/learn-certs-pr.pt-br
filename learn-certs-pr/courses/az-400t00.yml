@@ -9,38 +9,75 @@ hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: Planejar a transformação com objetivos e cronogramas compartilhados
-- skill: Selecionar um projeto e identificar métricas de projeto e Indicadores chave de Desempenho (KPI's)
-- skill: Criar uma equipe e estrutura organizacional ágil
-- skill: Projetar uma estratégia de integração de ferramentas
-- skill: Projetar uma estratégia de gerenciamento de licenças (por exemplo, usuários do Azure DevOps e GitHub) 
-- skill: Projetar uma estratégia para a rastreabilidade de ponta a ponta desde itens de trabalho ao software de trabalho
-- skill: Projetar uma estratégia de autenticação e acesso
-- skill: Projetar uma estratégia para integrar instalações e recursos em cloud 
-- skill: Descrever os benefícios em usar Source Control
-- skill: "Descrever Repos da Azure e GitHub- skill: Migrar de TFVC para Git"
-- skill: Gerenciar a qualidade do código, incluindo a dívida técnica SonarCloud, e outras soluções de ferramentas
-- skill: Construir conhecimento organizacional sobre qualidade de código
-- skill: Explique como estruturar repos Git 
-- skill: Descrever fluxos de trabalho de ramificação Git
-- skill: Aproveitar pedidos de tração para colaboração e revisões de código 
-- skill: Aproveitar ganchos Git para automação 
-- skill: Usar o Git para promover a fonte interna em toda a organização 
-- skill: Explicar a função dos Azure Pipelines e seus componentes
-- skill: Configurar Agentes para uso em Azure Pipelines
-- skill: Explicar por que a integração contínua é importante 
-- skill: Implementar integração contínua usando Azure Pipelines
-- skill: Definir Engenharia de Confiabilidade do Site
-- skill: Projetar processos para avaliar a satisfação do usuário final e analisar o feedback do usuário
-- skill: Projetar processos para automatizar a análise de aplicativos
-- skill: Gerenciar alertas e reduzir alertas sem sentido e não acionáveis
-- skill: Realizar retrospectivas irreprimíveis e criar uma habilidade de cultura
-- skill: Definir uma estratégia de infraestrutura e configuração e ferramentas apropriadas para um pipeline de lançamento e infraestrutura de aplicativos
-- skill: Implementar conformidade e segurança em sua infraestrutura de aplicativos
-- skill: Descrever os desafios potenciais com a integração de software de código aberto
-- skill: Inspecionar pacotes de software de código aberto para conformidade com a segurança e com licenças
-- skill: Gerenciar políticas de segurança organizacional e conformidade
-- skill: Integrar verificações de licença e vulnerabilidade em pipelines de construção e implantação
-- skill: Configurar pipelines de construção para acessar a segurança do pacote e classificações de licenças
+- skill: Selecionar um projeto e identificar métricas e KPIs do projeto
+- skill: Criar uma equipe e estrutura organização ágil
+- skill: Descrever as vantagens do uso do controle de origem
+- skill: Migrar do TFVC para o Git
+- skill: Dimensionar o Git para DevOps corporativos
+- skill: Recomendar ferramentas e práticas de gerenciamento de artefatos
+- skill: Pacotes comuns abstratos para permitir o compartilhamento e a reutilização
+- skill: Migrar e consolidar artefatos
+- skill: Migrar e integrar medidas de controle de origem
+- skill: Gerenciar configurações e segredos do aplicativo
+- skill: Desenvolver uma estratégia de qualidade do projeto
+- skill: Planejar práticas seguras de desenvolvimento e regras de conformidade
+- skill: Implementar e gerenciar a infraestrutura de construção
+- skill: Explicar por que a integração contínua é importante
+- skill: Implementar a integração contínua usando Azure DevOps
+- skill: Gerenciar a qualidade do código, incluindo dívida técnica, SonarCloud e outras soluções de ferramentas
+- skill: Gerenciar políticas de segurança com código aberto, OWASP e WhiteSource Bolt
+- skill: Implementar uma estratégia de contêiner, incluindo as diferenças entre contêineres e máquinas virtuais e como os microsserviços aplicam os contêineres
+- skill: Implementar contêineres usando o Docker
+- skill: Inspecionar os pacotes de software de código aberto para garantir a conformidade com a segurança e a licença, alinhando-se aos padrões corporativos
+- skill: Configurar o pipeline de desenvolvimento para acessar a segurança do pacote e a classificação da licença
+- skill: Configurar acesso seguro a feeds de pacotes
+- skill: Inspecionar a base de código para identificar as dependências de código que podem ser convertidas em pacotes
+- skill: Identificar e recomendar tipos e versões de pacotes padronizados na solução
+- skill: Reestruturar os pipelines de desenvolvimento existentes para implementar a estratégia de versão que publica pacotes
+- skill: Gerenciar segurança e conformidade
+- skill: Distinguir entre um lançamento e uma implementação
+- skill: Definir os componentes de um pipeline de lançamento
+- skill: Explicar o que deve ser considerado ao projetar sua estratégia de lançamento
+- skill: Classificar um lançamento em relação a um processo de lançamento e descrever como controlar a qualidade de ambos
+- skill: Descrever o princípio dos portões de lançamento e como interpretar as notas e a documentação de lançamento
+- skill: Explicar os padrões de implementação, tanto no sentido tradicional quanto no moderno
+- skill: Escolher uma ferramenta de gerenciamento de lançamento
+- skill: Explicar a terminologia usada no Azure DevOps e outras ferramentas de gerenciamento de lançamento
+- skill: Descrever o que é uma tarefa de compilação e lançamento, o que ela pode fazer e algumas tarefas de implementação disponíveis
+- skill: Classificar um agente, fila de agentes e pool de agentes
+- skill: Explicar por que às vezes são necessárias várias tarefas de lançamento em um pipeline de lançamento
+- skill: Diferenciar tarefas de lançamento com vários agentes e com várias configurações
+- skill: Usar variáveis de lançamento e variáveis de estágio em seu pipeline de lançamento
+- skill: Implementar em um ambiente com segurança usando uma conexão de serviço
+- skill: Incorporar teste no pipeline
+- skill: Listar as diferentes maneiras de inspecionar a integridade do seu pipeline e lançamento por meio de alertas, ganchos de serviço e relatórios
+- skill: Criar um portão de lançamento
+- skill: Descrever padrões de implementação
+- skill: Implementar Blue Green Deployment
+- skill: Implementar Canary Release
+- skill: Implementar Progressive Exposure Deployment
+- skill: Configurar a integração do relatório de falhas para aplicativos de clientes
+- skill: Desenvolver painéis de monitoramento e status
+- skill: implementar o roteamento para dados do relatório de falha do aplicativo do cliente
+- skill: Implementar ferramentas para rastrear o uso do sistema, o uso de recursos e o fluxo
+- skill: Integrar e configurar sistemas de emissão de tíquetes com o sistema de gerenciamento de trabalho da equipe de desenvolvimento
+- skill: Implementar uma estratégia de DevOps móvel
+- skill: Aplicar a infraestrutura e configuração como princípios de código.
+- skill: Implementar e gerenciar a infraestrutura usando as tecnologias de automação da Microsoft, como modelos ARM, PowerShell e CLI do Azure
+- skill: Descrever modelos de implementação e serviços disponíveis no Azure
+- skill: Implementar e configurar um cluster do Kubernetes gerenciado
+- skill: Implementar e configurar a infraestrutura usando ferramentas e serviços de terceiros com o Azure, como Chef, Puppet, Ansible, SaltStack e Terraform
+- skill: Definir uma estratégia de infraestrutura e configuração e conjunto de ferramentas apropriado para um pipeline de lançamento e infraestrutura de aplicativos
+- skill: Implementar a conformidade e segurança em sua infraestrutura de aplicativos
+- skill: Práticas de design para medir a satisfação do usuário final
+- skill: Criar processos para capturar e analisar o feedback do usuário de fontes externas
+- skill: Projetar o roteamento para dados do relatório de falha do aplicativo do cliente
+- skill: Recomendar ferramentas e tecnologias de monitoramento
+- skill: Recomendar ferramentas de controle de uso do sistema e recursos
+- skill: Analisar alertas para estabelecer uma linha de base
+- skill: Analisar a telemetria para estabelecer uma linha de base
+- skill: Realizar análises de site ao vivo e receber comentários sobre interrupções do sistema
+- skill: Executar o ajuste contínuo para reduzir alertas sem sentido ou não acionáveis
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -58,29 +95,14 @@ exams:
 - uid: exam.az-400
 summary: |-
   Este curso fornece o conhecimento e as habilidades para implementar os processos e práticas de DevOps. Os estudantes aprenderão a usar como planejar o DevOps, o controle de origem, dimensionar o Git para uma empresa, consolidar artefatos, projetar uma estratégia de gerenciamento de dependências, gerenciar segredos, implementar a integração contínua, implementar uma estratégia de construção de contêiner, projetar uma estratégia de lançamento, configurar um lançamento fluxo de trabalho de gerenciamento, implementar um padrão de implantação e otimizar os mecanismos de feedback.
-  
+
   #### Perfil do público
-  Os alunos deste curso estão interessados em projetar e implementar processos de DevOps ou em passar no exame de certificação Microsoft Azure DevOps Solutions.
+  Os estudantes deste curso estão interessados na implementação de processos de DevOps ou em serem aprovados no exame de certificação Soluções de Microsoft Azure DevOps.
 prerequisitesSection: |-
-  Os alunos bem-sucedidos terão conhecimento prévio e compreensão de&#58;
-  - Conceitos de computação em cloud, incluindo uma compreensão das implementações de PaaS, SaaS e IaaS.
-  - Tanto a administração Azure quanto o desenvolvimento do Azure com experiência comprovada em pelo menos uma dessas áreas.
-  - Controlo de versão, desenvolvimento do software Agile e princípios principais de desenvolvimento de software. Seria útil ter experiência numa organização que fornece software.
-  
-  Se você é novo no Azure e na computação em cloud, considere um dos seguintes recursos&#58;
-  - Online gratuita&#58; Azure Fundamentals (https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
-  - Curso ministrado por instrutor&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01)
-  
-  Se você é novo na Azure Administration, considere tirar&#58;
-  - Pré-requisitos para Azure Administrators (https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/) online gratuito
-  - Cursos ministrados por instrutor&#58; AZ-104&#58; Microsoft Azure Administrator (https://docs.microsoft.com/en-us/learn/certifications/courses/az-104t00) e AZ-010&#58; Azure Administration for AWS SysOps (https://docs.microsoft.com/en-us/learn/certifications/courses/az-010t00)
-  
-  Se você é novo no Azure Developer, considere tirar&#58;
-  - Online gratuito&#58; Criação de aplicativos sem servidor (https://docs.microsoft.com/en-us/learn/paths/create-serverless-applications/)
-  - Curso ministrado por instrutor&#58; AZ-204&#58; Developing Solutions for Microsoft Azure (https://docs.microsoft.com/en-us/learn/certifications/courses/az-204t00) e AZ-020&#58; Microsoft Azure Solutions for AWS Developers (https://docs.microsoft.com/en-us/learn/certifications/courses/az-020t00)
+  Conhecimento básico sobre o Azure, controle de versão, desenvolvimento de software Agile e noções básicas de desenvolvimento de software. A experiência em uma organização que produz software é desejável.
 outlineSection: |-
   ### Módulo 1&#58; Planejamento de DevOps
-  #### Aulas
+  #### Lições
   - Planejamento de transformação
   - Seleção de projetos
   - Estruturas da equipe
@@ -88,324 +110,334 @@ outlineSection: |-
 
   #### Laboratório&#58; Planejamento ágil e gerenciamento de portfólio com Azure Boards
 
-  Após a conclusão deste módulo, os alunos poderão&#58;
-  - Planejar a transformação com metas e cronogramas compartilhadas
-  - Selecionar um projeto e identificar métricas de projetos e Indicadores Chave de Desempenho (KPI's)
+  Depois de completar este módulo, os estudantes estarão aptos a&#58; 
+  - Planejar a transformação com objetivos e cronogramas compartilhados
+  - Selecionar um projeto e identificar métricas e KPIs do projeto
   - Criar uma equipe e estrutura organizacional ágil
-  - Criar uma estratégia de integração de ferramentas
-  - Criar uma estratégia de gerenciamento de licenças (por exemplo, usuários do Azure DevOps e do GitHub)
-  - Criar uma estratégia de rastreabilidade completa de itens de trabalho para software de trabalho
+  - Projetar uma estratégia de integração de ferramenta
+  - Criar uma estratégia de gerenciamento de licenças (por exemplo&#58; usuários do VSTS)
+  - Projetar uma estratégia para rastreabilidade de ponta a ponta, desde itens de trabalho até software de trabalho
   - Projetar uma estratégia de autenticação e acesso
-  - Criar uma estratégia de integração de recursos nas instalações e em cloud
+  - Projetar uma estratégia para integrar recursos locais e em nuvem
 
 
-  ### Módulo 2&#58; Introdução do Controle de Origem
-  #### Aulas
-  - O que é Controle de Origem
-  - Benefícios do Controle de Origem
-  - Tipos de Sistemas de Controle de Origem
+  ### Módulo 2&#58; Introdução ao controle de origem
+  #### Lições
+  - O que é controle de origem
+  - Vantagens do controle de origem
+  - Tipos de sistemas de controle de origem
   - Introdução ao Azure Repos
   - Introdução ao GitHub
   - Migração do Team Foundation Version Control (TFVC) para Git no Azure Repos
+  - Autenticando para Git em Azure Repos
 
-  #### Laboratório&#58; Controle de Versão com Git em Azure Repos
+  #### Laboratório&#58; Controle de versão com Git
 
-  Após a conclusão deste módulo, os alunos serão capazes de&#58;
-  - Descrever os benefícios do uso do Controle de Origem
-  - Descrever Azure Repos e GitHub
-  - Migrar de TFVC para Git
-
-
-  ### Módulo 3&#58; Gerenciamento de Dívidas Técnicas
-  #### Aulas
-  - Identificação da Dívida Técnica
-  - Compartilhamento de Conhecimento dentro das Equipes
-  - Modernização de Ambientes de Desenvolvimento com Codespaces
-
-  #### Laboratório&#58; Compartilhando de conhecimento de equipe usando Azure Project Wikis
-
-  Após a conclusão deste módulo, os alunos poderão&#58;
-  - Gerenciar a qualidade do código, incluindo a dívida técnica SonarCloud, e outras soluções de ferramentas
-  - Construir conhecimento organizacional sobre qualidade de código
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever as vantagens do uso do controle de origem 
+  - Descrever o Azure Repos e GitHub
+  - Migrar do TFVC para o Git 
 
 
-  ### Módulo 4&#58; Trabalhar com Git para DevOps Empresariais
-  #### Aulas
-  - Como Estruturar Seu Git Repo
-  - Fluxos de Trabalho de Ramificação de Git
-  - Colaborando com pedidos de Pull em Repos Azure
-  - Por que se preocupar com os Git Hooks
-  - Fomentar a Fonte Interna
-  - Gerenciar os Repositórios Git
+  ### Módulo 3&#58; Dimensionamento do Git para DevOps corporativos
+  #### Lições
+  - Como estruturar o repositório Git
+  - Fluxos de trabalho de branching do Git
+  - Colaboração com Pull Requests no Azure Repos
+  - Por que se preocupar com os GitHooks
+  - Promovendo o código interno
 
-  #### Laboratório&#58; Controlo de Versão com Git em Repos Azure
+  #### Laboratório&#58; Análise de código com Pull Requests
 
-  Após a conclusão deste módulo, os alunos serão capazes de&#58;
-  - Explicar como estruturar repos Git
-  - Descrever fluxos de trabalho de ramificação do Git
-  - Alavancar pedidos de colaboração e revisões de código
-  - Aproveitar ganchos Git para automação
-  - Usar o Git para promover a fonte interna em toda a organização 
-
-
-  ### Módulo 5&#58; Configuração de Azure Pipelines
-  #### Aulas
-  - O Conceito de Pipelines in DevOps
-  - Azure Pipelines
-  - Avaliar o uso de Hosted versus Agentes Auto-Hospedados
-  - Pools de Agentes
-  - Pipelines e Concorrência
-  - Azure DevOps e Open-Source Projects (Projetos Públicos)
-  - Azure Pipelines YAML versus Visual Designer
-
-  #### Laboratório&#58; Configuração de Pools de Agentes e Compreensão de Estilos de Pipelines
-
-  Após a conclusão deste módulo, os alunos serão capazes de&#58;
-  - Explicar o papel dos Azure Pipelines e seus componentes
-  - Configurar agentes para uso em Azure Pipelines
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever como estruturar repositórios Git 
+  - Descrever fluxos de trabalho de branching do Git
+  - Uso de Pull Requests para colaboração e análises de código 
+  - Uso de Git hooks para automação 
+  - Uso do Git para promover o código interno em toda a organização
 
 
-  ### Módulo 6&#58; Implementação da Integração Contínua usando Azure Pipelines
-  #### Aulas
-  - Visão geral da integração contínua
-  - Implementação de uma Estratégia de Construção
-  - Integração com Azure Pipelines
-  - Integração do Controle de Fonte Externa com Azure Pipelines
-  - Configurar Agentes Auto Hospedados
-
-  #### Laboratório&#58; Possibilitar a integração contínua com os Azure Pipelines
-
-  #### Laboratório&#58; Integração do Controle de Fonte Externo com os Azure Pipelines
-
-  Após a conclusão deste módulo, os alunos serão capazes de&#58;
-  - Explicar por que a integração contínua é importante
-  - Implementar a integração contínua usando Azure Pipelines
-
-
-  ### Módulo 7&#58; Gerenciamento de Configuração e Segredos de Aplicativos
-  #### Aulas
-  - Introdução à Segurança
-  - Implementar um Processo de Desenvolvimento Seguro
-  - Repensar Dados de Configuração de Aplicativos
-  - Gerenciar Segredos, Tokens e Certificados
-  - Integrando-se com Sistemas de Gerenciamento de Identidade
-  - Implementação da Configuração de Aplicativos
-
-  #### Laboratório&#58; Integração do Azure Key Vault com Azure DevOps
-
-  Após concluírem este módulo, os alunos serão capazes de&#58;
-  - Gerenciar a configuração e os segredos do aplicativo
-  - Integrar o Azure Key Vault com um pipeline
-
-
-  ### Módulo 8&#58; Implementação da Integração Contínua com as ações do GitHub
-  #### Aulas
-  - Ações do GitHub
-  - Integração contínua com as ações do GitHub
-  - Garantindo segredos para as ações do GitHub
-  
-  #### Laboratório&#58; Ações GitHub Integração Contínua
-  
-  Após completar este módulo, os alunos poderão&#58;
-  - Criar e trabalhar com ações e fluxos de trabalho do GitHub
-  - Implementar a integração contínua com as ações do GitHub
-  
-  
-  ### Módulo 9&#58; Projeção e Implementação de uma Estratégia de Gestão de Dependência
-  #### Aulas
-  - Dependências de embalagem
+  ### Módulo 4&#58; Consolidando artefatos e planejando uma estratégia de gerenciamento de dependências 
+  #### Lições
+  - Dependências de empacotamento
   - Gerenciamento de pacotes
   - Migração e consolidação de artefatos
-  - Segurança do pacote
-  - Implementação de uma estratégia de Versionamento
-  
-  #### Laboratório&#58; Gerenciamento de embalagens com Azure Artifacts
-  
-  Após completar este módulo, os alunos poderão&#58;
+
+  #### Laboratório&#58; Atualização de pacotes
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Recomendar ferramentas e práticas de gerenciamento de artefatos
-  - Abstrair pacotes comuns para permitir o compartilhamento e a reutilização
-  - Migrar e consolidar os artefatos
-  - Migrar e integrar medidas de controle de fonte
-  
-  
-  ### Módulo 10&#58; Projeção de uma estratégia de lançamento
-  #### Aulas
-  - Introdução à Entrega Contínua
-  - Recomendações sobre a estratégia de lançamento
-  - Construção de um pipeline de Liberação de Alta Qualidade
-  - Seleção da ferramenta correta de gerenciamento de liberação
-  
-  #### Laboratório&#58; Controle de Implantações usando portões de liberação
-  
-  #### Laboratório&#58; Criação de um Painel de Liberação
-  
-  Após completar este módulo, os alunos poderão&#58;
-  - Diferenciar entre um lançamento e um desdobramento
-  - Definir os componentes de uma tubulação de liberação
-  - Explicar as coisas a considerar ao projetar sua estratégia de lançamento
-  - Classificar uma liberação versus um processo de liberação, e esboçar como controlar a qualidade de ambos
-  - Descrever o princípio dos portões de liberação e como lidar com notas de liberação e documentação
-  - Escolher uma ferramenta de gerenciamento de liberação
-
-  ### Módulo 11&#58; Implementação da implantação contínua usando Azure Pipelines
-  #### Aulas
-  - Criar um Pipeline de Liberação
-  - Prover e Configurar Ambientes
-  - Gerenciar e Modularizar Tarefas e Modelos
-  - Configurar Integração Automatizada e Automação Funcional de Testes
-  - Automatizar a Inspeção de Saúde
-
-  #### Laboratório&#58; Configuração de Pipelines com o Código com YAML
-
-  #### Laboratório&#58; Configuração e execução de testes funcionais
-
-  Após a conclusão deste módulo, os alunos serão capazes de&#58;
-  - Explicar a terminologia usada em DevOps Azure e outras ferramentas de gerenciamento de liberação
-  - Descrever o que é uma tarefa de compilação e liberação, o que ele pode fazer, e algumas tarefas de implantação disponíveis
-  - Explicar por que às vezes você precisa de vários trabalhos de liberação num pipeline de lançamento
-  - Diferenciar entre trabalho de liberação multiagente e multiconfiguração
-  - Usar variáveis de liberação e variáveis de estágio em seu pipeline de liberação
-  - Implantar num ambiente com segurança usando uma conexão de serviço
-  - Listar as diferentes maneiras de inspecionar a saúde do seu pipeline e liberar usando alertas, ganchos de serviço e relatórios
+  - Pacotes comuns abstratos para permitir o compartilhamento e a reutilização
+  - Migrar e consolidar artefatos
+  - Migrar e integrar medidas de controle de origem 
 
 
-  ### Módulo 12&#58; Implementação de um padrão de implantação apropriado
-  #### Aulas
-  - Introdução aos Padrões de Implantação
-  - Implementar Implantação Verde Azul
-  - Alternadores de Recursos
-  - Lançamentos Canários
-  - Lançamento Escuro
-  - Teste AB
-  - Implantação de Exposição Progressiva
+  ### Módulo 5&#58; Implementar a integração contínua com Azure Pipelines
+  #### Lições
+  - Conceito de pipelines no DevOps
+  - Azure Pipelines
+  - Avaliar o uso de agentes hospedados em relação aos agentes privados
+  - Pools de agentes
+  - Pipelines e simultaneidade
+  - Projetos Azure DevOps e Open Source (projetos públicos)
+  - Pipelines do Azure YAML x Visual Designer
+  - Visão geral da integração contínua
+  - Implementando uma estratégia de compilação
+  - Integração com Azure Pipelines
+  - Integrar o controle de origem externa de com Azure Pipelines
+  - Configurar agentes privados
+  - Análise e integração de compilações em várias fases do Docker
 
-  #### Laboratório&#58; Gerenciamento de bandeiras de recursos com LaunchDarkly e Azure DevOps
+  #### Laboratório&#58; Possibilitando a integração contínua com Azure Pipelines
 
-  Após a conclusão deste módulo, os alunos serão capazes de&#58;
-  - Descrever padrões de implantação
-  - Implementar a implantação do Verde Azul
-  - Implementar a Liberação Canária
-  - Implementar a implantação de exposição progressiva
+  #### Laboratório&#58; Integração de controle de origem externa com Azure Pipelines
 
-
-  ### Módulo 13&#58; Gerenciamento de infraestrutura e configuração usando ferramentas da Azure
-  #### Aulas
-  - Infraestrutura como Gerenciamento de Código e Configuração
-  - Criar Recursos do Azure usando Modelos ARM
-  - Criar Recursos do Azure usando a Azure CLI
-  - Automação da Azure com DevOps
-  - Configuração de Estado Desejado (DSC)
-
-  #### Laboratório&#58; Implantações do Azure usando Resource Manager Templates
-
-  Após a conclusão deste módulo, os alunos serão capazes de&#58;
-  - Aplicar infraestrutura e configuração como princípios de código.
-  - Implantar e gerenciar infraestrutura usando tecnologias de automação da Microsoft, como modelos ARM, PowerShell e Azure CLI
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar e gerenciar a infraestrutura de construção
+  - Explicar por que a integração contínua é importante
+  - Implementar a integração contínua usando Azure DevOps
 
 
-  ### Módulo 14&#58; Infraestrutura de terceiros como ferramentas de código disponíveis com Azure
-  #### Aulas
+  ### Módulo 6&#58; Gerenciando configurações e segredos do aplicativo 
+  #### Lições
+  - Introdução à segurança
+  - Implementação de processo de desenvolvimento seguro e compatível
+  - Reexaminando dados de configuração do aplicativo
+  - Gerenciar segredos, tokens e certificados
+  - Implementação de ferramentas para gerenciar segurança e conformidade no pipeline 
+
+  #### Laboratório&#58; Integrando o Azure Key Vault ao Azure DevOps
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Gerenciar configurações e segredos do aplicativo
+  - Implementação de ferramentas para gerenciar segurança e conformidade no pipeline
+
+
+  ### Módulo 7&#58; Gerenciando políticas de segurança e qualidade de código
+  #### Lições
+  - Gerenciamento da qualidade do código
+  - Gerenciamento de políticas de segurança
+
+  #### Laboratório&#58; Gerenciando dívidas técnicas com o Azure DevOps e SonarCloud
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Gerenciar a qualidade do código, incluindo dívida técnica, SonarCloud e outras soluções de ferramentas
+  - Gerenciar políticas de segurança com código aberto e OWASP
+
+
+  ### Módulo 8&#58; Implementação de uma estratégia de compilação de contêiner
+  #### Lições
+  - Implementando uma estratégia de compilação de contêiner
+
+  #### Laboratório&#58; Modernizando aplicativos ASP.NET existentes com o Azure
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar uma estratégia de contêiner, incluindo as diferenças entre contêineres e máquinas virtuais e como os microsserviços aplicam os contêineres
+  - Implementar contêineres usando o Docker
+
+
+  ### Módulo 9&#58; Gerenciar controle de versão, segurança e conformidade de artefatos
+  #### Lições
+  - Segurança do pacote
+  - Software livre
+  - Integração de verificações de licença e vulnerabilidade
+  - Implementação de uma estratégia de versão 
+
+  #### Laboratório&#58; Gerenciar a segurança e a licença de código aberto com o WhiteSource
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Inspecionar os pacotes de software de código aberto para garantir a conformidade com a segurança e a licença, alinhando-se aos padrões corporativos
+  - Configurar o pipeline de desenvolvimento para acessar a segurança do pacote e a classificação da licença
+  - Configurar acesso seguro a feeds de pacotes
+  - Inspecionar a base de código para identificar as dependências de código que podem ser convertidas em pacotes
+  - Identificar e recomendar tipos e versões de pacotes padronizados na solução
+  - Reestruturar os pipelines de desenvolvimento existentes para implementar a estratégia de versão que publica pacotes
+  - Gerenciar segurança e conformidade
+
+
+  ### Módulo 10&#58; Projetar uma estratégia de lançamento
+  #### Lições
+  - Introdução à entrega contínua
+  - Recomendações para estratégia de lançamento
+  - Compilar um pipeline de lançamento de alta qualidade
+  - Escolha de uma estratégia de implementação
+  - Escolha da ferramenta de gerenciamento de lançamento adequada 
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Distinguir entre um lançamento e uma implementação
+  - Definir os componentes de um pipeline de lançamento
+  - Explicar o que deve ser considerado ao projetar sua estratégia de lançamento
+  - Classificar um lançamento em relação a um processo de lançamento e descrever como controlar a qualidade de ambos
+  - Descrever o princípio dos portões de lançamento e como interpretar as notas e a documentação de lançamento
+  - Explicar os padrões de implementação, tanto no sentido tradicional quanto no moderno
+  - Escolher uma ferramenta de gerenciamento de lançamento
+
+
+  ### Módulo 11&#58; Configurar um fluxo de trabalho de gerenciamento de versão
+  #### Lições
+  - Criação de um pipeline de lançamento
+  - Provisionamento e configuração de ambientes
+  - Gerenciamento e modularização de tarefas e modelos
+  - Integração de segredos ao pipeline de lançamento
+  - Configuração da integração automatizada e execução de testes funcionais
+  - Automatização de inspeção da integridade
+
+  #### Laboratório&#58; Configurando pipelines como código com YAML
+
+  #### Laboratório&#58; Configurando segredos no pipeline com o Azure Key Vault
+
+  #### Laboratório&#58; Configurando e executando testes funcionais 
+
+  #### Laboratório&#58; Uso do Azure Monitor como portão de lançamento
+
+  #### Laboratório&#58; Criando um painel de lançamento
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Explicar a terminologia usada no Azure DevOps e outras ferramentas de gerenciamento de lançamento
+  - Descrever o que é uma tarefa de compilação e lançamento, o que ela pode fazer e algumas tarefas de implementação disponíveis
+  - Classificar um agente, fila de agentes e pool de agentes
+  - Explicar por que às vezes são necessárias várias tarefas de lançamento em um pipeline de lançamento
+  - Diferenciar tarefas de lançamento com vários agentes e com várias configurações
+  - Usar variáveis de lançamento e variáveis de estágio em seu pipeline de lançamento
+  - Implementar em um ambiente com segurança usando uma conexão de serviço
+  - Incorporar teste no pipeline
+  - Listar as diferentes maneiras de inspecionar a integridade do seu pipeline e lançamento por meio de alertas, ganchos de serviço e relatórios
+  - Criar um portão de lançamento
+
+
+  ### Módulo 12&#58; Implementar um padrão de implantação apropriado
+  #### Lições
+  - Introdução aos padrões de implementação
+  - Implementar Blue Green Deployment
+  - Alternância entre recursos
+  - Canary Releases
+  - Dark Launching
+  - AB Testing
+  - Progressive Exposure Deployment
+
+  #### Laboratório&#58; Gerenciamento de sinalizador de recursos com o LaunchDarkly e o Azure DevOps
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever padrões de implementação
+  - Implementar Blue Green Deployment
+  - Implementar Canary Release
+  - Implementar Progressive Exposure Deployment
+
+
+  ### Módulo 13&#58; Implementar o processo de feedback de sistema de roteamento para as equipes de desenvolvimento
+  #### Lições
+  - Implementar ferramentas para rastrear o uso do sistema, o uso de recursos e o fluxo
+  - Implementar roteamento para dados do relatório de falha do aplicativo móvel
+  - Desenvolver painéis de monitoramento e status
+  - Integração e configuração de sistemas de tíquetes
+
+  #### Laboratório&#58; Monitorando o desempenho do aplicativo
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Configurar a integração do relatório de falhas para aplicativos de clientes
+  - Desenvolver painéis de monitoramento e status
+  - implementar o roteamento para dados do relatório de falha do aplicativo do cliente
+  - Implementar ferramentas para rastrear o uso do sistema, o uso de recursos e o fluxo
+  - Integrar e configurar sistemas de emissão de tíquetes com o sistema de gerenciamento de trabalho da equipe de desenvolvimento
+
+
+  ### Módulo 14&#58; Ferramentas do Azure de infraestrutura e configuração
+  #### Lições
+  - Infraestrutura como código e gerenciamento de configuração
+  - Criação de recursos do Azure usando modelos ARM
+  - Criação de recursos do Azure usando Azure CLI
+  - Criação de recursos do Azure usando Azure PowerShell
+  - Configuração do estado desejado (DSC)
+  - Automação do Azure com DevOps
+  - Ferramentas de automação adicionais 
+
+  #### Laboratório&#58; Implementações do Azure usando modelos do Gerenciador de Recursos
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Aplicar a infraestrutura e configuração como princípios de código
+  - Implementar e gerenciar a infraestrutura usando as tecnologias de automação da Microsoft, como modelos ARM, PowerShell e CLI do Azure
+
+
+  ### Módulo 15&#58; Modelos e serviços de implementação do Azure
+  #### Lições
+  - Modelos e opções de implementação
+  - Serviços de Infraestrutura como Serviço (IaaS) do Azure
+  - Serviços da Plataforma como Serviço (PaaS) do Azure
+  - Serviços de computador sem servidor e HPC
+  - Azure Service Fabric 
+
+  #### Laboratório&#58; Implementando um aplicativo Java com Docker para Web App for Containers do Azure
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Descrever modelos de implementação e serviços disponíveis no Azure
+
+
+  ### Módulo 16&#58; Criação e gerenciamento de infraestrutura de serviço Kubernetes
+  #### Lições
+  Azure Kubernetes Service
+
+  #### Laboratório&#58; Implementando um aplicativo com vários contêineres para Serviço Kubernetes do Azure
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar e configurar um cluster do Kubernetes gerenciado
+
+
+  ### Módulo 17&#58; Infraestrutura de terceiros como ferramentas de código disponíveis no Azure
+  #### Lições
   - Chef
   - Puppet
   - Ansible
   - Terraform
 
-  #### Laboratório&#58; Automatização de implantações de infraestrutura em cloud com  Terraform e Azure Pipelines
+  #### Laboratório&#58; infraestrutura como código
 
-  #### Laboratório&#58; Implantação de aplicativos com Chef no Azure
+  #### Laboratório&#58; Automatização de suas implementações de infraestrutura na nuvem com Terraform e Azure Pipelines
 
-  #### Laboratório&#58; Implantar aplicativo com Puppet no Azure
-
-  #### Laboratório&#58; Ansible com o Azure
-
-  Após a conclusão deste módulo, os alunos serão capazes de&#58;
-  - Implantar e configurar a infraestrutura utilizando ferramentas e serviços de terceiros com o Azure, como Chef, Puppet, Ansible e Terraform 
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Implementar e configurar a infraestrutura usando ferramentas e serviços de terceiros com o Azure, como Chef, Puppet, Ansible, e Terraform
 
 
-  ### Módulo 15&#58; Gerenciamento de contêineres usando Docker
-  #### Aulas
-  - Implementação de uma Estratégia de Construção de Contêineres
-  - Implementação de Construções Multi-Estágio do Docker
-
-  #### Laboratório&#58; Modernização dos aplicativos de ASP.NET existentes com o Azure
-
-  Após a conclusão deste módulo, os alunos serão capazes de&#58;
-  - Implementar uma estratégia de contêiner, incluindo como os contêineres diferem das máquinas virtuais e como os micros serviços usam contêineres
-  - Implementar contêineres usando o Docker
-  - Implementar construções em vários estágios do Docker
-
-
-  ### Módulo 16&#58; Criação e Gerenciamento de Serviços Infraestrutura de Kubernetes
-  #### Aulas
-  - Azure Kubernetes Service
-  - Ferramentas de Kubernetes
-  - Integrando AKS com Pipelines
-
-  #### Laboratório&#58; Implantação de um Aplicativo Multi Container para o  Azure Kubernetes Service
-
-  Após a conclusão deste módulo, os alunos serão capazes de&#58;
-  - Implantar e configurar um cluster Kubernetes Gerenciado
-
-
-  ### Módulo 17&#58; Implementando Feedback para Equipes de Desenvolvimento
-  #### Aulas
-  - Implementar Ferramentas para Rastrear o Uso do Sistema, o Uso de Recursos e o Fluxo
-  - Implementar Roteamento para Dados de Relatório de Queda de Aplicativos Móveis
-  - Desenvolver Painéis de Controle e Status
-  - Integrar e Configurar Sistemas de Bilhetagem
-  
-  #### Laboratório&#58; Monitoramento do Desempenho do Aplicativo com Perspectivas do Aplicativo
-  
-  Após completar este módulo, os alunos poderão&#58;
-  - Implementar ferramentas para rastrear o uso do sistema, o uso de recursos e o fluxo
-  - Configurar a integração de relatórios de crash para aplicativos do cliente
-  - Implementar roteamento para dados de relatórios de falhas de aplicativos do cliente
-  - Desenvolver painéis de monitoramento e status
-  - Integrar e configurar sistemas de bilhetagem com a gestão de trabalho da equipe de desenvolvimento
-  
-  
-  ### Módulo 18&#58; Implementação de Mecanismos de Feedback do Sistema
+  ### Módulo 18&#58; Implementar a conformidade e segurança em sua infraestrutura
   #### Lições
-  - Engenharia de Confiabilidade do Site
-  - Práticas de projeto para medir a satisfação do usuário final
-  - Projetar Processos para Capturar e Analisar o Feedback do Usuário
-  - Projetar Processos para Automatizar a Análise de Aplicativos
-  - Gerenciamento de Alertas
-  - Retrospectivas irrepreensíveis e uma cultura justa
-  
-  #### Laboratório&#58; Integração entre Azure DevOps e Teams
-  
-  Após completar este módulo, os alunos poderão&#58;
-  - Definir a Engenharia de Confiabilidade do Local
-  - Projetar processos para medir a satisfação do usuário final e analisar o feedback do usuário
-  - Projetar processos para automatizar a análise do aplicativo
-  - Gerenciar alertas e reduzir alertas inúteis e não-operacionais
-  - Realizar retrospectivas irrepreensíveis e criar uma cultura justa
-  
-  
-  ### Módulo 19&#58; Implementação de Segurança em Projetos DevOps
-  #### Aulas
-  - Segurança no Pipeline
-  - Azure Security Center
-  
-  #### Laboratório&#58; Implementar Segurança e Conformidade num Azure DevOps Pipeline
-  
-  Após completar este módulo, os alunos poderão&#58;
-  - Definir uma estratégia de infraestrutura e configuração e um conjunto de ferramentas apropriadas para um pipeline de lançamento e infraestrutura do aplicativo
-  - Implementar conformidade e segurança na infraestrutura do seu aplicativo
-  
-  
-  ### Módulo 20&#58; Validação de Bases de Código para Conformidade
-  #### Aulas
-  - Software de Código Aberto
-  - Gerenciamento de Políticas de Segurança e Conformidade
-  - Integração de Escaneamentos de Licença e Vulnerabilidades
-  
-  #### Laboratório&#58; Gerenciamento da dívida técnica com SonarQube e Azure DevOps
-  
-  Após completar este módulo, os alunos poderão&#58;
-  - Descrever os potenciais desafios com a integração de software de código aberto
-  - Inspecionar pacotes de software de código aberto para segurança e conformidade com licenças
-  - Gerenciar a segurança organizacional e as políticas de conformidade
-  - Integrar varreduras de licença e vulnerabilidade em pipelines de construção e implantação
-  - Configurar a construção de pipelines para acessar a segurança do pacote e as classificações de licença
+  - Princípios de segurança e conformidade com DevOps
+  - Azure Security Center 
+
+  #### Laboratório&#58; Implementar segurança e conformidade em um pipeline do Azure DevOps
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Definir uma estratégia de infraestrutura e configuração e conjunto de ferramentas apropriado para um pipeline de lançamento e infraestrutura de aplicativos
+  - Implementar a conformidade e segurança em sua infraestrutura de aplicativos
+
+
+  ### Módulo 19&#58; Recomendar e projetar mecanismos de feedback do sistema
+  #### Lições
+  - Loop interno
+  - Mentalidade de experimentação contínua
+  - Práticas de design para medir a satisfação do usuário final
+  - Criação de processos para capturar e analisar o feedback do usuário
+  - Processo de design para automatizar a análise de aplicativos 
+
+  #### Laboratório&#58; Integração entre o Azure DevOps e o Teams
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Práticas de design para medir a satisfação do usuário final
+  - Criar processos para capturar e analisar o feedback do usuário de fontes externas
+  - Projetar o roteamento para dados do relatório de falha do aplicativo do cliente
+  - Recomendar ferramentas e tecnologias de monitoramento
+  - Recomendar ferramentas de controle de uso do sistema e recursos
+
+
+  ### Módulo 20&#58; Otimizar mecanismos de feedback
+  #### Lições
+  - Engenharia de confiabilidade do local
+  - Analisar a telemetria para estabelecer uma linha de base
+  - Executar o ajuste contínuo para reduzir alertas sem sentido ou não acionáveis
+  - Analisar alertas para estabelecer uma linha de base
+  - Blameless Retrospectives e Just Culture 
+
+  Depois de completar este módulo, os estudantes estarão aptos a&#58;
+  - Analisar alertas para estabelecer uma linha de base
+  - Analisar a telemetria para estabelecer uma linha de base
+  - Realizar análises de site ao vivo e receber comentários sobre interrupções do sistema
+  - Executar o ajuste contínuo para reduzir alertas sem sentido ou não acionáveis
+

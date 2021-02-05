@@ -20,7 +20,7 @@ skillsGained:
 - skill: Configurar um cluster NLB (Network Load Balancing) e planejar uma implementação NLB.
 - skill: Criar e gerenciar imagens de implantação.
 - skill: Gerenciar, monitorar e manter instalações de máquinas virtuais.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

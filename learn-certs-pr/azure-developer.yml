@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong><br/><br/></font></div>
-
   Os candidatos à certificação Azure Developer Associate devem ser especialistas no projeto, construção, teste e manutenção de aplicativos e serviços em nuvem do Microsoft Azure.
 
   As responsabilidades atribuídas à função incluem a participação em todas as fases do desenvolvimento da nuvem, desde a definição e o design dos requisitos até o desenvolvimento, implantação, manutenção, configuração do desempenho e monitoramento.

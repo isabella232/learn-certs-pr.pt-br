@@ -28,61 +28,30 @@ exams:
 - uid: exam.mb-800
 summary: |-
   Construído e otimizado para pequenas e médias empresas, a Dynamics 365 Business Central é um aplicativo para empresas que superaram seus aplicativos de negócios de nível básico. As empresas em crescimento geralmente superam seus sistemas básicos de software contábil ou de planejamento de recursos corporativos legados (ERP) que são incapazes de lidar com o aumento do estoque e das transações, não têm integração com outros sistemas de linha de negócios e têm limitações de relatórios. As empresas também são desafiadas com a logística de prestação de serviços que tenham mais escalabilidade, maior mobilidade e disponibilidade em cloud. Com o Business Central, você pode gerenciar suas finanças, automatizar e proteger sua cadeia de fornecimento, vender de forma mais inteligente, melhorar o apoio ao cliente e o desempenho do projeto e otimizar suas operações.
-  
+
   #### Perfil do público
   Um Dynamics 365 Business Central core Functional Consultant é responsável pela implementação de processos principais de configuração de aplicativos para pequenas e médias empresas.
 prerequisitesSection: |-
-  Este curso é projetado para consultores funcionais que trabalham com a Dynamics 365 Business Central, ou consultores funcionais que trabalham com outros aplicativos Dynamics 365 que desejam expandir seus conhecimentos sobre a Business Central
+  Este curso é projetado para consultores funcionais que trabalham com a Dynamics 365 Business Central, ou consultores funcionais que trabalham com outros aplicativos Dynamics 365 que desejam expandir seus conhecimentos sobre a Business Central.
 outlineSection: |-
   ### Módulo 1&#58; Introdução à Business Central
-  Introdução aos Módulos da Business Central
+  Introdução aos Módulos da Business Central 
   #### Aulas
-  - Introdução à Business Central
-  - Visão geral da tecnologia
-  - Navegar na interface do usuário
-  - Dados mestres para o processo de Vendas e Compra
-
-
+  
+  
   ### Módulo 2&#58; Configuração do Aplicativo
-  #### Aulas
-  - Criar e configurar uma nova empresa
-  - Migrar dados para a Business Central
-  - Gerenciar segurança
-  - Configurar a funcionalidade principal do aplicativo
-  - Configurar dimensões 
-
-
+  
+  
   ### Módulo 3&#58; Configurar Finanças
-  #### Aulas
-  - Configurar a Gestão financeira
-  - Configurar o Gráfico de Conta
-  - Configurar grupos de postagem
-  - Periódicos Gerais
-  - Configurar o Cash Management
-  - Configurar contas a pagar
-  - Configurar contas recebíveis
-
-
-  ### Módulo 4&#58; Configure vendas e compras
-  #### Aulas
-  - Configurar inventário
-  - Configurar preços e descontos
-
-
+  
+  
+  ### Módulo 4&#58; Configurar Vendas e Compras
+  
+  
   ### Módulo 5&#58; Operações
-  #### Aulas
-  - Comprar itens
-  - Vender itens
-  - Processar transações financeiras
-  - Custeio do inventário
-
-
+  
+  
   ### Módulo 6&#58; Integração e Automação
-  #### Aulas
-  - Configurar e usar aprovações com fluxos de trabalho
-  - Conectar Power Apps
-  - Conectar Power Automate
-  - Conectar POWER BI
   
   #### Leitura Adicional
   Microsoft.com/learn

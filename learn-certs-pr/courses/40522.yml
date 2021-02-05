@@ -14,7 +14,7 @@ skillsGained:
 - skill: Entender a taxonomia do Azure Stack (inquilinos, regiões, assinaturas, ofertas, planos, serviços e cotas)
 - skill: Descrever os fornecedores de recursos que estão disponíveis para uso com o Azure Stack
 - skill: Projetar e implantar conectividade híbrida entre a nuvem pública do Azure e o Azure Stack
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

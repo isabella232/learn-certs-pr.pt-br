@@ -9,7 +9,7 @@ hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: No final deste seminário, você estará mais apto a conduzir uma análise do site para comparar custos, desempenho e nível de esforço necessário para migrar do Oracle para o SQL Server ou PostgreSQL. Dado o tempo necessário para concluir o seminário, é recomendável que o aluno e o instrutor escolham uma única via de migração.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -18,7 +18,7 @@ skillsGained:
 - skill: Planejar e implementar cenários híbridos e somente de migração, backup e recuperação de nuvens.
 - skill: Implementar VMs Azure rodando Windows Server 2019, e configurar rede, armazenamento e segurança.
 - skill: Gerir e manter as VMs Azure rodando Windows Server 2019.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

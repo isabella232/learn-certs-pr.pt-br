@@ -12,7 +12,7 @@ skillsGained:
 - skill: Uso do Portal do Azure, Cloud Shell, Azure PowerShell, CLI e gerenciador de recursos
 - skill: Uso de recursos de conectividade entre sites, incluindo o emparelhamento de VNet e conexões VNet a VNet
 - skill: Trabalhar com Azure Active Directory (AAD) e Azure AD Connect
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

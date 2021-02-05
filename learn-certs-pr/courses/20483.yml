@@ -21,7 +21,7 @@ skillsGained:
 - skill: Integre bibliotecas não gerenciadas e componentes dinâmicos a um aplicativo Visual C
 - skill: Examine os metadados dos tipos usando reflexão, crie e use atributos personalizados, gere código em tempo de execução e gerencie versões de montagem.
 - skill: Criptografar e descriptografar dados usando criptografia simétrica e assimétrica.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

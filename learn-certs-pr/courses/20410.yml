@@ -21,7 +21,7 @@ skillsGained:
 - skill: Implementar política de grupo.
 - skill: Proteger servidores do Windows com Objetos de Política de Grupo (GPOs).
 - skill: Implementar virtualização do servidor com Hyper-V.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

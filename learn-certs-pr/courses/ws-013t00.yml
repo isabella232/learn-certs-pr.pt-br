@@ -16,7 +16,7 @@ skillsGained:
 - skill: Planejar e implementar o armazenamento Azure Stack HCI, incluindo QoS e Réplica de Armazenamento.
 - skill: Planejar para o funcionamento da Rede Azure Stack HCI.
 - skill: Implementar Redes Definidas por Software no Azure Stack HCI.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

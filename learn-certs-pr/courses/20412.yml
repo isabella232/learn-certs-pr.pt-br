@@ -22,7 +22,7 @@ skillsGained:
 - skill: Implementar um cluster de failover e configurar e validar um serviço de rede de alta disponibilidade.
 - skill: Implementar e gerenciar máquinas virtuais Hyper-V em um cluster de failover.
 - skill: Implementar uma solução de backup e recuperação de desastres com base em requisitos técnicos e de negócios.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -13,7 +13,7 @@ skillsGained:
 - skill: Implementar e gerenciar máquinas virtuais
 - skill: Configurar e gerenciar redes virtuais
 - skill: Gerenciar identidades usando o Azure Active Directory
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

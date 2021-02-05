@@ -21,7 +21,7 @@ skillsGained:
 - skill: Planejar e implementar uma implantação de servidor AD FS e acesso a aplicativos com reconhecimento de declarações.
 - skill: Planejar e implementar controle de acesso dinâmico, ingresso no local de trabalho e pastas de trabalho.
 - skill: Planejar e implementar uma implantação, planejar e gerenciar modelos e acesso ao AD RMS e planejar e implementar acesso externo aos serviços AD RMS.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

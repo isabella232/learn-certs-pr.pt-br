@@ -19,7 +19,7 @@ skillsGained:
 - skill: Monitorar, registrar e diagnosticar problemas de serviços.
 - skill: Descrever conceitos e padrões de identidade baseados em declarações e implementar a autenticação e autorização com o Azure Active Directory.
 - skill: Criar aplicativos de serviço escaláveis.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
