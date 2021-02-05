@@ -14,7 +14,7 @@ skillsGained:
 - skill: Projetar um conjunto de disponibilidades para uma ou mais máquinas virtuais.
 - skill: Descrever as diferenças entre falhas e atualizar os domínios.
 - skill: Autorar um modelo de ARM para conjunto de escala de máquina virtual.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -26,13 +26,13 @@ exams:
 - uid: exam.dp-900
 summary: |-
   Neste curso, os estudantes aprenderão os fundamentos dos conceitos de banco de dados em um ambiente de nuvem, obterão habilidades básicas em serviços de dados em nuvem e construirão seus conhecimentos fundamentais sobre serviços de dados em nuvem dentro do Microsoft Azure. Os estudantes identificarão e descreverão conceitos de dados principais, como relacionais e não relacionais, big data e análise e saberão como essa tecnologia é implementada com o Microsoft Azure. Eles explorarão os papéis, tarefas e responsabilidades no mundo dos dados. Os estudantes descreverão as ofertas de dados relacionais, provisionando e implementando bancos de dados relacionais e consultando dados relacionais por meio de soluções de dados em nuvem com o Microsoft Azure. Eles descreverão as ofertas de dados não relacionais, provisionando e implementando bancos de dados não relacionais e data stores não relacionais com o Microsoft Azure. Os estudantes conhecerão as opções de processamento disponíveis para a criação de soluções de análise de dados no Azure. Eles terão acesso ao Azure Synapse Analytics, Azure Databricks e Azure HDInsight. Os estudantes aprenderão o que é Power BI, incluindo seus blocos de construção e como trabalham juntos.
-  
+
   #### Perfil do público
   Este curso destina-se aos estudantes que querem aprender os fundamentos dos conceitos de banco de dados em um ambiente de nuvem, obter habilidades básicas em serviços de dados em nuvem e construir seu conhecimento fundamental sobre serviços de dados em nuvem dentro do Microsoft Azure.
 prerequisitesSection: |-
   Não é necessária a certificação prévia antes de frequentar este curso. Estudantes bem sucedidos do Azure Data Fundamentals começam com algum conhecimento básico dos conceitos de computação e da Internet, e um interesse em extrair insights dos dados.
   
-  Especificamente&#58;
+  Especificamente&#58; 
   - Experiência na utilização de um navegador de Internet, tal como [Microsoft Edge](https://support.microsoft.com/microsoft-edge?ocid=DMC-End-User-Support&ui).
   - Familiaridade com conceitos básicos relacionados com dados, tais como trabalhar com tabelas de dados numa folha de cálculo e visualizar dados usando gráficos.
   - Vontade de aprender através da exploração prática.
@@ -55,25 +55,25 @@ outlineSection: |-
   ### Módulo 2&#58; Explorar os dados relacionais no Azure
   Os estudantes aprenderão os fundamentos dos conceitos de banco de dados em um ambiente de nuvem, obterão habilidades básicas em serviços de dados em nuvem e construirão seus conhecimentos fundamentais sobre serviços de dados em nuvem dentro do Microsoft Azure. Os estudantes descreverão as ofertas de dados relacionais, provisionando e implementando bancos de dados relacionais e consultando dados relacionais por meio de soluções de dados em nuvem com o Azure.
   #### Lições
-  - Explorar serviços de dados relacionais no Azure 
-  - Explorar o provisionamento e a implantação de serviços de banco de dados relacionais no Azure
+  - Explorar ofertas de dados relacionais no Azure
+  - Explorar o provisionamento e a implementação de ofertas de banco de dados relacionais no Azure
   - Consulta de dados relacionais no Azure
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Descrever serviços de dados relacionais no Azure
+  - Descrever ofertas de dados relacionais no Azure
   - Explicar o provisionamento e a implementação de bases de dados relacionais no Azure
   - Consultar dados relacionais por meio de soluções de dados em nuvem no Azure
 
 
   ### Módulo 3&#58; Explorar dados não relacionais no Azure
-  Os alunos aprenderão os fundamentos dos conceitos de banco de dados num ambiente em cloud, obterão habilidades básicas em serviços de dados em cloud e construirão seu conhecimento fundamental sobre serviços de dados em cloud dentro do Azure. Os alunos explorarão serviços de dados não relacionais, provisionando e implantando bancos de dados não relacionais e lojas de dados não relacionais com o Microsoft Azure.
+  Os estudantes aprenderão os fundamentos dos conceitos de banco de dados em um ambiente de nuvem, obterão habilidades básicas em serviços de dados em nuvem e construirão seus conhecimentos fundamentais sobre serviços de dados em nuvem dentro do Azure. estudantes descreverão as ofertas de dados não relacionais, provisionando e implementando bancos de dados não relacionais e data stores não relacionais com o Microsoft Azure.
   #### Lições
   - Explorar ofertas de dados não relacionais no Azure
   - Explorar o provisionamento e a implementação de serviços de dados não relacionais no Azure
   - Gerenciar data stores não relacionais no Azure
 
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
-  - Descrever serviços de dados não relacionais no Azure
+  - Descrever ofertas de dados não relacionais no Azure
   - Explicar o provisionamento e a implementação de bases de dados não relacionais no Azure
   - Descrever data stores não relacionais no Azure
 

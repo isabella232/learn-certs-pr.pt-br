@@ -6,8 +6,6 @@ metadata:
 uid: exam.az-600
 displayName: AZ-600
 summary: |-
-  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-  
   Os candidatos ao Exame AZ-600 são Azure administrators ou operadores do Azure Stack Hub que fornecem serviços em cloud para usuários finais ou clientes de dentro da própria central de dados usando o Azure Stack Hub.
   
   Os candidatos a este exame devem ter experiência significativa gerenciando e operando ambientes do Azure Stack Hub. Eles devem ter uma forte compreensão do Azure e também algum conhecimento de virtualização, networking e gestão de identidade. Eles precisam entender como que o Azure Stack Hub permite processos de DevOps e o modelo de desenvolvimento híbrido.

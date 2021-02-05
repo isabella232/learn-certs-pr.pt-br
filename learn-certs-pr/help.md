@@ -12,8 +12,6 @@ ms.prod: non-product-specific
 ---
 # Microsoft Certification help
 
-<div style='color&#58; red;'><strong><font color="red"><br/>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>Saiba mais</a>.</font></strong><br/><br/></div>
-
 Precisa de ajuda com produtos de certificação Microsoft? Consulte as opções de suporte abaixo.
 
 ## Como entrar em contato com o suporte

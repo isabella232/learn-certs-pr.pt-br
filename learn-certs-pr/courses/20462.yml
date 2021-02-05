@@ -21,7 +21,7 @@ skillsGained:
 - skill: Realizar a manutenção contínua do banco de dados.
 - skill: Automatizar a manutenção do SQL Server com trabalhos do SQL Server Agent.
 - skill: Configurar mensagens, alertas e notificações do banco de dados.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -6,8 +6,6 @@ metadata:
 uid: certification.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div><font color='red'><strong>Devido ao surto de coronavírus (COVID-19), a Microsoft está implementando várias mudanças temporárias em nosso programa de treinamento e certificação. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Saiba mais</a>.</strong></font><br/><br/></div>
-
   Os candidatos à certificação DevOps Engineer Expert devem ter experiência operacional com pessoal, processos e tecnologias para fornecer valor comercial de forma contínua.
 
   As responsabilidades para esta função incluem o projeto e implementação de estratégias de colaboração, código, infraestrutura, controle de origem, segurança, conformidade, integração contínua, teste, entrega, monitoramento e feedback.

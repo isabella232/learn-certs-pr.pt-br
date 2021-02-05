@@ -22,7 +22,7 @@ exams:
 - uid: exam.dp-100
 summary: |-
   Obtenha o conhecimento necessário sobre como usar os serviços do Azure para desenvolver, treinar e implementar soluções de aprendizado de máquina. O curso começa com uma visão geral dos serviços do Azure que oferecem suporte à ciência de dados. A partir daí, ele se concentra no uso do serviço de ciência de dados premier do Azure, o serviço Azure Machine Learning, para automatizar o pipeline de ciência de dados. Este curso concentra-se no Azure e não ensina o estudante a realizar ciência de dados. Presume-se que os alunos já sabem disso.
-  
+
   #### Perfil do público
   Este curso destina-se a data scientists e pessoas com responsabilidades administrativas no treinamento e na implementação de modelos de aprendizado de máquina.
 prerequisitesSection: |-
@@ -32,153 +32,37 @@ prerequisitesSection: |-
   - Criação de recursos de cloud no Microsoft Azure.
   - Utilização do Python para explorar e visualizar dados.
   - Formação e validação de modelos de aprendizagem de máquinas utilizando estruturas comuns como Scikit-Learn, PyTorch, e TensorFlow.
-  - Trabalhar com contêineres.
   
   Para obter estas competências prévias, faça a seguinte formação online gratuita antes de frequentar o curso&#58;
   - [Explorar conceitos da Microsoft](/learn/paths/explore-microsoft-azure-cloud-concepts/).
-  - [Criar modelos de aprendizagem de máquinas](/learn/paths/create-machine-learn-models/).
-  - [Administrar contêineres no Azure](/learn/paths/administer-containers-in-azure/)
+  - [Criar modelos de aprendizagem de máquinas](/learn/paths/create-machine-learn-models/). 
   
   Se é completamente novo na ciência dos dados e na aprendizagem de máquinas, por favor preencha primeiro [Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals).
 outlineSection: |-
- ### Módulo 1&#58; Introdução ao Azure Machine Learning
-  Neste módulo, você aprenderá como provisionar um espaço de trabalho do Azure Machine Learning e usá-lo para gerenciar ativos de aprendizado de máquina, como dados, computação, código de treinamento do modelo, métricas registradas e modelos treinados. Você aprenderá como usar a interface do estúdio do Azure Machine Learning com base na Web, bem como o SDK do Azure Machine Learning e ferramentas de desenvolvedor, como o Visual Studio Code e o Jupyter Notebooks, para trabalhar com os ativos no seu espaço de trabalho.
+  ### Módulo 1&#58; Fazendo ciência de dados no Azure
+  O estudante aprenderá sobre o processo de ciência de dados e a função do Data Scientist.  Em seguida, o estudante compreenderá como os serviços do Azure podem oferecer suporte e aumentar o processo de ciência de dados.
   #### Lições
-  - Introdução ao Azure Machine Learning
-  - Trabalhando com o Azure Machine Learning
+  - Introdução ao processo de ciência de dados
+  - Visão geral das opções de ciência de dados do Azure
+  - Introdução ao Azure Notebooks
 
-  #### Laboratório&#58; Criar um espaço de trabalho do Azure Machine Learning
-  
-  Depois de concluir este módulo, você poderá
-  - Prover um espaço de trabalho do Azure Machine Learning
-  - Usar ferramentas e códigos para trabalhar com o Azure Machine Learning
 
-  ### Módulo 2&#58; Aprendizagem Sem Código de Máquina
-  Este Módulo apresenta as ferramentas visuais da Aprendizagem Automatizada de Máquina e Designer, que você pode usar para treinar, avaliar e implementar modelos de aprendizagem de máquinas sem escrever nenhum código.
+  ### Módulo 2&#58; Fazendo ciência de dados como Azure Machine Learning
+  O estudante aprenderá a usar o serviço Azure Machine Learning (AML) para automatizar o processo de ciência de dados ponta a ponta.
   #### Lições
-  - Aprendizagem Automatizada de Máquina
-  - Designer do Azure Machine Learning
-
-  #### Laboratório&#58; Usar Aprendizagem Automatizada de Máquina
- 
-  #### Laboratório&#58; Usar Designer do Azure Machine Learning
-
-  Depois de concluir este módulo, você poderá
-  - Usar a aprendizagem automática de máquinas para treinar um modelo de aprendizagem de máquinas
-  - Usar designer da Azure Machine Learning para treinar um modelo
+  - Introdução ao serviço AML
+  - Registro e implementação de ML com serviço AML
 
 
-  ### Módulo 3&#58; Execução de experimentos e modelos de treinamento
-  Neste módulo, você conhecerá os experimentos que permitem encapsular o código de processamento de dados e modelos de treinamento e os utilizará para realizar treinamento em modelos de aprendizado de máquina.
+  ### Módulo 3&#58; Automatização do aprendizado de máquina com o serviço AML
+  Neste módulo, o estudante aprenderá sobre o pipeline de aprendizado de máquina e como o AutoML e o HyperDrive do serviço AML podem automatizar algumas de suas partes mais trabalhosas.
   #### Lições
-  - Instrução aos experimentos
-  - Treinamento e registro de modelos
-  
-  #### Laboratório&#58; Executar Experimentos
- 
-  #### Laboratório&#58; Modelos de Trens
+  - Automatizar a seleção do modelo de aprendizado de máquina
+  - Automatizar o ajuste do hiperparâmetro com o HyperDrive
 
-  Depois de concluir este módulo, você poderá
-  - Executar experimentos baseados em código em um espaço de trabalho do Azure Machine Learning
-  - Treinamento e registros de modelos de aprendizado de máquina
-  
-  ### Módulo 4&#58; Trabalhando com dados
-  Os dados são um elemento fundamental em qualquer carga de trabalho de aprendizado de máquina e, neste módulo, você aprenderá como criar e gerenciar datastores e datasets em um espaço de trabalho do Azure Machine Learning e como usá-los em experimentos de treinamento de modelo.
+
+  ### Módulo 4&#58; Gerenciar e monitorar modelos de aprendizado de máquina com o serviço AML
+  Neste módulo, o estudante aprenderá a gerenciar e monitorar automaticamente os modelos de aprendizado de máquina no serviço AML.
   #### Lições
-  - Trabalhando com Datastores
-  - Trabalhando com Datasets
-  
-  #### Laboratório&#58; Trabalhar com Dados
+  - Gerenciamento e monitoração de modelos de aprendizado de máquina
 
-  Depois de concluir este módulo, você poderá
-  - Criar e utilizar lojas de dados
-  - Criar e utilizar conjuntos de dados
-  
-  
-  ### Módulo 5&#58; Trabalho com a Compute
-  Um dos principais benefícios da nuvem é a capacidade de reutilizar recursos de computação sob demanda para dimensionar os processos de aprendizado de máquina em uma extensão que seria inviável em seu próprio hardware. Neste módulo, você aprenderá como gerenciar ambientes de experimentos que garantem tempo de execução consistente para experimentos e como criar e usar destinos de computação para a execução de experimentos.
-  #### Lições
-  - Trabalhando com ambientes
-  - Trabalhando com metas de computação
-  
-  #### Laboratório&#58; Trabalhar com a Compute
-
-  Depois de concluir este módulo, você poderá
-  - Criar e usar ambientes
-  - Criar e usar metas de computação
-  
-  ### Módulo 6&#58; Orquestrando operações com pipelines
-  Agora que você compreendeu os conceitos básicos de execução de cargas de trabalho como experimentos que alavancam ativos de dados e calculam recursos, é hora de aprender a orquestrar essas cargas de trabalho como pipelines de etapas conectadas. Os pipelines são essenciais para implementar uma solução de operacionalização
-  #### Lições
-  - Introdução aos pipelines
-  - Publicando e executando pipelines
-  
-  #### Laboratório&#58; Criar um Pipeline
-
-  Depois de concluir este módulo, você poderá
-  - Crie pipelines para automatizar fluxos de trabalho de aprendizado de máquina
-  - Publicar e executar serviços de pipeline
-  
-  ### Módulo 7&#58; Implementar e consumir modelos
-  Os modelos são projetados para auxiliar na tomada de decisões por meio de previsões, portanto, são úteis apenas quando implementados e disponíveis para ser consumido por um aplicativo. Neste módulo, aprenda como implementar modelos para inferências em tempo real e inferências em lote.
-  #### Lições
-  - Inferência em tempo real
-  - Inferência em lotes
-  - Integração e Entrega Contínua
-  
-  #### Laboratório&#58; Criar um Serviço de Inferenciamento em Tempo Real
- 
-  #### Laboratório&#58; Criar um Serviço de Inferenciamento de Lotes
-
-  Depois de concluir este módulo, você poderá
-  - Publicar um modelo como um serviço de inferência em tempo real
- - Publicar um modelo como um serviço de inferência de lote
-  - Descrever técnicas para implementar a integração e entrega contínua
-  
-  
-  ### Módulo 8&#58; Treinamento em modelos ideais
-  Nesta etapa do curso, você conheceu o processo de ponta a ponta para treinamento, implementação e consumo de modelos de aprendizado de máquina, mas como garantir que seu modelo produza os melhores modelos preditivos para seus dados? Neste módulo, você saberá como usar o ajuste de hiperparâmetros e o aprendizado automático de máquinas para tira proveito da computação em escala de nuvem e encontrar o melhor modelo para seus dados.
-  #### Lições
-  - Ajuste de hiperparâmetros
-  - Aprendizado de máquina automatizado
-  
-  #### Laboratório&#58; Sintonizar Hiper parâmetros
- 
-  #### Laboratório&#58; Usar o Aprendizado Automatizado da Máquina do SDK
-
-  Depois de concluir este módulo, você poderá
-  - Otimizar os hiperparâmetros para o treinamento do modelo
-  - Usar o aprendizado de máquina automatizado para encontrar o modelo ideal para seus dados
-  
-  ### Módulo 9&#58; Aprendizagem de Máquina Responsável
-  Os cientistas de dados têm o dever de garantir que eles analisem os dados e treinem modelos de aprendizagem de máquinas de forma responsável; respeitando a privacidade individual, mitigando preconceitos e garantindo a transparência. Este Módulo explora algumas considerações e técnicas para aplicar princípios de aprendizagem responsável das máquinas.
-  #### Lições
-  - Privacidade Diferencial
-  - Interpretabilidade de Modelos
-  - Equidade
-  
-  #### Laboratório&#58; Explorar a proveniência Diferencial
- 
-  #### Laboratório&#58; Modelos de Interpretação
-  
-  #### Laboratório&#58; Detectar e Mitigar a Injustiça
-
-  Depois de concluir este módulo, você poderá
-  - Aplicar a comprovação diferencial à análise de dados
-  - Usar explicadores para interpretar modelos de aprendizagem de máquinas
-  - Avaliar modelos para ajuste
-  
-  
-  ### Módulo 10&#58; Monitoramento de modelos
-  Após a implementação de um modelo, é importante entender como o modelo está sendo usado na produção e detectar qualquer degradação em sua eficácia devido ao desvio de dados. Este módulo descreve técnicas para monitorar modelos e seus dados.
-  #### Lições
-  - Monitorando de modelos com o Application Insights
-  - Monitoramento de desvio de dados
-  
-  #### Laboratório&#58; Monitorar um Modelo com Perspectivas do Aplicativo
- 
-  #### Laboratório&#58; Monitorar a Deriva de Dados
-
-  Depois de concluir este módulo, você poderá
-  - Use o Application Insights para monitorar um modelo publicado
-  - Monitorar desvio de dados
