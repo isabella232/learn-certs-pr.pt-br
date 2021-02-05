@@ -24,7 +24,7 @@ skillsGained:
 - skill: Transformar dados implementando o pivô, o não pivot, o rollup e o cubo.
 - skill: Criar e implementar procedimentos armazenados.
 - skill: Adicionar construções de programação como variáveis, condições e loops ao código T-SQL.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -24,7 +24,7 @@ skillsGained:
 - skill: Usar os soquetes da Web para enviar e receber dados entre um aplicativo da Web e um servidor.
 - skill: Melhore a capacidade de resposta de um aplicativo da Web que executa operações de longa execução usando processos do Trabalhador da Web.
 - skill: Usar o WebPack para empacotar aplicativos da web para produção.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -16,7 +16,7 @@ skillsGained:
 - skill: Implementar o modelo para uma instância de contêineres Azure
 - skill: Gerar previsões com funções Azure acessando uma alimentação de mudança Cosmos DB
 - skill: Modernizar os aplicativos e integrar a Inteligência Artificial no aplicativo
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

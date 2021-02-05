@@ -29,7 +29,7 @@ skillsGained:
 - skill: Implementar Blue Green Deployment
 - skill: Implementar Canary Release
 - skill: Implementar Progressive Exposure Deployment
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -19,7 +19,7 @@ skillsGained:
 - skill: Implementar monitoramento de soluções, registro e testes de diagnóstico.
 - skill: Reconhecer e resolver problemas de segurança e implementar o Centro de Segurança Azure para IoT.
 - skill: Construir uma solução IoT usando o Azure IoT Central e reconhecer as oportunidades SaaS para IoT.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

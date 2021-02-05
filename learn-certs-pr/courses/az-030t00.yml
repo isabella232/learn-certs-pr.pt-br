@@ -15,7 +15,7 @@ skillsGained:
 - skill: Administre o Azure usando o gerenciador de recursos, o portal do Azure, Cloud Shell e a CLI
 - skill: Configurar soluções de conectividade entre sites, como VNet Peering e gateways de rede virtual
 - skill: Administre o Serviço de Aplicativo do Azure, instâncias de contêiner do Azure e Kubernetes
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

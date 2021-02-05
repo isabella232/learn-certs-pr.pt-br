@@ -24,7 +24,7 @@ skillsGained:
 - skill: Implementar o Azure Monitor, incluindo fontes conectadas, análise de logs e alertas.
 - skill: Implementar a Central de Segurança do Azure, incluindo políticas, recomendações e acesso na hora certa à máquina virtual.
 - skill: Implementar o Azure Sentinel, incluindo pastas de trabalho, incidentes e guias estratégicos.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

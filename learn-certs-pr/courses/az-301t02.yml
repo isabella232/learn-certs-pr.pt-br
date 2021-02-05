@@ -17,7 +17,7 @@ skillsGained:
 - skill: Criar um esquema de alerta para uma solução hospedada no Azure.
 - skill: Selecionar a opção de backup apropriada para infraestrutura e dados hospedados no Azure.
 - skill: Automatizar a implementação de recursos futuros para fins de recuperação ou dimensionamento de backup.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
