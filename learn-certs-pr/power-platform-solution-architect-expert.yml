@@ -1,0 +1,70 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Solution Architect Expert'
+metadata:
+  title: 'Microsoft Certified: Power Platform Solution Architect Expert'
+  description: Esta certificação estará disponível em março de 2021. Power Platform Solution Architect Experts trabalham com partes interessadas e dedicam-se a soluções que afetam as amplas necessidades técnicas e de negócios de sua organização.
+uid: certification.power-platform-solution-architect-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Se você está procurando provar sua experiência como um arquiteto de soluções da Microsoft Power Platform ou Microsoft Dynamics 365, ou se você é um desenvolvedor ou um consultor sênior pronto para dar o próximo passo para se tornar um arquiteto de soluções, essa certificação profissional pode ajudá-lo a seguir em frente em sua carreira.
+  
+  Como candidato à certificação de Power Platform Solution Architect Expert, você trabalha com partes interessadas e dedica-se a soluções que afetam as amplas necessidades técnicas e de negócios de sua organização. Você tem conhecimento funcional e técnico sobre aplicativos de engajamento de clientes da Power Platform, Dynamics 365, soluções relacionadas à Microsoft cloud e tecnologias de terceiros. Para esta certificação, você precisa de um mínimo de 1 a 3 anos como arquiteto de soluções da Power Platform ou de 7 a 10 anos como consultor ou desenvolvedor sênior, e também profundo conhecimento da arquitetura da Power Platform.
+  
+  Se precisa de experiência adicional antes de tentar esta certificação, aqui estão algumas sugestões&#58;
+  - Trabalhe como (ou observe) um arquiteto de soluções em projetos da Power Platform.
+  - Inscreva-se num curso de capacitação ministrado por instrutores.
+  - Explorar caminhos de aprendizagem disponíveis em [Microsoft Learn](/learn/paths/become-solution-architect/).
+  
+  <div><font color='red'><strong>Nota&#58; Esta certificação estará disponível em março de 2021.</strong></font></div>
+subTitle: Esta certificação estará disponível em março de 2021. Especialistas em Arquitetura de Soluções da Power Platform trabalham com partes interessadas e se dedicam a soluções que afetam as amplas necessidades técnicas e de negócios de sua organização. Os candidatos têm conhecimento funcional e técnico da Power Platform, aplicativos Dynamics 365 de engajamento de clientes, soluções relacionadas à Microsoft cloud e tecnologias de terceiros.
+levels:
+- advanced
+skills:
+- Realizar análise de soluções e requisitos
+- Arquitetar uma solução
+- Implementar a solução
+roles:
+- developer
+- functional-consultant
+- solution-architect
+type: role-based
+products:
+- dynamics-365
+- power-platform
+- ai-builder
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- dynamics-customer-engagement
+- common-data-service
+- azure-api-apps
+- azure-app-configuration
+- azure-app-service
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56P
+exams:
+- uid: exam.pl-600
+prerequisites:
+- uid: certification.power-platform-functional-consultant-associate
+  isOptional: false
+- uid: certification.power-platform-developer-associate
+  isOptional: false
+resources:
+- title: Cartaz de certificação
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Training and certification guide
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md

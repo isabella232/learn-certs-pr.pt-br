@@ -6,12 +6,10 @@ metadata:
 uid: exam.ms-100
 displayName: MS-100
 summary: |-
-  <div>
-  <div><strong>O conteúdo deste exame foi atualizado em 24 de setembro de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
-  </div>
-
+  <div><font color='red'><strong>O conteúdo deste exame será atualizado em 24 de fevereiro de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que vai mudar.</strong></font><br/><br/></div>
+  
   Os candidatos a esse exame são os Microsoft 365 Enterprise Administrators que participam da avaliação, planejamento, migração, implantação e gerenciamento dos serviços do Microsoft 365. Eles executam tarefas de gerenciamento de locatários do Microsoft 365 para uma empresa, incluindo suas identidades, segurança, conformidade e tecnologias de suporte.
-
+  
   Os candidatos têm um conhecimento prático das cargas de trabalho do Microsoft 365 e devem ter sido administradores de pelo menos uma carga de trabalho do Microsoft 365 (Exchange, SharePoint, Skype for Business, Windows como Serviço). Os candidatos também têm um conhecimento prático de redes, administração de servidores e fundamentos de TI, como DNS, Active Directory e PowerShell.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: desenvolver e implementar serviços do Microsoft 365, gerenciar a identidade e as funções do usuário, gerenciar o acesso e autenticação e planejar cargas de trabalho e aplicativos do Office 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -24,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- O conteúdo deste exame foi atualizado em, 24 de setembro de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- O conteúdo deste exame será atualizado em 24 de fevereiro de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
 - Projetar e implementar serviços do Microsoft 365 (25-30%)
 - Gerenciar a identidade e funções do usuário (35-40%)
 - Gerenciar o acesso e autenticação (20-25%)

@@ -15,7 +15,7 @@ skillsGained:
 - skill: Administre o Azure usando o gerenciador de recursos, o Azure Portal, Cloud Shell e a CLI.
 - skill: Configurar soluções de conectividade entre sites, como VNet Peering e gateways de rede virtual.
 - skill: Administre o Azure App Service, instâncias de contêiner do Azure e Kubernetes.
-learningPartnersLink: /learn/certifications/partners
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -28,18 +28,19 @@ exams:
 - uid: exam.az-303
 summary: |-
   Este curso ensina aos arquitetos de soluções como traduzir os requisitos de negócios em soluções seguras, escaláveis e confiáveis. As lições incluem virtualização, automação, redes, armazenamento, identidade, segurança, plataforma de dados e infraestrutura de aplicativos. Este curso descreve como as decisões em cada uma dessas área afetam uma solução geral.
-
+  
   #### Perfil do público
   Este curso é destinado a profissionais de TI com experiência no projeto e implementação de soluções em execução no Microsoft Azure. Eles devem ter amplo conhecimento das operações de TI, incluindo redes, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, plataforma de dados, orçamento e governança. Os Azure Solution Architects usam o Azure Portal e, à medida que avançam no curso, poderão usar a Interface de Linha de Comando. Os candidatos devem ter habilidades de nível de especialista na administração do Azure e experiência nos processos de desenvolvimento do Azure e nos processos de DevOps.
 prerequisitesSection: |-
   Os alunos Arquitetos bem-sucedidos do Azure têm experiência anterior com sistemas operacionais, virtualização, infraestrutura em cloud, estruturas de armazenamento e rede&#58;
-  - Compreensão das tecnologias de virtualização local, incluindo VMs e redes virtuais 
-  - Compreensão da configuração da rede, incluindo TCP/IP, Domain Name System (DNS), virtual private networks (VPNs), firewalls e tecnologias de criptografia 
+  - Compreensão das tecnologias de virtualização local, incluindo VMs e redes virtuais
+  - Compreensão da configuração da rede, incluindo TCP/IP, Domain Name System (DNS), virtual private networks (VPNs), firewalls e tecnologias de criptografia
   - Compreensão dos conceitos de Active Directory, incluindo domínios, florestas e controladores de domínio
   
   Se você é novo no Azure e fazendo computação em cloud, considere um dos seguintes recursos&#58;
-  - Grátis online&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/) 
+  - Grátis online&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
   - Curso ministrado por Instrutor&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Pré-requisitos para administradores do Azure (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### Módulo 1&#58; Implementar o Azure Active Directory
   Neste módulo, você aprenderá como proteger identidades com o Azure Active Directory e implementar usuários e grupos. Este módulo inclui&#58;

@@ -12,17 +12,17 @@ subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 Customer Service c
 levels:
 - intermediate
 skills:
-- Realizar descoberta, planejamento e análise
-- Gerenciar o projeto da experiência do usuário
-- Gerenciar entidades e dados
-- implementar segurança
-- implementar Integração
 - Executar a implementação e teste de soluções
 - gerenciar casos e bases de conhecimento
 - Gerenciar filas, direitos e acordos de nível de serviço (SLAs)
 - implementar agendamentos
 - implementar omnicanal para atendimento ao cliente
 - gerenciar análises
+- Realizar descoberta, planejamento e análise
+- Gerenciar o projeto da experiência do usuário
+- Gerenciar entidades e dados
+- implementar segurança
+- implementar Integração
 roles:
 - functional-consultant
 type: role-based
