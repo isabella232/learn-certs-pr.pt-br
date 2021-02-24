@@ -6,16 +6,19 @@ metadata:
 uid: certification.d365-functional-consultant-marketing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Os Consultores Funcionais do Microsoft Dynamics 365 para Marketing apresentam soluções que atraem e convertem clientes em potencial, criam reconhecimento de marca, padronizam o serviço omnicanal e fornecem insights de marketing.
+  Se você é um consultor funcional, um profissional que usa o Microsoft Dynamics 365 Marketing nas operações diárias de sua organização ou um desenvolvedor que procura aprimorar suas habilidades de consultoria, essa certificação pode ajudar a dar um impulso à sua carreira e pode permitir que você se posicione de forma mais eficaz para projetos e promoções.
+  
+  Como candidato a esta certificação, você conhece os aplicativos baseados em modelos da Dynamics 365 e os princípios de modelagem de dados, além disso, você pode configurar a Microsoft Power Platform. Você implementa iniciativas de marketing tais como campanhas, e-mails e jornadas de clientes. Você tem experiência trabalhando com as partes interessadas de uma organização para reunir requisitos e implementar soluções de Dynamics 365 Marketing. Além disso, você configura o Dynamics 365 Marketing e configura a segurança organizacional da Dynamics 365. Você ainda estende soluções da Dynamics 365 usando componentes da Power Platform tais como Power Automate e Power Apps.
+  
+  Se você precisa de mais experiência antes de tentar obter essa certificação, aqui estão algumas sugestões&#58;
+  - Trabalhe num projeto de implementação de aplicativos baseado em modelos da Dynamics 365.
+  - Observe um consultor funcional ou um arquiteto de soluções que trabalha com Dynamics 365 Marketing.
+  - Siga caminhos de aprendizagem disponíveis no Microsoft Learn.
+  - Inscreva-se num curso de capacitação ministrado por instrutores.
 subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 para Marketing apresentam soluções que atraem e convertem clientes em potencial, criam reconhecimento de marca, padronizam o serviço omnicanal e fornecem insights de marketing.
 levels:
 - intermediate
 skills:
-- Realizar descoberta, planejamento e análise
-- Gerenciar o projeto da experiência do usuário
-- Gerenciar entidades e dados
-- Implementar a segurança
-- Implementar a integração
 - Executar a implementação e teste de soluções
 - Configurar aplicativos de marketing
 - Gerenciar segmentos e listas
@@ -25,6 +28,11 @@ skills:
 - Gerenciar jornadas de clientes
 - Gerenciar eventos e webinars
 - Configurar Dynamics 365 Customer Voice
+- Realizar descoberta, planejamento e análise
+- Gerenciar o projeto da experiência do usuário
+- Gerenciar entidades e dados
+- Implementar a segurança
+- Implementar a integração
 roles:
 - functional-consultant
 type: role-based

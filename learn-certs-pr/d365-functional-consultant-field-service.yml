@@ -12,11 +12,6 @@ subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 para Field Service
 levels:
 - intermediate
 skills:
-- Realizar descoberta, planejamento e análise
-- Gerenciar o projeto da experiência do usuário
-- Gerenciar entidades e dados
-- Implementar a segurança
-- Implementar a integração
 - Executar a implementação e teste de soluções
 - Configurar aplicativos de Field Service
 - Gerenciar ordens de serviço
@@ -24,6 +19,11 @@ skills:
 - Gerenciar mobilidade de Field Service
 - Gerenciar inventário e compras
 - Implementar Serviço de Campo Conectado
+- Realizar descoberta, planejamento e análise
+- Gerenciar o projeto da experiência do usuário
+- Gerenciar entidades e dados
+- Implementar a segurança
+- Implementar a integração
 roles:
 - functional-consultant
 type: role-based

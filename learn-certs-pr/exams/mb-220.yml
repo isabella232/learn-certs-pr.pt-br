@@ -6,14 +6,12 @@ metadata:
 uid: exam.mb-220
 displayName: MB-220
 summary: |-
-  <div>
-  <div><strong>O conteúdo do exame será atualizado em 15 de janeiro de 2021. Por favor, baixe o documento de habilidades avaliadas apresentado abaixo para ver o que será alterado.</strong><br/><br/></div>
-  </div>
-
+  <div><strong>O conteúdo deste exame foi atualizado em 15 de janeiro de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudou.</strong><br/><br/></div>
+  
   Os candidatos a este exame são Consultores Funcionais da Dynamics 365 Marketing. Os candidatos são responsáveis pela implementação de soluções que atraiam e convertam leads, construam o conhecimento da marca, normalizem o envio de mensagens omnichannel, e forneçam insights de marketing.
-
+  
   Os candidatos são responsáveis por configurar e expandir aplicativos de marketing básicos para incluir marketing por e-mail, preparação, jornadas interativas de clientes, experiências personalizadas para interação com clientes potenciais, integração de LinkedIn, eventos, pesquisas, páginas de apresentação, segmentação e pontuação e por manter a conformidade com o Regulamento de Proteção de Dados Geral (GDPR).
-
+  
   Os candidatos devem ter algum conhecimento dos princípios de marketing e do papel do aplicativo de Marketing em relação ao conjunto de aplicativos Dynamics 365, incluindo a integração com o Dynamics 365 e as aplicativos Microsoft 365.
 subTitle: 'Este exame mede a sua capacidade em realizar as seguintes tarefas técnicas: configurar aplicativos de marketing; gerir segmentos e listas; criar e gerir formulários e páginas de marketing; gerir leads, contatos e contas; criar e gerir e-mails de marketing; gerir viagens de clientes; gerir eventos e webinars; e configurar o Dynamics 365 Customer Voice.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -25,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 15 de janeiro de 2021. Por favor, baixe o esboço de habilidades do exame apresentada abaixo para ver o que será alterado.
+- O conteúdo deste exame foi atualizado em 15 de janeiro de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que mudou.
 - Configurar aplicativos de marketing (20-25%)
 - Gerenciar segmentos e listas (5-10%)
 - Criar e gerenciar formulários e páginas de marketing (10-15%)
@@ -40,7 +38,7 @@ products:
 - dynamics-365
 - dynamics-marketing
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-220t00
 paths:

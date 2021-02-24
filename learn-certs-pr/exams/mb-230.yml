@@ -6,15 +6,13 @@ metadata:
 uid: exam.mb-230
 displayName: MB-230
 summary: |-
-  <div>
   <div><strong>O conteúdo deste exame foi atualizado em sexta-feira, 2 de outubro de 2020. Faça o download do documento de habilidades medido abaixo para ver o que vai mudar.</strong><br/><br/></div>
-  </div>
-
+  
   O Dynamics 365 Customer Service Functional Consultant é responsável pela implementação de soluções omnicanal com ênfase no atendimento, qualidade, confiabilidade, eficiência e satisfação do cliente.
   <br/>
-
+  
   O Dynamics 365 Customer Service Functional Consultant implementa e cria visualizações e relatórios de gerenciamento de serviços fornecidos em colaboração com o arquiteto de soluções. O Functional Consultant colabora com o administrador do Customer Engagement para implementar e atualizar componentes da Power Platform, incluindo gerenciamento de conhecimento, feedback do cliente e serviços conectados.
-
+  
   O Dynamics 365 Customer Service Functional Consultant deve ter sólidos conhecimentos práticos no atendimento ao cliente, incluindo&#58; compreensão da terminologia do setor, prioridades, padrões, metodologias, operações de atendimento ao cliente e práticas recomendadas. O Functional Consultant deve ter experiência comprovada em suprir as necessidades do usuário por meio do atendimento ao cliente do Dynamics 365, incluindo compreensão detalhada de casos, gerenciamento de conhecimento, filas, direitos, agendamento de recursos, acordos de nível de serviço (SLAs), visualizações, serviços conectados, Customer Service Insights, Power Virtual Agents e omnicanal para atendimento ao cliente. O conhecimento do Functional Consultant deve incluir uma compreensão abrangente da função do aplicativo Customer Service em relação ao conjunto de aplicativos do Dynamics 365, juntamente com um entendimento básico da arquitetura da solução e do controle de qualidade.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: gerenciar casos e bases de conhecimento, gerenciar filas, direitos e acordos de nível de serviço, implementar agendamentos, implementar omnicanal para atendimento ao cliente e gerenciar análises.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -38,7 +36,7 @@ products:
 - dynamics-365
 - dynamics-customer-service
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-230t01
 paths:

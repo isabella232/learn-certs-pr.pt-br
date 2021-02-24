@@ -7,13 +7,14 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
+  <div><font color='red'><strong>UMA NOVA VERSÃO DESSE EXAME, <a href="/learn/certifications/exams/pl-600">PL-600</a>, ESTARÁ DISPONÍVEL EM MARÇO DE 2021. Você pode fazer este exame até ser reformado em 30 de junho de 2021.</strong></font><br/><br/></div>
   <div><strong>O conteúdo deste exame foi atualizado em, 30 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
   </div>
-
+  
   Os arquitetos de soluções do Power Apps no Microsoft Dynamics 365 conduzem implementações bem-sucedidas e se concentram em como as soluções podem atender às necessidades técnicas e empresariais mais amplas das organizações.
-
+  
   O Solution Architect tem conhecimento funcional e técnico dos aplicativos controlados por modelos da Plataforma Power no Dynamics 365, como Dynamics 365 Customer Service, Dynamics 365 Field Service, Dynamics 365 Marketing e Dynamics 365 Sales, soluções em nuvem da Microsoft e tecnologias de terceiros. O Solution Architect aplica conhecimento e experiência durante o projeto como um todo. O Solution Architect realiza trabalho proativo e preventivo para aumentar o valor do investimento do cliente e promover a saúde organizacional. Essa função requer a capacidade de identificar oportunidades para resolver problemas de negócios.
-
+  
   Os Solution Architects têm experiência em disciplinas funcionais e técnicas da Plataforma Power e aplicativos controlados por modelos no Dynamics 365. Os Solution Architects devem poder facilitar as decisões do projeto por meio do desenvolvimento, configuração, integração, infraestrutura, segurança, disponibilidade, armazenamento e gerência da mudança. Essa função equilibra as necessidades de negócios de um projeto, ao mesmo tempo em que atende aos requisitos funcionais e não funcionais.
 subTitle: 'Esse exame mede a sua capacidade de realizar as seguintes tarefas técnicas: realizar a previsão de soluções e análise de requisitos; arquitetar uma solução; e implementar a solução.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -28,6 +29,7 @@ skills:
 - Executar Previsão de Solução e Análise de Requisitos (30-35%)
 - Arquitetura de uma solução (45-50%)
 - Implementar a solução (20-25%)
+retirementDate: 06/30/2021
 roles:
 - solution-architect
 products:

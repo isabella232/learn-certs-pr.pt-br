@@ -62,6 +62,10 @@ Encontre os exames agendados para serem desativados nos próximos 12 meses, list
 
 | a ser desativado em 30 de junho de 2021 |
 | --- |
+| [AI-100](/learn/certifications/exams/ai-100): Designing and Implementing an Azure AI Solution |
+| [DP-200](/learn/certifications/exams/dp-200): Implementing an Azure Data Solution |
+| [DP-201](/learn/certifications/exams/dp-201): Designing an Azure Data Solution |
+| [MB-600](/learn/certifications/exams/mb-600): Microsoft Dynamics 365 + Power Platform Solution Architect |
 | [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
 
 ## Exames desativados recentemente
