@@ -1,0 +1,49 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+metadata:
+  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+  description: 'Os Administradores de Mensagens do Microsoft 365 implementam, configuram, gerenciam, diagnosticam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes híbridos e na nuvem.'
+uid: certification.m365-messaging-administrator
+certificationRenewalUid: renewal.m365-messaging-administrator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Os Administradores de Mensagens do Microsoft 365 implementam, configuram, gerenciam, diagnosticam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes híbridos e na nuvem.
+subTitle: Os Administradores de Mensagens do Microsoft 365 implementam, configuram, gerenciam, diagnosticam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes híbridos e na nuvem.
+levels:
+- intermediate
+skills:
+- Gerenciar configurações e recursos organizacionais
+- Planejar e gerenciar a arquitetura de e-mail
+- Planejar e implementar uma configuração e migração híbrida
+- Proteger o ambiente de mensagem
+roles:
+- administrator
+type: role-based
+products:
+- m365
+paths:
+- uid: learn-m365.m365-messaging-hybrid-migration
+- uid: learn-m365.m365-messaging-architecture
+- uid: learn-m365.m365-messaging-secure-environment
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
+courses:
+- uid: course.ms-203t00
+exams:
+- uid: exam.ms-203
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

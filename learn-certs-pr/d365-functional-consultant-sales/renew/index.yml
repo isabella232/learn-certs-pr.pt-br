@@ -1,0 +1,24 @@
+### YamlMime:Certification
+title: 'Renovação para Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+metadata:
+  title: 'Renovação para Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate'
+  description: 'Se a sua certificação expirar em seis meses, você está qualificado a renová-la.'
+uid: renewal.d365-functional-consultant-sales
+certificationUid: certification.d365-functional-consultant-sales
+assessmentId: 77790b05-d9dc-40d9-a754-61322b6ab014
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Se a sua certificação expirar em seis meses, você está qualificado a renová-la. Mostre que você se manteve atualizado com os conteúdos mais recentes do Dynamics 365 Customer Insights e Sales Insights ao passar na avaliação de renovação. Você também pode se preparar para a renovação com a coleção selecionada de módulos de aprendizagem.
+skills:
+- Criar um perfil de cliente unificado no Dynamics 365 Customer Insights
+- Trabalhar com Dynamics 365 Customer Insights
+- Configurar Sales Insights
+- Trabalhar com Dynamics 365 Sales Insights
+examsPassed:
+- pl-200, mb-210
+studyGuideDescription: 'Use esta coleção de módulos de aprendizagem para ajudá-lo a se preparar para a Certificação Microsoft: Avaliação de renovação para Dynamics 365 Sales Functional Consultant Associate.'
+resources:
+- title: Sobre a renovação da certificação
+  summary: Entenda o processo e os requisitos para renovar suas certificações online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

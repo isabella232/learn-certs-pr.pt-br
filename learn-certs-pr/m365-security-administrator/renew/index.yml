@@ -1,0 +1,28 @@
+### YamlMime:Certification
+title: 'Renovação para Microsoft 365 Certified: Security Administrator Associate'
+metadata:
+  title: 'Renovação para Microsoft 365 Certified: Security Administrator Associate'
+  description: 'Se a sua certificação expirar em seis meses, você está qualificado a renová-la.'
+uid: renewal.m365-security-administrator
+certificationUid: certification.m365-security-administrator
+assessmentId: a5e8873e-f61e-4c5b-8f88-845a09bbd070
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Se a sua certificação expirar em seis meses, você está qualificado a renová-la. Mostre que você se manteve atualizado com os conteúdos mais recentes do Microsoft 365 ao passar na avaliação de renovação. Você também pode se preparar para a renovação com a coleção selecionada de módulos de aprendizagem.
+skills:
+- Proteger seu ambiente com a Proteção Avançada contra Ameaças do Azure
+- Transição da Proteção de Informações do Azure para a Proteção de Informações da Microsoft
+- Descrever os recursos de gerenciamento de conformidade do Microsoft 365
+- Reforçar a autenticação (acesso condicional) com o Azure Active Directory
+- Adotar a Confiança Zero com Azure Active Directory
+- Proteger seus dados com rótulos de confidencialidade
+- Proteger-se contra ameaças com a proteção avançada contra ameaças do Microsoft Defender
+- Preparar a conformidade de comunicação no Microsoft 365
+examsPassed:
+- ms-500
+studyGuideDescription: 'Use esta coleção de módulos de aprendizagem para ajudá-lo a se preparar para a Certificação Microsoft 365: Avaliação de renovação para Security Administrator Associate.'
+resources:
+- title: Sobre a renovação da certificação
+  summary: Entenda o processo e os requisitos para renovar suas certificações online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification
