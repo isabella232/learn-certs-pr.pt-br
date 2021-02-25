@@ -1,0 +1,28 @@
+### YamlMime:Certification
+title: 'Renovação para Microsoft Certified: Azure Administrator Associate'
+metadata:
+  title: 'Renovação para Microsoft Certified: Azure Administrator Associate'
+  description: 'Se a sua certificação expirar em seis meses, você está qualificado a renová-la.'
+uid: renewal.azure-administrator
+certificationUid: certification.azure-administrator
+assessmentId: 5a6a0e34-b4e6-4690-af91-962c75421067
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Se a sua certificação expirar em seis meses, você está qualificado a renová-la. Mostre que você se manteve atualizado com os conteúdos mais recentes do Azure ao passar na avaliação de renovação. Você também pode se preparar para a renovação com a coleção selecionada de módulos de aprendizagem.
+skills:
+- Hospedar aplicativos da web com o serviço de aplicativo do Azure
+- Criar aplicativos da web em contêiner com Docker
+- Proteger contas de armazenamento
+- Hospedar seu domínio no DNS do Azure
+- Proteger e isolar o acesso aos recursos do Azure usando grupos de segurança de rede e terminais de serviço
+- Proteger suas máquinas com backup do Azure
+- Introdução ao Kubernetes
+- Gerenciar usuários e grupos no Azure Active Directory
+examsPassed:
+- az-104
+studyGuideDescription: 'Use esta coleção de módulos de aprendizagem para ajudá-lo a se preparar para a Certificação Microsoft: Avaliação de renovação para Azure Administrator Associate.'
+resources:
+- title: Sobre a renovação da certificação
+  summary: Entenda o processo e os requisitos para renovar suas certificações online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification
