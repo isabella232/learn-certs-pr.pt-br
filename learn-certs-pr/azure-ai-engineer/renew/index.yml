@@ -18,7 +18,7 @@ skills:
 - Criar soluções de IA para conversação
 - Implementar mineração de conhecimento com o Azure Cognitive Search
 examsPassed:
-- ai-100, ai-102
+- ai-100 ou ai-102
 studyGuideDescription: 'Use esta coleção de módulos de aprendizagem para ajudá-lo a se preparar para a Certificação Microsoft: Avaliação de renovação para Azure AI Engineer Associate.'
 resources:
 - title: Sobre a renovação da certificação
