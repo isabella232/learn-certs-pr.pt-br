@@ -35,7 +35,7 @@ resources:
   href: deals.md
 - title: Suporte para certificações
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
-  href: help.md
+  href: ../help.md
 - title: Painel de certificação
   description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
   href: https://www.microsoft.com/learning/dashboard.aspx
