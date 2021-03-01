@@ -1,0 +1,68 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Power Platform Fundamentals'
+  description: Prove que você compreende os principais recursos da Power Platform, desde o valor comercial e os recursos essenciais do produto até a criação de um aplicativo de tela simples dos Power Apps, conectando fontes de dados, automatizando processos básicos de negócios com o Power Automate, criando um painel do Power BI e criando assistentes virtuais poderosos com Power Virtual Agents.
+uid: certification.power-platform-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Se você é aluno, usuário de negócios ou profissional técnico iniciante, essa certificação pode acelerar seu progresso e dar um impulso à sua carreira, pois você estará usando suas habilidades da Microsoft Power Platform para melhorar a produtividade da sua equipe. Não é necessária nenhuma experiência para treinar para isso — apenas a familiaridade básica com tecnologia de computador, análise de dados, computação em cloud e internet. Pense numa certificação fundamental como o primeiro passo para aumentar seu conjunto de habilidades e avançar para outras certificações, como o Microsoft Power Platform Functional Consultant.
+
+  A certificação Microsoft Power Platform Fundamentals pode ser um ótimo ajuste para você se pretende&#58;
+  - Construir soluções com a Microsoft Power Platform.
+  - Automatizar processos básicos de negócios com Power Automate.
+  - Realizar análise de dados com Power BI.
+  - Criar experiências simples de Power Apps.
+  - Construir chatbots práticos com Power Virtual Agents. 
+
+  Esta certificação não tem pré-requisitos. No entanto, se você quiser ganhar um pouco mais de experiência, você pode&#58;
+  - Sombrear uma pessoa em sua equipe que trabalha com a Microsoft Power Platform.
+  - Explorar opções de aprendizagem disponíveis no Microsoft Learn.
+  - Inscrever-se num curso de treinamento ministrado por instrutores.
+subTitle: Prove que você compreende os principais recursos da Power Platform, desde o valor comercial e os recursos essenciais do produto até a criação de um aplicativo de tela simples dos Power Apps, conectando fontes de dados, automatizando processos básicos de negócios com o Power Automate, criando um painel do Power BI e criando assistentes virtuais poderosos com Power Virtual Agents.
+levels:
+- beginner
+skills:
+- Descrever o valor comercial da Power Platform
+- Identificar os componentes principais da Power Platform
+- Demonstrar os recursos do Power BI
+- Descrever os recursos do Power Apps
+- Demonstrar os recursos do Power Automate
+- Demonstrar o valor comercial dos Power Virtual Agents
+roles:
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products:
+- power-platform
+courses:
+- uid: course.pl-900t00
+paths:
+- uid: learn-bizapps.wwl.power-plat-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43KLw
+exams:
+- uid: exam.pl-900
+resources:
+- title: Cartaz de certificação
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Journey to certification
+  description: Explore as etapas para obter a certificação e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4HabX
+- title: Training and certification guide
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certificação Caminho de Aprendizagem
+  description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gn
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+

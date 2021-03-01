@@ -1,0 +1,89 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist 2013 Master'
+metadata:
+  title: 'Microsoft Office Specialist 2013 Master'
+  description: 'Microsoft Office Specialist 2013 Master'
+uid: certification.microsoft-office-specialist-master-certification-2013
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  A certificação Microsoft Office Specialist 2013 Master demonstra que você tem o nível mais profundo de habilidades necessáias para usar o Office de maneira eficiente.
+
+  Para obter a certificação Microsoft Office 2013 Expert, você deverá escolher uma das seguintes opções de cursos&#58; 
+
+
+
+  <div><br/><strong>Opção 1 (Word Expert + Excel Core + Elective)</strong></div>
+
+
+  - Deverá ser aprovado em dos três exames obrigatórios&#58;
+    - [77-425&#58; Microsoft Word 2013 Expert Part One](/learn/certifications/exams/77-425)
+    - [77-426&#58; Microsoft Word 2013 Expert Part Two](/learn/certifications/exams/77-426)
+    - [77-420&#58; Microsoft Excel 2013 Core](/learn/certifications/exams/77-420)
+  - Passar em um dos seguintes exames qualificatórios&#58;
+    - [77-421&#58; Microsoft OneNote 2013](/learn/certifications/exams/77-421)
+    - [77-422&#58; Microsoft PowerPoint 2013](/learn/certifications/exams/77-422)
+    - [77-423&#58; Microsoft Outlook 2013](/learn/certifications/exams/77-423)
+    - [77-424&#58; Microsoft Access 2013](/learn/certifications/exams/77-424)
+    - [77-419&#58; Microsoft SharePoint 2013](/learn/certifications/exams/77-419) (desativadas em junho de 2020)
+
+  <div><br/><strong>Opção 2 (Excel Expert + Word Core + Elective)</strong></div>
+
+
+  - Deverá ser aprovado em dos três exames obrigatórios&#58;
+    - [77-427&#58; Microsoft Excel 2013 Expert Part One](/learn/certifications/exams/77-427)
+    - [77-428&#58; Microsoft Excel 2013 Expert Part Two](/learn/certifications/exams/77-428)
+    - [77-418&#58; Microsoft Word 2013 Core](/learn/certifications/exams/77-418)
+  - Passar em um dos seguintes exames qualificatórios&#58;
+    - [77-421&#58; Microsoft OneNote 2013](/learn/certifications/exams/77-421)
+    - [77-422&#58; Microsoft PowerPoint 2013](/learn/certifications/exams/77-422)
+    - [77-423&#58; Microsoft Outlook 2013](/learn/certifications/exams/77-423)
+    - [77-424&#58; Microsoft Access 2013](/learn/certifications/exams/77-424)
+    - [77-419&#58; Microsoft SharePoint 2013](/learn/certifications/exams/77-419) (desativadas em junho de 2020)
+
+  <div><br/><strong>Opção 3 (Word Expert + Excel Expert)</strong></div>
+
+
+  - Deverá ser aprovado em dos quatro exames obrigatórios (este curso não requer exame opcional)&#58;
+    - [77-425&#58; Microsoft Word 2013 Expert Part One](/learn/certifications/exams/77-425)
+    - [77-426&#58; Microsoft Word 2013 Expert Part Two](/learn/certifications/exams/77-426)
+    - [77-427&#58; Microsoft Excel 2013 Expert Part One](/learn/certifications/exams/77-427)
+    - [77-428&#58; Microsoft Excel 2013 Expert Part Two](/learn/certifications/exams/77-428)
+    
+subTitle: Esta certificação demonstra que você possui o nível mais imersivo de habilidades necessárias para dominar os programas Office obtendo uma certificação Microsoft Office Specialist Master.
+levels:
+- intermediate
+skills:
+- none
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-word
+- office-excel
+- office-onenote
+- office-powerpoint
+- office-outlook
+- office-access
+- office-sp
+exams:
+- uid: exam.77-420
+- uid: exam.77-425
+- uid: exam.77-426
+resources:
+- title: Guia de Treinamento e Certificações
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -1,0 +1,25 @@
+### YamlMime:CertificationRenewal
+title: 'Renovação para Microsoft Certified: Azure Developer Associate'
+metadata:
+  title: 'Renovação para Microsoft Certified: Azure Developer Associate'
+  description: 'Se a sua certificação expirar em seis meses, você está qualificado a renová-la.'
+uid: renewal.azure-developer
+certificationUid: certification.azure-developer
+assessmentId: d0dbfae9-07f5-4dfa-97c1-98cad082c78c
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Se a sua certificação expirar em seis meses, você está qualificado a renová-la. Mostre que você se manteve atualizado com os conteúdos mais recentes do Azure ao passar na avaliação de renovação. Você também pode se preparar para a renovação com a coleção selecionada de módulos de aprendizagem.
+skills:
+- Criar fluxos de trabalho sem servidor de longa duração com funções duráveis
+- Executar uma função do Azure com gatilhos
+- Escolher a API apropriada para o Azure Cosmos DB
+- Otimizar o desempenho do Azure Cosmos DB usando estratégias de particionamento e indexação
+- Controlar a autenticação para suas APIs com o Azure API Management
+examsPassed:
+- az-204
+studyGuideDescription: 'Use esta coleção de módulos de aprendizagem para ajudá-lo a se preparar para a Certificação Microsoft: Avaliação de renovação para Azure Developer Associate.'
+resources:
+- title: Sobre a renovação da certificação
+  summary: Entenda o processo e os requisitos para renovar suas certificações online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

@@ -1,0 +1,40 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Excel 2013 Expert'
+metadata:
+  title: 'Microsoft Office Specialist: Excel 2013 Expert'
+  description: 'Microsoft Office Specialist: Excel 2013 Expert'
+uid: certification.mos-excel-2013-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Esta certificação demonstra que você possui habilidades avançadas no Microsoft Excel ao obter uma certificação Microsoft Office Specialist Expert. Os candidatos devem ter um entendimento avançado do ambiente do Excel e a capacidade de orientar outras pessoas no uso apropriado dos recursos no Excel 2013 do Office Professional Plus. Eles devem saber e ser capazes de demonstrar o uso de recursos avançados e especializados dentro do aplicativo.
+subTitle: Esta certificação demonstra que você possui habilidades avançadas no Microsoft Excel ao obter uma certificação Microsoft Office Specialist Expert.
+levels:
+- intermediate
+skills:
+- Gerenciar e compartilhar pastas de trabalho
+- Aplicar formatos e layouts personalizados
+- Criar fórmulas avançadas
+- Criar gráficos e tabelas avançados
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-excel
+exams:
+- uid: exam.77-427
+- uid: exam.77-428
+resources:
+- title: Guia de Treinamento e Certificações
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

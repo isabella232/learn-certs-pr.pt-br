@@ -7,15 +7,16 @@ uid: exam.ai-100
 displayName: AI-100
 summary: |-
   <div>
-  <div style='font-weight&#58; bold;'>O conteúdo deste exame foi atualizado em 20 de maio de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.<br/><br/></div>
+  <div><font color='red'><strong>UMA NOVA VERSÃO DESSE EXAME, <a href='/learn/certifications/exams/ai-102'>AI-102</a>, ESTARÁ DISPONÍVEL EM 23 DE FEVEREIRO DE 2021. Você pode fazer este exame até ser reformado em 30 de junho de 2021. Nota&#58; Os exames serão reformados às 23&#58;59, Horário Padrão Central.</strong></font><br/><br/></div>
+  <div><strong>O conteúdo deste exame foi atualizado em 20 de maio de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
   </div>
-
+  
   Os candidatos a este exame devem ser especialistas no uso de serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de inteligência artificial da Microsoft que envolvem processamento de linguagem natural, fala, pesquisa visual por computador e IA para reconhecimento vocal.
-
+  
   As responsabilidades do engenheiro de IA do Azure incluem a análise de requisitos de soluções de IA, recomendação das ferramentas e tecnologias apropriadas e projeto e implementação de soluções de IA que atendam aos requisitos de escalabilidade e desempenho.
-
+  
   Os engenheiro de IA do Azure traduzem a visão dos arquitetos de soluções e trabalham com cientistas de dados, engenheiros de dados, especialistas em IoT e desenvolvedores de IA para a criação de soluções completas.
-
+  
   O candidato ao exame deve ter conhecimento e experiência na criação e implementação de aplicativos e agentes de IA que usam os Serviços Cognitivos do Microsoft Azure, o Serviço de Bot do Azure, o Azure Cognitive Search e o armazenamento de dados no Azure. Além disso, o candidato deve ser capaz de recomendar soluções que usem tecnologias de código aberto, entender os componentes que compõem o portfólio de IA do Azure e as opções de armazenamento de dados disponíveis e entender quando uma API personalizada deve ser desenvolvida para atender a requisitos específicos.
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: analisar os requisitos da solução, projetar soluções, integrar modelos de IA em soluções e implementar e gerenciar soluções.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -31,8 +32,8 @@ levels:
 skills:
 - O conteúdo deste exame foi atualizado em 20 de maio de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
 - Analisar os requisitos da solução (25-30%)
-- Projetar soluções  AI (40-45%)
-- Implementar e monitorar soluções  AI (25-30%)
+- Projetar soluções AI (40-45%)
+- Implementar e monitorar soluções AI (25-30%)
 roles:
 - ai-engineer
 products:

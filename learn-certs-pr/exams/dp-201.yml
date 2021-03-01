@@ -7,13 +7,14 @@ uid: exam.dp-201
 displayName: DP-201
 summary: |-
   <div>
+  <div><font color='red'><strong>UMA NOVA VERSÃO DESSE EXAME, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, ESTARÁ DISPONÍVEL EM 23 DE FEVEREIRO DE 2021. Você pode fazer este exame até ser reformado em 30 de junho de 2021. Nota&#58; Os exames serão reformados às 23&#58;59, Horário Padrão Central.</strong></font><br/><br/></div>
   <div><strong>O conteúdo deste exame foi atualizado em, 31 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
   </div>
-
+  
   Os candidatos a este exame são engenheiros de dados do Microsoft Azure que colaboram com as partes interessadas da empresa para identificar e atender aos requisitos de dados para implementar soluções que usam os serviços de dados do Azure.
-
+  
   Os engenheiros de dados do Azure são responsáveis por tarefas relacionadas a dados que incluem o projeto de soluções de armazenamento de dados do Azure que usam repositórios de dados relacionais e não relacionais, soluções de processamento de dados em tempo real e em lote e soluções de conformidade e segurança de dados.
-
+  
   Os candidatos a este exame devem criar soluções de dados que usem os seguintes serviços do Azure&#58; Azure Cosmos DB, Azure Synapse Analytics, Armazenamento do Data Lake do Azure, Azure Data Factory, Azure Data Analytics, Azure Stream Analytics, Databricks do Azure e armazenamento de Blob do Azure.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: projetar soluções de armazenamento de dados do Azure, projetar soluções de processamento de dados e projetar sistemas de segurança e conformidade de dados.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -32,6 +33,7 @@ skills:
 - Projetar soluções de armazenamento de dados do Azure (40-45%)
 - Projetar soluções de processamento de dados (25-30%)
 - Projetar para segurança de dados e conformidade (25-30%)
+retirementDate: 06/30/2021
 roles:
 - data-engineer
 products:

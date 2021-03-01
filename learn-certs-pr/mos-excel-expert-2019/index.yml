@@ -1,0 +1,42 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Excel Expert (Excel and Excel 2019)'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Excel Expert (Excel and Excel 2019)'
+  description: 'Demonstre que você possui as habilidades necessárias para explorar ao máximo o Excel obtendo uma certificação Microsoft Office Specialist: Excel Expert.'
+uid: certification.mos-excel-expert-2019
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Demonstre que você possui as habilidades necessárias para explorar ao máximo o Excel obtendo uma certificação Microsoft Office Specialist&#58; Excel Expert. Essa certificação avalia competência na criação, gerenciamento e distribuição de planilhas profissionais para diversos fins e situações especializadas.
+
+  Um indivíduo que recebe esta certificação tem aproximadamente 150 horas de instrução e experiência prática com o produto, possui competência comprovada em nível de especialista na área e está pronto para entrar no mercado de trabalho. Eles podem demonstrar a aplicação correta dos principais recursos do Excel em um nível de especialista e podem concluir tarefas de maneira independente.
+subTitle: 'Demonstre que você possui as habilidades necessárias para explorar ao máximo o Excel obtendo uma certificação Microsoft Office Specialist: Excel Expert.'
+levels:
+- advanced
+skills:
+- Gerenciar opções e configurações de pasta de trabalho
+- Gerenciar e formatas dados
+- Criar fórmulas e macros avançados
+- Gerenciar gráficos e tabelas avançados
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-excel
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44NP0
+exams:
+- uid: exam.mo-201
+resources:
+- title: Guia de Treinamento e Certificações Microsoft
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

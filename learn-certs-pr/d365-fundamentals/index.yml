@@ -1,0 +1,61 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals'
+  description: 'Prove que você entende o Microsoft Dynamics 365; inteligência artificial (IA); realidade mista (RM); a plataforma de energia; conceitos de nuvem; segurança na nuvem; Segurança do Dynamics 365; Serviço de Dados Comum; Relatórios do Dynamics 365; Integrações do Dynamics 365; e implantação na nuvem.'
+uid: certification.d365-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div>
+  <div><strong>ESTA CERTIFICAÇÃO SERÁ REFORMADA EM 30 DE JUNHO DE 2021. Você não poderá mais ganhar essa certificação após esta data. Todas as certificações que você ganhar antes de serem reformados continuarão a aparecer em seu histórico no <a href="https://aka.ms/certdashboard">Painel de Certificação</a>.</strong><br/><br/></div>
+  </div>
+
+  Prove que você entende o Microsoft Dynamics 365; inteligência artificial; realidade mista; a plataforma de energia; conceitos de nuvem; segurança na nuvem; Segurança do Dynamics 365; Serviço de Dados Comum; Relatórios do Dynamics 365; Integrações do Dynamics 365; e implantação na nuvem.
+
+  <div><br/><strong>Porque essa certificação será reformada em 30 de junho de 2021, a Microsoft não atualizará referências de "Common Data Service" para "Microsoft Dataverse".</strong></div>
+subTitle: 'Prove que você entende o Microsoft Dynamics 365; inteligência artificial (IA); realidade mista (RM); a plataforma de energia; conceitos de nuvem; segurança na nuvem; Segurança do Dynamics 365; Serviço de Dados Comum; Relatórios do Dynamics 365; Integrações do Dynamics 365; e implantação na nuvem.'
+levels:
+- beginner
+skills:
+- Identificar os componentes da plataforma Microsoft para Dynamics 365
+- Descrever a inteligência artificial e a realidade mista no Dynamics 365
+- Descrever os aplicativos orientados a modelo
+- Descrever os aplicativos de finanças e operações
+roles:
+- business-owner
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products:
+- dynamics-365
+courses:
+- uid: course.mb-901t00
+paths:
+- uid: learn-dynamics.wwl.dynamics-365-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj0
+exams:
+- uid: exam.mb-901
+resources:
+- title: Cartaz de certificação
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Journey to certification
+  description: Explore as etapas para obter a certificação e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRV
+- title: Training and certification guide
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certificação Caminho de Aprendizagem
+  description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pHPx
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+

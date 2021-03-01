@@ -1,0 +1,59 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
+metadata:
+  title: 'Microsoft 365 Certified: Modern Desktop Administrator Associate'
+  description: 'Modern Desktop Administrators implantam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos clientes em um ambiente corporativo.'
+uid: certification.modern-desktop
+certificationRenewalUid: renewal.m365-modern-desktop
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Modern Desktop Administrators implantam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos clientes em um ambiente corporativo.
+subTitle: Modern Desktop Administrators implantam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos clientes em um ambiente corporativo.
+levels:
+- intermediate
+skills:
+- Implantar o Windows
+- Gerenciar dispositivos e dados
+- configurar a conectividade
+- Manter o Windows
+- Implantar e atualizar sistemas operacionais
+- Gerenciar políticas e perfis
+- Gerenciar e proteger dispositivos
+- Gerenciar aplicativos e dados
+roles:
+- administrator
+type: role-based
+products:
+- m365
+- windows
+courses:
+- uid: course.md-100t00
+- uid: course.md-101t00
+paths:
+- uid: learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
+- uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.manage-enterprise-deployment-m365
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUD
+exams:
+- uid: exam.md-100
+- uid: exam.md-101
+resources:
+- title: Certificação Caminho de Aprendizagem
+  description: 'Descubra os recursos de treinamento para obter a Microsoft Certified: Modern Desktop Administrator Associate.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE45lE2
+- title: Training and certification guide
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

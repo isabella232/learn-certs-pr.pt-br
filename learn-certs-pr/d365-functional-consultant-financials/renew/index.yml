@@ -1,0 +1,22 @@
+### YamlMime:CertificationRenewal
+title: 'Renovação para Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
+metadata:
+  title: 'Renovação para Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
+  description: 'Se a sua certificação expirar em seis meses, você está qualificado a renová-la.'
+uid: renewal.d365-functional-consultant-financials
+certificationUid: certification.d365-functional-consultant-financials
+assessmentId: 778eff49-9918-4702-b1af-5b6e14dc6c84
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Se a sua certificação expirar em seis meses, você está qualificado a renová-la. Mostre que você se manteve atualizado com os conteúdos mais recentes do Dynamics 365 Finance ao passar na avaliação de renovação. Você também pode se preparar para a renovação com a coleção selecionada de módulos de aprendizagem.
+skills:
+- Processar crédito e cobranças no Dynamics 365 Finance
+- Configurar o gerenciamento de ativos fixos no Dynamics 365 Finance
+examsPassed:
+- mb-300, mb-310
+studyGuideDescription: 'Use esta coleção de módulos de aprendizagem para ajudá-lo a se preparar para a Certificação Microsoft: Avaliação de renovação para Dynamics 365 Finance Functional Consultant Associate.'
+resources:
+- title: Sobre a renovação da certificação
+  summary: Entenda o processo e os requisitos para renovar suas certificações online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

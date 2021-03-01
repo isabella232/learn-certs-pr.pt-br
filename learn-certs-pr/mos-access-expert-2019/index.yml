@@ -1,0 +1,43 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Access Expert (Access and Access 2019)'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Access Expert (Access and Access 2019)'
+  description: 'Demonstre que você possui as habilidades necessárias para explorar ao máximo o Access obtendo uma certificação Microsoft Office Specialist: Access Expert.'
+uid: certification.mos-access-expert-2019
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Demonstre que você possui as habilidades necessárias para explorar ao máximo o Access obtendo uma certificação Microsoft Office Specialist&#58; Access Expert. Esta certificação demonstra a competência nos princípios de design do banco de dados.
+
+  Um indivíduo que recebe esta certificação tem aproximadamente 150 horas de instrução e experiência prática com o produto, possui competência comprovada em nível de especialista na área e está pronto para entrar no mercado de trabalho. Eles podem demonstrar a aplicação correta dos principais recursos do Access e podem concluir tarefas de forma independente.
+subTitle: 'Demonstre que você possui as habilidades necessárias para explorar ao máximo o Access obtendo uma certificação Microsoft Office Specialist: Access Expert.'
+levels:
+- advanced
+skills:
+- Gerenciar bancos de dados
+- Criar e modificar tabelas
+- Criar e modificar consultas
+- Modificar formulários na exibição de layout
+- Modificar relatórios na exibição de layout
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-access
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeB
+exams:
+- uid: exam.mo-500
+resources:
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

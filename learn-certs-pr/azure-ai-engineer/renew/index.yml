@@ -1,0 +1,26 @@
+### YamlMime:CertificationRenewalRenewal
+title: 'Renovação para Microsoft Certified: Azure AI Engineer Associate'
+metadata:
+  title: 'Renovação para Microsoft Certified: Azure AI Engineer Associate'
+  description: 'Se a sua certificação expirar em seis meses, você está qualificado a renová-la.'
+uid: renewal.azure-ai-engineer
+certificationUid: certification.azure-ai-engineer
+assessmentId: b7cbd4cb-022d-4be3-94f1-95b2206f91c0
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Se a sua certificação expirar em seis meses, você está qualificado a renová-la. Mostre que você se manteve atualizado com os conteúdos mais recentes do Azure AI ao passar na avaliação de renovação. Você também pode se preparar para a renovação com a coleção selecionada de módulos de aprendizagem.
+skills:
+- Avaliar textos com os Serviços de Linguagem Cognitiva do Azure
+- Processar e traduzir fala com os serviços de fala cognitiva do Azure
+- Processar e classificar imagens com os serviços de visão cognitiva do Azure
+- Processar a linguagem natural com os Serviços de Linguagem Cognitiva do Azure
+- Criar soluções de IA para conversação
+- Implementar mineração de conhecimento com o Azure Cognitive Search
+examsPassed:
+- ai-100 ou ai-102
+studyGuideDescription: 'Use esta coleção de módulos de aprendizagem para ajudá-lo a se preparar para a Certificação Microsoft: Avaliação de renovação para Azure AI Engineer Associate.'
+resources:
+- title: Sobre a renovação da certificação
+  summary: Entenda o processo e os requisitos para renovar suas certificações online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

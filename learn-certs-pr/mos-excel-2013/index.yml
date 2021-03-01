@@ -1,0 +1,41 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Excel 2013'
+metadata:
+  title: 'Microsoft Office Specialist: Excel 2013'
+  description: 'Microsoft Office Specialist: Excel 2013'
+uid: certification.mos-excel-2013
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Esta certificação demonstra que você tem conhecimento básico do ambiente do Microsoft Excel 2013 e capacidade de realizar tarefas de forma independente. Os candidatos devem conhecer e demonstrar a aplicação correta dos principais recursos do Excel 2013.
+subTitle: Esta certificação demonstra que você possui as habilidades necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist (MOS) em um programa Office específico.
+levels:
+- intermediate
+skills:
+- Criar e gerenciar planilhas e pastas de trabalho
+- Criar células e intervalos
+- Criar tabelas
+- Aplicar fórmulas e funções
+- Criar gráficos e objetos
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-excel
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXa
+exams:
+- uid: exam.77-420
+resources:
+- title: Guia de Treinamento e Certificações
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

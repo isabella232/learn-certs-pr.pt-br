@@ -1,0 +1,71 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate'
+  description: 'Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Supply Chain Management simplificam a contabilidade de custos, gerenciamento de estoque, planejamento mestre e gerenciamento de estoque para seus clientes.'
+uid: certification.d365-functional-consultant-supply-chain-management
+certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Supply Chain Management simplificam a contabilidade de custos, gerenciamento de estoque, planejamento mestre e gerenciamento de estoque para seus clientes.
+subTitle: 'Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Supply Chain Management simplificam a contabilidade de custos, gerenciamento de estoque, planejamento mestre e gerenciamento de estoque para seus clientes.'
+levels:
+- intermediate
+skills:
+- Uso de funcionalidade comuns e ferramentas de implementação
+- Configurar segurança, processos e opções
+- Gerir Dados Financeiros e Operacionais
+- Validar e oferecer suporte à solução
+- Implementar gerenciamento de informações do produto
+- Implementar gerenciamento de estoque
+- Implementar e gerir processos de Supply Chain
+- Implementar a gestão de armazém e gestão de transporte
+- Implementar o planeamento mestre
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-finance-operations
+courses:
+- uid: course.mb-300t00
+- uid: course.mb-330t00
+paths:
+- uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.configure-your-organization-in-finance-and-ops
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.configure-analytics-reporting-finance-operations
+- uid: learn-dynamics.configure-manage-products-inventory-d365-finance-ops
+- uid: learn-dynamics.configure-manage-procurement-vendors-d365-finance-ops
+- uid: learn-dynamics.configure-manage-sales-customers-dyn365-supply-chain-mgmt
+- uid: learn-dynamics.configure-work-warehouse-management-d365-finance-ops
+- uid: learn-dynamics.master-planning-supply-chain-management
+- uid: learn-dynamics.configure-work-transportation-mgmt-dyn365-supply-chain-mgmt
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUY
+exams:
+- uid: exam.mb-300
+- uid: exam.mb-330
+resources:
+- title: Cartaz de certificação
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Journey to certification
+  description: Explore as etapas para obter a certificação e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
+- title: Training and certification guide
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Certificação Caminho de Aprendizagem
+  description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+

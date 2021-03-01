@@ -1,0 +1,71 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Developer Associate'
+metadata:
+  title: 'Microsoft Certified: Power Platform Developer Associate'
+  description: Os candidatos à certificação Microsoft Power Platform Developer Associate projetam, desenvolvem, protegem e solucionam problemas de soluções da Power Platform.
+uid: certification.power-platform-developer-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Se você é apaixonado por projetar, desenvolver, proteger e estender as soluções da Microsoft Power Platform, essa certificação pode ser para você. Para obter essa certificação, você deve ser capaz de criar componentes de solução, incluindo aprimoramentos de aplicativos, experiência personalizada do usuário, integrações de sistemas, conversões de dados, automação de processos personalizados e visualizações personalizadas. Você precisa de um forte conhecimento aplicado dos serviços da Microsoft Power Platform e um entendimento básico das práticas de DevOps para a Microsoft Power Platform. Além disso, deve ter experiência de desenvolvimento usando JavaScript, JSON, TypeScript, C#, HTML, .NET, Azure, Microsoft 365, serviços web do RESTful, ASP.NET e Power BI.
+  
+  Os candidatos a esta certificação normalmente trabalham com fabricantes de aplicativos, consultores funcionais, arquitetos de soluções e administradores de TI. Você tem responsabilidades variadas, incluindo&#58;
+  - Criação de projetos técnicos e Power Apps.
+  - Configuração do Dataverse, Power Apps e business process automation.
+  - Ampliação da plataforma e da experiência do usuário.
+  - Desenvolvimento de integrações.
+  
+  Para saber mais, confira nosso post no bloge&#58; [Nova certificação&#58; Microsoft Power Platform Developer Associate](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/new-certification-microsoft-power-platform-developer-associate/ba-p/1469335). Se você precisa de mais experiência antes de tentar esta certificação, você pode&#58;
+  - Voluntariar-se num projeto de desenvolvimento da Microsoft Power Platform para adquirir experiência prática.
+  - Seguir caminhos de aprendizagem no Microsoft Learn.
+  - Inscrever-se num curso de treinamento ministrado por instrutores.
+subTitle: Os candidatos à certificação Microsoft Power Platform Developer Associate projetam, desenvolvem, protegem e solucionam problemas de soluções da Power Platform.
+levels:
+- intermediate
+skills:
+- Criar um Projeto Técnico
+- Configurar o Common Data Service
+- Criar e configurar Power Apps
+- Configurar a automação de processos de negócios
+- Expandir a experiência do usuário
+- Expandir a plataforma
+- Desenvolver integrações
+roles:
+- developer
+type: role-based
+products:
+- power-platform
+- power-apps
+- common-data-service
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.integrate-power-platform
+- uid: learn-dynamics.use-power-apps-component-framework
+- uid: learn-bizapps.administer-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhzw
+exams:
+- uid: exam.pl-400
+resources:
+- title: Cartaz de certificação
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Jornada para a certificação
+  description: Explore as etapas para obter a certificação e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
+- title: Guia de Treinamento e Certificações
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+

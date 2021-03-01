@@ -1,0 +1,38 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Microsoft Outlook 2016'
+metadata:
+  title: 'Microsoft Office Specialist: Microsoft Outlook 2016'
+  description: 'Microsoft Office Specialist: Microsoft Outlook 2016'
+uid: certification.mos-outlook-2016
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  Demonstre que você possui as habilidades necessárias para explorar ao máximo o Outlook obtendo uma certificação Microsoft Office Specialist (MOS) 2016. Os candidatos qualificados criarão e editarão mensagens de e-mail com aparência profissional, manterão calendários em fusos horários e programarão tarefas para uma variedade de fins e situações.
+subTitle: Esta certificação demonstra que você possui as habilidades necessárias para explorar ao máximo o Office obtendo uma certificação Microsoft Office Specialist (MOS) em um programa Office específico.
+levels:
+- intermediate
+skills:
+- Gerenciar o ambiente Outlook para produtividade
+- Gerenciar mensagens
+- Gerenciar cronogramas
+- Gerenciar contatos e grupos
+roles:
+- business-user
+type: mos
+products:
+- office-outlook
+exams:
+- uid: exam.77-731
+resources:
+- title: Guia de Treinamento e Certificações
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

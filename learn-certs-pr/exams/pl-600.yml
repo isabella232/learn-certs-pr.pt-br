@@ -1,0 +1,71 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Solution Architect (beta)'
+metadata:
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+uid: exam.pl-600
+displayName: PL-600
+summary: |-
+  Os arquitetos de soluções da Microsoft Power Platform lideram implementações bem-sucedidas e se concentram em como as soluções abordam as necessidades técnicas e comerciais mais amplas das organizações.
+  
+  Um arquiteto de soluções tem conhecimento funcional e técnico da Power Platform, aplicativos de engajamento de clientes Dynamics 365, soluções relacionadas à Microsoft cloud e outras tecnologias de terceiros. Um arquiteto de soluções aplica conhecimento e experiência ao longo de um engajamento. O arquiteto de soluções realiza um trabalho proativo e preventivo para aumentar o valor do investimento do cliente e promover a saúde organizacional. Essa função requer a capacidade de identificar oportunidades para resolver problemas de negócios. Arquitetos de soluções têm experiência em disciplinas funcionais e técnicas da Power Platform.
+  
+  Os arquitetos de soluções devem ser capazes de facilitar as decisões de design em desenvolvimento, configuração, integração, infraestrutura, segurança, disponibilidade, armazenamento e gerenciamento de alterações. Essa função equilibra as necessidades de negócios de um projeto, atendendo aos requisitos funcionais e não funcionais.
+  
+  <div><br/><font color='red'><strong>Nota&#58; Este exame estará disponível em março de 2021.</strong></font></div>
+subTitle: 'O exame estará disponível em março de 2021. Este exame avalia sua capacidade em realizar as seguintes tarefas técnicas: realizar análise de soluções e requisitos; arquitetar uma solução; e implementar a solução.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
+locales:
+- en
+levels:
+- advanced
+skills:
+- Realizar análise de soluções e requisitos (35-40%)
+- Arquitetar uma solução (40-45%)
+- Implementar a solução (15-20%)
+roles:
+- developer
+- functional-consultant
+- solution-architect
+products:
+- dynamics-365
+- power-platform
+- ai-builder
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+- azure
+- azure-active-directory
+- azure-active-directory-domain
+- dynamics-customer-engagement
+- common-data-service
+- azure-api-apps
+- azure-app-configuration
+- azure-app-service
+relatedCertifications:
+- related:
+    uid: certification.power-platform-solution-architect-expert
+resources:
+- title: Guia de Treinamento e Certificações
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Suporte para exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: ../request-accommodations.md
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
+  href: ../certification-exam-policies.md

@@ -1,0 +1,73 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure AI Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure AI Fundamentals'
+  description: O Azure AI Fundamentals valida o conhecimento básico nos conceitos de aprendizado de máquina e inteligência artificial e serviços relacionados do Microsoft Azure.
+uid: certification.azure-ai-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: "Os candidatos à certificação Azure AI Fundamentals devem ter conhecimento básico nos conceitos de aprendizado de máquina (ML) e inteligência artificial (AI) e serviços relacionados do Microsoft Azure.  \r\n\r\nEsta certificação é uma oportunidade para demonstrar o conhecimento comum sobre cargas de trabalho de ML e AI e como implementá-las no Azure.  \r\n\r\nEsta certificação destina-se a candidatos com formação técnica e não técnica. A experiência em ciência de dados e engenharia de software não é necessária, no entanto, é recomendável algum conhecimento ou experiência geral em programação.  \r\n\r\nO Azure IA Fundamentals pode ser usado como capacitação para outras certificações baseadas em funções do Azure, como o Azure Data Scientist Associate ou o Azure AI Engineer Associate, mas não é um pré-requisito para nenhuma delas."
+subTitle: O Azure AI Fundamentals valida o conhecimento básico nos conceitos de aprendizado de máquina e inteligência artificial e serviços relacionados do Microsoft Azure.
+levels:
+- beginner
+skills:
+- Descrever as cargas de trabalho e considerações de IA
+- Descrever os princípios fundamentais do aprendizado de máquina no Azure
+- Descrever os recursos das cargas de trabalho de pesquisa visual computacional no Azure
+- Descrever os recursos das cargas de trabalho de Processamento de Linguagem Natural (PLN) no Azure
+- Descrever os recursos de cargas de trabalho de IA para reconhecimento vocal no Azure
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+type: fundamentals
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+courses:
+- uid: course.ai-900t00
+paths:
+- uid: learn.wwl.get-started-with-artificial-intelligence-on-azure
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
+- uid: learn.wwl.explore-computer-vision-microsoft-azure
+- uid: learn.wwl.explore-natural-language-processing
+- uid: learn.wwl.explore-conversational-ai
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAEF
+exams:
+- uid: exam.ai-900
+resources:
+- title: Tabela de certificação do Azure
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação no Azure AI Fundamentals e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

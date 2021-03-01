@@ -1,0 +1,96 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Solutions Architect Expert'
+metadata:
+  title: 'Microsoft Certified: Azure Solutions Architect Expert'
+  description: 'Os Azure Solutions Architects projetam e implementam soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança.'
+uid: certification.azure-solutions-architect
+certificationRenewalUid: renewal.azure-solutions-architect
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  Os candidatos à certificação Azure Solutions Architect Expert devem ter experiência no design e implementação de soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança. Os candidatos devem ter competências de nível intermediário para gerenciar o Azure. Os candidatos devem entender o desenvolvimento do Azure e processos de DevOps.
+
+  As responsabilidades da função incluem consultoria aos profissionais envolvidos e adaptação dos requisitos de negócios em soluções em nuvem seguras, escaláveis e confiáveis.
+
+  O Azure Solution Architect trabalha em parceria com administradores e DBAs de nuvem e clientes para a implementação de soluções.
+
+  O candidato a essa certificação deve ter experiência e conhecimento avançados em operações de TI, incluindo redes, virtualização, identidade, segurança, continuidade de negócios, recuperação de desastres, gerenciamento de dados, orçamento e governança (esta função deve ser capaz de administrar o modo como as decisões em cada área podem afetar uma solução global). Além disso, essa função deve ter habilidades de nível de especialista em administração do Azure e experiência no desenvolvimento do Azure e nos processos de DevOps.
+
+subTitle: Os Azure Solutions Architects projetam e implementam soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança.
+levels:
+- advanced
+skills:
+- Implementar e monitorar uma infraestrutura do Azure
+- Implementar soluções de gerenciamento e segurança
+- Implementar soluções para aplicativos
+- Implementar e gerenciar plataformas de dados
+- Projetar o monitoramento
+- Projetar identidade e segurança
+- Projetar armazenamento de dados
+- Projetar a continuidade dos negócios
+- Infraestrutura de projeto
+roles:
+- solution-architect
+type: role-based
+products:
+- azure
+- azure-active-directory
+- azure-application-gateway
+- azure-virtual-machines
+- azure-virtual-network
+- azure-storage
+- azure-resource-manager
+- azure-site-recovery
+- azure-policy
+- azure-logic-apps
+- azure-functions
+- azure-event-grid
+- azure-service-bus
+- azure-app-service
+- azure-expressroute
+- azure-vpn-gateway
+- azure-kubernetes-service
+- azure-container-instances
+- azure-cosmos-db
+- azure-sql-database
+- azure-event-hubs
+courses:
+- uid: course.az-303t00
+- uid: course.az-304t00
+- uid: course.az-030t00
+paths:
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-data-platform
+- uid: learn.architect-messaging-serverless
+- uid: learn.architect-modern-apps
+- uid: learn.architect-api-integration
+- uid: learn.architect-migration-bcdr
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJUW
+exams:
+- uid: exam.az-303
+- uid: exam.az-304
+resources:
+- title: Tabela de certificação do Azure
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Jornada para a certificação
+  description: Explore as etapas para obter a certificação Azure Solutions Architect Expert e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
+- title: Guia de Treinamento e Certificações
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+
