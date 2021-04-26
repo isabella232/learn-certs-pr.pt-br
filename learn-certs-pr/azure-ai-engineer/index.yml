@@ -7,48 +7,70 @@ uid: certification.azure-ai-engineer
 certificationRenewalUid: renewal.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>EXAM AI-100 SERÁ SUBSTITUÍDO POR <a href='/learn/certifications/ai-102'>EXAM AI-102</a> EM 23 DE FEVEREIRO DE 2021. Você ainda pode obter essa certificação passando no AI-100 até ser reformado em 30 de junho de 2021.</strong></font><br/><br/></div>
-  
-  Os candidatos à certificação Azure AI Engineer Associate devem ser especialistas no uso de serviços cognitivos, aprendizado de máquina e mineração de conhecimento para projetar e implementar soluções de inteligência artificial da Microsoft que envolvem o processamento de linguagem natural, fala, pesquisa visual computacional e IA para reconhecimento vocal.
-  
-  As responsabilidades da função incluem a análise de requisitos de soluções de IA, recomendação das ferramentas e tecnologias apropriadas e projeto e implementação de soluções de IA que atendam aos requisitos de escalabilidade e desempenho.
-  
-  Os engenheiro de IA do Azure traduzem a visão dos arquitetos de soluções e trabalham com cientistas de dados, engenheiros de dados, especialistas em IoT e desenvolvedores de IA para a criação de soluções completas.
-  
-  O candidato à certificação deve ter conhecimento e experiência na criação e implementação de aplicativos e agentes de IA que usam os Serviços Cognitivos do Microsoft Azure, o Serviço de Bot do Azure, o Azure Cognitive Search e o armazenamento de dados no Azure. Além disso, o candidato deve ser capaz de recomendar soluções que usem tecnologias de código aberto, entender os componentes que compõem o portfólio de IA do Azure e as opções de armazenamento de dados disponíveis e entender quando uma API personalizada deve ser desenvolvida para atender a requisitos específicos.
+  <div><font color='red'><strong><a href='/learn/certifications/exams/ai-102'>EXAME AI-102</a> SUBTITUI EXAME AI-100. AI-100 irá reformar-se em 30 de Junho de 2021.</strong></font><br/><br/></div>
+
+  Candidatos à certificação Azure AI Engineer Associate devem ter conhecimentos especializados nas áreas de gestão e implementação de soluções de AI que aproveitem os Azure Cognitive Services, Azure Cognitive Search e Framework da Microsoft Bot. 
+
+  Suas responsabilidades incluem participar de todas as fases do desenvolvimento de soluções de AI—desde definição e design de requisitos até desenvolvimento, implantação, manutenção, ajuste de desempenho e monitoramento.
+
+  Os engenheiros de Azure AI trabalham com arquitetos de soluções para traduzir sua visão e com cientistas de dados, engenheiros de dados, especialistas em IoT e desenvolvedores de AI para construir soluções de AI completas de ponta a ponta. 
+
+  Os candidatos a esta certificação devem ser proficientes em C#, Python ou JavaScript e devem ser capazes de usar APIs e SDK baseados em REST para construir visão computacional, processamento de linguagem natural, mineração de conhecimento e soluções de AI conversacional no Azure. Devem também entender os componentes que compõem o portfólio de Azure AI e as opções de armazenamento de dados disponíveis. Além disso, os candidatos precisam entender e ser capazes de aplicar princípios de AI responsáveis. 
+
+ <div><br/><strong> Obterá esta certificação se passar num dos seguintes exames&#58;</strong><br/> 
+ <ul> 
+ <li><a href="/learn/certifications/exams/ai-100">AI-100</a> (com reforma marcada para 30 de Junho de 2021) <strong>ou</strong></li> 
+ <li><a href="/learn/certifications/exams/ai-102">AI-102</a> (beta lançado a 23 de Fevereiro de 2021)</li></ul></div>
 subTitle: Os engenheiros da Azure AI constroem, gerenciam e implantam soluções de AI que alavancam os Azure Cognitive Services, Azure Cognitive Search, e a Estrutura do Microsoft Bot.
 levels:
 - intermediate
 skills:
-- Analisar os requisitos da solução
-- AI Soluções de design
-- Implementar e monitorar soluções de AI
+- Planejar e administrar uma solução de Azure Cognitive Services
+- Implementar soluções de Visão Computacional
+- Implementar soluções de processamento de linguagem natural 
+- Implementar soluções de mineração de conhecimento
+- Implementar soluções de AI conversacional
 roles:
 - ai-engineer
 type: role-based
-products:
-- azure
-- azure-cognitive-services
+products:						  
 - azure-bot-service
-- azure-machine-learning-studio
-- azure-search
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-custom-vision
+- azure-face
+- azure-form-recognizer
+- azure-language-understanding
+- azure-qna-maker
+- azure-speech
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator
+- azure-translator-speech
+- azure-translator-text
+- azure-video-indexer
 courses:
-- uid: course.ai-100t01
+- uid: course.ai-102t00
 paths:
 - uid: learn.data-ai.evaluate-text-with-language-services
-- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
-- uid: learn.data-ai.create-bots-with-the-azure-bot-service
+- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services													   
 - uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
+- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-conversational-ai-solutions
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
 exams:
-- uid: exam.ai-100
+- uid: exam.ai-102
 resources:
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação Azure AI Engineer Associate e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWy1S2
 - title: Tabela de certificação do Azure
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: Jornada à certificação
-  description: Explore as etapas para obter a certificação Azure AI Engineer Associate e os recursos disponíveis para ajudá-lo a se preparar.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

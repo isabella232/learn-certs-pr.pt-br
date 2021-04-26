@@ -1,0 +1,68 @@
+### YamlMime:Examination
+title: 'Microsoft Information Protection Administrator (Security exam beta)'
+metadata:
+  title: 'Exam SC-400: Microsoft Information Protection Administrator (Security exam beta)'
+  description: 'Exam SC-400: Microsoft Information Protection Administrator (Security exam beta)'
+uid: exam.sc-400
+displayName: SC-400
+summary: |-
+  O Administrador de Proteção de Informações planeja e implementa controles que atendam às necessidades de conformidade organizacional. Essa pessoa é responsável por traduzir requisitos e controles de conformidade em implementação técnica. Eles ajudam os proprietários de controle organizacional a se tornarem e permanecerem em conformidade.
+
+  Eles trabalham com pessoal de tecnologia da informação (IT), proprietários de aplicativos de negócios, recursos humanos e partes interessadas legais para implementar tecnologia que suporte políticas e controles necessários para atender suficientemente aos requisitos regulatórios de sua organização. Eles também trabalham com a liderança de conformidade e segurança, como um Chefe do Gabinete de Conformidade e Oficial de Segurança para avaliar toda a amplitude do risco corporativo associado e formar parceria para desenvolver essas políticas.
+
+  Essa pessoa define os requisitos aplicáveis e testa processos e operações de IT contra essas políticas e controles. Eles são responsáveis pela criação de políticas e regras para classificação de conteúdo, prevenção de perda de dados, governança e proteção.
+  
+  <div><br/><font color='red'><strong>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Saiba mais sobre o valor e a importância dos exames beta</a>.</strong></font></div>
+subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: implementar proteção de informações; implementar a prevenção de perda de dados; e implementar a governança de informação.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr80
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=SC-400&examname=Exam%20SC-400:%20Microsoft%20Information%20Protection%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-400
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Implementar proteção de informações (35-40%)
+- Implementar a prevenção de perda de dados (30-35%)
+- Implementar a governança de informação (25-30%)
+roles:
+- administrator
+- ip-admin
+- risk-practitioner
+- security-engineer
+products:
+- office-teams
+- office-sp
+- m365
+- m365-ems-cloud-app-security
+courses:
+- uid: course.sc-400t00
+paths:
+- uid: learn.wwl.implement-information-protection
+- uid: learn.wwl.implement-data-loss-prevention
+- uid: learn.wwl.implement-information-governance
+relatedCertifications:
+- related:
+    uid: certification.information-protection-administrator
+resources:
+- title: Guia de Treinamento e Certificações
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Suporte para exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: ../request-accommodations.md
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
+  href: ../certification-exam-policies.md

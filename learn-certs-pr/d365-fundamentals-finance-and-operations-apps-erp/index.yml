@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
-  description: "Esta certificação estará disponível em fevereiro de 2021. Se você tem um amplo conhecimento dos recursos de planejamento de recursos corporativos (ERP) da Dynamics 365 e entende os fundamentos de como os aplicativos de finanças e operações se encaixam dentro do ecossistema global da Microsoft — essa certificação é para você."
+  description: "Se você tem um amplo conhecimento dos recursos de planejamento de recursos corporativos (ERP) da Dynamics 365 e entende os fundamentos de como os aplicativos de finanças e operações se encaixam dentro do ecossistema global da Microsoft — essa certificação é para você."
 uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
@@ -17,8 +17,7 @@ summary: |-
   - Desenvolvedores que querem mostrar uma compreensão mais profunda das operações de negócios, finanças, e ERP 
   - Alunos, recém-formados e pessoas mudando de carreira que querem alavancar os aplicativos de finanças e operações da Dynamics 365 para passar para o próximo nível 
 
-   <div><br/><strong>Nota&#58; Esta certificação estará disponível em fevereiro de 2021.</strong></div>
-subTitle: "Esta certificação estará disponível em fevereiro de 2021. Se você tem um amplo conhecimento dos recursos de planejamento de recursos corporativos (ERP) da Dynamics 365 e entende os fundamentos de como os aplicativos de finanças e operações se encaixam dentro do ecossistema global da Microsoft — essa certificação é para você."
+subTitle: "Se você tem um amplo conhecimento dos recursos de planejamento de recursos corporativos (ERP) da Dynamics 365 e entende os fundamentos de como os aplicativos de finanças e operações se encaixam dentro do ecossistema global da Microsoft — essa certificação é para você."
 levels:
 - beginner
 skills:
@@ -27,7 +26,6 @@ skills:
 - Descrever Dynamics 365 Commerce
 - Descrever Dynamics 365 Human Resources
 - Descrever Project Operations
-- Descrever Dynamics 365 Business Central
 - Descrever características compartilhadas
 roles:
 - business-owner
@@ -38,6 +36,12 @@ type: fundamentals
 products: 
 - dynamics-365
 - dynamics-finance-operations
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
+- uid: learn.wwl.explore-microsoft-dynamics-365-finance
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-commerce
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-human-resources
+- uid: learn.wwl.explore-microsoft-dynamics-365-project-operations-erp
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JKOU
 exams:
 - uid: exam.mb-920
@@ -45,9 +49,15 @@ resources:
 - title: Cartaz de certificação
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Jornada à certificação
+  description: Explore as etapas para obter certificação e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAWQX
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Percurso de aprendizagem da certificação
+  description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
