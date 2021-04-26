@@ -12,10 +12,11 @@ summary: |-
   
   Os arquitetos de soluções devem ser capazes de facilitar as decisões de design em desenvolvimento, configuração, integração, infraestrutura, segurança, disponibilidade, armazenamento e gerenciamento de alterações. Essa função equilibra as necessidades de negócios de um projeto, atendendo aos requisitos funcionais e não funcionais.
   
-  <div><br/><font color='red'><strong>Nota&#58; Este exame estará disponível em março de 2021.</strong></font></div>
-subTitle: 'O exame estará disponível em março de 2021. Este exame avalia sua capacidade em realizar as seguintes tarefas técnicas: realizar análise de soluções e requisitos; arquitetar uma solução; e implementar a solução.'
+  <div><br/><font color='red'><strong>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Saiba mais sobre o valor e a importância dos exames beta</a>.</strong></font></div>
+subTitle: 'Este exame avalia sua capacidade em realizar as seguintes tarefas técnicas: realizar análise de soluções e requisitos; arquitetar uma solução; e implementar a solução.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=PL-600&examname=Exam%20PL-600:%20Microsoft%20Power%20Platform%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-600
 locales:
 - en
 levels:

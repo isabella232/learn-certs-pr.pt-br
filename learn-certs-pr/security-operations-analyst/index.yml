@@ -1,0 +1,56 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Security Operations Analyst Associate'
+metadata:
+  title: 'Microsoft Certified: Security Operations Analyst Associate'
+  description: O Analista de Operações de Segurança da Microsoft colabora com partes interessadas organizacionais para proteger sistemas de tecnologia da informação para a organização. Seu objetivo é reduzir o risco organizacional remediando rapidamente os ataques ativos no ambiente, aconselhando melhorias nas práticas de proteção contra ameaças e encaminhando violações das políticas organizacionais às partes interessadas apropriadas.
+uid: certification.security-operations-analyst
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  O Analista de Operações de Segurança da Microsoft colabora com as partes interessadas da organização para garantir sistemas de tecnologia de informação para a organização. O seu objectivo é reduzir o risco organizacional, remediando rapidamente ataques activos no ambiente, aconselhando melhorias nas práticas de protecção contra ameaças, e encaminhando as violações das políticas organizacionais para as partes interessadas apropriadas.
+
+  As responsabilidades incluem gerenciamento de ameaças, monitoramento e resposta usando uma variedade de soluções de segurança em todo o ambiente. A função investiga, responde e caça ameaças usando o Microsoft Azure Sentinel, o Azure Defender, o Microsoft 365 Defender e produtos de segurança de terceiros. Uma vez que o Analista de Operações de Segurança consome a saída operacional dessas ferramentas, elas também são um interveniente crítico na configuração e implantação dessas tecnologias.
+subTitle: O Analista de Operações de Segurança da Microsoft colabora com partes interessadas organizacionais para proteger sistemas de tecnologia da informação para a organização. Seu objetivo é reduzir o risco organizacional remediando rapidamente os ataques ativos no ambiente, aconselhando melhorias nas práticas de proteção contra ameaças e encaminhando violações das políticas organizacionais às partes interessadas apropriadas.
+levels:
+- intermediate
+skills:
+- Mitigar ameaças usando o Microsoft 365 Defender
+- Mitigar ameaças usando o Azure Defender
+- Mitigar ameaças usando o Azure Sentinel
+roles:
+- security-engineer
+- security-operations-analyst
+type: role-based
+products:
+- azure
+- azure-sentinel
+- m365-threat-protection
+courses:
+- uid: course.sc-200t00
+paths:
+- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint
+- uid: learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender
+- uid: learn.wwl.sc-200-mitigate-threats-using-azure-defender
+- uid: learn.wwl.sc-200-utilize-kql-for-azure-sentinel
+- uid: learn.wwl.sc-200-configure-your-azure-sentinel-environment
+- uid: learn.wwl.sc-200-connect-logs-to-azure-sentinel
+- uid: learn.wwl.sc-200-create-detections-perform-investigations-azure-sentinel
+- uid: learn.wwl.sc-200-perform-threat-hunting-azure-sentinel
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp4
+exams:
+- uid: exam.sc-200
+resources:
+- title: Cartaz de certificação
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Training and certification guide
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
