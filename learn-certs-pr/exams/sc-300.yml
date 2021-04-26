@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: 'Microsoft Identity and Access Administrator (Exame de segurança beta)'
+metadata:
+  title: 'Exam SC-300: Microsoft Identity and Access Administrator (Exame de segurança beta)'
+  description: 'Exam SC-300: Microsoft Identity and Access Administrator (Exame de segurança beta)'
+uid: exam.sc-300
+displayName: SC-300
+summary: |-
+  O Administrador de Identidade e Acesso da Microsoft projeta, implementa e opera os sistemas de gerenciamento de identidade e acesso de uma organização usando o Azure Active Directory (Azure AD). Eles gerenciam tarefas como fornecer autenticação segura e acesso de autorização a aplicativos corporativos. O administrador oferece experiências perfeitas e recursos de gerenciamento de autoatendimento para todos os usuários. O acesso e a governança adaptativos são elementos fundamentais para a função. Essa função também é responsável pela solução de problemas, monitoramento e relatórios para o ambiente de identidade e acesso. 
+
+  O Administrador de Identidade e Acesso pode ser um único indivíduo ou um membro de uma equipe maior. Esse papel colabora com muitas outras funções na organização para impulsionar projetos estratégicos de identidade para modernizar soluções de identidade, implementar soluções de identidade híbrida e implementar a governança de identidade.
+  
+  <div><br/><font color='red'><strong>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Saiba mais sobre o valor e a importância dos exames beta</a>.</strong></font></div>
+subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: implementar uma solução de gerenciamento de identidade; implementar uma solução de gerenciamento de autenticação e acesso; implementar o gerenciamento de acesso para aplicativos; e planejar e implementar uma estratégia de governança de identidade.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp5
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=SC-300&examname=Exam%20SC-300:%20Microsoft%20Identity%20and%20Access%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-300
+locales:
+- en
+levels:
+- advanced
+skills:
+- Implementar uma solução de gestão de identidade (25-30%)
+- Implementar uma solução de gerenciamento de autenticação e acesso (25-30%) 
+- Implementar o gerenciamento de acesso para aplicativos (10-15%) 
+- Planejar e implementar uma estratégia de governança de identidade (25-30%)
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+courses:
+- uid: course.sc-300t00
+paths:
+- uid: learn.wwl.implement-identity-management-solution
+- uid: learn.wwl.implement-authentication-access-management-solution
+- uid: learn.wwl.implement-access-management-for-apps
+- uid: learn.wwl.plan-implement-identity-governance-strategy
+relatedCertifications:
+- related:
+    uid: certification.identity-and-access-administrator
+resources:
+- title: Guia de Treinamento e Certificações
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Cartaz de certificação
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: ../deals.md
+- title: Suporte para exames de certificação
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: ../help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Solicitar acomodações
+  description: Saiba mais sobre a solicitação de uma acomodação para realizar o seu exame.
+  href: ../request-accommodations.md
+- title: Políticas de exames e perguntas frequentes
+  description: Revise as políticas do exame e as perguntas mais frequentes.
+  href: ../certification-exam-policies.md

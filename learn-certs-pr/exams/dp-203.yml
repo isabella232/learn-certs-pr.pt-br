@@ -10,10 +10,11 @@ summary: |-
   
   Candidatos ao Exame DP-203&#58; Data Engineering on Microsoft Azure devem ter conhecimento sólido de linguagens de processamento de dados tais como SQL, Python ou Scala, e eles precisam entender o processamento paralelo e padrões de arquitetura de dados.
   
-  <div><br/><font color='red'><strong>Nota&#58; Este exame estará disponível em 23 de fevereiro de 2021.</strong></font></div>
-subTitle: "O exame estará disponível em 23 de fevereiro de 2021. Este exame avalia sua capacidade em realizar as seguintes tarefas técnicas: projetar e implementar o armazenamento de dados; projetar e desenvolver processamento de dados; projetar e implementar a segurança de dados; e monitorar e otimizar o armazenamento de dados e o processamento de dados."
+  <div><br/><font color='red'><strong>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Saiba mais sobre o valor e a importância dos exames beta</a>.</strong></font></div>
+subTitle: "Este exame avalia sua capacidade em realizar as seguintes tarefas técnicas: projetar e implementar o armazenamento de dados; projetar e desenvolver processamento de dados; projetar e implementar a segurança de dados; e monitorar e otimizar o armazenamento de dados e o processamento de dados."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYT
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=DP-203&examname=Exam%20DP-203:%20Data%20Engineering%20on%20Microsoft%20Azure&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-203
 locales:
 - en
 levels:
@@ -32,10 +33,24 @@ products:
 - azure-event-hubs
 - azure-data-lake
 - azure-databricks
+paths:
+- uid: learn.data-ai.azure-for-the-data-engineer
+- uid: learn.store-data-in-azure
+- uid: learn.wwl.data-integration-scale-azure-data-factory
+- uid: learn.wwl.realize-integrated-analytical-solutions-with-azure-synapse-analytics
+- uid: learn.wwl.work-with-data-warehouses-using-azure-synapse-analytics
+- uid: learn.wwl.perform-data-engineering-with-azure-synapse-apache-spark-pools
+- uid: learn.wwl.work-with-hybrid-transactional-analytical-processing-solutions
+- uid: learn.wwl.data-engineer-azure-databricks
+- uid: learn.data-ai.data-processing-with-azure-adls
+- uid: learn.data-ai.implement-data-streaming-with-asa
 relatedCertifications:
 - related:
     uid: certification.azure-data-engineer
 resources:
+- title: Jornada à certificação
+  description: Explore etapas para obter certificado como um Azure Data Engineer Associate e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

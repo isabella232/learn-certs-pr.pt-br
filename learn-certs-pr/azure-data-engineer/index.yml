@@ -7,19 +7,28 @@ uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>EXAMES DP-200 E DP-201 SERÃO SUBSTITUÍDOS POR <a href='/learn/certifications/dp-203'>EXAME DP-203</a> EM 23 DE FEVEREIRO DE 2021. Você ainda pode obter essa certificação passando nos DP-200 e DP-201 até ser reformado em 30 de junho de 2021.</strong></font><br/><br/><br/></div>
-  
-  Os Engenheiros de Dados do Azure projetam e implementam o gerenciamento, o monitoramento, a segurança e a privacidade dos dados usando a pilha completa de serviços de dados do Azure para atender às necessidades de negócios.
+  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>EXAME DP-203</a> SUBSTITUI OS EXAMES DP-200 e DP-201. DP-200 e DP-201 serão reformados em 30 de junho de 2021. </strong></font><br/><br/></div> 
+
+  Um candidato à certificação Azure Data Engineer Associate deve ter conhecimento no assunto integrando, transformando e consolidando dados de vários sistemas de dados estruturados e não estruturados em estruturas adequadas para soluções de análise de construção.
+
+  As responsabilidades para esse papel incluem ajudar as partes interessadas a entender os dados através da exploração, construção e manutenção de pipelines de processamento de dados seguros e compatíveis, usando diferentes ferramentas e técnicas. Este profissional utiliza vários serviços e idiomas de dados do Azure para armazenar e produzir conjuntos de dados limpos e aprimorados para análise.
+
+  Um Engenheiro de Dados do Azure também ajuda a garantir que os pipelines de dados e os armazenamentos de dados sejam de alto desempenho, eficientes, organizados e confiáveis, dado um conjunto específico de requisitos e restrições de negócios. Este profissional lida rapidamente com questões inesperadas e minimiza a perda de dados. Um Engenheiro de Dados do Azure também projeta, implementa, monitora e otimiza plataformas de dados para atender às necessidades do pipeline de dados.
+
+  Um candidato à esta certificação deve ter conhecimento sólido de linguagens de processamento de dados, tais como SQL, Python ou Scala, e eles precisam entender padrões paralelos de processamento e arquitetura de dados. 
+
+  <div><br/><strong>Você obterá esta certificação se completar uma das seguintes opções&#58;</strong><br/>
+  <ul>
+  <li>Aprovação em <a href="/learn/certifications/exams/dp-200">DP-200</a> e <a href="/learn/certifications/exams/dp-201">DP-201</a> (com reforma marcada para 30 de Junho de 2021) <strong>ou</strong></li>
+  <li>Aprovação em <a href="/learn/certifications/exams/dp-203">DP-203</a> (beta lançado a 23 de Fevereiro de 2021)</li></ul></div>
 subTitle: Os Engenheiros de Dados da Azure integram, transformam e consolidam dados de vários sistemas de dados estruturados e não estruturados em estruturas adequadas para a construção de soluções de análise.
 levels:
 - intermediate
 skills:
-- Implementar soluções de armazenamento de dados
-- Gerenciar e desenvolver processamento de dados
-- Monitorar e otimizar soluções de dados
-- Projetar soluções de armazenamento de dados do Azure
-- Projetar soluções de processamento de dados
-- Projetar para segurança de dados e conformidade
+- Projetar e implementar armazenamento de dados 
+- Projetar e desenvolver processamento de dados 
+- Projetar e implementar segurança de dados 
+- Monitorar e otimizar o armazenamento de dados e o processamento de dados
 roles:
 - data-engineer
 type: role-based
@@ -30,29 +39,27 @@ products:
 - azure-event-hubs
 - azure-data-lake
 - azure-databricks
-courses:
-- uid: course.dp-200t01
-- uid: course.dp-201t01
 paths:
 - uid: learn.data-ai.azure-for-the-data-engineer
 - uid: learn.store-data-in-azure
-- uid: learn.work-with-relational-data-in-azure
-- uid: learn.work-with-nosql-data-in-azure-cosmos-db
+- uid: learn.wwl.data-integration-scale-azure-data-factory
+- uid: learn.wwl.realize-integrated-analytical-solutions-with-azure-synapse-analytics
+- uid: learn.wwl.work-with-data-warehouses-using-azure-synapse-analytics
+- uid: learn.wwl.perform-data-engineering-with-azure-synapse-apache-spark-pools
+- uid: learn.wwl.work-with-hybrid-transactional-analytical-processing-solutions
+- uid: learn.wwl.data-engineer-azure-databricks
 - uid: learn.data-ai.data-processing-with-azure-adls
 - uid: learn.data-ai.implement-data-streaming-with-asa
-- uid: learn.data-ai.implement-sql-data-warehouse
-- uid: learn.wwl.data-engineer-azure-databricks
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUG
 exams:
-- uid: exam.dp-200
-- uid: exam.dp-201
+- uid: exam.dp-203
 resources:
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação Azure Data Engineer Associate e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
 - title: Tabela de certificação do Azure
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: Jornada à certificação
-  description: Explore as etapas para obter a certificação Azure Data Engineer Associate e os recursos disponíveis para ajudá-lo a se preparar.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
