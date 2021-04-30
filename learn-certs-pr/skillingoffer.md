@@ -50,18 +50,18 @@ Para ajudá-lo a se preparar e garantir que você possa se inscrever e fazer o e
 	2. [Faça a verificação do sistema](https://syscheck.bridge.psiexams.com/) no mesmo computador e no mesmo local que você irá fazer o teste.
 2. Certifique-se de ter uma conta da Microsoft
 	1. Se você já tiver uma Certificação Microsoft ou já conclui um exame de Certificação Microsoft, use a mesma conta da Microsoft.  
-	2. Se você precisar de uma conta da Microsoft, [crie uma](https://account.microsoft.com/account/manage-my-account).
+	2. Se você precisar de uma conta da Microsoft, [crie uma.](https://account.microsoft.com/account/manage-my-account)
 3. Se você não possui um perfil de Certificação Microsoft, é preciso criar um ao agendar seu exame. <br/>**Importante:** Ao criar seu perfil de certificação, certifique-se de que seu nome corresponda exatamente à identificação oficial que você usará para realizar o exame. O supervisor irá comparar o nome na sua identidade com o nome no seu perfil de certificação como parte do processo de verificação de identificação. Consulte a seção [requisitos de verificação de identidade](/learn/certifications/online-exams-psi#identity-verification-requirements).
 
-Se você precisar de ajuda, visite o [Fórum de Suporte à Certificação Microsoft](https://aka.ms/mcpforum). Para entrar em contato com um representante de suporte ao cliente, clique em *Faça uma pergunta* na parte superior da página e preencha o formulário. Um representante de suporte deve responder no prazo de 1 dia útil.
+Se você precisar de ajuda, visite o [Fórum de Suporte à Certificação Microsoft.](https://aka.ms/mcpforum) Para entrar em contato com um representante de suporte ao cliente, clique em *Faça uma pergunta* na parte superior da página e preencha o formulário. Um representante de suporte deve responder no prazo de 1 dia útil.
 
 ## FAQ
 
-Para obter perguntas e respostas comuns sobre os exames online da PSI, consulte a página [perguntas e respostas sobre os exames online da PSI](/learn/certifications/online-exams-psi#frequently-asked-questions). Para obter perguntas e respostas gerais sobre a iniciativa de habilidades, consulte [Perguntas e respostas sobre iniciativa de habilidades](https://aka.ms/JobSeekerFAQ).
+Para obter perguntas e respostas comuns sobre os exames online da PSI, consulte a página [perguntas e respostas sobre os exames online da PSI](/learn/certifications/online-exams-psi#frequently-asked-questions). Para obter perguntas e respostas gerais sobre a iniciativa de habilidades, consulte [Perguntas e respostas sobre iniciativa de habilidades.](https://aka.ms/JobSeekerFAQ)
 
 ## <a name="terms-conditions"></a> Termos e condições
 
-- Esta oferta de exame está disponível para quem procura emprego e que pode atestar que está desempregado ou em férias coletivas devido à COVID-19.
+- Esta oferta de exame está disponível para quem procura emprego e que pode atestar que está desempregado ou em férias coletivas devido à COVID-19, além de estudantes matriculados em uma escola secundária, faculdade, universidade ou outro programa de treinamento técnico profissional.
 - Você deve ter 18 anos ou mais para acessar e usar esta oferta de exame.
 - Esta oferta de exame está disponível para um número limitado de pessoas qualificadas e agendamentos de exame.
 - Esta oferta de exame dá direito a você se inscrever e comparecer a um (1) exame de Certificação Microsoft válido a um preço especial com desconto de tempo limitado de USD15. A oferta expira em 31 de dezembro de 2021.

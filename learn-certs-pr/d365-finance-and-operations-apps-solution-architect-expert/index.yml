@@ -71,4 +71,7 @@ resources:
 - title: Suporte para certificações
   description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
   href: ../help.md
+- title: Compartilhe seus selos de certificação
+  description: Comemore sua conquista com sua rede. Resgate seu selo Microsoft Certification e inclua-o no LinkedIn, currículo e muito mais.
+  href: ../badges.md
 
