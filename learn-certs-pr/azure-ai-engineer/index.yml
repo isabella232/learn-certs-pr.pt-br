@@ -17,10 +17,10 @@ summary: |-
 
   Os candidatos a esta certificação devem ser proficientes em C#, Python ou JavaScript e devem ser capazes de usar APIs e SDK baseados em REST para construir visão computacional, processamento de linguagem natural, mineração de conhecimento e soluções de AI conversacional no Azure. Devem também entender os componentes que compõem o portfólio de Azure AI e as opções de armazenamento de dados disponíveis. Além disso, os candidatos precisam entender e ser capazes de aplicar princípios de AI responsáveis. 
 
- <div><br/><strong> Obterá esta certificação se passar num dos seguintes exames&#58;</strong><br/> 
- <ul> 
- <li><a href="/learn/certifications/exams/ai-100">AI-100</a> (com reforma marcada para 30 de Junho de 2021) <strong>ou</strong></li> 
- <li><a href="/learn/certifications/exams/ai-102">AI-102</a> (beta lançado a 23 de Fevereiro de 2021)</li></ul></div>
+  <div><br/><strong> Obterá esta certificação se passar num dos seguintes exames&#58;</strong><br/> 
+  <ul> 
+  <li><a href="/learn/certifications/exams/ai-100">AI-100</a> (com reforma marcada para 30 de Junho de 2021) <strong>ou</strong></li> 
+  <li><a href="/learn/certifications/exams/ai-102">AI-102</a> (beta lançado a 23 de Fevereiro de 2021)</li></ul></div>
 subTitle: Os engenheiros da Azure AI constroem, gerenciam e implantam soluções de AI que alavancam os Azure Cognitive Services, Azure Cognitive Search, e a Estrutura do Microsoft Bot.
 levels:
 - intermediate
