@@ -1,22 +1,21 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
 metadata:
-  title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
+  title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
   description: "Se você tem um amplo conhecimento dos recursos de planejamento de recursos corporativos (ERP) da Dynamics 365 e entende os fundamentos de como os aplicativos de finanças e operações se encaixam dentro do ecossistema global da Microsoft — essa certificação é para você."
 uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  Se você tem um amplo conhecimento dos recursos de planejamento de recursos corporativos (ERP) da Dynamics 365 e entende os fundamentos de como os aplicativos de finanças e operações se encaixam dentro do ecossistema global da Microsoft — essa certificação é para você. 
-
+  Se você tem um amplo conhecimento dos recursos de planejamento de recursos corporativos (ERP) da Dynamics 365 e entende os fundamentos de como os aplicativos de finanças e operações se encaixam dentro do ecossistema global da Microsoft — essa certificação é para você.
+  
   Pessoas que estão familiarizadas com as operações de negócios, têm uma compreensão fundamental dos princípios financeiros e são experientes em tecnologia da informação — em geral ou por experiência de trabalho — podem usar essa certificação para validar essas habilidades e ajudar a abrir portas de carreira.
-
-  Essa certificação de fundamentos pode ser usada de várias maneiras por pessoas em diferentes estágios de suas carreiras. Aqui estão alguns exemplos &#58;
+  
+  Essa certificação de fundamentos pode ser usada de várias maneiras por pessoas em diferentes estágios de suas carreiras. Aqui estão alguns exemplos&#58;
   - Profissionais de IT que querem destacar sua ampla compreensão dos aplicativos com os quais trabalha
   - Profissionais técnicos e tomadores de decisão de negócios que estão explorando como a funcionalidade da Dynamics 365 pode se integrar aos aplicativos que estão usando
   - Intervenientes de negócios e outros que usam Dynamics 365 e querem demonstrar que entendem os fundamentos da plataforma
   - Desenvolvedores que querem mostrar uma compreensão mais profunda das operações de negócios, finanças, e ERP 
-  - Alunos, recém-formados e pessoas mudando de carreira que querem alavancar os aplicativos de finanças e operações da Dynamics 365 para passar para o próximo nível 
-
+  - Estudantes, recém-formados e pessoas mudando de carreira que querem aproveitar ao máximo dos aplicativos de finanças e operações do Dynamics 365 para passarem para o próximo nível
 subTitle: "Se você tem um amplo conhecimento dos recursos de planejamento de recursos corporativos (ERP) da Dynamics 365 e entende os fundamentos de como os aplicativos de finanças e operações se encaixam dentro do ecossistema global da Microsoft — essa certificação é para você."
 levels:
 - beginner
@@ -36,6 +35,8 @@ type: fundamentals
 products: 
 - dynamics-365
 - dynamics-finance-operations
+courses:
+- uid: course.mb-920t00
 paths:
 - uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
 - uid: learn.wwl.explore-microsoft-dynamics-365-finance
@@ -54,7 +55,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAWQX
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Percurso de aprendizagem da certificação
   description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ

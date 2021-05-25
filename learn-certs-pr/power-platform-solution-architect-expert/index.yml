@@ -14,7 +14,6 @@ summary: |-
   - Trabalhe como (ou observe) um arquiteto de soluções em projetos da Power Platform.
   - Inscreva-se num curso de capacitação ministrado por instrutores.
   - Explorar caminhos de aprendizagem disponíveis em [Microsoft Learn](/learn/paths/become-solution-architect/).
-  
 subTitle: Especialistas em Arquitetura de Soluções da Power Platform trabalham com partes interessadas e se dedicam a soluções que afetam as amplas necessidades técnicas e de negócios de sua organização. Os candidatos têm conhecimento funcional e técnico da Power Platform, aplicativos Dynamics 365 de engajamento de clientes, soluções relacionadas à Microsoft cloud e tecnologias de terceiros.
 levels:
 - advanced
@@ -43,6 +42,9 @@ products:
 - azure-api-apps
 - azure-app-configuration
 - azure-app-service
+paths:
+- uid: learn-dynamics.become-solution-architect
+- uid: learn-bizapps.solution-architect-design
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56P
 exams:
 - uid: exam.pl-600
@@ -57,7 +59,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

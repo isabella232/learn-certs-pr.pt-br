@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)
+title: Microsoft Dynamics 365 Fundamentals (CRM)
 metadata:
-  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
-  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals Customer Engagement Apps (CRM) (beta)'
+  title: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
+  description: 'Exam MB-910: Microsoft Dynamics 365 Fundamentals (CRM)'
 uid: exam.mb-910
 displayName: MB-910
 summary: |-
-  Este exame abrange as funcionalidades e recursos dos aplicativos de engajamento do cliente da Microsoft Dynamics 365. 
-
-  Os candidatos a este exame devem ter conhecimento geral ou experiência de trabalho relevante num ambiente de Tecnologia da Informação (IT). Eles também devem ter uma compreensão fundamental dos princípios de engajamento do cliente e das operações de negócios. 
-
-  <div><br/><font color='red'><strong>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Saiba mais sobre o valor e a importância dos exames beta</a>.</strong></font></div>
+  Este exame abrange os recursos e habilidades dos aplicativos da Microsoft Dynamics 365 de engajamento do cliente.
+  
+  Os candidatos a este exame devem ter conhecimento geral ou experiência de trabalho relevante num ambiente de Tecnologia da Informação (IT). Eles também devem ter uma compreensão fundamental dos princípios de engajamento do cliente e das operações de negócios.
 subTitle: 'O exame estará disponível em fevereiro de 2021. Este exame avalia sua capacidade de descrever o seguinte: Dynamics 365 Marketing; Dynamics 365 Sales; Dynamics 365 Customer Service; Dynamics 365 Field Service; Operações de Projeto; e recursos compartilhados.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JIev
@@ -51,7 +49,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAs3I
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

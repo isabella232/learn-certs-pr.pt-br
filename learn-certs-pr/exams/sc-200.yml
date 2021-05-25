@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: 'Microsoft Security Operations Analyst (beta)'
+title: 'Microsoft Security Operations Analyst'
 metadata:
-  title: 'Exam SC-200: Microsoft Security Operations Analyst (beta)'
-  description: 'Exam SC-200: Microsoft Security Operations Analyst (beta)'
+  title: 'Exam SC-200: Microsoft Security Operations Analyst'
+  description: 'Exam SC-200: Microsoft Security Operations Analyst'
 uid: exam.sc-200
 displayName: SC-200
 summary: |-
   O Analista de Operações de Segurança da Microsoft colabora com as partes interessadas da organização para garantir sistemas de tecnologia de informação para a organização. O seu objectivo é reduzir o risco organizacional, remediando rapidamente ataques activos no ambiente, aconselhando melhorias nas práticas de protecção contra ameaças, e encaminhando as violações das políticas organizacionais para as partes interessadas apropriadas.
-
-  As responsabilidades incluem gerenciamento de ameaças, monitoramento e resposta usando uma variedade de soluções de segurança em todo o ambiente. A função investiga, responde e caça ameaças usando o Microsoft Azure Sentinel, o Azure Defender, o Microsoft 365 Defender e produtos de segurança de terceiros. Uma vez que o Analista de Operações de Segurança consome a saída operacional dessas ferramentas, elas também são um interveniente crítico na configuração e implantação dessas tecnologias.
   
-  <div><br/><font color='red'><strong>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Saiba mais sobre o valor e a importância dos exames beta</a>.</strong></font></div>
+  As responsabilidades incluem gerenciamento de ameaças, monitoramento e resposta usando uma variedade de soluções de segurança em todo o ambiente. A função investiga, responde e caça ameaças usando o Microsoft Azure Sentinel, o Azure Defender, o Microsoft 365 Defender e produtos de segurança de terceiros. Uma vez que o Analista de Operações de Segurança consome a saída operacional dessas ferramentas, elas também são um interveniente crítico na configuração e implantação dessas tecnologias.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: mitigar ameaças usando o Microsoft 365 Defender; mitigar ameaças usando o Azure Defender; e mitigar ameaças usando o Azure Sentinel.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp3
@@ -47,10 +45,10 @@ relatedCertifications:
 resources:
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
