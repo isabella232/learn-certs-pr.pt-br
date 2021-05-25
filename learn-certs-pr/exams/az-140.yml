@@ -7,12 +7,12 @@ uid: exam.az-140
 displayName: AZ-140
 summary: |-
   Os candidatos para este exame são administradores do Azure com experiência na área de planejamento, entrega e gerenciamento de experiências virtuais de desktop e aplicativos remotos, para qualquer dispositivo, no Azure.
-
-  Os candidatos a este exame devem ter experiência em tecnologias Azure, incluindo virtualização, rede, identidade, armazenamento, backups, resiliência e recuperação de desastres. Eles devem entender as tecnologias de infraestrutura virtual de desktop no local, pois se relacionam com a migração para o Windows Virtual Desktop. Esses profissionais usam o portal Azure e os modelos do Azure Resource Manager (ARM) para realizar muitas de suas tarefas. Eles podem usar o PowerShell e o Azure Command-Line Interface (CLI) para uma automação mais eficiente.
-
-  Os candidatos à este exame devem ter capacidade de administração do Azure. 
   
-  <div><br/><font color='red'><strong>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Saiba mais sobre o valor e a importância dos exames beta</a>.</strong></font></div>
+  Os candidatos a este exame devem ter experiência em tecnologias Azure, incluindo virtualização, rede, identidade, armazenamento, backups, resiliência e recuperação de desastres. Eles devem entender as tecnologias de infraestrutura virtual de desktop no local, pois se relacionam com a migração para o Windows Virtual Desktop. Esses profissionais usam o portal Azure e os modelos do Azure Resource Manager (ARM) para realizar muitas de suas tarefas. Eles podem usar o PowerShell e o Azure Command-Line Interface (CLI) para uma automação mais eficiente.
+  
+  Os candidatos à este exame devem ter capacidade de administração do Azure.
+  
+  <div><br/><font color='red'><strong>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. <a href="/learn/certifications/beta-exams">Saiba mais sobre o valor e a importância dos exames beta</a>.</strong></font></div>
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: planejar uma arquitetura de Windows Virtual Desktop; implementar uma infraestrutura de Windows Virtual Desktop; gerenciar acesso e segurança; gerenciar ambientes e aplicativos do usuário; e monitorar e manter uma infraestrutura de Windows Virtual Desktop.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFST
@@ -23,9 +23,9 @@ levels:
 - intermediate
 skills:
 - Planejar uma arquitetura de Windows Virtual Desktop (10-15%)
-- Implementar uma infraestrutura de Windows Virtual Desktop (25-30%) 
+- Implementar uma infraestrutura de Windows Virtual Desktop (25-30%)
 - Gerenciar o acesso e a segurança (10-15%)
-- Gerenciar ambientes e aplicativos de usuários (20-25%) 
+- Gerenciar ambientes e aplicativos de usuários (20-25%)
 - Monitorar e manter uma infraestrutura de Windows Virtual Desktop (20-25%)
 roles:
 - administrator
@@ -58,10 +58,10 @@ relatedCertifications:
 resources:
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

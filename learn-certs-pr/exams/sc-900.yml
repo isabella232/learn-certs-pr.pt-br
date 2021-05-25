@@ -1,18 +1,16 @@
 ### YamlMime:Examination
-title: 'Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+title: 'Microsoft Security, Compliance, and Identity Fundamentals'
 metadata:
-  title: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (beta)'
-  description: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals (beta)'
+  title: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
+  description: 'Exam SC-900: Microsoft Security, Compliance, and Identity Fundamentals'
 uid: exam.sc-900
 displayName: SC-900
 summary: |-
-  Este exame é direcionado para aqueles que procuram se familiarizar com os fundamentos de segurança, conformidade e identidade (SCI) em todos os serviços da Microsoft baseados em cloud e relacionados. 
-
-  Este é um público amplo que pode incluir partes interessadas em negócios, profissionais de IT novos ou existentes ou estudantes que tenham interesse em soluções de segurança, conformidade e identidade da Microsoft. 
-
-  Os candidatos devem estar familiarizados com Microsoft Azure o Microsoft 365 e entender como as soluções de segurança, conformidade e identidade da Microsoft podem se estender por essas áreas de solução para fornecer uma solução holística e completa.
+  Este exame é direcionado para aqueles que procuram se familiarizar com os fundamentos de segurança, conformidade e identidade (SCI) em todos os serviços da Microsoft baseados em cloud e relacionados.
   
-  <div><br/><font color='red'><strong>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Saiba mais sobre o valor e a importância dos exames beta</a>.</strong></font></div>
+  Este é um público amplo que pode incluir partes interessadas em negócios, profissionais de IT novos ou existentes ou estudantes que tenham interesse em soluções de segurança, conformidade e identidade da Microsoft.
+  
+  Os candidatos devem estar familiarizados com Microsoft Azure o Microsoft 365 e entender como as soluções de segurança, conformidade e identidade da Microsoft podem se estender por essas áreas de solução para fornecer uma solução holística e completa.
 subTitle: 'Este exame avalia sua capacidade de descrever os seguintes: conceitos de segurança, conformidade e identidade; recursos de soluções de gerenciamento de identidade e acesso da Microsoft; recursos de soluções de segurança da Microsoft; e recursos das soluções de conformidade da Microsoft.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
@@ -60,10 +58,10 @@ relatedCertifications:
 resources:
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
