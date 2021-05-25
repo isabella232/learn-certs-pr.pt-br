@@ -7,14 +7,14 @@ uid: exam.mb-300
 displayName: MB-300
 summary: |-
   <div>
-  <div><strong>O conteúdo deste exame foi atualizado em 16 de Outubro de 2020. Por favor, faça download do documento de avaliação de competências abaixo para ver o que mudou.</strong><br/><br/></div>
+  <div><font color='red'><strong>O conteúdo deste exame foi atualizado em 16 de Outubro de 2020. Por favor, faça download do documento de avaliação de competências abaixo para ver o que mudou.</strong></font><br/><br/></div>
   </div>
-
+  
   Os candidatos a este exame analisam os requisitos empresariais e traduzem esses requisitos em processos e soluções empresariais plenamente realizados que implementam as melhores práticas da indústria. Os candidatos servem como um recurso chave na implementação e configuração de candidaturas para satisfazer os requisitos empresariais.
   <br/>
-
+  
   Os candidatos compreendem as características e capacidades comuns dos aplicativos financeiras e operacionais e como configurar e utilizar cada uma delas. Devem também ter consciência de como os aplicativos de Finanças e Operações se integram com sistemas e ferramentas externas, incluindo a Plataforma de Energia. O candidato gere ativamente os ciclos de vida dos aplicativos utilizando os Serviços de Lifecycle (LCS) e outras ferramentas e plataformas Microsoft.
-
+  
   Os candidatos a este exame são tipicamente especializados em um ou mais conjuntos de aplicativos financeiras e operacionais, incluindo finanças, produção e gestão da cadeia de fornecimento.
 subTitle: 'Este exame mede a sua capacidade em realizar as seguintes tarefas técnicas: utilizar funcionalidades e ferramentas de implementação comuns; configurar segurança, processos e opções; gerir dados financeiros e operacionais; e validar e apoiar a soluçã".'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 16 de Outubro de 2020. Por favor, faça download do esquema de competências do exame abaixo para ver o que mudou. 
+- O conteúdo deste exame foi atualizado em 16 de Outubro de 2020. Por favor, faça download do esquema de competências do exame abaixo para ver o que mudou.
 - Utilizar ferramentas comuns de funcionalidade e implementação (15-20%)
 - Configurar segurança, processos e opções (30-35%)
 - Gerir dados financeiros e operacionais (25-30%)
@@ -42,6 +42,7 @@ exams:
 - uid: exam.mb-310
 - uid: exam.mb-320
 - uid: exam.mb-330
+- uid: exam.mb-340
 courses:
 - uid: course.mb-300t00
 paths:
@@ -52,16 +53,16 @@ paths:
 - uid: learn-dynamics.configure-analytics-reporting-finance-operations
 relatedCertifications:
 - related:
-    uid: certification.d365-functional-consultant-financials
-- related:
     uid: certification.d365-functional-consultant-manufacturing
+- related:
+    uid: certification.d365-functional-consultant-commerce
 resources:
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

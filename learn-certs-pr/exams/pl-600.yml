@@ -12,7 +12,7 @@ summary: |-
   
   Os arquitetos de soluções devem ser capazes de facilitar as decisões de design em desenvolvimento, configuração, integração, infraestrutura, segurança, disponibilidade, armazenamento e gerenciamento de alterações. Essa função equilibra as necessidades de negócios de um projeto, atendendo aos requisitos funcionais e não funcionais.
   
-  <div><br/><font color='red'><strong>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">Saiba mais sobre o valor e a importância dos exames beta</a>.</strong></font></div>
+  <div><br/><font color='red'><strong>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. <a href="/learn/certifications/beta-exams">Saiba mais sobre o valor e a importância dos exames beta</a>.</strong></font></div>
 subTitle: 'Este exame avalia sua capacidade em realizar as seguintes tarefas técnicas: realizar análise de soluções e requisitos; arquitetar uma solução; e implementar a solução.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
@@ -45,13 +45,16 @@ products:
 - azure-api-apps
 - azure-app-configuration
 - azure-app-service
+paths:
+- uid: learn-dynamics.become-solution-architect
+- uid: learn-bizapps.solution-architect-design
 relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert
 resources:
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
