@@ -6,19 +6,17 @@ metadata:
 uid: exam.ms-600
 displayName: MS-600
 summary: |-
-  <div>
-  <div><strong>O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que vai mudar.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>O guia do exame abaixo mostra as mudanças que serão implementadas em 25 de maio de 2021.</strong></font><br/><br/></div>
   
   Os candidatos a este exame são os desenvolvedores do Microsoft 365 que projetam, constroem, testam e mantêm aplicativos e soluções otimizadas para as necessidades de produtividade e colaboração das organizações por meio da plataforma Microsoft 365.
   
-  Os candidatos a este exame são proficientes em identidade Microsoft e Microsoft Graph. Eles têm conhecimento geral sobre elementos de interface do usuário (incluindo Adaptive Cards e UI Fabric), pontos de integração (incluindo Microsoft Teams, Office Add-ins, SharePoint Framework, Actionable Messages) e determinação de metas de plataforma de carga de trabalho.
+  Os candidatos a este exame são proficientes em Microsoft identity e Microsoft Graph. Eles têm conhecimento geral sobre elementos de interface do usuário (incluindo Adaptive Cards e Office UI Fabric (Fluent UI)), pontos de integração (incluindo Microsoft Teams, Office Add-ins, SharePoint Framework, Mensagens Acionáveis) e determinação de alvos de plataforma de carga de trabalho.
   
   Os candidatos devem ter experiência no desenvolvimento de soluções no Microsoft Teams, Suplementos do Office ou estrutura do SharePoint através de todas as fases de desenvolvimento de software. Eles devem ter entendimento básico de REST APIs, JSON, OAuth2, OData, OpenID Connect, Identidades Microsoft (incluindo contas do Azure AD e da Microsoft), Azure AD B2C e conceitos de permissão/consentimento.
 subTitle: 'Este teste mede a sua capacidade de realizar as seguintes tarefas técnicas: implementar o Microsoft Identity, desenvolver aplicativos com o Microsoft Graph, expandir e personalizar o SharePoint e expandir o Teams e o Office.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
-practiceTestUrl: https://in.mindhub.com/ms-600-building-applications-and-solutions-with-microsoft-365-core-services-microsoft-official-practice-test/p/MU-MS-600?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/ms-600-building-applications-and-solutions-with-microsoft-365-core-services-microsoft-official-practice-test/p/MU-MS-600?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-600&examname=Exam%20MS-600:%20Building%20Applications%20and%20Solutions%20with%20Microsoft%20365%20Core%20Services&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-600
@@ -29,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
+- O guia do exame abaixo mostra as mudanças que serão implementadas em 25 de maio de 2021.
 - Implementar o Microsoft Identity (20-25%)
 - Criar aplicativos com o Microsoft Graph (15-20%)
 - Estender e personalizar o SharePoint (15-20%)
@@ -45,6 +43,7 @@ paths:
 - uid: learn-m365.m365-extend-fundamental
 - uid: learn-m365.msgraph-associate
 - uid: learn-m365.identity-associate
+- uid: learn-m365.msteams-associate
 relatedCertifications:
 - related:
     uid: certification.m365-developer-associate
@@ -54,10 +53,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

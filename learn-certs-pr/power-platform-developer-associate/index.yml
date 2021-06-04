@@ -23,7 +23,7 @@ levels:
 - intermediate
 skills:
 - Criar um Projeto Técnico
-- Configurar o Common Data Service
+- Configurar o Microsoft Dataverse
 - Criar e configurar Power Apps
 - Configurar a automação de processos de negócios
 - Expandir a experiência do usuário
@@ -58,7 +58,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjH
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

@@ -7,17 +7,15 @@ uid: exam.az-220
 displayName: AZ-220
 summary: |-
   <div>
-  <div><strong>O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Por favor, baixe o documento de habilidades avaliadas abaixo para ver o que será alterado. </strong><br/><br/></div>
+  <div><font color='red'><strong>O conteúdo do exame será atualizado em 25 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.</strong></font><br/><br/></div>
   </div>
 
-  Os candidatos a este exame devem ter experiência no desenvolvimento de componentes de nuvem e de borda de uma solução de IoT do Azure.
+  O Desenvolvedor do Azure IoT implementa a configuração e executa tarefas de codificação necessárias para criar e manter a cloud e as porções de borda de uma solução de IoT. Além de configurar e manter os dispositivos usando serviços em cloud, o Desenvolvedor da IoT também configura os dispositivos físicos. O Desenvolvedor de IoT é responsável por manter e solucionar problemas da configuração dos dispositivos ao longo do ciclo de vida.
 
-  As responsabilidades de um Azure IoT Developer incluem o gerenciamento do ciclo de vida do dispositivo (instalação, configuração e manutenção) por meio de serviços em nuvem e outras ferramentas. Eles implementam designs para soluções de IoT do Azure, incluindo topologia, conectividade, depuração e segurança de dispositivos, além de soluções para gerenciar, monitorar e transformar pipelines de dados relacionados à IoT. Além disso, implementam componentes do Azure IoT Edge e configuram a rede do dispositivo na borda.
+  O Desenvolvedor de IoT implementa especificações de design para soluções de IoT, incluindo topologia de dispositivos, conectividade, diagnóstico e monitoramento e segurança. O Desenvolvedor de IoT desenvolve e implanta módulos e configura a rede de dispositivos para a parte da solução IoT Edge. O IoT Developer implementa projetos de soluções para gerenciar pipelines de dados, incluindo monitoramento e transformação de dados no que se refere à IoT. O Desenvolvedor de IoT trabalha com o Arquiteto do Azure IoT, engenheiros de dados e outras partes interessadas para garantir uma integração de negócios bem-sucedida.
 
-  O desenvolvedor da IoT trabalha com engenheiros de dados e outras partes interessadas para garantir uma integração comercial bem-sucedida.
-
-  Um candidato a este exame deve ter experiência na implementação dos serviços do Azure que formam uma solução de IoT, incluindo opções de armazenamento, análise e processamento de dados e opções de plataforma como serviço. Essa função também deve ser capaz de reconhecer as configurações do serviço de IoT do Azure na parte de código de uma solução de IoT e executar tarefas específicas de codificação de IoT em pelo menos uma linguagem suportada pelo Azure, incluindo C#, Node, C ou Python.
-subTitle: 'Este exame mede sua capacidade de implementar a infraestrutura da solução de IoT; provisionar e gerenciar dispositivos; implementar soluções em dispositivos Azure IoT Edge; processar e gerenciar dados; monitorar, solucionar problemas e otimizar soluções de IoT; e implementar segurança.'
+  Os desenvolvedores de IoT devem ter uma compreensão geral dos tipos de dispositivos e serviços do Azure, incluindo opções de armazenamento de dados, análise de dados, processamento de dados, AI e outras opções de Plataforma como Serviço. Os desenvolvedores de IoT devem ser capazes de programar em pelo menos um idioma suportado pelo Azure IoT SDK.
+subTitle: 'Este exame avalia sua capacidade de configurar a infraestrutura de soluções de IoT; provisão e gerenciamento de dispositivos; implementar IoT Edge; processar e gerenciar dados; monitorar, solucionar problemas e otimizar soluções de IoT; e implementar segurança.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -30,13 +28,14 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Por favor, baixe o resumo de habilidades do exame apresentado abaixo para ver o que será alterado.
-- Implementar a infraestrutura da solução de IoT (15-20%)
-- Fornecer e gerenciar dispositivos (20-25%)
-- Implementar o Edge (15-20%)
+- O conteúdo do exame será atualizado em 25 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
+- Configurar a infraestrutura de soluções de IoT (10-15%)
+- Provisão e gerenciamento de dispositivos (15-20%)
+- Implementar IoT Edge (15-20%)
+- Implementar a integração de negócios (5-10%)
 - Processar e gerenciar dados (15-20%)
 - Monitorar, solucionar problemas e otimizar soluções IoT (15-20%)
-- Implementar a segurança (15-20%)
+- Implementar a segurança (10-15%)
 roles:
 - developer
 products:
@@ -50,6 +49,7 @@ paths:
 - uid: learn.securely-connect-iot-devices-to-cloud
 - uid: learn.build-intelligent-edge-with-azure-iot-edge
 - uid: learn-develop-solutions-with-azure-iot-central
+- uid: learn.azure.develop-azure-digital-twins
 relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty
@@ -59,10 +59,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

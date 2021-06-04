@@ -8,7 +8,7 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   Os Microsoft 365 Developers desenvolvem, constroem, testam e mantêm aplicativos e soluções que são otimizadas para as necessidades de produtividade e colaboração das organizações usando a plataforma Microsoft 365.
 
-  Os Microsoft 365 Developers são proficientes no Microsoft Identity e Microsoft Graph. Eles têm conhecimento geral sobre elementos de IU (incluindo Adaptive Cards e UI Fabric), Pontos de Integração (incluindo Microsoft Teams, Suplementos (Add-ins) do Office, Estrutura do SharePoint e determinação das metas da plataforma de carga de trabalho.
+  Desenvolvedores Microsoft 365 são proficientes na Microsoft identity e na Microsoft Graph. Eles têm conhecimento geral sobre elementos de UI (incluindo Adaptive Cards e Office UI Fabric (Fluent UI)), Pontos de Integração (incluindo Microsoft Teams, Office Add-ins, SharePoint Framework, Mensagens Acionáveis) e determinação de alvos de plataforma de carga de trabalho.
 subTitle: Os Microsoft 365 Developers desenvolvem, constroem, testam e mantêm aplicativos e soluções que são otimizadas para as necessidades de produtividade e colaboração das organizações usando a plataforma Microsoft 365.
 levels:
 - intermediate
@@ -29,6 +29,7 @@ paths:
 - uid: learn-m365.m365-extend-fundamental
 - uid: learn-m365.msgraph-associate
 - uid: learn-m365.identity-associate
+- uid: learn-m365.msteams-associate
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43VcG
 exams:
 - uid: exam.ms-600
@@ -38,10 +39,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4561r
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-357
 displayName: 70-357
 summary: |-
-  <div>
-  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este exame foi reformado em 31 de janeiro de 2021. Para obter as opções disponíveis atualmente, consulte a página <a href='/learn/certifications/browse/?resource_type=examination'> Navegue pela página de Certificações e Exames</a>.<br/><br/></strong></font></div>
 
   Os candidatos a este exame são desenvolvedores experientes que projetam e desenvolvem aplicativos do Windows 10 para implantação na Windows Store ou na Windows Store for Business.
 
@@ -17,7 +15,6 @@ subTitle: Os candidatos a este exame são desenvolvedores experientes que projet
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjH
 practiceTestUrl: https://www.mindhub.com/70-357-developing-mobile-apps-microsoft-official/p/MU-70-357?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=357&examname=Developing%20Mobile%20Apps&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-357
 locales:
 - en
 - es
@@ -38,6 +35,7 @@ skills:
 - Gerenciar entrada e interações personalizadas do usuário (10-15%)
 - Gerenciar gerenciamento de autenticação e identidade (10-15%)
 - Implementar notificações, tarefas em segundo plano e componentes reutilizáveis (15-20%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

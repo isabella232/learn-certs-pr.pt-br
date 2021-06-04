@@ -6,6 +6,8 @@ metadata:
 uid: certification.mta-networking-fundamentals
 iconUrl: /media/learn/certification/badges/mta-badge.svg
 summary: |-
+  <div><font color='red'><strong>Esta certificação MTA será reformada em 30 de junho de 2022. O exame associado deve ser adquirido até 30 de junho de 2021, e deve ser feito no prazo de um ano, até 30 de junho de 2022.  Consulte <a href="/learn/certifications/mta-retirement-faqs">a FAQ</a> para mais detalhes.</strong></font></br></br></div>
+
   As certificações MTA são um excelente ponto de partida se você deseja entrar no ramo da tecnologia. As certificações MTA abrangem um amplo espectro de conceitos técnicos fundamentais, avaliam e validam o conhecimento técnico essencial e aumentam a credibilidade técnica. Note&#58; Os exames MTA não o qualificam para a certificação MCP e também não são pré-requisito para as certificações MCSA ou MCSD.
 subTitle: 'As certificações MTA são um excelente ponto de partida se você deseja entrar no ramo da tecnologia. As certificações MTA abrangem um amplo espectro de conceitos técnicos fundamentais, avaliam e validam o conhecimento técnico essencial e aumentam a credibilidade técnica. Note: Os exames MTA não o qualificam para a certificação MCP e também não são pré-requisito para as certificações MCSA ou MCSD.'
 levels:
@@ -17,18 +19,15 @@ roles:
 type: mta
 products:
 - windows-server
-courses:
-- uid: course.40032
-- uid: course.40366
 exams:
 - uid: exam.98-366
 resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

@@ -8,8 +8,8 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 'Descreva os componentes da Plataforma de Energia: Power Apps, Power BI e Microsoft Automate'
-- skill: 'Descreva os componentes da Plataforma de Energia: Serviço de Dados Comum, Conectores e construtor de IA'
+- skill: Descrever os componentes da Power Platform
+- skill: Descrever o Microsoft Dataverse, Conectores e construtor de AI 
 - skill: Descrever cenários em nuvens cruzadas em M365, Dynamics 365, Microsoft Azure e serviços de terceiros
 - skill: Identificar os benefícios e capacidades da Plataforma de Energia
 - skill: Identificar a funcionalidade básica e o valor comercial Componentes da plataforma de energia
@@ -26,7 +26,7 @@ products:
 exams:
 - uid: exam.pl-900
 summary: |-
-  Aprenda o valor comercial e as capacidades de produto da Plataforma de Energia. Criar aplicativos Power simples, conectar dados com o Serviço de Dados Comum, construir um Painel Power BI, automatizar um processo com Power Automate, e construir um chatbot com agentes Power Virtual.
+  Aprenda o valor do negócio e os recursos de produto da Power Platform. Crie Power Apps simples, conecte dados com o Dataverse, construa um Power BI Dashboard, automatize processos com Power Automate e construa um chatbot com Power Virtual Agents
 
   #### Perfil do público
 
@@ -46,21 +46,22 @@ outlineSection: |-
   - Conheça os componentes e características da Plataforma de Energia
 
 
-  ### Módulo 2&#58; Introdução ao Serviço de Dados Comum
-  O Serviço de Dados Comum permite que você mergulhe em soluções de dados poderosas e escaláveis na nuvem. Saiba o que faz o Serviço de Dados Comum funcionar e como ele pode trabalhar com a Plataforma Power para criar soluções de negócios únicas e eficientes.
-  #### Lições
-  - Visão geral dos serviços de dados comuns
-  - Resumo do módulo
+  ### Módulo 2&#58; Introdução ao Microsoft Dataverse
+  O Dataverse permite que você mergulhe em soluções de dados poderosas e escaláveis em cloud. Aprenda o que faz o Dataverse funcionar e como ele pode funcionar com a Power Platform para criar soluções de negócios exclusivas e eficientes.
+  #### Aulas
+  - Visão geral do Microsoft Dataverse
+  - Resumo do Módulo
 
   #### Laboratório &#58; Modelagem de dados
-  - Criar solução
-  - Criar Entidades e Relacionamentos
-  - Dados de importação
+  - Criar Solução
+  - Adicionar tabelas existentes e criar tabelas novas
+  - Criar relacionamentos
+  - Importar dados
 
-  Após completar este módulo, os alunos poderão&#58;
-  - Descrever a diferença entre Serviço de Dados Comum e Modelo de Dados Comum
-  - Explicar casos de uso e limitações das regras comerciais e fluxos de processo
-  - Explicar que ambientes, entidades, campos e relacionamentos estão em comum no serviço de dados
+  Depois de concluir este Módulo, os alunos serão capazes de&#58;
+  - Descrever a diferença entre o Dataverse e o modelo de dados comum
+  - Explicar casos de uso e limitações de regras de negócios e fluxos de processo
+  - Explicar quais ambientes, tabelas, colunas e relacionamentos estão no Dataverse
 
 
   ### Módulo 3&#58; Começar com Power Apps
@@ -132,10 +133,10 @@ outlineSection: |-
 
   #### Laboratório &#58; Como construir um chatbot básico
   - Inscrever no PVA e criar um Bot Novo
-  - Criar tópicos
-  - Testar tópicos
-  - Alterar a saudação
-  - Publicar o bot
+  - Criar Tópicos
+  - Tópicos de Teste
+  - Alterar a Saudação
+  - Publicar o Bot
 
   Após completar este módulo, os alunos poderão&#58;
   - Descrever o valor comercial e as características dos agentes Power Virtual

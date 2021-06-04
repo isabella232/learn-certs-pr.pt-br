@@ -7,7 +7,7 @@ uid: exam.mb-2-716
 displayName: MB2-716
 summary: |-
   <div>
-  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
+  <div><font color='red'><strong>Este exame foi reformado em 31 de janeiro de 2021. Para obter as opções disponíveis atualmente, consulte a página <a href='/learn/certifications/browse/?resource_type=examination'> Navegue pela página de Certificações e Exames</a>.<br/><br/></strong></font></div>
   <div><strong>O conteúdo deste exame foi atualizado em terça-feira, 4 de fevereiro de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong></div><br/>
   </div>
 
@@ -15,7 +15,6 @@ summary: |-
 subTitle: Os estudantes que desejam obter uma certificação em personalização e configuração Microsoft Dynamics 365 devem realizar este exame. O público normalmente inclui desenvolvedores, consultores de implementação, técnicos de suporte e administradores de sistema. Eles avaliam as necessidades corporativas de um cliente e configuram e personalizam a aplicação.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o2AP
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=MB2-716&examname=Microsoft%20Dynamics%20365%20Customization%20and%20Configuration&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB2-716
 locales:
 - en
 - ja
@@ -26,6 +25,7 @@ skills:
 - Implementar entidades Microsoft Dynamics 365, relacionamentos de entidade e campos (20-25%)
 - Criar e gerenciar soluções, formulários, vistas e visualizações do Microsoft Dynamics 365 (25-30%)
 - Implementar regras de negócios, fluxos de trabalho e fluxos do processo empresarial (20-25%)
+retirementDate: 01/31/2021
 roles:
 - business-analyst
 products:

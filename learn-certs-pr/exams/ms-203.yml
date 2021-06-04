@@ -6,8 +6,7 @@ metadata:
 uid: exam.ms-203
 displayName: MS-203
 summary: |-
-  <div>
-  <div><strong>O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que vai mudar.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>O conteúdo deste exame foi atualizado em 23 de março de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que mudou.</strong></font><br/><br/></div>
   </div>
   
   Os candidatos a este exame são Messaging Administrators que implementam, configuram, gerenciam, solucionam problemas e monitoram destinatários, permissões, proteção de e-mail, fluxo de mensagens e pastas públicas nos ambientes híbridos e na nuvem.
@@ -21,13 +20,13 @@ subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas té
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
-practiceTestUrl: https://in.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 locales:
 - en
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
+- O conteúdo deste exame foi atualizado em 23 de março de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que mudou.
 - Gerenciar configurações e recursos organizacionais (30-35%)
 - Planejar e gerenciar a arquitetura de e-mail (20-25%)
 - Planejar e implementar uma configuração e migração híbrida (20-25%)
@@ -48,10 +47,10 @@ relatedCertifications:
 resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

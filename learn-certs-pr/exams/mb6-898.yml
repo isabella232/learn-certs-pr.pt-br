@@ -6,9 +6,7 @@ metadata:
 uid: exam.mb-6-898
 displayName: MB6-898
 summary: |-
-  <div>
-  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este exame foi reformado em 31 de janeiro de 2021. Para obter as opções disponíveis atualmente, consulte a página <a href='/learn/certifications/browse/?resource_type=examination'> Navegue pela página de Certificações e Exames</a>.<br/><br/></strong></font></div>
 
   Os candidatos para este exame são parceiros do Microsoft Dynamics 365 que configuram e usam a funcionalidade do aplicativo no Microsoft Dynamics 365 for Talent e oferecem suporte para o aplicativo. O exame é também apropriado para a equipe de vendas que possui conhecimento em soluções de negócios e quer demonstrar uma compreensão funcional sobre o aplicativo Microsoft Dynamics 365 for Talent.
 
@@ -18,7 +16,6 @@ summary: |-
 subTitle: Os candidatos para este exame são parceiros do Microsoft Dynamics 365 que configuram e usam a funcionalidade do aplicativo no Microsoft Dynamics 365 for Talent e oferecem suporte para o aplicativo. O exame é também apropriado para a equipe de vendas que possui conhecimento em soluções de negócios e quer demonstrar uma compreensão funcional sobre o aplicativo Microsoft Dynamics 365 for Talent.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kd
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=MB6-898&examname=Microsoft%20Dynamics%20365%20for%20Talent&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-898
 locales:
 - en
 levels:
@@ -26,6 +23,7 @@ levels:
 skills:
 - Entender o Dynamics 365 for Talent Environment (45-50%)
 - Configurar e usar o aplicativo Talent (50-55%)
+retirementDate: 01/31/2021
 roles:
 - business-analyst
 products:

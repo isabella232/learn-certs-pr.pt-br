@@ -51,7 +51,16 @@ summary: |-
   #### Perfil do público
   Os alunos deste curso estão interessados no desenvolvimento do Azure ou em passar no exame de certificação do Microsoft Azure Developer Associate.
 prerequisitesSection: |-
-  Os estudantes devem ter 1-2 anos de experiência em desenvolvimento profissional e experiência com o Microsoft Azure. Devem ser capazes de programar em um idioma suportado pelo Azure.
+  Para ter sucesso neste curso, os alunos devem ter o seguinte&#58;
+  - Experiência prática com soluções Azure IaaS e PaaS, e o Portal Azure.  
+  - Experiência em escrita numa língua suportada pelo Azure no nível intermediário. (C#, JavaScript, Python ou Java) 
+  - Capacidade de escrever código para conectar e executar operações, um produto de banco de dados SQL ou NoSQL. (SQL Server, Oracle, MongoDB, Cassandra ou similar) 
+  - Experimente escrever código para lidar com autenticação, autorização e outros princípios de segurança no nível intermediário. 
+  - Uma compreensão geral do HTML, do protocolo HTTP e das interfaces de REST API.
+
+  Se você é novo no Azure e na computação em cloud considere um dos seguintes recursos&#58; 
+  - Online gratuito&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/) 
+  - Curso ministrado por instrutores&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
 outlineSection: |-
   ### Módulo 1&#58; Criar Azure App Service Web Apps
 
@@ -122,6 +131,11 @@ outlineSection: |-
   - Definir políticas para APIs
   - Proteger suas APIs
 
+  ### Módulo 9&#58; Desenvolver Aplicativos de Lógica de Serviço de Aplicativo
+  Este módulo ensina os alunos a usar os Aplicativos Lógicos do Azure para agendar, automatizar e orquestrar tarefas, processos de negócios, fluxos de trabalho e serviços em empresas ou organizações.
+  #### Lições
+  - Visão geral dos aplicativos lógicos do Azure
+  - Criando um conector personalizado para Aplicativos de Lógica
 
   ### Módulo 10&#58; Desenvolver soluções baseadas em eventos
   Os estudantes aprenderão como construir Aplicativos com arquiteturas baseadas em eventos.

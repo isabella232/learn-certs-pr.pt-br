@@ -6,9 +6,17 @@ metadata:
 uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Os Dynamics 365 Business Central Functional Consultants são responsáveis pela implementação dos processos de configuração básicos de aplicativos para pequenas e médias empresas.
+  Se você é um consultor funcional que implementa os principais processos de configuração do Microsoft Dynamics 365 Business Central para pequenas e médias empresas, esta certificação é para você. Você precisa ter experiência configurando centros de função da Dynamics 365 Business Central, incluindo adaptação de ideias, pistas, telhas de ação, relatórios e gráficos. E você deve ser capaz de estender o Business Central usando componentes da Microsoft Power Platform.
 
-  <div><br/><strong>Observação&#58; Esta certificação será disponibilizada na data aproximada de terça-feira, 6 de outubro de 2020.</strong></div>
+  Você tem que ter aplicado conhecimento da Central de Negócios, e deve entender terminologia do setor, prioridades, padrões, metodologias e melhores práticas. Se você tem esse conhecimento e está numa função como administrador, garantia de qualidade, DevOps, desenvolvedor, designer UX ou arquiteto de soluções, a certificação Dynamics 365 Business Central Functional Consultant Associate pode ser um ótimo complemento. 
+
+  Se você precisa de mais experiência antes de tentar obter essa certificação, aqui estão algumas sugestões&#58;
+  - Trabalhar como consultor funcional da Business Central num ou mais projetos.
+  - Contribuir para um projeto de consultoria da Business Central ou ajudar a fornecer uma implementação da Business Central.
+  - Encontre um mentor.
+  - Junte-se à [Dynamics 365 Community](https://community.dynamics.com/).
+  - Siga caminhos de aprendizagem disponíveis no Microsoft Learn e complete uma prática.
+  - Inscreva-se para um curso de treinamento ministrado por instrutores.
 subTitle: Esta certificação será disponibilizada na data aproximada de terça-feira, 6 de outubro de 2020. Os Dynamics 365 Business Central Functional Consultants são responsáveis pela implementação dos processos de configuração básicos de aplicativos para pequenas e médias empresas.
 levels:
 - intermediate
@@ -50,7 +58,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

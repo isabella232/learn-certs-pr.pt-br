@@ -8,8 +8,8 @@ summary: |
   Os  Engenheiros de IA usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de IA da Microsoft.
 subTitle: Os  Engenheiros de IA usam serviços cognitivos, aprendizado de máquina e mineração de conhecimento para arquitetar e implementar soluções de IA da Microsoft.
 certificationPaths: 
-- title: Engenheiros de IA Azure 
-  linkedInKeywords: Engenheiros de IA Azure 
+- title: Azure AI Engineer
+  linkedInKeywords: Azure AI Engineer
   uid: certification-path.azure-ai-engineer 
   prerequisites: 
   - uid: certification.azure-fundamentals
@@ -22,14 +22,14 @@ certificationPaths:
 certifications:
 - uid: certification.azure-ai-engineer
   requiredExams:
-  - uid: exam.ai-100
+  - uid: exam.ai-102
 resources:
 - title: Guia de Treinamento e Certificações Microsoft
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de Treinamento e Certificações
   description: Escolha seu caminho para o sucesso com este cartaz de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Apoio às certificações
   href: ../help.md
   description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.

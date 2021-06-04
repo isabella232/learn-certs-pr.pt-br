@@ -6,18 +6,12 @@ metadata:
 uid: exam.az-204
 displayName: AZ-204
 summary: |-
-  <div>
-  <div><strong>O conteúdo deste exame foi atualizado em, 18 de maio de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>O conteúdo deste exame foi atualizado em 26 de março de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que mudou.</strong></font><br/><br/></div>
   </div>
 
   Os candidatos a este exame devem ter experiência no projeto, construção, teste e manutenção de aplicativos e serviços em nuvem no Microsoft Azure.
 
-  As responsabilidades de um Azure Developer incluem a participação em todas as fases do desenvolvimento da nuvem, desde a definição e o design dos requisitos até o desenvolvimento, implantação, manutenção, configuração do desempenho e monitoramento.
-  <br/>
-
-  Os Azure Developers trabalham em parceria com os arquitetos de soluções, DBAs e administradores de nuvem e clientes para implementar soluções.
-
-  Os candidatos a este exame devem ter de um a dois anos de experiência em desenvolvimento profissional e experiência com o Microsoft Azure. Além disso, a função deve ter conhecimentos de programação em uma linguagem compatível com o Azure e proficiência em SDKs do Azure, Azure PowerShell, CLI do Azure, opções de armazenamento de dados, conexões de dados, APIs, autenticação e autorização de aplicativos, computação, implementação de contêineres, depuração, configuração de desempenho e monitoramento.
+  Um candidato para esta certificação deve ter experiência de desenvolvimento profissional de 1 a 2 anos e experiência com o Microsoft Azure. Além disso, o candidato a este cargo deve ter a capacidade de programar num idioma suportado pelo Azure e proficiência em SDKs Azure, Azure PowerShell, Azure CLI, opções de armazenamento de dados, conexões de dados, APIs, autenticação e autorização de aplicativos, computação e distribuição de containers, depuração, ajuste de desempenho e monitoramento.
 
   Você pode se qualificar para o crédito ACE de faculdade se passar neste exame de certificação. Consulte [ACE crédito de faculdade para exames de certificação](/learn/certifications/ace-credit-for-certification-exams) para obter detalhes.
 subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: desenvolver a infraestrutura Azure como uma soluções de computação de serviço; desenvolver para armazenamento Azure; implementar a segurança Azure; monitorar, solucionar, e optimizar soluções; e conectar-se e consumir serviços Azure e serviços de terceiros.'
@@ -36,12 +30,12 @@ providers:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em, 18 de maio de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- O conteúdo deste exame foi atualizado em 26 de março de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que mudou.
 - Desenvolver soluções de computação do Azure (25-30%)
-- Desenvolva para armazenamento Azure (10-15%)
-- Implementar a segurança Azure (15-20%)
-- Monitorar, solucionar problemas e otimizar soluções Azure (10-15%)
-- Conectar a e consumir serviços Azure e serviços de terceiros (25-30%)
+- Desenvolva para armazenamento Azure (15-20%)
+- Implementar a segurança Azure (20-25%)
+- Monitorar, solucionar problemas e otimizar soluções Azure (15-20%)
+- Conectar a e consumir serviços Azure e serviços de terceiros (15-20%)
 roles:
 - developer
 products:
@@ -92,10 +86,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

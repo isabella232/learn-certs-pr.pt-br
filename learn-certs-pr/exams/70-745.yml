@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-745
 displayName: 70-745
 summary: |-
-  <div>
-  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este exame foi reformado em 31 de janeiro de 2021. Para obter as opções disponíveis atualmente, consulte a página <a href='/learn/certifications/browse/?resource_type=examination'> Navegue pela página de Certificações e Exames</a>.<br/><br/></strong></font></div>
 
   Os candidatos a este exame são profissionais de TI responsáveis por implementar um datacenter definido por software (SDDC) com o Windows Server 2016 e o Microsoft System Center 2016 Virtual Machine Manager (SCVMM).
 
@@ -18,7 +16,6 @@ summary: |-
 subTitle: Os candidatos a este exame são profissionais de TI responsáveis por implementar um datacenter definido por software (SDDC) com o Windows Server 2016 e o Microsoft System Center 2016 Virtual Machine Manager (SCVMM).
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1k
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=745&examname=Implementing%20a%20Software-Defined%20Datacenter&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-745
 locales:
 - en
 levels:
@@ -30,6 +27,7 @@ skills:
 - Implementar Datacenter Compute Solutions com Virtual Machine Manager (VMM)
 - Proteção do Datacenter definido por software
 - Monitorar e manter Datacenter definido por software
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

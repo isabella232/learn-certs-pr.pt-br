@@ -9,11 +9,18 @@ courseNumber: 'AI-102T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Criar, configurar, implementar e assegurar os Serviços Cognitivos do Azure
-- skill: Integrar serviços da fala - Integrar análise de texto- Criar recursos de compreensão linguística com LUIS
-- skill: Criar e gerir soluções de Busca Cognitiva do Azure
-- skill: Criar agentes inteligentes utilizando o Bot Framework
-- skill: Implementar soluções de Visão Computacional
+- skill: Descrever considerações para o desenvolvimento de aplicativos habilitado para AI
+- skill: Criar, configurar, implantar, e assegurar Azure Cognitive Services
+- skill: Desenvolver aplicativos que analisam a habilidade do texto
+- skill: Desenvolver aplicativos habilitados para fala 
+- skill: Criar aplicativos com capacidades de compreensão de linguagem natural 
+- skill: Criar aplicativos QnA
+- skill: Criar soluções de conversação com bot
+- skill: Usar serviços de visão computacional para analisar imagens e vídeos 
+- skill: Criar modelos personalizados de visão computacional
+- skill: Desenvolver aplicativos que detectem, analisem e reconheçam rostos 
+- skill: Desenvolver aplicativos que leiam e processam texto em imagens e documentos 
+- skill: Criar pesquisa inteligente soluções para a mineração de conhecimento
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -30,181 +37,204 @@ products:
 exams:
 - uid: exam.ai-100
 summary: |-
-  "AI-102 A Concepção e Implementação de uma Solução de IA do Azure é destinada à programadores de software que pretendam construir aplicativos infusos de IA que aproveitem os Serviços Cognitivos do Azure, Busca Cognitiva do Azure, e Microsoft Bot Framework. O curso utilizará C#, Python, ou JavaScript como linguagem de programação.
+  AI-102 Designing and Implementing Azure AI Solution destina-se a desenvolvedores de software que desejam construir aplicativos infundidos de AI que potencializam os Azure Cognitive Services, a Azure Cognitive Search e o Microsoft Bot Framework. O curso vai usar C# ou Python como a linguagem de programação.
 
-  #### Perfil do público
-  Engenheiros de software preocupados com a construção, gestão e implementação de soluções de IA que aproveitam os Serviços Cognitivos do Azure, Busca Cognitiva do Azure, e Microsoft Bot Framework. Estão familiarizados com C#, Python, ou JavaScript e têm conhecimentos sobre a utilização de APIs com base em REST para construir visão computacional, análise de linguagem, mineração de conhecimentos, pesquisa inteligente, e soluções de IA conversacional no Azure.
+  #### Perfil da audiência
+  Engenheiros de software preocupados com a construção, gerenciamento e implantação de soluções de AI que aproveitam os Azure Cognitive Services, Azure Cognitive Search, e o Microsoft Bot Framework. Eles estão familiarizados com C# ou Python e têm conhecimento sobre o uso de APIs baseado em REST para construir visão computacional, análise de linguagem, mineração de conhecimento, pesquisa inteligente e soluções de AI conversacional no Azure.
 prerequisitesSection: |-
-  Conhecimento de Microsoft Azure e capacidade de navegar no portal do Azure
+  Antes de participar deste curso, os alunos devem ter&#58;
+  - Conhecimento do Microsoft Azure e capacidade de navegar no portal Azure
+  - Conhecimento de C# ou Python 
+  - Familiaridade com semântica de programação JSON e REST
 
-  Conhecimento de C#, Python, ou JavaScript
+  Para ganhar habilidades C# ou Python, complete aprendizados antes de frequentar o curso seja [Dê seus primeiros passos com C#](/learn/paths/csharp-first-steps/) que é gratuito ou [Dê seus primeiros passos com Python](/learn/paths/python-first-steps/).
+
+  Se você é novo em inteligência artificial e quer uma visão geral dos recursos de AI no Azure, considere completar a certificação [Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals) antes de tomar esta.
 outlineSection: |-
-  ### Módulo 1&#58; Criar e Gerir Serviços Cognitivos do Azure
-  Antes de aceder a qualquer uma das funcionalidades dos Serviços Cognitivos no Azure, terá de criar um recurso dos Serviços Cognitivos. A utilização dos vários serviços (Fala, Visão Computacional, etc.), requer, no mínimo, uma chave de acesso e um URL de fim de serviço. A informação é necessária para a autorização dos pedidos que irão aceder a estes serviços. Será criado um recurso de serviço único ou um recurso multi-serviços, dependendo dos serviços a que se acede.
-  #### Lições
-  - Criar e Gerir Contas de Serviços Cognitivos
-  - Serviços Cognitivos Seguros
-  - Implementar e Consumir Contentores de Serviços Cognitivos
+  Módulo ### 1&#58; Introdução a AI em Azure
+  inteligência artificial (AI) está cada vez mais no centro dos aplicativos e serviços modernos. Neste módulo, você vai aprender sobre alguns recursos de AI comuns que você pode aproveitar em seus aplicativos, e como esses recursos são implementados na Microsoft Azure. Você também aprenderá sobre algumas considerações para projetar e implementar soluções de AI de forma responsável.
+  #### Aulas
+  - Introdução à Inteligência Artificial
+  - Inteligência Artificial em Azure
+  
+  Após a conclusão deste módulo, os alunos poderão&#58;
+  - Descrever considerações para criar aplicativos habilitados em AI
+  - Identificar serviços Azure para desenvolvimento de AI de aplicativos
+  
+  
+  ### Módulo 2&#58; Desenvolvimento de Aplicativos AI com Serviços Cognitivos
+  Os Serviços Cognitivos são os principais blocos de construção para a integração de recursos AI em seus aplicativos. Neste módulo, você aprenderá como prover, proteger, monitorar e implantar serviços cognitivos.
+  #### Aulas
+  - Começar com Serviços Cognitivos
+  - Utilização de serviços cognitivos para aplicações corporativas
+  
+  #### Laboratório &#58; Introdução aos Serviços Cognitivos
 
-  #### Laboratório &#58; Criar Recursos de Serviço Cognitivo do Azure
-  - Criar o Recurso de Serviço Cognitivo do Azure
-  - Chaves de Acesso
-  - Utilizar Monitorização Diagnóstica
-  
-  #### Laboratório &#58; Serviços Cognitivos Seguros do Azure 
-  - Chaves de segurança com o Key Vault do Azure
-  
-  #### Laboratório &#58; Contentorização dos Serviços Cognitivos no Azure
-  - Criar Contentores para Reutilização
-  - Implementar para um Contentor
-  - Consumir Serviços Cognitivos a partir de um Contentor
+  #### Laboratório &#58; Gerenciar Segurança de Serviços Cognitivos
 
-  Após completarem este módulo, os estudantes poderão&#58;
-  - Criar e aceder aos recursos dos Serviços Cognitivos do Azure
-  - Assegurar os Recursos Cognitivos do Azure
-  - Implementar e Consumir Serviços Cognitivos do Azure utilizando Contentores  
-  
-  ### Módulo 2&#58; Implementar Soluções de Computer Vision
-  Aprender a integrar a IA visual nos seus aplicativos através da utilização do Computer Vision do Azure. Detectar e identificar rostos ou objetos em imagens e vídeo, realizar a detecção de objetos, classificar imagens e implementar soluções custom vision. 
+  #### Laboratório &#58; Monitorar Serviços Cognitivos
 
-  #### Lições
-  - Identificar Rostos e Expressões utilizando o Computer Vision API
-  - Processar Imagens com o serviço Computer Vision
-  - Avaliar os Requisitos para Implementação de Custom Vision APIs
-  - Classificar imagens com o Serviço da Microsoft Custom Vision
-  - Extrair Imagens de Vídeos com o Serviço Video Indexer
+  #### Laboratório &#58; Usar um Contêiner de Serviços Cognitivos
+  
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Provisionar e consumir serviços cognitivos em Azure
+  - Gerenciar a segurança dos serviços cognitivos
+  - Monitorar serviços cognitivos
+  - Usar um contêiner de serviços cognitivos
+  
+  
+  ### Módulo 3&#58;  Introdução ao Processamento da Linguagem Natural
+  Processamento da Linguagem Natural (PNL) é um ramo da inteligência artificial que lida com a extração de ideias da linguagem escrita ou falada. Neste módulo, você aprenderá a usar serviços cognitivos para analisar e traduzir textos.
+  #### Aulas
+  - Análise de Texto
+  - Tradução de texto
+  
+  #### Laboratório &#58; Analisar texto
 
-  #### Laboratório &#58; Detectar Rostos
-  - Obter Chaves de Subscrição
-  - Testar Detecção Facial
-   
-  #### Laboratório &#58; Criar um Serviço de Custom Vision
-  - Criar o Serviço
-  - Carregar Imagens Marcadas
-  - Modelo de Comboio
-  - Modelo de Teste
-  - Identificar Previsão Desfecho da Chamada de 
+  #### Laboratório &#58; Traduza texto
   
-  #### Laboratório &#58; Extrair Imagens de Vídeos com o Video Indexer
-  - Subscrever a API do Indexador de Vídeo
-  - Carregamento e Indexação de Imagens
-  - Examinar os Resultados
-  - Encontrar Momentos em Vídeo
-  - Ver e Editar Insights
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Usar o serviço cognitivo de Análise de Texto para analisar texto
+  - Usar o serviço cognitivo Tradutor para traduzir texto
+  
+  
+  ### Módulo 4&#58; Construir Aplicativos Habilitados para Fala
+  Muitos aplicativos e serviços modernos aceitam entrada falada e podem responder sintetizando texto. Neste módulo, você continuará sua exploração de recursos naturais de processamento de idiomas, aprendendo a construir aplicativos habilitados para fala.
+  #### Aulas
+  - Reconhecimento de Fala e Síntese
+  - Tradução de Fala
+  
+  #### Laboratório &#58; Reconhecer e Sintetizar Discurso
 
-  Após completar este módulo, os estudantes poderão&#58;
-  - Implementar soluções de Computer Vision para a detecção de rostos e objetos
-  - Processar imagens com o serviço Computer Vision
-  - Implementar soluções de Custom Vision
-  - Extrair insights de ficheiros de vídeo com o serviço Video Indexer
+  #### Laboratório &#58; Traduzir Fala
+  
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Usar o serviço cognitivo de fala para reconhecer e sintetizar a fala
+  - Usar o serviço cognitivo de fala para traduzir a fala
+  
+  
+  ### Módulo 5&#58; Criar Soluções de Compreensão de Linguagem
+  Para construir um aplicativo que possa entender e responder inteligentemente à entrada de linguagem natural, você deve definir e treinar um modelo para o entendimento de linguagem. Neste módulo, você aprenderá a usar o serviço de compreensão de idiomas para criar um aplicativo que possa identificar a intenção do usuário a partir da entrada natural do idioma.
+  #### Aulas
+  - Criação de um aplicativo de compreensão de idiomas
+  - Publicação e uso de um aplicativo de compreensão de idiomas
+  - Uso de entendimento da linguagem com a fala
 
-  ### Módulo 3&#58; Implementar Soluções de Language Analysis 
-  Aprender a implementar a funcionalidade da linguagem natural nos seus aplicativos através da integração do serviço de Language Understanding. Adquirir conhecimentos sobre as intenções dos seus usuários através de funcionalidades de análise de texto, tais como análise de sentimentos e detecção de linguagem. Identificar informações importantes em ficheiros de texto com capacidade de extração de entidades e frases-chave.
-  #### Lições
-  - Adicionar Inteligência Conversacional Básica à sua aplicativo usando a Compreensão da Linguagem
-  - Gerir o seu Serviço de Compreensão da Idioma
-  - Utilizar Contentores para o seu Language Understanding Service
-  - Decifrar Sentimento no Texto com a Text Analytics API
-  - Reconhecer Entidades no Texto com a Text Analytics API
-  - Extrair Frases-Chave do Texto com a Text Analytics API
-  - Detectar linguagem com a Text Analytics API
+  #### Laboratório &#58; Criar um Aplicativo de Compreensão de Idiomas
 
-  #### Laboratório &#58; Implementar o Serviço de Language Understanding
-  - Criar um Serviço de Language Understanding
-  - Trabalhar com Intenções
-  - Trabalhar com as Expressões
-  - Trabalhar com Entidades
-  - Formar e Publicar um Modelo
-  
-  #### Laboratório &#58; Gerir o Seu Serviço de Language Understanding
-  - Gerir as suas Chaves
-  - Gerir Versões
-  - Automatização do Guião
+  #### Laboratório &#58; Criar um Aplicativo do Cliente para Compreensão de Idiomas
 
-  #### Laboratório &#58; Contentorização da Compreensão da Idioma
-  - Instalar e executar contentores
+  #### Laboratório &#58; Usar os serviços de compreensão de fala e linguagem
   
-  #### Laboratório &#58; Realizar Análise de Sentimento
-  - Testar Análise de Sentimento com a Consola de Testes API
-  - Criar um Function App
-  - Chamar o Sentiment Analysis API a partir de uma função
-  - Organizar Mensagens
-  
-  #### Laboratório &#58; Executar o Reconhecimento de Entidade
-  - Extrair Entidades do Texto
-  
-  #### Laboratório &#58; Executar a Extração de Frases-chave
-  - Extrair Frases Chave do Texto
-  
-  #### Laboratório &#58; Executar detecção de linguagem
-  - Detectar o Idioma no Texto
-  
-  Após completar este módulo, os estudantes poderão&#58;
-  - Implementar e Gerir um Serviço de Language Understanding
-  - Implementar Language Understanding num Ambiente de Contentor
-  - Detectar Sentimento em Textos
-  - Reconhecer Entidades e Extrair Frases Chave no Texto
-  - Detectar a Idioma no texto
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Criar um aplicativo de compreensão de idiomas
+  - Criar um aplicativo para o cliente para Compreensão de Idiomas 
+  - Integrar a Compreensão e Fala da Linguagem
   
   
-  ### Módulo 4&#58; Implementar Soluções de Exploração Mineira do Conhecimento
-  Cognitive Search do Azure fornece uma solução baseada na nuvem para indexar e consultar uma vasta gama de fontes de dados, e criar soluções de pesquisa abrangentes e de alta escala. Aprender implementar uma solução em que os documentos são indexados e tornados fáceis de pesquisar.
-  #### Lições
-  - Criar uma Solução de Busca Cognitiva no Azure
-  - Criar um Gasoduto de Enriquecimento com Busca Cognitiva no Azure
-  - Criar uma Loja do Conhecimento com Busca Cognitiva no Azure
+  ### Módulo 6&#58; Criar uma solução de QnA
+  Um dos tipos mais comuns de interação entre usuários e agentes de software de AI e é para os usuários enviarem perguntas em linguagem natural, e para o agente de AI para responder inteligentemente com uma resposta apropriada. Neste módulo, você vai explorar como o serviço de QnA Maker permite o desenvolvimento desse tipo de solução.
+  #### Aulas
+  - Criação de uma Base de Conhecimento de QnA
+  - Publicação e Utilização de uma Base de Conhecimento de QnA 
+
+  #### Laboratório &#58; Criar uma solução de QnA 
   
-  #### Laboratório &#58; Criar uma Solução de Busca Cognitiva no Azure
-  - Criar um Recurso do Azure para Busca
-  - Criar uma Fonte de Dados
-  - Criar um Índice
-  - Criar e Executar um Indexador
-  - Fazer Busca e Índice
-  - Aplicar Filtragem e Triagem
-  - Melhorar o Índice
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Usar QnA Maker para criar uma base de conhecimento
+  - Usar uma base de conhecimento de QnA num aplicativo ou bot
   
-  #### Laboratório &#58; Criar um Tubo de Enriquecimento
-  - Criar um Recurso no Azure
-  - Criar uma Fonte de Dados
-  - Criar um Conjunto de Competências
-  - Criar um Índice
-  - Criar e Executar um Indexador
-  - Pesquisar no Índice Enriquecido
-  - Criar uma Habilidade Personalizada
-  - Atualizar o Índice
-  - Pesquisar o Índice Atualizado
   
-  #### Laboratório &#58; Criar uma Loja de Conhecimento
-  - Criar Recursos no Azure
-  - Criar uma Fonte de Dados
-  - Criar um Conjunto de Competências
-  - Criar um índice
-  - Criar e Executar um Indexador
-  - Explorar uma Loja do Conhecimento
+  ### Módulo 7&#58; AI de conversação e o Serviço de Azure Bot
+  Bots são a base para um tipo cada vez mais comum de aplicativo de AI em que os usuários se envolvem em conversas com agentes de AI, muitas vezes como fariam com um agente humano. Neste módulo, você vai explorar o Microsoft Bot Framework e o Serviço de Azure Bot, que juntos fornecem uma plataforma para criar e entregar experiências de conversação.
+  #### Aulas
+  - Básico sobre Bot
+  - Implementação de um Bot Conversacional
+
+  #### Laboratório &#58; Criar um Bot com a Bot Framework SDK 
+
+  #### Laboratório &#58; Criar um Bot com Bot Framework Composer
   
-  Após completar este módulo, os estudantes poderão&#58;
-  - Criar uma Solução de Busca Cognitiva no Azure
-  - Criar um Gasoduto de Enriquecimento com Busca Cognitiva no Azure
-  - Criar uma Loja do Conhecimento com Busca Cognitiva no Azure
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Usar o Bot Framework SDK para criar um bot
+  - Use o Bot Framework Composer para criar um bot
   
-  ### Módulo 5&#58; Implementar Soluções Conversacionais de IA
-  Utilize o Microsoft Bot Framework e o Bot Framework Composer para conceber e criar soluções de IA de conversação.
-  #### Lições
-  - Construir um Bot de Chat no Portal do Azure
-  - Projetar um Fluxo de Conversação do Bot
-  - Criar um Bot com o Bot Framework Composer
   
-  #### Laboratório &#58; Criar um Bot com o Portal do Azure
-  - Criar um Bot Básico com o portal do Azure
+  ### Módulo 8&#58; Introdução à Visão Computacional
+  Visão computacional é uma área de inteligência artificial na qual aplicativos de software interpretam entrada visual a partir de imagens ou vídeo. Neste módulo, você começará sua exploração da visão computacional aprendendo a usar serviços cognitivos para analisar imagens e vídeos.
+  #### Aulas
+  - Análise de Imagens
+  - Análise de vídeos
   
-  #### Laboratório &#58; Criar um Bot com o Bot Framework Composer
-  - Criar um Bot com o Bot Framework Composer
-  - Adicionar Funcionalidades de Ajuda e Cancelar 
-  - Integrar a Geração de Idiomas
-  - Usar Cartões
-  - Integrar Language Understanding
+  #### Laboratório &#58; Analisar Imagens com Visão Computacional
   
-  Após completar este módulo, os estudantes poderão&#58;
-  - Criar um Bot Básico no Portal do Azure
-  - Projetar um Fluxo de Conversação para um Bot
-  - Criar um Bot usando o Bot Framework Composer
+  #### Laboratório &#58; Analisar Vídeo com Indexador de Vídeo
+  
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Usar o Serviço de Visão Computacional para analisar imagens
+  - Usar o Indexador de vídeo para analisar vídeos
+  
+  
+  ### Módulo 9&#58; Desenvolvimento de Soluções  Personalizadas de Visão 
+  Embora existam muitos cenários onde capacidades pré-definidas de visão geral por computador podem ser úteis, às vezes você precisa treinar um modelo personalizado com seus próprios dados visuais. Neste módulo, você explorará o serviço de Visão Personalizada e como usá-lo para criar modelos personalizados de classificação de imagens e detecção de objetos.
+  
+  #### Aulas
+  - Classificação de Imagem
+  - Detecção de Objetos
+  
+  #### Laboratório &#58; Classificar Imagens com Visão Personalizada
+  
+  #### Laboratório &#58; Detectar Objetos em Imagens com Visão Personalizada
+  
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Usar o serviço Visão Personalizada para implementar a classificação de imagens
+  - Usar o serviço Visão Personalizada para implementar a detecção de objetos
+  
+  
+  ### Módulo 10&#58; Detectar, Analisar e Reconhecimento de Rostos
+  Detecção, análise e reconhecimento facial são cenários comuns de visão computacional. Neste módulo, você explorará o usuário de serviços cognitivos para identificar rostos humanos.
+  
+  #### Aulas
+  - Detectar rostos com o Serviço de Visão computacional
+  - Usando o Serviço Facial
+  
+  #### Laboratório &#58; Detectar, Analisar e Reconhecer rostos
+  
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Detectar rostos com o serviço Visão Computacional
+  - Detectar, analisar e reconhecer rostos com o serviço Face
+  
+  
+  ### Módulo 11&#58; Leitura de Texto em Imagens e Documentos
+  Reconhecimento óptico de caracteres (OCR) é outro cenário comum de visão computacional, no qual o software extrai texto de imagens ou documentos. Neste módulo, você explorará serviços cognitivos que podem ser usados para detectar e ler textos em imagens, documentos e formulários.
+  #### Aulas
+  - Leitura de texto com o Serviço de Visão Computacional
+  - Extração de informações de Formulários com o serviço de Reconhecimento de Formulário
+  
+  #### Laboratório &#58; Ler Texto em Imagens
+  
+  #### Laboratório &#58; Extrair Dados de Formulários
+  
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Usar o serviço Visão Computacional para ler texto em imagens e documentos
+  - Usar o serviço de Reconhecimento de Formulários para extrair dados de formulários digitais
+  
+  
+  ### Módulo 12&#58; Criação de uma Solução de Mineração de Conhecimento
+  Em última análise, muitos cenários de AI envolvem a busca inteligente de informações com base em consultas de usuários. Mineração de conhecimento alimentado por AI é uma maneira cada vez mais importante de construir soluções de pesquisa inteligentes que usam AI para extrair informações de grandes repositórios de dados digitais e permitir que os usuários encontrem e analisem essas informações.
+  
+  #### Aulas
+  - Implementação de uma Solução de Pesquisa Inteligente
+  -  Desenvolvendo Competências Personalizadas para um Canal de Enriquecimento
+  - Criação de uma Loja de Conhecimento
+  
+  #### Laboratório &#58; Criar uma solução de Azure Cognitive Search
+  
+  #### Laboratório &#58; Criar uma Habilidade Personalizada da Azure Cognitive Search
+  
+  #### Laboratório &#58; Criar uma Loja de Conhecimento com Azure Cognitive Search
+  
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Criar uma solução de pesquisa inteligente com Azure Cognitive Search
+  - Implementar uma habilidade personalizada num  gasoduto de enriquecimento de Azure Cognitive Search 
+  - Usar Azure Cognitive Search para criar uma loja de conhecimento

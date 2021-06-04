@@ -6,7 +6,8 @@ metadata:
 uid: exam.az-120
 displayName: AZ-120
 summary: |-
-  <div><div><strong>O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Baixe o documento de competências avaliadas abaixo para ver as alterações.</strong><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>O conteúdo deste exame será atualizado em 28 de maio de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que vai mudar.</strong></font><br/><br/></div>
   </div>
 
   Os candidatos ao exame devem ser arquitetos ou engenheiros com vasta experiência e conhecimento do cenário do sistema SAP e dos padrões do setor específicos para a operação de longo prazo de uma solução SAP no Microsoft Azure.
@@ -30,7 +31,7 @@ locales:
 levels:
 - advanced
 skills:
-- O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Faça o download do esboço das competências ao exame abaixo para ver as alterações.
+- O conteúdo deste exame será atualizado em 28 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
 - Migrar soluções SAP para o Azure (10-15%)
 - Projetar uma solução do Azure para dar suporte às cargas de trabalho do SAP (20-25%)
 - Criar e implementar cargas de trabalho do SAP no Azure (35-40%)
@@ -57,10 +58,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

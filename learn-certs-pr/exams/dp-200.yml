@@ -7,7 +7,7 @@ uid: exam.dp-200
 displayName: DP-200
 summary: |-
   <div>
-  <div><font color='red'><strong>UMA NOVA VERSÃO DESSE EXAME, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, ESTARÁ DISPONÍVEL EM 23 DE FEVEREIRO DE 2021. Você pode fazer este exame até ser reformado em 30 de junho de 2021. Nota&#58; Os exames serão reformados às 23&#58;59, Horário Padrão Central.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>Uma NOVA VERSÃO DESTE EXAME, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, ESTÁ DISPONÍVEL. Você poderá fazer este exame até reformar em 30 de junho de 2021. Nota: Os exames serão reformados às 23:59, Horário Padrão Central.</strong></font><br/><br/></div>
   <div><strong>O conteúdo deste exame foi atualizado em 24 de novembro de 2020. Baixe o documento de competências avaliadas abaixo para ver as alterações.</strong><br/><br/></div>
   </div>
   
@@ -19,7 +19,7 @@ summary: |-
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: implementar soluções de armazenamento de dados, gerenciar e desenvolver processamento de dados e monitorar e otimizar soluções de dados.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
-practiceTestUrl: https://us.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=DP-200&examname=Exam%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 locales:
 - en
@@ -69,10 +69,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

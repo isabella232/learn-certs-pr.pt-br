@@ -1,0 +1,266 @@
+### YamlMime:Course
+title: Supporting and Troubleshooting Windows 10
+metadata:
+  title: 'Course 10982-E: Supporting and Troubleshooting Windows 10'
+  description: 'Course 10982-E: Supporting and Troubleshooting Windows 10'
+uid: course.10982
+courseNumber: '10982-E'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever os processos envolvidos no planejamento e uso de uma metodologia de resolução de problemas para o Windows 10.
+- skill: Solucionar problemas de inicialização e serviços do sistema operacional num PC Windows 10.
+- skill: Executar recuperação do sistema.
+- skill: Resolver problemas relacionados a dispositivos de hardware e drivers de dispositivos.
+- skill: Administrar dispositivos Windows 10.
+- skill: Resolução de problemas relacionados à conectividade de rede.
+- skill: Configurar dispositivos Windows 10 usando a Política de Grupo.
+- skill: Configurar e solucionar problemas nas configurações do usuário.
+- skill: Configurar e solucionar problemas de acesso a recursos.
+- skill: Implementar conectividade remota.
+- skill: Implantar e solucionar problemas de aplicativos.
+- skill: Manter dispositivos Windows 10. 
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- windows
+summary: |-
+  Este é um curso de ILT de 5 dias que foi projetado para fornecer aos alunos os conhecimentos e habilidades necessários para suportar e solucionar problemas em PCs e dispositivos do Windows 10 num ambiente de domínio do Windows Server. Essas habilidades incluem a compreensão dos recursos do Windows 10, como eles podem ser usados num ambiente do Active Directory e como solucioná-los. 
+
+  #### Perfil da audiência 
+  O principal público deste curso é o Enterprise Desktop Support Technician (EDST), que fornece suporte ao Nível 2 para usuários que executam computadores pessoais (PCs) do Windows 10 e dispositivos em organizações de média e grande porte, dentro de um ambiente de domínio do Windows.  EDSTs se concentram numa ampla gama de problemas técnicos para sistemas operacionais Windows (OSs), dispositivos, serviços em cloud, aplicativos, rede e suporte a hardware. No cenário geral, se uma empresa oferece o serviço, o EDST é solicitado a dar suporte.  
+
+  As principais responsabilidades incluem resolver problemas técnicos relativos à instalação e migração do Windows 10, ativação, desempenho, perfis, configurações; e sincronização do dispositivo. Algumas outras responsabilidades importantes incluem acesso à rede local e remota; acesso a aplicativos, acesso a dados e impressoras; autenticação, segurança do Endpoint e política; OS e recuperação de dados. 
+
+  O público secundário para este curso são profissionais de IT que administram e suportam desktops, dispositivos, usuários e recursos de rede e segurança associados. Os alunos que buscarem a certificação nos seguintes exames também serão beneficiados com este curso&#58; 
+  - 70-697&#58; Configuração de dispositivos Windows 
+  - 70-698&#58; Instalação e configuração do Windows 10
+prerequisitesSection: |-
+  Além de sua experiência profissional, os alunos que frequentam esse treinamento já devem ter os seguintes conhecimentos técnicos&#58; 
+  - Fundamentos de rede, incluindo Protocolo de Controle de Transmissão/Protocolo de Internet (TCP/IP), User Datagram Protocol (UDP), e Domain Name System (DNS).  
+  - Princípios do Microsoft Active Directory Domain Services (AD DS).   
+  - Compreensão dos componentes de Infraestrutura de chaves públicas (PKI).  
+  - Fundamentos do Windows Server 2016.  
+  -  Essenciais do Microsoft Windows Client; por exemplo, experiência com Windows 10 ou conhecimento dos cursos 20697-1 e 20697-2.
+outlineSection: |-
+  ### Módulo 1&#58; Implementação de uma metodologia de resolução de problemas
+  Este módulo descreve os novos recursos e dispositivos do sistema operacional Windows 10; ele também descreve o processo de desenvolvimento e aplicação de uma metodologia de resolução de problemas do Windows 10. 
+  #### Aulas 
+  - Visão geral do Windows 10 
+  - Introdução ao Cargo EDST
+  - Visão geral das etapas de resolução de problemas
+  - Ferramentas de resolução de problemas
+
+  #### Laboratório &#58; Usar Ferramentas de Resolução de Problemas 
+
+  Depois de concluir este módulo, será capaz de&#58;
+  - Descrever o sistema operacional Windows 10, os dispositivos que ele suporta e a arquitetura do Windows 10.  
+  - Explicar a metodologia de resolução de problemas para o Windows 10. 
+  - Descrever as ferramentas de resolução de problemas do Windows 10
+
+
+  ### Módulo 2&#58; Solucionar problemas de inicialização
+  Este módulo descreve como identificar e solucionar problemas de inicialização que afetam — e serviços problemáticos que são executados — no sistema operacional Windows 10. Este módulo introduz problemas potenciais que podem causar problemas de inicialização no Windows 10. Ele também fornece uma visão geral do processo de inicialização do Windows, incluindo o Windows Recovery Environment (Windows RE) e o Boot Configuration Data (BCD). 
+  #### Aulas 
+  - Visão geral do ambiente de recuperação de inicialização do Windows 10 
+  - Configuração do Registro 
+  - Configurações de inicialização de resolução de problemas 
+  - Recuperação de unidades protegidas por bitlocker 
+
+  #### Laboratório &#58; Problemas de startup de resolução de problemas 
+  - Explorando Windows RE 
+  - Resolução de um problema de inicialização 
+
+  #### Laboratório &#58; Recuperação de drives criptografadas bitLocker 
+  - Recuperação de uma unidade criptografada bitLocker 
+  - Criar uma nova senha bitLocker 
+
+  Depois de concluir este módulo, será capaz de&#58; 
+  - Descrever como configurar o registro. 
+  - Explicar como solucionar problemas nas configurações da inicialização. 
+  - Recuperar unidades criptografadas com Criptografia do Drive do Windows BitLocker 
+
+
+  ### Módulo 3&#58; Executar a recuperação do sistema 
+  Este módulo descreve como resolver problemas relacionados aos serviços do sistema operacional e como recuperar um computador.
+  #### Aulas
+  - Resolução de problemas do serviço do sistema operacional
+  - Recuperação de um computador
+
+  #### Laboratório &#58; Executar a recuperação do sistema 
+  - Preparação para a recuperação do sistema 
+  - Recuperação de um computador
+
+  Após a conclusão deste módulo, você será capaz de&#58; 
+  - Solucionar problemas dos serviços do sistema operacional. 
+  - Recuperar um computador executando o Windows 10. 
+
+
+  ### Módulo 4&#58; Resolução de problemas de hardware e drivers de dispositivo
+  Este módulo explora como solucionar problemas relacionados a drivers de dispositivos e hardware de dispositivos. 
+  #### Aulas 
+  - Resolução de falhas do driver de dispositivo 
+  - Visão geral da resolução de problemas de hardware 
+
+  #### Laboratório &#58; Problemas de hardware e driver de dispositivo 
+  - Resolução de problemas com um driver de dispositivo desaparecido 
+  - Resolução de problemas de hardware 
+
+  Depois de concluir este módulo, você será capaz de&#58; 
+  - Solucionar problemas no driver. 
+  - Descrever o processo de resolução de problemas de hardware.   
+
+
+  ### Módulo 5&#58; Administração do Windows 10 
+  Este módulo descreve como usar as várias ferramentas de administração no Windows 10 para resolver problemas. Ele descreve os recursos e funcionalidades de ferramentas como Windows Admin Center, Remote Desktop, Quick Assist e Windows PowerShell. 
+  #### Aulas 
+  - Visão geral das ferramentas de administração 
+  - Usar desktop remoto 
+  - Introdução ao Windows PowerShell 
+  - Remoting com Windows PowerShell 
+  - Introdução ao Provisionamento
+
+  #### Laboratório &#58; Resolução de problemas de Computadores Remotos Através de Desktop Remoto 
+  - Usar Desktop Remoto 
+
+  #### Laboratório &#58; Resolução de problemas de um computador remoto usando o Windows PowerShell 
+  - Usar o Windows PowerShell Remoting 
+
+  Depois de concluir este módulo, será capaz de&#58; 
+  - Usar o Desktop Remoto para gerenciar computadores remotos. 
+  - Usar Windows PowerShell cmdlets e guiões. 
+  - Usar o remoting do Windows PowerShell para gerenciar computadores remotos. 
+  - Implementar pacotes de provisionamento. 
+
+  ### Módulo 6&#58; Resolução de problemas com conectividade de rede Este módulo descreve como identificar configurações de rede e solucionar problemas relacionados à conectividade de rede em redes com fio e sem fio, conectividade IPv4 e IPv6 e resolução de nomes.
+  #### Aulas 
+  - Determinar configurações de rede 
+  - Resolução de problemas de conectividade de rede 
+  - Resolução de problemas de nomes
+
+  #### Laboratório &#58; Resolução de problemas de conectividade de rede
+  - Configuração de configurações de rede
+  - Resolução de um problema de rede (1) 
+  - Resolução de um problema de rede (2)
+
+  Depois de concluir este módulo, será capaz de&#58; 
+  - Determinar as configurações da rede no Windows 10. 
+  - Resolução de problemas com conectividade de rede. 
+  - Solucionar problemas de resolução de nomes.
+  
+  ### Módulo 7&#58; Resolução de problemas do Group Policy
+  Este módulo fornece uma visão geral do aplicativo Group Policy e descreve como resolver problemas de configuração do cliente no aplicativo GPO. 
+  #### Aulas 
+  - Visão geral do aplicativo Group Policy 
+  - Resolução de falhas de configuração do cliente e problemas do Aplicativo GPO 
+
+  #### Laboratório &#58; Resolução de problemas com o aplicativo de Group Policy 
+  - Trabalhar com GPOs 
+  - Resolução do aplicativo de Group Policy (1) 
+  - Resolução do aplicativo de Group Policy (2)
+  - Resolução do aplicativo de Group Policy (3)
+
+  #### Laboratório &#58; Resolução de problemas com a política de grupo - Resolução do aplicativo de Group Policy (4)
+
+  Após a conclusão deste módulo, será capaz de&#58;
+  - Descrever como você aplica GPOs em computadores.
+  - Resolver falhas de configuração do lado do cliente e problemas de aplicação de GPO.
+
+  ### Módulo 8&#58; Configuração e resolução de problemas Configurações do usuário Este módulo descreve os problemas comuns de login, como detectá-los e como solucionar esses problemas. O módulo também fornece uma visão geral dos tipos de conta de usuário que são suportados pelo Windows 10 e como a autenticação funciona para essas contas.
+  #### Aulas
+  - Resolução de problemas
+  - Resolução de problemas sobre a aplicação das configurações do usuário 
+
+  #### Laboratório &#58; Resolução de problemas
+  - Resolução de um problema de login
+
+  #### Laboratório &#58; Configuração e resolução de problemas do aplicativo de configurações do usuário
+  - Configuração de UE-V 
+  - Configuração de redirecionamento da pasta
+  - Resolução de um problema de redirecionamento de pasta
+
+  Depois de concluir este módulo, será capaz de&#58;
+  - Solucionar problemas de login do usuário.
+  - Solucionar problemas na aplicação das configurações do usuário. 
+
+  ### Módulo 9&#58; Configuração e resolução de problemas Acesso a recursos Este módulo descreve como solucionar problemas com permissões de arquivo e acesso à impressora. Ele também descreve como configurar e gerenciar a sincronização de arquivos e a recuperação de arquivos no Windows 10.
+  #### Aulas
+  - Problemas de solucionamento de problemas de permissões de arquivos - Resolução de problemas com acesso à impressora
+  - Configuração e sincronização de arquivos de resolução de problemas
+  - Recuperação de arquivos no Windows 10 
+
+  #### Laboratório &#58; Resolução de problemas de acesso a arquivos
+  - Resolução de um problema de acesso a arquivos (1)
+  - Resolução de um problema de acesso a arquivos (2)
+  - Resolução de um problema de acesso a arquivos (3)
+
+  #### Laboratório &#58; Resolução de problemas da impressora
+  - Resolução de um problema de impressora (1)
+  - Resolução de um problema de impressora (2)
+
+  #### Laboratório &#58; Configuração e resolução de problemas sincronização de arquivos
+  - Resolução de pastas de trabalho
+
+  #### Laboratório &#58; Recuperar dados
+  - Preparação para recuperação de arquivos
+  - Resolver problemas usando versões anteriores (opcionais) 
+
+  Depois de concluir este módulo, será capaz de&#58;
+  - Solucionar problemas com permissões de arquivo.
+  - Resolução de problemas com o acesso a impressoras.
+  - Configurar e solucionar problemas de sincronização de arquivos.
+  - Configurar e solucionar problemas na recuperação de arquivos.  
+
+
+  ### Módulo 10&#58; Resolução de problemas Conectividade remota
+  Este módulo fornece uma visão geral do Acesso Remoto e descreve como solucionar problemas com conectividade VPN.
+  #### Aulas
+  - Visão geral do Acesso Remoto
+  - Resolução de problemas com conectividade VPN
+
+  #### Laboratório &#58; Resolução de problemas de conectividade VPN
+  - Resolução de problemas VPN Problema de conectividade 1
+  - Resolução de problemas VPN Problema de conectividade 2
+
+  Depois de concluir este módulo, será capaz de&#58;
+  - Descrever tecnologias comuns de acesso remoto.
+  - Resolução de problemas com conectividade VPN.
+
+
+  ### Módulo 11&#58; Aplicativos de resolução de problemas
+  Este módulo explica como solucionar problemas comuns de operações de aplicativos de desktop. Também descreve os aplicativos Universal Windows, Microsoft Store e Microsoft Store para Business, e explica como resolver problemas relacionados aos aplicativos Universal Windows.
+  #### Aulas
+  - Resolução de problemas aplicativos de desktop
+  - Gerenciamento de Aplicativos Universais do Windows
+
+
+  #### Laboratório &#58; Resolução de problemas Aplicativos de desktop
+  - Resolução de problemas Aplicativos de política do AppLocker
+  - Problemas de compatibilidade de aplicativos 
+
+  #### Laboratório &#58; Provisionamento de um dispositivo de quiosque
+  - Criar um pacote de provisionamento
+  - Aplicar um pacote de provisionamento
+
+  Após concluir este módulo, será capaz de&#58;
+  - Solucionar problemas de aplicativos de desktop.
+  - Gerenciar aplicativos Universais do Windows.
+
+  ### Módulo 12&#58; Manutenção do Windows 10
+  Este módulo descreve como solucionar problemas de desempenho no Windows 10. Ele também explica como aplicar e solucionar problemas atualizações do Windows.
+  #### Aulas
+  - Monitoramento e resolução de problemas desempenho do computador
+  - Aplicar atualizações do Windows
+
+  #### Laboratório &#58; Manutenção do Windows 10
+  - Usar monitor de desempenho
+  - Configurando configurações de atualização do Windows
+
+  Depois de concluir este módulo, será capaz de&#58;
+  - Monitorar e solucionar problemas com o desempenho do Windows 10. 
+  - Atualizar aplicativos e Windows 10.

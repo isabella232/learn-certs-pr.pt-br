@@ -17,7 +17,7 @@ summary: |-
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: gerenciar casos e bases de conhecimento, gerenciar filas, direitos e acordos de nível de serviço, implementar agendamentos, implementar omnicanal para atendimento ao cliente e gerenciar análises.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
-practiceTestUrl: https://in.mindhub.com/mb-230-microsoft-dynamics-365-customer-service-microsoft-official-practice-test/p/MU-MB-230?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/mb-230-microsoft-dynamics-365-customer-service-microsoft-official-practice-test/p/MU-MB-230?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-230&examname=Exam%20MB-230:%20Microsoft%20Dynamics%20365%20for%20Customer%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-230
 locales:
 - en
@@ -53,7 +53,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

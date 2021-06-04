@@ -7,7 +7,16 @@ uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Supply Chain Management simplificam a contabilidade de custos, gerenciamento de estoque, planejamento mestre e gerenciamento de estoque para seus clientes.
+  Se você é um consultor funcional ou um usuário de negócios com uma compreensão fundamental dos padrões do setor de gerenciamento da cadeia de suprimentos, essa certificação pode ser uma boa opção para você. Você também precisa de experiência configurando e implementando o Dynamics 365 Supply Chain Management para atender às necessidades de sua organização. Os consultores funcionais de gestão da cadeia de suprimentos são recursos fundamentais que trabalham com desenvolvedores, arquitetos de soluções, gerentes de projetos e consultores funcionais em finanças, comércio e produção.
+
+  Se você precisa de mais experiência antes de tentar obter essa certificação, aqui estão algumas sugestões&#58;
+
+  - Estude os módulos de gerenciamento da cadeia de suprimentos no Microsoft Learn e complete mais prática.
+  - Inscreva-se num curso de treinamento ministrado por instrutor que abrange MB-300 ou MB-330.
+  - Participe da comunidade em [community.dynamics.com](https://community.dynamics.com/), ou participe de um grupo de usuários.
+  - Supervisione um consultor funcional de gerenciamento da cadeia de suprimentos e ajude a implementar funcionalidades de Dynamics 365 Supply Chain Management.
+  - Adquira um mentor, armazéns turísticos, e aprenda como as coisas são feitas.
+  - Faça perguntas e aprenda com especialistas e clientes.
 subTitle: 'Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Supply Chain Management simplificam a contabilidade de custos, gerenciamento de estoque, planejamento mestre e gerenciamento de estoque para seus clientes.'
 levels:
 - intermediate
@@ -55,7 +64,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certificação Caminho de Aprendizagem
   description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ca9S

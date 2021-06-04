@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-740
 displayName: 70-740
 summary: |-
-  <div>
-  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este exame foi reformado em 31 de janeiro de 2021. Para obter as opções disponíveis atualmente, consulte a página <a href='/learn/certifications/browse/?resource_type=examination'> Navegue pela página de Certificações e Exames</a>.<br/><br/></strong></font></div>
 
   Os candidatos a este exame estão envolvidos com a instalação, armazenamento e funcionalidades disponíveis no Windows Server 2016. Os candidatos realizam tarefas gerais de instalação, incluindo a criação e gerenciamento de imagens para implementação.
 
@@ -19,7 +17,6 @@ subTitle: Os candidatos a este exame estão envolvidos com a instalação, armaz
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IGlV
 practiceTestUrl: https://www.mindhub.com/70-740-Windows-Server-2016-p/mu-70-740_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=740&examname=Installation,%20Storage,%20and%20Compute%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-740
 locales:
 - en
 - es
@@ -38,6 +35,7 @@ skills:
 - Implementar contêineres do Windows (5-10%)
 - Implementar alta disponibilidade (30-35%)
 - Manter e monitorar ambientes de servidor (10-15%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
