@@ -96,7 +96,6 @@ outlineSection: |-
   - Planejamento e implementação de réplica de armazenamento
 
   #### Laboratório &#58; Implementação de um conjunto de Espaços de Armazenamento Direto
-  - Implementação de um conjunto de espaços de armazenamento direto usando o Windows Admin Center
   - Implementação de um conjunto de espaços de armazenamento direto usando o Windows PowerShell
   - Gerenciamento um conjunto de Espaços de Armazenamento Direto usando o Windows Admin Center e o Windows PowerShell
   - Gerenciamento e monitoramento da resiliência de um cluster de Espaços de Armazenamento Direto

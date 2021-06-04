@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-741
 displayName: 70-741
 summary: |-
-  <div>
-  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este exame foi reformado em 31 de janeiro de 2021. Para obter as opções disponíveis atualmente, consulte a página <a href='/learn/certifications/browse/?resource_type=examination'> Navegue pela página de Certificações e Exames</a>.<br/><br/></strong></font></div>
 
   Os candidatos a este exame executam tarefas relacionadas com as características e funcionalidades de rede disponíveis no Windows Server 2016. Os candidatos devem estar familiarizados com a implementação e gerenciamento de DNS, DHCP e IPAM, além da implementação de soluções de acesso remoto como VPN e RADIUS.
 
@@ -19,7 +17,6 @@ subTitle: Os candidatos a este exame executam tarefas relacionadas com as caract
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IW1D
 practiceTestUrl: https://www.mindhub.com/70-741-Networking-with-Windows-Server-2016-p/mu-70-741_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=741&examname=Networking%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-741
 locales:
 - en
 - es
@@ -37,6 +34,7 @@ skills:
 - Implementar soluções de conectividade de rede e de acesso remoto (20-25%)
 - Implementar soluções de rede principal e distribuída (15-20%)
 - Implementar uma infraestrutura avançada de rede (15-20%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

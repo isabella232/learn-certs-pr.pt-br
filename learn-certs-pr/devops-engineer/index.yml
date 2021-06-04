@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: DevOps Engineer Expert'
 metadata:
   title: 'Microsoft Certified: DevOps Engineer Expert'
-  description: 'Profissionais de Microsoft DevOps combinam pessoas, processos e tecnologias para oferecer continuamente produtos e serviços valiosos que atendam às necessidades do usuário final e objetivos de negócios.'
+  description: 'Os engenheiros da DevOps projetam e implementam estratégias para colaboração, código, infraestrutura, controle de origem, segurança, conformidade, integração contínua, testes, entrega, monitoramento e feedback.'
 uid: certification.devops-engineer
 certificationRenewalUid: renewal.devops-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
@@ -12,7 +12,7 @@ summary: |-
   As responsabilidades para esta função incluem o projeto e implementação de estratégias de colaboração, código, infraestrutura, controle de origem, segurança, conformidade, integração contínua, teste, entrega, monitoramento e feedback.
 
   Os candidatos à certificação devem estar familiarizados com a administração e o desenvolvimento do Azure e são especialistas em pelo menos uma dessas áreas.
-subTitle: Profissionais de Microsoft DevOps combinam pessoas, processos e tecnologias para oferecer continuamente produtos e serviços valiosos que atendam às necessidades do usuário final e objetivos de negócios.
+subTitle: Os engenheiros da DevOps projetam e implementam estratégias para colaboração, código, infraestrutura, controle de origem, segurança, conformidade, integração contínua, testes, entrega, monitoramento e feedback.
 levels:
 - advanced
 skills:
@@ -58,10 +58,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

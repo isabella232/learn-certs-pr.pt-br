@@ -7,23 +7,29 @@ uid: certification.d365-functional-consultant-field-service
 certificationRenewalUid: renewal.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Os Consultores Funcionais do Microsoft Dynamics 365 para Field Service configuram o aplicativo Field Service, implementam soluções que gerenciam o ciclo de vida do serviço de campo e implementam a solução Connected Field Service (IoT).
+  Se você é um consultor funcional responsável pela configuração e implementação de soluções Dynamics 365 para clientes, você é um bom candidato a esta certificação, que pode destacar suas habilidades e ajudar a avançar sua carreira. Um consultor funcional do Dynamics 365 Field Service é responsável pela implementação de soluções que gerenciam recursos que completam o ciclo de vida do serviço de campo. Como consultor funcional, você sabe como trabalhar com gerentes de projetos, desenvolvedores e arquitetos de soluções. Você deve ter um mínimo de um a três anos de experiência como consultor funcional a implantar a Dynamics 365.
+
+  Se você precisa de mais experiência antes de tentar obter essa certificação, aqui estão algumas sugestões&#58;
+  - Trabalhar como consultor funcional Dynamics 365 em alguns projetos.
+  - Trabalhar numa implementação de Dynamics 365 Field Service.
+  - Junte-se à comunidade em [community.dynamics.com](https://community.dynamics.com/).
+  - Siga caminhos de aprendizagem disponíveis em [Microsoft Learn](/learn/browse/?expanded=dynamics-365&roles=functional-consultant&resource_type=learning%20path&products=dynamics-field-service).
+  - Complete mais prática.
+  - Inscreva-se para um curso de treinamento ministrado por instrutor
 subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 para Field Service configuram o aplicativo Field Service, implementam soluções que gerenciam o ciclo de vida do serviço de campo e implementam a solução Connected Field Service (IoT).
 levels:
 - intermediate
 skills:
-- Executar a implementação e teste de soluções
 - Configurar aplicativos de Field Service
 - Gerenciar ordens de serviço
 - Agendar e despachar ordens de serviço
 - Gerenciar mobilidade de Field Service
 - Gerenciar inventário e compras
-- Implementar Serviço de Campo Conectado
-- Realizar descoberta, planejamento e análise
-- Gerenciar o projeto da experiência do usuário
-- Gerenciar entidades e dados
-- Implementar a segurança
-- Implementar a integração
+- Configurar o Microsoft Dataverse
+- Criar aplicativos usando Power Apps
+- Criar e gerenciar o Power Automate
+- Implementar chatbots de Power Virtual Agents
+- Integrar Power Apps com outros aplicativos e serviços
 roles:
 - functional-consultant
 type: role-based
@@ -56,7 +62,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certificação Caminho de Aprendizagem
   description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X

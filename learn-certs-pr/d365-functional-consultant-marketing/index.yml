@@ -20,7 +20,6 @@ subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 para Marketing apr
 levels:
 - intermediate
 skills:
-- Executar a implementação e teste de soluções
 - Configurar aplicativos de marketing
 - Gerenciar segmentos e listas
 - Criar e gerenciar formulários e páginas de marketing
@@ -29,11 +28,11 @@ skills:
 - Gerenciar jornadas de clientes
 - Gerenciar eventos e webinars
 - Configurar Dynamics 365 Customer Voice
-- Realizar descoberta, planejamento e análise
-- Gerenciar o projeto da experiência do usuário
-- Gerenciar entidades e dados
-- Implementar a segurança
-- Implementar a integração
+- Configurar o Microsoft Dataverse
+- Criar aplicativos usando Power Apps
+- Criar e gerenciar o Power Automate
+- Implementar chatbots de Power Virtual Agents
+- Integrar Power Apps com outros aplicativos e serviços
 roles:
 - functional-consultant
 type: role-based
@@ -68,7 +67,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C55m
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certificação Caminho de Aprendizagem
   description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjW

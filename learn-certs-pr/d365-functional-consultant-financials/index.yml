@@ -7,7 +7,18 @@ uid: certification.d365-functional-consultant-financials
 certificationRenewalUid: renewal.d365-functional-consultant-financials
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Os Consultores Funcionais do Dynamics 365 para Finance unificam as finanças e operações globais e automatizam tarefas e fluxos de trabalho, agilizando os pedidos dos clientes, vendas, faturamento e geração de relatórios.
+  Use esta certificação para provar suas habilidades e ajudar a avançar sua carreira, se você tiver experiência como consultor funcional que analisa os requisitos de negócios e os traduz em processos de negócios e soluções bem-sucedidas com base nas melhores práticas do setor. Você precisa ter experiência na implementação e configuração do Dynamics 365 Finance para atender aos requisitos de negócios.
+
+  Essa certificação é adequada para pessoas em departamentos financeiros que trabalham em contas por receber, contas por pagar, contabilidade geral, ativos fixos, orçamento, contabilidade de custos e gestão de custos, ou despesas. Você deve ter uma compreensão fundamental dos princípios contábeis empresariais e das operações financeiras.
+
+  Se você precisa de mais experiência antes de tentar obter essa certificação, aqui estão algumas sugestões&#58;
+  - Trabalhe com um consultor funcional que usa a Dynamics 365 Finance.
+  - Trabalhe como consultor funcional num ou mais projetos.
+  - Trabalhe num projeto de consultoria financeira.
+  - Junte-se à comunidade de especialistas e colegas em [community.dynamics.com](https://community.dynamics.com/).
+  - Siga caminhos de aprendizagem disponíveis no Microsoft Learn.
+  - Inscreva-se num curso de treinamento ministrado por instrutores.
+  - Complete mais prática.
 subTitle: 'Os Consultores Funcionais do Dynamics 365 para Finance unificam as finanças e operações globais e automatizam tarefas e fluxos de trabalho, agilizando os pedidos dos clientes, vendas, faturamento e geração de relatórios.'
 levels:
 - intermediate
@@ -56,7 +67,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRF
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certificação Caminho de Aprendizagem
   description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56Y

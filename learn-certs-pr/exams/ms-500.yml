@@ -6,8 +6,7 @@ metadata:
 uid: exam.ms-500
 displayName: MS-500
 summary: |-
-  <div>
-  <div><strong>O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que vai mudar.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>O conteúdo deste exame foi atualizado em 23 de março de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que mudou.</strong></font><br/><br/></div>
   </div>
   
   Os candidatos a este exame implementam, gerenciam e monitoram soluções de segurança e conformidade em ambientes do Microsoft 365 e ambientes híbridos. O Microsoft 365 Security Administrator protege ambientes corporativos do Microsoft 365 Enterprise, responde a ameaças, realiza investigações e impõe a governança de dados. O Microsoft 365 Security Administrator colabora com o Microsoft 365 Enterprise Administrator, com partes interessadas e com outros administradores para planejar e implementar estratégias de segurança e garante que as soluções estejam em conformidade com as políticas e regulamentos da organização.
@@ -29,11 +28,11 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que vai mudar.
+- O conteúdo deste exame foi atualizado em 23 de março de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que mudou.
 - Implementar e gerenciar recursos de identidade e acesso (30-35%)
 - Implementar e gerenciar a proteção contra ameaças (20-25%)
 - Implementar e gerenciar a proteção de informações (15-20%)
-- Gerenciar recursos de governança e conformidade do Microsoft 365 (20-25%)
+- Gerenciar recursos de governança e conformidade do Microsoft 365 (25-30%)
 roles:
 - administrator
 products:
@@ -56,10 +55,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE458DG
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

@@ -11,7 +11,7 @@ summary: |-
 
   As responsabilidades da função incluem a manutenção de uma postura de segurança, identificar e corrigir vulnerabilidades por meio de diversas ferramentas de segurança, implementar a proteção contra ameaças e responder a incidentes de segurança.
 
-  Os Azure Security Engineers normalmente fazem parte de uma equipe maior dedicada ao gerenciamento e segurança baseados em nuvem ou ambientes híbridos que integram uma infraestrutura ponta a ponta.
+  Os Engenheiros de Segurança do Azure geralmente servem como parte de uma equipe maior dedicada à gestão e segurança baseadas em cloud e também podem proteger ambientes híbridos como parte de uma infraestrutura de ponta a ponta.
 
   Os candidatos a esta certificação devem ter excelentes conhecimentos na criação de scripts e automação, profunda compreensão de ambientes de rede, virtualização e arquitetura de N camadas na nuvem e uma sólida familiaridade com os recursos de nuvem, produtos e serviços Azure e outros produtos e serviços da Microsoft.
 subTitle: Os Engenheiros de Segurança Azure implementam controles de segurança e proteção contra ameaças, gerenciamento de identidade e acesso e protegem os dados, aplicativos e redes em ambientes de nuvem e híbridas como parte da infraestrutura completa.
@@ -53,10 +53,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

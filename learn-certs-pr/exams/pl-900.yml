@@ -6,8 +6,7 @@ metadata:
 uid: exam.pl-900
 displayName: PL-900
 summary: |-
-  <div>
-  <div><strong>O conteúdo deste exame foi atualizado em, 13 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>O conteúdo deste exame foi atualizado em 10 de março de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que mudou.</strong></font><br/><br/></div>
   </div>
 
   Os candidatos a este exame desejam melhorar a produtividade compreendendo os recursos da Power Platform automatizando processos básicos de negócios com o Power Automate, realizando análises básicas de dados com o Power BI, agindo de forma mais eficaz ao criar experiências com Power Apps e criando assistentes virtuais poderosos por meio de Power Virtual Agents.
@@ -35,7 +34,7 @@ providers:
 levels:
 - beginner
 skills:
-- O conteúdo deste exame foi atualizado em, 13 de julho de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- O conteúdo deste exame foi atualizado em 10 de março de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que mudou.
 - Descrever o valor comercial da Power Platform (15-20%)
 - Identificar os componentes principais da Power Platform (15-20%)
 - Demonstrar os recursos do Power BI (15-20%)
@@ -61,7 +60,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gn
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

@@ -6,9 +6,7 @@ metadata:
 uid: exam.dp-100
 displayName: DP-100
 summary: |-
-  <div>
-  <div><strong>O conteúdo deste exame foi atualizado em 8 de dezembro de 2020. Por favor, baixe o documento de habilidades avaliadas apresentado abaixo para ver o que mudou.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>O conteúdo deste exame será atualizado em 20 de maio de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que vai mudar.</strong></font><br/><br/></div>
 
   O Azure Data Scientists aplica seus conhecimentos de ciência de dados e aprendizado de máquina para implementar e executar cargas de trabalho de aprendizado de máquina no Azure; em particular, usando o Serviço de Aprendizado de Máquina do Azure. Isso envolve o planejamento e a criação de um ambiente de trabalho adequado para cargas de trabalho de ciência de dados no Azure, executando experimentos de dados e treinando modelos preditivos, gerenciando e otimizando modelos e implantando modelos de aprendizado de máquina na produção.
 
@@ -26,7 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 8 de dezembro de 2020. Por favor, baixe o esboço de habilidades do exame apresentado abaixo para ver o que mudou.
+- O conteúdo deste exame será atualizado em 20 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
 - Configurar um espaço de trabalho do Azure Machine Learning (30-35%)
 - Realize experimentos e modelos de trem (25-30%)
 - Otimizar e gerenciar modelos (20-25%)
@@ -53,10 +51,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ABJV
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

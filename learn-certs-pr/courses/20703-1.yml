@@ -1,0 +1,395 @@
+### YamlMime:Course
+title: Administering System Center Configuration Manager
+metadata:
+  title: 'Course 20703-1-B: Administering System Center Configuration Manager'
+  description: 'Course 20703-1-B: Administering System Center Configuration Manager'
+uid: course.20703-1
+courseNumber: '20703-1-B'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever os recursos que o Gerenciador de Configuração e o Intune incluem e explicar como você pode usar esses recursos para gerenciar PCs e dispositivos móveis num ambiente corporativo.
+- skill: Analisar dados usando consultas e relatórios.
+- skill: Preparar uma infraestrutura de gerenciamento, incluindo configurar limites, grupos de limites e detecção de recursos e integrar o gerenciamento de dispositivos móveis com o Servidor Microsoft Exchange.
+- skill: Implantar e gerenciar o cliente Gerenciador de Configuração.
+- skill: Configurar, gerenciar e monitorar o inventário de hardware e software, e usar a Inteligência de Ativos e a medição de software.
+- skill: Identificar e configurar o método mais apropriado para distribuir e gerenciar o conteúdo usado para implantações.
+- skill: Distribuir, implantar e monitorar aplicativos para usuários e sistemas gerenciados.
+- skill: Manter atualizações de software para PCs que o Gerenciador de Configuração gerencia.
+- skill: Implementar Proteção ao Endpoint para PCs gerenciados.
+-  skill : Gerenciar itens de configuração, linhas de base e perfis para avaliar e configurar configurações de conformidade e acesso a dados para usuários e dispositivos.
+- skill: Configurar uma estratégia de implantação do sistema operacional usando o Gerenciador de Configuração.
+- skill: Gerenciar e manter um site Gerenciador de Configuração.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- windows-system-center
+exams:
+- uid: exam.70-703
+summary: |-
+  Este curso de cinco dias descreve como usar o Gerenciador de Configuração e seus sistemas de site associados para gerenciar eficientemente os recursos de rede. Neste curso de cinco dias, você aprenderá tarefas diárias de gerenciamento, incluindo como gerenciar aplicativos, saúde do cliente, inventário de hardware e software, implantação do sistema operacional e atualizações de software usando o Gerenciador de Configuração. Você também aprenderá como otimizar a  System Center Endpoint Protection, gerenciar a conformidade e criar consultas e relatórios de gerenciamento.
+
+  #### Perfil da audiência
+  Este curso é para profissionais experientes em tecnologia da informação (IT), tipicamente descritos como Administradores de Desktop Corporativos (EDAs). Esses EDAs implantam, gerenciam e mantêm PCs, dispositivos e aplicativos em organizações corporativas de médio e grande porte. Uma parte significativa deste público usa ou pretende usar a versão mais recente do Gerenciador de Configuração para gerenciar e implantar PCs, dispositivos e aplicativos.
+
+  Este curso também é para pessoas interessadas em fazer o Exam 70-703&#58; Administering System Center Configuration Manager and Cloud Services Integration.
+prerequisitesSection: |-
+  Antes de participar deste curso, os alunos devem ter&#58; 
+  - Conhecimento base de rede, incluindo protocolos comuns de rede, topologias, hardware, mídia, roteamento, comutação e endereçamento. 
+  - Princípios e fundamentos dos Active Directory Domain Services (AD DS) da gestão de AD DS.  
+  - Instalação, configuração e resolução de problemas para computadores pessoais baseados no Windows. 
+  - Conceitos básicos de segurança de infraestrutura de chaves públicas (PKI). 
+  - Compreensão básica do script e da sintaxe do Windows PowerShell.  
+  - Compreensão básica das funções e serviços do Servidor Windows. 
+  - Compreensão básica das opções de configuração para as plataformas de dispositivos iOS, Android e Windows Mobile.   
+
+  Os alunos que participarem deste treinamento podem atender aos pré-requisitos, participando dos seguintes cursos ou obtendo conhecimentos e habilidades equivalentes por meio de atividades práticas&#58; 
+  - Curso 20411&#58; [Administração de Servidor Windows 2012](https://www.microsoft.com/learning/course.aspx?cid=20411)
+outlineSection: |-
+  ### Módulo 1&#58; Gerenciamento de computadores e dispositivos móveis na empresa
+  Este módulo descreve os recursos do Gerenciador de Configuração que você pode usar para executar tarefas complexas de gerenciamento, incluindo as seguintes tarefas; Inventário de hardware e software, gerenciamento de aplicativos, implantação de sistema operacional, gerenciamento de configurações, gerenciamento de atualizações de software, solução remota de problemas do cliente e proteção contra malware.
+
+  Microsoft System Center Configuration Manager (Configuration Manager) fornece vários recursos que podem ajudá-lo a gerenciar dispositivos e usuários tanto no local quanto em cloud. As organizações que usam o Gerenciador de Configuração descobrem que podem fornecer serviços IT mais eficazes em relação à implantação de software, gerenciamento de configurações e gerenciamento de ativos.
+
+  Este módulo apresenta as principais ferramentas de recursos, arquitetura e gerenciamento usadas com o Gerenciador de Configuração. Este módulo também fornece uma base que se relaciona com todas as outras características e tarefas de gestão discutidas nos módulos que seguem a seguir a este.
+
+  #### Aulas
+  - Visão geral da gestão de sistemas utilizando soluções de gestão empresarial
+  - Visão geral da arquitetura do Gerenciador de Configuração
+  - Visão geral das ferramentas administrativas do Gerenciador de Configuração
+  - Ferramentas para monitorar e solucionar problemas num site do Configuration Manager
+
+
+  #### Laboratório &#58; Explorar as ferramentas do Gerenciador de Configuração
+  - Pesquisar no console do Configuration Manager
+  - Usar Windows PowerShell com o Gerenciador de Configuração
+  - Usar o Gerenciador de Serviços do Gerenciador de Configuração para gerenciar componentes
+  - Monitorar o status do local e do componente
+  - Revisar arquivos de log usando a ferramenta Rastreamento do Gerenciador de Configuração
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Explicar como o Gerenciador de Configuração aborda os desafios de gerenciar sistemas e usuários na empresa atual.
+  - Descrever a arquitetura do Gerenciador de Configuração.
+  - Descrever as ferramentas de gerenciamento que você usa para executar funções administrativas para o Gerenciador de Configuração.
+  - Descrever as ferramentas que você usa para monitorar e solucionar problemas num site do Configuration Manager.
+
+
+  ### Módulo 2&#58; Análise de dados usando consultas, relatórios e CMPivot
+  O banco de dados da Microsoft System Center Configuration Manager armazena uma grande quantidade de dados sobre os recursos em seu ambiente. Você pode nem sempre querer executar todas as tarefas de gerenciamento em todos os recursos simultaneamente. Portanto, para ajudá-lo a localizar dispositivos ou objetos de usuário em seu ambiente que atendam a critérios específicos, você pode criar consultas. Em seguida, você pode usar essas consultas para criar coleções ou para encontrar informações adicionais sobre recursos específicos. Este módulo descreve consultas e métodos de criação e execução.
+
+  Além das consultas, você pode executar relatórios para visualizar vários tipos de informações relacionadas ao ambiente do Gerenciador de Configuração. Para executar relatórios do Gerenciador de Configuração, você deve instalar e configurar um ponto de serviços de emissão de relatórios, que este módulo detalha.
+
+  Este módulo também abrange CMPivot, que permite coletar e visualizar dados em tempo real em todos os dispositivos conectados em seu ambiente. Isso permitirá que você tome decisões em tempo real.
+  #### Aulas
+  - Introdução a consultas
+  - Configuração Serviços  SQL de Relatórios de Servidores
+  - Analisar o estado em tempo real de um dispositivo usando CMPivot
+
+
+  #### Laboratório &#58; Criar e Executar consultas
+  - Criação de consultas de dados
+  - Criação de consultas de subseleção 
+
+
+  #### Laboratório &#58; Configuração SSRS
+  - Configuração de um ponto de serviços de relatório
+
+
+  #### Laboratório &#58; Analisando o estado em tempo real de um dispositivo usando CMPivot
+  - Usar CMPivot para analisar o estado atual dos dispositivos
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Criar e configurar consultas de mensagens de status e dados.
+  - Configurar e gerenciar Microsoft SQL Server Reporting Services (SSRS) e o ponto de serviços de reportagem.
+  - Usar CMPivot para consultar e visualizar o estado em tempo real dos dispositivos conectados em seu ambiente.
+
+
+  ### Módulo 3&#58; Elaboração da infraestrutura de gerenciamento do Gerenciador de Configuração
+  Você pode gerenciar os recursos do computador e do usuário dentro de um ambiente da Microsoft System Center Configuration Manager (Configuration Manager) somente quando o Gerenciador de Configuração descobre esses recursos e os atribui a um site.
+
+  Neste módulo, você aprenderá sobre limites e grupos de limites que ajudam a criar locais de rede lógicos contendo dispositivos de computador que você precisa gerenciar em sua infraestrutura de Gerenciador de Configuração. Você pode usar essas configurações de limite para atribuição automática do site e para ajudar os clientes a encontrar conteúdo e serviços a partir de sistemas de sites associados. Você também aprenderá sobre os processos de descoberta que você pode usar para identificar computadores, usuários e a infraestrutura de rede dentro do seu ambiente de rede.
+
+  Em seguida, você aprenderá sobre coleções que suportam agrupamentos lógicos de recursos. Você usa esses agrupamentos para tarefas de gerenciamento, como direcionar atualizações de software, gerenciar implantações de aplicativos ou implantar configurações de conformidade em recursos.
+  #### Aulas
+  - Configuração de limites do site e grupos de limites
+  - Configuração da detecção de recursos
+  - Organizar recursos utilizando coleções de dispositivos e usuários
+
+
+  #### Laboratório &#58; Configuração de limites e detecção de recursos
+  - Configuração de limites, grupos de limites e relações de recuo
+  - Configuração de métodos de detecção do Active Directory
+
+
+  #### Laboratório &#58; Configuração de coleções de usuários e dispositivos
+  - Criar uma coleção de dispositivos
+  - Criar uma coleção de usuários
+  - Configuração de uma janela de manutenção
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Configurar limites e grupos de limites.
+  - Configurar a detecção de recursos.
+  - Organizar recursos utilizando coleções de dispositivos e usuários.
+
+
+  ### Módulo 4&#58; Implantação e gerenciamento do cliente Gerenciador de Configuração
+  Você pode instalar o software da Microsoft System Center Configuration Manager (Configuration Manager) do cliente em dispositivos baseados em servidores Windows, estações de trabalho e laptops. Em seguida, você pode gerenciar esses dispositivos e executar operações como relatórios de informações de inventário de hardware e software, Instalar e atualizar software e configurar configurações necessárias para conformidade.
+
+  O Configuration Manager oferece várias opções para instalar o software do cliente. Este módulo explica os sistemas operacionais e dispositivos operacionais suportados, os requisitos de software e diferentes métodos para instalar o software do cliente. Este módulo também descreve algumas das configurações padrão e personalizadas do cliente que você pode configurar. Depois de instalar o software do cliente, você pode configurar as configurações do cliente e controlar como os vários componentes do cliente interagem entre o dispositivo gerenciado e o ambiente Gerenciador de Configuração.
+  #### Aulas
+  - Visão geral do cliente Configuration Manager
+  - Implantação do cliente Gerenciador de Configuração
+  - Configuração e monitoramento do status do cliente
+  - Gerenciar as configurações do cliente e realizar operações de gerenciamento
+
+
+  #### Laboratório &#58; Implantar o software da Microsoft System Center Configuration Manager do cliente
+  - Preparar o site para instalação do cliente
+  - Implantar o software cliente do Gerenciador de Configuração usando a instalação de push do cliente
+
+
+  #### Laboratório &#58; Configuração e monitoramento do status do cliente
+  - Configuração e monitoramento do estado de saúde do cliente
+
+
+  #### Laboratório &#58; Gerenciamento de configurações de clientes
+  - Configuração das configurações do cliente
+  - Execução de operações de gestão
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Descrever os requisitos e considerações para a instalação do software  Gerenciador de Configuração do cliente.
+  - Implantar o software do cliente Do Gerenciador de Configuração.
+  - Gerenciar as configurações do cliente do Gerenciador de configuração.
+
+
+  ### Módulo 5&#58; Gerenciamento de estoque para PCs e aplicativos
+  Este módulo fornece uma visão geral da coleta de estoque e explica como você pode gerenciar as informações coletadas. Você também aprenderá sobre o processo de coleta de hardware e inventário de software, iniciando ciclos de inventário e iniciando e garantindo a coleta de estoque. Este módulo também abrange o uso de medição de software para monitorar o uso do programa e a configuração e gerenciamento de Inteligência patrimonial.
+  #### Aulas
+  - Visão geral da coleta de estoque
+  - Configuração do inventário de hardware e software
+  - Gerenciamento da coleta de estoque
+  - Configuração da medição de software
+  - Configuração e gerenciamento de Inteligência patrimonial
+
+
+  #### Laboratório &#58; Configuração e gerenciamento da coleta de estoque
+  - Configuração e gerenciamento de inventário de hardware
+
+
+  #### Laboratório &#58; Configuração de medição de software
+  - Configuração da medição de software
+
+
+  #### Laboratório &#58; Configuração e gerenciamento de Inteligência patrimonial
+  - Preparando o site para inteligência patrimonial
+  - Configuração de Inteligência patrimonial
+  - Monitoramento de contratos de licença usando Inteligência patrimonial
+  - Visualização de relatórios de inteligência de ativos
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Descrever a coleta de inventário.
+  - Configurar e coletar hardware e inventário de software.
+  - Gerenciar a coleta de inventário.
+  - Configurar a medição do software.
+  - Configurar a inteligência patrimonial.
+
+
+  ### Módulo 6&#58; Distribuição e gerenciamento de conteúdo usado para implantações
+  Clientes da Microsoft System Center Configuration Manager (Configuration Manager) obtêm conteúdo, como pacotes, aplicativos, atualizações de software e até imagens do sistema operacional, a partir de uma infraestrutura de conteúdo composta por pontos de distribuição e fontes de cache por pares. Neste módulo, você revisará os recursos de distribuição e gerenciamento de conteúdo, configurará pontos de distribuição e aprenderá a distribuir e monitorar conteúdo. Você também executará a validação de conteúdo e a prestação de conteúdo.
+  #### Aulas
+  - Elaboração da infraestrutura para gerenciamento de conteúdo
+  - Distribuição e gerenciamento de conteúdo em pontos de distribuição
+
+
+  #### Laboratório &#58; Distribuição e gerenciamento de conteúdo para implantações
+  - Instalação de um novo ponto de distribuição
+  - Gerenciamento de distribuição de conteúdo
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Preparar a infraestrutura para gerenciamento de conteúdo.
+  - Distribuir e gerenciar conteúdo em pontos de distribuição.
+
+  ### Módulo 7&#58; Implantação e gerenciamento de aplicativos
+  Neste módulo, você aprenderá sobre os métodos de criação, implantação e gerenciamento de aplicativos com o Gerenciador de Configuração. Você também aprenderá a usar o Centro de Software e o Catálogo de Aplicativos para instalar aplicativos disponíveis. Você aprenderá sobre o gerenciamento de implantações em aplicativos não convencionais. Além disso, você aprenderá a instalar aplicativos do Windows 10 e aplicativos virtualizados.
+  #### Aulas
+  - Visão geral do gerenciamento de aplicativos
+  - Criação de aplicativos
+  - Implantação de aplicativos
+  - Gerenciamento de aplicativos
+  - Implantação de aplicativos virtuais usando o Gerenciador de Configuração do Centro do Sistema (Opcional)
+  - Implantação e gestão de Aplicativos do Windows Store
+
+
+  #### Laboratório &#58; Criação e implantação de aplicativos
+  - Criação de aplicativos com requisitos
+  - Implantação de aplicativos
+
+
+  #### Laboratório &#58; Gerenciamento da superação de aplicativos e remoção
+  - Gerenciamento da superação de aplicativos
+  - Desinstalar o Aplicativo  visualizador de Excel 
+
+
+  #### Laboratório &#58; Implantação de aplicativos virtuais usando o Gerenciador de Configuração (Opcional)
+  - Implantação de aplicativos virtuais
+
+
+  #### Laboratório &#58; Usando o Gerenciador de Configuração para implantar aplicativos do Windows Store
+  - Configuração de suporte para sideloading de aplicativos do Windows Store 
+  - Configuração de um aplicativo do Windows Store
+  - Implantação de aplicativos de Windows 10 para usuários
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Descrever os recursos de gerenciamento de aplicativos de Configuration Manager.
+  - Criar aplicativos.
+  - Implantar aplicativos.
+  - Gerenciar aplicações.
+  - Configurar e implantar aplicativos virtuais.
+  - Configurar e implantar aplicativos do Windows Store.
+
+
+  ### Módulo 8&#58; Manutenção de atualizações de software para  PCs gerenciados 
+  Este módulo explica como usar o recurso de atualizações de software em Configuration Manager para implementar um processo de gestão de ponta a ponta para a complexa tarefa de identificar, implantar e monitorar Microsoft e atualizações de software de terceiros para seus Clientes da Configuration Manager.
+  #### Aulas
+  - O processo de atualizações de software
+  - Preparando um site Configuration Manager para atualizações de software
+  - Gerenciamento de atualizações de software
+  - Configuração de regras de implantação automática
+  - Monitoramento e resolução de problemas de atualizações de software
+  - Habilitação de atualizações de terceiros
+
+
+  #### Laboratório &#58; Configuração do site para atualizações de software
+  - Configuração e sincronização do ponto de atualização de software
+
+
+  #### Laboratório &#58; Implantação e gerenciamento de atualizações de software
+  - Determinar a conformidade com a atualização de software
+  - Implantação de atualizações de software para clientes
+  - Configuração de regras de implantação automática
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Descrever como o recurso de atualizações de software se integra com Configuration Manager.
+  - Preparar o site Configuration Manager para atualizações de software.
+  - Gerenciar atualizações de software usando Configuration Manager.
+  - Configurar regras de implantação automáticas.
+  - Monitorar e solucionar atualizações de software.
+  - Descrever como ativar atualizações de terceiros.
+
+
+  ### Módulo 9&#58; Implementação de Endpoint Protection para PCs gerenciados
+  Este módulo explica como usar os recursos relacionados à segurança fornecidos pelo Configuration Manager para ajudar a proteger os computadores clientes contra ameaças de malware e definir configurações específicas do Firewall do Windows Defender para clientes. Com base na funcionalidade do System Center Endpoint Protection (Endpoint Protection), o Endpoint Protection no Configuration Manager oferece suporte à implantação, gerenciamento e monitoramento de políticas antimalware, configurações do Firewall do Windows Defender, políticas do Windows Defender Application Guard, políticas do Windows Defender Exploit Guard e Windows Defender Application Políticas de controle em computadores clientes.
+  #### Aulas
+  - Visão geral de  Endpoint Protection em Configuration Manager 
+  - Configuração, implantação e monitoramento de políticas da Endpoint Protection
+  - Configuração e implantação de políticas avançadas de ameaça
+
+
+  #### Laboratório &#58; Implementação da Endpoint Protection no Centro de Sistemas da Microsoft
+  - Configuração do Endpoint Protection no Centro de Sistemas e configurações do cliente
+  - Configuração e implantação de Políticas do Endpoint Protection
+  - Monitoramento Endpoint Protection
+
+
+  #### Laboratório &#58; Implementando políticas avançadas de ameaças
+  - Criação e implantação de políticas avançadas de proteção contra ameaças
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Configurar Endpoint Protection para detectar e remediar malware e vulnerabilidades de segurança.
+  - Configurar, implantar e gerenciar Políticas da Endpoint Protection.
+  - Configurar e implantar políticas avançadas de proteção contra ameaças.
+
+
+  ### Módulo 10&#58; Gerenciamento de conformidade e acesso seguro a dados
+  Muitas organizações corporativas exigem sistemas, como servidores, laptops, computadores desktop e dispositivos móveis, para atender a requisitos específicos de configuração e conformidade. As configurações de conformidade no Gerenciador de Configuração podem desempenhar um papel fundamental na identificação de configurações existentes, na descoberta de sistemas que têm alterações de configuração adversas e na correção dessas configurações automaticamente quando necessário.
+
+  As configurações de conformidade também podem ajudar a controlar como os usuários gerenciam e acessam dados no ambiente de rede corporativa. Para computadores que são executados em Windows 8 e sistemas operacionais mais recentes, você pode gerenciar dados usando redirecionamento de pastas, arquivos offline e perfis de roaming. Você também pode controlar o acesso a dados usando perfis de conexão remota, perfis em rede virtual privada (VPN), perfis Wi-Fi e perfis de certificados.
+
+  Este módulo descreve as configurações de conformidade que você pode gerenciar usando Configuration Manager. Você aprenderá a usar essas configurações para manter os requisitos de configuração e fornecer acesso seguro a dados aos recursos corporativos.
+  #### Aulas
+  - Visão geral das configurações de conformidade
+  - Configuração de configurações de conformidade
+  - Visualização dos resultados de conformidade
+  - Gerenciamento de acesso a recursos e dados
+
+
+  #### Laboratório &#58; Gerenciamento de configurações de conformidade
+  - Gerenciamento de itens de configuração e linhas de base
+  - Visualização de configurações e relatórios de conformidade
+  - Configuração da remediação nas configurações de conformidade
+  - Usar informações de conformidade para criar coleções
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Descrever as características das configurações de conformidade.
+  - Configurar as configurações de conformidade.
+  - Ver os resultados de conformidade.
+  - Gerenciar o acesso a recursos e dados.
+
+
+  ### Módulo 11&#58; Gerenciamento da implantação do sistema operacional
+  Este módulo explica como usar o recurso de implantação do sistema operacional em Configuration Manager para criar imagens do sistema operacional que você pode implantar em computadores não gerenciados e aqueles gerenciados por Configuration Manager. Existem vários cenários em que você pode implantar sistemas operacionais usando Configuration Manager, inclusive quando você está trabalhando com novos sistemas ou quando você está atualizando os existentes. A implantação do sistema operacional usa ambos componentes da Configuration Manager e do Windows para gerenciar e fornecer imagens do sistema operacional. Você pode fazer configurações num computador de referência antes de capturar uma imagem de seu sistema operacional ou usando sequências de tarefas que Configuration Manager cria depois de implantar a imagem num sistema de destino.
+
+  Este módulo também explica como usar Configuration Manager para criar uma estratégia para implantações de sistema operacional. E também, ele explica como gerenciar Windows como um serviço.
+
+
+  Este módulo explica como gerenciar Windows como um serviço.
+  #### Aulas
+  - Uma visão geral da implantação do sistema operacional
+  - Preparação de um local para implantação do sistema operacional
+  - Implantação de um sistema operacional
+  - Gerir o Windows como um serviço
+
+
+  #### Laboratório &#58; Preparação do site para implantação do sistema operacional
+  - Gerenciamento das funções do sistema de site usadas para suportar a implantação do sistema operacional
+  - Gerenciamento de pacotes para suportar a implantação do sistema operacional
+
+
+  #### Laboratório &#58; Implantação de imagens de sistema operacional para instalações de metal
+  - Preparando a imagem do sistema operacional
+  - Criar uma sequência de tarefas para implantar uma imagem
+  - Implantando uma imagem
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Descrever a terminologia, os componentes e os cenários utilizados para implantar sistemas operacionais usando o Gerenciador de Configuração.
+  - Preparar um local para implantação do sistema operacional.
+  - Implantar uma imagem do sistema operacional.
+  - Descrever como gerenciar Windows como um serviço.
+
+
+  ### Módulo 12&#58; Gerenciamento e manutenção de um site Configuration Manager
+  Este módulo descreve a administração baseada em funções, ferramentas remotas e as tarefas de manutenção do site que você pode gerenciar usando Configuration Manager. Este módulo também descreve como fazer backup e recuperar um sistema de site do Gerenciador de Configuração e usar as recomendações do Management Insights para simplificar a administração.
+  #### Aulas
+  - Configuração da administração baseada em funções
+  - Configuração de Ferramentas Remotas
+  -  Visão geral da manutenção do site do Configuration Manager e Management Insights
+  - Fazer backup e recuperar um site do Configuration Manager
+  - Atualização da infraestrutura do Gerenciador de Configuração
+
+
+  #### Laboratório &#58; Configuração de administração baseada em funções
+  - Configuração de um novo escopo para administradores de Toronto
+  - Configuração de um novo usuário administrativo
+
+
+  #### Laboratório &#58; Configuração de ferramentas remotas
+  - Configuração das configurações e permissões do cliente de ferramentas remotas
+  - Gerenciamento de desktops usando controle remoto
+
+
+  #### Laboratório &#58; Manter um site do Configuration Manager
+  - Configurar tarefas de manutenção no Configuration Manager
+  - Configurar a tarefa do servidor do site de backup
+  - Recuperar um site de um backup
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58;
+  - Configurar a administração baseada em funções.
+  - Configurar ferramentas remotas para suportar a atividade do cliente.
+  - Identificar tarefas de manutenção do site do gerenciador de configuração.
+  - Fazer backup e recuperar um site do Configuration Manager.
+  - Usar Atualizações e Manutenção para instalar atualizações na infraestrutura do Gerenciador de Configuração.

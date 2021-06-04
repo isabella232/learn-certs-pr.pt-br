@@ -7,7 +7,7 @@ uid: exam.az-303
 displayName: AZ-303
 summary: |-
   <div>
-  <div><strong>O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que vai mudar.</strong><br/><br/></div>
+  <div><font color='red'><strong>O conteúdo do exame será atualizado em 25 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.</strong></font><br/><br/></div>
   </div>
   
   Os candidatos a este exame devem ter experiência no design e implementação de soluções executadas no Microsoft Azure, incluindo aspectos como computação, rede, armazenamento e segurança. Os candidatos devem ter competências de nível intermediário para gerenciar o Azure. Os candidatos devem entender o desenvolvimento do Azure e os processos DevOps.
@@ -30,7 +30,7 @@ locales:
 levels:
 - advanced
 skills:
-- O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
+- O conteúdo do exame será atualizado em 25 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
 - Implementar e monitorar uma infraestrutura do Azure (50-55%)
 - Implementar soluções de gerenciamento e segurança (25-30%)
 - Implementar soluções para aplicativos (10-15%)
@@ -63,10 +63,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyF
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

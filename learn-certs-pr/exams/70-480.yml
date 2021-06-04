@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-480
 displayName: 70-480
 summary: |+
-  <div>
-  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este exame foi reformado em 31 de janeiro de 2021. Para obter as opções disponíveis atualmente, consulte a página <a href='/learn/certifications/browse/?resource_type=examination'> Navegue pela página de Certificações e Exames</a>.<br/><br/></strong></font></div>
 
   Os candidatos para este exame são desenvolvedores com pelo menos um ano de experiência desenvolvendo com HTML em um modelo de programação gerido por eventos e baseado em objetos e programação de lógica essencial de negócios para diversos tipos de plataformas de aplicativos, hardware e software usando JavaScript.
 
@@ -27,7 +25,6 @@ subTitle: Os candidatos para este exame são desenvolvedores com pelo menos um a
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnKv
 practiceTestUrl: https://www.mindhub.com/Programming-in-HTML5-with-JavaScript-and-CSS3-p/mu-70-480_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=480&examname=Programming%20in%20HTML5%20with%20JavaScript%20and%20CSS3&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-480
 locales:
 - en
 - zh-cn
@@ -43,6 +40,7 @@ skills:
 - Implementar fluxo de programa (25-30%)
 - Acessar e proteger dados (25-30%)
 - Usar CSS3 em aplicativos (25-30%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

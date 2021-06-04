@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-487
 displayName: 70-487
 summary: |+
-  <div>
-  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este exame foi reformado em 31 de janeiro de 2021. Para obter as opções disponíveis atualmente, consulte a página <a href='/learn/certifications/browse/?resource_type=examination'> Navegue pela página de Certificações e Exames</a>.<br/><br/></strong></font></div>
 
   Os candidatos para esta certificação são desenvolvedores profissionais que usam o Visual Studio 2017 e o Microsoft® .NET Core Framework para projetar e desenvolver soluções da Web. Os candidatos devem ter no mínimo de três a cinco anos de experiência em desenvolvimento de soluções com base no ASP.NET MVC. Além disso, os candidatos devem ser capazes de demonstrar o seguinte&#58;
   - Experiência em projetar e desenvolver aplicativos da Web que acessem vários dados e serviços (locais e remotos), incluindo o Windows Azure
@@ -20,7 +18,6 @@ subTitle: 'Os candidatos para esta certificação são desenvolvedores profissio
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMe
 practiceTestUrl: https://www.mindhub.com/70-487-developing-microsoft-azure-and-web-services/p/MU-70-487?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=487&examname=Developing%20Microsoft%20Azure%20and%20Web%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-487
 locales:
 - en
 - zh-cn
@@ -36,6 +33,7 @@ skills:
 - Criar e consumir serviços Web com base API (20-25%)
 - Projetando e implementando serviços da Web (15-20%)
 - Implementando aplicativos Web e serviços (15-20%)
+retirementDate: 01/31/2021
 roles:
 - developer
 products:

@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-417
 displayName: 70-417
 summary: |+
-  <div>
-  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este exame foi reformado em 31 de janeiro de 2021. Para obter as opções disponíveis atualmente, consulte a página <a href='/learn/certifications/browse/?resource_type=examination'> Navegue pela página de Certificações e Exames</a>.<br/><br/></strong></font></div>
 
   Esse exame se destina a profissionais de TI que querem validar as habilidades e o conhecimento necessários para implementar os serviços básicos de infraestrutura do Windows Server 2012. Candidatos que já obtiveram uma certificação de qualificação do Windows Server 2008, Windows Server 2003, Windows Server 2000 ou Windows XP&#58;
   - MCSA&#58; Windows Server 2008
@@ -38,7 +36,6 @@ subTitle: 'Esse exame se destina a profissionais de TI que querem validar as hab
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixY
 practiceTestUrl: https://www.mindhub.com/70-417-Upgrading-Your-Skills-to-MCSA-Windows-Srvr-p/mu-70-417_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=417&examname=Upgrading%20Your%20Skills%20to%20MCSA%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-417
 locales:
 - en
 - zh-cn
@@ -63,6 +60,7 @@ skills:
 - Implementar Continuidade de Negócio e Recuperação de Desastre
 - Configurar serviços de rede
 - Configurar Soluções de Proteção de Acesso e Informações
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

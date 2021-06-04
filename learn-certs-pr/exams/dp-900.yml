@@ -6,9 +6,7 @@ metadata:
 uid: exam.dp-900
 displayName: DP-900
 summary: |-
-  <div>
-  <div><strong>O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Por favor, baixe o documento de habilidades avaliadas abaixo para ver o que será alterado. </strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>O conteúdo deste exame foi atualizado em 23 de abril de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que mudou.</strong></font><br/><br/></div>
 
   Os candidatos a este exame devem ter conhecimento básico nos principais conceitos de dados e como são implementados por meio dos serviços de dados do Microsoft Azure.
 
@@ -20,7 +18,7 @@ summary: |-
 subTitle: 'Prove que você pode descrever o seguinte: conceitos básicos de dados, como trabalhar com dados relacionais e dados não relacionais no Azure e cargas de trabalho de análise no Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
-practiceTestUrl: https://in.mindhub.com/dp-900-microsoft-azure-data-fundamentals-microsoft-official-practice-test/p/MU-DP-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/dp-900-microsoft-azure-data-fundamentals-microsoft-official-practice-test/p/MU-DP-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
@@ -39,7 +37,7 @@ locales:
 levels:
 - beginner
 skills:
-- O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Por favor, baixe o resumo de habilidades do exame apresentado abaixo para ver o que será alterado.
+- O conteúdo deste exame foi atualizado em 23 de abril de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que mudou.
 - Descrever os principais conceitos de dados (15-20%)
 - Descrever como trabalhar com dados relacionais no Azure (25-30%)
 - Descrever como trabalhar com dados não relacionais no Azure (25-30%)
@@ -65,10 +63,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md
