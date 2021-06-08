@@ -6,7 +6,7 @@ metadata:
 uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Se você é um profissional de negócios com profunda experiência em seu domínio de soluções e quer aproveitar sua paixão por construir soluções da Microsoft Power Platform para simplificar, automatizar e transformar tarefas e processos para sua equipe, essa certificação foi projetada para você. Você deve ter as habilidades para realizar tarefas importantes de analista técnico de negócios, como modelagem de dados, design básico de UX, análise de requisitos e análise de processos.
+  Se você é um profissional de negócios com muita experiência no seu domínio de soluções e quer usar sua paixão por construir soluções da Microsoft Power Platform para simplificar, automatizar e transformar tarefas e processos para sua equipe, essa certificação foi projetada para você. Você deve ter as habilidades para realizar tarefas importantes de analista técnico de negócios, como modelagem de dados, design básico de UX, análise de requisitos e análise de processos.
   
   Você se encaixa no perfil para a função de app maker se você é auto direcionado e focado em soluções, e você trabalha com as maker tools da Microsoft Power Platform para resolver problemas de negócios. Você pode ter experiência com Visual Basic for Applications, Excel PivotTables, Teams, e outras ferramentas. Embora você possa não ter treinamento formal de TI, você se sente confortável trabalhando com administradores de TI e desenvolvedores da Microsoft Power Platform usando tecnologia para resolver problemas de negócios. Você é responsável por&#58;
   - Projetar e criar aplicativos e automatizar fluxos de trabalho.
@@ -90,7 +90,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certificação Caminho de Aprendizagem
   description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF

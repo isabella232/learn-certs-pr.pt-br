@@ -7,16 +7,16 @@ uid: exam.az-500
 displayName: AZ-500
 summary: |-
   <div>
-  <div><strong>O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Por favor, baixe o documento de habilidades avaliadas abaixo para ver o que será alterado. </strong><br/><br/></div>
+  <div><font color='red'><strong>O conteúdo deste exame será atualizado em 2 de junho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que vai mudar.</strong></font><br/><br/></div>
   </div>
 
-  Os candidatos a este exame devem ser especialistas na implementação de controles de segurança e proteção contra ameaças, gerenciamento de identidade e acesso e proteção de dados, aplicativos e redes em ambientes híbridos e em nuvem como parte de uma infraestrutura ponta a ponta.
+  Candidatos a este exame devem ter conhecimento de assunto implementando controles de segurança e proteção contra ameaças, gerenciando identidade e acesso e protegendo dados, aplicativos e redes. 
 
   As responsabilidades de um Azure Security Engineer incluem a manutenção de uma postura de segurança, identificar e corrigir vulnerabilidades por meio de diversas ferramentas de segurança, implementar a proteção contra ameaças e responder a incidentes de segurança.
 
-  Os Azure Security Engineers normalmente fazem parte de uma equipe maior dedicada ao gerenciamento e segurança baseados em nuvem ou ambientes híbridos que integram uma infraestrutura ponta a ponta.
+  Os Engenheiros de Segurança do Azure geralmente servem como parte de uma equipe maior dedicada à gestão e segurança baseadas em cloud e também podem proteger ambientes híbridos como parte de uma infraestrutura de ponta a ponta. 
 
-  O candidato a este exame deve estar familiarizado com scripts e automação e possuir um profundo entendimento de rede e virtualização. O candidato também deve ter excelentes conhecimentos dos recursos da nuvem, produtos e serviços do Azure e outros produtos e serviços da Microsoft.
+  Um candidato a este exame deve estar familiarizado com roteirização e automação, e deve ter uma compreensão profunda da rede e virtualização. Um candidato também deve ter uma forte familiaridade com recursos de cloud, produtos e serviços do Azure e outros produtos e serviços da Microsoft.
 subTitle: 'Este exame avalia a sua capacidade de realizar as seguintes tarefas técnicas: gerenciar a identidade e acesso, implementar a proteção da plataforma, gerenciar operações de segurança e proteger dados e aplicativos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
@@ -34,7 +34,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 27 de janeiro de 2021. Por favor, baixe o resumo de habilidades do exame apresentado abaixo para ver o que será alterado.
+- O conteúdo deste exame será atualizado em 2 de junho de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
 - Gerenciar a identidade e acesso (30-35%)
 - Implementar proteção da plataforma (15-20%)
 - Gerenciar operações de segurança (25-30%)
@@ -66,10 +66,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-349
 displayName: 98-349
 summary: |-
+  <div><font color='red'><strong>Este exame de MTA deve ser adquirido até 30 de junho de 2021. Se você está atualmente estudando para este exame, este deve ser feito dentro de um ano, até 30 de junho de 2022, momento em que será reformado. Consulte <a href="/learn/certifications/mta-retirement-faqs">a FAQ</a> para mais detalhes.</strong></font></br></br></div>
+
   Os candidatos para este exame devem ter conhecimento dos conceitos fundamentais do sistema operacional Windows em um ambiente do Windows 10.
 
   <div style='font-weight&#58; bold;'><br/>Desde o dia 31 de agosto de 2016, este exame inclui atualizações para o Windows 10, incluindo a remoção de quaisquer ferramentas que não são suportadas pelo Windows 10. Para saber mais sobre essas alterações e como elas afetam as habilidades medidas, baixe e leia o documento de alteração do exame 98-349.</div>
@@ -37,12 +39,11 @@ skills:
 - Gerenciamento de arquivos e pastas (15-20%)
 - Gerenciamento de dispositivos (15-20%)
 - Compreendendo a manutenção do sistema operacional (15-20%)
+retirementDate: 06/30/2022
 roles:
 - administrator
 products:
 - windows
-courses:
-- uid: course.40349
 relatedCertifications:
 - related:
     uid: certification.mta-windows-operating-system-fundamentals

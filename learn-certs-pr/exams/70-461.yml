@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-461
 displayName: 70-461
 summary: |-
-  <div>
-  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este exame foi reformado em 31 de janeiro de 2021. Para obter as opções disponíveis atualmente, consulte a página <a href='/learn/certifications/browse/?resource_type=examination'> Navegue pela página de Certificações e Exames</a>.<br/><br/></strong></font></div>
 
   Este exame é destinado a administradores de banco de dados do SQL Server, engenheiros de sistemas e desenvolvedores com dois anos de experiência ou mais, que estão buscando validar suas habilidades e conhecimentos em escrever consultas.
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: Este exame é destinado a administradores de banco de dados do SQL Server, engenheiros de sistemas e desenvolvedores com dois anos de experiência ou mais, que estão buscando validar suas habilidades e conhecimentos em escrever consultas.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t54W
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
 locales:
 - en
 - zh-cn
@@ -31,6 +28,7 @@ skills:
 - Trabalhar com dados (25-30%)
 - Modificar dados (20-25%)
 - Diagnóstico de problemas e otimização (25-30%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

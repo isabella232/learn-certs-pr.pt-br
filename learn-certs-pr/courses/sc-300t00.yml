@@ -1,0 +1,166 @@
+### YamlMime:Course
+title: Microsoft Identity and Access Administrator
+metadata:
+  title: 'Course SC-300T00-A: Microsoft Identity and Access Administrator'
+  description: 'Course SC-300T00-A: Microsoft Identity and Access Administrator'
+uid: course.sc-300t00
+courseNumber: 'SC-300T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Implementar uma solução de gerenciamento de identidade
+- skill: Implementar uma autenticação e soluções de gerenciamento de acesso
+- skill: Implementar o gerenciamento de acesso para aplicativos
+- skill: Planejar e implementar uma estratégia de governança de identidade
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+- identity-access-admin
+- security-engineer
+products:
+- azure
+- azure-active-directory
+- azure-log-analytics
+- azure-sentinel
+exams:
+- uid: exam.sc-300
+summary: |-
+  Este curso oferece ao Profissional de Identidade e Acesso de IT, juntamente com o IT Security Professional, os conhecimentos e habilidades necessários para implementar soluções de gerenciamento de identidade baseadas no Microsoft Azure AD, e tecnologias de identidade conectadas. Este curso inclui conteúdo de identidade para Azure AD, registro de aplicativos corporativos, acesso condicional, governança de identidade e outras ferramentas de identidade.
+
+  #### Perfil da audiência
+  Este curso é para os Administradores de Identidade e Acesso que planejam fazer o exame de certificação associado, ou que estão realizando tarefas de identidade e administração de acesso em seu trabalho diário. Este curso também seria útil para um administrador ou engenheiro que quer se especializar no fornecimento de soluções de identidade e sistemas de gerenciamento de acesso para soluções baseadas no Azure; desempenhando um papel fundamental na proteção de uma organização.
+prerequisitesSection: |-
+  Os alunos bem-sucedidos terão conhecimento prévio e compreensão de&#58;
+  - Práticas recomendadas de segurança e requisitos de segurança do setor, como defesa em profundidade, acesso menos privilegiado, responsabilidade compartilhada e modelo de confiança zero. 
+  - Esteja familiarizado com conceitos de identidade, como autenticação, autorização e diretório ativo. 
+  - Ter alguma experiência implantando cargas de trabalho do Azure. Este curso não abrange o básico da administração do Azure, em vez disso, o conteúdo do curso se baseia nesse conhecimento adicionando informações específicas de segurança. 
+  - Alguma experiência com sistemas operacionais Windows e Linux e linguagens de script é útil, mas não necessária. Os laboratórios de curso podem usar o PowerShell e o CLI.  
+
+  <div><strong>Cursos de pré-requisitos (ou conhecimento equivalente e experiência prática)&#58;</strong></div>
+
+  Este treinamento online gratuito lhe dará a experiência necessária para ter sucesso neste curso. 
+  - [SC-900 parte 1&#58; Descrever os conceitos de segurança, conformidade e identidade - Learn | Microsoft Docs](/learn/paths/describe-concepts-of-security-compliance-identity/) 
+  - [SC-900 parte 2&#58; Descrever recursos de Microsoft Identity e acessar soluções de gerenciamento - Learn | Microsoft Docs](/learn/paths/describe-capabiliti-of-microsoft-identity-access/) 
+  - [SC-900 parte 3&#58; Descrever os recursos das soluções da Microsoft Security - Learn | Microsoft Docs](/learn/paths/describe-capabiliti-of-microsoft-security-solutions/) 
+  - [SC-900 part 4&#58; Descrever os recursos das soluções de conformidade da Microsoft - Learn | Microsoft Docs](/learn/paths/describe-capabiliti-of-microsoft-compliance-solutions/) 
+  - [AZ-104&#58; Gerenciar identidades e governança no Azure - Learn | Microsoft Docs](/learn/paths/az-104-manage-identiti-governance/)
+outlineSection: |-
+  ### Módulo 1&#58; Implementar uma solução de gerenciamento de identidade
+  Aprenda a criar e gerenciar sua implementação inicial do Azure Active Directory (Azure AD) e a configurar os usuários, grupos e identidades externas que você usará para executar sua solução.
+  #### Aulas
+  - Implementar a configuração inicial do Azure AD
+  - Criar, configurar e gerenciar identidades
+  - Implementar e gerenciar identidades externas
+  - Implementar e gerenciar identidade híbrida
+
+  #### Laboratório &#58; Gerenciar funções de usuário
+  
+  #### Laboratório &#58; Definir propriedades para todo o inquilino
+  
+  #### Laboratório &#58; Atribuir licenças aos usuários
+  
+  #### Laboratório &#58; Restaurar ou remover usuários excluídos
+  
+  #### Laboratório &#58; Adicionar grupos no Azure AD
+  
+  #### Laboratório &#58; Alterar atribuições de licença de grupo
+  
+  #### Laboratório &#58; Alterar atribuições de licença de usuário
+  
+  #### Laboratório &#58; Configurar a colaboração externa
+  
+  #### Laboratório &#58; Adicionar usuários convidados ao diretório
+  
+  #### Laboratório &#58; Explorar grupos dinâmicos
+  
+  Depois de concluir este Módulo, os alunos serão capazes de&#58;
+  - Implantar um initail Azure AD com configurações personalizadas
+  - Gerenciar identidades internas e externas
+  - Implementar uma solução de identidade híbrida
+  
+  
+  ### Módulo 2&#58; Implementar uma solução de autenticação e gerenciamento de acesso
+  Implemente e administre seu gerenciamento de acesso usando o Azure AD. Use MFA, acesso condicional e proteção de identidade para gerenciar sua solução de identidade.
+  #### Aulas
+  - Proteger o usuário do Azure AD com MFA
+  - Gerenciar autenticação de usuário
+  - Planejar, implementar e administrar o acesso condicional
+  - Gerenciar a proteção de identidade do Azure AD
+  
+  #### Laboratório &#58; Habilitar Azure AD MFA
+  
+  #### Laboratório &#58; Configurar e implantar a redefinição de senha de autoatendimento (SSPR)
+  
+  #### Laboratório &#58; Trabalhar com padrões de segurança
+  
+  #### Laboratório &#58; Implementar políticas, funções e atribuições de acesso condicional
+  
+  #### Laboratório &#58; Configurar controles de sessão de autenticação
+  
+  #### Laboratório &#58; Gerenciar valores de bloqueio inteligente do Azure AD
+  
+  #### Laboratório &#58; Ativar política de risco de login
+  
+  #### Laboratório &#58; Configurar a política de registro de autenticação do Azure AD MFA
+  
+  Depois de concluir este Módulo, os alunos serão capazes de &#58;
+  - Configurar e gerenciar a autenticação do usuário, incluindo MFA
+  - Controlar o acesso a recursos usando acesso condicional
+  - Usar a Proteção de Identidade do Azure AD para proteger sua organização
+  
+  
+  ### Módulo 3&#58; Implementar gerenciamento de acesso para aplicativos
+  Explore como os aplicativos podem e devem ser adicionados à sua solução de identidade e acesso com o registro do aplicativo no Azure AD.
+  #### Aulas
+  - Planejar e projetar a integração da empresa para SSO
+  - Implementar e monitorar a integração de aplicativos corporativos para SSO
+  - Implementar o registro do aplicativo
+  
+  #### Laboratório &#58; Implementar gerenciamento de acesso para aplicativos
+  
+  #### Laboratório &#58; Criar uma função personalizada para o registro do aplicativo de gerenciamento
+  
+  #### Laboratório &#58; Registrar um aplicativo
+  
+  #### Laboratório &#58; Conceder consentimento de administrador para todo o locatário para um aplicativo
+  
+  #### Laboratório &#58; Adicionar funções de aplicativo a aplicativos e receber tokens
+  
+  Depois de concluir este Módulo, os alunos serão capazes de&#58;
+  - Registrar um novo aplicativo em seu Azure AD
+  - Planejar e implementar SSO para aplicativos corporativos
+  - Monitorar e manter aplicativos corporativos
+  
+  
+  ### Módulo 4&#58; Planejar e implementar uma estratégia de governança de identidade
+  Projete e implemente a governança de identidade para sua solução de identidade usando direitos, revisões de acesso, acesso privilegiado e monitoramento de seu Azure Active Directory (Azure AD).
+  #### Aulas
+  - Planejar e implementar o gerenciamento de direitos
+  - Planejar, implementar e gerenciar análises de acesso
+  - Planejar e implementar acesso privilegiado
+  - Monitorar e manter o Azure AD
+  
+  #### Laboratório &#58; Criar e gerenciar um catálogo de recursos com direito ao Azure AD
+  
+  #### Laboratório &#58; Adicionar relatório de aceitação dos termos de uso
+  
+  #### Laboratório &#58; Gerenciar o ciclo de vida de usuários externos com governança de identidade do Azure AD
+  
+  #### Laboratório &#58; Criar avaliações de acesso para grupos e aplicativos
+  
+  #### Laboratório &#58; Configurar o PIM para funções do Azure AD
+  
+  #### Laboratório &#58; Atribuir função do Azure AD no PIM
+  
+  #### Laboratório &#58; Atribuir funções de recurso do Azure no PIM
+  
+  #### Laboratório &#58; Conectar dados do Azure AD ao Azure Sentinel
+  
+  Depois de concluir este Módulo, os alunos serão capazes de &#58;
+  - Gerenciar e manter o Azure AD desde a criação até a solução
+  - Usar revisões de acesso para manter seu Azure AD
+  - Conceder acesso a usuários com gerenciamento de direitos

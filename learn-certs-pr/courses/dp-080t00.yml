@@ -1,0 +1,110 @@
+### YamlMime:Course
+title: Querying Data with Microsoft Transact-SQL
+metadata:
+  title: 'Course DP-080T00--A: Querying Data with Microsoft Transact-SQL'
+  description: 'Course DP-080T00--A: Querying Data with Microsoft Transact-SQL'
+uid: course.dp-080T00
+courseNumber: 'DP-080T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Usar ferramentas de consulta do SQL Server
+- skill: Escrever instruções SELECT para recuperar colunas de uma ou mais tabelas
+- skill: Classificar e filtrar dados selecionados
+- skill: Usar funções incorporadas para valores de dados devolvidos
+- skill: Criar grupos de dados e agregar os resultados
+- skill: Modificar dados com Transact-SQL usando INSERT, UPDATE, DELETE e MERGE
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- database-administrator
+products:
+- azure
+summary: |-
+  Este curso ensinará o básico do dialeto da Microsoft da linguagem padrão SQL: Transact-SQL. Os tópicos incluem tanto a consulta quanto a modificação de dados em bancos de dados relacionáveis que estão hospedados em sistemas de banco de dados baseados no Microsoft SQL Server, incluindo&#58; Microsoft SQL Server, Azure SQL Database e, Azure Synapse Analytics. 
+
+  #### Perfil de Audiência
+  Este curso pode ser valioso para quem precisa escrever queries básicas de SQL ou Transact-SQL. Isso inclui qualquer pessoa que trabalhe com dados como analista de dados, um engenheiro de dados, um cientista de dados, um administrador de banco de dados ou um desenvolvedor de banco de dados. Também pode ser útil para outros perifericamente envolvidos com dados, ou querer aprender mais sobre como trabalhar com dados como arquitetos de soluções, estudantes e gerentes de tecnologia.
+outlineSection: |-
+  ### Módulo 1&#58; Introdução ao Transact-SQL 
+  Neste módulo você aprenderá sobre o básico da linguagem Transact-SQL (T-SQL), bem como propriedades gerais e terminologia de bancos de dados relacionáveis. Este módulo também introduzirá a instrução SELECT básica para recuperar dados de uma tabela. 
+  #### Aulas 
+  - Introdução ao Transact-SQL 
+  - Usar a declaração SELECT 
+
+  #### Laboratório &#58; Comece com ferramentas de consulta 
+  do SQL Server e escrevendo queries em T-SQL 
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58; 
+  - Utilizar uma ferramenta de consulta para escrever e executar queries no Transact-SQL 
+  - Entender os conceitos básicos do banco de dados relacional e da linguagem T-SQL 
+  - Escrever declarações SELECT para recuperar dados de uma tabela de banco de dados relacional 
+  - Entender os tipos de dados básicos e como eles são usados 
+  - Entender o básico dos valores NULL 
+
+
+  ### Módulo 2&#58; Resultados de Classificação e Filtragem de Consulta No módulo você aprenderá a controlar quais dados são devolvidos, a ordem em que são devolvidos. Você usará a cláusula ORDER BY, com e sem paginação. Você aprenderá sobre vários tipos de filtros que podem ser usados na cláusula WHERE para controlar quais linhas de dados são devolvidas. Você também aprenderá como gerenciar os resultados removendo duplicatas com DISTINCT. 
+  #### Aulas 
+  - Classificação de resultados de consulta 
+  - Filtrar os dados 
+
+  #### Laboratório &#58; Classificar e filtrar dados retornados por queries SELECT
+  Após concluir este módulo, os alunos serão capazes de&#58; 
+  - Usar ORDER BY para classificar os resultados de uma instrução T-SQL SELECT 
+  - Adicionar uma cláusula TOP para limitar as linhas ordenadas devolvidas - Paginar os dados classificados com OFFSET-FET 
+  - Escrever cláusulas WHERE para filtrar as linhas devolvidas 
+  - Usar DISTINCT para eliminar linhas duplicadas nos resultados 
+
+  ### Módulo 3&#58; Uso de Joins and Subqueries
+  Neste módulo, você explorará queries T-SQL que acessam dados de várias tabelas com vários tipos de operações JOIN e subqueries simples. 
+
+  #### Aulas 
+  - Usar operações JOIN 
+  - Usar subqueries
+
+  #### Laboratório &#58; Escrever queries com operações JOIN
+
+  #### Laboratório &#58; Escrever instruções SELECT usando subqueries
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58; 
+  - Escrever queries acessando dados de várias tabelas usando 
+  operações JOIN 
+  - Entender as diferenças entre o tipo de operações JOIN&#58;  INNER JOIN, OUTER JOIN, CROSS JOIN 
+  - Entender como juntar uma tabela a si mesma com uma auto-adesão 
+  - Escrever subqueries dentro de uma instrução SELECT 
+  - Entender a diferença entre subqueries escalares e multivalorizadas 
+  - Entender a diferença entre subqueries correlacionadas e auto-contidas 
+
+
+  ### Módulo 4&#58; Utilização de funções incorporadas
+  No módulo, você explorará o uso de funções incorporadas para retornar valores computados ou especiais na lista SELECT ou na cláusula WHERE. As funções incluem funções matemáticas, funções de corda e funções do sistema. Existem outros tipos de funções que serão mencionadas, mas não discutidas detalhadamente. Você também aprenderá a combinar linhas de dados num único grupo, fornecendo informações de resumo para o grupo como SUM, MIN ou MAX. 
+  #### Aulas 
+  - Começar com funções escalares 
+  - Agrupando resultados agregados 
+
+  #### Laboratório &#58; Funções incorporadas 
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58; 
+  - Escrever queries usando funções escalares 
+  - Escrever queries usando funções agregadas 
+  - Usar GROUP BY para combinar dados em grupos com base num valor de coluna em comum 
+  - Entender como o HAVING é usado para filtrar grupos de linhas 
+
+
+  ### Módulo 5&#58; Modificação de dados 
+  Neste módulo, você aprenderá as instruções T-SQL para modificar dados de tabela, incluindo UPDATE, DELETE e MERGE, bem como várias opções para INSERT, incluindo a criação de uma nova tabela com dados de uma tabela existente. Você também analisará como fazer com que o sistema forneça automaticamente valores para colunas à medida que os dados são inseridos. 
+  #### Aulas 
+  - Inserção de dados em tabelas 
+  - Modificando e excluindo dados 
+
+  #### Laboratório &#58; Modificar dados 
+
+  Após a conclusão deste módulo, os alunos serão capazes de&#58; 
+  - Inserir dados numa tabela existente 
+  - Especificar que uma coluna deve estar preenchida automaticamente com uma IDENTITY ou um valor SEQUENCE 
+  - Modificar dados usando a instrução UPDATE 
+  - Excluir dados usando a instrução DELETE 
+  - Modificar os dados usando MERGE para sincronizar duas tabelas

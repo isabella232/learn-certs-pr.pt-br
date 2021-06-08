@@ -7,7 +7,16 @@ uid: certification.d365-functional-consultant-manufacturing
 certificationRenewalUid: renewal.d365-functional-consultant-manufacturing
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Manufacturing integram sistemas digitais e físicos, melhoram a visibilidade, a eficiência de manufatura e a flexibilidade e reduz os custos para seus clientes.
+  Se você é um consultor funcional ou um usuário de negócios com alto conhecimento dos padrões da indústria de produção, esta certificação pode ser para você. Você também precisa de experiência a configurar e a implementar o Dynamics 365 Supply Chain Management para atender às necessidades de sua organização. Gestão da cadeia de suprimentos, consultores funcionais de produção são recursos fundamentais que trabalham com desenvolvedores, arquitetos de soluções, gerentes de projetos e consultores funcionais em finanças, comércio e cadeia de suprimentos.
+
+  Se você precisa de mais experiência antes de tentar obter essa certificação, aqui estão algumas sugestões&#58;
+
+  - Estude o gerenciamento da cadeia de suprimentos e o gerenciamento da cadeia de suprimentos, os módulos de fabricação no Microsoft Learn e concluam mais prática.
+  - Inscreva-se num curso de treinamento ministrado por instrutor que abrange MB-300 ou MB-320.
+  - Participe da comunidade em [community.dynamics.com](https://community.dynamics.com/) ou participe de um grupo de usuários.
+  - Sombra um consultor funcional de fabricação num fluxo de trabalho de fabricação.
+  - Adquira um mentor, visite linhas de fabricação, e aprenda como as coisas são feitas.
+  - Faça perguntas e aprenda com especialistas e clientes.
 subTitle: 'Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Manufacturing integram sistemas digitais e físicos, melhoram a visibilidade, a eficiência de manufatura e a flexibilidade e reduz os custos para seus clientes.'
 levels:
 - intermediate
@@ -53,7 +62,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRH
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certificação Caminho de Aprendizagem
   description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBE

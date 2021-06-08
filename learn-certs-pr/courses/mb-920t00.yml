@@ -1,0 +1,218 @@
+### YamlMime:Course
+title: 'Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+metadata:
+  title: 'Course MB-920T00--A: Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+  description: 'Course MB-920T00--A: Microsoft Certified: Dynamics 365 Fundamentals (ERP)'
+uid: course.mb-920t00
+courseNumber: 'MB-920T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever as capacidades e funcionalidades da Dynamics 365 Supply Chain Management 
+- skill: Descrever as capacidades e funcionalidade da Dynamics 365 Finance
+- skill: Descrever as capacidades e funcionalidade da Dynamics 365 Commerce
+- skill: Descrever as capacidades e funcionalidades da Dynamics 365 Human Resources
+- skill: Descrever as capacidades e funcionalidades do Dynamics 365 Project Operations (ERP)
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-owner
+products:
+- dynamics-365
+exams:
+- uid: exam.mb-920
+summary: |-
+  Este curso fornecerá uma ampla introdução às capacidades de finanças e operações da Dynamics 365. Você se familiarizará com o conceito de gerenciamento de recursos corporativos (ERP), bem como com cada um dos aplicativos de finanças e operações, incluindo Dynamics 365 Supply Chain Management, Dynamics 365 Finance, Dynamics 365 Commerce, Dynamics 365 Human Resources e os recursos ERP de Dynamics 365 Project Operations. Este curso incluirá palestras, bem como prática em lab.
+
+  #### Perfil do Público
+
+  Pessoas em diferentes funções e em várias etapas de suas carreiras podem se beneficiar desse curso de fundamentos. Isso inclui profissionais de IT, intervenientes de negócios e outros que querem ser expostos às capacidades financeiras e de operações da Dynamics 365, estudantes, recém-formados e pessoas mudando de carreira que querem alavancar a Dynamics 365 para passar para o próximo nível. 
+outlineSection: |-
+  ### Módulo 1&#58; Conheça os Fundamentos da Dynamics 365 Supply Chain Management
+
+  Este módulo abrange os conceitos básicos de gerenciamento de recursos corporativos e o que os aplicativos de finanças e operações têm em comum antes de mergulhar na Dynamics 365 Supply Chain Management. Começamos com os processos de negócios de marketing padrão e como o Marketing lida com eles. Então examinamos as capacidades do produto. Finalmente, cobrimos aplicativos de marketing adicionais, como o LinkedIn Campaign Manager, Dynamics 365 Customer Voice e Dynamics 365 Customer Insights.
+
+  #### Aulas
+
+  *   Ser apresentado aos aplicativos de finanças e operações
+
+  *   Identificar recursos gerais do Dynamics 365 Supply Chain Management
+
+  *   Explorar os recursos de armazém e inventário em Dynamics 365 Supply Chain Management
+
+  *   Explorar estratégias de fabricação em Dynamics 365 Supply Chain Management
+
+  *   Explorar os recursos de gerenciamento de ativos na Dynamics 365 Supply Chain Management
+
+  *   Laboratório capstone
+
+  #### Laboratório &#58; Navegar pelos aplicativos de finanças e operações
+
+  ####
+
+  #### Laboratório &#58; Explorar espaços de trabalho e filtragem
+
+  ####
+
+  #### Laboratório &#58; Criar um Produto
+
+  ####
+
+  #### Laboratório &#58; Criar uma Ordem de Compra
+
+  ####
+
+  #### Laboratório &#58; Criar um Armazém
+
+  ####
+
+  #### Laboratório &#58; Criar uma Ordem de Produção
+
+  ####
+
+  #### Laboratório &#58; Criar uma Ordem de Trabalho planejada
+
+  ####
+
+  #### Laboratório &#58; Dynamics 365 Supply Chain Management Capstone
+
+  ####
+
+  *   Explorar o gerenciamento de produtos
+
+  *   Explorar a gestão do armazém
+
+  *   Explorar o gerenciamento de produção
+
+  *   Explorar o gerenciamento de estoque
+
+  *   Explorar compras e sourcing
+
+  Após a conclusão deste módulo, os alunos poderão&#58;
+
+  *   Descrever os recursos comuns dos aplicativos de finanças e operações
+
+  *   Descrever as capacidades gerais do Dynamics 365 Supply Chain Management
+
+  *   Descrever os recursos de gerenciamento de armazéns e estoques, fabricação e gerenciamento de ativos
+
+  ### Módulo 2&#58; Conhecer os Fundamentos da Dynamics 365 Finance
+
+  Neste módulo damos uma olhada na Dynamics 365 Finance. Abordaremos os principais recursos do produto antes de focar em livro-razão geral, contas a pagar e contas a receber. Em seguida, exploramos a gestão de despesas e o orçamento em Dynamics 365 Finance.
+
+  #### Aulas
+
+  *   Explorar os recursos do núcleo do Dynamics 365 Finance
+
+  *   Explorar o livro geral
+
+  *   Explorar contas a pagar e contas a receber
+
+  *   Explorar a gestão de despesas, a gestão de ativos fixos e o orçamento
+
+  *   Laboratório capstone
+
+  #### Laboratório &#58; Laboratório Capstone
+
+  ####
+
+  #### Laboratório &#58; Criar um diário de pagamento de fornecedores
+
+  ####
+
+  #### Laboratório &#58; Criar uma dimensão financeira
+
+  ####
+
+  *   Explorar o Livro Geral
+
+  *   Explorar contas a pagar
+
+  *   Explorar contas a receber
+
+  Após a conclusão deste módulo, os alunos poderão&#58;
+
+  *   Discutir os recursos fundamentais do Dynamics 365 Finance
+
+  *   Discutir livro-razão geral, contas a pagar e contas a receber
+
+  *   Discutir gestão de despesas, gestão de ativos fixos e orçamento
+
+  ### Módulo 3&#58; Conheça os Fundamentos da Dynamics 365 Commerce
+
+  Neste módulo damos uma olhada no Dynamics 365 Commerce. Abordaremos os principais recursos do produto antes de voltar nossa atenção para a Dynamics 365 Fraud Protection e suas capacidades.
+
+  #### Aulas
+
+  *   Explorar recursos da Dynamics 365 Commerce 
+
+  *   Explorar a Dynamics 365 Fraud Protection
+
+  *   Laboratório capstone
+
+  #### Laboratório &#58; Criar um produto de desconto
+
+  ####
+
+  #### Laboratório &#58; Criar uma variedade de produtos
+
+  ####
+
+  #### Laboratório &#58; Laboratório Capstone
+
+  ####
+
+  *   Explorar a sede do comércio
+ 
+  Após a conclusão deste módulo, os alunos poderão&#58;
+
+  *   Discutir Dynamics 365 Commerce
+
+  *   Discutir Dynamics 365 Fraud Protection
+
+  ### Módulo 4&#58; Conheça os Fundamentos da Dynamics 365 Human Resources
+
+  Neste módulo damos uma olhada na Dynamics 365 Human Resources. Abordaremos as principais capacidades do produto antes de voltar nossa atenção para as capacidades de gerenciamento de pessoal do produto.
+
+  #### Aulas
+
+  *   Explorar recursos principais de Dynamics 365 Human Resources
+
+  *   Explorar os recursos de gestão de pessoal
+
+  *   Laboratório capstone
+
+  #### Laboratório &#58; Laboratório Capstone
+
+  ####
+
+  *   Explorar recursos humanos
+
+  Após a conclusão deste módulo, os alunos poderão&#58;
+
+  *   Discutir as principais capacidades dos Dynamics 365 Human Resources 
+
+  *   Discutir os recursos de gestão de pessoas
+
+  ### Módulo 5&#58; Conheça os Fundamentos da Dynamics 365 Project Operations (ERP)
+
+  Neste módulo, damos uma olhada nas capacidades de recursos corporativos das Dynamics 365 Project Operations. Abordaremos o ciclo de vida do projeto, bem como o planejamento e execução  do produto.
+
+  #### Aulas
+
+  *   Identifique os recursos de gerenciamento do ciclo de vida do projeto em Dynamics 365 Project Operations
+
+  *   Explorar os recursos de planejamento e execução de projetos da Dynamics 365 Project Operations
+
+  Após a conclusão deste módulo, os alunos poderão&#58;
+
+  *   Discutir os recursos de gerenciamento do ciclo de vida do projeto em Dynamics 365 Project Operations
+
+  *   Explorar os recursos de planejamento e execução de projetos da Dynamics 365 Project Operations
+
+  #### Leitura adicional
+
+  Por favor, revise o conteúdo associado a este curso no Microsoft Learn. Por favor, note que há um caminho de aprendizado separado por produto.

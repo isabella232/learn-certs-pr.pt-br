@@ -6,9 +6,7 @@ metadata:
 uid: certification.mcsa-sql2016-business-intelligence-certification
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div>
-  <div><strong>Esta certificação será desativada em 31 de janeiro de 2021. Não será mais possível obter esta certificação após esta data. Todas as certificações que você obtiver antes das datas de desativação continuarão visíveis em sua transcrição no <a href='https://www.microsoft.com/learning/dashboard.aspx'>Painel de Certificação</a>. Além disso, é possível <a href='/learn/certifications/retired-certifications'>pesquisar todas as certificações desativadas</a>.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>Esta certificação foi reformada. Para obter opções disponíveis atualmente, consulte a página <a href='/learn/certifications/browse/'>Navegue pela página de Certificações e Exames</a>. Todas as certificações que você ganhar antes de suas datas de aposentadoria continuarão a aparecer no seu guião no <a href='https://aka.ms/certdashboard'>Painel de Certificação</a>.</strong></font><br/><br/></div>
 
   Esta certificação valida suas habilidades com extração, transformação e carregamento (ETL) e data warehouse, juntamente com as habilidades de implementação de soluções de BI usando modelos de dados multidimensionais e de tabela, além de cubos OLAP (processamento analítico on-line).
 subTitle: Esta certificação valida suas habilidades com extração, transformação e carregamento (ETL) e data warehouse, juntamente com as habilidades de implementação de soluções de BI usando modelos de dados multidimensionais e de tabela, além de cubos OLAP (processamento analítico on-line).
@@ -30,10 +28,10 @@ exams:
 resources:
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

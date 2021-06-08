@@ -23,7 +23,7 @@ skills:
 - Realizar a configuração
 - Gerenciar principais entidades de vendas
 - configurar ferramentas e serviços adicionais
-- Configurar o Common Data Service
+- Configurar o Microsoft Dataverse
 - Criar aplicativos usando Power Apps
 - Criar e gerenciar o Power Automate
 - Implementar chatbots de Power Virtual Agents
@@ -60,7 +60,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C54X
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certificação Caminho de Aprendizagem
   description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T

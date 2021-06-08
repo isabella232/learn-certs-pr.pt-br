@@ -42,7 +42,19 @@ products:
 exams:
 - uid: exam.mb-300
 summary: |-
-  Aplicativos Dynamics 365 Finance and Operations incluem, mas não se limitam a, Dynamics 365 Finance, Dynamics 365 Supply Chain Management, e Dynamics 365 Supply Chain Management, Manufacturing. Dynamics 365 Finance ajuda você a&#58; Automatizar e modernizar suas operações financeiras globais. Monitorar o desempenho em tempo real, preveja resultados futuros e tome decisões baseadas em dados para impulsionar o crescimento dos negócios. Conduzir decisões financeiras estratégicas com inteligência artificial (AI), unificar e automatizar seus processos financeiros, reduzir despesas operacionais e diminuir a complexidade financeira global e o risco. A Dynamics 365 Supply Chain Management ajuda você a&#58; Transformar suas operações de fabricação e cadeia de fornecimento. Usar previsões e inteligência da AI e da Internet of Things (IoT) através do planejamento, produção, inventário, armazém e gestão de transporte. Maximizar a eficiência operacional, a qualidade do produto e a rentabilidade. Inovar com operações inteligentes de fabricação, modernizar a gestão de armazéns, otimizar o desempenho da produção, maximizar a vida útil de seus ativos e automatizar e agilizar sua cadeia de fornecimento. Nota&#58; Para obter mais informações, consulte https://docs.microsoft.com/learn/paths/get-started-finance-operations/ Neste módulo, focaremos nos principais recursos e funcionalidades dos aplicativos Dynamics 365 Dynamics 365 Finance que são mais utilizados pelos usuários e consultores finais.
+  Os aplicativos de Dynamics 365 Finance and Operations incluem, mas não se limitam a, Dynamics 365 Finance, Dynamics 365 Supply Chain Management e Dynamics 365 Supply Chain Management, Manufacturing.
+  Dynamics 365 Finance ajuda você a&#58;
+  - Automatizar e modernizar suas operações financeiras globais.
+  - Monitorar o desempenho em tempo real, prever resultados futuros e tomar decisões baseadas em dados para impulsionar o crescimento dos negócios.
+  - Conduzir decisões financeiras estratégicas com inteligência artificial (AI), unificar e automatizar seus processos financeiros, reduzir despesas operacionais e diminuir a complexidade financeira global e o risco.
+
+  Dynamics 365 Supply Chain Management ajuda você a&#58;
+  - Transforme suas operações de fabricação e cadeia de suprimentos.
+  - Usar insights preditivos e inteligência da AI e da Internet das Coisas (IoT) através do planejamento, produção, inventário, armazém e gerenciamento de transporte.
+  - Maximizar a eficiência operacional, a qualidade do produto e a rentabilidade.
+  - Inovar com operações de fabricação inteligentes, modernizar a gestão de armazéns, otimizar o desempenho da produção, maximizar a vida útil de seus ativos e automatizar e agilizar sua cadeia de suprimentos.
+
+  Nota&#58; Para obter mais informações, consulte https://docs.microsoft.com/learn/paths/get-started-finance-operations/ Neste módulo, focaremos nos principais recursos e funcionalidades dos aplicativos Dynamics 365 Dynamics 365 Finance que são mais utilizados pelos usuários e consultores finais.
 
   #### Perfil do público
   Um Dynamics 365 for Finance and Operations Functional Consultan é responsável por realizar a descoberta, capturar requisitos, engajar especialistas e intervenientes, traduzir requisitos e configurar a solução e aplicativos. O Consultor Funcional implementa uma solução usando recursos fora da caixa, extensibilidade sem código, integrações de aplicativos e serviços.
@@ -52,16 +64,7 @@ prerequisitesSection: |-
   - A capacidade de usar o Dynamics 365 for Finance and Operations para processamento básico
   - Conhecimentos gerais sobre os recursos básicos do dispositivo móvel e navegação
 outlineSection: |-
-  ### Módulo 1&#58; Visão geral do Curso
-  Este curso abrange as principais características em aplicativos Dynamics 365 Finance and Operations. Os tópicos gerais aqui abordados incluem recursos comuns principais, configuração central, migração de dados e preparação para iniciar operação. Este curso é um curso preliminar para consultores funcionais e consultores técnicos. Eles devem ter uma compreensão fundamental dos aplicativos Dynamics 365 Finance and Operations. Eles também devem saber como os aplicativos Dynamics 365 Finance and Operations se integram com sistemas e ferramentas externas, incluindo Power Platform. O consultor gerencia ativamente os ciclos de vida do aplicativo usando Lifecycle Services e outras ferramentas e plataformas da Microsoft.
-
-  #### Aulas
-  - Objetivos de Aprendizagem
-  - Visão Geral do Módulo
-
-  Você terá aprendido os módulos abordados neste curso.
-
-  ### Módulo 2&#58; Use ferramentas comuns de funcionalidade e implementação
+  ### Módulo 1&#58; Use ferramentas comuns de funcionalidade e implementação
   Neste módulo, você aprenderá como&#58;
   - Usar funcionalidades comuns e ferramentas de implementação.
   - Descrever casos de uso e capacidades de espaços de trabalho.
@@ -108,7 +111,7 @@ outlineSection: |-
   - Integrar Power BI com aplicativos Dynamics 365 Dynamics 365 Finance.
   
   
-  ### Módulo 3&#58; Configurar segurança, processos e opções
+  ### Módulo 2&#58; Configurar segurança, processos e opções
   Neste módulo, você aprenderá como&#58;
   - Distinguir entre funções, deveres, privilégios e permissões.
   - Aplicar funções de segurança aos usuários.
@@ -174,7 +177,7 @@ outlineSection: |-
   - Usar o recurso de customização.
   - Criar e monitorar trabalhos em lote e alertas. 
   
-  ### Módulo 4&#58; Gerenciar Dados de Dynamics 365 Finance and Operation 
+  ### Módulo 3&#58; Gerenciar Dados de Dynamics 365 Finance and Operation 
   Neste módulo, você aprenderá como&#58;
   - Gerenciar dados em aplicativos Dynamics 365 Finance and Operations.
   - Descrever conceitos de gestão de dados.
@@ -240,7 +243,7 @@ outlineSection: |-
   - Implementar automação de tarefas de dados.
   
   
-  ### Módulo 5&#58; Validar e apoiar a solução
+  ### Módulo 4&#58; Validar e apoiar a solução
   Neste módulo, você aprenderá como&#58;
   - Descrever a correlação entre casos de teste e requisitos de negócios.
   - Usar as melhores práticas para registrar casos de teste.

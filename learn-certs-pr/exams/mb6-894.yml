@@ -6,9 +6,7 @@ metadata:
 uid: exam.mb-6-894
 displayName: MB6-894
 summary: |-
-  <div>
-  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este exame foi reformado em 31 de janeiro de 2021. Para obter as opções disponíveis atualmente, consulte a página <a href='/learn/certifications/browse/?resource_type=examination'> Navegue pela página de Certificações e Exames</a>.<br/><br/></strong></font></div>
 
   Os candidatos para este exame são consultores técnicos, programadores ou pessoal de TI que implementam tarefas técnicas e de desenvolvimento básicas necessárias para personalizar o Microsoft Dynamics 365 for Finance and Operations e Microsoft Dynamics 365 Commerce.
 
@@ -20,7 +18,6 @@ summary: |-
 subTitle: Os candidatos para este exame são consultores técnicos, programadores ou pessoal de TI que implementam tarefas técnicas e de desenvolvimento básicas necessárias para personalizar o Microsoft Dynamics 365 for Finance and Operations e Microsoft Dynamics 365 Commerce.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oaj7
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=MB6-894&examname=Development,%20Extensions,%20and%20Deployment%20for%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-894
 locales:
 - en
 levels:
@@ -31,6 +28,7 @@ skills:
 - Ler e escrever X++ básico (20-25%)
 - Gerenciar a Interface do Usuário e de Segurança para Desenvolvedores (20-25%)
 - Desenvolver e estender componentes de varejo (15-20%)
+retirementDate: 01/31/2021
 roles:
 - business-analyst
 products:

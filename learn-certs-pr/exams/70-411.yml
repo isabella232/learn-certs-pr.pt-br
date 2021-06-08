@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-411
 displayName: 70-411
 summary: |-
-  <div>
-  <div><strong>Este exame expira em 31 de janeiro de 2021 às 23h59, horário central dos Estados Unidos. Você não poderá mais fazer o exame após essa data. Saiba mais sobre <a href='/learn/certifications/retired-certification-exams'>as próximas desativações de exames</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>Este exame foi reformado em 31 de janeiro de 2021. Para obter as opções disponíveis atualmente, consulte a página <a href='/learn/certifications/browse/?resource_type=examination'> Navegue pela página de Certificações e Exames</a>.<br/><br/></strong></font></div>
 
   Esse exame é o segundo de uma série de três, que testa as habilidades e o conhecimento necessários para administrar uma infraestrutura do Windows Server 2012 em ambiente corporativo. A aprovação nesse exame valida a capacidade de um candidato de administrar as tarefas necessárias para manter uma infraestrutura do Windows Server 2012, como gerenciamento de usuários e grupos, acesso à rede e segurança de dados. A aprovação nesse exame juntamente com os outros dois exames confirma que um candidato possui as habilidades e o conhecimento necessários para implementar, gerenciar, manter e fornecer serviços e infraestrutura em um ambiente do Windows Server 2012.
 
@@ -17,7 +15,6 @@ subTitle: Esse exame é o segundo de uma série de três, que testa as habilidad
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7jV
 practiceTestUrl: https://www.mindhub.com/70-411-Administering-Windows-Server-2012-p/mu-70-411_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=pt-br&examcode=411&examname=Administering%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-411
 locales:
 - en
 - zh-cn
@@ -34,6 +31,7 @@ skills:
 - Configurar uma Infraestrutura de Servidor de Política de Rede
 - Configurar e Gerenciar o Diretório Ativo
 - Configurar e Gerenciar Política de Grupo
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

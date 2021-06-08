@@ -6,7 +6,16 @@ metadata:
 uid: certification.d365-finance-and-operations-apps-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Os desenvolvedores que trabalham com aplicativos de Finanças e Operações no Microsoft Dynamics 365 implementam e aprimoram  aplicativos para atender aos requisitos dos negócios. Os candidatos fornecem soluções completamente realizadas usando padrões de codificação de aplicativo padronizado, recursos extensíveis e integrações externas.
+  Se você é um desenvolvedor que trabalha com consultores funcionais e soluções e arquitetos técnicos, e você é responsável por traduzir requisitos em funcionalidade crítica do sistema com aplicativos de finanças e operações na Dynamics 365, você pode usar essa certificação para avançar em sua carreira. Você deve ter experiência em fornecer soluções totalmente realizadas usando padrões padronizados de codificação de aplicativos, recursos extensíveis e integrações externas.
+
+  Você precisa estar familiarizado com metodologias de ciclo de desenvolvimento de software, integridade de dados e conformidade com segurança de dados. E você deve ter alto grau de conhecimento e experiência usando a estrutura subjacente, estruturas de dados e objetos associados a soluções de finanças e operações na Dynamics 365 que oferecem a melhor funcionalidade da classe.
+
+  Se você precisa de mais experiência antes de tentar obter essa certificação, aqui estão algumas sugestões&#58;
+  - Trabalhar como desenvolvedor num ou mais aplicativos de finanças e operações na Dynamics 365.
+  - Voluntário para ajudar a desenvolver um projeto.
+  - Junte-se à [Dynamics 365 Community](https://community.dynamics.com/).
+  - Siga caminhos de aprendizagem aplicáveis no Microsoft Learn.
+  - Inscreva-se para treinamento ministrado por instrutores, como o Microsoft Dynamics 365&#58;  Financiamento e Operações de Base e Microsoft Dynamics 365&#58; Desenvolvedor de Aplicativos de Finanças e Operações.
 subTitle: Os desenvolvedores que trabalham com aplicativos de Finanças e Operações no Microsoft Dynamics 365 implementam e aprimoram  aplicativos para atender aos requisitos dos negócios.
 levels:
 - intermediate
@@ -54,7 +63,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rP
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Certificação Caminho de Aprendizagem
   description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cdas

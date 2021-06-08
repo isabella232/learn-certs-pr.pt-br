@@ -8,14 +8,20 @@ summary: |
   Os Engenheiros DevOps combinam pessoas, processos e tecnologias para oferecer continuamente produtos e serviços valiosos que atendam às necessidades do usuário final e aos objetivos de negócios.
 subTitle: Os Engenheiros DevOps combinam pessoas, processos e tecnologias para oferecer continuamente produtos e serviços valiosos que atendam às necessidades do usuário final e aos objetivos de negócios.
 certificationPaths: 
-- title: Azure DevOps Engineer
-  linkedInKeywords: Azure DevOps Engineer
-  uid: certification-path.devops 
+- title: DevOps Engineer
+  linkedInKeywords: DevOps Engineer
+  uid: certification-path.devops-engineer
   prerequisites: 
   - uid: certification.azure-fundamentals
     isOptional: true
     levels:
-    - beginner 
+    - beginner
+  - uid: certification.azure-administrator
+    levels:
+    - intermediate
+  - uid: certification.azure-developer
+    levels:
+    - intermediate
   - uid: certification.devops-engineer
     levels:
     - advanced    
@@ -26,10 +32,10 @@ certifications:
 resources:
 - title: Guia de Treinamento e Certificações Microsoft
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de Treinamento e Certificações
   description: Escolha seu caminho para o sucesso com este cartaz de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Apoio às certificações
   href: ../help.md
   description: Obtenha ajuda por meio de fóruns de suporte de Certificação da Microsoft. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.

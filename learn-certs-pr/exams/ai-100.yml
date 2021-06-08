@@ -7,7 +7,7 @@ uid: exam.ai-100
 displayName: AI-100
 summary: |-
   <div>
-  <div><font color='red'><strong>UMA NOVA VERSÃO DESSE EXAME, <a href='/learn/certifications/exams/ai-102'>AI-102</a>, ESTARÁ DISPONÍVEL EM 23 DE FEVEREIRO DE 2021. Você pode fazer este exame até ser reformado em 30 de junho de 2021. Nota&#58; Os exames serão reformados às 23&#58;59, Horário Padrão Central.</strong></font><br/><br/></div>
+  <div><font color='red'><strong> UMA NOVA VERSÃO DESTE EXAME, <a href='/learn/certifications/exames/ai-102'>AI-102</a>, ESTÁ DISPONÍVEL. Você poderá fazer este exame até reformar em 30 de junho de 2021. Nota: Os exames serão reformados às 23:59, Horário Padrão Central. </strong></font><br/><br/></div>
   <div><strong>O conteúdo deste exame foi atualizado em 20 de maio de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
   </div>
   
@@ -40,6 +40,7 @@ products:
 - azure
 - azure-cognitive-services
 - azure-bot-service
+- azure-machine-learning
 - azure-machine-learning-studio
 - azure-search
 courses:
@@ -58,10 +59,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: Guia de treinamento e certificação
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

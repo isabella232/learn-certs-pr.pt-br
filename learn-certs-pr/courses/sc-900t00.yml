@@ -1,0 +1,103 @@
+### YamlMime:Course
+title: Microsoft Security, Compliance, and Identity Fundamentals
+metadata:
+  title: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+  description: 'Course SC-900T00-A: Microsoft Security, Compliance, and Identity Fundamentals'
+uid: course.sc-900t00
+courseNumber: 'SC-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever conceitos básicos de segurança, conformidade e habilidade de identidade
+- skill: Descrever os conceitos e recursos das soluções de gerenciamento de identidade e acesso da Microsoft.
+- skill: Descrever os recursos das soluções de segurança da  Microsoft.
+- skill: Descrever os recursos de gerenciamento de conformidade na Microsoft.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-user
+- student
+products:
+- m365
+exams:
+- uid: exam.sc-900
+summary: |-
+  Este curso fornece conhecimento de nível fundamental sobre segurança, conformidade e conceitos de identidade e soluções Microsoft baseadas em cloud. 
+
+  #### Perfil de audiência 
+  O público deste curso está procurando se familiarizar com os fundamentos de segurança, conformidade e identidade (SCI) em todos os serviços Microsoft baseados em cloud e relacionados. O conteúdo deste curso está alinhado ao domínio objetivo da prova SC-900.  Os candidatos devem estar familiarizados com o Microsoft Azure e o Microsoft 365 e entender como as soluções de segurança, conformidade e identidade da Microsoft podem se estender por essas áreas de solução para fornecer uma solução holística e completa.
+prerequisitesSection: |-
+  Antes de participar deste curso, os alunos devem ter&#58; 
+  - Compreensão geral dos conceitos de networking e computação em cloud.  
+  - Conhecimento geral de IT ou qualquer experiência geral que funcione num ambiente de IT.  
+  - Compreensão geral do Microsoft Azure e Microsoft 365.
+outlineSection: |-
+  ### Módulo 1&#58; Descrever os conceitos básicos de segurança, conformidade e identidade.
+  Aprenda sobre os principais conceitos, princípios e metodologias que são fundamentais para soluções de segurança, conformidade e identidade, incluindo Zero-Trust, responsabilidade compartilhada, nossos princípios de privacidade e muito mais.
+  #### Aulas
+  - Descrever conceitos e metodologias de segurança.
+  - Descrever os princípios de segurança e conformidade da Microsoft.
+  
+  Depois de concluir este Módulo, os alunos serão capazes de&#58;
+  - Descrever conceitos e metodologias de segurança.
+  - Explorar o Service Trust Portal .
+  - Saber onde encontrar e revisar a documentação de conformidade do Azure.
+  
+  
+  ### Módulo 2&#58; Descrever os conceitos e recursos das soluções de gerenciamento de acesso e identidade da Microsoft
+  Saiba mais sobre os serviços e entidades de identidade do Azure AD, autenticação segura, recursos de gerenciamento de acesso, bem como proteção e governança de identidade.
+  #### Aulas
+  - Descrever conceitos de identidade
+  - Descrever os serviços básicos e os tipos de identidade do Azure AD
+  - Descrever os recursos de autenticação do Azure AD
+  - Descrever os recursos de gerenciamento de acesso do Azure AD
+  - Descrever a proteção de identidade e recursos de governança do Azure AD
+  
+  Depois de concluir este Módulo, os alunos serão capazes de&#58;
+  - Descrever os conceitos básicos de identidade.
+  - Descrever os serviços básicos e os tipos de identidade do Azure AD
+  - Descrever os recursos de autenticação do Azure AD.
+  - Descrever os recursos de gerenciamento de acesso do Azure AD.
+  - Descrever a proteção de identidade e os recursos de governança do Azure AD.
+  
+  
+  ### Módulo 3&#58; Descrever os recursos das soluções de segurança da Microsoft
+  Aprenda sobre os recursos de segurança da Microsoft. Os tópicos abordados incluirão recursos de rede e plataforma do Azure, gerenciamento de Azure Security e Sentinel. Você aprenderá sobre a proteção contra ameaças com o Microsoft 365 Defender e o gerenciamento de segurança do Microsoft 365, e explorará a proteção de endpoint com o Intune.
+  #### Aulas
+  - Descrever os recursos básicos de segurança no Azure
+  - Descrever segurança de recursos de gerenciamento de Azure
+  - Descrever os recursos de segurança de Azure Sentinel
+  - Descrever os recursos de proteção contra ameaças do Microsoft 365
+  - Descrever os recursos de gerenciamento de segurança do Microsoft 365
+  - Descrever a segurança do endpoint com o Microsoft Intune
+  - Resumo do módulo
+  
+  Depois de concluir este Módulo, os alunos serão capazes de&#58;
+  - Descrever os recursos básicos de segurança no Azure.
+  - Descrever os recursos de gerenciamento de Azure Security.
+  - Descrever os recursos de segurança de Azure Sentinel.
+  - Descrever os recursos de proteção contra ameaças do Microsoft 365.
+  - Descrever os recursos de gerenciamento de segurança do Microsoft 365.
+  - Descrever a segurança do endpoint com o Microsoft Intune.
+  
+  
+  ### Módulo 4&#58; Descrever os recursos das soluções de conformidade da Microsoft
+  Saiba mais sobre as soluções de conformidade da Microsoft. Os tópicos abordados incluirão centro de conformidade, proteção e governança de informações no Microsoft 365, soluções de risco interno, auditoria e eDiscovery. Também são abordados os recursos de governança de recursos do Azure.
+  #### Aulas
+  - Descrever os recursos de gerenciamento de conformidade na Microsoft
+  - Descrever os recursos de proteção e governança de informações do Microsoft 365
+  - Descrever os recursos de risco interno no Microsoft 365
+  - Descrever os recursos de eDiscovery do Microsoft 365
+  - Descrever os recursos de auditoria do Microsoft 365
+  - Descrever os recursos de governança de recursos no Azure
+  
+  Depois de concluir este Módulo, os alunos serão capazes de&#58;
+  - Descrever os recursos de gerenciamento de conformidade da Microsoft.
+  - Descrever os recursos de proteção e governança de informações do Microsoft 365.
+  - Descrever os recursos de risco interno no Microsoft 365.
+  - Descrever os recursos de eDiscovery do Microsoft 365.
+  - Descrever os recursos de auditoria do Microsoft 365.
+  - Descrever os recursos de governança de recursos no Azure.

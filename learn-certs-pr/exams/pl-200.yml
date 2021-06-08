@@ -6,21 +6,26 @@ metadata:
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
+  <div><div><font color='red'><strong>O conteúdo deste exame foi atualizado em 23 de março de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que mudou.</strong></font><br/><br/></div>
+  </div>
+
   Os candidatos a este exame realizam a descoberta, obtêm requisitos, envolvem especialistas e partes interessadas, traduzem requisitos e configuram soluções e aplicativos da Power Platform. Eles criam aprimoramentos de aplicativos, experiência personalizada do usuário, integrações de sistemas, conversões de dados, automação de processos e visualizações personalizadas.
 
-  Os candidatos implementam o design fornecido por um arquiteto de soluções ou em colaboração com este e os padrões, identidade visual e artefatos estabelecidos pelos designers de experiência do usuário. Eles projetam integrações para fornecer integração perfeita com aplicativos e serviços de terceiros.
+  Os candidatos implementam o design fornecido por e em colaboração com um arquiteto de soluções e os padrões, marca e artefatos estabelecidos pela User Experience Designers. Eles projetam integrações para fornecer integração perfeita com aplicativos e serviços de terceiros.
 
-  Os Consultores Funcionais da Plataforma Power devem estar familiarizados com os aplicativos orientados por modelos Dynamics 365 e devem ter experiência na utilização dos componentes da Plataforma Power para alargar e personalizar as aplicativos orientadas por modelos Dynamics 365.
-subTitle: 'Este exame avalia sua capacidade de completar as seguintes tarefas: configurar o Common Data Service, criar aplicativos com Power Apps, criar e gerenciar o Power Automate, implementar assistentes virtuais com o Power Virtual Agents e integrar o Power Apps com outros aplicativos e serviços.'
+  Os Consultores Funcionais da Power Platform devem estar familiarizados com o uso de componentes da Power Platform para estender e personalizar aplicativos e serviços da Microsoft, como Teams, Dynamics 365, Excel, e Word.
+subTitle: 'Este exame avalia sua capacidade de completar as seguintes tarefas: configurar o Microsoft Dataverse; criar aplicativos usando Power Apps; criar e gerenciar o Power Automate; implementar chatbots de Power Virtual Agents; e integrar Power Apps com outros aplicativos e serviços.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
+practiceTestUrl: https://www.mindhub.com/p/MU-PL-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Configurar o Common Data Service (25-30%)
+- O conteúdo deste exame foi atualizado em 23 de março de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que mudou.
+- Configurar o Microsoft Dataverse (25-30%)
 - Criar aplicativos com Power Apps (20-25%)
 - Criar e gerenciar o Power Automate (15-20%)
 - Implementar assistentes virtuais com Power Virtual Agents (10-15%)
@@ -63,7 +68,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4GP08
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: Cartaz de certificação
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
