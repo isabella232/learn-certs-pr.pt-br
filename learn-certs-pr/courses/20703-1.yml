@@ -29,8 +29,6 @@ roles:
 - developer
 products:
 - windows-system-center
-exams:
-- uid: exam.70-703
 summary: |-
   Este curso de cinco dias descreve como usar o Gerenciador de Configuração e seus sistemas de site associados para gerenciar eficientemente os recursos de rede. Neste curso de cinco dias, você aprenderá tarefas diárias de gerenciamento, incluindo como gerenciar aplicativos, saúde do cliente, inventário de hardware e software, implantação do sistema operacional e atualizações de software usando o Gerenciador de Configuração. Você também aprenderá como otimizar a  System Center Endpoint Protection, gerenciar a conformidade e criar consultas e relatórios de gerenciamento.
 
