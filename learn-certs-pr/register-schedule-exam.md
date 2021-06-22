@@ -14,7 +14,7 @@ ms.prod: non-product-specific
 
 ## Como se inscrever para um exame
 
-Se você ainda não decidiu qual exame fazer, comece pela [visão geral da certificação](/learn/certifications/) ou [navegar em todas as certificações](learn/certifications/browse/) para descobrir qual é a certificação certa para você. Assim que estiver preparado e pronto para agendar seu exame, você pode se registrar em qualquer página de detalhes do exame. Nas páginas de detalhes da certificação, você encontrará a opção de registro na seção "Exames de certificação", e nas páginas de detalhes do exame, a opção está na seção "Agendar exame".
+Se você ainda não decidiu qual exame fazer, comece pela [visão geral da certificação](/learn/certifications/) ou [navegar em todas as certificações](/learn/certifications/browse/) para descobrir qual é a certificação certa para você. Assim que estiver preparado e pronto para agendar seu exame, você pode se registrar em qualquer página de detalhes do exame. Nas páginas de detalhes da certificação, você encontrará a opção de registro na seção "Exames de certificação", e nas páginas de detalhes do exame, a opção está na seção "Agendar exame".
 
 ## <a name="how-to-choose-an-exam-delivery-provider"></a> Como escolher um prestador de serviços de entrega de exames
 
