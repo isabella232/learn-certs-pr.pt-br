@@ -17,6 +17,7 @@ Em todo o mundo, parceiros e clientes procuram a Microsoft para entregar as cert
 - [Poltica de segurana e poltica de retomada de exames](/learn/certifications/exam-security-policy-and-exam-retake-policy)
 - [política de reagendamento e cancelamento de exames](/learn/certifications/exam-reschedule-and-cancellation-policy)
 - [Acordo do programa de Certificação Microsoft](/learn/certifications/microsoft-certification-program-agreement)
+- [Microsoft certification non-disclosure agreement](/learn/certifications/microsoft-certification-renewal-non-disclosure-agreement)
 - [Acordo de não divulgação do exame da Microsoft](/learn/certifications/microsoft-exam-non-disclosure-agreement)
 - [Solicitar acomodações](/learn/certifications/request-accomodations)
 - [Processo de contestação de itens do exame](/learn/certifications/exam-item-challenge-process)

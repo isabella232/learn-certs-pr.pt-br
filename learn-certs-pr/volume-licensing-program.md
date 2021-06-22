@@ -34,13 +34,13 @@ Ao consolidar a compra, orçamento e rastreamento dos produtos de treinamento e 
 
   A Microsoft Imagine Academy oferece o seguinte:
 
-  * 30 vouchers de exame de certificação sem custos para o desenvolvimento profissional de educador/pessoal (MOS, MTA, Fundamentals, e MCE) Conforme acordo de VL (partilhado entre escolas)
-  * Pacotes de conteúdo do curso para cursos de produtividade (MOS) e cursos de nível básico de TI (MTA) - MOAC
-  * Guias de estudo de exame para MOS 2016 e MOS 2019/O365
-  * Desconto de 50% no programa MCT (Microsoft Certified Trainer)
-  * Acesso ao conteúdo oficial do Microsoft Courseware (MOC)
-  * Certificados de conclusão de curso personalizáveis
-  * 40% de desconto nos Livros de Imprensa da Microsoft 
+  * 30 vouchers de exame de certificação sem custos para o desenvolvimento profissional de educador/pessoal (MOS, MTA, Fundamentals, e MCE) Conforme acordo de VL (partilhado entre escolas).
+  * Pacotes de conteúdo do curso para cursos de produtividade (MOS) e cursos de nível básico de TI (MTA) - MOAC.
+  * Guias de estudo de exame para MOS 2016 e MOS 2019/O365.
+  * Desconto de 50% no programa MCT (Microsoft Certified Trainer).
+  * Acesso ao conteúdo oficial do Microsoft Courseware (MOC).
+  * Certificados de conclusão de curso personalizáveis.
+  * 40% de desconto nos Livros de Imprensa da Microsoft.
 
   O acesso à Microsoft Imagine Academy (MSIA) está disponível mediante nova aquisição ou renovação de EES (Enrollment for Education Solutions), Escola, e OVS-ES (Open Value Subscription - Education Enrollment Subscriptions) como um programa de aquisição de licenças por volume de assinaturas, sem custo adicional.
 
@@ -62,10 +62,10 @@ Ao consolidar a compra, orçamento e rastreamento dos produtos de treinamento e 
 
   **Recursos adicionais de certificação acadêmica  de Licenciamento por Volume**
 
-  * [Microsoft Imagine Academy Program](https://www.microsoft.com/en-us/education/imagine-academy)
-  * [Ficha de dados da Microsoft Certification para Instituições Acadêmicas](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Microsoft Imagine Academy Certification Roadmap](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [Ficha de dados do pacote de exame de Microsoft Certification para Licenciamento por Volume Acadêmico](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Microsoft Imagine Academy Program.](https://www.microsoft.com/en-us/education/imagine-academy)
+  * [Ficha de dados da Microsoft Certification para Instituições Acadêmicas.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Microsoft Imagine Academy Certification Roadmap.](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [Ficha de dados do pacote de exame de Microsoft Certification para Licenciamento por Volume Acadêmico.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * Recursos de e-learning adicionais de Licenciamento por Volume
 
@@ -75,18 +75,18 @@ Ao consolidar a compra, orçamento e rastreamento dos produtos de treinamento e 
 
   A Microsoft não está mais oferecendo e-learning com Licenciamento por Volume. Os seguintes recursos são para clientes que ainda utilizam nosso conteúdo de e-learning de acordo com os contratos existentes. Eles foram criados para ajudá-lo a implementar, configurar e administrar sua compra de e-learning de Licenciamento por Volume.
 
-  * [Guia do Gerente de Serviços Online de Licenciamento por Volume para Uso Online](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
-  * [Guia do Usuário Final/Aluno de Licenciamento por Volume para Uso Online](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [Programa Microsoft Imagine Academy](https://www.microsoft.com/en-us/education/imagine-academy)
-  * [Microsoft Certification para instituições acadêmicas](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Microsoft Imagine Academy Certification Roadmap](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [Pacote de exame de Microsoft Certification para Licenciamento por Volume Acadêmico](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Guia do Gerente de Serviços Online de Licenciamento por Volume para Uso Online.](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
+  * [Guia do Usuário Final/Aluno de Licenciamento por Volume para Uso Online.](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
+  * [Programa Microsoft Imagine Academy.](https://www.microsoft.com/en-us/education/imagine-academy)
+  * [Microsoft Certification para instituições acadêmicas.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Microsoft Imagine Academy Certification Roadmap.](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [Pacote de exame de Microsoft Certification para Licenciamento por Volume Acadêmico.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
-Fale conosco
+* Fale conosco
 
   Para começar a utilizar os produtos de treinamento e certificação da Microsoft, entre em contato com o gerente da sua conta de Licenciamento por Volume. Em caso de dúvidas sobre preços, licenciamento e descontos antecipados, envie um e-mail para [MSLVLPurchase@microsoft.com](mailto:MSLVLPurchase@microsoft.com).
 
-  [Fale com nossos especialistas em vendas para obter informações sobre como adicionar soluções de treinamento e certificação da Microsoft ](mailto:mslvlhlp@microsoft.com)
+  [Fale com nossos especialistas em vendas para obter informações sobre como adicionar soluções de treinamento e certificação da Microsoft ](mailto:mslvlhlp@microsoft.com).
 
 ## Perguntas frequentes
 
@@ -142,14 +142,14 @@ As soluções de formação e certificação da Microsoft estão disponíveis pa
 
 As soluções de treinamento e certificação da Microsoft oferecem preços de um único nível e pacote único. Os pacotes das soluções de treinamento e certificação da Microsoft podem ser solicitados como uma assinatura de 12 meses ou ser proporcionalmente divididos com base no número de meses restantes do contrato principal. Não há necessidade de  uma User Subscription License (USL) separada ou uma Add-on Subscription License (ASL), que são necessárias para outros programas  nos Serviços Online de Licenciamento por Volume.
 
-**Observação** Se você solicitar soluções de treinamento e certificação da Microsoft como uma assinatura de 12 meses, os pedidos subseqüentes expirarão na mesma data que o pedido de assinatura inicial de 12 meses. [Visite o guia de serviços online](https://www.microsoft.com/learning/_silverlight/bac/bac.htm).
+**Observação** Se você solicitar soluções de treinamento e certificação da Microsoft como uma assinatura de 12 meses, os pedidos subseqüentes expirarão na mesma data que o pedido de assinatura inicial de 12 meses.
 
 **P: Quantos códigos devo adquirir?**
 
 Quanto mais códigos a sua organização adquirir, maior será o desconto por volume. Recomendamos que você use um dos seguintes recursos para determinar as necessidades de treinamento da sua organização e desenvolver um plano de aprendizagem que se alinhe com os objetivos de negócio da sua empresa.
 
-- [Envie um e-mail para a Ajuda de Licenciamento por Volume das soluções de treinamento e certificação da Microsoft](mailto:mslvlhlp@microsoft.com)
-- [Encontre o seu Microsoft Certified Partner local para as soluções de treinamento e certificação da Microsoft](https://www.microsoft.com/learning/find-partner.aspx)
+- [Envie um e-mail para a Ajuda de Licenciamento por Volume das soluções de treinamento e certificação da Microsoft.](mailto:mslvlhlp@microsoft.com)
+- [Encontre o seu Microsoft Certified Partner local para as soluções de treinamento e certificação da Microsoft.](/learn/certifications/partners)
 
 **P: Quantos vouchers de exames devo solicitar?**
 
@@ -175,7 +175,7 @@ Depois que o pedido é feito com o parceiro de canal e processado pela Microsoft
 
 **P: Quais são os requisitos para implantar uma licença de site MOS ou MTA?**
 
-A sua instituição deve ser um centro de testes autorizado Certiport e atender aos requisitos técnicos postados no [site da Certiport](https://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm) para utilizar o benefício do MOS ou MTA Site Pack e fornecer exames MOS ou MTA. Se a sua instituição não for um centro de testes autorizado Certiport, ela terá que passar pelo processo para [se tornar um centro de testes Certiport](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101).
+A sua instituição deve ser um centro de testes autorizado Certiport e atender aos requisitos técnicos postados no [site da Certiport](https://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm) para utilizar o benefício do MOS ou MTA Site Pack e fornecer exames MOS ou MTA. Se a sua instituição não for um centro de testes autorizado Certiport, ela terá que passar pelo processo para [se tornar um centro de testes Certiport.](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101)
 
 **P: Após solicitar um MOS ou MTA Site Pack por meio do Licenciamento por Volume, como serei notificado do acesso aos vouchers do exame?**
 

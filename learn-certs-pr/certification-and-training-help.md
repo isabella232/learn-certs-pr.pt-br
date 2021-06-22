@@ -1,6 +1,6 @@
 ---
-title: Microsoft Official Courseware (MOC) help | Microsoft Docs
-description: Ajuda para Microsoft Official Courseware (MOC)
+title: Suporte Microsoft Official Courseware (MOC) | Microsoft Docs
+description: Suporte Microsoft Official Courseware (MOC)
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,11 +9,15 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Ajuda para Microsoft Official Courseware (MOC)
+# Suporte Microsoft Official Courseware (MOC)
 
-Você precisa de ajuda com o Microsoft Official Courseware (MOC)? Entre em contato com seu centro de suporte do seu país na lista abaixo. Observe que as opções de suporte são apenas para MOC. Para obter ajuda com a certificação ou exames da Microsoft, visite [ajuda para certificação](/learn/certifications/help).
+## Sobre suporte MOC
+
+Microsoft Official Courseware (MOC) é o material usado em nossos cursos. Siporte MOC é gerido por regiões de todo o mundo.
 
 ## Informações de contato regional do MOC
+
+Por favor, note que estas opções de suporte são para MOC apenas. Para ajudar Microsoft Certifications ou exames, por favor visite: [Suporte de Certificação](/learn/certifications/help).
 
 | País | Telefone + Idioma | Email | Informações adicionais| Detalhes de contato |
 | ------- | ---------------- | --------- | ------------- | ---------------- |
@@ -118,7 +122,3 @@ Você precisa de ajuda com o Microsoft Official Courseware (MOC)? Entre em conta
 | Vietnam | (65) 6622 1237 | [Consultas do Marketplace de cursos](https://support.microsoft.com/en-my/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-my&SC=VN) | | 9:00 - 18:00 (9:00 A.M. - 6:00 P.M.) de segunda a sexta-feira Horário da Cingapura |
 | Ilhas Virgens Britânicas | Inglês: +1 305 715-1492<br/>Espanhol: +1 305 715-1490<br/>Português: +1 305 715-1491 | [Consultas do Marketplace de cursos](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VG) | Observe que esses são números dos EUA. Tarifas de chamadas internacionais ou de longa distância podem ser aplicadas pela sua operadora telefônica. | Inglês: Das 7h às 19h (de segunda a sexta-feira) Horário da Colômbia<br/>Espanhol: Das 7h às 19h (de segunda a sexta-feira) Horário da Colômbia<br/>Português: Das 9h às 18h (de segunda a sexta-feira) BRT Horário do Brasil |
 | Ilhas Virgens, EUA | Inglês: +1 305 715-1492<br/>Espanhol: +1 305 715-1490<br/>Português: +1 305 715-1491 | [Consultas do Marketplace de cursos](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VI) | Observe que esses são números dos EUA. Tarifas de chamadas internacionais ou de longa distância podem ser aplicadas pela sua operadora telefônica. | Inglês: Das 7h às 19h (de segunda a sexta-feira) Horário da Colômbia<br/>Espanhol: Das 7h às 19h (de segunda a sexta-feira) Horário da Colômbia<br/>Português: Das 9h às 18h (de segunda a sexta-feira) BRT Horário do Brasil |
-
-## Ajuda da Certificação
-
-Para obter assistência com a Certificação Microsoft, [clique aqui](/learn/certifications/help).

@@ -63,22 +63,22 @@ Este Contrato é celebrado a partir da data de sua aceitação entre você (“*
 
     Ao fazer este exame, você concorda que a Microsoft, suas afiliadas e o provedor do exame podem:
 
-    1. Compartilhar suas informações pessoais e dados de exames uns com os outros para administrar o exame, melhorar o programa de testes e a experiência de testes, facilitar as análises estatísticas e determinar se você foi aprovado no exame;
-    2. Entrar em contato com você em relação a certificados mostrando que você passou no exame ou em informações relacionadas ao programa de certificação da Microsoft;
-    3. Compartilhar suas informações pessoais e resultados de exames com outros programas da Microsoft, por exemplo, o programa Microsoft Partner Network, para verificar a conformidade da sua empresa ou de seu empregador com os requisitos do programa;
-    4. Compartilhar suas informações com os padrões e com os conselhos de certificação afiliados à instituição acadêmica, empresa ou organização governamental que forneceu um voucher de exame; e
-    5. Compartilhar os resultados do exame e as informações com a entidade que emitiu os vouchers ou que comprou a licença caso o exame tenha sido disponibilizado ao candidato por um dos métodos que seguem:
+    - Compartilhar suas informações pessoais e dados de exames uns com os outros para administrar o exame, melhorar o programa de testes e a experiência de testes, facilitar as análises estatísticas e determinar se você foi aprovado no exame;
+    - Entrar em contato com você em relação a certificados mostrando que você passou no exame ou em informações relacionadas ao programa de certificação da Microsoft;
+    - Compartilhar suas informações pessoais e resultados de exames com outros programas da Microsoft, por exemplo, o programa Microsoft Partner Network, para verificar a conformidade da sua empresa ou de seu empregador com os requisitos do programa;
+    - Compartilhar suas informações com os padrões e com os conselhos de certificação afiliados à instituição acadêmica, empresa ou organização governamental que forneceu um voucher de exame; e
+    - Compartilhar os resultados do exame e as informações com a entidade que emitiu os vouchers ou que comprou a licença caso o exame tenha sido disponibilizado ao candidato por um dos métodos que seguem:
         - Empresas ou organizações governamentais que adquirem vouchers e os emitem a funcionários e prestadores de serviços,
         - Uma instituição acadêmica comprou vouchers e depois emitiu os vouchers para seus alunos ou funcionários, ou
         - Uma instituição acadêmica ou organização governamental operava um centro de testes e não cobrava uma taxa independente para fazer o exame.
         - Uma agência do governo que fornece estipêndios de treinamento a serem aplicados com base nas condições de conclusão e sujeitos ao processo de verificação identificado da Microsoft.
-    6. Compartilhar seus resultados de exames e suas informações pessoais com uma entidade que financiou seu exame se o financiamento foi disponibilizado por meio de uma agência governamental que forneça estipêndios de treinamento a serem aplicados com base nas condições de conclusão e sujeitos ao processo de verificação identificado da Microsoft.
+    - Compartilhar seus resultados de exames e suas informações pessoais com uma entidade que financiou seu exame se o financiamento foi disponibilizado por meio de uma agência governamental que forneça estipêndios de treinamento a serem aplicados com base nas condições de conclusão e sujeitos ao processo de verificação identificado da Microsoft.
 
     Para saber mais sobre a coleta de dados e práticas de uso da Microsoft, visite [https://privacy.microsoft.com](https://privacy.microsoft.com/). Para saber mais sobre a coleta de dados e as práticas de uso do provedor de exames, entre em contato com o provedor do seu exame.
 
 6. **AVISO DE TRANSFERÊNCIA DE DADOS**
 
-    Seus dados pessoais, informações sobre exames e resultados de exames (incluindo dados pessoais coletados da União Europeia, Área Econômica Europeia e Suíça) podem ser transferidos, armazenados e processados nos Estados Unidos ou em qualquer outro país no qual a Microsoft ou suas afiliadas ou subcontratadas manter instalações. Você nomeia a Microsoft, suas afiliadas e o provedor de exames para realizar qualquer transferência de Seus dados, informações de exames e resultados de exames para qualquer país e para armazenar e processar Seus dados. A Microsoft obedece aos princípios de Safe Harbor da UE e Suíça definidos pelo Departamento de Comércio dos Estados Unidos no que diz respeito à coleta, ao uso e à retenção de dados da União Europeia e Suíça.
+    Seus dados pessoais, informações de exame e resultados de exame (incluindo dados pessoais coletados do Espaço Econômico Europeu, do Reino Unido e da Suíça) podem ser transferidos para, armazenados e tratados nos Estados Unidos ou em qualquer outro país em que Microsoft ou as suas filiais ou subcontratantes mantêm instalações. Nomeie Microsoft e seus afiliados para realizar qualquer transferência de seus dados, informações de exame e resultados de exame para qualquer país e para armazenar e processar seus dados. Consulte [Microsoft Privacy Statement](https://go.microsoft.com/fwlink/?LinkId=248681) para mais informações sobre como podemos coletar, usar e compartilhar seus dados.
 
 7. **PROPRIEDADE E TODOS OS DIREITOS RESERVADOS**
 

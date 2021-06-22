@@ -45,6 +45,8 @@ products:
 - azure-api-apps
 - azure-app-configuration
 - azure-app-service
+courses:
+- uid: course.pl-600t00
 paths:
 - uid: learn-dynamics.become-solution-architect
 - uid: learn-bizapps.solution-architect-design

@@ -12,22 +12,44 @@ ms.prod: non-product-specific
 ---
 # Request accommodations
 
-## Para exames realizados por meio da Pearson VUE:
+## Quando uma acomodação é necessária
 
-Se você precisar de mais tempo porque o exame não está disponível no seu idioma nativo, solicite outro enviando o [formulário Inglês como Segunda Língua](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx). Siga as instruções no formulário.
+Estamos empenhados em garantir que todas as pessoas que estão interessadas em tirar Microsoft Certification pode fazê-lo de uma forma que é justa e reflete com precisão suas habilidades. Isso significa prover acomodações quando necessário. Acomodações podem incluir equipamentos especiais para aqueles com visão baixa ou que são difíceis de ouvir, pausas por razões médicas, ou tempo extra para testes, porque o exame não está em sua língua nativa.
 
-Se você precisar de equipamento especial ou outra acomodação ao realizar um exame, poderá solicitar uma acomodação por meio da [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) using their “Reasonable Adjustments Request System” [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate). O sistema de solicitação de ajustes razoáveis é um sistema on-line seguro para solicitar acomodações e enviar documentação de suporte.
+Exemplos de situações que requerem acomodações incluem, mas não se limitam à necessidade de:
 
-- Se você é um usuário iniciante no sistema de solicitações, precisará criar um nome de usuário e senha. Para criar um nome de usuário, clique no link “Registrar-se” na tela de login. Observe que o sistema exige que você tenha uma conta de e-mail ativa.
-- A Pearson VUE usa esse sistema seguro porque você precisará fazer o upload da documentação de suporte. Se você ainda não o fez, forneça ao seu avaliador (médico, psicólogo) uma cópia das [Diretrizes para avaliadores](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) para avaliar a sua deficiência. Seu avaliador deve garantir que a documentação fornecida atenda às nossas diretrizes. Na maioria dos casos, seu avaliador será um psicólogo ou médico que administrou uma série de testes psicológicos, educacionais ou médicos e forneceu uma cópia de um relatório de diagnóstico ou de uma carta detalhada.
-- **Aguarde 10 dias úteis para que a Pearson VUE possa analisar sua solicitação. Planeje sua solicitação de maneira apropriada.**
-- Depois que sua solicitação for analisada, você receberá um e-mail de resposta à sua solicitação. A resposta à consulta estará disponível na seção “Meus Documentos” em “Sistema de Solicitação de Ajustes Razoáveis.” Se for aprovada, a resposta à pergunta fornecerá instruções para agendar seu exame com acessibilidade.
-- Se você não estiver satisfeito com a decisão sobre as acomodações do exame, poderá recorrer da decisão clicando no botão “Solicitar um recurso” na mesma seção em que a resposta à consulta é mostrada em “Sistema de Solicitação de Ajustes Razoáveis”. Preencha e envie o formulário de recurso que aparece depois de clicar no botão. Os especialistas em deficiência analisam todas as solicitações de apelação.
+- Tempo Extra devido a uma condição temporária ou permanente, tais como ADHD, PTSD, ou ansiedade durante os exames.
+- Uma configuração de múltiplos monitores ou dispositivo de ampliação física se você é uma pessoa com visão baixa.
+- Utilizar auscultadores anti-ruído ou um dispositivo de ruído branco para melhorar o foco.
+- Um leitor/escriba para ajudar no processo de check-in e/ou para fazer o exame.
+Como o processo de proctoring é projetado para garantir a integridade do processo de certificação, envolve um conjunto estrito de diretrizes que são usadas para monitorar os candidatos durante o exame. Como resultado, você pode precisar solicitar uma acomodação para comportamentos que o proctor pode sinalizar como potenciais violações de segurança se eles não estão cientes da razão para eles. Por exemplo, você também pode precisar de um acomodação se você:
 
-## Para exames realizados pela Certiport:
+- Mover-se ao redor da sala durante o exame para melhorar o foco.
+- Mova-se ao redor da sala ou fique durante o exame por causa da dificuldade de permanecer sentado por longos períodos.
+- Frequentemente olhe para longe do monitor para descansar os olhos ou para concentrar a sua atenção.
+- Notavelmente instável, tal que as pessoas notariam.
+- São incapazes de reorganizar o seu ambiente de teste para cumprir os requisitos padrão.
 
-Se você precisar de mais tempo porque o exame não está disponível no seu idioma nativo, se precisar de equipamento especial ou gostaria de solicitar qualquer outra acomodação ao fazer um exame, você pode solicitar uma acomodação através do Certiport seguindo o processo descrito [aqui](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations).
+Se solicitado, os padrões de protensão também podem ser ajustados quando necessário para fornecer as acomodações adequadas que melhor irão garantir a justiça da sua entrega de exame.
 
-## <a name="for-exams-delivered-through-psi"></a> Para exames realizados pela PSI:
+# Como solicitar acomodações para exame
 
-Para solicitar acomodações a realização do exame, [envie uma solicitação de acomodações à PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) antes de agendar um exame. A PSI responderá à solicitação dentro de 24-48 horas úteis.
+O processo para solicitar acomodações depende com qual dos nossos provedores de entrega de exames você estará fazendo seu exame. No entanto, o processo de solicitar e conceder acomodações pode levar várias semanas para concluir, por isso não se esqueça de iniciar este processo mais cedo para garantir acomodações que você necessita. Os pedidos de acomodações precisam ser feitos ***antes*** você se cadastra para o seu exame para que o provedor de entrega de exame tenha tempo para avaliar o seu pedido e fornecer o acomodação. **Você não deve se registrar para o exame até que você tenha o acomodação em lugar.**
+
+Se você não tem certeza de qual provedor de entrega de exame selecionar, visite: [Como escolher um provedor de entrega de exame](/learn/certifications/register-schedule-exam#how-to-choose-an-exam-delivery-provider).
+
+## Testar acomodações com Pearson VUE (para pessoas singulares)
+
+Se necessitar de equipamento especial ou de qualquer outra acomodação quando fizer um exame, poderá solicitar um acomodação através de: Pearson VUE utilizar o processo descrito no [acomodação Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) para página da Microsoft. Depois de ter enviado os documentos necessários, receberá um e-mail notificando-o de que o seu pedido foi recebido. VUE pode levar até 10 dias úteis para rever seus materiais e contatá-lo com uma resposta. Uma vez que um acomodação é confirmada, pode levar várias semanas para garantir que ele está em vigor quando você faz o exame.
+
+Se o exame não estiver disponível em sua língua nativa e você gostaria de solicitar tempo adicional para ler e responder a perguntas, use o [English as a Second Language form.](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx)
+
+Para centros de testes, alguns tipos de equipamentos, tais como cadeiras de rodas, aparelhos auditivos e inaladores são considerados auxiliares de conforto e não requerem pré-aprovação. Os auxiliares de conforto são inspeccionados visualmente pelo pessoal do centro de testes antes de o permitirem na sala de testes. Para uma lista completa, consulte o [Pearson VUE Comfort Aid List.](https://home.pearsonvue.com/Test-takers/Accommodations/Pearson-VUE-Comfort-Aid-List-PDF.aspx)
+
+## Testar acomodações com Certiport (para estudantes e instituições académicas)
+
+Se o exame não estiver disponível na sua língua materna e desejar solicitar mais tempo para ler e responder a perguntas, necessitar de equipamento especial, ou solicitar qualquer outra acomodação quando fizer um exame, poderá solicitar um acomodação através do processo descrito no [Certiport local de acomodação de teste.](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations) Certiport pode levar até 10 dias úteis para rever seus materiais e contatá-lo com uma resposta. Uma vez que um acomodação é confirmado, pode levar várias semanas para garantir que ele entre em vigor quando você faz o exame.
+
+## Testar acomodações com PSI (para os candidatos a emprego afectados pelo COVID-19)
+
+Para solicitar acomodações de exame, por favor [enviar um pedido de acomodação com PSI](https://psi-cdexp.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000150872) antes de marcar um exame. PSI responderá ao pedido dentro de 48 horas úteis.

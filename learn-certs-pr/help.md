@@ -1,6 +1,6 @@
 ---
-title: Microsoft Certification help | Microsoft Docs
-description: Microsoft Certification help
+title: Suporte à certificação | Microsoft Docs
+description: Suporte à certificação
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,13 +10,22 @@ ms.date: 08/20/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Microsoft Certification help
+# Suporte à certificação
 
-Precisa de ajuda com produtos de certificação Microsoft? Consulte as opções de suporte abaixo.
+## Sobre suporte à certificação
 
-## Como entrar em contato com o suporte
+Estamos aqui para ajudar. Oferecemos apoio através do nosso site abrangente e detalhado e nossos fóruns moderados.
 
-| Área de suporte | Informações de contato |
+## Contate o suporte
+
+| Área de suporte | como contactar - nos |
 | ------------- | --- |
-| **Microsoft Certification Exam e Microsoft Certifications** | Sua pergunta já pode ser respondida nas [Perguntas frequentes do programa de Certificação Microsoft](/learn/certifications/microsoft-certification-program-faqs). <br/><br/>  **Atualize seu nome oficial:** <br/>Envie uma solicitação por meio do [formulário de atualização do nome oficial](https://aka.ms/MSCertificationLegalNamechange).<br/><br/>  **Todas as outras perguntas de suporte:** <br/>Obtenha ajuda nos nossos [fóruns de suporte da certificação](https://aka.ms/MCPForum) moderados.<br/><br/> Para entrar em contato com um representante de suporte ao cliente, clique em Faça uma pergunta na parte superior da página e preencha o formulário.  Um representante de suporte deve responder no prazo de 1 dia útil. |
-| **Programa Microsoft Certified Trainer (MCT)** | Sua pergunta já pode ter sido respondida na seção [Visão geral sobre o programa MCT](/learn/certifications/mct-certification)<br/><br/>  **Fóruns de suporte do MCT:** <br/> Obtenha ajuda nos nossos [fóruns de suporte de MCT](https://aka.ms/MCTForum) moderados.<br/><br/> Para entrar em contato com um representante de suporte ao cliente, clique em Faça uma pergunta na parte superior da página e preencha o formulário.  Um representante de suporte deve responder no prazo de 1 dia útil. |
+| Exames de Microsoft Certification e Microsoft Certification | Sua pergunta já pode ser respondida em uma dessas páginas:<br/> - [Síntese do processo de certificação](/learn/certifications/certification-process-overview)<br/>- [Acesse o seu Certification Dashboard](/learn/certifications/access-certification-dashboard) <br/>- [Gerir o seu perfil de certificação](/learn/certifications/manage-certification-profile)<br/> <br/>Actualizar o seu nome legal:<br/>Enviar um pedido através do [formulário de atualiazação do nome legal.](https://support.microsoft.com/en-us/supportrequestform/de16815f-2fa5-576e-4946-70cae21a4eeb)<br/><br/>Todas as outras questões de suporte:<br/>Obtenha ajuda através dos moderados [fóruns de suporte](https://aka.ms/MCPForum) seguindo os passos abaixo. |
+| Microsoft Certified Trainer (MCT)) programa | Sua pergunta já pode ser respondida em nossa página sobre o [Microsoft Certified Trainer](/learn/certifications/mct-certification) program.<br/> <br/>Todas as outras questões de suporte:<br/>Contacte-nos através do nosso [fórum de suporte moderado](https://trainingsupport.microsoft.com/en-us/tcmct/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) para Microsoft Certified Trainers. |
+
+## Como postar um pedido de suporte nos fóruns
+
+1. No menu de navegação principal no topo da página, clique "Faz uma pergunta." Terá de iniciar a sessão com sua conta Microsoft.
+2. Você vai criar um nome de exibição, e então ser oferecido o modelo para fazer uma pergunta.
+3. Seja específico no assunto da sua pergunta. **Você deve evitar incluir quaisquer informações pessoais como seu post será publicamente visível.**
+4. Um moderador do fórum responderá dentro de 24 horas úteis.

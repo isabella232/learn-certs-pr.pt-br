@@ -22,6 +22,8 @@ roles:
 - business-owner
 products:
 - dynamics-365
+exams:
+- uid: exam.mb-910
 summary: |-
   Este curso fornecerá uma ampla introdução aos recursos de engajamento do cliente da Dynamics 365. Você se familiarizará com o conceito de engajamento do cliente, bem como com cada um dos aplicativos de engajamento do cliente, incluindo Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service e os recursos de gerenciamento de relacionamento com o cliente (CRM) das Operações de Projeto de Dynamics 365. Este curso incluirá palestras, bem como laboratórios práticos.
 

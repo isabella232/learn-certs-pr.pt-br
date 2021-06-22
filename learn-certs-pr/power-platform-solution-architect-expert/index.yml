@@ -48,6 +48,8 @@ paths:
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56P
 exams:
 - uid: exam.pl-600
+courses:
+- uid: course.pl-600t00
 prerequisites:
 - uid: certification.power-platform-functional-consultant-associate
   isOptional: false

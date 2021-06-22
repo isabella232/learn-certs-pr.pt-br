@@ -1,6 +1,6 @@
 ---
-title: Microsoft Exam and Certification Badges | Microsoft Docs
-description: Selos de certificação de exame da Microsoft 
+title: Use e compartilhe crachás de certificação | Microsoft Docs
+description: Use e compartilhe crachás de certificação 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -9,120 +9,103 @@ ms.workload: NA
 ms.date: 05/28/2020
 ms.author: micsullivan
 ---
-# Selos de certificação de exame da Microsoft
+# Use e compartilhe crachás de certificação
 
-Mostre a todos as suas conquistas quando passar em um exame ou obtiver uma nova certificação com um selo digital!
+## Sobre distintivos digitais
 
-Os selos digitais permitem compartilhar facilmente suas habilidades de forma confiável e verificável.
+Você vai ganhar distintivos para passar em exames que fazem parte de um exame múltiplo-certificação e para ganhar certificações. Compartilhar suas conquistas com o mundo através de um distintivo digital é uma ótima maneira de deixar que os outros saibam sobre suas habilidades.
 
-Seu selo Microsoft permite que você:
+Distintivos são representações digitais de suas realizações, consistindo de uma imagem e metadados exclusivamente ligados a você. Quando alguém vê o seu distintivo, eles podem aprender mais sobre suas habilidades e verificar a autenticidade do distintivo—proporcionando uma maneira fácil para alguém para confirmar suas habilidades.
 
-- Compartilhe facilmente suas certificações e exames com sua rede profissional.
+Quando você compartilha seu distintivo digital em sites populares, tais como LinkedIn, Facebook, e Twitter, ou quando você incorporá-lo em seu currículo, site pessoal, ou assinatura de E-mail, qualquer um que vê o seu crachá irá reconhecê-lo imediatamente como uma validação confiável da Microsoft do seu feito.
+
+## Sobre a plataforma Credly
+
+Parceiros da Microsoft com Credly para lhe fornecer uma forma de gerenciar, compartilhar e verificar seus Microsoft Certifications. A plataforma também lhe dá insights do mercado de trabalho que podem ajudá-lo a explorar oportunidades de trabalho que correspondam às suas habilidades. Via Credly e o seu parceiro Gartner TalentNeuron™, você tem acesso 24 horas por dia a mais de 25.000 quadros de emprego globais e sites de carreira corporativa.
+
+Com a Credly plataforma você pode:
+- Baixar a imagem do seu distintivo e URL para incorporar em um currículo, site, ou assinatura de E-mail.
+- Partilhar facilmente os seus exames e certificações com a sua rede profissional.
 - Saiba quais empregadores estão procurando pessoas com suas habilidades.
 - Saiba o salário que pode esperar em um trabalho que exija as suas habilidades Microsoft.
 - Pesquise novas oportunidades de emprego associadas à sua certificação e candidate-se em apenas alguns cliques.
+- Explorar as perspectivas do mercado de trabalho e as oportunidades de emprego. Veja o vídeo: [Credly: Labor market insights](https://vimeo.com/379867308) para ver como é fácil descobrir rapidamente oportunidades em seu mercado.
 
-Para obter mais detalhes, consulte nossa postagem no blog [Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification).
+Para saber mais, consulte nossa postagem no blog [Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification).
 
-## O que é um selo digital?
+## Como reivindicar o(s) seu(s) crachá(s)
 
-A Microsoft fez parceria com a plataforma Acclaim da Credly para atribuir selos que celebram suas conquistas.
+Reivindicar o seu crachá Microsoft é simples e pode reclamá-lo a qualquer momento, mesmo que o tenha merecido no passado. Depois de ganhar um crachá, receberá um e-mail de notificação da Microsoft com informações sobre como reclamá-lo.
 
-Estes selos são representações digitais de suas certificações da Microsoft, consistindo de uma imagem e metadados unicamente associados a você. Quando alguém vê o seu selo, essa pessoa poderá saber mais sobre suas habilidades e poderá verificar sua autenticidade, assegurando que somente você pode assumir o mérito por suas habilidades.
+1. Clique no link no e-mail para reclamar o seu crachá. Isto vai levar-te à plataforma Credly.
+2. Criar uma conta em Credly. Use o mesmo endereço de E-mail que usou para configurar sua Conta da Microsoft.
+3. Confirmar a sua conta Credly clicando no link em um e-mail de confirmação que é gerado depois de configurar sua conta.
+4. Reivindicar distintivos futuros é tão fácil como clicar no link no e-mail de notificação e entrar em sua conta Acclaim.
 
-Além disso, expandimos recentemente a aparência dos nossos selos para que se alinhem mais com as outras credenciais que você pode obter com a Microsoft. Agora, quando você compartilha seu selo digital em sites populares on-line, como o LinkedIn, o Facebook e o Twitter, ou quando o incorpora em seu currículo, site pessoal ou assinatura eletrônica, qualquer pessoa que veja seu selo reconhecerá imediatamente como emitido pela Microsoft.
+Se você não tiver mais o email da notificação para reivindicar seu crachá, basta criar uma conta na plataforma Credly* que utiliza o mesmo endereço de E-mail que Microsoft tem um registrado para você. O seu distintivo estará à sua espera na sua conta para o reclamar.
 
-## Qual é o processo para reivindicar um selo?
+_ * Por favor, note que este link irá levá-lo para Credly, um terceiro cujas práticas de privacidade diferem da Microsoft. Se você fornecer dados pessoais para Credly, seus dados são regidos por sua declaração de Privacidade._
 
-Reivindicar seu selo Microsoft é muito simples. Depois de obter uma certificação ou passar em um exame, você receberá um e-mail de notificação da Microsoft. Para reivindicar seu selo:  
+## Como aceitar crachás automaticamente do Credly
 
-1. Clique no link nesse e-mail.
-2. Crie uma conta na plataforma Acclaim no Credly.
-3. Confirme sua conta clicando no link em um e-mail de confirmação gerado após a configuração da sua conta.
+Na plataforma Acclaim da Credly, ajuste suas configurações de conta para aceitar automaticamente crachás emitidas para você. Assista a este processo passo a passo no vídeo de Acclaim “[How to manage your badge.](https://www.youtube.com/watch?v=rMeSQM0h1_Y)” Observe que, embora o vídeo mostre notificações por e-mail do crachá vindos de Acclaim, suas notificações por e-mail virão da Microsoft.
 
-Reivindicar emblemas futuros é tão fácil quanto clicar no link no e-mail de notificação e fazer login na nossa conta Acclaim.
+## Como partilhar o teu distintivo
 
-Deseja simplificar esse processo?
+Sempre que aprender uma nova competência Microsoft ou ganhar um Microsoft Certification  em sua área, é um feito que vale a pena compartilhar e celebrar com sua rede.
 
-Basta ajustar as configurações da sua conta para aceitar automaticamente os crachás emitidos para você. Você pode assistir o passo a passo do processo no vídeo [Acclaim How To: Manage your badge](https://www.youtube.com/watch?v=rMeSQM0h1_Y). Observe que, embora o vídeo mostre notificações por email de distintivo provenientes do Acclaim, suas notificações por email serão da Microsoft.
+Depois de reivindicar o seu crachá da Microsoft Certification, para compartilhá-lo e seu status de certificação:
 
-Aproveite as características oferecidas na plataforma Acclaim da Credly:
+1. Vai para a plataforma Credly, quer através do seu [Microsoft Certification Dashboard](https://aka.ms/certdashboard) ou através do link no seu cartão de crédito e-mail da Microsoft.
+2. Assine no seu Credly conta.
+3. Para ir à página "Share your badge”, Seleccione **Share**.
+4. Para compartilhar seu crachá nas mídias sociais (tais como LinkedIn) ou para inseri-lo em seu currículo, assinatura de E-mail, ou site pessoal, use os recursos de compartilhamento de um clique nesta página.
 
-- Compartilhe seu selo no LinkedIn, no Facebook e no Twitter.
-- Baixe a imagem e obtenha a URL do seu selo para incorporar a um currículo, a um site ou a uma assinatura eletrônica.
-- Personalize seu perfil na plataforma Acclaim.
-- Explore informações do mercado de trabalho e oportunidades de emprego. Assista ao vídeo  [Acclaim How To: Explore labor market insights](https://www.youtube.com/watch?v=G4qBl17VgBo) para ver como é fácil descobrir rapidamente oportunidades em seu mercado.
-
-Seu selo digital é mais uma maneira da Microsoft apoiar o desenvolvimento e o reconhecimento de suas habilidades profissionais. Aproveite esse novo programa para ajudar a acelerar o crescimento da sua carreira.
-
-## Você tem selos não reivindicados?
-
-Você pode reivindicar seu selo a qualquer momento, mesmo que você tenha passado em um exame ou tenha obtido uma certificação no passado. Todos os emblemas que você ganhou da Microsoft com base no seu histórico de certificação passado estão disponíveis na plataforma Acclaim. Basta fazer login na sua conta e reivindicá-los!
-
-Se você não possui uma conta do Acclaim, poderá criar uma conta no site da plataforma [Acclaim](https://www.youracclaim.com/)* usando o mesmo endereço de e-mail registrado no banco de dados da Microsoft. Seu selo estará disponível em sua conta para que possa reivindicá-lo.
-
-_*Observe que este link o levará à plataforma Acclaim da Credly, um terceirizado cujas práticas de privacidade diferem das da Microsoft. Se você fornecer dados pessoais para Acclaim, seus dados são regidos pela declaração de privacidade deles._
-
-## Eu tenho direito a um selo?
+## Exames e certificações elegíveis para um crachá
 
 Emitimos crachás para todos os exames e certificações ativos no programa Microsoft Certification, com as seguintes exceções:  
 
 - Nos casos em que a aprovação em um exame resulta em uma certificação, um emblema é emitido para a certificação, e não para o exame.
-- Exame 74-343 Gerenciamento de projetos com o Microsoft Project (aposentado em julho de 2019).
-- Exames e Certificações MOS 2010.
-- Exames Microsoft Dynamics CRM (MB2-706, MB2-707, MB2-708, MB2-710, MB2-711, MB2-712, MB2-713, MB2-714 (todos reformados a 31 de Dezembro de 2019)).
-- Exames e certificações legados. Os selos não estão disponíveis para alguns de nossos exames e certificações herdados. Se você não encontrar um crachá para um exame ou certificação herdado em seu perfil do Acclaim, não emitimos um para esse exame ou certificação.
+- Os selos não estão disponíveis para alguns de nossos exames e certificações herdados. Se você não encontrar um crachá para um exame ou certificação herdado em seu perfil do Acclaim, não emitimos um para esse exame ou certificação.
 
-Se você ganhou um crachá por um exame ou certificação que foi aposentado, ainda é possível reivindicar o selo por meio da plataforma Acclaim do Credly e compartilhá-lo com outras plataformas ou por e-mail. Veja a resposta para “Você tem emblemas não reclamados?” Nas Perguntas frequentes para saber como.
+Se você ganhou um crachá para um exame ou certificação que foi aposentado, você ainda pode reivindicar o seu crachá via a plataforma Credly.
 
-## Perguntas frequentes
 
-**P. Há algum custo associado com a reivindicação, gerenciamento ou compartilhamento de meu selo da Microsoft?**
+## Perguntas frequentes sobre distintivos
 
-**R.** Não. Não há custo associado ao requerimento, gerenciamento ou compartilhamento de seu selo da Microsoft. Esse é um serviço gratuito oferecido pela Microsoft.
+**Há algum custo associado com a reivindicação, gerenciamento ou compartilhamento de meu selo da Microsoft?**
 
-**P. Como minha credencial é exibida como selo Microsoft?**
+Não. Este é um serviço gratuito fornecido pela Microsoft.
 
-**R.** A plataforma Acclaim da Credly utiliza padrões Open Badges definidos pela Mozilla para traduzir sua credencial para uma imagem digital associada a seus metadados, os quais estão exclusivamente conectados a você. Este padrão permite a você compartilhar facilmente seu selo digital online de uma maneira que possa ser verificada por empregadores e colegas de profissão.
+**Como minha credencial é exibida como selo Microsoft?**
 
-**P. Meu selo parece diferente. O que mudou?**
+A plataforma Credly utiliza as normas do Open Badges definidas pelo Mozilla para traduzir a sua credencial para uma imagem digital associada a metadados exclusivamente ligados a si. Este padrão permite a você compartilhar facilmente seu selo digital online de uma maneira que possa ser verificada por empregadores e colegas de profissão.
 
-**R.** A aparência de nossos selos foi atualizada para se alinhar com a aparência e os selos que você pode ganhar em toda a Microsoft. O novo modelo tem a mesma funcionalidade que antes e nós continuamos a incentivá-lo o compartilhamento das próprias habilidades exclusivas com seus colegas e canais sociais.
+**O meu distintivo mais novo parece diferente dos que ganhei anteriormente. O que mudou?**
 
-**P. Quando e como eu posso reivindicar meu selo?**
+O olhar e a sensação de nossos distintivos foram atualizados para alinhar com o olhar e sentir os distintivos que você pode ganhar em toda a Microsoft. O novo design tem a mesma funcionalidade que antes.
 
-**R.** Você pode reivindicar seu selo a qualquer momento. Você pode Acesse o selo por meio de qualquer das notificações de selo ou lembretes de e-mail. Ou, se você não tiver mais esses e-mails, é possível acessar sua conta do Acclaim. Se você não possui uma conta, poderá criar uma no [Acclaim platform site](https://www.youracclaim.com/)* usando o mesmo endereço de e-mail registrado no banco de dados da Microsoft. Seu selo estará disponível em sua conta. Observe que a Microsoft poderá encerrar esse programa de selos digitais a qualquer momento.
+**E se eu não quiser que o meu distintivo Microsoft se torne público?**
 
-_*Observe que este link o levará à plataforma Acclaim da Credly, um terceirizado cujas práticas de privacidade diferem das da Microsoft. Se você fornecer dados pessoais para Acclaim, seus dados são regidos pela declaração de privacidade deles._
+Você está no controle de como e quando seu distintivo é tornado público. Você pode ajustar as configurações de Privacidade em sua conta na plataforma Credly para tornar o seu perfil e distintivos privados. Você não é obrigado a aceitar seus distintivos e pode ignorar os e-mails de notificação se você não deseja participar no programa de crachá da Microsoft.
 
-**P. Eu conquistei vários selos Microsoft. Eu preciso reivindicar manualmente cada selo que obtenho?**
+**Se eu tenho perguntas sobre o meu crachá da Microsoft, quem posso contactar?**
 
-**R.** Não, você pode ajustar as configurações em sua conta na plataforma Acclaim para aceitar automaticamente selos emitidos para você. Assista a este [video](https://www.youtube.com/watch?v=rMeSQM0h1_Y) para saber como.
+Visite: [Suporte à certificação](/learn/certifications/help).
 
-**P. E se eu não quiser que meu selo Microsoft seja divulgado publicamente?**
+Se tiver alguma dúvida sobre a plataforma Credly ou sobre como reclamar o seu crachá, contacte [Suporte Credly.](https://support.youracclaim.com/)
 
-**R.** Você controla como e quando seu selo é divulgado publicamente. É possível ajustar as configurações de privacidade na sua conta na plataforma Acclaim para deixar seu perfil e selos privados. Você não é obrigado a aceitar seus selos e pode desconsiderar os e-mails de notificação caso não queira participar do programa de selos Microsoft.
+**E se eu ganhar um crachá da Microsoft por meio da Certiport, mas ainda não recebi meu crachá?**
 
-**P. O que é a plataforma Acclaim da Credly?**
-
-**R.** A plataforma Acclaim é uma plataforma de selos independente da Credly. A Acclaim oferece uma maneira de gerenciar, compartilhar e verificar suas Certificações Microsoft. A plataforma também oferece informações sobre o mercado de trabalho que podem ajudá-lo a explorar oportunidades que se enquadram com suas habilidades. [Saiba mais sobre Acclaim](https://www.youracclaim.com/).
-
-**P. Quem posso contatar caso eu tenha dúvidas sobre meu selo Microsoft?**
-
-**R.** Se você acredita que tem direito a receber um selo, mas não recebeu nenhuma informação a respeito, entre em contato com [Certification Support](https://aka.ms/MCPForum). Se você tiver alguma dúvida sobre a plataforma Acclaim ou sobre como resgatar seu selo, entre em contato com o [Credly’s support](https://support.youracclaim.com/).
-
-**P. E se eu obtive um selo Microsoft através do Certiport, mas ainda não o recebi?**
-
-**R.** Entre em contato com a Certiport 
-[https://certiport.pearsonvue.com/Support/Support-for-test-candidates/Customer-service](https://certiport.pearsonvue.com/Support/Support-for-test-candidates/Customer-service) para obter informações sobre o selo em falta.
+Contacte [contact Certiport](https://certiport.pearsonvue.com/Support/Support-for-test-candidates/Customer-service) para saber do seu distintivo desaparecido.
 
 Observe que: Caso os detentores de selos não recebam um selo da Certiport, geralmente é por um dos motivos a seguir:
 
 1. O seu idioma padrão na conta do Certiport não é inglês.
 2. Você tem duas contas no sistema de certificação da Certiport.
 
-Pode ser útil mencionar estes motivos ao suporte da Certiport para ajudar na solução do problema.
+Pode ajudar se mencionar ao suporte Certiport se você acredita que um destes pode ser o problema para ajudar na solução de problemas.
 
-**P. O que acontece com o meu selo se um exame ou certificação for descontinuado?**
+**O que acontece com o meu selo se um exame ou certificação for descontinuado?**
 
-**R.** Se você obteve um selo para um exame ou uma certificação que foi escolhida para fazer parte do programa de selos digitais, mas depois foi inserido na [retired list](/learn/certifications/retired-certifications#retired-certifications), você ainda pode resgatar o selo através da Acclaim da Credly e compartilhá-lo normalmente em outras plataformas ou por e-mail.
+Se você ganhou um crachá para um exame ou certificação que foi escolhido para fazer parte do programa de crachá digital, mas foi mais tarde [aposentado](/learn/certifications/retired-certifications), você ainda pode aceitar o distintivo via a plataforma Credly.
