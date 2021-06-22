@@ -25,7 +25,6 @@ roles:
 - functional-consultant
 products:
 - dynamics
-- dynamics-marketing
 exams:
 - uid: exam.mb-220
 summary: |-
@@ -34,18 +33,17 @@ summary: |-
   #### Perfil do público
   Este curso foi desenvolvido para profissionais de IT ou marketing que desejam aprender como aproveitar o Dynamics 365 Marketing para empresas.
 prerequisitesSection: |-
-  Conhecimento da plataforma Dynamics 365 e entendimento dos princípios básicos de marketing.
+  Conhecimento da plataforma Dynamics 365 e uma compreensão dos princípios básicos de marketing. Experiência em Power Platform, especialmente em aplicações orientadas por modelos, também é recomendada.
 outlineSection: |-
   ### Módulo  1&#58; Configurar o Dynamics 365 for Marketing
-  Neste módulo, você aprenderá sobre configurações avançadas, conteúdo de marketing, modelos e integrações no Dynamics 365 for Marketing.
+  Neste módulo, você vai aprender como configurar sua instância de Marketing e configuração avançada.
   #### Lições
-  - Definir configurações de organização e administração
+  - Criar e gerir Dynamics 365 Marketing
   - Definir configurações de marketing
-  - Definir configurações de eventos
 
   Após concluir este módulo, você será capaz de&#58;
+  - Configurar seu aplicativo de Marketing.
   - Definir configurações avançadas como organização, administração comercial e conteúdo.
-  - Gerenciar conteúdo e modelos de marketing.
   
   
   ### Módulo  2&#58; Gerenciar segmentos e listas
@@ -100,13 +98,13 @@ outlineSection: |-
   ### Módulo  6&#58; Gerenciar eventos
   Este módulo revisará o processo de criação da jornada do cliente.
   #### Lições
-  - Criar um evento no local
+  - Criar um evento
   - Criar um evento de webinar
   - Promover e gerenciar eventos
   
   Depois de concluir este módulo, você será capaz de&#58;
-  - Criar um evento de webinar.
-  - Criar um evento no local.
+  - Criar um evento.
+  - Criar um evento de webinar usando Teams como um provedor webinar.
   - Promover um evento.
   - Gerenciar o site do evento.
   - Definir as configurações de eventos.

@@ -1,0 +1,71 @@
+### YamlMime:FAQ
+metadata:
+  title: Mudança de Learning para Microsoft Learn | Microsoft Docs
+  description: Mudança de Learning para Microsoft Learn
+  documentationcenter: NA 
+  author: micsullivan
+  ms.topic: article
+  ms.tgt_pltfrm: NA
+  ms.workload: NA
+  ms.date: 06/18/2020
+  ms.author: msulliv
+  ms.prod: non-product-specific
+    
+title: Mudança de Learning para Microsoft Learn
+summary: |
+
+  ## A nossa nova plataforma de aprendizagem
+
+  Como acontece com a maior parte da tecnologia, estamos a fazer actualizações. Desta vez para a nossa plataforma de aprendizagem. Estamos a fundir o website da Microsoft Learning com o website da Microsoft Learn. 
+      
+  Microsoft Learn é o lugar para iniciar sua jornada para explorar e aprender sobre nossas tecnologias. É aqui que você pode descobrir uma coleção abrangente de opções de treinamento que lhe capacita a aprender em um estilo que se adapta melhor a você. 
+      
+  Os caminhos de aprendizagem gratuitos da Microsoft Learn&#58;
+              
+  - Tutoriais curtos, passo a passo.
+  - Ambientes de codificação/programação interactivos baseados no navegador.
+  - Realizações baseadas em tarefas.
+  - Opções de treino lideradas por instrutores.
+  
+  Descobrir Microsoft Certifications no Microsoft Learn enquanto continuamos em direção a um único destino de aprendizagem alunos da Microsoft.
+  
+  ## Perguntas frequentes sobre a transição
+
+sections:
+  - name: Perguntas frequentes sobre a transição
+    questions:
+      - question: |
+          Quando é que o conteúdo passou para Microsoft Learn?
+        answer: |
+          Em 2019 nos mudamos as páginas web da Microsoft Learning (https://microsoft.com/learning) para Microsoft Learn (https://docs.microsoft.com/learn/).
+          
+      - question: |
+          O que permanecerá no Microsoft Learning?
+        answer: |
+          O conteúdo a seguir permanecerá no Microsoft Learning até uma data posterior em 2020:
+          - Painel de certificação ([https://aka.ms/certdashboard](https://aka.ms/certdashboard))
+          
+      - question: |
+          What about my bookmarks; will they continue to work?
+        answer: |
+          Pages that move from Microsoft Learning to Microsoft Learn will be redirected to the new pages on Microsoft Learn. These redirects will not persist forever, so you should update your bookmarks when the pages move.
+
+      - question: |
+          Ainda serei capaz de ver a minha informação de certificação completa e exames registrados?
+        answer: |
+          Sim, você vai continuar a ter acesso total ao seu perfil de certificação no Certification Dashboard (https://aka.ms/certdashboard) como fazes hoje. Exames programados, distintivos, certificados e transcrições permanecerão disponíveis. Além disso, foram acrescentados links ao Certification Dashboard Microsoft Learn perfil.
+          
+      - question: |
+          No site da Microsoft Learn, Eu vejo um perfil “Entrar”. É o mesmo que o perfil “Entrar” no Microsoft Learning? Vou ser capaz de entrar no site da Microsoft Learn para ver a minha certificação e informações do exame?
+        answer: |
+          Até que o Certification Dashboard da Microsoft Learning seja transferido para Microsoft Learn, você vai continuar a acessar tudo relacionado com suas certificações (horários de exames, histórico, crachás, etc.) ao entrar no seu perfil na Certification Dashboard (https://aka.ms/certdashboard) que estarão disponíveis em Microsoft Learning e acessíveis a partir do site da Microsoft Learn. O perfil [Microsoft Learn](https://docs.microsoft.com/learn) permanecerão separados até uma data posterior. Nos próximos meses, vamos fundir o Certification Dashboard com o perfil da Microsoft Learn para criar um perfil unificado.
+          
+      - question: |
+          Se eu já tiver um perfil Microsoft Learning, preciso de me registar para um perfil em Microsoft Learn?
+        answer: |
+          Sim. O perfil da Microsoft Learning (certification) é diferente do perfil da Microsoft Learn. Você terá que criar um perfil em Microsoft Learn para acessar certas funcionalidades na Microsoft Learn isso não vai funcionar se não se inscrever. Se você criar um perfil, sugerimos que você se registre usando o mesmo e-mail que você usou para criar o seu perfil Microsoft Learning (certification). Quando a Certification Dashboard da Microsoft Learning for incorporado no Microsoft Learn Tech Profile nos próximos meses, forneceremos detalhes sobre a ligação de perfis e outras mudanças relacionadas com perfis.
+
+      - question: |
+          Como posso obter ajuda se tenho um problema ou uma pergunta? Onde posso encontrar apoio?
+        answer: |
+          Para instruções detalhadas sobre como acessar o suporte, visite: [suporte de Certificação](/learn/certifications/help).

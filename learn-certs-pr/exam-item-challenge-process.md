@@ -12,33 +12,32 @@ ms.prod: non-product-specific
 ---
 # Exam item challenge process
 
-Os exames de certificação da Microsoft são projetados para garantir que os candidatos aprovados e obtenham nossas certificações demonstrem os níveis de proficiência exigidos nos domínios de habilidade. Cada pergunta do exame de certificação da Microsoft é cuidadosamente revisada por um painel de especialistas e técnicos da área e para precisão, clareza e relevância técnicas. Se você acredita que determinada questão de um Microsoft Certification Exam seja imprecisa, solicite uma avaliação da questão usando o formulário de contestação de item de exame, criado para ajudar a identificar e corrigir perguntas problemáticas. No entanto, mesmo que uma pergunta tenha sido formulada de maneira errônea, não podemos supor que você a teria respondido corretamente, portanto, a maioria dos exames não é salva. Nesses casos, oferecemos aos aprendizes a oportunidade de fazer novamente o exame gratuitamente.
+## Desafiando um item de exame
 
-### Critérios para aceitação de uma contestação de itens de exame:
+Exames Microsoft Certification são projetados para garantir que os candidatos que passam nos exames e ganham nossas certificações tenham demonstrado o nível de proficiência exigido em todo o domínio de habilidade. Cada questão do exame Microsoft Certification é cuidadosamente analisada por um painel de especialistas técnicos e profissionais para precisão técnica, clareza e relevância. Se você acredita que uma pergunta num exame Microsoft Certification é impreciso, você pode solicitar uma avaliação da pergunta através do processo de desafio item do exame, projetado para ajudar a identificar e corrigir perguntas problemáticas. No entanto, mesmo que uma pergunta seja falha de alguma forma, não podemos assumir que você teria respondido corretamente se não tivesse essa falha, portanto, a maioria dos desafios não resultam em uma mudança no resultado do exame.
+
+## Critérios para aceitação de uma contestação de itens de exame:
 
 - O exame deve ter sido realizado nos últimos 30 dias (consecutivos).
-- Pedidos de análises de pontuação.
-- Contestação sobre um item específico do exame.
+- Estás a desafiar um item específico no exame.
 
-### As contestações de itens do exame não serão aceitos para os seguintes critérios:
+## As contestações de itens do exame não serão aceitos para os seguintes critérios:
 
 - Contestações do exame inteiro.
-- Contestações baseadas em materiais de estudo (testes práticos, guias de estudo, materiais de treinamento etc.)
+- Contestações baseadas em materiais de estudo (testes práticos, guias de estudo, materiais de treinamento etc.).
 - Contestações para a adequação de uma pergunta.
 - O envio deve ser feito 30 dias corridos (consecutivos) após a realização do exame.
 - Contestações baseados em questões técnicas enfrentadas em um centro de testes.
-- Contestações que não são enviados por meio deste formulário.
+- Desafios que não são apresentados através deste processo.
 - Contestações de metodologias de pontuação (por exemplo: o gráfico de barras não representa a pontuação real).
 - Contestações do formato do exame (padrão, ordenado, adaptável).
-- Contestações para os exames beta. Se você tiver comentários adicionais sobre um exame Beta que não puderam ser fornecidos durante o período de comentários, envie-os para [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
+- Desafios para os exames beta; se você tem feedback adicional sobre um exame beta que você não foi capaz de fornecer durante o período de comentário, por favor envie seu feedback para [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
 
-### Processo de contestação de itens de exame:
+## Processo de contestação de itens de exame:
 
 1. Leia nossos critérios para aceitar e não aceitar uma contestação de item de exame.
-2. Preencha e envie o [formulário de contestação do item de exame](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u).
-3. A equipe de certificação da Microsoft analisará seu envio para verificar se está completo.
-   a. Se estiver incompleto, você será solicitado a fornecer mais informações.
-   b. Se estiver completo, a equipe de certificação da Microsoft o analisará. Uma análise leva aproximadamente duas semanas.
-4. Quando a análise for concluída, você receberá uma notificação com o resultado.
+2. Preencha e envie o [formulário de contestação do item de exame.](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u)
+3. A equipe Microsoft Certification irá rever a sua candidatura para ser completa. Se incompleto, você será solicitado a fornecer mais informações. Se completo, a equipe Microsoft Certification irá rever. Uma revisão demora aproximadamente duas semanas.
+4. Uma vez concluída a revisão, você será notificado do resultado.
 
-Obrigado por seu interesse em ajudar a tornar os Microsoft Certification exams tão válidos e relevantes quanto possível.
+Obrigado pelo seu interesse em ajudar a tornar exames Microsoft Certification tão válidos e relevantes quanto possível.

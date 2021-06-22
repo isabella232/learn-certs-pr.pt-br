@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Courses | Microsoft Docs
-description: Microsoft Retired Courses
+title: Reforma do curso | Microsoft Docs
+description: Reforma do curso
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,19 +9,54 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Cursos desativados
+# Reforma do curso
 
-As tabelas a seguir listam os cursos que estão desativados ou que serão desativados em breve. Após a data de desativação, os cursos não serão mais vendidos.
+## Sobre a reforma do curso
 
-Se você estiver procurando por cursos do MOC On-Demand desativados, siga o link: [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+Microsoft acompanha continuamente as tendências da indústria e revê os requisitos de certificação para acompanhar as mudanças na tecnologia. Para ajudá-lo a estar na vanguarda da tecnologia e oferecer-lhe as oportunidades de formação mais relevantes, introduzimos regularmente novos cursos e revisamos ou interrompemos os cursos mais antigos.
 
-## Cursos desativados: Treinamento ministrado por instrutor
+Assim que um curso é retirado, já não estará disponível. O curso não pode mais ser comprado e as pessoas que o compraram anteriormente não terão mais acesso ao courseware.
+
+## Cursos aposentados: treinamento com instrutor
+
+* Aposentadoria de cursos em 31 de Maio de 2021
+
+    | Course number | Version | Title | Language | Retirement date |
+    | --- | --- | --- | --- | --- |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | English | 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | English | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | English | 5/31/2021 |
+
+* Aposentadoria de cursos on April 30, 2021
+
+    | Course number | Version | Title | Language | Retirement date |
+    | --- | --- | --- | --- | --- | 
+    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | English | 04/30/2021 |
 
 * Reforma de material em 31 de março de 2021
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
     | 20778 | C | Analyzing Data with Power BI | Inglês | 31/03/2021 |
+    | 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | Japanese | 3/31/2021 |
+    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | Japanese | 3/31/2021 |
+    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | Japanese | 3/31/2021 |
+    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | Japanese | 3/31/2021 |
+    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Japanese) | Japanese | 3/31/2021 |
+    | 40241 | A | MTA Cloud Fundamentals 98-369 (Japanese) | Japanese | 3/31/2021 |
+	| 40349 | B | Windows OS Fundamentals | English | 03/31/2021 |
+    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | English | 3/31/2021 |
+    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | English | 3/31/2021 |
+    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | English | 3/31/2021 |
+    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | English | 3/31/2021 |
+    | 40366 | B | Networking Fundamentals | English | 03/31/2021 |
+    | 40367 | B | Security Fundamentals | English | 03/31/2021 |
+    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | English | 03/31/2021 |
+    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | English | 03/31/2021 |
+	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | English | 3/31/2021 |
+    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | English | 3/31/2021 |
+    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | English | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | English | 3/31/2021 |
 
 * Cursos desativados em 31 de dezembro de 2020
 
@@ -989,7 +1024,7 @@ Se você estiver procurando por cursos do MOC On-Demand desativados, siga o link
 
 * Cursos desativados em 24 de junho de 2016
 
-  [Baixe a lista completa de cursos de e-learning desativados](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
+  [Baixe a lista completa de cursos de e-learning desativados.](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
 * Cursos desativados em 15 de junho de 2016
 
@@ -1025,7 +1060,7 @@ Se você estiver procurando por cursos do MOC On-Demand desativados, siga o link
 
 * Cursos desativados em 31 de dezembro de 2015
 
-  [Baixe a lista completa de cursos presenciais desativados](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
+  [Baixe a lista completa de cursos presenciais desativados.](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
 * Cursos desativados em 31 de agosto de 2015
 
@@ -1046,7 +1081,7 @@ Se você estiver procurando por cursos do MOC On-Demand desativados, siga o link
 
 * Cursos desativados em 30 de junho de 2015
 
-  [Baixe a lista completa de cursos presenciais desativados](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
+  [Baixe a lista completa de cursos presenciais desativados.](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
 * Cursos desativados em 31 de janeiro de 2015
 
@@ -1139,8 +1174,8 @@ Se você estiver procurando por cursos do MOC On-Demand desativados, siga o link
 
 * Cursos desativados em 29 de dezembro de 2017
 
-  * [Baixe a lista completa de cursos de SA e-learning desativados](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
-  * [Baixe a lista completa de cursos de MSIA e-learning desativados](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [Baixe a lista completa de cursos de SA e-learning desativados.](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [Baixe a lista completa de cursos de MSIA e-learning desativados.](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
 * Cursos desativados em 15 de agosto de 2017
 
@@ -1150,62 +1185,58 @@ Se você estiver procurando por cursos do MOC On-Demand desativados, siga o link
 
 * Cursos desativados em 30 de junho de 2017
 
-  * [Baixe a lista completa de cursos de SA e-learning desativados](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
-  * [Baixe a lista completa de cursos de MSIA e-learning desativados](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
+  * [Baixe a lista completa de cursos de SA e-learning desativados.](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
+  * [Baixe a lista completa de cursos de MSIA e-learning desativados.](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
 * Cursos desativados em 30 de junho de 2015
 
-  * [Baixe a lista completa de cursos de e-learning desativados](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
+  * [Baixe a lista completa de cursos de e-learning desativados.](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 
 * Cursos desativados em 12 de março de 2014
 
-  * [Baixe a lista completa de cursos de e-learning desativados](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
+  * [Baixe a lista completa de cursos de e-learning desativados.](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 
-## Perguntas frequentes (FAQ) sobre a descontinuação de cursos e MOC On-Demand
- 
-**P: Por que os cursos são desativados?**
-  
-A Microsoft monitora continuamente as tendências do setor e revisa os requisitos de certificação para acompanhar as mudanças na tecnologia. Para garantir que ofereceremos aos nossos usuários as oportunidades de treinamento mais relevantes, introduzimos regularmente novos cursos e revisamos ou suspendemos os cursos mais antigos. 
+## Cursos reformados: MOC On-Demand
 
-**P: Que critérios são usados para determinar que um curso deve ser desativado?**
+Todo Microsoft Official Course (MOC) On-Demand os cursos foram aposentados em 30 de junho de 2020. Para uma lista completa dos cursos aposentados, visite: [MOC On-Demand Courses já foram reformados.](/learn/certifications/retired-on-demand-online-courses)
+
+## Perguntas frequentes sobre o curso e reforma de MOC On-Demand 
+
+**Que critérios são usados para determinar que um curso deve ser desativado?**
  
 Normalmente, um curso será desativado em uma das seguintes situações:
 
 - O curso foi substituído. Um novo curso será lançado para substituir um ou mais cursos anteriores e abrangerá o material de uma maneira substancialmente nova.
-- Se não houver suporte da Microsoft para uma tecnologia abordada em um curso, este geralmente será desativado.
+- Se a tecnologia abrangida num curso já não for apoiada pela Microsoft, o curso normalmente será aposentado.
 - As decisões de negócios relacionadas ao sucesso de um curso ou aos custos de manutenção de atualização de um curso poderão levar à sua desativação.
-- A certificação foi desativada. Se o curso for projetado para uma certificação que não é mais oferecida, o curso poderá ser desativado.
+- A certificação foi retirada. Se o curso foi projetado para uma certificação que já não é oferecido, o curso pode ser retirado.
 - Os cursos oferecidos por autores não vinculados à Microsoft por meio do programa de autores da comunidade poderão ser desativados por qualquer motivo a pedido do autor.
 - Questões de qualidade podem resultar na desativação do curso. Se forem identificadas preocupações com a qualidade de um curso, ele poderá ser desativado até que a qualidade seja melhorada.
   
-**P: Como saberei se um curso está desativado?**
+**Como saberei se um curso está desativado?**
   
 A Microsoft publica uma lista trimestral de cursos desativados e daqueles que estão programados para a desativação nos próximos três a seis meses. Os anúncios de desativação são compartilhados por meio de comunicação com parceiros de treinamento, instrutores, fornecedores e outros interessados. As descrições dos cursos no Catálogo de Treinamento da Microsoft e no Catálogo da Biblioteca de Cursos são atualizadas com o anúncio da data de desativação.
 
-**P: Como posso adquirir um curso após a data da desativação?**
+**Como posso adquirir um curso após a data da desativação?**
 
 Após a data de desativação, os cursos não serão mais vendidos. A data da desativação é divulgada por meio da página Web do catálogo para cada curso e por meio de canais de comunicação habituais para cada público. Na data efetiva da desativação, o curso é marcado como indisponível para venda. Para evitar confusões, o curso permanece listado como indisponível para venda, durante um período após a desativação efetiva, até que seja arquivado e totalmente removido do catálogo.
 
-**P: Posso adquirir a versão digital de um curso antes da desativação e baixá-lo ou usá-lo após a data da desativação?**
+**Posso adquirir a versão digital de um curso antes da desativação e baixá-lo ou usá-lo após a data da desativação?**
 
 Após o curso ser desativado, você não terá mais acesso para baixá-lo. Se você fez o download ou recebeu o curso antes da data da desativação, você poderá usá-lo de acordo com os termos de licenciamento.
 
-**P: O que acontece com os cursos que estão sendo desativados e me foram atribuídos, antes da desativação, em meu Plano de Aprendizagem e/ou adicionados à seção “Meus cursos”?**
+**O que acontece com os cursos que estão sendo desativados e me foram atribuídos, antes da desativação, em meu Plano de Aprendizagem e/ou adicionados à seção “Meus cursos”?**
 
-Você continuará a ver esses cursos na seção "Meus cursos" após a desativação, mas tentar iniciar um curso desativado resultará em uma mensagem de erro.
+Você continuará a ver estes cursos na seção "Meus Cursos" após sua Reforma, mas tentar lançar um curso aposentado resultará em uma mensagem de erro.
 
-**P: Se eu não concluir um curso antes da desativação, poderei terminá-lo após ele ser desativado?**
+**Se eu não completar um curso antes de sua Reforma, poderei completá-lo depois de aposentado?**
 
 Não. Depois que um curso é desativado, você não terá mais acesso a ele.
   
-**P: De que maneira os relatórios de atividades de cursos refletirão os cursos em andamento no momento da desativação?**
+**De que maneira os relatórios de atividades de cursos refletirão os cursos em andamento no momento da desativação?**
 
 Os relatórios de atividades de cursos refletirão seu progresso em um curso no momento da sua desativação. Por exemplo, se um curso estiver 60% concluído pelo usuário quando for desativado, os relatórios de atividades de cursos mostrarão um progresso de 60% concluído. A porcentagem de conclusão de um curso não pode ser alterada depois que o curso é desativado.
 
-**P: Ainda poderei encontrar um curso desativado no site de aprendizagem online?**
+**Ainda poderei encontrar um curso desativado no site de aprendizagem online?**
 
 Não. Os cursos desativados não serão mais exibidos nos resultados de pesquisa ou no catálogo de cursos.
-
-**P: Quando um curso é desativado, o MOC On-Demand (MOD) associado também é desativado?**
-
-Sim. Devido ao fato de que o MOD está em harmonia com o curso, quando um curso é desativado, o MOD é desativado na mesma data.
