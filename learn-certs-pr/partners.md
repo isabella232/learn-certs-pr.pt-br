@@ -1,6 +1,6 @@
 ---
-title: 'Microsoft Learning Partners and Providers | Microsoft Docs'
-description: 'Microsoft Learning Partners and Providers'
+title: 'Encontre um Learning Partner | Microsoft Docs'
+description: 'Microsoft Learning Partners - Encontre um Learning Partner'
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,13 +10,13 @@ ms.date: 06/02/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Parceiros de Aprendizado da Microsoft: Ensinando as habilidades de amanhã, hoje
+# Encontre um Learning Partner
 
-![Microsoft Learning Partners banner](images/partners-banner.jpg "Microsoft Learning Partners banner")
+## Sobre Microsoft Learning Partners
 
-Se você é um profissional que busca novas oportunidades de crescer na carreira ou um gestor que precisa aumentar as competências de sua equipe na nuvem, o Microsoft Learning Partners oferece inúmeras soluções de treinamento para atender às suas necessidades de aprendizagem, incluindo a aprendizagem mista, presencial e online. Desenvolva suas habilidades técnicas com soluções de treinamento completas que combinam cursos em vídeo, laboratórios práticos e exames de preparação de Certificação Microsoft para ajudá-lo a aprimorar ainda mais seus conhecimentos em tecnologia da Microsoft.
+Se você é um indivíduo que procura habilidade para o seu próximo papel ou um gerente que precisa de aumentar a aptidao de sua equipe em cloud, Microsoft Learning Partners oferecer uma ampla gama de soluções de treinamento, incluindo aprendizagem em mistura, em pessoa e on-line para atender aos seus objetivos de aprendizagem. Microsoft Learning Partners em todo o mundo têm cumprido os requisitos do programa para ensinar conteúdo de treinamento desenvolvido pela Microsoft  e entregue por Microsoft Certified Trainers. Para saber mais sobre o valor de trabalhar com parceiros de aprendizagem, visite: [valor dos Learning Partners](/learn/certifications/partners-value).
 
-## Encontre um parceiro de aprendizagem Microsoft por país
+## <a name="find-microsoft-learning-partner-by-country-region"></a> Encontre um Microsoft Learning Partner por país/região
 
 Nossa rede de parceiros em todo o mundo oferece treinamento e certificações em tecnologias Microsoft com base em funções personalizadas e flexíveis. Todos os instrutores são Microsoft Certified Trainers (MCTs) que completaram um treinamento rigoroso e cumpriram os requisitos rigorosos de certificação técnica.
 
@@ -510,14 +510,3 @@ Selecione o país:
 > [!div class="nextstepaction"]
 > [ENCONTRE UM PROVEDOR DE SOLUÇÕES DA MICROSOFT](https://www.microsoft.com/en-us/solution-providers/search?cacheId=6b7c41ec-9246-4196-9541-7a4427a37f97)
 
-## Habilidades centrais para desenvolvedores e profissionais de IT
-
-**Aprenda uma nova tecnologia**. Com apenas um curso, você pode desenvolver habilidades práticas que cobrem todo o ciclo de vida da adoção da tecnologia - do planejamento ao suporte. E você ganha um nível de proficiência que só pode ser ensinado através de laboratórios práticos, simulações e a aplicação de habilidades reais. </br></br> **Prepare-se para a certificação.** [As Certificações Microsoft](https://www.microsoft.com/learning/certification-overview.aspx) estão disponíveis para as principais tecnologias da Microsoft e níveis de habilidades. Os cursos oficiais da Microsoft são criados com a Microsoft Certification em mente e são ministrados por instrutores qualificados do setor.</br></br>**Comece uma nova carreira**. Os instrutores do setor que ensinam cursos oficiais da Microsoft podem ajudá-lo a adquirir habilidades de IT que se transferem da sala de aula diretamente para o local de trabalho. Os cursos oferecem acesso a recursos digitais valiosos, que permanecem disponíveis muito depois que você concluir um curso.</br></br> Os profissionais que realizaram o treinamento em IT ou em negócios durante o ano passado receberam uma média de quase US$ 3.400 a mais do que aqueles que não o fizeram. (Global Knowledge, *IT Skills and Salary Survey*, março de 2011)
-
-## Benefícios para gerentes de IT
-
-**Melhore a eficiência e a produtividade**. Os Parceiros de Aprendizagem da Microsoft podem ajudá-lo a aproveitar ao máximo o investimento da sua empresa em tecnologia. Seus funcionários podem melhorar sua proficiência com as tecnologias Microsoft, do treinamento em sala de aula ou com os Cursos Oficiais On-Demand da Microsoft. </br></br> **Prepare-se para a implantação**. O treinamento especificado disponibilizado pelo Microsoft Learning Partners permite às empresas acelerar novas implementações de tecnologia da Microsoft e podem reduzir o tempo de inatividade. A pesquisa mostra que 40 por cento do tempo de inatividade operacional é devido a erros do operador, atribuível a uma falta significativa de treinamento nos principais sistemas. (Anderson, Cushing. "Impact of Training on Network Administration: Certification Leads to Operational Productivity." Estudo IDC. Conforme relatado por Linda Musthaler no Network World em 25 de novembro de 2009) </br></br> **Desenvolvimento, recrutamento e retenção de funcionários**. Treinamento e certificação são métodos eficazes para medir o quão bem os membros da equipe podem trabalhar com tecnologias, hardware e software específicos. </br></br> Sessenta por cento dos entrevistados executivos de tecnologia dizem que um dos maiores desafios no planejamento de grandes projetos de infraestrutura de IT é a disponibilidade de profissionais com as competências necessárias quando necessário. (TEKsystems/CIO Custom Solutions Group, *IT Workforce Planning Trends*, junho de 2011)
-
-## Torne-se um parceiro de aprendizagem Microsoft
-
-Se você oferece treinamento para seus clientes como um dos seus serviços principais ou, como toda a sua prática comercial, alcançar a competência de certificação pode abrir novas oportunidades para sua empresa. Os benefícios da rede de parceiros da Microsoft podem ajudá-lo a economizar tempo e dinheiro enquanto você fortalece suas capacidades, atende melhor os clientes e cria conexões para alcançar seu potencial comercial completo. </br></br> [Junte-se ao programa Microsoft Learning Partner](https://mspartner.microsoft.com/en/us/Pages/Membership/learning-competency.aspx)

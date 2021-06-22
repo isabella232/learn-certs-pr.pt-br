@@ -14,7 +14,9 @@ summary: |-
   Um candidato para esta certificação deve ter experiência de desenvolvimento profissional de 1 a 2 anos e experiência com o Microsoft Azure. Além disso, o candidato a este cargo deve ter a capacidade de programar num idioma suportado pelo Azure e proficiência em SDKs Azure, Azure PowerShell, Azure CLI, opções de armazenamento de dados, conexões de dados, APIs, autenticação e autorização de aplicativos, computação e distribuição de containers, depuração, ajuste de desempenho e monitoramento.
 
   Você pode se qualificar para o crédito ACE de faculdade se passar neste exame de certificação. Consulte [ACE crédito de faculdade para exames de certificação](/learn/certifications/ace-credit-for-certification-exams) para obter detalhes.
-subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: desenvolver a infraestrutura Azure como uma soluções de computação de serviço; desenvolver para armazenamento Azure; implementar a segurança Azure; monitorar, solucionar, e optimizar soluções; e conectar-se e consumir serviços Azure e serviços de terceiros.'
+subTitle: 'Este exame mede a sua capacidade de realizar as seguintes tarefas técnicas: desenvolver a infraestrutura Azure como uma soluções de computação de serviço; desenvolver para armazenamento Azure; implementar a segurança Azure; monitorar, solucionar, e optimizar soluções; e conectar-se e consumir serviços Azure e serviços de terceiros.
+  
+Os participantes do teste poderão selecionar a linguagem de código (C# ou Python) que está incluído nas perguntas quando lançam o exame se o exame for realizado via Pearson VUE. No entanto, esta opção não está disponível nos exames realizados via PSI. Essas perguntas conterão código C#.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oZ7B
 locales:

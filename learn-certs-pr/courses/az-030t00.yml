@@ -24,14 +24,13 @@ roles:
 - solution-architect
 products:
 - azure
-exams:
-- uid: exam.az-303
 summary: |-
   Este curso ensina aos Solutions Architects que já projetaram soluções para a Amazon Web Services a converter os requisitos de negócios em soluções seguras, escaláveis e confiáveis para o Azure. As lições incluem virtualização, automação, redes, armazenamento, identidade, segurança, plataforma de dados e infraestrutura de aplicativos. Este curso descreve como as decisões em cada uma dessas área afetam uma solução geral.
 
   #### Perfil do público
   Este curso destina-se aos AWS Cloud Architects com experiência no projeto e implementação de soluções em operação na AWS que agora desejam criar projetos para o Microsoft Azure.
 prerequisitesSection: |-
+  Para serem bem sucedidos neste curso, os alunos devem ter o seguinte&#58;
   - Experiência (>1 ano) como arquiteto da AWS, projetando soluções em nuvem da AWS seguras e escaláveis em estruturas de armazenamento, computação, rede e interação com recursos e serviços externos.
   - Compreensão das tecnologias de virtualização local, incluindo&#58; VMs, redes virtuais e discos rígidos virtuais.
   - Compreensão da configuração de rede, incluindo TCP/IP, sistema de nomes de domínio (DNS), redes privadas virtuais (VPNs), firewalls e tecnologias de criptografia.

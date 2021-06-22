@@ -51,6 +51,8 @@ paths:
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp7
 exams:
 - uid: exam.sc-900
+courses:
+- uid: course.sc-900t00
 resources:
 - title: Cartaz de certificação
   description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
