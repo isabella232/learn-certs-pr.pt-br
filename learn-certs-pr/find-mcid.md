@@ -15,4 +15,4 @@ ms.prod: non-product-specific
 
 Para encontrar o seu Microsoft Certification identification number (MCID), faça login em seu [Certification Dashboard.](https://aka.ms/certdashboard) Sua MCID está localizado no canto superior direito da página.
 
-![MCID está localizado no canto superior direito do painel](images/certification-dashboard-find-mcid.Forum)
+![MCID está localizado no canto superior direito do painel](images/certification-dashboard-find-mcid.png)
