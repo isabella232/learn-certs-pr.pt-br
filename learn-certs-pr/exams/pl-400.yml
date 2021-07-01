@@ -6,7 +6,7 @@ metadata:
 uid: exam.pl-400
 displayName: PL-400
 summary: |-
-  <div><div><font color='red'><strong>O conteúdo deste exame foi atualizado em 23 de março de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que mudou.</strong></font><br/><br/></div>
+  <div><div><font color='red'><strong>O conteúdo deste exame será atualizado em 23 de junho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará.</strong></font><br/><br/></div>
   </div>
 
   Os candidatos a este exame projetam, desenvolvem, protegem e solucionam problemas de soluções da Power Platform. Os candidatos implementam componentes da solução que inclui aprimoramentos de aplicativo, experiência de usuário personalizada, integrações de sistema, conversões de dados, automação de processo personalizada e visualizações personalizadas.
@@ -17,13 +17,14 @@ summary: |-
 subTitle: 'Este teste mede a sua capacidade de realizar as seguintes tarefas técnicas: criar um projeto técnico, configurar o Common Data Service, criar e configurar Power Apps, configurar a automação de processos de negócios, expandir a experiência do usuário e a plataforma e desenvolver integrações.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
+practiceTestUrl: https://in.mindhub.com/pl-400-microsoft-power-platform-developer-microsoft-official-practice-test/p/MU-PL-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=PL-400&examname=Exam%20PL-400:%20Microsoft%20Power%20Platform%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-400
 locales:
 - en
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 23 de março de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que mudou.
+- O conteúdo deste exame será atualizado em 23 de junho de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que mudará.
 - Criar um Projeto Técnico (10-15%)
 - Configurar o Microsoft Dataverse (15-20%)
 - Criar e configurar Power Apps (15-20%)

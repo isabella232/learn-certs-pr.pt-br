@@ -2,28 +2,27 @@
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
   title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
-  description: Os arquitetos ou engenheiros do Microsoft Azure for SAP Workloads têm uma vasta experiência e conhecimento em Landscapes do sistema SAP e dos padrões do setor específicos para a operação de longo prazo de uma solução SAP no Azure.
+  description: Os candidatos a este exame devem ser arquitetos ou engenheiros com ampla experiência e conhecimento do sistema SAP e dos padrões do setor específicos para a migração ou integração inicial e a operação de longo prazo de uma solução SAP no Microsoft Azure.
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  Os candidatos à certificação Azure for SAP Workloads Specialty devem ser arquitetos ou engenheiros com vasta experiência e conhecimento em Landscapes do sistema SAP e dos padrões do setor específicos para a operação de longo prazo de uma solução SAP no Microsoft Azure.
+  Os candidatos a este exame devem ser arquitetos ou engenheiros com ampla experiência e conhecimento do sistema SAP e dos padrões do setor específicos para a migração ou integração inicial e a operação de longo prazo de uma solução SAP no Microsoft Azure.
 
-  As responsabilidades desta função incluem a apresentação de recomendações sobre serviços e ajuste dos recursos apropriados para resiliência, desempenho, escala, fornecimento, tamanho e monitoramento sempre que necessário.
+  As responsabilidades de um arquiteto ou engenheiro do Azure para Cargas de trabalho SAP incluem fazer recomendações sobre serviços e ajustar recursos conforme apropriado para resiliência, desempenho, escala, provisionamento, tamanho e monitoramento ideais.
 
-  Os arquitetos ou engenheiros do Azure for SAP Workloads trabalham em parceria com administradores de nuvem, DBAs de nuvem e clientes para implementar soluções.
+  Arquitetos ou engenheiros para Azure para Cargas de trabalho SAP fazem parceria com os administradores de cloud, administradores de banco de dados em cloud e clientes para implementar soluções.
 
-  O candidato a esta certificação deve ter uma vasta experiência e conhecimento de aplicativos SAP&#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, servidores OS para aplicativos e bancos de dados SAP, portal do Azure, modelos ARM, sistemas operacionais, virtualização, infraestrutura em nuvem, estruturas de armazenamento, design de alta disponibilidade, design de recuperação de desastre, conceitos de proteção de dados e redes.
+  Um candidato para este exame deve ter uma vasta experiência e conhecimento de aplicativos SAP&#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, servidores OS para aplicativos e bancos de dados SAP, portal Azure, Azure Marketplace, modelos Azure Resource Manager (modelos ARM), virtualização, infraestrutura em cloud, estruturas de armazenamento, design de alta disponibilidade, design de recuperação de desastres, conceitos de proteção de dados e rede.
 
-  Para esta função, é altamente recomendável obter uma certificação Azure Administrator Associate ou Azure Expert Architect, além das certificações SAP HANA e Linux.
-subTitle: Os arquitetos ou engenheiros do Microsoft Azure for SAP Workloads têm uma vasta experiência e conhecimento em Landscapes do sistema SAP e dos padrões do setor específicos para a operação de longo prazo de uma solução SAP no Azure.
+  Para este exame, é altamente recomendável que você tenha uma certificação Azure Administrator Associate ou Azure Solutions Architect Expert, para além das certificações SAP.
+subTitle: Os candidatos a este exame devem ser arquitetos ou engenheiros com ampla experiência e conhecimento do sistema SAP e dos padrões do setor específicos para a migração ou integração inicial e a operação de longo prazo de uma solução SAP no Microsoft Azure.
 levels:
 - advanced
 skills:
 - Migrar soluções SAP para o Azure
-- Projetar uma solução do Azure para dar suporte às cargas de trabalho do SAP
-- Criar e implementar cargas de trabalho do SAP no Azure
-- Validar a infraestrutura do Azure para cargas de trabalho do SAP
-- Operacionalizar a arquitetura SAP no Azure
+- Projetar e implementar uma infraestrutura para Suportar Cargas de trabalho SAP
+- Projetar e implementar High Availability e Disaster Recovery (HA/DR)
+- Manter Cargas de trabalho SAP no Azure
 roles:
 - administrator
 - solution-architect

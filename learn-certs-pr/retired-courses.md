@@ -19,44 +19,57 @@ Assim que um curso é retirado, já não estará disponível. O curso não pode 
 
 ## Cursos aposentados: treinamento com instrutor
 
+* O material de curso será reformado em 30 de junho de 2021
+
+    | Número do curso | Versão | Título | Idioma | Data de desativação |
+    | --- | --- | --- | --- | --- |
+    | AI-100T01 | A | Designing and Implementing an Azure AI Solution | Inglês | 6/30/2021 |
+    | DP-200T01 | A | Implementing an Azure Data Solution | Inglês | 6/30/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | Inglês | 6/30/2021 |
+    | MB-600T00 | A | Microsoft Dynamics 365 + Power Platform Solution Architect | Inglês | 6/30/2021 |
+    | MB-901T00 | A | Microsoft Dynamics 365 Fundamentals | Inglês | 6/30/2021 |
+    | AI-100T01JA | A | Designing and Implementing an Azure AI Solution | Japonês | 6/30/2021 |
+    | AI-100T01KO | A | Designing and Implementing an Azure AI Solution | Coreano | 6/30/2021 |
+    | AI-100T01ZH | A | Designing and Implementing an Azure AI Solution | simplificado chinês | 6/30/2021 |
+
 * Aposentadoria de cursos em 31 de Maio de 2021
 
-    | Course number | Version | Title | Language | Retirement date |
+    | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
-    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | English | 5/31/2021 |
-    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | English | 5/31/2021 |
-    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | English | 5/31/2021 |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | Inglês | 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | Inglês | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | Inglês | 5/31/2021 |
 
 * Aposentadoria de cursos on April 30, 2021
 
-    | Course number | Version | Title | Language | Retirement date |
+    | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- | 
-    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | English | 04/30/2021 |
+    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | Inglês | 04/30/2021 |
 
 * Reforma de material em 31 de março de 2021
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
     | 20778 | C | Analyzing Data with Power BI | Inglês | 31/03/2021 |
-    | 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | Japanese | 3/31/2021 |
-    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | Japanese | 3/31/2021 |
-    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | Japanese | 3/31/2021 |
-    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | Japanese | 3/31/2021 |
-    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Japanese) | Japanese | 3/31/2021 |
-    | 40241 | A | MTA Cloud Fundamentals 98-369 (Japanese) | Japanese | 3/31/2021 |
-	| 40349 | B | Windows OS Fundamentals | English | 03/31/2021 |
-    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | English | 3/31/2021 |
-    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | English | 3/31/2021 |
-    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | English | 3/31/2021 |
-    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | English | 3/31/2021 |
-    | 40366 | B | Networking Fundamentals | English | 03/31/2021 |
-    | 40367 | B | Security Fundamentals | English | 03/31/2021 |
-    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | English | 03/31/2021 |
-    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | English | 03/31/2021 |
-	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | English | 3/31/2021 |
-    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | English | 3/31/2021 |
-    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | English | 3/31/2021 |
-    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | English | 3/31/2021 |
+    | 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | Japonês | 3/31/2021 |
+    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | Japonês | 3/31/2021 |
+    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | Japonês | 3/31/2021 |
+    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | Japonês | 3/31/2021 |
+    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Japonês) | Japonês | 3/31/2021 |
+    | 40241 | A | MTA Cloud Fundamentals 98-369 (Japonês) | Japonês | 3/31/2021 |
+	| 40349 | B | Windows OS Fundamentals | Inglês | 03/31/2021 |
+    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | Inglês | 3/31/2021 |
+    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | Inglês | 3/31/2021 |
+    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | Inglês | 3/31/2021 |
+    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | Inglês | 3/31/2021 |
+    | 40366 | B | Networking Fundamentals | Inglês | 03/31/2021 |
+    | 40367 | B | Security Fundamentals | Inglês | 03/31/2021 |
+    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | Inglês | 03/31/2021 |
+    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | Inglês | 03/31/2021 |
+	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | Inglês | 3/31/2021 |
+    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | Inglês | 3/31/2021 |
+    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | Inglês | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | Inglês | 3/31/2021 |
 
 * Cursos desativados em 31 de dezembro de 2020
 

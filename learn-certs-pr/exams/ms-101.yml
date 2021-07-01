@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><font color='red'><strong>O conteúdo do exame será atualizado em 25 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>O conteúdo deste exame foi atualizado em 25 de maio de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudou.</strong></font><br/><br/></div>
   
   Os candidatos a esse exame são os Microsoft 365 Enterprise Administrators que participam da avaliação, planejamento, migração, implantação e gerenciamento dos serviços do Microsoft 365. Eles executam tarefas de gerenciamento de locatários do Microsoft 365 para uma empresa, incluindo suas identidades, segurança, conformidade e tecnologias de suporte.
   
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- O conteúdo do exame será atualizado em 25 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
+- O conteúdo deste exame foi atualizado em 25 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que mudou.
 - Implementar serviços de dispositivos modernos (40-45%)
 - Implementar o gerenciamento de segurança e ameaças da Microsoft 365 (20-25%)
 - Gerenciar a governança e conformidade do Microsoft 365 (35-40%)
