@@ -98,6 +98,7 @@ Para obter informações detalhadas sobre os requisitos do programa MCT, leia o 
 - [Microsoft Certified: Power Platform Functional Consultant Associate](/learn/certifications/power-platform-functional-consultant-associate)
 - [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
 - [Microsoft Certified: Power Platform Developer Associate](/learn/certifications/power-platform-developer-associate)
+- [Microsoft Certified: Power Platform Solution Architect Expert](/learn/certifications/power-platform-solution-architect-expert/)
 - [Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate](/learn/certifications/d365-business-central-functional-consultant-associate)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](/learn/certifications/d365-functional-consultant-sales)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](/learn/certifications/d365-functional-consultant-customer-service)

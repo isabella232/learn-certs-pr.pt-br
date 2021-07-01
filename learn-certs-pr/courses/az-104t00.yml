@@ -79,18 +79,20 @@ outlineSection: |-
   ### Módulo 3&#58; administração do Azure
   Neste módulo, você aprenderá sobre as ferramentas que o Administrador do Azure usa para gerenciar sua infraestrutura. As ferramentas incluem o Azure Portal, Cloud Shell, Azure PowerShell, CLI e modelos do Gerenciador de Recursos. Este módulo inclui&#58;
   #### Lições
-  - Azure Resource Manager
-  - Azure Portal e Cloud Shell
-  - PowerShell e CLI do Azure
-  - Modelos de ARM
   
-  #### Laboratório&#58; Gerenciar recursos do Azure com o Azure Portal
+  *   Azure Resource Manager
+
+  *   Azure Administrator Tools
+
+  *   Modelos ARM
   
-  #### Laboratório&#58; Gerenciar recursos do Azure com os modelos de ARM
-  
-  #### Laboratório&#58; Gerenciar recursos do Azure com o Azure PowerShell (opcional)
-  
-  #### Laboratório&#58; Gerenciar recursos do Azure com a CLI do Azure (opcional)
+  #### Laboratório: Gerenciar recursos Azure ao Utilizar modelos ARM
+
+  #### Laboratório: Gerenciar recursos Azure ao Utilizar Azure PowerShell (opcional)
+
+  #### Laboratório: Gerenciar recursos Azure ao Utilizar Azure CLI (opcional)
+
+  #### Laboratório: Gerenciar recursos Azure ao Utilizar o Azure Portal
   
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Uso do Gerenciador de Recursos do Azure para organizar recursos.
@@ -103,7 +105,6 @@ outlineSection: |-
   Neste módulo, você aprenderá sobre conceitos básicos de rede virtual, como redes e sub-redes virtuais, endereçamento IP, grupos de segurança de rede, firewall do Azure e DNS do Azure.
   #### Lições
   - Redes virtuais
-  - Endereçamento IP
   - Grupos de segurança de rede
   - Firewall do Azure
   - DNS do Azure
@@ -112,7 +113,6 @@ outlineSection: |-
   
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Implementar redes e sub-redes virtuais.
-  - Configurar o endereçamento IP público e privado.
   - Configurar grupos de segurança de rede.
   - Configurar o Firewall do Azure.
   - Configurar as zonas DNS públicas e privadas.
@@ -194,9 +194,12 @@ outlineSection: |-
   
   #### Laboratório&#58; Implementar aplicativos Web
   
-  #### Laboratório&#58; Implementar instâncias de contêiner do Azure
   
-  #### Laboratório&#58; Implementar Serviço Kubernetes do Azure
+  #### Laboratório: Implementar Azure Kubernetes Service
+
+  ####
+
+  #### Laboratório: Implementar Azure Container Instances
   
   Depois de completar este módulo, os estudantes estarão aptos a&#58;
   - Criar um plano de serviço de aplicativo.
