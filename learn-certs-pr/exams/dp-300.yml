@@ -7,7 +7,7 @@ uid: exam.dp-300
 displayName: DP-300
 summary: |-
   <div>
-  <div><font color='red'><strong>O conteúdo do exame será atualizado em 25 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>O conteúdo deste exame foi atualizado em 25 de maio de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudou.</strong></font><br/><br/></div>
   </div>
   
   Os candidatos a este exame são administradores de banco de dados e especialistas em gerenciamento de dados que gerenciam bancos de dados relacionais locais e na nuvem criados com base no Microsoft SQL Server e no Microsoft Azure Data Services.
@@ -31,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo do exame será atualizado em 25 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que vai mudar.
+- O conteúdo deste exame foi atualizado em 25 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que mudou.
 - Planejar e implementar recursos da plataforma de dados (15-20%)
 - Implementar um ambiente seguro (15-20%)
 - Monitorar e otimizar recursos operacionais (15-20%)

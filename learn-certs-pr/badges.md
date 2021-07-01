@@ -29,7 +29,7 @@ Com a Credly plataforma você pode:
 - Saiba quais empregadores estão procurando pessoas com suas habilidades.
 - Saiba o salário que pode esperar em um trabalho que exija as suas habilidades Microsoft.
 - Pesquise novas oportunidades de emprego associadas à sua certificação e candidate-se em apenas alguns cliques.
-- Explorar as perspectivas do mercado de trabalho e as oportunidades de emprego. Veja o vídeo: [Credly: Labor market insights](https://vimeo.com/379867308) para ver como é fácil descobrir rapidamente oportunidades em seu mercado.
+- Explore percepções do mercado de trabalho e oportunidades de emprego. Assista ao vídeo: [Labor Market Insights](https://support.credly.com/hc/en-us/articles/360041974091-Video-What-labor-market-insights-are-available-with-my-badge) para ver como é fácil descobrir oportunidades rapidamente em seu mercado.
 
 Para saber mais, consulte nossa postagem no blog [Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification).
 
@@ -48,7 +48,7 @@ _ * Por favor, note que este link irá levá-lo para Credly, um terceiro cujas p
 
 ## Como aceitar crachás automaticamente do Credly
 
-Na plataforma Acclaim da Credly, ajuste suas configurações de conta para aceitar automaticamente crachás emitidas para você. Assista a este processo passo a passo no vídeo de Acclaim “[How to manage your badge.](https://www.youtube.com/watch?v=rMeSQM0h1_Y)” Observe que, embora o vídeo mostre notificações por e-mail do crachá vindos de Acclaim, suas notificações por e-mail virão da Microsoft.
+Na plataforma Credly, ajuste as configurações de sua conta para aceitar automaticamente os crachás emitidos para você. Assista a este processo passo a passo no vídeo da Credly “[How do I manage and share my digital badge?](https://support.credly.com/hc/en-us/articles/360021222231-How-do-I-manage-and-share-my-digital-badge-)”Observe que, embora o vídeo mostre notificações por e-mail sobre crachás provenientes do Credly, suas notificações por e-mail virão da Microsoft.
 
 ## Como partilhar o teu distintivo
 
@@ -66,7 +66,7 @@ Depois de reivindicar o seu crachá da Microsoft Certification, para compartilh�
 Emitimos crachás para todos os exames e certificações ativos no programa Microsoft Certification, com as seguintes exceções:  
 
 - Nos casos em que a aprovação em um exame resulta em uma certificação, um emblema é emitido para a certificação, e não para o exame.
-- Os selos não estão disponíveis para alguns de nossos exames e certificações herdados. Se você não encontrar um crachá para um exame ou certificação herdado em seu perfil do Acclaim, não emitimos um para esse exame ou certificação.
+- Os crachás não estão disponíveis para alguns de nossos exames e certificações legados. Se você não encontrar um crachá para um exame ou certificação legado em seu perfil do Credly, não emitimos um para esse exame ou certificação.
 
 Se você ganhou um crachá para um exame ou certificação que foi aposentado, você ainda pode reivindicar o seu crachá via a plataforma Credly.
 
@@ -79,7 +79,7 @@ Não. Este é um serviço gratuito fornecido pela Microsoft.
 
 **Como minha credencial é exibida como selo Microsoft?**
 
-A plataforma Credly utiliza as normas do Open Badges definidas pelo Mozilla para traduzir a sua credencial para uma imagem digital associada a metadados exclusivamente ligados a si. Este padrão permite a você compartilhar facilmente seu selo digital online de uma maneira que possa ser verificada por empregadores e colegas de profissão.
+A plataforma do Credly usa os padrões Crachás em Aberto definidos pela IMS Global para traduzir sua credencial em uma imagem digital associada a metadados conectados exclusivamente a você. Este padrão permite que você compartilhe facilmente seu crachá digital online de uma forma que possa ser verificada por empregadores e outras pessoas interessadas em suas habilidades.
 
 **O meu distintivo mais novo parece diferente dos que ganhei anteriormente. O que mudou?**
 
@@ -93,7 +93,7 @@ Você está no controle de como e quando seu distintivo é tornado público. Voc
 
 Visite: [Suporte à certificação](/learn/certifications/help).
 
-Se tiver alguma dúvida sobre a plataforma Credly ou sobre como reclamar o seu crachá, contacte [Suporte Credly.](https://support.youracclaim.com/)
+Se você tiver alguma dúvida sobre a plataforma do Credly ou sobre como reivindicar seu crachá, consulte os recursos na [Central de Ajuda do Credly](https://support.credly.com/hc/en-us) ou [envie uma solicitação de ajuda.](https://support.credly.com/hc/en-us/requests/new)
 
 **E se eu ganhar um crachá da Microsoft por meio da Certiport, mas ainda não recebi meu crachá?**
 

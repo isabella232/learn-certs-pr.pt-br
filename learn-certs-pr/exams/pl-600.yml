@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Solution Architect (beta)'
+title: 'Microsoft Power Platform Solution Architect'
 metadata:
-  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
-  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect'
 uid: exam.pl-600
 displayName: PL-600
 summary: |-
@@ -12,7 +12,6 @@ summary: |-
   
   Os arquitetos de soluções devem ser capazes de facilitar as decisões de design em desenvolvimento, configuração, integração, infraestrutura, segurança, disponibilidade, armazenamento e gerenciamento de alterações. Essa função equilibra as necessidades de negócios de um projeto, atendendo aos requisitos funcionais e não funcionais.
   
-  <div><br/><font color='red'><strong>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. <a href="/learn/certifications/beta-exams">Saiba mais sobre o valor e a importância dos exames beta</a>.</strong></font></div>
 subTitle: 'Este exame avalia sua capacidade em realizar as seguintes tarefas técnicas: realizar análise de soluções e requisitos; arquitetar uma solução; e implementar a solução.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
@@ -54,6 +53,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert
 resources:
+- title: Certificação Caminho de Aprendizagem
+  description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEGLH
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://aka.ms/TrainingCertDeck

@@ -27,7 +27,7 @@ Se os exames on-line estão disponíveis em seu país/região, eles estão dispo
 1. Certifique-se de que o seu computador cumpre ou excede os requisitos mínimos do sistema (detalhados abaixo).
 2. Completar o [ensaio do sistema](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) no mesmo computador e no mesmo local de onde você vai testar.
 3. Reveja os requisitos do sistema, dicas técnicas e requisitos ambientais de ensaio abaixo.
-4. Confirme que o seu ID está em conformidade com o Pearson VUE [ID Policy](https://home.pearsonvue.com/Policies/1S/English) e que o nome no seu perfil Microsoft Certification corresponde exactamente ao nome do ID emitido pelo governo que vai apresentar para entrar no exame. Para saber mais sobre como verificar o nome no seu perfil de certificação, visite: [Gerir o seu perfil de certificação](/learn/certifications/manage-certification-profile).
+4. Confirme que o seu ID está em conformidade com o Pearson VUE [ID Policy](https://home.pearsonvue.com/Clients/Microsoft/Online-proctored.aspx#b4ExamDay) e que o nome no seu perfil Microsoft Certification corresponde exactamente ao nome do ID emitido pelo governo que vai apresentar para entrar no exame. Para saber mais sobre como verificar o nome no seu perfil de certificação, visite: [Gerir o seu perfil de certificação](/learn/certifications/manage-certification-profile).
 5. Actualizar o seu perfil Microsoft Certification com o seu número de telemóvel, incluindo o código do país, no caso Pearson VUE precisa de entrar em contacto consigo durante o exame. Se você perder a conexão durante o exame, esta é a única maneira Pearson VUE precisa contactá-lo. Para obter instruções sobre como atualizar o seu perfil, visite: [gerir o seu perfil de certificação](/learn/certifications/manage-certification-profile).
 6. Leia o [Non-Disclosure Agreement (NDA)](/learn/certifications/microsoft-exam-non-disclosure-agreement). No início de seu exame, você deve ler e concordar com o NDA e General Terms of Use for Microsoft Certification Exams. Você só terá 5 minutos para lê-lo assim que o exame começar. Leia-o antes de seu exame para garantir que você compreende plenamente os requisitos e pode concordar com eles sem ficar sem tempo. Se não concordar com o NDA no tempo previsto, você não poderá fazer o exame.
 7. Se você gostaria de solicitar acomodações para o seu exame, por favor, envie um pedido de acomodação com Pearson VUE **antes** de marcar o exame. Para obter informações detalhadas sobre como apresentar um pedido, visite: [Solicite acomodações para Pearson VUE](/learn/certifications/request-accommodations).
@@ -182,17 +182,10 @@ O seu escritório ou casa deve cumprir os seguintes requisitos:
 
 ### Verificação da identidade
 
-  - Deve apresentar um formulário emitido pelo ID do governo, como um dos seguintes:
-  - Habilitacao.
-  - Armada ID.
-  - Passaporte.
-  - Cartão de identificação (bilhete de identidade nacional/estadual/provincial).
-  - Cartão de registo de estrangeiros (cartão verde, residente permanente, visto).
-  - ID de língua local emitida pelo governo (não em caracteres latinos)—aceite apenas se for emitido a partir do país em que o candidato está a testar.
-  - Um telemóvel funciona melhor para capturar a foto necessária e ID, mas você pode usar uma webcam se você não tem um celular.
-  - O nome de ID emitido pelo governo que você apresenta deve **exatamente** corresponder ao nome em seu Microsoft Certification e perfil Pearson VUE. 
-  - Se estiver em processo de atualização ou renovação de sua identificação, por favor, note que os formulários legais de mudança de nome, incluindo formulários de renovação de ID, não serão aceites para os exames protendidos online.
-  - Menores de 18 anos podem apresentar um ID de estudante válido como forma de identificação. O tutor do CANDIDATO também deve apresentar um ID e deve dar consentimento verbal durante o processo de check-in.
+- Você deve apresentar um documento de ID válido e emitido pelo governo.  Consulte a Pearson VUE [Política de ID](https://home.pearsonvue.com/Clients/Microsoft/Online-proctored.aspx#b4ExamDay) para exemplos aceitáveis.
+- Um telefone celular funciona melhor para capturar a foto de rosto e ID exigidas.
+- O nome no documento de ID emitido pelo governo que você apresenta deve corresponder **exatamente** ao nome em seus perfis de Microsoft Certification e Pearson VUE.
+- Se estiver em processo de atualização ou renovação de sua identificação, por favor, note que os formulários legais de mudança de nome, incluindo formulários de renovação de ID, não serão aceites para os exames protendidos online.
 
 ### Scan da área de exame
 
