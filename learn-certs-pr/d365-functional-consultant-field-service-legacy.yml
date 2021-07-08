@@ -1,0 +1,83 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate (herdado)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate (herdado)'
+  description: 'Os Consultores Funcionais do Microsoft Dynamics 365 para Field Service configuram o aplicativo Field Service, implementam soluções que gerenciam o ciclo de vida do serviço de campo e implementam a solução Connected Field Service (IoT).'
+uid: certification.d365-functional-consultant-field-service-legacy
+certificationRenewalUid: renewal.d365-functional-consultant-field-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Esta versão da certificação não está mais disponível. Se você tiver esta versão da certificação, receberá automaticamente a versão mais recente da certificação.
+  
+  Ambas as versões da certificação serão listadas em suas certificações. Você só precisa renovar a versão mais recente. Quando a versão anterior expirar, ela será transferida para a seção de histórico de certificação de sua transcrição.
+  
+  Se você é um consultor funcional responsável pela configuração e implementação de soluções Dynamics 365 para clientes, você é um bom candidato a esta certificação, que pode destacar suas habilidades e ajudar a avançar sua carreira. Um consultor funcional do Dynamics 365 Field Service é responsável pela implementação de soluções que gerenciam recursos que completam o ciclo de vida do serviço de campo. Como consultor funcional, você sabe como trabalhar com gerentes de projetos, desenvolvedores e arquitetos de soluções. Você deve ter um mínimo de um a três anos de experiência como consultor funcional a implantar a Dynamics 365.
+
+  Se você precisa de mais experiência antes de tentar obter essa certificação, aqui estão algumas sugestões&#58;
+  - Trabalhar como consultor funcional Dynamics 365 em alguns projetos.
+  - Trabalhar numa implementação de Dynamics 365 Field Service.
+  - Junte-se à comunidade em [community.dynamics.com](https://community.dynamics.com/).
+  - Siga caminhos de aprendizagem disponíveis em [Microsoft Learn](/learn/browse/?expanded=dynamics-365&roles=functional-consultant&resource_type=learning%20path&products=dynamics-field-service).
+  - Complete mais prática.
+  - Inscreva-se para um curso de treinamento ministrado por instrutor
+subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 para Field Service configuram o aplicativo Field Service, implementam soluções que gerenciam o ciclo de vida do serviço de campo e implementam a solução Connected Field Service (IoT).
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate
+skills:
+- Não há
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-field-service
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-240t00
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-bizapps.implementing-dyn365-field-service
+- uid: learn-bizapps.universal-resource-scheduling
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-240
+resources:
+- title: Cartaz de certificação
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Journey to certification
+  description: Explore as etapas para obter a certificação e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
+- title: Training and certification guide
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certificação Caminho de Aprendizagem
+  description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Compartilhe seus selos de certificação
+  description: Comemore sua conquista com sua rede. Resgate seu selo Microsoft Certification e inclua-o no LinkedIn, currículo e muito mais.
+  href: badges.md
+
