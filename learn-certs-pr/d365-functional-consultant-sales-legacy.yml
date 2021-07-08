@@ -1,0 +1,83 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate (herdado)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate (herdado)'
+  description: 'Os Consultores Funcionais do Microsoft Dynamics 365 Sales implementam soluções que antecipam e planejam conexões com clientes, gerenciam negócios por meio de processamento e fechamento e aceleram o desempenho da equipe de vendas usando análise de dados.'
+uid: certification.d365-functional-consultant-sales-legacy
+certificationRenewalUid: renewal.d365-functional-consultant-sales
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Esta versão da certificação não está mais disponível. Se você tiver esta versão da certificação, receberá automaticamente a versão mais recente da certificação.
+  
+  Ambas as versões da certificação serão listadas em suas certificações. Você só precisa renovar a versão mais recente. Quando a versão anterior expirar, ela será transferida para a seção de histórico de certificação de sua transcrição.
+  
+  Se você é um consultor funcional, um profissional que trabalha com o Microsoft Dynamics 365 Sales ou é um desenvolvedor procurando aprimorar suas habilidades de consultoria, essa certificação pode ajudar a impulsionar sua carreira. Ele permite que você se comercialize de forma mais eficaz para projetos e mostra sua organização que você é capaz de usar o Dynamics 365 Sales para capacitar a força de vendas.
+  
+  Como candidato a esta certificação, você tem experiência em configurar a Microsoft Power Platform e conhece os aplicativos baseados em modelos da Dynamics 365 e os princípios de modelagem de dados. Você trabalha com as partes interessadas de uma organização para reunir requisitos e implementar soluções da Dynamics 365 Sales. Você gerencia leads, oportunidades, orçamentos e pedidos, e configura catálogos de produtos e listas de preços. Além disso, você configura a Dynamics 365 Sales por forma a se adaptar ao processo exclusivo de negócios de sua organização e modela os dados da Dynamics 365 Sales. Você ainda estende soluções da Dynamics 365 usando componentes da Power Platform tais como Power Automate e Power Apps.
+  
+  Se você precisa de mais experiência antes de tentar obter essa certificação, aqui estão algumas sugestões&#58;
+  - Trabalhe num projeto de implementação de aplicativos baseado em modelos da Dynamics 365.
+  - Observe um consultor funcional ou um arquiteto de soluções que trabalha com Dynamics 365 Sales.
+  - Siga caminhos de aprendizagem disponíveis no Microsoft Learn.
+  - Inscreva-se num curso de capacitação ministrado por instrutores.
+subTitle: Os Consultores Funcionais do Microsoft Dynamics 365 Sales implementam soluções que antecipam e planejam conexões com clientes, gerenciam negócios por meio de processamento e fechamento e aceleram o desempenho da equipe de vendas usando análise de dados.
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate
+skills:
+- Não há
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-sales
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-210t01
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-dynamics.dynamics-365-for-sales
+- uid: learn-bizapps.applying-goal-management
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-210
+resources:
+- title: Cartaz de certificação
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Dynamics 365 e o Power Platform.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: Jornada para a certificação
+  description: Explore as etapas para obter a certificação e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C54X
+- title: Guia de Treinamento e Certificações
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://aka.ms/TrainingCertDeck
+- title: Certificação Caminho de Aprendizagem
+  description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0T
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Compartilhe seus selos de certificação
+  description: Comemore sua conquista com sua rede. Resgate seu selo Microsoft Certification e inclua-o no LinkedIn, currículo e muito mais.
+  href: badges.md
+

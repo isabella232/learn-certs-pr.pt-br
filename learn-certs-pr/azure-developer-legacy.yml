@@ -1,0 +1,82 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Developer Associate (herdado)'
+metadata:
+  title: 'Microsoft Certified: Azure Developer Associate (herdado)'
+  description: 'Os Azure Developers projetam, constroem, testam e mantêm aplicativos e serviços na nuvem.'
+uid: certification.azure-developer-legacy
+certificationRenewalUid: renewal.azure-developer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Esta versão da certificação não está mais disponível. Se você tiver esta versão da certificação, receberá automaticamente a versão mais recente da certificação.
+  
+  Ambas as versões da certificação serão listadas em suas certificações. Você só precisa renovar a versão mais recente. Quando a versão anterior expirar, ela será transferida para a seção de histórico de certificação de sua transcrição.
+  
+  Os candidatos à certificação Azure Developer Associate devem ter conhecimento sobre projetar, construir, testar e manter aplicativos e serviços em cloud no Microsoft Azure. 
+
+  As responsabilidades para esta função incluem participar de todas as fases do desenvolvimento em cloud, desde requisitos, definição e design; desenvolvimento, implantação e manutenção; até ajuste e monitoramento de desempenho.
+
+  Os desenvolvedores do Azure fazem parcerias com arquitetos de soluções em cloud, cloud DBAs, administradores de cloud e clientes para implementar soluções.
+
+  Um candidato para esta certificação deve ter de 1 a 2 anos experiência de desenvolvimento profissional e experiência com o Microsoft Azure. Além disso, o candidato a este cargo deve ter a capacidade de programar num idioma suportado pelo Azure e proficiência em Azure SDKs, Azure PowerShell, Azure CLI, opções de armazenamento de dados, conexões de dados, APIs, autenticação e autorização de aplicativos, computação e distribuição de containers, depuração, ajuste de desempenho e monitoramento.
+subTitle: Os Azure Developers projetam, constroem, testam e mantêm aplicativos e serviços na nuvem.
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate
+skills:
+- Não há
+roles:
+- developer
+type: role-based
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+courses:
+- uid: course.az-204t00
+- uid: course.az-020t00
+paths:
+- uid: learn.create-serverless-applications
+- uid: learn.connect-your-services-together
+- uid: learn.store-data-in-azure
+- uid: learn.deploy-a-website-with-azure-virtual-machines
+- uid: learn.manage-resources-in-azure
+- uid: learn.deploy-a-website-with-azure-app-service
+- uid: learn.secure-your-cloud-data
+exams:
+- uid: exam.az-203
+- uid: exam.az-200
+- uid: exam.az-201
+resources:
+- title: Tabela de certificação do Azure
+  description: Consulte a descrição geral, incluindo certificações básicas, baseadas em funções e especialidades para o Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Jornada à certificação
+  description: Explore as etapas para obter a certificação Azure Developer Associate e os recursos disponíveis para ajudá-lo a se preparar.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
+- title: Guia de treinamento e certificação
+  description: Explore todas as certificações em um guia conciso de treinamento e certificações.
+  href: https://aka.ms/TrainingCertDeck
+- title: Cartaz de certificação
+  description: Verifique a visão geral dos fundamentos, certificações baseadas em funções e especialidades.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
+  href: deals.md
+- title: Suporte para certificações
+  description: Obtenha ajuda através dos fóruns de suporte da Microsoft Certification. O moderador do fórum responderá em um dia útil, de segunda a sexta-feira.
+  href: help.md
+- title: Painel de certificação
+  description: Revise e gerencie seus compromissos, certificados e transcrições agendados.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Compartilhe seus selos de certificação
+  description: Comemore sua conquista com sua rede. Resgate seu selo Microsoft Certification e inclua-o no LinkedIn, currículo e muito mais.
+  href: badges.md
+
