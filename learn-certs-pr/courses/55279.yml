@@ -1,0 +1,176 @@
+### YamlMime:Course
+title: Introduction to Microsoft Access 2019
+metadata:
+  title: 'Course 55279-A: Introduction to Microsoft Access 2019'
+  description: 'Course 55279-A: Introduction to Microsoft Access 2019'
+uid: course.55279
+courseNumber: '55279-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Obter uma compreensão dos conceitos e terminologia de banco de dados.
+- skill: Aprender sobre a interface do Access.
+- skill: Aprender a trabalhar com visualizações de tabelas, consultas, formulários, relatórios e macros e módulos.
+- skill: Aprender a planear um banco de dados.
+- skill: Aprender os fundamentos do projeto de banco de dados.
+- skill: Aprender a trabalhar com formulários e com o Assistente de Formulários.
+- skill: Aprender a trabalhar com relatórios e o Report Wizard.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  Esta aula de treinamento Introduction to Microsoft Access 2019 começa cobrindo os conceitos básicos de banco de dados. Os alunos aprenderão a projetar e criar bancos de dados e tabelas, consultar essas tabelas e criar formulários e relatórios.
+
+  #### Perfil de público
+  Este curso é destinado a alunos que têm pouca ou nenhuma familiaridade com o Microsoft Access 2019 ou usuários do Access mais experientes que desejam aprender os tópicos abordados neste curso na interface de 2019.
+prerequisitesSection: |-
+  - Familiaridade com o uso de um computador pessoal, rato e teclado.
+  - Confortável no ambiente Windows.
+  - Capacidade de lançar e fechar programas; navegar até as informações armazenadas no computador; e gerenciar arquivos e pastas.
+outlineSection: |-
+  ### Módulo 1&#58; Visão geral rápida da interface do usuário de Access
+  Este módulo explica como se familiarizar com a interface de usuário do Access.
+  #### Aulas
+  - Faixa de Access
+  - Barra de acesso rápido
+  - Painel de navegação de objetos
+  - Trabalho de superfície Acess
+  - Visão geral do objeto
+  - Visão geral do processo
+  - Criar um banco de dados usando um assistente
+
+
+  #### Laboratório &#58; Conhecer o ambiente de Acess
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compreender a organização da faixa de opções de Acess.
+  - Compreender as abas de contexto na faixa de opções.
+  - Compreender a Barra de Ferramentas de Acesso Rápido e como personalizá-la.
+  - Compreender o painel de navegação.
+  - Compreender os objetos e o processo de criação.
+  - Compreender a superfície de trabalho do Acess.
+  - Entender como criar bancos de dados usando um assistente.
+
+  ### Módulo 2&#58; Fundamentos
+  Este módulo explica como pensar sobre alguns fundamentos do banco de dados antes de mergulhar na criação do banco de dados.
+  #### Aulas
+  - Perguntas a serem feitas antes de começar
+  - Abordagens para design de banco de dados
+  - Juntar informações
+  - Algumas palavras sobre convenções de nomenclatura
+  - Normalização
+  - Relacionamentos de Tabela
+
+
+  #### Laboratório &#58; Exercícios Fundamentais
+  - Fazer perguntas
+  - Normalizar Dados
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Fazer perguntas a serem consideradas antes de criar um aplicativo de banco de dados.
+  - Compreender abordagens comuns para design de banco de dados&#58; de cima para baixo e de baixo para cima.
+  - Passar de papelada e amostras de dados para dados categorizados (mapeamento de dados).
+  - Compreender as convenções de nomenclatura para tabelas e outros objetos.
+  - Entender o que é normalização.
+  - Compreender alguns conceitos básicos de normalização e como aplicá-los.
+  - Compreender as chaves primárias e estrangeiras.
+  - Compreender as relações e estabelecê-las entre as Tabelas.
+
+
+  ### Módulo 3&#58; Tabelas e suas opiniões
+  Este módulo explica como trabalhar com tabelas e seus modos de exibição no Microsoft Access.
+  #### Aulas
+  - Definição e Objetivo
+  - Visualização da folha de dados
+  - Visualização de design
+
+
+  #### Laboratório &#58; Trabalho com tabelas na visualização de folha de dados
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compreender tabelas e visualizações de tabelas no Access.
+  - Trabalhar com tabelas na visualização Folha de Dados.
+  - Adicionar e editar registros de dados na exibição de folha de dados.
+  - Compreender o propósito da visualização Design.
+
+
+  ### Módulo 4&#58; Tabelas
+  Este módulo explica como trabalhar com tabelas no Microsoft Access.
+  #### Aulas
+  - Criação de um banco de dados Access
+  - Tipos de dados
+  - Criar uma tabela na visualização do projeto
+
+
+  #### Laboratório &#58; Exercícios de Tabela
+  - Criação de um novo banco de dados
+  - Determinar Tipos de Dados
+  - Criação de uma tabela na visualização do projeto
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Criar um banco de dados Access.
+  - Criar uma tabela na visualização Design.
+  - Compreender os tipos de dados.
+  - Atribuir um campo-chave.
+  - Compreender as máscaras de entrada.
+  - Usar expressões para definir regras de validação.
+
+
+  ### Módulo 5&#58; Consultas
+  Este módulo explica como trabalhar com consultas no Microsoft Access.
+  #### Aulas
+  - consultas
+  - Selecionar Consultas
+  - Selecionar consultas com critérios
+  - Operadores lógicos
+  - Grupo e total com consultas
+
+
+  #### Laboratório &#58; Criação de consultas selecionadas
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Usar consultas e visualizações de consulta.
+  - Criar uma consulta simples.
+
+
+  ### Módulo 6&#58; Formulários
+  Este módulo explica como trabalhar com formulários no Microsoft Access.
+  #### Aulas
+  - Formulários
+  - Alterar um formulário
+  - Navegação de registro de formulário
+  - Visualização de layout e visualização de design
+  - Formulários de um clique
+  - Assistente de Formulários
+
+
+  #### Laboratório &#58; Exercícios de Formulários
+  - Adicionar registros de dados na visualização de formulário
+  - Criação de um formulário com o assistente de formulário
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compreender os tipos de formulários.
+  - Adicionar registros usando um formulário.
+  - Compreender os formulários de um clique.
+  - Criar um formulário usando o Assistente de Formulários.
+
+
+  ### Módulo 7&#58; Relatórios
+  Este módulo explica como trabalhar com relatórios no Microsoft Access.
+  #### Aulas
+  - Relatórios
+  - Assistente de Relatório
+
+
+  #### Laboratório &#58; Criar um relatório com o assistente de relatório
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Entender os relatórios.
+  - Usar o relatório de um clique.
+  - Usar o Assistente de Relatório para criar relatórios.
+
+  #### Leitura Adicional
+  Para ajudá-lo a se preparar para esta aula, analise os seguintes recursos&#58;
+  - N/A

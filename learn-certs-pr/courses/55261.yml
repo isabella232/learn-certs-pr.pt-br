@@ -1,0 +1,123 @@
+### YamlMime:Course
+title: SharePoint for Office 365 Site Owner Training
+metadata:
+  title: 'Course 55261-A: SharePoint for Office 365 Site Owner Training'
+  description: 'Course 55261-A: SharePoint for Office 365 Site Owner Training'
+uid: course.55261
+courseNumber: '55261-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Aprender a navegar por um Site Da EquipaSharePoint 2016.
+- skill: Aprender a criar e editar conteúdo de página web.
+- skill: Aprender a criar colunas de site e tipos de conteúdo.
+- skill: Aprender a integrar aplicativos Office com SharePoint 2016.
+- skill: Aprender a gerir as permissões básicas de recursos SharePoint 2016.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Estes 2 dias de aulas sobre SharePoint 2016 Site Owner é para proprietários/gerentes de sites novos para trabalhar em um ambiente SharePoint Office 365.
+
+  ### Perfil do público
+  Este curso destina-se a proprietários de sites e gestores novos para trabalhar em um ambiente SharePoint Office 365 .
+prerequisitesSection: |-
+  N/A
+outlineSection: |-
+  ### Módulo 1&#58; Trabalhar com Sites
+  Todo o conteúdo SharePoint  é acessado através de um site. Um site SharePoint é o contêiner para listas e Bibliotecas e fornece um ponto de partida para a administração básica. O conteúdo, listas, bibliotecas e aparência básica de um site é inicialmente determinado pelo modelo do Site usado para criar o site.
+
+  #### Aulas
+  - Modelos De Site
+  - Criação De Sites
+  - Navegação No Site
+
+
+  #### Laboratório &#58; Criar Sites De Equipa
+
+  #### Laboratório &#58; Criar um Site de Blog
+  Depois de completar este módulo, os alunos serão capazes de&#58;
+  - Entender quais são os modelos do Site.
+  - Compreender os diferentes tipos de modelos de Site que vêm "fora da caixa" com diferentes versões de SharePoint.
+  - Criar um novo site usando modelos de Site.
+  - Criar um site de projeto.
+  - Criar um site de equipa.
+  - Criar um site de blogs.
+  - Gerenciar os sites listados na barra de link superior.
+
+
+  ### Módulo 2&#58; Conteúdo Da Página
+  SharePoint oferece um par de maneiras de adicionar conteúdo às páginas em um site. A técnica mais recente e a implementada pelo modelo de site de equipe é através de páginas de estilo Wiki . Outro método que tem sido parte de SharePoint desde o início é o uso de Partes Web e páginas Web Part. Ambas as técnicas são similares na saída que pode ser criada, e ambas as páginas Web Part e Wiki compartilham a capacidade de adicionar partes da Web a elas.
+
+  #### Aulas
+  - Páginas Da Biblioteca Wiki
+  - Página Web Part
+  - Trabalhar com partes Web
+
+
+  #### Laboratório &#58; Trabalhar com Página Wiki
+  Depois de completar este módulo, os alunos serão capazes de&#58;
+  - Entender o que são páginas Wiki .
+  - Entender o que são páginas  Web Part e partes da Web são.
+  - Adicionar conteúdo à página inicial do site da equipe.
+  - Alterar o layout da Página Inicial do site da equipe.
+  - Criar uma página  Wiki.
+  - Criar uma Página Web Part.
+  - Adicionar Partes Da Web.
+
+
+  ### Módulo 3&#58; colunas de páginas e tipos de conteúdo
+  Um método de personalização SharePoint, de uma forma que pode ser reutilizada em todo o site ou coleta do site ou até mesmo em toda a fazenda, é criar colunas do Site e tipos de conteúdo. As colunas do Site são o elemento mais simples; elas são essencialmente as mesmas que as colunas da lista e da biblioteca, exceto que você as cria ao nível do site e então elas podem ser usadas em todo o site e em qualquer site infantil. Tipos de conteúdo são uma combinação de colunas do Site, bem como configurações adicionais e informações, tais como modelos de documentos e fluxos de trabalho. Os tipos de conteúdo, uma vez criados, podem então ser ligados a listas e bibliotecas.
+  #### Aulas
+  - Galeria De Colunas Do Site
+  - Criar Colunas De Locais
+  - Galeria do Tipo de Conteúdo do Site
+  - Criação De Tipos De Conteúdos
+
+
+  #### Laboratório &#58; Criar e trabalhar com os tipos de conteúdo
+
+  #### Laboratório &#58; adicionar um tipo de conteúdo a uma biblioteca
+  Depois de completar este módulo, os alunos serão capazes de&#58;
+  - Compreender As Colunas Do Site.
+  - Compreender Os Tipos De Conteúdo.
+  - Criar Colunas Do Site.
+  - Criar Tipos De Conteúdo.
+  - Criar um modelo de documento para um tipo de conteúdo.
+  - Atribuir um tipo de conteúdo a uma lista ou biblioteca.
+  Criar novos itens com base num tipo de conteúdo customizado.
+
+  ### Módulo 4&#58; Integração Office
+  Uma das características agradáveis de SharePoint é a sua capacidade de integrar com maplicativos Microsoft Office . Note que este capítulo explora a integração com produtos Office Online , uma versão baseada em navegador de Office isso permite que você crie e modifique documentos office. Existem limites e eles não executam exatamente como seus homólogos instalados localmente.
+  #### Aulas
+  - Integração Office 
+
+
+  #### Laboratório &#58; Integração Office
+  Depois de completar este módulo, os alunos serão capazes de&#58;
+  - Criar um alerta.
+
+
+  ### Módulo 5&#58; Gerir Permissões Do Site SharePoint 
+  Permissões em um site SharePoint é atribuído quando um site é criado. O padrão é que as permissões atribuídas à raiz de uma coleção de site são herdadas por sites-filhos. A qualquer momento, a herança de permissões pode ser desligada em um site, lista, biblioteca, ou mesmo no nível de itens em uma lista ou biblioteca. As próprias permissões podem ser atribuídas a quaisquer grupos SharePoint , usuários individuais ou grupos criados fora de SharePoint tais como grupos Windows.
+  #### Aulas
+  - Grupo SharePoint 
+  - Atribuir As Permissões
+  - Herança De Permissão
+
+
+  #### Laboratório &#58; Trabalhar com Permissão SharePoint 
+  Depois de completar este módulo, os alunos serão capazes de&#58;
+  - Entender grupo SharePoint .
+  - Criar grupo SharePoint.
+  - Atribuir a permissão em SharePoint.
+  - Gerenciar a herança de permissão no nível do site.
+  Gerir a herança de permissões ao nível da lista ou biblioteca.
+  ### Leitura Adicional
+  N/A

@@ -1,0 +1,178 @@
+### YamlMime:Course
+title: Advanced Microsoft Word 2019
+metadata:
+  title: 'Course 55274-A: Advanced Microsoft Word 2019'
+  description: 'Course 55274-A: Advanced Microsoft Word 2019'
+uid: course.55274
+courseNumber: '55274-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Aprender a trabalhar com índices.
+- skill: Aprender a trabalhar com notas de rodapé e notas de fim.
+- skill: Aprender a inserir bibliografias e índices.
+- skill: Aprender a usar comentários.
+- skill: Aprender a usar mudanças de rastreamento, incluindo a aceitação e rejeição de mudanças.
+- skill: Aprender a comparar e combinar documentos.
+- skill: Aprender a usar Fusão de Correio e criar envelopes e etiquetas.
+- skill: Aprender a proteger documentos.
+- skill: Aprender a usar marcadores, adicionar marcas d'água e Customizar a faixa de opções.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office
+summary: |-
+  Nesta classe de treinamento Microsoft Word 2019, os alunos aprendem técnicas avançadas, como trabalhar com índices, notas de rodapé e notas finais, adicionar comentários, rastrear alterações, comparar e combinar documentos, criar envelopes e etiquetas, usar Fusão de Correio e proteger documentos. Esta aula é para Word 2019 no Windows.
+
+  #### Perfil de público
+  Este curso é destinado a alunos com habilidades intermediárias com o Microsoft Word 2019 que desejam aprender habilidades mais avançadas ou alunos que desejam aprender os tópicos abordados neste curso na interface de 2019.
+prerequisitesSection: |-
+  - Experiência de nível intermediário em Microsoft Word.
+outlineSection: |-
+  ### Módulo 1&#58; Trabalho com documentos longos
+  Este módulo explica como trabalhar com documentos longos no Microsoft Word.
+  #### Aulas
+  - Adicionar um índice
+  - Atualizar o Índice
+  - Excluir o Índice
+  - Notas de rodapé e notas finais
+  - Inserir citações e uma bibliografia
+  - Adicionar um Índice
+  - Inserir uma Tabela de Figuras
+  - Inserção e atualização de uma tabela de autoridades
+  - Criação de um esboço
+
+
+  #### Laboratório &#58; Exercícios de Trabalho com Documentos Longos
+  - Inserir e atualizar um índice
+  - Trabalhar com notas de rodapé
+  - Inserir citações e uma bibliografia
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Adicionar um índice a um documento do Microsoft Word.
+  - Atualizar o índice.
+  - Adicionar notas de rodapé a um documento do Microsoft Word.
+  - Adicionar notas de fim a um documento do Microsoft Word.
+  - Inserir citações em um documento do Microsoft Word.
+  - Inserir uma bibliografia.
+  - Atualizar a bibliografia.
+  - Marcar entradas em um documento.
+  - Inserir um índice em um documento do Microsoft Word.
+  - Criar um esboço no Word.
+
+
+  ### Módulo 2&#58; Revisão e colaboração em documentos
+  Este módulo explica como revisar e colaborar em documentos do Microsoft Word.
+  #### Aulas
+  - Adicionar comentários
+  - Rastrear Alterações 
+  - Visualização de alterações, adições e comentários
+  - Aceitar e rejeitar mudanças
+
+
+  #### Laboratório &#58; Exercícios de revisão e colaboração
+  - Adicionar comentários a um documento
+  - Alterações de rastreamento
+  - Visualizar Marcação
+  - Aceitar e rejeitar mudanças
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Adicionar e trabalhar com comentários.
+  - Rastreie as alterações e defina e altere as opções de rastreamento.
+  - Ver as alterações, adições e comentários.
+  - Usar o painel de revisão.
+  - Escolher quais mudanças mostrar.
+  - Aceitar e rejeitar as alterações.
+
+
+  ### Módulo 3&#58; Comparar e Combinar Documentos
+  Este módulo explica como comparar e combinar documentos no Microsoft Word.
+  #### Aulas
+  - Comparar Documentos
+  - Combinar Documentos
+
+
+  #### Laboratório &#58; Exercícios de comparação e combinação de documentos
+  - Comparar Documentos
+  - Combinar Documentos
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Comparar documentos para descobrir o que mudou entre as diferentes versões de um documento.
+  Combinar documentos para reunir revisões feitas por várias pessoas em um único documento.
+
+  ### Módulo 4&#58; Gerenciar correspondências
+  Este módulo explica como gerenciar correspondências no Microsoft Word.
+  #### Aulas
+  - Criação de envelopes e etiquetas
+  - Usar Fusão de Correio
+
+
+  #### Laboratório &#58; Exercícios de gerenciamento de correspondências
+  - Imprimir um envelope
+  - Usar Fusão de Correio
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Criar e imprimir envelopes em Microsoft Word.
+  - Criar e imprimir etiquetas em Microsoft Word.
+  - Usar a Fusão de Correio para imprimir ou enviar cartas por e-mail para vários destinatários.
+  Selecionar destinatários de Fusão de Correio de uma lista existente
+
+  ### Módulo 5&#58; Proteger Documentos
+  Este módulo explica como proteger documentos no Microsoft Word.
+  #### Aulas
+  - Tornar documentos do Word somente leitura
+  - Proteger com senha documentos do Word
+  - Remover metadados de arquivos
+  - Restringir formatação e edição
+
+
+  #### Laboratório &#58; Proteger um Documento
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Marcar documentos como finais e torne-os somente leitura.
+  - Proteger com senha os documentos do Microsoft Word.
+  - Restrinjir as opções de formatação antes de compartilhar um documento com outras pessoas.
+  - Restrinjir as opções de edição antes de compartilhar um documento com outras pessoas
+
+
+  ### Módulo 6&#58; Itens úteis aleatórios
+  Este módulo aborda vários recursos úteis e aleatórios do Microsoft Word.
+  #### Aulas
+  - Usar marcadores
+  - Adicionar marcas d'água
+  - Adicionar Títulos às Seções
+  - Inserir campos embutidos
+  - Usar o recurso Go To
+  - Usar macros
+  - Copiar macros de documento para documento
+  - Segurança de macro
+  - Gravar uma macro
+  - Atribuição de teclas de atalho
+  - Personalização da Faixa de Opções
+  - Elaboração de Documento de Internacionalização e Acessibilidade
+  - Compartilhamento
+
+
+  #### Laboratório &#58; Exercícios de itens úteis aleatórios
+  - Usar marcadores
+  - Adicionar marcas d'água customizadas
+  - Gravar uma macro
+  - Personalização da Faixa de Opções
+  - Usar a cloud
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Adicionar marcadores a um documento do Microsoft Word e usá-los para navegar pelo documento.
+  - Adicionar marcas d'água a um documento do Microsoft Word.
+  - Adicionar títulos às seções.
+  - Inserir campos embutidos.
+  - Usar o recurso Go To.
+  - Customizar a faixa de opções.
+  - Elaborar um documento de internacionalização e acessibilidade.
+  - Aprender a usar a cloud
+
+  #### Leitura Adicional
+  N/A

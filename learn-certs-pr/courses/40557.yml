@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+metadata:
+  title: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+  description: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+uid: course.40557
+courseNumber: '40557-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Implementar soluções que aproveitem os pontos fortes do Cosmos DB no suporte de soluções analíticas avançadas que requerem ingestão de alto rendimento, serviço de baixa latência e escala global em combinação com aprendizado de máquina escalonável, big data e recursos de processamento em tempo real.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Neste workshop, você aprenderá a projetar uma solução de conduta de dados que aproveita o Cosmos DB para a ingestão escalonável de dados de streaming e a entrega distribuída globalmente de dados pré-classificados e modelos de aprendizado de máquina. A solução aproveita o feed de dados de alteração do Cosmos DB em conjunto com o Azure Databricks Delta para habilitar uma solução de armazém de dados moderna que pode ser usada para criar soluções de redução de risco para transações de pontuação de fraude em uma abordagem offline, em lote e quase em tempo real, abordagem de solicitação/resposta.
+
+  #### Perfil de público
+  Este workshop destina-se a Cloud Architects e profissionais de IT com experiência em arquitetura de design de infraestrutura e soluções em tecnologias de cloud e que desejam aprender mais sobre o Azure e os serviços do Azure conforme descrito nas áreas ""Resumo"" e ""Habilidades adquiridas"". Os participantes deste workshop também devem ter experiência em outras tecnologias que não sejam da Microsoft cloud, atender aos pré-requisitos do curso e desejar fazer o treinamento cruzado no Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Sessão de Design no Quadro Branco - análises avançadas em tempo real do Cosmos DB
+  #### Aulas
+  - Revisar o estudo de caso do cliente
+  - Projetar uma solução de prova de conceito
+  - Apresentar a solução
+
+
+  ### Módulo 2&#58; Laboratório prático - análises avançadas em tempo real do Cosmos DB
+  #### Aulas
+  - Coletar dados de transação de streaming
+  - Compreender e preparar os dados da transação em escala
+  - Criação e avaliação de modelos de fraude
+  - Escalonamento global
+  - Relatório
