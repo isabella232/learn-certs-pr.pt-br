@@ -1,0 +1,278 @@
+### YamlMime:Course
+title: Introduction to Microsoft Excel 2019
+metadata:
+  title: 'Course 55271-A: Introduction to Microsoft Excel 2019'
+  description: 'Course 55271-A: Introduction to Microsoft Excel 2019'
+uid: course.55271
+courseNumber: '55271-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Criar planilhas básicas usando o Microsoft Excel 2019.
+- skill: Executar cálculos em uma planilha do Excel.
+- skill: Modificar uma planilha do Excel.
+- skill: Modifica a aparência dos dados em uma planilha.
+- skill: Gerenciar pastas de trabalho do Excel.
+- skill: Imprimir o conteúdo de uma planilha do Excel.
+- skill: Aprenda a usar recursos úteis novos em 2019.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  Nesta aula de treinamento de Introduction to Microsoft Excel 2019, os alunos criarão e editarão planilhas e pastas de trabalho básicas. Este curso foi desenvolvido para alunos que desejam adquirir as habilidades necessárias para criar, editar, formatar e imprimir planilhas básicas do Microsoft Excel 2019.
+
+  #### Perfil de público
+  Este curso é destinado a alunos que têm pouca ou nenhuma familiaridade com o Microsoft Excel 2019 ou usuários de Excel mais experientes que desejam aprender os tópicos abordados neste curso na interface 2019.
+outlineSection: |-
+  ### Módulo 1&#58; Criar uma pasta de trabalho do Microsoft Excel
+  Este módulo explica como criar e começar a trabalhar com pastas de trabalho e planilhas.
+  #### Aulas
+  - Iniciando o Microsoft Excel
+  - Criação de uma pasta de trabalho
+  - Salvar uma pasta de trabalho
+  - A barra de status
+  - Adição e exclusão de planilhas
+  - Copiar e mover planilhas
+  - Alterar a ordem das planilhas
+  - Dividir a janela da planilha
+  - Fechar uma apostila
+
+
+  #### Laboratório &#58; Criar uma pasta de trabalho do Microsoft Excel
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Iniciar o Microsoft Excel.
+  - Criar uma pasta de trabalho do Microsoft Excel.
+  - Salvar uma pasta de trabalho do Microsoft Excel.
+  - Compreender a barra de status.
+  - Adicionar e excluir planilhas do Microsoft Excel.
+  - Copiar e mover planilhas.
+  - Dividir a janela da planilha.8. Para fechar uma pasta de trabalho do Microsoft Excel.
+
+
+  ### Módulo 2&#58; A Faixa
+  Este módulo explica como trabalhar com a Faixa.
+  #### Aulas
+  - Abas
+  - Grupos
+  - Comandos
+
+
+  #### Laboratório &#58; Os exercícios da Faixa
+  - Abra uma pasta de trabalho
+  - Selecione, abra e salve um modelo de agenda
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Trabalhar com guias.
+  - Trabalhar com grupos.
+  - Trabalhar com comandos.
+  - Saber quais grupos e comandos são encontrados em quais guias.
+
+
+  ### Módulo 3&#58; O modo de exibição dos bastidores (o menu Arquivo)
+  Este módulo explica como trabalhar com o modo de exibição Backstage.
+  #### Aulas
+  - Introdução ao modo de exibição Backstage
+  - Abrir uma apostila
+  - Abrir uma pasta de trabalho
+  - Novas pastas de trabalho e modelos do Excel
+  - Selecionar, abrir e salvar um modelo de agenda
+  - Impressão de planilhas
+  - Imprimir uma planilha
+  - Adicionar seu nome ao Microsoft Excel
+  - Adicionar um tema ao Microsoft Excel
+
+
+  #### Laboratório &#58; Exercícios de visualização de bastidores
+  - Imprimir uma planilha
+  - Abrir uma pasta de trabalho
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Trabalhar com o modo de exibição em segundo plano.
+  - Abrir uma pasta de trabalho do Microsoft Excel.
+  - Iniciar uma nova pasta de trabalho do Microsoft Excel.
+  - Usar modelos do Microsoft Excel.
+  - Imprimir uma pasta de trabalho do Microsoft Excel.
+  - Personalizar sua cópia do Microsoft Excel
+
+
+  ### Módulo 4&#58; A Barra de Ferramentas de Acesso Rápido
+  Este módulo explica como trabalhar com a Barra de Ferramentas de Acesso Rápido.
+  #### Aulas
+  - Adicionar Comandos Comuns
+  - Adicionar comandos adicionais com a Caixa de Diálogo Personalizar
+  - Adicionar Comandos ou Grupos da Faixa de Opções
+  - Posicionamento
+  - Personalizar a Barra de Ferramentas de Acesso Rápido
+
+
+  #### Laboratório &#58; Personalizar a Barra de Ferramentas de Acesso Rápido
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Adicionar comandos comuns à Barra de Ferramentas de Acesso Rápido.
+  - Adicionar comandos adicionais à Barra de Ferramentas de Acesso Rápido.
+  - Mover a barra de ferramentas de acesso rápido.
+
+
+  ### Módulo 5&#58; Inserir dados em planilhas do Microsoft Excel
+  Este módulo explica como inserir dados em planilhas do Microsoft Excel.
+  #### Aulas
+  - Inserção de Texto
+  - Adição e exclusão de células
+  - Adicionar um hiperlink
+  - Adicionar WordArt a uma planilha
+  - Uso de AutoComplete
+  - Inserção de texto e uso de AutoComplete
+  - Inserção de Números e Datas
+  - Uso da opção de preenchimento
+  - Inserção de Números e Datas
+
+
+  #### Laboratório &#58; Inserir exercícios de dados
+  - Inserção de texto e uso do AutoPreenchimento
+  - Inserção de Números e Datas
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Inserir texto em planilhas do Microsoft Excel.
+  - Adicionar ou excluir células em planilhas.
+  - Adicionar um esboço para seus dados.
+  - Inserir um hiperlink em uma planilha.
+  - Usar o AutoComplete.
+  - Inserir números e datas nas planilhas do Microsoft Excel.
+  - Usar a opção de preenchimento para adicionar dados às células.
+
+
+  ### Módulo 6&#58; Formatação de planilhas do Microsoft Excel
+  Este módulo explica como formatar planilhas do Microsoft Excel.
+  #### Aulas
+  - Seleção de intervalos de células
+  - Esconder planilhas
+  - Adicionar cor às abas da planilha
+  - Adicionar Temas a Pastas de Trabalho
+  - Personalizar uma pasta de trabalho usando cores e temas de guia
+  - Adicionar uma marca d'água
+  - O Grupo de Fontes
+  - Trabalhar com comandos de grupo de fontes
+  - O Grupo de Alinhamento
+  - Trabalhar com Comandos de Grupo de Alinhamento
+  - O Grupo de Número
+  - Trabalhar com comandos de grupo de números
+
+
+  #### Laboratório &#58; Exercícios de formatação de planilhas
+  - Personalizar uma pasta de trabalho usando cores e temas de guia
+  - Trabalhar com comandos de grupo de fontes
+  - Trabalhar com Comandos de Grupo de Alinhamento
+  - Trabalhar com Comandos de Grupos Numerais
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compreender várias maneiras de formatar planilhas do Microsoft Excel.
+  - Selecionar um intervalo de células em uma planilha.
+  - Ocultar planilhas.
+  - Adicionar cor às guias da pasta de trabalho.
+  - Adicionar temas às planilhas.
+  - Colocar o texto em negrito, itálico e sublinhado.
+  - Adicionar bordas às células.
+  - Alterar as cores do texto e das células.
+  - Alterar a fonte e o tamanho da fonte.
+  - Alinhar o texto.
+  - Quebrar texto.
+  - Recuar o texto.
+  - Mesclar e centralizar o texto.
+  - Alterar formatos de número.
+  - Alterar formatos de data.
+  - Mostrar decimais.
+
+
+  ### Módulo 7&#58; Usar fórmulas no Microsoft Excel
+  Este módulo explica como trabalhar com fórmulas no Microsoft Excel.
+  #### Aulas
+  - Operadores matemáticos e a ordem das operações
+  - Inserção de Fórmulas
+  - AutoSoma (e outras fórmulas automáticas comuns)
+  - Copiar fórmulas e funções
+  - Referências de células relativas, absolutas e mistas
+  - Trabalhar com fórmulas
+
+
+  #### Laboratório &#58; Trabalhar com Fórmulas
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compreender os operadores matemáticos e a ordem das operações no Excel.
+  - Inserir fórmulas básicas.
+  - Usar AutoSoma para somar dados com um clique.
+  - Compreender referências de células absolutas, relativas e mistas.
+  - Copiar fórmulas e funções.
+
+
+  ### Módulo 8&#58; Trabalhar com linhas e colunas
+  Este módulo explica como trabalhar com linhas e colunas no Microsoft Excel.
+  #### Aulas
+  - Inserção de linhas e colunas
+  - Exclusão de linhas e colunas
+  - Transpor linhas e colunas
+  - Definir altura da linha e largura da coluna
+  - Esconder e mostrar linhas e colunas
+  - Congelar painéis
+  - Trabalhar com linhas e colunas
+
+
+  #### Laboratório &#58; Trabalhar com linhas e colunas
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Inserir linhas e colunas em planilhas do Microsoft Excel.
+  - Excluir linhas e colunas em planilhas do Microsoft Excel.
+  - Transpor linhas e colunas.
+  - Alterar as alturas das linhas.
+  - Alterar as larguras das colunas.
+  - Ocultar e mostrar linhas e colunas.
+  - Congelar os painéis.
+
+  ### Módulo 9&#58; Edição de planilhas
+  Este módulo explica como editar planilhas no Microsoft Excel.
+  #### Aulas
+  - Procurar
+  - Encontrar e substituir
+  - Uso de Localizar e Substituir
+  - Uso da área de transferência
+  - Uso do Pintor de Formato
+  - Gerenciando comentários
+
+
+  #### Laboratório &#58; Exercícios de edição de planilhas
+  - Uso de Localizar e Substituir
+  - Uso da área de transferência
+  - Uso de Pintor de Formatos
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Localizar informações em sua planilha usando Localizar.
+  - Usar Localizar e Substituir para substituir rapidamente os dados por outros dados.
+  - Usar os comandos Recortar, Copiar, Colar e Pincel para editar planilhas.
+  - Gerenciar comentários
+
+
+  ### Módulo 10&#58; Finalizar planilhas do Microsoft Excel 
+  Este módulo explica como finalizar planilhas do Microsoft Excel.
+  #### Aulas
+  - Configurar Margens
+  - Configuração da orientação da página
+  - Configurar a área de impressão
+  - Escala de impressão (folha de ajuste em uma página)
+  - Impressão de cabeçalhos em cada página / cabeçalhos e rodapés repetidos
+  - Cabeçalhos e rodapés
+  - Preparar para imprimir
+
+
+  #### Laboratório &#58; Preparar para imprimir
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Definir as margens em planilhas do Microsoft Excel.
+  - Definir a orientação da página como retrato ou paisagem.
+  - Definir a área de impressão em uma planilha.
+  - Dimensionar uma planilha para que todos os dados sejam impressos em uma página.
+  Adicionar cabeçalhos e rodapés a uma planilha.
+  
+  #### Leitura Adicional
+  Para ajudá-lo a se preparar para esta aula, analise os seguintes recursos &#58;
+  - N/A 

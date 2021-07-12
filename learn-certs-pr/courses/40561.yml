@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Machine Learning'
+metadata:
+  title: 'Course 40561-G: Microsoft Cloud Workshop: Machine Learning'
+  description: 'Course 40561-G: Microsoft Cloud Workshop: Machine Learning'
+uid: course.40561
+courseNumber: '40561-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Os recursos e soluções de implementação do Azure Machine Learning e Azure Databricks.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  Nesta sessão de design de quadro branco, você trabalhará com um grupo para projetar e implementar uma solução que combina o Azure Databricks com o serviço Azure Machine Learning para criar, treinar e implantar os modelos de aprendizado de máquina e aprendizado profundo. Você aprenderá a usar o aprendizado de máquina automatizado, o gerenciamento do ciclo de vida do modelo do treinamento à implantação, em lotes e cenários de inferência em tempo real, e a construir modelos de aprendizado profundo para Natural Language Processing (PNL) na classificação de texto e previsão de dados de série temporal. Finalmente, você aprenderá a comparar dados com PyTorch e Keras para aprendizado profundo.
+
+  #### Perfil de público
+  Este workshop destina-se a Cloud Architects e profissionais de IT com experiência em arquitetura de design de infraestrutura e soluções em tecnologias de cloud e que desejam aprender mais sobre o Azure e os serviços do Azure conforme descrito nas áreas ""Resumo"" e ""Habilidades adquiridas"". Os participantes deste workshop também devem ter experiência em outras tecnologias que não sejam da Microsoft cloud, atender aos pré-requisitos do curso e desejar fazer o treinamento cruzado no Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Sessão de design de quadro branco - Aprendizado de máquina
+  #### Aulas
+  - Revisar o estudo de caso do cliente
+  - Projetar uma solução de prova de conceito
+  - Apresentar a solução
+
+
+  ### Módulo 2&#58; Laboratório prático - Aprendizado de Máquina
+  #### Aulas
+  - Criação de um modelo de previsão usando aprendizado de máquina automatizado
+  - Compreender o modelo de previsão gerado pelo ML automatizado usando a explicabilidade do modelo
+  - Criação de um modelo de aprendizado profundo (RNN) para dados de série temporal e registro do modelo
+  - Uso de um modelo de previsão para pontuação de telemetria de streaming
+  - Criação de um modelo de classificação de texto de aprendizado profundo

@@ -1,0 +1,227 @@
+### YamlMime:Course
+title: Introduction to Microsoft PowerPoint 2019
+metadata:
+  title: 'Course 55277-A: Introduction to Microsoft PowerPoint 2019'
+  description: 'Course 55277-A: Introduction to Microsoft PowerPoint 2019'
+uid: course.55277
+courseNumber: '55277-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Iniciar e terminar uma sessão de PowerPoint.
+- skill: Editar uma apresentação.
+- skill: Criar diferentes tipos de slides.
+- skill: Usar a a aba Contorno.
+- skill: Adicionar clipart a um slide.
+- skill: Formatar slides e usar modelos.
+- skill: Usar o Classificador de slides para reorganizar uma apresentação.
+- skill: Aplicar tabelas e gráficos a uma apresentação.
+- skill: Imprimir vários componentes de uma apresentação.
+- skill: Executar uma apresentação de slides.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- office
+summary: |-
+  Esta aula de treinamento de Introduction to PowerPoint 2019 foi desenvolvida para alunos interessados em aprender os fundamentos necessários para criar e modificar apresentações básicas usando o Microsoft Office PowerPoint 2019. Os alunos irão explorar o ambiente do PowerPoint e criar uma apresentação. Os alunos formatarão o texto em slides para aumentar a clareza e adicionar objetos gráficos a uma apresentação e modificá-los. Os alunos também adicionarão tabelas e gráficos a uma apresentação para apresentar os dados em um formulário estruturado e, em seguida, finalizar a apresentação.
+
+  #### Perfil de público
+  Alunos que têm pouca ou nenhuma familiaridade com o Microsoft PowerPoint 2019 ou usuários do Word mais experientes que desejam aprender os tópicos abordados neste curso na interface de 2019.
+prerequisitesSection: |-
+  Para esta aula de Microsoft PowerPoint&#58;
+  - Familiaridade com o uso de um computador pessoal, rato e teclado.
+  - Confortável no ambiente Windows.
+  - Capacidade de lançar e fechar programas; navegar até as informações armazenadas no computador; e gerenciar arquivos e pastas.
+outlineSection: |-
+  ### Módulo 1&#58; Criação de uma apresentação em PowerPoint
+  Este módulo explica como criar uma apresentação no Microsoft PowerPoint.
+  #### Aulas
+  - Iniciar o Microsoft PowerPoint
+  - Vista normal
+  - Criação de uma apresentação
+  - Salvar um documento
+  - Importar um arquivo
+  - A barra de status
+  - Fechar uma apresentação
+
+
+  #### Laboratório &#58; Criação de uma apresentação do Microsoft PowerPoint
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Iniciar o Microsoft PowerPoint.
+  - Aprender sobre a visualização normal.
+  - Criar uma apresentação em PowerPoint.
+  - Salvar uma apresentação do PowerPoint.
+  - Importar um arquivo para o PowerPoint.
+  - Saber mais sobre a barra de status.
+  - Fechar uma apresentação do PowerPoint
+
+
+  ### Módulo 2&#58; A Faixa de Opções
+  Este módulo explica como trabalhar com a Faixa de Opções no Microsoft PowerPoint.
+  #### Aulas
+  - A Faixa de Opções
+  - Abas
+  - Grupos
+  - Comandos
+  - A Aba Tell Me
+
+
+  #### Laboratório &#58; Explorar a faixa de opções
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Trabalhar com abas, grupos e comandos
+  - Aprender qual grupo e comandos são encontrados em quais abas.
+
+
+  ### Módulo 3&#58; A Barra de Ferramentas de Acesso Rápido
+  Este módulo explica como trabalhar com a Barra de Ferramentas de Acesso Rápido no Microsoft PowerPoint.
+  #### Aulas
+  - Adicionar Comandos Comuns
+  - Adicionar mais comandos com a caixa de diálogo 
+  Customizar- Adicionar Comandos ou Grupos da Faixa de Opções
+  - Posicionamento
+
+
+  #### Laboratório &#58; Customizar a Barra de Ferramentas de Acesso Rápido
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Adicionar comandos comuns à Barra de Ferramentas de Acesso Rápido.
+  - Adicionar comandos adicionais à Barra de Ferramentas de Acesso Rápido.
+  - Mova a barra de ferramentas de acesso rápido.
+
+
+  ### Módulo 4&#58; O modo de exibição dos bastidores (o menu Arquivo)
+  Este módulo explica como trabalhar com o modo de exibição Backstage no Microsoft PowerPoint.
+  #### Aulas
+  - Introdução ao modo de exibição Backstage
+  - Abrir uma apresentação
+  - Novas apresentações e modelos de apresentação
+  - Propriedades da apresentação
+  - Adicionar seu nome ao Microsoft PowerPoint
+
+
+  #### Laboratório &#58; Exercícios de visualização de bastidores
+  - Abrir uma apresentação
+  - Criação de uma agenda usando um modelo
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Usar o modo de exibição Backstage.
+  - Abrir uma apresentação do Microsoft PowerPoint.
+  - Iniciar uma nova apresentação do Microsoft PowerPoint.
+  - Usar modelos do Microsoft PowerPoint.
+  - Modificar as propriedades da apresentação.
+  - Customizar sua cópia do Microsoft PowerPoint.
+
+  ### Módulo 5&#58; Formatar apresentações do Microsoft PowerPoint
+  Este módulo explica como formatar apresentações do Microsoft PowerPoint.
+  #### Aulas
+  - Seleção de um layout de slide
+  - Adicionar Texto
+  - Adicionar texto de um arquivo de texto ou esboço de Word
+  - Edição de Texto
+  - Formatar Texto
+  - Formatar texto como WordArt
+  - Criação de listas com marcadores e numeradas
+  - Equação da tinta
+  - Formatação de marcadores de posição de texto
+  - Adicionar slides a apresentações
+  - Organização de slides
+
+
+  #### Laboratório &#58; Formatar Texto
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Selecionar um layout de slide.
+  - Adicionar texto a um slide.
+  - Importar conteúdo de um esboço de arquivo de texto.
+  - Editar texto.
+  - Formatar o texto.
+  - Formatar marcadores de posição de texto.
+  - Aplicar estilos aos slides.
+  - Adicionar slides a uma apresentação.
+  - Excluir slides de uma apresentação. Aprender a organizar slides.
+
+  ### Módulo 6&#58; Trabalho com Imagens
+  Este módulo explica como trabalhar com imagens no Microsoft PowerPoint.
+  #### Aulas
+  - Adicionar imagens a um slide
+  - Inserir uma imagem
+  - Inserir ícones
+  - Inserir Clip Art
+  - Captura e inserção de uma captura de tela
+  - Edição de uma imagem
+  - Formatar Imagens
+  - Criação de cores customizadas com o conta-gotas
+  - Aplicar um estilo e cortar uma imagem
+  - Organização de imagens
+  - Adicionar formas
+  - Usar tinta digital
+
+
+  #### Laboratório &#58; Trabalho com imagens e formas
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Adicionar imagens a uma apresentação.
+  - Inserir uma imagem.
+  - Inserir o clipart.
+  - Inserir uma captura de tela.
+  - Editar uma imagem.
+  - Girar e redimensionar uma imagem.
+  - Agrupar e desagrupar imagens.
+  - Organizar imagens.
+  - Adicionar formas.
+
+
+  ### Módulo 7&#58; Trabalho com tabelas e gráficos
+  Este módulo explica como trabalhar com tabelas e gráficos no Microsoft PowerPoint.
+  #### Aulas
+  - Inserir uma Tabela
+  - Tabelas de formatação
+  - Importação de tabelas de fontes externas
+  - Inserir um gráfico
+  - Formatar um gráfico
+  - Importação de gráficos de fontes externas
+
+
+  #### Laboratório &#58; Exercícios de trabalho com tabelas e gráficos
+  - Trabalhar com uma Tabela
+  - Trabalhar com gráficos
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Inserir uma tabela em um slide.
+  - Formatar uma tabela.
+  - Copiar uma tabela de outros aplicativos Microsoft Office para o PowerPoint.
+  - Inserir um gráfico em um slide.
+  - Formatar um gráfico.
+  - Copiar um gráfico de outros aplicativos do Microsoft Office para o PowerPoint.
+
+
+  ### Módulo 8&#58; Finalizar Apresentações do Microsoft PowerPoint
+  Este módulo explica como finalizar apresentações do Microsoft PowerPoint.
+  #### Aulas
+  - Verificar a ortografia
+  - Acessar diferentes visões de uma apresentação
+  - Organizar uma apresentação em seções
+  - Adicionar transições aos slides
+  - Adicionar anotações do orador
+  - Executar uma apresentação de slides
+  - Imprimir uma apresentação
+
+
+  #### Laboratório &#58; Finalizar os exercícios de apresentação
+  - Visualizar a apresentação
+  - Finalizar sua apresentação
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Verifique a ortografia em sua apresentação.
+  - Acessar diferentes visualizações de uma apresentação.
+  - Dividir uma apresentação em seções diferentes.
+  - Adicionar transições a um slide.
+  - Adicionar anotações do orador.
+  - Fazer uma apresentação de slides.
+  - Imprimir uma apresentação
+
+  #### Leitura Adicional
+  Para ajudá-lo a se preparar para esta aula, analise os seguintes recursos&#58;
+  - N/A

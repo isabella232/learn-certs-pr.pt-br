@@ -1,0 +1,231 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 for Customer Service
+metadata:
+  title: 'Course 55260-A: Microsoft Dynamics 365 for Customer Service'
+  description: 'Course 55260-A: Microsoft Dynamics 365 for Customer Service'
+uid: course.55260
+courseNumber: '55260-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compreender os recursos e ferramentas que existem no Microsoft Dynamics 365 para CSRs e Gerentes de Serviço
+- skill: Estar familiarizado com os estágios do Processo de Gerenciamento de Caso de Serviço no Microsoft Dynamics 365
+- skill: Compreender os fundamentos do Gerenciamento de Caso. Ser capaz de rastrear, gerenciar e resolver solicitações de atendimento ao cliente usando registros de casos no Microsoft Dynamics 365
+- skill: Saber como atribuir, resolver, reativar, cancelar e excluir registros de caso
+- skill: Compreender a importância dos Acordos de Nível de Serviço e como criar uma Programação do Cliente e aplicar SLAs aos registros do Cliente e de Caso por meio de Direitos
+- skill: Como instalar e configurar Filas e usar Filas para colaborar em Casos com outros CSRs e Equipes.
+- skill: Como implementar regras de roteamento de caso e utilizar itens de fila em processos
+- skill: Compreender o processo de criação e gerenciamento de artigos de conhecimento na Base de conhecimento
+- skill: Estar familiarizado com o processo de aprovação da Base de Conhecimento
+- skill: Como pesquisar a Base de Conhecimento e relacionar artigos de conhecimento a registros de caso
+- skill: Como provisionar e navegar no hub de serviço interativo
+- skill: Interagir efetivamente com os filtros, visualizações e painéis do hub de serviço interativo
+- skill: Criar e gerenciar artigos de conhecimento no hub de serviço interativo
+- skill: Executar gerenciamento de caso no hub de serviço interativo
+- skill: Explorar os Relatórios de Serviço e criar um Relatório de Serviço personalizado usando o Assistente de Relatório no Microsoft Dynamics 365
+- skill: Compreender a importância do Gerenciamento e Métricas de Meta de Serviço no Microsoft Dynamics 365
+- skill: Explorar os gráficos e painéis de serviço e criar um painel de serviço personalizado no Microsoft Dynamics 365
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  Este curso fornece aos alunos uma experiência prática detalhada dos recursos e componentes do Serviço do Microsoft Dynamics 365.
+
+  Os participantes deste curso obterão uma compreensão aprofundada do Processo de Gerenciamento de Casos de Serviço no Dynamics 365, incluindo aprender como rastrear e resolver solicitações de clientes com registros de Casos, colaborar em problemas usando Filas, usar Service Level Agreements(SLA) para gerenciar o serviço direitos e utilizar a Base de Conhecimento para resolver os problemas do cliente com mais rapidez. O hub de serviço interativo e os recursos de análise de serviço, como relatórios de serviço, gerenciamento de metas de serviço, gráficos de serviço e painéis, também são apresentados neste curso.
+
+  O curso se aplica às edições Business e Enterprise do Dynamics 365, bem como às implantações online e no local.
+
+  #### Perfil de público
+  Este curso é destinado a Representantes de Atendimento ao Cliente (CSR), Gerentes de Serviço e usuários finais que têm interesse nos componentes de Serviço do Dynamics 365. Os alunos devem ter um conhecimento prático existente do Microsoft Dynamics 365 ou do Microsoft Dynamics CRM. No mínimo, os alunos devem participar do curso de pré-requisito 'Introduction to Microsoft Dynamics 365'.
+prerequisitesSection: |-
+  Antes de participar deste curso, os alunos devem ter&#58;
+  - Um conhecimento prático do Microsoft Dynamics 365 ou Microsoft Dynamics CRM OU
+  - Conclusão bem-sucedida do curso 'Introduction to Microsoft Dynamics 365'
+outlineSection: |-
+  ### Módulo 1&#58; Introdução
+  Este módulo fornece ao participante uma introdução ao conceito de Atendimento ao Cliente da Microsoft
+  Dynamics 365.
+  #### Aulas
+  - Examinar cenários comuns de atendimento ao cliente
+  - Uma introdução ao serviço no Dynamics 365
+  - A plataforma Dynamics 365
+  - Princípios básicos do serviço Dynamics 365
+  - Considerações de segurança
+  - Onde obter ajuda
+  - Leituras adicionais e recursos
+
+
+  #### Laboratório &#58; Serviço na Orientação do Dynamics 365 
+  - Explorar os recursos do serviço no Dynamics 365
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compreender o processo de Atendimento ao Cliente em relação ao Dynamics 365 Service App.
+  - Estar familiarizados com os recursos de serviço do Dynamics 365 App.
+  - Compreender o impacto da configuração de segurança no Dynamics 365 Service App.
+  - Saber onde obter ajuda ao navegar e usar o Dynamics 365 Service App.
+  - Estar familiarizado com as leituras adicionais e os recursos disponíveis para os usuários.
+
+  
+  ### Módulo 2&#58; Gestão de caso
+  Este módulo apresenta o Processo de Gerenciamento de Caso de Serviço no Microsoft Dynamics 365. Nós também examinamos
+  os vários estágios pelos quais um registro de caso pode passar durante sua vida útil, e como os acordos de nível de serviço podem
+  ser usado com casos para definir e rastrear direitos de serviço.
+  #### Aulas
+  - O Processo de Gerenciamento de Caso
+  - Trabalhar com registros de casos
+  - Trabalhar com o formulário de caso
+  - Atribuição e encaminhamento de caso
+  - Casos e Atividades
+  - Resolver Casos
+  - Reativar, cancelar e excluir casos
+  - Acordos de Nível de Serviço
+
+
+  #### Laboratório &#58; Trabalhando com Casos
+  - Criar um registro de caso
+  - Atribuir um registro de caso
+  - Resolver um registro de caso
+  - Reativar um registro de caso
+  - Cancelar um registro de caso
+
+
+  #### Laboratório &#58; Casos e acordos de nível de serviço
+  - Criar uma programação do cliente para o SLA
+  - Criar um novo Acordo de Nível de Serviço
+  - Ativar um Acordo de Nível de Serviço
+  - Criar um direito
+  - Relacionar um caso a um acordo de nível de serviço
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compreender o Processo de Resolução de Caso em relação ao Dynamics 365 Service App.
+  - Saber como criar, atribuir, gerenciar e resolver registros de casos.
+  - Compreender a importância dos registros de atividades de caso relacionados.
+  - Trabalhar com acordos de nível de serviço e direitos do cliente.
+
+
+  ### Módulo 3&#58; Trabalhando com Filas
+  Este módulo apresenta os conceitos de Filas de Serviço no Microsoft Dynamics 365. Examinamos cenários de serviço comuns em que as filas podem ser úteis e percorremos o processo para criar e gerenciar filas. Também examinamos como o fluxo de trabalho e as regras de roteamento podem automatizar a atribuição de casos usando filas.
+  #### Aulas
+  - Introdução às filas de serviço
+  - Cenários de fila de serviço comuns
+  - Criação e gerenciamento de filas
+  - Trabalhar com itens da fila
+  - Regras de encaminhamento de caso
+  - Processos e Filas
+
+
+  #### Laboratório &#58; Criar uma fila de encaminhamento de caso
+  - Criar filas
+  - Criar uma regra de roteamento de caso
+  - Encaminhar um caso para uma fila
+  - Trabalhar com filas e itens da fila
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compreender os benefícios das Filas e como são usadas no Processo de Resolução de Caso.
+  - Adicionar registros às filas e gerenciar itens da fila.
+  - Implementar regras de roteamento de caso para automatizar a atribuição de caso.
+  - Automatizar o gerenciamento de itens de fila usando  processos.
+
+
+  ### Módulo 4&#58; Usar a Base de Conhecimento
+  Neste módulo, começaremos a examinar a Base de Conhecimento do Microsoft Dynamics 365. Verificamos onde a base de conhecimento se encaixa no processo de gerenciamento de serviços, apresentamos os modelos de artigo da base de conhecimento e examinamos o processo de aprovação do artigo. Por fim, concluímos com a pesquisa na Base de Conhecimento e relacionando os artigos aos registros de casos.
+  #### Aulas
+  - Introdução à Base de Conhecimento
+  - Conceitos da Base de Conhecimento
+  - Trabalhar com artigos
+  - Pesquisar na Base de Conhecimento
+  - Enviar um artigo de conhecimento por e-mail
+
+
+  #### Laboratório &#58; Criar artigos da base de conhecimento
+  - Criar um modelo de artigo
+  - Atualizar a árvore de assuntos
+  - Criar um novo artigo da base de conhecimento
+  - Enviar um artigo da base de conhecimento para aprovação
+  - Rejeitar um artigo da base de conhecimento
+  - Aprovar um artigo da base de conhecimento
+
+
+  #### Laboratório &#58; Crie um Caso e interaja com a Base de Conhecimento
+  - Criar um novo caso
+  - Relacionar um artigo da base de conhecimento a um caso
+  - Enviar um artigo de base de conhecimento por e-mail para um cliente
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Trabalhar com a Base de Conhecimento no Dynamics 365.
+  - Criar e gerencie artigos da base de conhecimento e modelos de artigo.
+  - Estar familiarizados com o processo de aprovação de artigos.
+  - Pesquisar a Base de Conhecimento para resolver um Registro de Caso.
+  - Enviar um artigo por e-mail a um cliente para resolver um registro de caso.
+
+
+  ### Módulo 5&#58; O hub de serviço interativo
+  Este módulo apresenta como CSRs e Service Managers podem se beneficiar dos recursos fornecidos pelo Interactive Service Hub. Observamos os ricos controles e fluxos dinâmicos de informações apresentados por esta interface alternativa para o Microsoft Dynamics 365. Por fim, examinamos as abordagens alternativas para gerenciamento de casos, artigos de conhecimento e rastreamento de informações de serviço.
+  #### Aulas
+  - Introdução ao hub de serviço interativo
+  - O Painel de Nível 1
+  - O Painel de Nível 2
+  - O Meu Painel de Conhecimento
+  - O Painel do Gerenciador de Conhecimento
+  - Trabalhar com casos no hub
+  - Trabalhar com artigos de conhecimento no hub
+  - Trabalhar com visualizações e filtros no hub
+
+
+  #### Laboratório &#58; Usar o hub de serviço interativo
+  - Explorar o hub de serviço interativo
+  - Gerenciar fluxos no hub de serviço interativo
+  - Resolver um caso no hub de serviço interativo
+  - Criar um Artigo sobre KB no Hub de Serviço Interactivo
+  - Gerenciar artigos KB no Serviço Hub interativo
+  - Relacionar um caso a um Artigo do Hub KB de Serviço Interativo
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Estar familiarizados com o Interactive Service Hub no Dynamics 365
+  - Interagir com os painéis, fluxos, indicadores e filtros do hub de serviço interativo.
+  - Gerenciar registros de casos por meio do hub de serviço interativo.
+  - Trabalhar com artigos da base de conhecimento por meio do hub de serviço interativo.
+
+
+  ### Módulo 6&#58; Análise de Serviço
+  Este módulo examina os diferentes métodos disponíveis para analisar as informações de serviço armazenadas no Microsoft Dynamics 365. Analisamos os relatórios de serviço prontos para uso e o processo para criar um relatório personalizado usando o Dynamics 365 Report Wizard. Este módulo também demonstra o gráfico e o painel
+  designer, bem como revisar os painéis de serviço prontos para uso para analisar os dados do serviço.
+  #### Aulas
+  - Introdução à Análise de Serviço no Dynamics 365
+  - Relatórios de Serviço
+  - Assistente de Relatório
+  - Trabalhar com gráficos de serviço
+  - Trabalhar com painéis de serviço
+  - Trabalhar com metas e métricas de serviço
+
+
+  #### Laboratório &#58; Explorar os relatórios de serviço
+  - Explorar o Relatório de Tabela de Resumo de Caso
+  - Explorar o Relatório de Casos Negligenciados
+
+
+  #### Laboratório &#58; Metas e métricas de serviço
+  - Criar metas para a equipe de serviço
+  - Criar uma visão pessoal
+  - Exibir metas e gráfico de vendas
+
+
+  #### Laboratório &#58; Explorar os gráficos e painéis de serviço
+  - Explorar os gráficos de caso
+  - Criar um gráfico de serviço personalizado
+  - Explorar os painéis de serviço
+  - Criar um painel de serviço personalizado
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compreender as diferentes maneiras de analisar dados de serviço no Dynamics 365.
+  - Trabalhar com os Relatórios de Serviço prontos para uso no Dynamics 365.
+  - Criar um relatório de serviço personalizado usando o Assistente de relatório.
+  - Trabalhar com os gráficos e painéis de serviço.
+  Criação de metas de serviço e visualizações de KPI no Dynamics 365.
+  #### Leitura Adicional

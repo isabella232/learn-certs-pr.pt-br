@@ -1,0 +1,45 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Predictive Maintenance for remote field devices'
+metadata:
+  title: 'Course 40560-G: Microsoft Cloud Workshop: Predictive Maintenance for remote field devices'
+  description: 'Course 40560-G: Microsoft Cloud Workshop: Predictive Maintenance for remote field devices'
+uid: course.40560
+courseNumber: '40560-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Projetar uma solução de manutenção preditiva baseada em IoT no Azure.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Neste workshop, você aprenderá a avaliar o catálogo da Microsoft de produtos de IoT baseados em PaaS e SaaS para determinar a combinação ideal de ferramentas para atender às necessidades da Fabrikam. Você projetará e implementará uma solução que simplifica o gerenciamento e relatórios de dispositivos  IoT, fornecendo à Fabrikam um caminho mais rápido para concretizar sua estratégia de IoT sem exigir muito desenvolvimento personalizado. A seguir, você aprenderá como implantar um modelo de Machine Learning de manutenção preditiva treinado e projetar um canal de processamento de fluxo que faz previsões com o modelo quase em tempo real. No final deste duto está um alerta que é enviado para a equipe de manutenção da bomba de óleo quando uma falha da bomba é iminente.
+
+  #### Perfil de público
+  Este workshop destina-se a Cloud Architects e profissionais de IT com experiência em arquitetura de design de infraestrutura e soluções em tecnologias de cloud e que desejam aprender mais sobre o Azure e os serviços do Azure conforme descrito nas áreas ""Resumo"" e ""Habilidades adquiridas"". Os participantes deste workshop também devem ter experiência em outras tecnologias que não sejam da Microsoft cloud , atender aos pré-requisitos do curso e desejar fazer o treinamento cruzado no Azure.
+prerequisitesSection: |-
+  O conteúdo do workshop pressupõe um nível 300 de conhecimento arquitetônico de design de infraestrutura e soluções. Sugerimos que os alunos façam este pré-requisito antes de participar deste workshop.
+  - Microsoft Azure Essentials course, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Módulo 1&#58; Sessão de Design no Quadro Branco - Manutenção Preditiva para dispositivos de campo remotos
+  #### Aulas
+  - Revisar o estudo de caso do cliente
+  - Projetar uma solução de prova de conceito
+  - Apresentar a solução
+
+
+  ### Módulo 2&#58; Laboratório prático - Manutenção Preditiva para dispositivos de campo remotos
+  #### Aulas
+  - Configuração do IoT Central com dispositivos e metadados
+  - Executar o Rod Pump Simulator
+  - Criação de um conjunto de dispositivos
+  - Criação de um painel útil
+  - Criação de um Event Hub e exportação de dados continuamente da IoT Central
+  - Uso dos serviços Azure Databricks e Azure Machine Learning para treinar e implantar o modelo preditivo
+  - Criação de um Azure Function para prever a falha da bomba
