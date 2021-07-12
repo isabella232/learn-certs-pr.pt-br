@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Line-of-business application migration'
+metadata:
+  title: 'Course 40558-G: Microsoft Cloud Workshop: Line-of-business application migration'
+  description: 'Course 40558-G: Microsoft Cloud Workshop: Line-of-business application migration'
+uid: course.40558
+courseNumber: '40558-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Avaliar a prontidão do ambiente para migração para o Azure.
+- skill: Projetar e implementar a descoberta e avaliação de tais ambientes.
+- skill: Uso de serviços, incluindo Azure Migrate, Azure Database Migration Service e Azure Site Recovery
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Neste curso, você verá como projetar uma migração do Azure para um ambiente de cliente heterogêneo. A infraestrutura existente compreende servidores Windows e Linux em execução em máquinas VMWare e em máquinas físicas, e inclui alguns servidores legados. Ao longo da sessão de design no quadro branco, você verá as várias opções e serviços disponíveis para migrar ambientes heterogêneos para o Azure. No final deste workshop, você será mais capaz de projetar e implementar a descoberta e avaliação de ambientes para avaliar sua prontidão para migrar para o Azure usando serviços, incluindo Azure Migrate, Azure Database Migration Service e Azure Site Recovery.
+
+  #### Perfil de público
+  Este workshop destina-se a Cloud Architects e profissionais de IT com experiência em arquitetura de design de infraestrutura e soluções em tecnologias de cloud e que desejam aprender mais sobre o Azure e os serviços do Azure conforme descrito nas áreas ""Resumo"" e ""Habilidades adquiridas"". Os participantes deste workshop também devem ter experiência em outras tecnologias que não sejam da Microsoft cloud , atender aos pré-requisitos do curso e desejar fazer o treinamento cruzado no Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Sessão de Design no Quadro Branco - Migração de aplicativos da linha de negócios
+  #### Aulas
+  - Revisar o estudo de caso do cliente
+  - Projetar uma solução de prova de conceito
+  - Apresentar a solução
+
+
+  ### Módulo 2&#58; Laboratório prático - Migração de aplicativos da linha de negócios
+  #### Aulas
+  - Descobrir e avaliar o ambiente local
+  - Migrar o banco de dados do aplicativo
+  - Migrar o aplicativo e as camadas da web usando o Azure Site Recovery

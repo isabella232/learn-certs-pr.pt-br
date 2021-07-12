@@ -1,0 +1,163 @@
+### YamlMime:Course
+title: 'Microsoft Project 2019: Digging Deeper'
+metadata:
+  title: 'Course 55289-A: Microsoft Project 2019: Digging Deeper'
+  description: 'Course 55289-A: Microsoft Project 2019: Digging Deeper'
+uid: course.55289
+courseNumber: '55289-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Trabalhar com as funcionalidades avançadas de formatação do Gantt Chart e diagramas de rede.
+- skill: Criar projectos-piloto e subprojectos em Project 2019.
+- skill: Criar relatórios de projectos customizados.
+- skill: Trabalhar com reservas de recursos.
+- skill: Analisar os custos do projeto.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  Esta aula de Intermediate Microsoft Project 2019&#58; Digging Deeper tem uma abordagem aprofundada das principais características do Project 2019 ou Project 365 incluindo a entrada e ligação de tarefas, a gestão de recursos e recursos e a análise e actualização de projectos. Você vai aprender a gerenciar projetos de forma eficiente, criar projetos mestres e sub-projetos, criar e customizar relatórios visuais, trabalhar com reservas de recursos e analisar os custos do projeto.
+
+  ### Perfil do público
+  Este curso destina-se a estudantes que tenham habilidades Microsoft Project incluindo alto nível de conforto navegando o programa.
+prerequisitesSection: |-
+  Habilidades básicas em Microsoft Project incluindo alto nível de conforto navegando o programa.
+outlineSection: |-
+  ### Módulo 1&#58; Iniciar um projecto a partir de um projecto existente, Excel Workbook, ou Lista De Tarefas SharePoint 
+  Este módulo explica como iniciar um projeto.
+  #### Aulas
+  - Iniciar um projecto
+
+  Depois de completar este módulo, os alunos serão capazes de&#58;
+  - Definir as opções do projecto.
+  - Criar um projecto a partir de um projecto existente.
+  - Criar um projecto a partir de uma página de cálculo em Excel
+  - Criar um projecto a partir de uma lista SharePoint .
+
+
+  ### Módulo 2&#58; Métodos avançados de gestão de tarefas e recursos
+  Este módulo explica como usar métodos avançados para gerenciar tarefas e recursos.
+  #### Aulas
+  - Gerir tarefas e recursos
+  - Compreender a configuração do tempo decorrido versus a configuração do tempo real
+  - Definir As Restrições Da Tarefa
+  - Divisão e adiamento de Tarefas
+  - Usar o Inspector de Tarefas
+  - Analisar as tarefas de Critcal e o caminho crítico
+  - Utilizar o tempo de espera e o tempo de espera
+  - Análise De Tarefas
+  - Usar o Planeador de equipa
+  - Utilização de um conjunto de recursos e partilha de recursos
+  - Gestão da disponibilidade dos recursos e das taxas de remuneração
+
+
+  #### Laboratório &#58; Exercícios
+  - Alterar a dependência da tarefa
+  - Criar uma restrição de Tarefas
+  - Para dividir uma tarefa&#58; Usar a Gantt Chart View
+  - Atrasar uma tarefa&#58; Usar um Gantt Chart View
+  - Ver o Inspector de Tarefas
+  - Tempo de atraso e de avanço
+  - Adicionar uma nota através da janela de Informação da atribuição
+  - Mostrar um planeador de equipa e aplicar a formatação
+  - Partilha de um conjunto de recursos
+  - Alteração da taxa de remuneração
+
+  Depois de completar este módulo, os alunos serão capazes de&#58;
+  - Trabalhar com dependências de Tarefas.
+  - Compreender o tempo decorrido versus o tempo real.
+  - Definir restrições de Tarefas.
+  - Dividir e atrasar tarefas.
+  - Usar o inspector de Tarefas.
+  - Analisar as tarefas críticas e o caminho crítico.
+  - Usar o tempo de atraso e o tempo de avanço.
+  - Analisar tarefas.
+  - Usar o Planeador da equipa.
+  - Usar uma reserva de recursos e partilhe recursos.
+  - Gerenciar disponibilidade de recursos e taxas de pagamento.
+
+
+  ### Módulo 3&#58; gestão do projecto com técnicas avançadas
+  Este módulo explica como rever e corrigir quaisquer problemas em projetos.
+
+  #### Aulas
+  - Utilização de nivelamento para resolver as colocações globais de recursos
+  - Tarefas De Alteração
+  - Compreensão dos planos de base e intercalares
+  - Analisar os custos dos projectos e criar orçamentos
+
+
+  #### Laboratório &#58; Exercícios
+  - Usar a nivelação para resolver as alocações de recursos&#58; Usar o Gantt
+  - Tarefas De Alteração
+  - Estabelecimento De Linhas De Base Adicionais
+  - Criação De Orçamentos
+
+  Depois de completar este módulo, os alunos serão capazes de&#58;
+  - Usar nivelamento para resolver a sobrelocalização de recursos.
+  - Alterar tarefas.
+  - Compreender os planos iniciais e intercalares.
+  - Analisar os custos do projeto e criar orçamentos.
+
+
+  ### Módulo 4&#58; formatação e personalização de exibições
+  Este módulo explica como formatar e customizar as exibições em Microsoft Project.
+  #### Aulas
+  - Customizar o Gantt Chart
+  - Criar uma exibição customizada
+  - Aplicação De Filtros
+  - Uso de Work Breakdown Structure (WBS) Codes
+
+
+  #### Laboratório &#58; Exercícios
+  - Customizar o Gantt Chart Uso do Gantt Chart View
+  - Criar uma exibição customizada
+  - Aplicação De Filtros
+
+  Depois de completar este módulo, os alunos serão capazes de&#58;
+  - Customizar o Gantt Chart.
+  - Criar uma exibição customizada.
+  - Aplicar Filtros.
+  - Usar Work Breakdown Structure (WBS) Codes .
+
+
+  ### Módulo 5&#58; Relatórios
+  Este módulo explica como trabalhar com relatórios em Microsoft Project.
+  #### Aulas
+  - Criação De Relatórios Visuais
+  - Edição De Relatórios
+
+
+  #### Laboratório &#58; Exercícios
+  - Criar um relatório Visual
+  - Editar um relatório
+
+  Depois de completar este módulo, os alunos serão capazes de&#58;
+  - Criar relatórios visuais.
+  - Editar relatórios.
+
+
+  ### Módulo 6&#58; Trabalhar com modelos
+  Este módulo explica como trabalhar com modelos em Microsoft Project.
+  #### Aulas
+  - Utilização de subprojectos no âmbito de um projecto.
+  - Usar o Organizador para manter os modelos.
+
+
+  #### Laboratório &#58; Exercícios
+  - Utilização de subprojectos no âmbito de um projecto
+  - Utilizar o Organizador
+
+  Depois de completar este módulo, os alunos serão capazes de&#58;
+  - Uso do subprojeto dentro de um projeto.
+  - Uso do organizador para manter os modelos.
+
+  ### Leitura Adicional
+  Nenhum

@@ -1,0 +1,206 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 for Sales
+metadata:
+  title: 'Course 55258-A: Microsoft Dynamics 365 for Sales'
+  description: 'Course 55258-A: Microsoft Dynamics 365 for Sales'
+uid: course.55258
+courseNumber: '55258-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Compreender os recursos e ferramentas que existem no Microsoft Dynamics 365 para Gerentes de SR e Vendas
+- skill: Estar familiarizado com as etapas do Processo de Pedido de Vendas no Microsoft Dynamics 365
+- skill: Entender os fundamentos de Guia e Gestão de Oportunidades. Ser capaz de rastrear, gerenciar, qualificar leads e converter em oportunidades e registros de clientes relacionados no Microsoft Dynamics 365
+- skill: Saber como desqualificar e cancelar leads e converter registros de atividades em leads e oportunidades
+- skill: Entender como colaborar em oportunidades com outros SRs e fechar os registros de oportunidades como ganhos e perdidos
+- skill: Ser capaz de rastrear concorrentes e partes interessadas
+- skill: Entender como visualizar atividades de resolução
+- skill: Adicionar produtos e produtos de escrita às oportunidades
+- skill: Construir e manter um repositório de produtos, pacotes de produtos e famílias de produtos no catálogo de produtos
+- skill: Configurar grupos de unidades, listas de preços e listas de descontos
+- skill: Trabalhar com propriedades do produto e visualizar uma hierarquia do produto
+- skill: Criar cotações e adicionar produtos
+- skill: Trabalhar com o processo de pedido de vendas para converter cotações em pedidos e faturas
+- skill: Atender pedidos e gerenciar pagamentos de faturas
+- skill: Explorar os Relatórios de Vendas e criar um Relatório de Vendas personalizado usando o Assistente de Relatórios no Microsoft Dynamics 365 
+- skill: Compreender a importância do Gerenciamento e das Métricas de Meta de Vendas no Microsoft Dynamics 365 
+- skill: Explorar os gráficos e painéis de vendas e criar um painel de vendas personalizado no Microsoft Dynamics 365
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  Este curso fornece aos alunos uma experiência prática detalhada dos recursos e componentes de Vendas do Microsoft Dynamics 365.
+
+  Os participantes deste curso obterão uma compreensão profunda do gerenciamento do Pipeline de Vendas no Dynamics 365, incluindo o gerenciamento de Leads e Oportunidades, trabalhando com o Processo de Pedidos de Vendas, Catálogo de Produtos, Cotações, Pedidos e Faturas. Os recursos de Análise de Vendas, como Relatórios de Vendas, Gerenciamento de Objetivos de Vendas, Gráficos de Vendas e Painéis, também são apresentados neste curso.
+
+  O curso se aplica às edições Business e Enterprise do Dynamics 365, bem como às implantações online e no local.
+
+  #### Perfil de público
+  Este curso é destinado a Representantes de Vendas (SR), Gerentes de Vendas e usuários finais que têm interesse nos componentes de Vendas do Dynamics 365. Os alunos devem ter um conhecimento prático existente do Microsoft Dynamics 365 ou do Microsoft Dynamics CRM. No mínimo, os alunos devem participar do curso de pré-requisito 'Introduction to Microsoft Dynamics 365'.
+prerequisitesSection: |-
+  Antes de participar deste curso, os alunos devem ter&#58;
+  - Um conhecimento prático do Microsoft Dynamics 365 ou Microsoft Dynamics CRM
+  - OU
+  - Conclusão bem-sucedida do curso 'Introduction to Microsoft Dynamics 365'
+outlineSection: |-
+  ### Módulo 1&#58; Introdução
+  Este módulo fornece ao participante uma introdução ao conceito de Vendas no Microsoft Dynamics 365.
+  #### Aulas
+  - Cenários de processos de pedidos de vendas
+  - Uma introdução às vendas no Dynamics 365
+  - A plataforma Dynamics 365
+  - Princípios básicos do Dynamics 365 Sales
+  - Considerações de segurança
+  - Onde obter ajuda
+  - Leituras adicionais e recursos
+
+
+  #### Laboratório &#58; Vendas na Orientação do Dynamics 365
+  - Explorar os recursos de vendas no Dynamics 365
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Entender o Processo de Pedidos de Vendas em relação ao Dynamics 365 Sales App.
+  - Estar familiarizados com os recursos de vendas do Dynamics 365 App.
+  - Entender o impacto da configuração de segurança no Dynamics 365 Sales App. 
+  - Saber onde obter ajuda ao navegar e usar o Dynamics 365 Sales App. 
+  - Estar familiarizado com as leituras adicionais e os recursos disponíveis para os usuários.
+
+
+  ### Módulo 2&#58; Gestão de Lead
+  Este módulo apresenta o Processo de Gerenciamento de Lead no Dynamics 365. Examinamos o processo para criar e atribuir registros de Lead, como criar Leads a partir de Atividades e como qualificar e desqualificar Leads. Também examinamos os vários estágios do Processo de Lead para Oportunidades de Vendas no Dynamics 365.
+  #### Aulas
+  - O Processo de Gestão de Leads
+  - Trabalhar com registros de leads
+  - Trabalhar com o Formulário de Lead
+  - Atribuição de Lead
+  - Leads e atividades
+  - Qualificação de um Lead
+  - Desqualificação de um Lead
+
+
+  #### Laboratório &#58; Trabalhar com Leads
+  - Criar um registro de lead
+  - Atualizar um registro de lead
+  - Qualificar um lead para um registro de oportunidade
+  - Desqualificar um registro de lead
+  - Converter uma atividade de e-mail em um registro de lead
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compreender o Processo de Gerenciamento de Leads em relação ao Dynamics 365 Sales App.
+  - Saber como criar e gerenciar registros de leads.
+  - Ser capaz de trabalhar com Leads e Atividades.
+  - Compreender o processo de qualificação de leads.
+
+
+  ### Módulo 3&#58; Gerenciamento de Oportunidades 
+  Este módulo apresenta os conceitos de Oportunidades no Dynamics 365. Examinamos as visualizações e formulários da oportunidade e o processo de vendas da oportunidade ao fechar um registro de oportunidade. Também examinamos as atividades de resolução e como elas influenciam o processo de pedido de vendas.
+  #### Aulas
+  - Introdução às oportunidades
+  - As visualizações de oportunidade
+  - O formulário de oportunidade
+  - Processo de venda de oportunidade
+  - Fechamento de uma oportunidade
+  - Atividades de resolução
+
+
+  #### Laboratório &#58; Trabalhando com Oportunidades
+  - Trabalhando em oportunidades
+  - Dar uma oportunidade como perdida
+  - Dar uma oportunidade como ganha
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compreender o Processo de Gerenciamento de Oportunidades em relação ao Dynamics 365 Sales App. 
+  - Interagir com as visualizações de oportunidade e formulários para gerenciar registros de oportunidade.
+  - Trabalhar com registros de oportunidade em um fluxo de processo de vendas.
+  - Fechar oportunidades como ganhas e perdidas.
+  - Compreender a importância das atividades de resolução.
+
+
+  ### Módulo 4&#58; Produtos
+  Neste módulo, começaremos a examinar o Catálogo de Produtos no Dynamics 365. Vemos como criar produtos e configurar grupos de unidades e listas de preços. Por fim, examinamos as propriedades do produto, os pacotes de produtos e as famílias de produtos.
+  #### Aulas
+  - Introdução ao Catálogo de Produtos
+  - Adicionar Produtos
+  - Configurar grupos de unidades
+  - Listas de preços e itens da lista de preços
+  - Propriedades do produto, pacotes e famílias
+
+
+  #### Laboratório &#58; Configurar o Catálogo de Produtos
+  - Configurar grupos de unidades
+  - Adicionar um produto
+  - Criar e configurar uma lista de preços
+
+
+  #### Laboratório &#58; Trabalhar com o Catálogo de Produtos
+  - Clonar um produto
+  - Criar um pacote de produtos
+  - Criar uma família de produtos
+  
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Estar familiarizados com o recurso Catálogo de Produtos no Dynamics 365. 
+  - Adicionar e gerenciar produtos, configurar grupos de unidades e relacionar listas de preços.
+  - Trabalhar com listas de preços e itens da lista de preços.
+  - Compreender as propriedades do produto e crie pacotes e famílias de produtos.
+
+  ### Módulo 5&#58; Cotações, pedidos e faturas
+  Esse módulo apresenta cotações, pedidos e faturas no Microsoft Dynamics 365. Olhamos em como adicionar produtos do catálogo de produtos para Oportunidades e Cotações, e quando usar produtos 'de escrita'. Este módulo também percorre o processo de conversão de Cotações em Pedidos, Atendimento de Pedidos e o procedimento de gerenciamento de Faturas.
+  #### Aulas
+  - Introdução ao processamento de pedidos
+  - Adicionando produtos a uma oportunidade
+  - Trabalhar com citações
+  - Trabalhar com pedidos
+  - Trabalhar com faturas
+
+
+  #### Laboratório &#58; Trabalho com cotações, pedidos e faturas
+  - Adicionar produtos a uma oportunidade
+  - Adicionar uma cotação a uma oportunidade
+  - Converter uma cotação em um pedido e fatura
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Estar familiarizados com o Fluxo de Processo do Pedido no Dynamics 365.
+  - Adicionar Produtos e Produtos 'incluídos' em um Registro de Oportunidade e Cotação.
+  - Trabalhar com Cotações, Pedidos e Registros de Faturas.
+
+
+  ### Módulo 6&#58; Análise de vendas
+  Este módulo examina os diferentes métodos disponíveis para analisar as informações de vendas armazenadas no Dynamics 365. Analisamos os relatórios de vendas prontos para uso e o processo para criar um relatório personalizado usando o Dynamics 365 Report Wizard. Este módulo também demonstra o designer de gráfico e painel, bem como a revisão dos painéis de vendas prontos para uso para analisar dados de serviço.
+  #### Aulas
+  - Introdução à Análise de Vendas no Dynamics 365 
+  - Os relatórios de vendas
+  - O Assistente de Relatório
+  - Trabalhar com gráficos de vendas
+  - Trabalhar com painéis de vendas
+  - Trabalhar com metas e métricas de vendas
+
+
+  #### Laboratório &#58; Explorar os relatórios de vendas
+  - Explorar o Relatório de Pipeline de Vendas
+  - Explorar o relatório de cotação
+
+
+  #### Laboratório &#58; Metas e métricas de vendas
+  - Criar metas para a equipe de vendas
+  - Criar uma visão pessoal
+  - Exibir metas e gráfico de vendas
+
+
+  #### Laboratório &#58; Explorar os gráficos e painéis de vendas
+  - Explorar os gráficos de oportunidades e leads
+  - Criar um gráfico de vendas personalizado
+  - Explorar os painéis de vendas
+  - Criar um painel de vendas personalizado
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compreender as diferentes maneiras de analisar os dados de vendas no Dynamics 365. 
+  - Trabalhar com os Relatórios de Vendas prontos para uso no Dynamics 365. 
+  - Criar um relatório de vendas personalizado usando o Assistente de relatório.
+  - Trabalhar com os gráficos e painéis de vendas.
+  Crie metas de vendas e Visualizações de KPI no Dynamics 365.

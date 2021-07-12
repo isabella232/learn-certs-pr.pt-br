@@ -1,0 +1,247 @@
+### YamlMime:Course
+title: Advanced Microsoft PowerPoint 2019
+metadata:
+  title: 'Course 55276-A: Advanced Microsoft PowerPoint 2019'
+  description: 'Course 55276-A: Advanced Microsoft PowerPoint 2019'
+uid: course.55276
+courseNumber: '55276-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Criar apresentações customizadas com modelos.
+- skill: Adicionar efeitos especiais.
+- skill: Usar o slide, notas e folhetos mestre.
+- skill: Criar, editar e importar gráficos.
+- skill: Gerenciar hiperlinks.
+- skill: Criar programas personalizados.
+- skill: Proteger e compartilhar apresentações.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  Esta aula de treinamento do Microsoft PowerPoint 2019 é para usuários do PowerPoint 2019 que desejam desenvolver suas habilidades básicas. Os alunos usarão técnicas avançadas, como trabalhar com mestres e efeitos especiais em suas apresentações.
+
+  #### Perfil de público
+  Alunos que têm habilidades básicas com o Microsoft PowerPoint 2019 que desejam aprender habilidades de nível avançado ou alunos que desejam aprender os tópicos abordados neste curso na interface de 2019.
+prerequisitesSection: |-
+  Para esta classe de Microsoft PowerPoint&#58;
+  - Experiência básica em PowerPoint 2019.
+outlineSection: |-
+  ### Módulo 1&#58; Customizar Apresentações
+  Este módulo explica como Customizar apresentações no Microsoft PowerPoint.
+  #### Aulas
+  - Aplicar um tema
+  - Aplicar um estilo de fundo
+  - Adicionar um rodapé
+  - Organização e impressão de seções
+
+
+  #### Laboratório &#58; Personalização de exercícios de apresentações
+  - Adicionar uma imagem de fundo
+  - Customizar sua apresentação
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Aplicar um tema.
+  - Aplicar um estilo de fundo.
+  - Adicionar um rodapé.
+  - Adicionar uma imagem de fundo.
+  - Salvar um tema personalizado.
+  - Organizar e imprimir seções de uma apresentação.
+
+
+  ### Módulo 2&#58; Apresentação de mestres
+  Este módulo explica como trabalhar com mestres de apresentação no Microsoft PowerPoint.
+  #### Aulas
+  - Trabalhar com o Slide Mestre
+  - Layouts de slides
+  - Formatação de slides mestre e layouts
+  - Adicionar uma marca d'água à sua apresentação
+  - Adicionar números de slides usando o slide mestre
+  - Preservar um slide mestre
+  - Modificar a apostila mestre
+  - Adicionar um cabeçalho e rodapé a notas e folhetos
+
+
+  #### Laboratório &#58; Usar o Slide Mestre
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Trabalhar com o slide mestre.
+  - Trabalhar com layouts.
+  - Formatar slides mestre e layouts de slides.
+  - Adicionar uma marca d'água.
+  - Adicionar números de slides.
+  - Inserir um novo slide mestre.
+  - Preservar um slide mestre.
+  - Modificar o mestre de notas.
+  - Modificar o folheto mestre.
+  - Adicionar um cabeçalho e rodapé às notas e folhetos.
+
+
+  ### Módulo 3&#58; Trabalho com efeitos especiais
+  Este módulo explica como trabalhar com efeitos especiais no Microsoft PowerPoint.
+  #### Aulas
+  - Animação de texto e objetos
+  - Caminhos de movimento
+  - Trabalhar com o Pintor de Animação
+  - Definição de tempo de animação
+  - Animar um gráfico
+
+
+  #### Laboratório &#58; Aplicação de efeitos especiais a uma apresentação
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Animar texto e objetos.
+  - Trabalhar com o Pintor de Animação.
+  - Definir o tempo da animação.
+  - Animar um gráfico.
+
+
+  ### Módulo 4&#58; Usar SmartArt
+  Este módulo explica como usar SmartArt no Microsoft PowerPoint.
+  #### Aulas
+  - Inserir gráficos SmartArt
+  - Modificação de gráficos SmartArt
+  - Redimensionar/reposicionar um objeto SmartArt
+  - Formatação de texto em um objeto SmartArt
+  - Adicionar formas a um objeto SmartArt
+  - Desagrupar objetos SmartArt
+
+
+  #### Laboratório &#58; Trabalho com SmartArt
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Inserir gráficos SmartArt em suas apresentações.
+  - Modificar os gráficos SmartArt.
+  - Redimensionar e reposicionar gráficos SmartArt.
+  - Adicionar texto a um objeto SmartArt.
+  - Formatar o texto em um objeto SmartArt.
+  - Adicionar formas a um gráfico SmartArt.
+  - Desagrupar objetos SmartArt.
+
+
+  ### Módulo 5&#58; Multimídia
+  Este módulo explica como trabalhar com multimídia no Microsoft PowerPoint.
+  #### Aulas
+  - Criação de um álbum de fotos
+  - Adicionar legendas
+  - Aplicar um tema ao seu álbum
+  - Personalização de um álbum
+  - Inserir sons e vídeo
+  - Edição de clipes de mídia
+
+
+  #### Laboratório &#58; Exercícios Multimídia
+  - Criação e modificação de um álbum de fotos
+  - Adicionar vídeo a uma apresentação
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Criar um álbum de fotos.
+  - Adicionar legendas às fotos de um álbum.
+  - Aplicar um tema a um álbum.
+  - Customizar o layout do álbum de fotos.
+  - Inserir som e vídeo em uma apresentação.
+  - Editar clipes de mídia no PowerPoint.
+  - Para alterar as configurações de multimídia.
+
+
+  ### Módulo 6&#58; Configurar a apresentação de slides
+  Este módulo explica como configurar uma apresentação de slides no Microsoft PowerPoint.
+  #### Aulas
+  - Configurar um Show personalizado
+  - Criação de um hiperlink
+  - Adicionar um botão de ação
+  - Saltar para outra apresentação
+  - Usar tempos de ensaio
+  - Navegar em uma apresentação de slides
+  - Anotar uma apresentação
+  - Gravar uma apresentação de slides
+  - Configurar uma apresentação de slides para repetir automaticamente
+
+
+  #### Laboratório &#58; Configurar os exercícios de apresentação de slides
+  - Apresentar um Show Personalizado
+  - Preparar a apresentação de slides
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Configurar uma apresentação de slides customizada.
+  - Criar um hiperlink.
+  - Adicionar um botão de ação.
+  - Vá para outra apresentação.
+  - Ensaie o tempo de sua apresentação.
+  - Navegar em uma apresentação de slides.
+  - Fazer anotações em uma apresentação.
+  - Criar uma apresentação de slides independente do apresentador.
+  - Configurar uma apresentação de slides para repetir automaticamente.
+
+
+  ### Módulo 7&#58; Esboços e slides
+  Este módulo explica como trabalhar com contornos e slides no Microsoft PowerPoint.
+  #### Aulas
+  - Exportar notas e folhetos para o Word
+  - Exportar um esboço para o Word
+  - Salvar uma apresentação como esboço
+  - Salvar um slide como gráfico
+
+
+  #### Laboratório &#58; Exportar um esboço para o Word
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Exportar notas e folhetos para documentos do Word.
+  - Exportar um esboço para um documento do Word.
+  - Salvar sua apresentação como um esboço.
+  - Salvar um slide em sua apresentação como um gráfico.
+
+  ### Módulo 8&#58; Gerenciar várias apresentações
+  Este módulo explica como gerenciar várias apresentações.
+  #### Aulas
+  - Mesclar várias apresentações
+  - Reutilizar slides de outras apresentações
+  - Ver várias apresentações
+  - Acompanhamento de alterações no PowerPoint
+
+
+  #### Laboratório &#58; Revisão de mudanças no PowerPoint
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Combinar várias apresentações.
+  - Reutilizar slides de outras apresentações.
+  - Ver várias apresentações.
+  - Acompanhar e gerenciar alterações no PowerPoint.
+
+
+  ### Módulo 9&#58; Compartilhar e proteger uma apresentação
+  Este módulo explica como compartilhar e proteger uma apresentação no Microsoft PowerPoint.
+  #### Aulas
+  - Compartilhar uma apresentação com um público remoto
+  - Incorporar as fontes em uma apresentação
+  - Inspecionar a apresentação
+  - Usar comentários
+  - Fazer um pacote de uma apresentação para CD
+  - Usar o PowerPoint Viewer
+  - Criptografar uma apresentação
+  - Adicionar uma assinatura digital
+  - Marcar uma apresentação como final
+  - Compactar imagens
+  - Enviar uma apresentação em formato PDF
+
+
+  #### Laboratório &#58; Exercícios de compartilhamento e proteção
+  - Compartilhar uma apresentação
+  - Proteger uma apresentação
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compartilhar sua apresentação com um público remoto.
+  - Incorporar fontes em uma apresentação.
+  - Inspecionar a apresentação.
+  - Fazer um pacote de sua apresentação para um CD.
+  - Usar o PowerPoint Viewer.
+  - Salvar sua apresentação para visualização na web.
+  - Criptografar sua apresentação.
+  - Adicionar uma assinatura digital à sua apresentação.
+  - Conceder permissões.
+  - Compactar as imagens em seu arquivo.
+  - Enviar sua apresentação em formato PDF.
+
+  #### Leitura Adicional
+  - N/A

@@ -1,0 +1,166 @@
+### YamlMime:Course
+title: Advanced Microsoft Access 2019
+metadata:
+  title: 'Course 55280-A: Advanced Microsoft Access 2019'
+  description: 'Course 55280-A: Advanced Microsoft Access 2019'
+uid: course.55280
+courseNumber: '55280-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Entender relacionamentos de banco de dados.
+- skill: Trabalhar com relacionamentos de Tabela.
+- skill: Trabalhar com consultas em um nível avançado.
+- skill: Trabalhar com formulários em um nível avançado.
+- skill: Trabalhar com relatórios em um nível avançado.
+- skill: Trabalhar com macros.
+- skill: Preencher o aplicativo de desktop com o formulário de navegação.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  Esta aula de treinamento do Advanced Access 2019 é para alunos que pretendem projetar bancos de dados em um nível avançado e/ou querem melhorar os bancos de dados existentes do Access 2019 ou Access 365.
+
+  #### Perfil de público
+  Este curso é destinado a alunos com habilidades básicas com o Microsoft Access 2019 que desejam aprender habilidades de nível avançado ou alunos que desejam aprender os tópicos abordados neste curso na interface de 2019.
+prerequisitesSection: |-
+  - Conhecimento de nível introdutório e habilidades para trabalhar com o Microsoft Access.
+outlineSection: |-
+  ### Módulo 1&#58; Relacionamentos
+  Este módulo explica como trabalhar com relacionamentos no Microsoft Access.
+  #### Aulas
+  - Análise
+  - Integridade referencial
+  - Relacionamentos
+  - Algumas palavras sobre convenções de nomenclatura
+
+
+  #### Laboratório &#58; Instalar e configurar o Windows 7
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compreender integridade referencial.
+  - Estabeleça relações entre tabelas.
+
+
+  ### Módulo 2&#58; Consultas
+  Este módulo explica como trabalhar com consultas no Microsoft Access.
+  #### Aulas
+  - Visualização de Design de Consulta
+  - Revisão das consultas selecionadas
+  - Revisão de consultas selecionadas com critérios
+  - Operadores lógicos
+  - Consultas de parâmetros
+  - Consultas de ação
+
+
+  #### Laboratório &#58; Exercícios de consultas
+  - Criação de consultas de seleção e ação
+  - Criação de uma consulta de parâmetro
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Trabalhar com consultas de seleção e ação.
+  - Trabalhar com operadores lógicos.
+  - Criar e executar consultas de seleção, parâmetro, criação de tabela, acréscimo, atualização e exclusão.
+
+
+  ### Módulo 3&#58; Funções de Tabela
+  Este módulo explica como trabalhar com funções de tabela.
+  #### Aulas
+  - Importar Dados
+  - Vincular tabelas de fontes externas
+  - Importar tabelas de outros bancos de dados
+  - Tabelas de modelos e partes de aplicativos
+
+
+  #### Laboratório &#58; Exercícios de funções de tabela
+  - Importação de dados do Excel
+  - Exportar dados para Excel
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Importar dados do Excel.
+  - Exportar dados para Excel.
+
+
+  ### Módulo 4&#58; Formulários
+  Este módulo explica como trabalhar com formulários no Microsoft Access.
+  #### Aulas
+  - Visualização de design
+  - Formatação
+  - Ordem de Tabulação
+  - Criar formulários com partes do aplicativo
+  - Criar um subformulário
+  - Alterar um formulário
+
+
+  #### Laboratório &#58; Criar formulários
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Compreender as partes de um formulário.
+  - Adicionar objetos a um formulário.
+  - Adicionar, mover, formatar e ordenar campos em um formulário.
+  - Compreender os controles disponíveis para formulários.
+  Trabalhar com propriedades de formulário, propriedades de seção
+
+  ### Módulo 5&#58; Relatórios
+  Este módulo explica como trabalhar com relatórios no Microsoft Access.
+  #### Aulas
+  - Visualização de design
+  - Seções do relatório
+  - Organização de campos em um relatório
+  - Redimensionar a seção de detalhes
+  - Agrupamento e classificação
+  - Definição de propriedades em um relatório
+  - Campos de relatórios especiais
+  - Controles
+  - Sub-relatórios
+  - Peças de Aplicação
+  - Excluir um Relatório
+  - Formatar um Relatório
+
+
+  #### Laboratório &#58; Criação de relatórios
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Criar e formatar relatórios de Access.
+  - Trabalhar com as várias seções de um relatório.
+  - Agrupar, classificar e adicionar totais para registros em um relatório.
+  - Trabalhar com o Expression Builder.
+  - Trabalhar com folhas de propriedades.
+
+
+  ### Módulo 6&#58; Macros
+  Este módulo explica como trabalhar com macros no Microsoft Access.
+  #### Aulas
+  - Noções básicas de macro
+  - Executar uma macro
+
+
+  #### Laboratório &#58; Criação de macros simples
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Criar várias macros simples.
+  - Executar macros.
+
+
+  ### Módulo 7&#58; Completar o aplicativo de desktop
+  Este módulo explica como concluir o aplicativo de desktop no Microsoft Access.
+  #### Aulas
+  - O formulário de navegação
+  - Execução de macros a partir de um formulário de navegação
+  - Definir o formulário de navegação como o formulário padrão
+  - Dividir o banco de dados
+  - Distribuir o banco de dados front-end
+  - Manutenção de banco de dados
+
+
+  #### Laboratório &#58; Criação de um formulário de navegação
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Criar formulários de navegação.
+  - Dividir um banco de dados Access em bancos de dados front-end e back-end.
+  - Distribuir um front-end de banco de dados Access para seus usuários.
+
+  #### Leitura Adicional
+  Para ajudá-lo a se preparar para esta aula, analise os seguintes recursos&#58;
+  - N/A

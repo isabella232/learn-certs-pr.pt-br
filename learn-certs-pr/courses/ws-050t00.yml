@@ -1,0 +1,81 @@
+### YamlMime:Course
+title: Migrating Application Workloads to Azure
+metadata:
+  title: 'Course WS-050T00-A: Migrating Application Workloads to Azure'
+  description: 'Course WS-050T00-A: Migrating Application Workloads to Azure'
+uid: course.ws-050t00
+courseNumber: 'WS-050T00-A'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Identificar os instrumentos e serviços específicos de cada fase da migração
+- skill: Descobrir e avaliar as cargas de trabalho no local para a migração para Azure
+- skill: Obter um perfil mais profundo de um ambiente usando mapeamento de dependências do aplicativo e personalizações de avaliação
+- skill: Efectuar uma migração de ponta a ponta de cargas de trabalho no local para Azure usando Azure Migration
+- skill: Replicar dados de um centro de dados no local para Azure ou para um local secundário
+- skill: Migrar dados de fontes de dados existentes para plataformas Azure de dados que utilizam o Database Migration Service
+- skill: Proteger e gerir as cargas de trabalho migradas usando Azure Security Center, Azure Backup, e Log Analytics
+- skill: Assegurar uma estratégia eficaz de continuidade de negócio que inclua uma elevada disponibilidade, a recuperação de desastres
+- skill: Recuar e proteger máquinas virtuais Azure IaaS a partir de qualquer local usando o Azure Backup Service
+- skill: Definir um plano de recuperação para garantir que as máquinas virtuais falham corretamente antes de executar uma falha completa
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Este workshop ensina Profissionais de IT como migrar cargas de trabalho e ativos existentes no local para o cloud, especificamente para a plataforma Microsoft Azure. Os estudantes aprendem a avaliar e avaliar um ambiente existente nas instalações, em preparação para uma migração cloud. Os alunos também aprendem a monitorar e otimizar os suas cargas de trabalho baseadas no Azure para maximizar o retorno do investimento (ROI), e utilização de serviços Azure para proteger e gerenciar suas máquinas, aplicativos e dados virtuais.
+
+  ### Perfil do público
+  Este seminário é para Administradores e pessoal de ITque necessitam de planear, implementar e gerir migrações de recursos no local para Azure, ou para replicar máquinas virtuais Azure para outros locais Azure. Eles aceitam pedidos de empresas de proprietários de carga de trabalho para migrar cargas de trabalho para o cloud a fim de tirar partido dos benefícios que uma estratégia baseada no cloud oferece uma abordagem tradicional do datacenter. Este papel requer comunicação e coordenação com diferentes indivíduos dentro do departamento e grupos de negócios de IT de uma organização, bem como fornecedores.
+prerequisitesSection: |-
+  - Administadores de IT iniciam este papel com experiência em sistemas operacionais, virtualização, infra-estruturas cloud, estruturas de armazenamento e redes. Além disso, os administradores de IT devem ter experiência ou conhecimentos equivalentes na administração de infraestrutura IaaS Azure.
+  - Compreensão das tecnologias de virtualização no local, incluindo&#58; VMs, redes virtuais e discos rígidos virtuais.
+  - Compreensão da configuração da rede, incluindo&#58; TCP / IP, Domain Name System( DNS), virtual private networks (VPNs), firewalls, e tecnologias de encriptação.
+  - Compreensão de Active Directory conceitos, incluindo domínios, florestas, controladores de domínio, replicação, Kerberos protocolo, e Lightweight Directory Access Protocol (LDAP).
+  - Compreensão da resiliência e recuperação de desastres, incluindo operações de backup e restauração.
+  - Familiarização com o uso de Azure, incluindo Azure Portal, Cloud Shell, Azure PowerShell, CLI e o modelo ARM.
+  - Compreensão de Azure Active Directory e gestão de identidade no cloud.
+  - Compreensão da Gestão de assinaturas, usuários, grupos e facturação, e políticas Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Planeamento e Avaliação de uma Azure Migration
+  Neste módulo, você vai aprender sobre os principais condutores de negócios e técnicos que levam a uma migração em cloud , as fases de uma migração Azure e Ferramentas e serviços utilizados para cada fase. Irá aprender a descobrir e avaliar os seus ambientes no local em preparação para migrar as cargas de trabalho adequadas para Azure.
+  #### Aulas
+  - Migração do cloud - Motivações empresariais, objectivos e resultados
+  - Descoberta e avaliação
+
+
+  #### Laboratório &#58; Descobrir e Avaliar Recursos Locais para as Migrações
+
+  ### Módulo 2&#58; Introdução à migração de dados
+  Neste módulo, você vai aprender sobre as soluções que você pode usar quando você precisa enviar terabytes de dados para Azure. Você vai aprender sobre a família de produtos Azure Data Box com opções de transferência online e offline. Em seguida, você aprenderá sobre a migração de um SQL Server 2008R2 local de base de dados para Azure SQL Database Managed Instance (MI), usando o Azure Database Migration Service (DMS).
+  #### Aulas
+  - Azure Data Box
+  - Migração De Bases De Dados
+
+
+  #### Laboratório &#58; Migrar Das Instalações SQL Server Database para Azure SQL Managed Instance
+
+  ### Módulo 3&#58; Implementar a migração usando Serviços Azure Migration 
+  Neste módulo, você aprenderá a preparar a infra-estrutura e componentes Azure antes da migração planeada. Você também vai aprender como executar e acabar com a migração usando Azure Migrate Services.
+  #### Aulas
+  - Panorâmica geral Azure Migrate Server Migration
+  - Migração VMware - Agentless
+  - Migração VMware - Agent-based
+  - Garantir Cargas De Trabalho Migradas
+  - Migração do Centro de Dados usando Microsoft Migration Factory
+
+
+  #### Laboratório &#58; Replicar máquinas virtuais para Azure
+
+  ### Módulo 4&#58; Backup e recuperação de desastres em Azure
+  Neste módulo, você vai aprender sobre os principais componentes de uma estratégia de continuidade de negócio e o que é necessário para uma solução altamente disponível. Você também aprenderá como fazer o back up da máquina virtual Azure IaaS a usar o serviço Azure Backup. Além disso, você vai aprender a replicar Azure VMs a qualquer outra localização Azure com Azure Site Recovery.
+  #### Aulas
+  - Visão Geral Azure Backup
+  - Implementação Azure IaaS Backup
+  - Azure para Azure Site Recovery
+  - Recuperação De Pedidos Em Caso De Catástrofe

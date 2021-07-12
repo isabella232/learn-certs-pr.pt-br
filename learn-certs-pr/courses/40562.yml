@@ -1,0 +1,42 @@
+### YamlMime:Course
+title: Migrating SQL databases to Azure
+metadata:
+  title: 'Course 40562-G: Migrating SQL databases to Azure'
+  description: 'Course 40562-G: Migrating SQL databases to Azure'
+uid: course.40562
+courseNumber: '40562-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Projetar uma solução de migração em cloud para aplicativos e bancos de dados essenciais aos negócios.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Neste workshop, você trabalhará como um grupo para instalar e configurar uma arquitetura sem servidor no Azure usando uma combinação de Azure Functions, Logic Apps, Event Grid, Cosmos DB, e Azure Storage. O foco é remover o gerenciamento de servidor da equação, dividindo a solução em componentes menores que são individualmente escalonáveis e permitindo que o cliente pague apenas pelo que usa.
+
+  #### Perfil de público
+  Este workshop destina-se a Cloud Architects e profissionais de IT com experiência em arquitetura de design de infraestrutura e soluções em tecnologias de cloud e que desejam aprender mais sobre o Azure e os serviços do Azure conforme descrito nas áreas ""Resumo"" e ""Habilidades adquiridas"". Os participantes deste workshop também devem ter experiência em outras tecnologias que não sejam da Microsoft cloud, atender aos pré-requisitos do curso e desejar fazer o treinamento cruzado no Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Sessão de Design no Quadro Branco - Migrando bancos de dados SQL para o Azure
+  #### Aulas
+  - Revisar o estudo de caso do cliente
+  - Projetar uma solução de prova de conceito
+  - Apresentar a solução
+
+
+  ### Módulo 2&#58; Laboratório prático - Migrar bancos de dados SQL  para o Azure
+  #### Aulas
+  - Realizar avaliações de banco de dados
+  - Migrar o banco de dados para SQL MI
+  - Atualizar o aplicativo web para usar o novo banco de dados SQL MI
+  - Integrar o App Service com a rede virtual
+  - Melhorar a postura de segurança do banco de dados com Advanced Data Security
+  - Ativar o Dynamic Data Masking
+  - Uso do secundário online para consultas de leitura apenas

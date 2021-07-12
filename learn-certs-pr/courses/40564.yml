@@ -1,0 +1,41 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Securing the IoT end to end'
+metadata:
+  title: 'Course 40564-G: Microsoft Cloud Workshop: Securing the IoT end to end'
+  description: 'Course 40564-G: Microsoft Cloud Workshop: Securing the IoT end to end'
+uid: course.40564
+courseNumber: '40564-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Arquitetar uma solução IoT de fabricação de petróleo e gás abrangente e segura.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Neste workshop, você verá o processo de projeto e implementação de uma solução de IoT de fabricação de petróleo e gás que é protegida de ponta a ponta de acordo com as práticas recomendadas. Ao final deste workshop, você estará mais apto a arquitetar uma solução IoT de fabricação de petróleo e gás abrangente e segura.
+
+  #### Perfil de público
+  Este workshop destina-se a Cloud Architects e profissionais de IT com experiência em arquitetura de design de infraestrutura e soluções em tecnologias de cloud e que desejam aprender mais sobre o Azure e os serviços do Azure conforme descrito nas áreas ""Resumo"" e ""Habilidades adquiridas"". Os participantes deste workshop também devem ter experiência em outras tecnologias que não sejam da Microsoft cloud, atender aos pré-requisitos do curso e desejar fazer o treinamento cruzado no Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Sessão de Design no Quadro Branco - Proteger a IoT de ponta a ponta
+  #### Aulas
+  - Revisar o estudo de caso do cliente
+  - Projetar uma solução de prova de conceito
+  - Apresentar a solução
+
+
+  ### Módulo 2&#58; Laboratório prático - Proteger a IoT de ponta a ponta
+  #### Aulas
+  - Proteger e configurar o IoT Hub e o Device Provisioning Service
+  - Registar e provisionar dispositivos IoT
+  - Instalar e configurar o IoT Edge
+  - Instalar o Azure Security IoT Agent
+  - Simular ataques IoT
+  - Configurar segurança e alertas

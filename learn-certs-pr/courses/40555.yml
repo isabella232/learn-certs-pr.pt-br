@@ -1,0 +1,148 @@
+### YamlMime:Course
+title: 'Microsoft Security Workshop: Implementing PowerShell Security Best Practices'
+metadata:
+  title: 'Course 40555-A: Microsoft Security Workshop: Implementing PowerShell Security Best Practices'
+  description: 'Course 40555-A: Microsoft Security Workshop: Implementing PowerShell Security Best Practices'
+uid: course.40555
+courseNumber: '40555-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Fornecer uma visão geral do Windows PowerShell
+- skill: Descrever edições e versões do PowerShell
+- skill: Instalar e usar o Windows PowerShell e PowerShell Core
+- skill: Gerenciar a execução de scripts locais do PowerShell
+- skill: Gerenciar a execução remota do Windows PowerShell
+- skill: Gerenciar a execução remota do PowerShell Core
+- skill: Descrever as implicações de segurança do uso do Constrained Language Mode
+- skill: Descrever a arquitetura e os componentes do Windows PowerShell DSC
+- skill: Recomendar configuração de auditoria e registro do Windows PowerShell
+- skill: Fornecer exemplos de ataques baseados no Windows PowerShell
+- skill: Uso de ferramentas de segurança baseadas no Windows PowerShell
+- skill: Fornecer uma visão geral das tecnologias relacionadas à segurança baseadas no Windows PowerShell
+- skill: Implementar o registro do Windows PowerShell usando a Desired State Configuration (DSC)
+- skill: Identificar e mitigar exploits baseados no Windows PowerShell
+- skill: Implementar Just Enough Administration (JEA)
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+summary: |-
+  Introduzido em 2006, o Windows PowerShell é uma linguagem de script, um shell de linha de comando e uma plataforma de script criada no Microsoft.NET Framework. Apesar da designação de script, o Windows PowerShell apresenta uma gama de características comuns para linguagens de programação, incluindo sua natureza orientada a objetos, extensibilidade, sintaxe semelhante a C# e a capacidade de interagir diretamente com classes.NET, suas propriedades e métodos.
+
+  O objetivo principal do Windows PowerShell era ajudar os profissionais de IT e usuários avançados a controlar e automatizar a administração do sistema operacional Windows e dos aplicativos executados no Windows.
+
+  Para aproveitar os benefícios que o Windows PowerShell tem para oferecer e, ao mesmo tempo, minimizar os riscos relacionados à segurança, é essencial compreender os principais aspectos da segurança operacional do Windows PowerShell. Outro aspecto crítico a ser considerado no contexto deste curso é a função do Windows PowerShell nas explorações de segurança.
+
+  Este workshop de segurança conduzido por um instrutor oferece discussão e treinamento prático para o PowerShell. Você aprenderá sobre os fundamentos do PowerShell, incluindo seu projeto de arquitetura, suas edições e versões e noções básicas de interação com o PowerShell. 
+
+  Em seguida, você explorará as técnicas mais comuns baseadas no Windows PowerShell empregadas por hackers para aproveitar o acesso existente a um sistema operacional Windows para facilitar a instalação de software malicioso, realizar tarefas de reconhecimento, estabelecer sua persistência no computador de destino e promover o movimento lateral. Você também analisará alguns dos componentes de Ferramentas de segurança baseadas em PowerShell da  Windows que facilitam o teste de penetração, perícia e engenharia reversa de exploits do Windows PowerShell. Para concluir o curso, você fornecerá um resumo das tecnologias recomendadas pela Blue Team que são voltadas para a implementação de segurança abrangente de defesa em profundidade contra ataques baseados no Windows PowerShell. 
+
+  Este workshop é parte de uma série maior de Workshops oferecidos pela Microsoft sobre a prática de Segurança. Embora não seja necessário que você tenha concluído nenhum dos outros cursos da série Security Workshop antes de fazer este workshop, é altamente recomendável que você comece com o primeiro curso da série, Microsoft Security Workshop&#58; Enterprise Security Fundamentals.
+  - 40551A&#58; Microsoft Security Workshop&#58; Enterprise Security Fundamentals
+  - 40552A&#58; Microsoft Security Workshop&#58; Managing Identity
+  - 40553A&#58; Microsoft Security Workshop&#58; Planning for a Secure Enterprise - Improving Detection
+  - 40554A&#58; Microsoft Security Workshop&#58; Implementing Windows 10 Security Features
+  - 40555A&#58; Microsoft Security Workshop&#58; Implementing PowerShell Security Best Practices. 
+
+  #### Perfil de público
+  Este curso é direcionado a profissionais de IT que precisam de uma compreensão mais profunda dos recursos e explorações relacionados à segurança do  Windows PowerShell e para aumentar seu nível de conhecimento por meio de uma experiência predominantemente prática na implementação dos recursos de segurança do Windows PowerShell.
+
+prerequisitesSection: |-
+  Além da experiência profissional, os alunos que fazem este treinamento já devem possuir os seguintes conhecimentos técnicos&#58;
+  - Uma boa base para acessar e usar comandos simples do Windows PowerShell
+  - O atual ecossistema de segurança cibernética
+  - Experiência com administração, manutenção e solução de problemas de Windows Client e Server.
+  - Experiência e compreensão básicas das tecnologias de rede do Windows, incluindo configuração de rede do Windows Firewall , DNS, DHCP, WiFi e conceitos de serviços em cloud.
+  - Experiência e compreensão básicas do Active Directory, incluindo funções de um controlador de domínio, serviços de logon e compreensão da política de grupo.
+  - Conhecimento e experiência relevante em administração de sistemas, utilizando Windows 10.
+
+  Os alunos que fazem este treinamento podem atender aos pré-requisitos, obtendo conhecimentos e habilidades equivalentes por meio de experiência prática como administrador de segurança, administrador de sistema ou administrador de rede. Os alunos devem ter uma boa base para acessar e usar comandos simples do Windows PowerShell. Esse conhecimento pode ser obtido em INF210x, Windows PowerShell Basics.
+outlineSection: |-
+  ### Módulo 1&#58; Fundamentos do PowerShell
+  Introduzido em 2006, o Windows PowerShell é uma linguagem de script, um shell de linha de comando e uma plataforma de script criada no Microsoft.NET Framework. Apesar da designação de script, o Windows PowerShell apresenta uma gama de características comuns para linguagens de programação, incluindo sua natureza orientada a objetos, extensibilidade, sintaxe semelhante a C# e a capacidade de interagir diretamente com classes .NET, suas propriedades e métodos. O objetivo principal do Windows PowerShell era ajudar os profissionais de IT e usuários avançados a controlar e automatizar a administração do sistema operacional Windows  e dos aplicativos executados no Windows. Com a introdução do .NET Core em 2016, a Microsoft estendeu o escopo do PowerShell para outras plataformas de sistema operacional, levando a um projeto de código aberto hospedado no GitHub, denominado PowerShell Core. Você pode usar o PowerShell Core no macOS 10.12, uma variedade de 6 distribuições 4-bit Linux, além do sistema operacional 32-bit e 64-bit Windows, incluindo o Windows 10 em execução em dispositivos Advanced Reduced Instruction Set Computing Machine (ARM).
+
+  Neste módulo, você aprenderá sobre os fundamentos do PowerShell, incluindo seu projeto de arquitetura, suas edições e versões e noções básicas de interação com o PowerShell.
+  #### Lições
+  - Visão geral do Windows PowerShell
+  - Edições e versões do PowerShell
+  - Executar PowerShell
+
+  Depois de concluir este módulo, você será capaz de&#58;
+  - Fornecer uma visão geral do Windows PowerShell
+  - Descrever as edições e versões do PowerShell
+  - Instalar e usar o Windows PowerShell e PowerShell Core
+
+
+  ### Módulo 2&#58; PowerShell Operational Security
+  Para aproveitar os benefícios que o Windows PowerShell tem a oferecer e, ao mesmo tempo, minimizar os riscos relacionados à segurança, é essencial compreender os principais aspectos da segurança operacional do Windows PowerShell. Neste módulo, você aprenderá a aprimorar a segurança do sistema operacional, aproveitando os recursos e tecnologias integrados do Windows PowerShell que fazem parte do ambiente operacional do Windows PowerShell. Outro aspecto crítico a ser considerado no contexto deste módulo é a função do Windows PowerShell nas explorações de segurança. De acordo com dados empíricos, na maioria dos casos, o Windows PowerShell é usado como uma ferramenta de pós-exploração. Isso implica que, no ponto em que uma sessão do Windows PowerShell é iniciada, um invasor já obteve acesso ao contexto de segurança no qual o sistema de destino ou o usuário de destino opera. Este é o tipo de cenário em que este módulo se concentrará. Nesse caso, o Windows PowerShell atua como um mecanismo poderoso e extremamente flexível para a execução de tarefas arbitrárias nos computadores locais e remotos, o que, aliás, é o mesmo motivo que tornou o Windows PowerShell extremamente popular entre os administradores de sistema.
+
+  Obviamente, existem outros tipos de ataques que dependem do Windows PowerShell para obter acesso não autorizado a um sistema destinado. Nesse tipo de cenário, o Windows PowerShell serve como uma ferramenta de exploração. Exploraremos esses tipos de ataques no último módulo deste curso.
+  #### Aulas
+  - Gerenciar a Local Script Execution
+  - Gerenciar recursos de execução remota do Windows PowerShell
+  - Gerenciar recursos de execução remota do PowerShell Core
+  -  Language Mode
+
+  Depois de concluir este módulo, você será capaz de&#58;
+  - Gerenciar a execução de scripts locais do PowerShell
+  - Gerenciar a execução remota do Windows PowerShell
+  - Gerenciar a execução remota do PowerShell Core
+  - Descrever as implicações de segurança do uso do Constrained Language Mode
+
+
+  ### Módulo 3&#58; Implementar Segurança Baseada em PowerShell
+  No módulo anterior, você aprendeu sobre vários recursos relacionados à segurança integrados ao Windows PowerShell e tecnologias que fazem parte do ambiente operacional do Windows PowerShell que o ajudam com sua aplicação. O objetivo deste módulo é apresentar os métodos mais comuns e eficazes de aproveitar o Windows PowerShell para aprimorar a segurança do sistema operacional. Esses métodos incluem&#58; > Proteger contra alterações de configuração não intencionais, contando com PowerShell Desired State Configuration (DSC) > Implementar o princípio de menor privilégio em cenários de administração remota usando Just Enough Administration (JEA) > Eventos de rastreamento e auditoria que podem indicar tentativas de exploração usando o log do Windows PowerShell
+
+  #### Aulas
+  - Windows PowerShell DSC
+  - Just Enough Administration (JEA)
+  - Auditoria e Log de Windows PowerShell
+
+  Após completar este módulo, você será capaz de&#58;
+  - Descrever a arquitetura e os componentes do Windows PowerShell DSC
+  - Implementar a JEA
+  - Recomendar a configuração de auditoria e registro do Windows PowerShell
+
+
+  ### Módulo 4&#58; Explorações com base em Windows PowerShell  e sua Mitigação
+  As organizações não podem identificar de forma abrangente as lacunas na detecção e resposta de segurança concentrando-se apenas nas estratégias de prevenção de violações. Entender como não apenas proteger, mas também detectar e responder a violações é tão importante ""se não mais"" do que tomar medidas para evitar que uma violação ocorra em primeiro lugar. Ao planejar os piores cenários através do Red Teaming (ataque e penetração no mundo real), as organizações podem desenvolver as capacidades necessárias para detectar tentativas de exploração e melhorar significativamente as respostas associadas às brechas de segurança.
+
+  O Red Teaming tornou-se uma das partes mais essenciais do desenvolvimento e segurança das plataformas e serviços da Microsoft. A Red Team assume o papel de adversários sofisticados e permite que a Microsoft valide e melhore a segurança, fortaleça as defesas e impulsione uma maior eficácia de todo o programa de segurança. Red Teams permitem que a Microsoft teste a detecção e resposta a violações, assim como medir com precisão a prontidão e os impactos de ataques no mundo real.
+
+  O objetivo da Blue Team é buscar defesas criativas e confiáveis para detectar e filmar os ataques orquestrados pela Red Team. A Blue Team é composta por um conjunto dedicado de agentes de segurança ou membros de toda a resposta a incidentes de segurança,
+
+  Organizações de Engenharia e Operações. Independentemente de sua composição, elas são independentes e operam separadamente da Red Team. A Blue Team segue processos de segurança estabelecidos e utiliza as mais recentes ferramentas e tecnologias para detectar e responder a ataques e penetrações.
+
+  Neste módulo, abordaremos primeiro a segurança baseada no Windows PowerShell a partir da perspectiva da Red Team. Exploraremos as técnicas mais comuns baseadas no Windows PowerShell empregadas pelos hackers a fim de aproveitar o acesso existente a um sistema operacional Windows para facilitar a instalação de software malicioso, realizar tarefas de reconhecimento, estabelecer sua persistência no computador alvo e promover o movimento lateral. Também revisaremos algumas das ferramentas de segurança baseadas no Windows PowerShell que facilitam os testes de penetração, a perícia e a engenharia reversa das explorações do Windows PowerShell. Para concluir o módulo e o curso, forneceremos um resumo das tecnologias recomendadas pela Blue Team que estão voltadas para a implementação de segurança abrangente e profunda de defesa contra ataques baseados no Windows PowerShell.
+
+  Há muitas explorações documentadas que utilizam as capacidades do Windows PowerShell para realizar ataques que visam falhas de segurança presentes em sistemas não atualizados ou desatualizados ou para expandir lateralmente o escopo de tais ataques uma vez que um único sistema seja comprometido. Note que a visão geral de tais exploits apresentada neste módulo não pretende ser exaustiva. Nossa intenção é ilustrar padrões comuns que tais exploits seguem e destacar a importância de uma estratégia de defesa abrangente e profunda.
+  #### Aulas
+  - Ataques baseados no Windows PowerShell
+  - Ferramentas de segurança baseadas no Windows PowerShell
+  - Resumo das tecnologias relacionadas à segurança do Windows PowerShell
+
+
+  #### Laboratório &#58; Implementando o Windows PowerShell Security
+  - Implementar o Windows PowerShell Logging usando DSC
+  - Realizar uma exploração baseada no Windows PowerShell
+  - Implementar a Just Enough Administration
+
+  Após completar este módulo, você será capaz de&#58;
+  - Fornecer exemplos de ataques baseados no Windows PowerShell
+  - Usar ferramentas de segurança baseadas no Windows PowerShell
+  - Fornecer uma visão geral das tecnologias Windows PowerShell relacionadas com a segurança
+  - Implementar o registro do Windows PowerShell usando a Desired State Configuration (DSC)
+  - Identificar e mitigar as explorações baseadas no Windows PowerShell
+  - Implementar o Just Enough Administration (JEA)
+
+  #### Leitura adicional
+  Este workshop é parte de uma série maior de Workshops oferecidos pela Microsoft sobre a prática da Segurança. Embora não seja necessário que você tenha concluído nenhum dos outros cursos da série Security Workshop antes de participar deste workshop, é altamente recomendável que você comece com o primeiro curso da série, Microsoft Security Workshop&#58; Enterprise Security Fundamentals.
+  - 40551A&#58; Microsoft Security Workshop&#58; Enterprise Security Fundamentals
+  - 40552A&#58; Microsoft Security Workshop&#58; Managing Identity
+  - 40553A&#58; Microsoft Security Workshop&#58; Planning for a Secure Enterprise - Improving Detection
+  - 40554A&#58; Microsoft Security Workshop&#58; Implementing Windows 10 Security Features
+  - 40555A&#58; Microsoft Security Workshop&#58; Implementing PowerShell Security Best Practices.

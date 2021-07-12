@@ -1,0 +1,194 @@
+### YamlMime:Course
+title: Advanced Microsoft Excel 2019
+metadata:
+  title: 'Course 55270-A: Advanced Microsoft Excel 2019'
+  description: 'Course 55270-A: Advanced Microsoft Excel 2019'
+uid: course.55270
+courseNumber: '55270-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Criar tabelas dinâmicas e gráficos.
+- skill: Aprender a rastrear precedentes e dependentes.
+- skill: Converter texto e validar e consolidar dados.
+- skill: Colaborar com outras pessoas protegendo planilhas e pastas de trabalho.
+- skill: Criar, usar, editar e gerenciar macros.
+- skill: Importar e exportar dados.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- office
+summary: |-
+  Este curso de treinamento avançado do Microsoft Excel 2019 foi projetado para que os alunos adquiram as habilidades necessárias para usar tabelas dinâmicas, auditar e analisar dados de planilhas, utilizar ferramentas de dados, colaborar com outras pessoas e criar e gerenciar macros.
+
+  #### Perfil de público
+  Alunos com habilidades intermediárias com o Microsoft Excel 2019 que desejam aprender habilidades mais avançadas ou alunos que desejam aprender os tópicos abordados neste curso na interface de 2019.
+prerequisitesSection: |-
+  Antes de participar deste curso, os alunos devem ter&#58;
+  - Experiência em Excel Básico e Intermediário.
+outlineSection: |-
+  ### Módulo 1&#58; Usar tabelas dinâmicas
+  Este módulo explica como usar tabelas dinâmicas no Microsoft Excel.
+  #### Aulas
+  - Criação de tabelas dinâmicas
+  - Mais funcionalidade de tabela dinâmica
+  - Inserção de Cortadores
+  - Opção de seleção múltipla em Cortadores
+  - Melhorias na tabela dinâmica
+  - Trabalho com tabelas dinâmicas
+  - Inserção de gráficos dinâmicos
+  - Mais Funcionalidade de Tabela Dinâmica
+  - Trabalhar com tabelas dinâmicas
+
+
+  #### Laboratório &#58; Trabalho com tabelas dinâmicas
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Usar tabelas dinâmicas para analisar dados.
+  - Editar tabelas dinâmicas.
+  - Formatar tabelas dinâmicas.
+  - Inserir gráficos dinâmicos.
+  - Usar Cortadores.
+
+
+  ### Módulo 2&#58; Planilhas de auditoria
+  Este módulo explica como auditar planilhas.
+  #### Aulas
+  - Rastrear precedentes
+  - Rastrear Dependentes
+  - Mostrar Fórmulas
+
+
+  #### Laboratório &#58; Exercícios de auditoria de planilhas
+  - Rastrear precedentes
+  - Rastrear Dependentes
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Realizar a auditoria de fórmulas.
+  - Rastreiar precedentes para determinar quais células impactam uma célula específica.
+  - Rastrear dependentes para determinar quais células são afetadas por uma célula específica.
+  - Remover as setas precedentes e dependentes.
+  - Mostrar fórmulas.
+  - Verificar se há erros frequentemente encontrados nas fórmulas
+
+
+  ### Módulo 3&#58; Ferramentas de Dados
+  Este módulo explica como trabalhar com ferramentas de dados.
+  #### Aulas
+  - Conversão de texto em colunas
+  - Vincular a dados externos
+  - Opções de cálculo de controle
+  - Data de validade
+  - Uso de validação de dados
+  - Consolidar Dados
+  - Busca de meta
+  - Uso da busca de metas
+
+
+  #### Laboratório &#58; Exercícios de ferramentas de dados
+  - Conversão de texto em colunas
+  - Uso de validação de dados
+  - Consolidar Dados
+  - Uso da busca de metas
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Converter texto em colunas.
+  - Usar a validação de dados para restringir o tipo de dados que podem ser inseridos em uma célula.
+  - Consolidar dados de vários intervalos diferentes em um novo intervalo.
+  - Usar a busca de metas para descobrir o valor a ser inserido para obter um resultado específico
+
+
+  ### Módulo 4&#58; Trabalho com Outros
+  Este módulo explica como trabalhar com outras pessoas no Microsoft Excel.
+  #### Aulas
+  - Proteger planilhas e apostilas
+  - Proteger uma pasta de trabalho com senha
+  - Proteger uma planilha com senha
+  - Intervalos de proteção com senha em uma planilha
+  - Marcar uma pasta de trabalho como final
+
+
+  #### Laboratório &#58; Exercícios para trabalhar com outras pessoas
+  - Proteger uma pasta de trabalho com senha
+  - Proteger uma planilha com senha
+  - Intervalos de proteção com senha em uma planilha
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Proteger uma pasta de trabalho com senha.
+  - Proteger uma planilha com senha.
+  - Proteger intervalos com senha em uma planilha.
+  - Ratrear alterações.
+  - Aceitar e rejeitar as alterações.
+  - Listar todas as alterações em uma nova planilha
+
+
+  ### Módulo 5&#58; Gravar e usar macros
+  Este módulo explica como gravar e usar macros.
+  #### Aulas
+  - Gravar macros
+  - Gravar um macro
+  - Correr macros
+  - Editar macros
+  - Adicionar macros à barra de ferramentas de acesso rápido
+  - Adicionar uma macro à barra de ferramentas de acesso rápido
+
+
+  #### Laboratório &#58; Exercícios de gravação e uso de macros
+  - Gravando uma macro
+  - Adicionando uma macro à barra de ferramentas de acesso rápido
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Gravar macros.
+  - Executar macros.
+  - Editar macros (tipo de).
+  - Adicionar macros à Barra de Ferramentas de Acesso Rápido
+
+
+  ### Módulo 6&#58; Itens úteis aleatórios
+  Este módulo explica como usar minigráficos e outros recursos aleatórios úteis.
+  #### Aulas
+  - Minigráficos
+  - Inserção e personalização de minigráficos
+  - Uso do Microsoft Translator
+  - Preparação de uma apostila para internacionalização e acessibilidade
+  - Importando e exportando arquivos
+  - Importando arquivos de texto
+  - Cópia de dados do Excel para o Word
+  - Cópia de gráficos do Excel para o Word
+
+
+  #### Laboratório &#58; Exercícios de itens úteis aleatórios
+  - Inserção e personalização de minigráficos
+  - Importar arquivos de texto
+  - Fazer cópia de dados do Excel para o Word
+  - Cópia de gráficos do Excel para o Word
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Inserir minigráficos em planilhas.
+  - Personalizar minigráficos por&#58;
+  - Alterar o tipo de minigráfico.
+  - Destacar os pontos-chave.
+  - Mudar as cores.
+  - Mudar o eixo.
+  - Preparar uma pasta de trabalho para internacionalização, acessibilidade e compatibilidade.
+  - Importar arquivos de texto para o Microsoft Excel.
+  - Copiar células de uma planilha para o Microsoft Word.
+  Copiar e colar um gráfico no Microsoft Word.
+
+  ### Módulo 7&#58; Cloud
+  Este módulo explica como salvar, compartilhar e colaborar com outras pessoas usando a cloud.
+  #### Aulas
+  - Uso do cloud.
+
+
+  #### Laboratório &#58; Uso do cloud
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Usar o Excel no cloud.
+
+  #### Leitura Adicional
+  Para ajudá-lo a se preparar para esta aula, analise os seguintes recursos&#58;
+  - N/A

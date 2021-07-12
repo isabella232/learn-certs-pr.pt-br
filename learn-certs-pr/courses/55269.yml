@@ -1,0 +1,197 @@
+### YamlMime:Course
+title: Intermediate Microsoft Excel 2019
+metadata:
+  title: 'Course 55269-A: Intermediate Microsoft Excel 2019'
+  description: 'Course 55269-A: Intermediate Microsoft Excel 2019'
+uid: course.55269
+courseNumber: '55269-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Usar fórmulas e funções.
+- skill: Criar e modificar gráficos.
+- skill: Converter, classificar, filtrar e gerenciar listas.
+- skill: Inserir e modificar ilustrações em uma planilha.
+- skill: Trabalhar com tabelas.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office
+summary: |-
+  Este curso de Intermediate Microsoft Excel 2019 destina-se a alunos que desejam aprimorar suas habilidades aprendendo a trabalhar com fórmulas, listas e ilustrações avançadas. Os alunos também trabalharão com gráficos e formatação avançada, incluindo estilos.
+
+  #### Perfil de público
+  Este curso é destinado a alunos com habilidades básicas com o Microsoft Excel 2019 que desejam aprender habilidades de nível intermediário ou alunos que desejam aprender os tópicos abordados neste curso na interface 2019.
+prerequisitesSection: |-
+  Antes de participar deste curso, os alunos devem ter &#58;
+  - Experiência básica com Excel
+outlineSection: |-
+  ### Módulo 1&#58; Fórmulas Avançadas
+  Este módulo explica como trabalhar com fórmulas avançadas no Microsoft Excel.
+  #### Aulas
+  - Uso de intervalos nomeados em fórmulas
+  - Uso de fórmulas que abrangem várias planilhas
+  - Inserção de uma fórmula usando dados em várias planilhas
+  - Uso da função IF
+  - Uso da função PMT
+  - Uso da função LOOKUP
+  - Uso da função VLOOKUP
+  - Uso da função HLOOKUP
+  - Uso da função CONCAT
+  - Uso da função TRANSPOSE
+  - Uso das funções PROPER, UPPER e LOWER
+  - Uso da função PROPER
+  - Uso das funções LEFT, RIGHT e MID
+  - Uso das funções LEFT e RIGHT
+  - Uso das funções de Date
+  - Uso das funções YEAR, MONTH e DAY
+  - Criação de cenários
+
+
+  #### Laboratório &#58; Exercícios de fórmulas avançadas
+  - Uso de intervalos nomeados em fórmulas
+  - Inserção de uma fórmula usando dados em várias planilhas
+  - Uso da função IF
+  - Uso da função PMT
+  - Uso da função VLOOKUP
+  - Uso da função CONCAT
+  - Uso da função PROPER
+  - Uso das funções LEFT e RIGHT
+  - Uso das funções YEAR, MONTH e DAY
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Nomeiar e rotular células e intervalos de células.
+  - Usar nomes e rótulos nas fórmulas.
+  - Criar fórmulas que abrangem várias planilhas.
+  - Usar a função IF condicional e suas variantes nas fórmulas.
+  - Usar a função PMT para calcular pagamentos de empréstimos.
+  - Usar a função LOOKUP.
+  - Usar a função VLOOKUP.
+  - Usar a função HLOOKUP.
+  - Usar a função CONCAT para juntar o conteúdo de várias células.
+  - Usar a função TRANSPOSE.
+  - Usar as funções PROPER, UPPER e LOWER para alterar a caixa do texto.
+  - Usar as funções LEFT, RIGHT e MID para retornar caracteres do início ou fim de uma string ou um número específico de caracteres de texto.
+  - Usar várias funções de data.
+
+
+  ### Módulo 2&#58; Trabalhar com Listas
+  Este módulo explica como trabalhar com listas.
+  #### Aulas
+  - Converter uma lista em uma tabela
+  - Remover duplicatas de uma lista
+  - Classificação de dados em uma lista
+  - Filtrar dados em uma lista
+  - Adicionar subtotais a uma lista
+
+
+  #### Laboratório &#58; Exercícios de trabalho com listas
+  - Converter uma lista em uma Tabela
+  - Remover duplicatas de uma lista
+  - Classificação de dados em uma lista
+  - Filtrar dados em uma lista
+  - Adicionar subtotais a uma lista
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Converter dados em tabelas.
+  - Remover duplicatas das tabelas.
+  - Classificar os dados no Excel.
+  - Filtrar dados no Excel.
+  - Usar subtotais para totalizar automaticamente os dados relacionados.
+  - Agrupar e desagrupar dados.
+
+
+  ### Módulo 3&#58; Trabalhar com Ilustrações
+  Este módulo explica como trabalhar com Ilustrações no Microsoft Excel.
+  #### Aulas
+  - Trabalhar com Clip Art
+  - Uso de formas
+  - Adicionar formas
+  - Trabalhar com ícones
+  - Trabalhar com SmartArt
+  - Uso de Office Ink
+
+
+  #### Laboratório &#58; Exercícios de trabalho com ilustrações
+  - Trabalhar com Clip Art
+  - Adicionar formas
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Adicionar fotos às suas planilhas.
+  - Usar Clip Art para ilustrar suas planilhas.
+  - Inserir formas em planilhas do Microsoft Excel.
+  Usar SmartArt para ilustrar suas planilhas.
+
+  ### Módulo 4&#58; Visualizar Seus Dados
+  Este módulo explica como trabalhar com vários tipos de gráficos no Microsoft Excel.
+  #### Aulas
+  - Inserção de gráficos
+  - Uso do recurso de recomendação de gráfico
+  - Editar gráficos
+  - Uso de ferramentas de gráfico
+  - Uso de ferramenta de análise rápida
+  - Adicionar e formatar objetos
+  - Criar um modelo de gráfico personalizado
+
+
+  #### Laboratório &#58; Exercícios de visualização de seus dados
+  - Inserir gráficos
+  - Editar gráficos
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Criar gráficos que permitem visualizar seus dados.
+  - Escolher quais dados são exibidos em seus gráficos.
+  - Mostrar e ocultar rótulos de dados.
+  - Mostrar e esconder a legenda.
+  - Mostrar e ocultar o título do gráfico.
+  - Adicionar uma imagem ou forma a um gráfico.
+  - Alterar a maneira como o texto é exibido em um gráfico.
+  - Alterar a cor de preenchimento de um gráfico.
+  - Adicionar e formatar objetos em uma planilha.
+  - Criar um modelo de gráfico personalizado.
+
+
+  ### Módulo 5&#58; Trabalhar com tabelas
+  Este módulo explica como trabalhar com tabelas no Microsoft Excel.
+  #### Aulas
+  - Formatar dados como uma tabela
+  - Mover entre tabelas e intervalos
+  - Modificar tabelas
+  - Definir títulos
+  - Criar e modificar uma tabela no Excel
+
+
+  #### Laboratório &#58; Criação e modificação de uma tabela no Excel
+  - Criação e modificação de uma tabela no Excel
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Formatar os dados no Excel como uma tabela.
+  - Modificar tabelas do Excel
+
+
+  ### Módulo 6&#58; Formatação Avançada
+  Este módulo explica como trabalhar com recursos de formatação avançados no Microsoft Excel.
+  #### Aulas
+  - Aplicação de formatação condicional
+  - Uso de formatação condicional
+  - Trabalhar com Estilos
+  - Criação e modificação de modelos
+
+
+  #### Laboratório &#58; Exercícios de formatação avançada
+  - Uso de formatação condicional
+  - Trabalhar com Estilos
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Usar a formatação condicional para exibir células de maneira diferente com base em seus valores.
+  - Formatar tabelas rapidamente usando estilos.
+  - Formatar células usando estilos
+
+  #### Leitura Adicional
+  Para ajudá-lo a se preparar para esta aula, analise os seguintes recursos&#58;
+  - N/A

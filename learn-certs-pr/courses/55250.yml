@@ -1,0 +1,228 @@
+### YamlMime:Course
+title: Introduction to Microsoft Dynamics 365
+metadata:
+  title: 'Course 55250-A: Introduction to Microsoft Dynamics 365'
+  description: 'Course 55250-A: Introduction to Microsoft Dynamics 365'
+uid: course.55250
+courseNumber: '55250-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Familiarização com os Apps e Hubs no Microsoft Dynamics 365 Customer Engagement incluindo Sales, Service e Marketing
+- skill: Perceber as diferenças entre Dynamics 365 Apps e Power Apps 
+- skill: Ser capaz de criar, atualizar, relacionar, atribuir e excluir registros no Microsoft Dynamics 365
+- skill: Criar Postagens, Notas e Atividades no controle da Linha do Tempo e interagir com o Assistente de Relacionamento
+- skill: Gerenciar, Atribuir e Completar Atividades
+- skill: Entender conexões e usá-las para relacionar os registros
+- skill: Trabalhar com visualizações e criar e salvar uma Visualização Pessoal de registros
+- skill: Entender como trabalhar com pesquisas e registros relacionados
+- skill: Compartilhar registros e visualizações com outros usuários
+- skill: Realizar operações em massa nos registros
+- skill: Configurar opções pessoais para personalizar a experiência do usuário
+- skill: Rastrear e-mails e compromissos no Outlook em relação aos registros do Dynamics 365 
+- skill: Encontrar informações de forma proficiente usando a pesquisa global, a localização rápida e a localização avançada
+- skill: Explorar os Relatórios prontos para uso e criar um Relatório personalizado usando o Assistente de Relatório
+- skill: Criar um gráfico pessoal e painel e definir como sua página inicial
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  Este curso fornece aos alunos uma introdução ao Microsoft Dynamics 365 Customer Engagement, criando uma base para todos os cursos e aprendizados subsequentes. Os principais recursos e aplicativos são apresentados, incluindo Sales, Service e Marketing. Os alunos aprenderão habilidades importantes do usuário final, incluindo como trabalhar com proficiência no Microsoft Dynamics 365 para encontrar informações rápida e facilmente usando as ferramentas prontas para uso, como Localização Avançada, Assistente de Relatório, Gráficos e Painéis por meio do Navegador da Web e Dynamics 365 para Outlook.
+
+  Nenhuma experiência anterior do Microsoft Dynamics 365 é necessária para fazer este curso. O curso se aplica às edições Business e Enterprise do Microsoft Dynamics 365 Version 9, bem como implantações online e no local.
+
+  #### Perfil de público
+  Este curso foi desenvolvido para se aplicar a usuários finais do Microsoft Dynamics 365 Customer Engagement, incluindo&#58;
+  - Representantes de Vendas
+  - Representantes do Serviço ao Consumidor
+  - Pessoal de Marketing
+  - Gerentes de Projeto
+  - Usuários Finais gerais que buscam aprimorar suas habilidades no Dynamics 365. Recomenda-se que os participantes deste curso tenham um conhecimento prático existente do Microsoft Office, Microsoft Excel e Microsoft Outlook. No entanto, este curso não pressupõe nenhum conhecimento prévio do Microsoft Dynamics 365.
+prerequisitesSection: |-
+  Antes de participar deste curso, os alunos devem ter&#58;
+  - Conhecimento prático de Microsoft Office, Microsoft Excel e Microsoft Outlook. No entanto, este curso não pressupõe nenhum conhecimento prévio do Microsoft Dynamics 365.
+outlineSection: |-
+  ### Módulo 1&#58; Introdução
+  Este módulo fornece ao participante uma introdução ao Microsoft Dynamics 365 Customer Engagement.
+  #### Lições
+  - O que é Dynamics 365?
+  - Os benefícios do Dynamics 365
+  - Os Sales Apps e Hubs
+  - Os Customer Service Apps e Hubs
+  - O Marketing App
+  - Dynamics 365 e PowerApps
+  - A interface da Web 
+  - A interface do Outlook 
+  - Listas e Grades
+  - Formulários
+  - Pesquisas e registros relacionados
+  - Onde obter ajuda
+  - Leituras adicionais e recursos
+
+
+  #### Lab&#58; Configurar seu ambiente de laboratório
+  - Instalar dados de amostra
+
+
+  #### Lab&#58; Dynanmics 365 Orientation 
+  - Explorar o Microsoft Dynamics 365
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Descrever os principais recursos e benefícios do Microsoft Dynamics 365 Customer Engagement 
+  - Estar familiarizados com o Sales Hub, o Customer Service Hub e o Marketing App 
+  - Compreender as diferenças entre a Web e aInterfaces da Outlook
+  - Saber onde encontrar ajuda e recursos de leitura adicional
+
+
+  ### Módulo 2&#58; Registros, atividades e opções pessoais
+  Este módulo apresenta os conceitos e recursos básicos do Microsoft Dynamics 365 Customer Engagement . Examinamos a relevância de Registros e Relacionamentos, rastreando Atividades e configurando Opções Pessoais. Você também aprenderá a trabalhar com Postagens, Atividades e Notas no controle da Linha Temporal.
+  #### Aulas
+  - Registros e relacionamentos
+  - Atividades
+  - O controle da linha temporal
+  - O Assistente de Relacionamento
+  - Conexões
+  - Definir suas opções pessoais
+
+
+  #### Lab&#58; Definir opções pessoais
+  - Mudar sua página inicial
+  - Alterar registros por página
+  - Definir configurações de formato
+
+
+  #### Lab&#58; Trabalhar com Atividades
+  - Criar uma atividade de tarefa
+  - Rastrear uma atividade usando o Definir campo referente
+  - Atribuir uma atividade usando o campo do Proprietário
+  - Encontrar e concluir uma atividade
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Trabalhar com registros e atividades
+  - Interagir com Postagens, Notas e Anexos no controle da Linha Temporal
+  - Criar conexões de registro
+  - Configurar opções pessoais
+  - Trabalho com registros de atividades
+  - Saber onde encontrar ajuda e recursos de leitura adicional
+
+
+  ### Módulo 3&#58; Executar Trabalho no Dynamics 365
+  Este módulo apresenta as habilidades comuns de que o usuário final necessita para realizar o trabalho com eficiência no Microsoft Dynamics 365 Customer Engagement . Você aprenderá como trabalhar com registros, criar visualizações pessoais, reatribuir registros a um proprietário diferente e compartilhar registros, visualizações e gráficos com outros usuários. Você também aprenderá a realizar operações em massa, tais como Editar vários.
+  #### Aulas
+  - Trabalhar com dados e registros
+  - Considerações de segurança
+  - Visualizações do sistema e visualizações pessoais
+  - Criação de um registro
+  - Editar um registro existente
+  - Exclusão de um registro
+  - Registros Relacionados
+  - Reatribuir um registro a um novo proprietário
+  - Compartilhar um registro com outro usuário ou equipe
+  - Execução de operações em múltiplos registros
+
+  #### Laboratório &#58; Gerenciar Registros
+  - Criar um registro de conta
+  - Relacionar um contato com uma conta
+  - Reatribuir um registro de conta
+  - Compartilhar um registro de conta
+  - Tornar uma conta inativa
+
+
+  #### Laboratório &#58; Criar uma visão pessoal
+  - Criar uma visão pessoal
+  - Definir uma visão pessoal padrão
+
+  Após completar este módulo, os alunos poderão&#58;
+  - Realizar operações em Registros
+  - Criar e gerenciar Visualizações Pessoais
+  - Reatribuir e Compartilhar Registros
+  - Realizar operações a granel em Registros
+
+
+  ### Módulo 4&##58; Dynamics 365 for Outlook
+  Neste módulo aprenderemos como usar o Dynamics 365 for Outlook. O Outlook Add-in será considerado incluindo as opções de navegação do Dynamics 365, o processo para rastrear e-mails e compromissos contra registros no Dynamics 365 e como sincronizar seu trabalho com o servidor do Dynamics 365.
+  #### Aulas
+  - Introdução ao Dynamics 365 for Outlook
+  - Dynamics 365 Pop-out Window
+  - Atividades de rastreamento no Outlook
+  - Modelos, Vendas Literatura e Artigos
+  - Criação de Dynamics 365 Records no Outlook
+  - Pesquisar Dynamics 365 Records no Outlook
+
+
+  #### Laboratório &#58; Rastrear Atividades no Outlook
+  - Rastrear um e-mail no Dynamics 365 for Outlook 
+  - Rastrear um compromisso no Dynamics 365 for Outlook 
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Estar familiarizados com o Dynamics 365 for Outlook App 
+  - Entender as diferenças entre as interfaces da Web e do Outlook 
+  - Rastreiar as atividades no Outlook em relação aos registros do Dynamics 365 
+
+
+  ### Módulo 5&#58; Pesquisar no Dynamics 365 
+  Neste módulo, aprenderemos como pesquisar e localizar informações no Microsoft Dynamics Customer Engagement. Analisaremos todas as ferramentas de pesquisa prontas para usar, incluindo Pesquisa Global, Pesquisa Rápida e Pesquisa Avançada.
+  #### Aulas
+  - Introdução à pesquisa no Dynamics 365 
+  - Pesquisa Global
+  - Pesquisa Rápida
+  - Pesquisa Avançada
+
+
+  #### Laboratório &#58; Usar Pesquisa Global
+  - Usar Pesquisa Global para pesquisar informações
+
+
+  #### Laboratório &#58; Usar a localização rápida
+  - Usar a Busca rápida para pesquisar registros de conta
+
+
+  #### Laboratório &#58; Usar Pesquisa Avançada
+  - Usar a Pesquisa Avançada para pesquisar informações
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Usar a pesquisa global
+  - Usar a Pesquisa Rápida
+  - Estar proficientes na ferramenta de localização avançada
+
+
+  ### Módulo 6&#58; Relatórios, gráficos e painéis
+  Este módulo examina os diferentes métodos disponíveis no Microsoft Dynamics 365 para analisar informações. Analisamos os relatórios ""Padrão"" prontos para uso e o processo para criar um relatório personalizado usando o Dynamics 365 Report Wizard. Este módulo também examina os gráficos e painéis prontos para uso, bem como o processo de construção de gráficos e painéis personalizados.
+  #### Aulas
+  - Introdução a relatórios, gráficos e painéis
+  - Relatórios padrão
+  - Assistente de Relatório
+  - Trabalhar com gráficos
+  - Trabalhar com painéis
+
+
+  #### Laboratório &#58; Criar um relatório personalizado
+  - Criar um relatório personalizado
+  - Testar seu novo relatório
+
+
+  #### Laboratório &#58; Explorar os gráficos
+  - Explorar os gráficos
+  - Criar um gráfico personalizado
+
+
+  #### Laboratório &#58; Explorar os painéis
+  - Explorar o painel
+  - Criar um painel personalizado
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Estar familiarizados com os relatórios prontos para uso
+  - Usar o Assistente de relatório para criar um relatório personalizado
+  - Compreender os Dynamics 365 Charts
+  - Criar um gráfico pessoal personalizado
+  - Compreender os Dynamics 365 Dashboards
+  - Criar um painel pessoal personalizado
+
+  #### Leitura Adicional
+  N/A
