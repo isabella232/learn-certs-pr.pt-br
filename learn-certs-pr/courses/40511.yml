@@ -1,0 +1,46 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+metadata:
+  title: 'Course 40511-G: Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+  description: 'Course 40511-G: Microsoft Cloud Workshop: Continuous delivery in Azure DevOps'
+uid: course.40511
+courseNumber: '40511-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Ao final deste seminário, você será capaz de construir modelos para automatizar a infraestrutura em cloud e reduzir processos manuais sujeitos a erros. Além disso, você criará um modelo do Azure Resource Manager (ARM) para provisionar recursos do Azure, configurará a entrega contínua com Visual Studio Team Services (VSTS), configurará o Application Insights em um aplicativo e criará um projeto do Visual Studio Team Services e um repositório Git.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Nesta sessão de design de quadro branco, você aprenderá como projetar uma solução com uma combinação de modelos do Azure Resource Manager e Azure DevOps para permitir a entrega contínua com vários serviços de Azure PaaS.
+
+  Ao final deste seminário, você estará mais apto a construir modelos para automatizara a infraestrutura em cloud e reduzir processos manuais sujeitos a erros. Além disso, você criará um modelo do Azure Resource Manager (ARM) para provisionar recursos do Azure, configurar a entrega contínua com o Azure DevOps, configurar o Application Insights em um aplicativo e criar um projeto do Azure DevOps e um repositório Git.
+
+  #### Perfil de público
+  Este seminário destina-se a Cloud Architects e profissionais de IT com experiência em arquitetura de design de infraestrutura e soluções em tecnologias de cloud e que desejam aprender mais sobre o Azure e os serviços do Azure conforme descrito nas áreas "Resumo" e "Habilidades adquiridas". Os participantes deste seminário também devem ter experiência em outras tecnologias não sejam Microsoft cloud, atender aos pré-requisitos do curso e desejar fazer o treinamento cruzado no Azure.
+prerequisitesSection: |-
+  O conteúdo do seminário pressupõe um nível 300 de conhecimento arquitetônico de design de infraestrutura e soluções. Sugerimos que os alunos façam este pré-requisito antes de participar deste seminário.
+  - Curso Microsoft Azure Essentials, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### Módulo 1&#58; Sessão de design do quadro branco - entrega contínua no Azure DevOps
+  #### Lições
+  - Revisar o estudo de caso do cliente
+  - Projetar uma solução de prova de conceito
+  - Apresentar a solução
+
+
+  ### Módulo 2&#58; Laboratório prático - entrega contínua no Azure DevOps
+  #### Lições
+  - Criar um modelo do Azure Resource Manager (ARM) que possa provisionar o aplicativo da web, banco de dados  SQL
+  - Criar projeto Azure DevOps e repositório Git
+  - Criar pipeline de compilação do Azure DevOps
+  - Criar pipeline de lançamento do Azure DevOps
+  - Acionar uma compilação e lançamento
+  - Criar uma filial de recursos e apresentar um pedido de retirada

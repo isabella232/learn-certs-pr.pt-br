@@ -6,6 +6,8 @@ metadata:
 uid: exam.sc-900
 displayName: SC-900
 summary: |-
+  <div><font color='red'><strong> O conteúdo deste exame será atualizado em 26 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>
+  
   Este exame é direcionado para aqueles que procuram se familiarizar com os fundamentos de segurança, conformidade e identidade (SCI) em todos os serviços da Microsoft baseados em cloud e relacionados.
   
   Este é um público amplo que pode incluir partes interessadas em negócios, profissionais de IT novos ou existentes ou estudantes que tenham interesse em soluções de segurança, conformidade e identidade da Microsoft.
@@ -14,6 +16,7 @@ summary: |-
 subTitle: 'Este exame avalia sua capacidade de descrever os seguintes: conceitos de segurança, conformidade e identidade; recursos de soluções de gerenciamento de identidade e acesso da Microsoft; recursos de soluções de segurança da Microsoft; e recursos das soluções de conformidade da Microsoft.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
+practiceTestUrl: https://in.mindhub.com/sc-900-microsoft-security-compliance-and-identity-fundamentals-microsoft-official-practice-test/p/MU-SC-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
   - providerType: pearson-vue
     examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
@@ -33,6 +36,7 @@ locales:
 levels:
 - beginner
 skills:
+- O conteúdo deste exame será atualizado em 26 de julho de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
 - Descrever os conceitos de segurança, conformidade e identidade (5-10%) 
 - Descrever os recursos das soluções de gerenciamento de identidade e acesso da Microsoft (25-30%)
 - Descrever os recursos das soluções de segurança da Microsoft (30-35%) 

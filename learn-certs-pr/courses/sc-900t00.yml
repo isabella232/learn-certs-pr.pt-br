@@ -18,10 +18,9 @@ locales:
 levels:
 - beginner
 roles:
-- business-user
 - student
 products:
-- m365
+- azure
 exams:
 - uid: exam.sc-900
 summary: |-
@@ -36,28 +35,33 @@ prerequisitesSection: |-
   - Compreensão geral do Microsoft Azure e Microsoft 365.
 outlineSection: |-
   ### Módulo 1&#58; Descrever os conceitos básicos de segurança, conformidade e identidade.
-  Aprenda sobre os principais conceitos, princípios e metodologias que são fundamentais para soluções de segurança, conformidade e identidade, incluindo Zero-Trust, responsabilidade compartilhada, nossos princípios de privacidade e muito mais.
-  #### Aulas
-  - Descrever conceitos e metodologias de segurança.
-  - Descrever os princípios de segurança e conformidade da Microsoft.
-  
-  Depois de concluir este Módulo, os alunos serão capazes de&#58;
-  - Descrever conceitos e metodologias de segurança.
-  - Explorar o Service Trust Portal .
-  - Saber onde encontrar e revisar a documentação de conformidade do Azure.
-  
+  Aprender sobre os principais conceitos e metodologias que são fundamentais para soluções de segurança, conformidade e identidade, incluindo Zero-Trust, responsabilidade compartilhada, a função dos provedores de identidade e muito mais.
+  #### Lições
+  - Descrever conceitos e metodologias de segurança e conformidade
+  - Descrever conceitos de identidade
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Descrever conceitos e metodologias de segurança e conformidade
+  - Descrever conceitos de identidade
+
   
   ### Módulo 2&#58; Descrever os conceitos e recursos das soluções de gerenciamento de acesso e identidade da Microsoft
   Saiba mais sobre os serviços e entidades de identidade do Azure AD, autenticação segura, recursos de gerenciamento de acesso, bem como proteção e governança de identidade.
   #### Aulas
-  - Descrever conceitos de identidade
   - Descrever os serviços básicos e os tipos de identidade do Azure AD
   - Descrever os recursos de autenticação do Azure AD
   - Descrever os recursos de gerenciamento de acesso do Azure AD
   - Descrever a proteção de identidade e recursos de governança do Azure AD
-  
+
+  #### Laboratório&#58; Explorar o Azure Active Directory
+  ####
+  #### Laboratório&#58; Explorar a autenticação do Azure AD com reset da senha de autoatendimento
+  ####
+  #### Laboratório&#58; Explorar o gerenciamento de acesso no Azure AD com acesso condicional
+  ####
+  #### Laboratório&#58; Explorar a governança de identidade no Azure AD com Gestão da Identidade Privilegiada
+
   Depois de concluir este Módulo, os alunos serão capazes de&#58;
-  - Descrever os conceitos básicos de identidade.
   - Descrever os serviços básicos e os tipos de identidade do Azure AD
   - Descrever os recursos de autenticação do Azure AD.
   - Descrever os recursos de gerenciamento de acesso do Azure AD.
@@ -73,7 +77,18 @@ outlineSection: |-
   - Descrever os recursos de proteção contra ameaças do Microsoft 365
   - Descrever os recursos de gerenciamento de segurança do Microsoft 365
   - Descrever a segurança do endpoint com o Microsoft Intune
-  - Resumo do módulo
+  
+  #### Laboratório&#58; Explorar o Microsoft Cloud App Security
+  ####
+  #### Laboratório&#58; Explorar o Azure Sentinel
+  ####
+  #### Laboratório&#58; Explorar a Azure Security Center
+  ####
+  #### Laboratório&#58; Explorar Azure Network Security Groups (NSGs)
+  ####
+  #### Laboratório&#58; Explorar o portal Microsoft 365 Defender
+  ####
+  #### Laboratório&#58; Explorar o Microsoft Intune
   
   Depois de concluir este Módulo, os alunos serão capazes de&#58;
   - Descrever os recursos básicos de segurança no Azure.
@@ -90,14 +105,24 @@ outlineSection: |-
   - Descrever os recursos de gerenciamento de conformidade na Microsoft
   - Descrever os recursos de proteção e governança de informações do Microsoft 365
   - Descrever os recursos de risco interno no Microsoft 365
-  - Descrever os recursos de eDiscovery do Microsoft 365
-  - Descrever os recursos de auditoria do Microsoft 365
+  - Descrever os recursos de eDiscovery e auditoria do Microsoft 365
   - Descrever os recursos de governança de recursos no Azure
+
+  #### Laboratório&#58; Explorar a Política do Azure
+  ####
+  #### Laboratório&#58; Explorar Gerenciamento de Risco Interno no Microsoft 365
+  ####
+  #### Laboratório&#58; Explorar o Service Trust Portal
+  ####
+  #### Laboratório&#58; Explorar o centro de conformidade do Microsoft 365 &amp; Gerente de Conformidade
+  ####
+  #### Laboratório&#58; Explorar rótulos de sensibilidade no Microsoft 365
+  ####
+  #### Laboratório&#58; Explorar Gerenciamento de Risco Interno no Microsoft 365
   
   Depois de concluir este Módulo, os alunos serão capazes de&#58;
   - Descrever os recursos de gerenciamento de conformidade da Microsoft.
   - Descrever os recursos de proteção e governança de informações do Microsoft 365.
   - Descrever os recursos de risco interno no Microsoft 365.
-  - Descrever os recursos de eDiscovery do Microsoft 365.
-  - Descrever os recursos de auditoria do Microsoft 365.
+  - Descrever os recursos de eDiscovery e auditoria do Microsoft 365.
   - Descrever os recursos de governança de recursos no Azure.

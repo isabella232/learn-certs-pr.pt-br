@@ -22,8 +22,8 @@ Se estiver interessado em realizar um exame supervisionado online por intermédi
 <br/><br/>
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RWBztG]
-                                               
-                                                                 
+
+
 ## Países/regiões participantes e idiomas oferecidos
 
 Os exames online por meio da PSI estão disponíveis na maioria dos países/regiões e podem estar disponíveis nos seguintes idiomas:
@@ -186,7 +186,7 @@ Seu escritório ou sua casa deve atender aos seguintes requisitos:
   - Passaporte.
   - Carteira de identidade (nacional/estadual/municipal).
   - Documento de identidade de estrangeiro (greencard, cartão de residência permanente, visto).
-  - Documento de identificação emitido pelo governo no idioma local (não em caracteres romanos) — aceito apenas se for emitido do país no qual o candidato está realizando o teste.
+  - Documento de ID emitido pelo governo - se o documento de ID não estiver em caracteres romanos, o nome (nome/sobrenome) deve ser incluído em caracteres romanos no documento de ID.
 - Será tirada uma foto sua e de seu documento de identificação por meio da webcam para dar prosseguimento ao processo de validação.
 - O nome que consta do documento de identificação emitido pelo governo que você apresenta para participar do exame deve corresponder **exatamente** ao nome contido no perfil de Microsoft Certification e da PSI.
 - Se você estiver em um processo de atualização ou renovação de seu documento de identificação, observe que formulários de alteração de razão social, incluindo formulários de renovação de identidade, não são aceitos para o exame online.

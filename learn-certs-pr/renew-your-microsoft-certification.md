@@ -12,9 +12,9 @@ ms.prod: non-product-specific
 ---
 # Renove sua Certificação Microsoft
 
-As certificações Microsoft validam as habilidades e conhecimentos relevantes necessários para que você desempenhe com sucesso suas funções em uma empresa digital moderna. As certificações ajudam a criar oportunidades de carreira e demonstrar sua capacidade de apoiar a transformação digital da sua organização. Além disso, dada a rapidez com que a tecnologia evolui no mundo da nuvem, é importante manter suas habilidades atualizadas e sua certificação ativa.
+As Microsoft Certifications confirmam que você tem habilidades e conhecimentos relevantes necessários para desempenhar com sucesso funções de trabalho em uma empresa digital moderna. As certificações podem abrir oportunidades de carreira e demonstrar sua capacidade de apoiar a transformação digital da sua organização. Dada a velocidade com que as tecnologias de cloud evoluem, é importante manter suas habilidades atualizadas e sua certificação ativa.
 
-Em 15 de dezembro, a Microsoft [apresentou uma nova abordagem](https://aka.ms/CertRenewalBlog) para ajudar os alunos a se manterem atualizados. Aqueles que possuem uma certificação ativa que expira em seis meses podem renovar sua certificação anualmente - sem nenhum custo - ao ser aprovado em uma avaliação de renovação no Microsoft Learn.
+Em 15 de dezembro de 2020, a Microsoft [introduziu uma nova abordagem](https://aka.ms/CertRenewalBlog) para ajudar os alunos a se manterem atualizados. Aqueles que têm uma certificação ativa expirando em seis meses podem renovar sua certificação anualmente - sem nenhum custo - passando em uma avaliação de renovação no Microsoft Learn.
 
 ## Cronograma de renovação da certificação
 
@@ -36,7 +36,7 @@ O primeiro conjunto de avaliações de renovação que será disponibilizado est
 | Microsoft Certified: Azure Data Scientist Associate |
 | Microsoft 365 Certified: Modern Desktop Administrator Associate |
 | Microsoft 365 Certified: Messaging Administrator Associate |
-| Microsoft 365 Certified: Security Administrator Associate |								
+| Microsoft 365 Certified: Security Administrator Associate |
 | Microsoft 365 Certified: Enterprise Administrator Expert |
 | Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
@@ -56,6 +56,7 @@ O primeiro conjunto de avaliações de renovação que será disponibilizado est
 
 - Se você já possui uma certificação baseada em função ou especialidade da Microsoft válida que expira em aproximadamente seis meses, você pode renová-la.
 - Para renovar sua certificação, você deve passar na avaliação associada ao Microsoft Learn _antes_ de sua certificação expirar.
+- Passar na avaliação de renovação do Microsoft Learn é a única maneira de renovar uma certificação. Você não pode renovar sua certificação passando em um exame, mesmo que seja uma versão nova ou atualizada do exame em que você foi aprovado inicialmente para obter a certificação. Por exemplo, se você fez o AZ-103 para obter sua certificação Microsoft Azure Administrator, não poderá fazer e ser aprovado no novo exame AZ-104 para renovar sua certificação. Você deve ser aprovado na avaliação de renovação do Microsoft Learn para renovar sua certificação. Não haverá exceções a essa política.
 
 ## Como renovar sua certificação
 
@@ -64,10 +65,6 @@ O primeiro conjunto de avaliações de renovação que será disponibilizado est
 - Assim que você estiver pronto para renovar, receberá uma notificação por e-mail direcionando-o para a avaliação que estará disponível no Microsoft Learn.
 - Depois de ser aprovado na avaliação online, sua certificação será estendida por mais um ano a partir da data de validade atual.
 - Para ajudar a se preparar para a avaliação, aprimore suas habilidades com uma coleção de módulos de aprendizagem individualizados gratuitos. Explore os módulos disponíveis associados na página de renovação da certificação.
-
-## Mudanças na política de expiração de certificação
-
-Em 15 de dezembro de 2020, nós [anunciamos uma mudança na política de expiração da certificação.](https://aka.ms/CertRenewalBlog) A partir de quarta-feira, junho, 30 2021 @12am GMT( junho, 29 2021 @5pm PT), qualquer [baseado no cargo](/learn/certifications/browse/?type=role-based) ou [certificação especial](/learn/certifications/browse/?type=specialty) ganho será válido por um ano a contar da data em que o ganhou. Todas as certificações baseadas em função ou especialidade obtidas antes de junho de 2021 permanecerão válidas por dois anos a partir da data em que você as obteve.
 
 ## Perguntas frequentes
 
@@ -95,11 +92,11 @@ Para obter mais informações, verifique as perguntas mais frequentes sobre a re
 
 5. **Minha certificação expirou. E agora?**
 
-    Se sua certificação expirar, você deverá obtê-la novamente passando nos exames exigidos.
+    Se sua certificação expirar, você deverá obtê-la novamente passando nos exames exigidos. Para obter mais informações, visite: [Política de expiração de certificação.](/Learn/certifications/certificate-expiration-policy)
 
 6. **Posso renovar minha certificação passando em um exame beta ou refazendo um exame antes que minha certificação expire?**
 
-    Não. Para renovar sua certificação, você precisa ser aprovado na avaliação de renovação antes que ela expire.
+    Não. Para renovar sua certificação, você precisa ser aprovado na avaliação de renovação antes que ela expire. Não haverá exceções a essa política.
 
 7. **Todas as Certificações Microsoft têm a opção de renovação?**
 

@@ -36,7 +36,7 @@ Exames Microsoft Certification são projetados para garantir que os candidatos q
 ## Processo de contestação de itens de exame:
 
 1. Leia nossos critérios para aceitar e não aceitar uma contestação de item de exame.
-2. Preencha e envie o [formulário de contestação do item de exame.](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u)
+2. Preencha e envie o [formulário de contestação do item de exame.](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9SQgdTBB3hHnpJO6XSRH7RURDkwT0FBRjQ5TVpFMjZXMTUzOElISVdTTS4u)
 3. A equipe Microsoft Certification irá rever a sua candidatura para ser completa. Se incompleto, você será solicitado a fornecer mais informações. Se completo, a equipe Microsoft Certification irá rever. Uma revisão demora aproximadamente duas semanas.
 4. Uma vez concluída a revisão, você será notificado do resultado.
 

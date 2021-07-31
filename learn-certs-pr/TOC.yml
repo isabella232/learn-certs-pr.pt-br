@@ -74,6 +74,8 @@
   - name: Políticas e acordos
     expanded: false
     items:
+    - name: Política de expiração de certificação
+      href: certification-expiration-policy.md
     - name: Exam item challenge process
       href: exam-item-challenge-process.md
     - name: Política de segurança do exame
