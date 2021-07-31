@@ -6,9 +6,17 @@ metadata:
 uid: exam.ai-102
 displayName: AI-102
 summary: |-
-  Os candidatos ao Exame AI-102 devem ter experiência no assunto de construção, gerenciamento e implantação de soluções de AI que alavancam Azure Cognitive Services, Azure Cognitive Search, e a Estrutura do Microsoft Bot.
-  
-  Os candidatos a este exame devem ser proficientes em C#, Python, ou JavaScript e devem ser capazes de usar APIs e SDKs baseados em REST para construir visão computacional, processamento de linguagem natural, mineração de conhecimento e soluções de AI conversacional no Azure. Eles também devem ter o entendimento dos componentes que compõem o portfólio do Azure AI e as opções disponíveis para armazenamento de dados. Além disso, os candidatos precisam entender e ser capazes de aplicar princípios responsáveis de AI.
+  <div><font color='red'><strong> O conteúdo deste exame será atualizado em 29 de julho de 2021. Faça download do documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>
+
+  Candidatos ao exame AI-102&#58; Designing and Implementing a Microsoft Azure AI Solution, criam, gerenciam e implantam soluções de AI que aproveitam Azure Cognitive Services, Azure Cognitive Search, e Microsoft Bot Framework.
+
+  Suas responsabilidades incluem a participação em todas as fases de desenvolvimento de soluções de AI - desde a definição de requisitos e design até o desenvolvimento, implantação, manutenção, ajuste de desempenho e monitoramento.
+
+  Eles trabalham com arquitetos de soluções para traduzir sua visão e com cientistas de dados, engenheiros de dados, especialistas em IoT e desenvolvedores de AI para construir soluções completas de AI de ponta a ponta. 
+
+  Os candidatos a este exame devem ser proficientes em C #, Python ou JavaScript e devem ser capazes de usar APIs e SDKs baseados em REST para criar visão computacional, processamento de linguagem natural, mineração de conhecimento e soluções de AI conversacional no Azure.
+
+  Eles também devem compreender os componentes que constituem o portfólio do Azure AI e as opções de armazenamento de dados disponíveis. Além disso, os candidatos precisam entender e ser capazes de aplicar princípios responsáveis de AI.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: planejar e gerenciar soluções de Azure Cognitive Services; implementar soluções de Visão Computacional; implementar soluções de processamento de linguagem natural; implementar soluções de mineração de conhecimento; e implementar soluções de AI conversacional.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYD
@@ -18,6 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
+- O conteúdo deste exame será atualizado em 29 de julho de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que será alterado.
 - Planejar e gerenciar uma solução de Azure Cognitive Services (15-20%)
 - Implementar soluções de Visão Computacional (20-25%)
 - Implementar soluções de processamento de linguagem natural (20-25%)

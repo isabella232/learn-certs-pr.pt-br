@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant
+title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing
 metadata:
-  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
-  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
+  title: 'Course MB-320T00--A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
+  description: 'Course MB-320T00--A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
 uid: course.mb-320t00
 courseNumber: 'MB-320T00-A'
 hoursToComplete: 96
@@ -20,14 +20,14 @@ roles:
 - developer
 products:
 - dynamics
-- dynamics-finance-operations
 exams:
 - uid: exam.mb-320
 summary: |-
   Este curso possui seis módulos e é projetado para 4 dias de experiência de aprendizagem. Pode ser ensinado pessoalmente e/ou virtualmente. Seu instrutor irá fornecer-lhe a agenda para este curso. O módulo 1 apresentará a necessidade de configuração para a Dynamics 365 Supply Chain Management, Manufacturing. O módulo 2 se aprofundará a questão da gestão dos diferentes tipos de processos de fabricação. O módulo 3 abordará implementação do planejamento mestre para a produção. O módulo 4 abordará a implementação de várias características de fabricação. O módulo 5 se concentrará na subcontratação para a fabricação de produtos. 
 
   #### Perfil do público
-  Um Dynamics 365 for Finance and Operations Functional Consultan é responsável por realizar a descoberta, capturar requisitos, engajar especialistas e intervenientes, traduzir requisitos e configurar a solução e aplicativos. O Consultor Funcional implementa uma solução usando recursos fora da caixa, extensibilidade sem código, integrações de aplicativos e serviços.
+  
+  Um Dynamics 365 Finance and Operations Functional Consultant é responsável por realizar a descoberta, capturar requisitos, envolver especialistas no assunto e partes interessadas, traduzir requisitos e configurar a solução e os aplicativos. O Consultor Funcional implementa uma solução usando recursos prontos para uso, extensibilidade sem código, integração de aplicativos e serviços.
 prerequisitesSection: |-
  - Compreensão básica para gestão da cadeia de fornecimento e terminologia de fabricação
  - Compreensão básica dos aplicativos de Dynamics 365 finance and operation

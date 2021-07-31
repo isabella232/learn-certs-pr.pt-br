@@ -6,14 +6,14 @@ metadata:
 uid: exam.mb-210
 displayName: MB-210
 summary: |-
-  <div><strong>O conteúdo deste exame foi atualizado em sexta-feira, 2 de outubro de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
+  <div><font color="red"><strong> O conteúdo deste exame será atualizado em 23 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>
   
   Os candidatos a este exame são consultores funcionais do Dynamics 365 com experiência de vendas. Os candidatos são responsáveis pela implementação de soluções que suportam um ciclo de vida de vendas a serem executados de forma eficiente e eficaz para atender às metas de receita, estratégias de negócios e objetivos da empresa.
   
   Os candidatos são responsáveis por configurar e expandir as principais funcionalidades de leads, contatos, contas, oportunidades e entidades de suporte para mapear os processos de vendas em vigor na empresa. Eles identificam oportunidades de usar o Power Apps em aplicativos móveis, o Microsoft Flow para integração de aplicativos, fluxos de processos de negócios e outras ferramentas de automação para construir um aplicativo que suporte e acelere o “processo de aumento da receita”.
   
   Os candidatos devem ter um sólido conhecimento de negócios e, de preferência, experiência no mundo de vendas em uma ou mais funções de vendas.
-subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: realizar configurações, gerenciar entidades de vendas básicas e configurar ferramentas e serviços adicionais.'
+subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: Executar configuração, Gerenciar tabelas de vendas principais, Configurar ferramentas e serviços adicionais.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
 practiceTestUrl:  https://www.mindhub.com/mb-210-microsoft-dynamics-365-sales-microsoft-official-practice-test/p/MU-MB-210?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -23,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em sexta-feira, 2 de outubro de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
+- O conteúdo deste exame será atualizado em 23 de julho de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
 - Realizar configurações (25-30%)
 - Gerenciar entidades de vendas principais (50-55%)
 - Configurar ferramentas e serviços adicionais (15-20%)

@@ -6,6 +6,8 @@ metadata:
 uid: exam.sc-400
 displayName: SC-400
 summary: |-
+  <div><font color="red"><strong> O conteúdo deste exame será atualizado em 23 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>
+
   O Administrador de Proteção de Informações planeja e implementa controles que atendam às necessidades de conformidade organizacional. Essa pessoa é responsável por traduzir requisitos e controles de conformidade em implementação técnica. Eles ajudam os proprietários de controle organizacional a se tornarem e permanecerem em conformidade.
   
   Eles trabalham com pessoal de tecnologia da informação (IT), proprietários de aplicativos de negócios, recursos humanos e partes interessadas legais para implementar tecnologia que suporte políticas e controles necessários para atender suficientemente aos requisitos regulatórios de sua organização. Eles também trabalham com a liderança de conformidade e segurança, como um Chefe do Gabinete de Conformidade e Oficial de Segurança para avaliar toda a amplitude do risco corporativo associado e formar parceria para desenvolver essas políticas.
@@ -20,6 +22,7 @@ locales:
 levels:
 - intermediate
 skills:
+- O conteúdo deste exame será atualizado em 23 de julho de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
 - Implementar proteção de informações (35-40%)
 - Implementar a prevenção de perda de dados (30-35%)
 - Implementar a governança de informação (25-30%)

@@ -8,11 +8,11 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Descrever os componentes da Power Platform
+- skill: Descrever os componentes do Microsoft Power Platform
 - skill: Descrever o Microsoft Dataverse, Conectores e construtor de AI 
 - skill: Descrever cenários em nuvens cruzadas em M365, Dynamics 365, Microsoft Azure e serviços de terceiros
-- skill: Identificar os benefícios e capacidades da Plataforma de Energia
-- skill: Identificar a funcionalidade básica e o valor comercial Componentes da plataforma de energia
+- skill: Identificar benefícios e recursos da Microsoft Power Platform
+- skill: Identificar a funcionalidade básica e os componentes de valor comercial da Microsoft Power Platform
 - skill: Implementar soluções simples com Power Apps, Power Automate, Power BI, e Power Virtual Agents
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -20,7 +20,7 @@ locales:
 levels:
 - beginner
 roles:
-- developer
+- student
 products:
 - power-platform
 exams:
@@ -34,20 +34,19 @@ summary: |-
 prerequisitesSection: |-
   Nenhum pré-requisito para este curso
 outlineSection: |-
-  ### Módulo 1&#58; Introdução à Plataforma de Energia
-  Aprenda sobre os componentes da Plataforma de Energia, formas de conectar dados e como as organizações podem aproveitar esta tecnologia para criar soluções comerciais.
+  ### Módulo 1&#58; Introdução à Microsoft Power Platform
+  Aprender sobre os componentes da Microsoft Power Platform, as formas de conectar dados e como as organizações podem aproveitar essa tecnologia para criar soluções de negócios.
   #### Lições
-  - Visão geral da plataforma de energia
-  - Resumo do módulo
+  - Visão geral da Microsoft Power Platform
+  - Resumo do Módulo
 
-  Após completar este módulo, os alunos poderão&#58;
-  - Identificar quando usar cada aplicativo de componente da Plataforma de Energia para criar soluções de negócios
-  - Aprenda o valor de usar a Plataforma Power para criar soluções comerciais
-  - Conheça os componentes e características da Plataforma de Energia
-
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Identificar quando usar cada aplicativo de componente do Microsoft Power Platform para criar uma solução de negócios
+  - Aprender o valor de usar o Microsoft Power Platform para criar soluções de negócios
+  - Aprender os componentes e recursos do Microsoft Power Platform
 
   ### Módulo 2&#58; Introdução ao Microsoft Dataverse
-  O Dataverse permite que você mergulhe em soluções de dados poderosas e escaláveis em cloud. Aprenda o que faz o Dataverse funcionar e como ele pode funcionar com a Power Platform para criar soluções de negócios exclusivas e eficientes.
+  O Dataverse permite que você mergulhe em soluções de dados poderosas e escaláveis na cloud. Saiba o que faz o Dataverse funcionar e como ele pode funcionar com o Microsoft Power Platform para criar soluções de negócios exclusivas e eficientes.
   #### Aulas
   - Visão geral do Microsoft Dataverse
   - Resumo do Módulo

@@ -19,13 +19,18 @@ Assim que um curso é retirado, já não estará disponível. O curso não pode 
 
 ## Cursos aposentados: treinamento com instrutor
 
+* Reforma do material de curso em 30 de julho de 2021
+
+    | Número do curso | Versão | Título | Idioma | Data de reforma |
+    | --- | --- | --- | --- | --- |
+    | DP-200T01 | A | Implementar uma solução de dados do Azure | Inglês | 30/07/2021 |
+    | DP-201T01 | A | Projetar uma solução de dados do Azure | Inglês | 30/07/2021 |
+
 * O material de curso será reformado em 30 de junho de 2021
 
     | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
     | AI-100T01 | A | Designing and Implementing an Azure AI Solution | Inglês | 6/30/2021 |
-    | DP-200T01 | A | Implementing an Azure Data Solution | Inglês | 6/30/2021 |
-    | DP-201T01 | A | Designing an Azure Data Solution | Inglês | 6/30/2021 |
     | MB-600T00 | A | Microsoft Dynamics 365 + Power Platform Solution Architect | Inglês | 6/30/2021 |
     | MB-901T00 | A | Microsoft Dynamics 365 Fundamentals | Inglês | 6/30/2021 |
     | AI-100T01JA | A | Designing and Implementing an Azure AI Solution | Japonês | 6/30/2021 |

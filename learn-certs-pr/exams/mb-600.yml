@@ -7,8 +7,7 @@ uid: exam.mb-600
 displayName: MB-600
 summary: |-
   <div>
-  <div><font color='red'><strong>Uma NOVA VERSÃO DESTE EXAME, <a href="/learn/certifications/exames/pl-600">PL-600</a>, FICOU disponível em março de 2021. Você poderá fazer este exame até reformar em 30 de junho de 2021.</strong></font><br/><br/></div>
-  <div><strong>O conteúdo deste exame foi atualizado em, 30 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
+  <div><font color='red'><strong> ESTE EXAME APOSENTADO EM 30 DE JUNHO DE 2021. Uma nova versão deste exame, PL-600, está disponível. Para obter mais informações, visite a página de detalhes do exame <a href="/learn/certifications/exams/pl-600"> PL-600 </a>. </strong></font><br/><br/></div>
   </div>
   
   Os arquitetos de soluções do Power Apps no Microsoft Dynamics 365 conduzem implementações bem-sucedidas e se concentram em como as soluções podem atender às necessidades técnicas e empresariais mais amplas das organizações.
@@ -19,13 +18,11 @@ summary: |-
 subTitle: 'Esse exame mede a sua capacidade de realizar as seguintes tarefas técnicas: realizar a previsão de soluções e análise de requisitos; arquitetar uma solução; e implementar a solução.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE440oW
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-600&examname=Exam%20MB-600:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Solution%20Architect&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-600
 locales:
 - en
 levels:
 - advanced
 skills:
-- O conteúdo deste exame foi atualizado em, 30 de julho de 2020. Baixe o documento descrição das habilidades abaixo para saber o que mudou.
 - Executar Previsão de Solução e Análise de Requisitos (30-35%)
 - Arquitetura de uma solução (45-50%)
 - Implementar a solução (20-25%)

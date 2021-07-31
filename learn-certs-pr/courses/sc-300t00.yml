@@ -18,14 +18,9 @@ locales:
 levels:
 - intermediate
 roles:
-- administrator
-- identity-access-admin
 - security-engineer
 products:
 - azure
-- azure-active-directory
-- azure-log-analytics
-- azure-sentinel
 exams:
 - uid: exam.sc-300
 summary: |-
@@ -34,13 +29,13 @@ summary: |-
   #### Perfil da audiência
   Este curso é para os Administradores de Identidade e Acesso que planejam fazer o exame de certificação associado, ou que estão realizando tarefas de identidade e administração de acesso em seu trabalho diário. Este curso também seria útil para um administrador ou engenheiro que quer se especializar no fornecimento de soluções de identidade e sistemas de gerenciamento de acesso para soluções baseadas no Azure; desempenhando um papel fundamental na proteção de uma organização.
 prerequisitesSection: |-
-  Os alunos bem-sucedidos terão conhecimento prévio e compreensão de&#58;
+  Antes de participar deste curso, os alunos devem ter conhecimento de&#58;
   - Práticas recomendadas de segurança e requisitos de segurança do setor, como defesa em profundidade, acesso menos privilegiado, responsabilidade compartilhada e modelo de confiança zero. 
   - Esteja familiarizado com conceitos de identidade, como autenticação, autorização e diretório ativo. 
   - Ter alguma experiência implantando cargas de trabalho do Azure. Este curso não abrange o básico da administração do Azure, em vez disso, o conteúdo do curso se baseia nesse conhecimento adicionando informações específicas de segurança. 
   - Alguma experiência com sistemas operacionais Windows e Linux e linguagens de script é útil, mas não necessária. Os laboratórios de curso podem usar o PowerShell e o CLI.  
 
-  <div><strong>Cursos de pré-requisitos (ou conhecimento equivalente e experiência prática)&#58;</strong></div>
+  Cursos de pré-requisitos (ou conhecimento equivalente e experiência prática)&#58;
 
   Este treinamento online gratuito lhe dará a experiência necessária para ter sucesso neste curso. 
   - [SC-900 parte 1&#58; Descrever os conceitos de segurança, conformidade e identidade - Learn | Microsoft Docs](/learn/paths/describe-concepts-of-security-compliance-identity/) 
@@ -78,7 +73,7 @@ outlineSection: |-
   #### Laboratório &#58; Explorar grupos dinâmicos
   
   Depois de concluir este Módulo, os alunos serão capazes de&#58;
-  - Implantar um initail Azure AD com configurações personalizadas
+  - Implantar um Azure AD inicial com configurações personalizadas
   - Gerenciar identidades internas e externas
   - Implementar uma solução de identidade híbrida
   

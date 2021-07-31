@@ -6,8 +6,7 @@ metadata:
 uid: exam.ms-700
 displayName: MS-700
 summary: |-
-  <div><div><font color='red'><strong>O conteúdo deste exame foi atualizado em 25 de maio de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudou.</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong> O conteúdo deste exame será atualizado em 26 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>
 
   O Microsoft Teams Administrator configura, implementa e gerencia cargas de trabalho do Office 365 para o Microsoft Teams visando a colaboração e comunicação eficiente e efetiva em um ambiente empresarial.
 
@@ -28,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 25 de maio de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudou.
+- O guia de exame abaixo mostra as mudanças que serão implementadas em 26 de julho de 2021.
 - Planejar e configurar um ámbiente do Microsoft Teams (45-50%)
 - Administrar chat, chamadas e reuniões (30-35%)
 - Gerenciar Equipes e políticas de aplicativos (20-25%)
