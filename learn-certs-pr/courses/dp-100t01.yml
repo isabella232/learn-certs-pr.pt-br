@@ -3,7 +3,6 @@ title: Designing and Implementing a Data Science Solution on Azure
 metadata:
   title: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
   description: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
-  iltScheduling: true
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -17,7 +16,6 @@ roles:
 - data-scientist
 products:
 - azure
-- azure-data-science-vm
 exams:
 - uid: exam.dp-100
 summary: |-
@@ -34,10 +32,11 @@ prerequisitesSection: |-
   - Formação e validação de modelos de aprendizagem de máquinas utilizando estruturas comuns como Scikit-Learn, PyTorch, e TensorFlow.
   
   Para obter estas competências prévias, faça a seguinte formação online gratuita antes de frequentar o curso&#58;
-  - [Explorar conceitos da Microsoft](/learn/paths/explore-microsoft-azure-cloud-concepts/).
-  - [Criar modelos de aprendizagem de máquinas](/learn/paths/create-machine-learn-models/). 
+  - [Explorar conceitos da Microsoft](https://docs.microsoft.com/learn/paths/explore-microsoft-azure-cloud-concepts/).
+  - [Criar modelos de aprendizagem de máquinas](https://docs.microsoft.com/learn/paths/create-machine-learn-models/).
+  - [Administrar contêineres no Azure](https://docs.microsoft.com/learn/paths/administer-containers-in-azure/)
   
-  Se é completamente novo na ciência dos dados e na aprendizagem de máquinas, por favor preencha primeiro [Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals).
+  Se é completamente novo na ciência dos dados e na aprendizagem de máquinas, por favor preencha primeiro [Microsoft Azure AI Fundamentals](https://docs.microsoft.com/learn/certifications/azure-ai-fundamentals).
 outlineSection: |-
   ### Módulo 1&#58; Fazendo ciência de dados no Azure
   O estudante aprenderá sobre o processo de ciência de dados e a função do Data Scientist.  Em seguida, o estudante compreenderá como os serviços do Azure podem oferecer suporte e aumentar o processo de ciência de dados.
@@ -47,7 +46,7 @@ outlineSection: |-
   - Introdução ao Azure Notebooks
 
 
-  ### Módulo 2&#58; Fazendo ciência de dados como Azure Machine Learning
+  ### Módulo 2&#58; Ferramentas Visuais para Aprendizado de Máquina
   O estudante aprenderá a usar o serviço Azure Machine Learning (AML) para automatizar o processo de ciência de dados ponta a ponta.
   #### Lições
   - Introdução ao serviço AML

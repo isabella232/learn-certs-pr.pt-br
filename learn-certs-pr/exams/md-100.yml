@@ -6,7 +6,7 @@ metadata:
 uid: exam.md-100
 displayName: MD-100
 summary: |-
-  <div><font color='red'><strong>O conteúdo deste exame foi atualizado em 8 de março de 2021. Baixe o documento abaixo de habilidades avaliadas para ver o que mudou.</strong></font><br/><br/></div>
+  <div><strong> O conteúdo deste exame será atualizado em 5 de agosto de 2021. Faça download do documento de habilidades avaliadas abaixo para ver o que mudará. </strong><br/><br/></div>
 
   Se você passou [Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) antes de expirar em 31 de março de 2019, só precisa fazer um exame (MD-101) para receber a certificação Modern Desktop. Os candidatos a este exame são Administradores que implementam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos cliente em um ambiente corporativo. Os candidatos gerenciam identidade, acesso, políticas, atualizações e aplicativos.
 
@@ -25,7 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 8 de março de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que mudou.
+- O conteúdo deste exame será atualizado em 5 de agosto de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
 - Instalação do Windows (15-20%)
 - Gerenciar dispositivos e dados (25-30%)
 - Configure armazenamento e conectividade (15-20%)

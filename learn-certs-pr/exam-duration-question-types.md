@@ -20,11 +20,10 @@ O tempo do exame varia de acordo com o tipo de exame que você faz.
 
 | | Duração do exame* | Duração do assento* |
 | ------------- |:-------------:| -----:|
-| Exames de fundamentals | 60 minutos | 80 minutos |
-|  Associate and expert role-based exams baseados em papéis sem laboratórios** | 130 minutos | 150 minutos |
-| Associate and expert role-based exams baseados em papéis que contêm laboratórios | 150 minutos | 170 minutos |
+| Exames de fundamentals | 45 minutos | 65 minutos |
+| Associate and expert role-based exams baseados em papéis sem laboratórios** | 100 minutos | 120 minutos |
+| Exames baseados em funções de associados e especialistas que podem conter laboratórios** | 130 minutos | 150 minutos |
 | Microsoft Technology Associate (MTA) são realizados por meio de canais acadêmicos | 45 minutos | 50 minutos |
-| Exames de MTA entregues através de canais comerciais | 45 minutos | 80 minutos |
 | Exames do Microsoft Office Specialist (MOS) | 50 minutos | 60 minutos |
 
 *Duração do exame refere-se à quantidade de tempo que você tem para completar o exame. O tempo de assento refere-se à quantidade de tempo que você deve alocar para o exame. Ele inclui o tempo necessário para rever as instruções, ler e aceitar o NDA, completar as perguntas do exame e fornecer comentários após completá-lo (se você optar por fazê-lo).

@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Modern Cloud Apps'
+metadata:
+  title: 'Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps'
+  description: 'Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps'
+uid: course.40508
+courseNumber: '40508-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Ao final deste seminário, você estará mais apto a implantar e configurar os Azure Web Apps e serviços associados. Além disso, você aprenderá a configurar Aplicativos Web para autenticação com Azure AD, instrumentar e testar a carga do aplicativo com App Insights e automatizar serviços de back-end usando Azure Functions e Logic Apps.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  Neste seminário, você trabalhará como um grupo para implementar uma solução ponta a ponta para e-commerce baseada nos Azure App Services, Azure Active Directory e Visual Studio Team Services. Você garantirá que a solução seja compatível com o PCI e que medidas de segurança apropriadas serão implementadas para cenários de acesso local e público.
+
+  #### Perfil de público
+  Este seminário é destinado a Cloud Architects e profissionais de IT que têm experiência em arquitetura de design de infraestrutura e soluções em tecnologias de cloud e desejam aprender mais sobre o Azure e os Azure services conforme descrito nas áreas "Resumo" e "Habilidades adquiridas". Os participantes deste seminário também devem ter experiência em outras tecnologias que não sejam Microsoft cloud, atender aos pré-requisitos do curso e desejar fazer o treinamento cruzado no Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Sessão de design do quadro branco - Aplicativos modernos em cloud
+  #### Lições
+  - Revisar o estudo de caso do cliente
+  - Projetar uma solução de prova de conceito
+  - Apresentar a solução
+
+
+  ### Módulo 2&#58; Laboratório prático - Aplicativos modernos em cloud
+  #### Lições
+  - Implantação de prova de conceito
+  - Identidade e segurança
+  - Configurar o Azure B2C para o site do cliente
+  - Configurar a Telemetry com o Application Insights
+  - Automatizar processos de back-end com Azure Functions e Logic Apps

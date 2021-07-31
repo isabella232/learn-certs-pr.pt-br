@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Big Data &amp; Visualization'
+metadata:
+  title: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+  description: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+uid: course.40502
+courseNumber: '40502-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Ao final deste seminário, você estará mais apto a construir um modelo completo de aprendizado de máquina no Azure Databricks para prever se um próximo voo terá atrasos. Além disso, você aprenderá a armazenar o modelo treinado no Azure Machine Learning Model Management, e em seguida, implantar em contêineres Docker para previsões escalonáveis sob demanda, usar o Azure Data Factory (ADF) para movimentação de dados e operacionalizar a pontuação de ML, resumir dados com Azure Databricks e Spark SQL, e visualizar previsões em lote em um mapa usando o Power BI.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  Neste seminário, você implantará um aplicativo da web usando Machine Learning (ML) para prever atrasos em viagens de acordo com os dados de atraso de voos e as condições climáticas. Planeje uma operação de importação de dados em massa, seguida pela preparação, como limpar e manipular os dados para teste e treinar seu Machine Learning model.
+
+  #### Perfil de público
+  Este seminário é destinado a Architects Cloud e profissionais de IT que têm experiência arquitetônica de infraestrutura e soluções de design em tecnologias de cloud e querem aprender mais sobre Azure e Azure services como descrito nas áreas "Resumo" e "habilidades adquiridas". Os participantes deste seminário também devem ter experiência em outras tecnologias que não sejam Microsoft cloud, atender aos pré-requisitos do curso e desejar fazer o treinamento cruzado no Azure.
+outlineSection: |-
+  ### Módulo 1&#58; Sessão de design do quadro branco - Big data e visualização
+  #### Lições
+  - Revisar o estudo de caso do cliente
+  - Projetar uma solução de prova de conceito
+  - Apresentar a solução
+
+
+  ### Módulo 2&#58; Laboratório prático - Big data e visualização
+  #### Lições
+  - Construir um modelo de aprendizado de máquina
+  - Configuração do Azure Data Factory
+  - Implantar seu modelo de aprendizado de máquina com o Azure ML
+  - Desenvolver um pipeline de fábrica de dados para movimentação de dados
+  - Operacionalizar a pontuação de ML com Azure Databricks e Data Factory
+  - Resumir dados usando Azure Databricks
+  - Visualização no Power BI Desktop
+  - Implantar aplicativo da web inteligente

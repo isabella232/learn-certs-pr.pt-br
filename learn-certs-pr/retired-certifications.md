@@ -21,8 +21,6 @@ As certificações programadas para serem retiradas nos próximos 12 meses estã
 
 |                                             |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | Será desativado na 30 de junho de 2021 |
-| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | Será desativado na 30 de junho de 2021 |
 | [MTA: Database Fundamentals](/learn/certifications/mta-database-fundamentals) | Serão reformadas em 30 de junho de 2022 |
 | [MTA: Windows Server Administration Fundamentals](/learn/certifications/mta-windows-server-administration-fundamentals) | Serão reformadas em 30 de junho de 2022 |
 | [MTA: Security Fundamentals](/learn/certifications/mta-security-fundamentals) | Serão reformadas em 30 de junho de 2022 |
@@ -44,6 +42,8 @@ As certificações permanecerão no Active secção da tua transcrição durante
 
 | Baseado em função                                                                         |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 30 de junho de 2021 |
+| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | 30 de junho de 2021 |
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 31 de dezembro de 2020 |
 | [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 31 de agosto de 2020 |
 

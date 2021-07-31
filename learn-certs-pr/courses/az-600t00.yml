@@ -27,13 +27,6 @@ roles:
 - administrator
 products:
 - azure
-- azure-stack
-- azure-stack-edge
-- azure-stack-hci
-- azure-stack-hub
-- azure-app-service
-- azure-event-hubs
-- azure-active-directory
 exams:
 - uid: exam.az-600
 summary: |-
@@ -49,9 +42,9 @@ prerequisitesSection: |-
   - Compreensão dos conceitos do Diretório Ativo, incluindo domínios, florestas e controladores de domínio
 
   Se você é novo no Azure e na computação em cloud, considere um dos seguintes recursos&#58;
-  - Gratuito online&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/) 
-  - Curso dirigido por instrutor&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01) 
-  - Pré-requisitos para Azure administrators (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
+  - Gratuito online&#58; Azure Fundamentals ([http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/))
+  - Curso dirigido por instrutor&#58; AZ-900&#58; Azure Fundamentals ([https://docs.microsoft.com/learn/certifications/courses/az-900t01](https://docs.microsoft.com/learn/certifications/courses/az-900t01))
+  - Pré-requisitos para Azure administrators ([https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### Módulo 1&#58; Visão geral do Azure Stack Hub 
   Neste módulo, você aprenderá como o Azure Stack Hub é uma extensão do Azure que fornece um meio de executar aplicativos num ambiente local e fornecer serviços Azure em seu centro de dados.
@@ -155,5 +148,5 @@ outlineSection: |-
   - Configurar metas de armazenamento para backups de infraestrutura 
   - Atualizar o Azure Stack Hub 
   - Desbloquear uma sessão de suporte 
-  - Conectar a um endpoint privilegiada 
+  - Conectar-se a um endpoint privilegiado
   - Executar diagnósticos de sistema usando Test-AzureStack
