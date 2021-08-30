@@ -30,10 +30,6 @@ roles:
 - ai-engineer
 products:
 - azure
-- azure-cognitive-services
-- azure-bot-service
-- azure-machine-learning-studio
-- azure-search
 exams:
 - uid: exam.ai-100
 summary: |-
@@ -166,13 +162,16 @@ outlineSection: |-
   - Análise de Imagens
   - Análise de vídeos
   
-  #### Laboratório &#58; Analisar Imagens com Visão Computacional
-  
-  #### Laboratório &#58; Analisar Vídeo com Indexador de Vídeo
+
+  #### Laboratório: Analisar vídeo
+
+  ####
+
+  #### Laboratório: Analisar imagens com visão computacional 
   
   Após a conclusão deste módulo, os alunos serão capazes de&#58;
   - Usar o Serviço de Visão Computacional para analisar imagens
-  - Usar o Indexador de vídeo para analisar vídeos
+  - Utilizar o Analisador de Video para analisar vídeos
   
   
   ### Módulo 9&#58; Desenvolvimento de Soluções  Personalizadas de Visão 

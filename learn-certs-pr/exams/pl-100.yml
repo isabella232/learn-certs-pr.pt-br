@@ -5,8 +5,13 @@ metadata:
   description: 'Exam PL-100: Microsoft Power Platform App Maker'
 uid: exam.pl-100
 displayName: PL-100
-summary: <div><font color="red"><strong> O conteúdo deste exame será atualizado em 23 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>\n\nO criador de aplicativos cria e aplica processos de negócios, estrutura a coleta digital de informações, melhora a eficiência de tarefas repetíveis e automatiza os processos de negócios.\n\nO criador de aplicativos usa as ferramentas do criador da Power Platform para solucionar problemas de negócios. Eles devem ter experiência com o Visual Basic for Applications, tabelas dinâmicas do Excel, Teams e outras ferramentas. Eles devem ter noções básicas de modelos de dados, interface do usuário e processos. O criador de aplicativos está ciente dos recursos e limitações das ferramentas disponíveis e entende como aplicá-las.\n\nO criador de aplicativos é independente e focado na solução. Eles podem não ter treinamento formal em TI, mas se sentem confortáveis ao usar a tecnologia para resolver problemas de negócios tendo em mente o crescimento pessoal. Eles compreendem a necessidade operacional e têm uma visão do resultado desejado. Eles abordam problemas com estratégias graduais e iterativas."
-subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: Soluções de design, Criar soluções, Analisar dados, Implementar e gerenciar soluções.'
+summary: |-
+  <div><font color="red"><strong> O conteúdo deste exame foi atualizado em 23 de julho de 2021. Faça download do documento de habilidades avaliadas abaixo para ver o que mudou. </strong></font><br/><br/></div>
+  
+  O candidato visualiza e cria soluções para simplificar e automatizar tarefas e processos para ele e sua equipe. Eles entendem os dados com os quais estão trabalhando, os problemas que precisam resolver e os processos e experiências de aplicativos necessários. O candidato pode não ter treinamento formal em IT, mas sente-se à vontade para usar a tecnologia para resolver problemas de negócios.
+
+  O candidato é autodirigido e focado na solução. Eles podem se conectar e usar recursos de aplicativos, incluindo Microsoft Teams, aplicativos e serviços do Microsoft 365 e soluções de terceiros. O candidato deseja compreender as capacidades e limitações das ferramentas disponíveis e como aplicá-las. O candidato é um defensor das soluções Power Platform.
+subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: projetar soluções de negócios; criar soluções; e analisar e visualizar dados.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
 practiceTestUrl: https://www.mindhub.com/p/MU-PL-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -17,14 +22,14 @@ providers:
   examUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=PL-100&provider=psi&examname=Exam%20PL-100:%20Microsoft%20Power%20Platform%20App%20Maker&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-100
 locales:
 - en
+- ja
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 23 de julho de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
-- Soluções de design (10-15%)
-- Criar soluções (50-55%)
-- Analisar dados (5-10%)
-- Implementar e gerenciar soluções (15-20%)
+- O conteúdo deste exame foi atualizado em 23 de julho de 2021. Faça download do esboço de habilidades do exame abaixo para ver o que mudou.
+- Projetar soluções de negócios (35-40%)
+- Criar soluções (45-50%)
+- Analisar e visualizar dados (15-20%)
 roles:
 - business-analyst
 - business-owner
@@ -84,7 +89,7 @@ relatedCertifications:
 resources:
 - title: Certificação Caminho de Aprendizagem
   description: Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames necessários e obter sua certificação.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF
 - title: Guia de Treinamento e Certificações
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://aka.ms/TrainingCertDeck

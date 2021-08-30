@@ -20,6 +20,7 @@ ms.prod: non-product-specific
 - Um candidato não pode fazer um exame específico mais de cinco vezes num período de 12 meses. Este período de 12 meses começa a partir da primeira tentativa. O candidato é elegível para retomar o exame 12 meses a partir da data de sua primeira tentativa.
 - Para realizar um determinado exame mais de cinco vezes por ano ou para ter o tempo entre tentativas dispensadas, um candidato deve ter experimentado um dos erros listados abaixo e solicitar uma exceção de Microsoft.
 - Você não pode voltar a fazer um exame que você passou a menos que sua certificação tenha expirado.
+- Você deve pagar para refazer o exame.
 
 ## Envie um pedido para uma exceção de exemplo
 

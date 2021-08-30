@@ -19,12 +19,12 @@ Assim que um curso é retirado, já não estará disponível. O curso não pode 
 
 ## Cursos aposentados: treinamento com instrutor
 
-* Reforma do material de curso em 30 de julho de 2021
+* Retirada do material de curso em 31 de agosto de 2021
 
-    | Número do curso | Versão | Título | Idioma | Data de reforma |
+    | Número do curso | Versão | Título | Idioma | Data de aposentadoria |
     | --- | --- | --- | --- | --- |
-    | DP-200T01 | A | Implementar uma solução de dados do Azure | Inglês | 30/07/2021 |
-    | DP-201T01 | A | Projetar uma solução de dados do Azure | Inglês | 30/07/2021 |
+    | DP-200T01 | A | Implementing an Azure Data Solution | Inglês | 31/08/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | Inglês | 31/08/2021 |
 
 * O material de curso será reformado em 30 de junho de 2021
 
@@ -1052,7 +1052,7 @@ Assim que um curso é retirado, já não estará disponível. O curso não pode 
 
 * Cursos desativados em 18 de abril de 2016
 
-    | Número do curso | Título | Idioma | Data de desativação |
+    | Número do curso | Versão | Título | Idioma | Data de desativação |
     | --- | --- | --- | --- | --- |
     | 38 | Office 2013 and Office 365 Demonstration Sessions | japonês | 18/4/2016
     | 37 | Office 2013 and Office 365 Demonstration Sessions | espanhol | 18/4/2016

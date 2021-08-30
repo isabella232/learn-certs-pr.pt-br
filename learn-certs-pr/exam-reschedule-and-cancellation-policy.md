@@ -14,7 +14,7 @@ ms.prod: non-product-specific
 
 ## Reescalonamento e detalhes da Política de cancelamento
 
-- <div><font color='red'>Microsoft estará temporariamente dispensando a taxa de remarcamento e cancelamento, desde que você cancele seus exames dentro de 24 horas antes de sua marcação agendada.</font></div>
+- <div><font color='red'>Se você não comparecer ao exame ou não reagendar ou cancelar sua consulta pelo menos 24 horas antes da data marcada, você perderá o valor total do exame. </font></div>
 - Não há custo se você remarcar ou cancelar uma consulta de exame pelo menos seis dias úteis antes da sua consulta.
 - Se você cancelar ou remarcar o seu exame dentro de cinco dias úteis após o seu tempo de exame registrado, uma taxa será aplicada.
 - Se você deixar de se inscrever para seu agendamento de exame ou se você não reagendar ou cancelar seu agendamento pelo menos 24 horas antes do compromisso agendado, você perderá o direito de reembolsar a taxa total de exame. Os dias úteis são de segunda a sexta-feira, sem incluir feriados globais.

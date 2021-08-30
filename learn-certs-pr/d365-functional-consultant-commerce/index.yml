@@ -33,6 +33,19 @@ products:
 - dynamics-cust-svc-insights
 - dynamics-retail
 - dynamics-sales
+paths:
+- uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
+- uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
+- uid: learn-dynamics.configure-your-organization-in-finance-and-ops
+- uid: learn-dynamics.migrate-data-go-live-with-dynamics-365-finance-ops
+- uid: learn-dynamics.configure-analytics-reporting-finance-operations
+- uid: learn-dynamics.get-started-dynamics-365-commerce
+- uid: learn-dynamics.configure-work-omnichannel-prequisites-commerce
+- uid: learn-dynamics.manage-customer-engagement-shopping-experience-commerce
+- uid: learn-dynamics.manage-order-fulfillment-inventory-commerce
+- uid: learn-dynamics.configure-use-pos-commerce
+- uid: learn-dynamics.configure-work-call-centers-commerce
+- uid: learn-dynamics.configure-work-e-commerce
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKp
 exams:
 - uid: exam.mb-300
@@ -44,6 +57,9 @@ resources:
 - title: Training and certification guide
   description: Explore todas as certificações em um guia conciso de treinamento e certificações.
   href: https://aka.ms/TrainingCertDeck
+- title: Caminho de aprendizagem de certificação
+  description: 'Recursos de treinamento recomendados para ajudá-lo a se preparar para os exames exigidos e obter sua certificação.'
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWH8MJ
 - title: Exam Replay
   description: Veja duas grandes ofertas para ajudar a aumentar suas chances de sucesso.
   href: ../deals.md

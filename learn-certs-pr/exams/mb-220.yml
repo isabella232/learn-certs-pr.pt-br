@@ -6,7 +6,7 @@ metadata:
 uid: exam.mb-220
 displayName: MB-220
 summary: |-
-  <div><strong> O conteúdo deste exame será atualizado em 9 de julho de 2021. Faça download do documento de habilidade medida abaixo para ver o que mudará. </strong><br/><br/></div>
+  <div><font color='red'><strong> O conteúdo deste exame foi atualizado em 9 de julho de 2021. Faça download do documento de habilidades avaliadas abaixo para ver o que mudou. </strong></font><br/><br/></div>
   
   Os candidatos a este exame são Consultores Funcionais da Dynamics 365 Marketing. Os candidatos são responsáveis pela implementação de soluções que atraiam e convertam leads, construam o conhecimento da marca, normalizem o envio de mensagens omnichannel, e forneçam insights de marketing.
   
@@ -23,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 9 de julho de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
+- O conteúdo deste exame foi atualizado em 9 de julho de 2021. Faça download do esboço de habilidades do exame abaixo para ver o que mudou.
 - Configurar aplicativos de marketing (20-25%)
 - Gerenciar segmentos e listas (10-15%)
 - Criar e gerenciar formulários e páginas de marketing (10-15%)

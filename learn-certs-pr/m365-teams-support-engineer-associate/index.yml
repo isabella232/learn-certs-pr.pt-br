@@ -2,16 +2,14 @@
 title: 'Microsoft 365 Certified: Teams Support Engineer Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Support Engineer Associate'
-  description: Este exame estará disponível por volta de 8 de julho de 2021. Os candidatos a este exame são engenheiros de suporte que oferecem suporte a ambientes do Microsoft Teams, solucionar problemas de implantações, ajustar o desempenho, coletar e analisar dados de registro e telemetria e gerenciar ambientes do Teams.
+  description: Os candidatos a este exame são engenheiros de suporte que oferecem suporte a ambientes do Microsoft Teams, solucionar problemas de implantações, ajustar o desempenho, coletar e analisar dados de registro e telemetria e gerenciar ambientes do Teams.
 uid: certification.m365-teams-support-engineer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   Os candidatos a este exame são engenheiros de suporte que oferecem suporte a ambientes do Microsoft Teams, solucionam problemas de implantações, ajustam o desempenho, coletam e analisam dados de registro e telemetria e gerenciam ambientes do Teams.
 
   Os candidatos devem ter uma exposição significativa em comunicações unificadas e experiência prática com o Microsoft Teams. Além disso, os candidatos devem ter conhecimento de rede dos fundamentos do Azure, telefonia, PowerShell, tecnologias de armazenamento de dados, APIs, segurança de aplicativos, autenticação e autorização, segurança e informações de conformidade, depuração, ajuste de desempenho e monitoramento.
-
-  <div><br/><br/><font color='red'><strong>Nota&#58; O percurso de aprendizagem para este exame estará disponível em 30 de junho de 2021, e o exame estará disponível em 8 de julho de 2021. </strong></font> </div>
-subTitle: Este exame estará disponível por volta de 8 de julho de 2021. Os candidatos a este exame são engenheiros de suporte que oferecem suporte a ambientes do Microsoft Teams, solucionar problemas de implantações, ajustar o desempenho, coletar e analisar dados de registro e telemetria e gerenciar ambientes do Teams.
+subTitle: Os candidatos a este exame são engenheiros de suporte que oferecem suporte a ambientes do Microsoft Teams, solucionar problemas de implantações, ajustar o desempenho, coletar e analisar dados de registro e telemetria e gerenciar ambientes do Teams.
 levels:
 - intermediate
 skills:
