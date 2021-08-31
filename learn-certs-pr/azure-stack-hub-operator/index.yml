@@ -15,7 +15,7 @@ summary: |-
   Os candidatos a esta certificação devem ter experiência significativa gerenciando e operando ambientes do Azure Stack Hub. Eles devem ter uma forte compreensão do Azure e também algum conhecimento de virtualização, networking e gestão de identidade. Eles precisam entender como que o Azure Stack Hub permite processos de DevOps e o modelo de desenvolvimento híbrido.
 subTitle: "Os candidatos à certificação da Azure Stack Hub Operator Associate são administradores do Azure ou operadores do Azure Stack Hub que fornecem serviços em cloud para usuários finais ou clientes de dentro da própria central de dados usando o Azure Stack Hub."
 levels:
-- advanced
+- intermediate
 skills:
 - Fornecer serviços
 - Implementar a integração da central de dados

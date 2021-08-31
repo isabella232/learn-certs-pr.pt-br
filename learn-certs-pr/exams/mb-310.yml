@@ -6,9 +6,7 @@ metadata:
 uid: exam.mb-310
 displayName: MB-310
 summary: |-
-  <div>
-  <div><strong>O conteúdo deste exame foi atualizado em 16 de Outubro de 2020. Por favor, faça download do documento de avaliação de competências abaixo para ver o que mudou.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong> O conteúdo deste exame será atualizado em 27 de agosto de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>
 
   Os candidatos a este exame são Consultores Funcionais que analisam os requisitos empresariais e traduzem esses requisitos em processos e soluções empresariais plenamente realizados que implementam as melhores práticas da indústria. Os candidatos servem como um recurso chave na implementação e configuração de candidaturas para satisfazer os requisitos empresariais.
 
@@ -22,7 +20,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 16 de Outubro de 2020. Por favor, faça download do esquema de competências do exame abaixo para ver o que mudou.
+- O conteúdo deste exame será atualizado em 27 de agosto de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
 - Criar e configurar a gestão financeira (50-55%)
 - Implementar e gerir as contas a pagar e as despesas (10-15%)
 - Implementar contas a receber, crédito, cobranças e reconhecimento de receitas (20-25%)

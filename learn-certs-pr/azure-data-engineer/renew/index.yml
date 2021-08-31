@@ -13,6 +13,9 @@ summary: |-
 skills:
 - Ingestão em escala de petabyte com Azure Data Factory
 - Realizar a transformação sem código em escala com o Azure Data Factory
+- Integrar dados com Azure Data Factory
+- Projetar um armazém de dados com o Azure Synapse Analytics
+- Importar dados para o Azure Synapse Analytics usando PolyBase
 examsPassed:
 - dp-200, dp-201 ou dp-203
 studyGuideDescription: 'Use esta coleção de módulos de aprendizagem para ajudá-lo a se preparar para a Certificação Microsoft: Avaliação de renovação para Azure Data Engineer Associate.'

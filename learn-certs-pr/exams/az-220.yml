@@ -6,15 +6,11 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div>
-  <div><font color='red'><strong>O conteúdo deste exame foi atualizado em 25 de maio de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudou.</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong> O conteúdo deste exame foi atualizado em 26 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudou. </strong></font><br/><br/></div>
 
-  O Desenvolvedor do Azure IoT implementa a configuração e executa tarefas de codificação necessárias para criar e manter a cloud e as porções de borda de uma solução de IoT. Além de configurar e manter os dispositivos usando serviços em cloud, o Desenvolvedor da IoT também configura os dispositivos físicos. O Desenvolvedor de IoT é responsável por manter e solucionar problemas da configuração dos dispositivos ao longo do ciclo de vida.
+  Os candidatos a este exame devem ter experiência no assunto, implementando as tarefas de configuração e codificação necessárias para criar e manter a cloud e as partes de edge de uma solução IoT.
 
-  O Desenvolvedor de IoT implementa especificações de design para soluções de IoT, incluindo topologia de dispositivos, conectividade, diagnóstico e monitoramento e segurança. O Desenvolvedor de IoT desenvolve e implanta módulos e configura a rede de dispositivos para a parte da solução IoT Edge. O IoT Developer implementa projetos de soluções para gerenciar pipelines de dados, incluindo monitoramento e transformação de dados no que se refere à IoT. O Desenvolvedor de IoT trabalha com o Arquiteto do Azure IoT, engenheiros de dados e outras partes interessadas para garantir uma integração de negócios bem-sucedida.
-
-  Os desenvolvedores de IoT devem ter uma compreensão geral dos tipos de dispositivos e serviços do Azure, incluindo opções de armazenamento de dados, análise de dados, processamento de dados, AI e outras opções de Plataforma como Serviço. Os desenvolvedores de IoT devem ser capazes de programar em pelo menos um idioma suportado pelo Azure IoT SDK.
+  Os candidatos a este exame devem ter uma compreensão geral dos tipos de dispositivos e Azure services, incluindo opções de armazenamento de dados, análise de dados, processamento de dados, AI e outras opções de plataforma como serviço (PaaS). Eles devem ser capazes de programar em pelo menos uma linguagem compatível com o kit de desenvolvimento de software Azure IoT (com suporte para SDK).
 subTitle: 'Este exame avalia sua capacidade de configurar a infraestrutura de soluções de IoT; provisão e gerenciamento de dispositivos; implementar IoT Edge; processar e gerenciar dados; monitorar, solucionar problemas e otimizar soluções de IoT; e implementar segurança.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
@@ -28,7 +24,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 25 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que mudou.
+- O conteúdo deste exame foi atualizado em 26 de julho de 2021. Faça download do esboço de habilidades do exame abaixo para ver o que mudou.
 - Configurar a infraestrutura de soluções de IoT (10-15%)
 - Provisão e gerenciamento de dispositivos (15-20%)
 - Implementar IoT Edge (15-20%)

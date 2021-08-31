@@ -6,29 +6,30 @@ metadata:
 uid: exam.mb-330
 displayName: MB-330
 summary: |-
-  <div><font color='red'><strong> O conteúdo deste exame será atualizado em 26 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>
+  <div><font color='red'><strong> O conteúdo deste exame foi atualizado em 26 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudou. </strong></font><br/><br/></div>
 
   Os candidatos a este exame analisam os requisitos empresariais e traduzem esses requisitos em processos e soluções empresariais plenamente realizados que implementam as melhores práticas da indústria. Os candidatos servem como um recurso chave na implementação e configuração de candidaturas para satisfazer os requisitos empresariais.
 
-  Os candidatos a este exame têm uma compreensão fundamental dos princípios contabilísticos e operações financeiras das empresas, serviço ao cliente, serviço de campo, produção, retalho, e conceitos de gestão da cadeia de fornecimento. São tipicamente especializados em um ou mais conjuntos de aplicativos financeiras e operacionais, incluindo finanças, produção e gestão da cadeia de abastecimento.
+  Os candidatos a este exame têm uma compreensão fundamental dos princípios contábeis e das operações financeiras de negócios, atendimento ao cliente, serviço de campo, manufatura, varejo e conceitos de gerenciamento da cadeia de suprimentos. Eles normalmente se especializam em um ou mais conjuntos de recursos de aplicativos do Finance and Operations, incluindo finanças, manufatura e gerenciamento da cadeia de suprimentos.
 
   Os candidatos devem ter algum conhecimento das práticas de gestão da cadeia de suprimentos, incluindo aquisição, comércio, logística, gestão de armazém, e gerenciamento de transporte.
-subTitle: 'Este exame mede a sua capacidade em realizar as seguintes tarefas técnicas: implementar a gestão de informação sobre produtos; implementar a gestão de inventário; implementar e gerir processos da cadeia de fornecimento; implementar a gestão de armazém e transporte; e implementar o planeamento mestre.'
+subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: implementar o gerenciamento de informações do produto; implementar gerenciamento de estoque; implementar e gerenciar processos da cadeia de suprimentos; implementar gerenciamento de armazenamento e transporte; e implementar a otimização do planejamento.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
 practiceTestUrl: https://in.mindhub.com/mb-330-microsoft-dynamics-365-supply-chain-microsoft-official-practice-test/p/MU-MB-330?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-330&examname=Exam%20MB-330:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Supply%20Chain%20Management&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-330
 locales:
 - en
+- ja
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 26 de julho de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
-- Implementar gerenciamento de informações do produto (20-25%)
+- O conteúdo deste exame foi atualizado em 26 de julho de 2021. Faça download do esboço de habilidades do exame abaixo para ver o que mudou.
+- Implementar gerenciamento de informações do produto (25-30%)
 - Implementar gerenciamento de estoque (15-20%)
-- Implementar e gerenciar processos da cadeia de suprimentos (15-20%)
-- Implementar o gerenciamento de warehouse e gestão de transportes e executar processos de negócios (20-25%)
-- Implementar o planeamento principal (15-20%)
+- Implementar e gerir processos de Supply Chain(15-20%)
+- Implementar a gestão de armazém e gestão de transporte(20-25%)
+- Implementar Otimização de Planejamento (15-20%)
 roles:
 - functional-consultant
 products:
