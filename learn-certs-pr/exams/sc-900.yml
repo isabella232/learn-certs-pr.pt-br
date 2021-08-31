@@ -6,7 +6,7 @@ metadata:
 uid: exam.sc-900
 displayName: SC-900
 summary: |-
-  <div><font color='red'><strong> O conteúdo deste exame será atualizado em 26 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>
+  <div><font color='red'><strong> O conteúdo deste exame foi atualizado em 26 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudou. </strong></font><br/><br/></div>
   
   Este exame é direcionado para aqueles que procuram se familiarizar com os fundamentos de segurança, conformidade e identidade (SCI) em todos os serviços da Microsoft baseados em cloud e relacionados.
   
@@ -27,19 +27,22 @@ locales:
 - ja
 - zh-cn
 - ko
-- nl
 - fr
 - es
 - pt-br
 - ru
 - ar-sa
+- id-id
+- de
+- zh-tw
+- it
 levels:
 - beginner
 skills:
-- O conteúdo deste exame será atualizado em 26 de julho de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
-- Descrever os conceitos de segurança, conformidade e identidade (5-10%) 
-- Descrever os recursos das soluções de gerenciamento de identidade e acesso da Microsoft (25-30%)
-- Descrever os recursos das soluções de segurança da Microsoft (30-35%) 
+- O conteúdo deste exame foi atualizado em 26 de julho de 2021. Faça download do esboço de habilidades do exame abaixo para ver o que mudou.
+- Descrever os conceitos de segurança, conformidade e identidade (10-15%) 
+- Descrever os recursos das soluções de gerenciamento de identidade e acesso da Microsoft (30-35%)
+- Descrever os recursos das soluções de segurança da Microsoft (35-40%)
 - Descrever os recursos das soluções de conformidade da Microsoft (25-30%)
 roles:
 - business-user

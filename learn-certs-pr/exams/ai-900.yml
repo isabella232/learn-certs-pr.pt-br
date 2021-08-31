@@ -36,6 +36,12 @@ locales:
 - de
 - fr
 - es
+- pt-br
+- ru
+- id-id
+- ar-sa
+- zh-tw
+- it
 levels:
 - beginner
 skills:

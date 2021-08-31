@@ -6,11 +6,11 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><font color='red'><strong> O conteúdo deste exame será atualizado em 29 de julho de 2021. Faça download do documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>
+  <div><font color='red'><strong> O conteúdo deste exame foi atualizado em 29 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>
   
   Os candidatos a esse exame são os Microsoft 365 Enterprise Administrators que participam da avaliação, planejamento, migração, implantação e gerenciamento dos serviços do Microsoft 365. Eles executam tarefas de gerenciamento de locatários do Microsoft 365 para uma empresa, incluindo suas identidades, segurança, conformidade e tecnologias de suporte.
   
-  Os candidatos têm um conhecimento prático das cargas de trabalho do Microsoft 365 e devem ter sido administradores de pelo menos uma carga de trabalho do Microsoft 365 (Exchange, SharePoint, Skype for Business, Windows como Serviço). Os candidatos também têm um conhecimento prático de redes, administração de servidores e fundamentos de TI, como DNS, Active Directory e PowerShell.
+  Os candidatos têm conhecimento prático das Microsoft 365 workloads e devem ser administradores de pelo menos implantação de Exchange, SharePoint, Teams, Windows 10. Os candidatos também têm conhecimento prático de rede, administração de servidor e fundamentos de IT, tais como DNS, Active Directory e PowerShell.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: implementar serviços de dispositivos atualizados, implementar o gerenciamento de segurança e controle de ameaças do Microsoft 365 e gerenciar a governança e conformidade do Microsoft 365.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHZ
@@ -22,7 +22,7 @@ locales:
 levels:
 - advanced
 skills:
-- O conteúdo deste exame será atualizado em 29 de julho de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que será alterado.
+- O conteúdo deste exame foi atualizado em 29 de julho de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que será alterado.
 - Implementar serviços de dispositivos modernos (40-45%)
 - Implementar o gerenciamento de segurança e ameaças da Microsoft 365 (20-25%)
 - Gerenciar a governança e conformidade do Microsoft 365 (35-40%)

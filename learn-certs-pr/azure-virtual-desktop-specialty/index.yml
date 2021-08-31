@@ -50,6 +50,8 @@ products:
 - windows-virtual-desktop
 courses:
 - uid: course.az-140t00
+paths:
+- uid: learn-m365.windows-virtual-desktop
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFTM
 exams:
 - uid: exam.az-140

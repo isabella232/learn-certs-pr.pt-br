@@ -6,9 +6,7 @@ metadata:
 uid: exam.mb-300
 displayName: MB-300
 summary: |-
-  <div>
-  <div><font color='red'><strong>O conteúdo deste exame foi atualizado em 16 de Outubro de 2020. Por favor, faça download do documento de avaliação de competências abaixo para ver o que mudou.</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong> O conteúdo deste exame será atualizado em 09 de agosto de 2021. Faça download do documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>
   
   Os candidatos a este exame analisam os requisitos empresariais e traduzem esses requisitos em processos e soluções empresariais plenamente realizados que implementam as melhores práticas da indústria. Os candidatos servem como um recurso chave na implementação e configuração de candidaturas para satisfazer os requisitos empresariais.
   <br/>
@@ -27,7 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 16 de Outubro de 2020. Por favor, faça download do esquema de competências do exame abaixo para ver o que mudou.
+- O conteúdo deste exame será atualizado em 09 de agosto de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que será alterado.
 - Utilizar ferramentas comuns de funcionalidade e implementação (15-20%)
 - Configurar segurança, processos e opções (30-35%)
 - Gerir dados financeiros e operacionais (25-30%)

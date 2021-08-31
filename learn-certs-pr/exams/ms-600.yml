@@ -6,13 +6,13 @@ metadata:
 uid: exam.ms-600
 displayName: MS-600
 summary: |-
-  <div><font color='red'><strong> O conteúdo deste exame será atualizado em 26 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>
+  <div><font color='red'><strong> O conteúdo deste exame foi atualizado em 26 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudou. </strong></font><br/><br/></div>
   
   Os candidatos a este exame são os desenvolvedores do Microsoft 365 que projetam, constroem, testam e mantêm aplicativos e soluções otimizadas para as necessidades de produtividade e colaboração das organizações por meio da plataforma Microsoft 365.
   
-  Os candidatos a este exame são proficientes em Microsoft identity e Microsoft Graph. Eles têm conhecimento geral sobre elementos de interface do usuário (incluindo Adaptive Cards e Office UI Fabric (Fluent UI)), pontos de integração (incluindo Microsoft Teams, Office Add-ins, SharePoint Framework, Mensagens Acionáveis) e determinação de alvos de plataforma de carga de trabalho.
-  
-  Os candidatos devem ter experiência no desenvolvimento de soluções no Microsoft Teams, Suplementos do Office ou estrutura do SharePoint através de todas as fases de desenvolvimento de software. Eles devem ter entendimento básico de REST APIs, JSON, OAuth2, OData, OpenID Connect, Identidades Microsoft (incluindo contas do Azure AD e da Microsoft), Azure AD B2C e conceitos de permissão/consentimento.
+  Os candidatos a este exame são proficientes na Microsoft identity e Microsoft Graph. Eles têm conhecimento geral sobre os elementos da UI (incluindo Adaptive Cards e Fluent UI (Office UI Fabric), pontos de integração (incluindo aplicativos do Microsoft Teams, Office Add-ins, SharePoint Framework, mensagens acionáveis) e determinação dos destinos da plataforma de carga de trabalho.
+
+  Os candidatos devem ter experiência no desenvolvimento de soluções no Microsoft Teams, Office ou SharePoint em todas as fases de desenvolvimento de software. Eles devem ter um conhecimento básico de REST APIs, JSON, OAuth2, OData, OpenID Connect, Microsoft identities (incluindo Azure AD e contas da Microsoft), Azure AD B2C e conceitos de permissão/consentimento.
 subTitle: 'Este teste mede a sua capacidade de realizar as seguintes tarefas técnicas: implementar o Microsoft Identity, desenvolver aplicativos com o Microsoft Graph, expandir e personalizar o SharePoint e expandir o Teams e o Office.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43CZn
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 26 de julho de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
+- O conteúdo deste exame foi atualizado em 26 de julho de 2021. Faça download do esboço de habilidades do exame abaixo para ver o que mudou.
 - Implementar o Microsoft Identity (20-25%)
 - Criar aplicativos com o Microsoft Graph (15-20%)
 - Estender e personalizar o SharePoint (15-20%)
