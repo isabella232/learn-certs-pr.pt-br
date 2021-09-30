@@ -13,12 +13,17 @@ subTitle: 'As certificações MTA são um excelente ponto de partida se você de
 levels:
 - beginner
 skills:
-- nenhuma
+- Compreender as configurações do dispositivo 
+- Compreender acesso aos dados e gerenciamento 
+- Compreender a segurança do dispositivo 
+- Compreender os serviços da nuvem 
+- Compreender a mobilidade corporativa 
 roles:
 - administrator
 type: mta
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLp
 exams:
 - uid: exam.98-368
 resources:

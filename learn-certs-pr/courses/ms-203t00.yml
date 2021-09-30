@@ -28,7 +28,7 @@ levels:
 roles:
 - administrator
 products:
-- m365
+- azure
 exams:
 - uid: exam.ms-203
 summary: |-
@@ -95,11 +95,11 @@ outlineSection: |-
 
 
   ### Módulo 3&#58; Gerenciando a proteção ativa de mensagens
-  Neste módulo, você aprenderá sobre os recursos e funcionalidades do Microsoft Exchange Online Protection (EOP). Você também aprenderá a planejar o encaminhamento de mensagens para este serviço, que fornece políticas antimalware e antispam para proteger sua organização contra spam e malware e contra violações da política de mensagens. Você analisará a proteção antimalware e antispam fornecida pelo Exchange Server e Online Protection e aprenderá a configurar filtros, políticas e configurações de spam e malware para fornecer proteção aos seus usuários. Você concluirá o módulo examinando a proteção avançada contra ameaças (ATP) e como ela estende a proteção fornecida pelo EOP ao filtrar ataques direcionados que poderiam passar pela linha de defesas do EOP, incluindo ameaças avançadas, como ataques de dia zero em anexos de e-mail e documentos do Office e proteção de hora de clique contra URLs mal-intencionados. Você aprenderá como o Microsoft 365 ATP protege os usuários contra ameaças avançadas por meio de recursos como anexos seguros e links seguros e como gera relatórios que fornecem aos administradores informações sobre ataques direcionados a seus locatário por e-mail.
+  Neste módulo, você aprenderá sobre os recursos e a funcionalidade do Microsoft Exchange Online Protection (EOP). Você também aprenderá como planejar o roteamento de mensagens para este serviço, que fornece políticas anti-malware e anti-spam que protegem sua organização contra spam e malware e protege sua organização de violações de políticas de mensagens. Em seguida, você analisará a proteção antimalware e antispam que o Exchange Server e o Online Protection fornecem e aprenderá a configurar filtros, políticas e configurações de SPAM e malware para fornecer proteção aos seus usuários. Você concluirá o módulo examinando o Defender paraOffice 365 e como ele estende a proteção fornecida pelo EOP filtrando ataques direcionados que podem passar pela linha de defesas do EOP incluindo ameaças avançadas, como ataques de dia zero em anexos de e-mail e documentos e tempo do Office e proteção de tempo de clique contra URLs maliciosos. Você aprenderá como o Defender for Office 365 protege os usuários de ameaças avançadas por meio de recursos como anexos e links seguros, e como ele gera relatórios que fornecem aos administradores informações sobre ataques direcionados a seus locatários por e-mail.
   #### Lições
   - Planejando a proteção ativa de mensagens
   - Gerenciando políticas antimalware e antispam
-  - Gerenciando a proteção avançada contra ameaças
+  - Gerenciar Proteção Avançada contra Ameaças com Defender para Office 365
 
 
   #### Laboratório&#58; Gerenciando a proteção ativa de mensagens
@@ -114,10 +114,11 @@ outlineSection: |-
   - Usar recursos adicionais para filtragem de spam de saída e quarentena
   - Implementar recursos de proteção contra phishing e spoofing
   - Criar regras de transporte para requisitos personalizados
-  - Descrever os recursos de proteção avançada contra ameaças
+  - Descrever os recursos do Microsoft Defender para Office 365
   - Descrever a proteção fornecida pelas políticas de segurança de anexos e de links
   - Compreender os recursos Spoof Intelligence
   - Compreender o funcionamento das políticas antiphishing de ATP
+  - Compreender como usar o Analisador de Configuração
 
 
   ### Módulo 4&#58; Gerenciando a conformidade
@@ -161,7 +162,7 @@ outlineSection: |-
   - Configurar políticas e limitação de carga de trabalho
   - Configurar definições de cotas
   - Configurar a integração do Exchange Server e do Skype for Business
-  - Implementar suplementos do Office 365
+  - Implantar aplicativos integrados do Office 365
   - Fornecer uma visão geral dos recursos de compartilhamento de delegação federada do Exchange
   - Descrever componentes de compartilhamento federado
   - Explicar as considerações para criar e implementar relações e certificados de confiança de federação
@@ -229,7 +230,7 @@ outlineSection: |-
   - Descrever os diferentes objetos de destinatário no Exchange
   - Descrever as caixas de correio de recursos
   - Descrever as caixas de correio compartilhadas
-  - Descrever as caixas de correio vinculadas e caixas de correio locais
+  - Descrever caixas de correio vinculadas
   - Descrever os grupos
   - Criar e gerenciar configurações de caixa de correio
   - Criar e gerenciar caixas de correio compartilhadas e de recursos
@@ -291,7 +292,7 @@ outlineSection: |-
 
 
   ### Módulo 11&#58; Realizando migrações de caixa de correio
-  Este módulo examina as opções disponíveis para a migração de e-mails para o Exchange Online, como executar uma migração ou usar o FastTrack para mover caixas de correio dos servidores de e-mail existentes ao Exchange Online. Este módulo resume as opções de migração e coexistência e recomenda quando usar uma ou outra opção. O módulo examina os requisitos para executar uma migração IMAP, as opções de migração disponíveis e as etapas executadas durante uma migração. O módulo examina como planejar e executar uma migração de transição e em etapas. Ele compara cada uma dessas duas abordagens de migração e você aprenderá sobre os requisitos, as atividades de planejamento e o processo de migração de cada opção. O módulo conclui examinando importantes tarefas de migração adicionais, como a migração de um arquivo PST e as considerações para uma migração de pasta pública. 
+  Este módulo examina as opções que estão disponíveis para migrar email para o Exchange Online como executar uma migração ou usar o FastTrack para mover caixas de correio de seus servidores de email existentes para o Exchange Online. Este módulo resume as opções de migração e coexistência e recomenda quando usar qual opção. O módulo examina os requisitos para a execução de uma migração IMAP as opções de migração disponíveis e as etapas executadas durante a migração. O módulo então examina como planejar e executar uma migração de transição e em etapas. Ele compara cada uma dessas duas abordagens de migração e você aprenderá sobre os requisitos, atividades de planejamento e processo de migração para cada opção. O módulo conclui examinando importantes tarefas adicionais de migração, como migrações cruzadas de inquilinos, migração de um arquivo PST e as considerações para uma migração de pasta pública.
   #### Lições
   - Planejando migrações de caixa de correio
   - Executando migrações IMAP
@@ -307,6 +308,7 @@ outlineSection: |-
   - Realizar a migração e mover as caixas de correio com uma migração de transição ou em etapas
   - Importar arquivos PST para caixas de correio do Exchange Online
   - Migrar pastas públicas para o Exchange Online
+  - Executar uma migração entre inquilinos
 
 
   ### Módulo 12&#58; Implementando e diagnosticado problemas de um ambiente híbrido

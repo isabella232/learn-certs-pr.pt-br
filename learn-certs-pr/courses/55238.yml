@@ -1,0 +1,336 @@
+### YamlMime:Course
+title: SharePoint Online for Administrators
+metadata:
+  title: 'Course 55238-B: SharePoint Online for Administrators'
+  description: 'Course 55238-B: SharePoint Online for Administrators'
+uid: course.55238
+courseNumber: '55238-B'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Entender a arquitetura do SharePoint Online
+- skill: Ter conhecimento de todos os componentes do SharePoint Online
+- skill: Ter experiência na configuração dos componentes do SharePoint Online
+- skill: Ter experiência na configuração das opções
+- skill: Trabalhar com Coleta de Sites e opções de armazenamento
+- skill: Gerenciar perfis de usuários e perfis sociais
+- skill: Entender e configurar conexões de dados no SharePoint Online
+- skill: Construir uma estrutura taxonômica
+- skill: Entender e configurar a busca no SharePoint Online
+- skill: Configurar e implantar aplicativos
+- skill: Entender e definir gerenciamento de conteúdo empresarial e segurança e conformidade
+- skill: Configurar opções e recursos adicionais no SharePoint Online, tais como Gerenciamento de Direitos de Informação
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- office-sp-server
+summary: |-
+  Este curso apresentará o público ao SharePoint Online Administration no Office 365 e explicará e demonstrará as opções de configuração para o SharePoint Online. O curso é apropriado para administradores existentes do SharePoint no local e novos administradores para o Office 365 que precisam entender como configurar corretamente o SharePoint Online para sua empresa. O curso também ajudará os administradores do SharePoint no local a entender as diferenças entre o SharePoint no local e o SharePoint Online.
+
+  #### Perfil do público
+  Este curso foi projetado para Administradores que precisam configurar, configurar e gerenciar o SharePoint Online como parte de sua Office 365 Administration.
+outlineSection: |-
+  ### Módulo 1&#58; Introdução ao Office 365 e SharePoint Online
+  Este primeiro módulo o levará em um tour pelo Office 365 e SharePoint Online e garantirá que você esteja familiarizado com todos os componentes que serão cobertos em módulos posteriores. Você entenderá como funciona o gerenciamento de identidade no Office 365 e também as ferramentas necessárias para gerenciar o ambiente. Você também aprenderá sobre as opções de migração para o SharePoint Online e a construção de cenários híbridos.
+  #### Lições
+  - Introdução ao Office 365 Administration Center
+  - Configurar Relatórios
+  - Acesso às ferramentas de gerenciamento do SharePoint
+  - Acesso à segurança e conformidade
+  - Gerenciamento do Office 365 e do SharePoint Online com o PowerShell
+  - Comparação do SharePoint com o SharePoint Online
+  - Identidade do usuário no Office 365 e no SharePoint Online
+  - Gerenciar domínios do usuário
+  - Construção de cenários híbridos
+  - OneDrive e redirecionamento de Sites
+  - Redirecionamento de Yammer
+  - Entender a busca híbrida
+  - Conectividade híbrida de dados comerciais
+  - Taxonomia híbrida
+
+
+  #### Lab &#58; Configurar o ambiente do Office 365 
+  - Criar uma nova conta Outlook.com
+  - Criar uma nova versão de avaliação do Office 365
+  - Instalar o Azure Active Directory PowerShell
+  - Instalar o SharePoint Online Management Shell
+  - Criar usuários de teste- Instalar o Office 2016 em seu cliente
+
+  Após completar este módulo, os alunos poderão&#58;
+  - Descrever os principais componentes do SharePoint Online
+  - Navegar no Office 365 e nos centros de administração do SharePoint
+  - Entender o gerenciamento de identidade
+  - Entender como gerenciar o ambiente no PowerShell
+  - Entender cenários híbridos
+
+  Módulo 2&#58; Trabalhar com Coleções de SitesEste módulo ajuda você a entender a topologia das coleções de sites e como criá-los e gerenciá-los. Você aprenderá como definir o controle e administração delegados, além de configurar opções de armazenamento e cotas para diferentes coleções de sites. Você aprenderá como configurar o acesso externo ao seu conteúdo e compartilhamento com identidades externas e finalmente como excluir e recuperar coleções de sites, incluindo o gerenciamento PowerShell.
+  #### Lições
+  - Introdução aos centros administrativos clássicos e modernos
+  - Criação de coleções de sites
+  - Definição de propriedade e segurança para coleções de sites
+  - Configuração do armazenamento
+  - Configuração do acesso externo às coleções de sites
+  - Recuperação de coleções de sites
+  - Configuração do compartilhamento externo
+  - Gerenciamento de coleções de sites com PowerShell
+
+
+  #### Lab &#58; Gerenciamento de Coleções de Sites
+  - Criar uma nova coleção de sites usando a UI
+  - Criar uma nova coleção de sites modernos
+  - Criar uma nova coleção de sites usando PowerShell
+  - Configurar cotas de armazenamento
+  - Configurar compartilhamento externo
+  - Restaurar uma coleção de sites
+  - Criar um site e distribuir conteúdo para laboratórios posteriores
+
+  Após completar este módulo, os alunos poderão&#58;
+  - Entender coleções de sites
+  - Gerenciar e delegar coleções de sites
+  - Configurar compartilhamento externo
+  - Excluir e restaurar coleções de sites
+  - Gerenciar coleções de sites com PowerShell 
+
+  ### Módulo 3&#58; Gerenciar Perfis de Usuário
+  Os perfis de usuário são uma parte fundamental de qualquer plataforma social e de colaboração e neste módulo você aprenderá como gerenciar as opções de perfil de usuário no SharePoint Online, incluindo a construção de propriedades de perfil personalizadas. Você também aprenderá como criar e configurar audiências para conteúdo direcionado e depois usar as audiências para o redirecionamento pessoal do site. Finalmente, você aprenderá como configurar as opções de busca e os trabalhos de limpeza para o serviço de perfil.
+  #### Lições
+  - Visão geral do serviço de perfil
+  - Definição de propriedades de perfil
+  - Mapear propriedades de perfil para uma loja de termos
+  - Criação de propriedades de perfil personalizadas
+  - Gerenciamento de públicos 
+  - Criação de públicos
+  - Gerenciamento de políticas de perfil de usuário
+  - Configuração de locais confiáveis do host do meu site
+  - Configuração de locais preferenciais do centro de busca
+  - Definição de níveis de permissão de acesso de leitura
+  - Configuração de opções de newsfeed
+  - Configuração de notificações por e-mail
+  - Configuração da limpeza do meu site
+
+
+  #### Lab &#58; Gerenciar o serviço de Perfil do Usuário
+  - Criar uma nova propriedade personalizada de perfil do usuário
+  - Criar uma propriedade personalizada mapeada para um termo de metadados
+  - Criar um público usando propriedades de perfil e conteúdo alvo
+  - Configurar as contas de limpeza do meu site
+
+  Após completar este módulo, os alunos poderão&#58;
+  - Entender o serviço de perfil no SharePoint Online
+  - Criar uma propriedade personalizada mapeada para um termo de detadados
+  - Definir políticas de perfil e controle de segurança
+  - Criar e gerenciar públicos
+  - Definir o gerenciamento dos meus sites quando um usuário meu site for excluído
+
+  ### Módulo 4&#58; Trabalhar com conexões de dados
+  Este módulo se concentra na construção e configuração de conexões de dados e no desafio do SharePoint de exibir dados que residem em outras fontes de dados e depois exibir esses dados em sites do SharePoint. Você aprenderá como aproveitar o PowerApps para o desenvolvimento e fluxo de formulários para construir processos de negócios junto com o Power Bi para exibir dados. O serviço de conectividade comercial é projetado para permitir que as conexões de dados sejam definidas a fim de exibir dados de outros locais, como o Azure SQL e, em seguida, permitir que os usuários adicionem web parts de dados sem a necessidade de entender a configuração da conexão de dados. Você também aprenderá a importância de usar o serviço de armazenamento seguro ao lado das conexões de dados comerciais para definir o acesso aos dados do armazenamento remoto de dados usando um único sinal ligado.
+  #### Lições
+  - Introdução às conexões de dados
+  - Visão geral do PowerApps, Flow e PowerBi
+  - Visão geral do serviço de conectividade empresarial
+  - Introdução aos arquivos de definição BDC
+  - Criação de arquivos de definição BDC
+  - Introdução ao serviço de armazenamento seguro
+  - Configuração do serviço de armazenamento seguro
+  - Criação das configurações do aplicativo de destino do armazenamento seguro
+  - Configuração das conexões aos serviços em cloud
+  - Configuração das conexões aos serviços no local
+  - Ferramentas para criar conexões de dados
+  - Criação de tipos de conteúdo externo
+  - Criação de listas externas usando dados externos
+
+
+  #### Lab &#58; Gerenciando o serviço de conectividade de dados comerciais
+  - Criar um novo formulário PowerApps
+  - Criar um novo Flow
+  - Criar um novo aplicativo de armazenamento seguro
+  - Criar uma nova conexão BCS BDC 
+  - Criar um tipo de conteúdo externo
+  - Criar uma nova lista externa para aproveitar os dados externos
+
+  Após completar este módulo, os alunos poderão&#58;
+  - Descrever as principais características das opções de conexão de dados no SharePoint Online
+  - Aprender a usar PowerApps, Flow e Power Bi
+  - Uma visão geral dos serviços de conectividade comercial
+  - Introdução ao Secure Store Service
+  - Compreender a arquitetura do BCS e Secure Store
+  - Aprender a construir arquivos de definição XML para uso no serviço BCS
+  - Configurar um único sinal nas credenciais para fontes de dados externas
+  - Construa tipos de conteúdo externo
+  - Criar listas externas 
+
+  ### Módulo 5&#58; Gerenciar a Loja de Termos
+  O termo loja é um componente chave do Gerenciamento de Conteúdo Empresarial e capacidade de busca e este módulo abrangerá a criação de uma loja de termos até a construção de conjuntos de termos e sua aplicação ao conteúdo. Os termos também podem fazer parte de uma estrutura de perfil social e você aprenderá como injetar termos através da UI e via PowerShell.
+  #### Lições
+  - Visão geral da loja de termos
+  - Entendendo termos e gerenciamento do ciclo de vida
+  - Criar grupos de termos
+  - Criar a loja de termos
+  - Criar conjuntos de termos na UI
+  - Criar conjuntos de termos via importação via CSV
+  - Criar termos na IU
+  - Criar termos via PowerShell e CSOM
+  - Gerenciar termos com sinônimos e pinning
+  - Configurar administração delegada
+
+
+  #### Lab &#58; Criar e Gerenciar a Loja de Termos
+  - Criar um Grupo de Termos e Conjunto de Termos
+  - Gerenciar Termos com PowerShell e CSOM
+  - Gerenciar Termos com sinônimos e pinning
+  - Configurar a administração delegada
+
+  Após completar este módulo, os alunos poderão&#58;
+  - Compreender o valor do termo armazenar em dados do SharePoint e gerenciamento do ciclo de vida
+  - Use termos para permitir uma melhor busca e localização
+  - Construa termos e termos
+  - Gerenciar termos através de sinônimos e pinning
+  - Criar termos via PowerShell
+  - Delegar direitos de administração
+  - Adicionar termos ao conteúdo e perfis
+
+
+  ### Módulo 6&#58; Configurar busca
+  Busca é uma das ferramentas mais importantes disponíveis para um usuário no SharePoint, pois permite que os dados sejam encontrados e direcionados de várias maneiras. Este módulo mostrará quais opções estão disponíveis para estender o serviço de busca com poderosas ferramentas de otimização de busca, tais como fontes de resultados e propriedades gerenciadas para permitir que web parts de busca sejam usadas como parte de uma implantação de conteúdo direcionado. Você também aprenderá sobre a exportação da configuração da busca e sua importação para outras coleções de sites ou mesmo para outros locatários.
+  #### Lições
+  - Uma Introdução ao serviço de busca
+  - Experiência de busca clássica versus moderna
+  - Entendendo propriedades gerenciadas
+  - Criar propriedades gerenciadas
+  - Gerenciar páginas autorizadas
+  - Entender fontes de resultados
+  - Criar e configurar fontes de resultados
+  - Entender regras de consulta
+  - Promover resultados através de regras de consulta
+  - Remover resultados de pesquisa do índice
+  - Exportar configurações de pesquisa
+  - Importar configurações de pesquisa 
+
+  #### Lab &#58; Gerenciar e configurar o serviço de busca
+  - Criar uma consulta em moderno e clássico
+  - Criar uma nova fonte de resultados
+  - Exportar a configuração da busca
+
+  Após completar este módulo, os alunos poderão&#58;
+  - Entender o serviço de busca para modelos clássicos e modernos
+  - Configurar propriedades gerenciadas e ampliar o esquema de busca
+  - Definir páginas autorizadas
+  - Entender fontes de resultados
+  - Configurar novas fontes de resultados
+  - Aplicar fontes de resultados às consultas de busca
+  - Entender regras de consulta
+  - Promover resultados através de regras de consulta
+  - Remover resultados de busca do índice
+  - Exportar configurações de busca
+  - Importar configurações de busca
+
+
+  Módulo 7&#58; Configurar aplicativosEste módulo se concentrará na configuração e implantação do serviço de gerenciamento de aplicativos no SharePoint Online. Os aplicativos são uma ótima maneira de adicionar recursos e funcionalidades ao SharePoint e os aplicativos podem ser implantados de diversas maneiras no SharePoint Online, inclusive através da loja e do catálogo de aplicativos. Você aprenderá como configurar aplicativos de ambos os ambientes, bem como implantar um aplicativo comercial completo de um terceiro.
+  #### Lições
+  - Uma introdução aos aplicativos
+  - Entendendo o catálogo de aplicativos
+  - Construindo o catálogo de aplicativos
+  - Adicionar aplicativos ao catálogo
+  - Adicionar aplicativos aos sites do SharePoint
+  - Adicionar aplicativos através da loja do mercado
+  - Gerenciar licenciamento de aplicativos
+  - Configurar configurações de acesso à loja
+  - Monitorar o uso do aplicativo
+
+
+  #### Lab &#58; Configurar aplicativos
+  - Criar e configurar um catálogo de aplicativos
+  - Adicionar um aplicativo da loja do Office 365
+  - Adicionar um aplicativo através do catálogo de aplicativos
+  - Adicionar um aplicativo Azure
+  - Monitorar e Gerenciar o uso do aplicativo
+
+  Após completar este módulo, os alunos poderão&#58;
+  - Compreender como os aplicativos funcionam no SharePoint Online
+  - Aprender as diferenças entre os aplicativos da loja e os aplicativos do catálogo
+  - Construir a coleção de sites do catálogo de aplicativos
+  - Implantar aplicativos no catálogo
+  - Adicionar aplicativos aos sites do SharePoint
+  - Compreender a diferença entre os aplicativos Azure e os aplicativos SharePoint
+  - Implantar um aplicativo Azure
+  - Compreender o licenciamento
+  - Configurar o acesso ao mercado da loja online
+  - Monitorar e gerenciar do uso do aplicativo
+
+  ### Módulo 8&#58; Gestão de Conteúdos Empresariais em SharePoint Online
+  Gestão de Conteúdos Empresariais (ECM) lida com o controle e gerenciamento de dados à medida que são criados e armazenados no SharePoint Online. Neste módulo você aprenderá sobre gerenciamento do ciclo de vida, gerenciamento de documentos e capacidades de prevenção contra perda de dados, eDiscovery e classificação e governança de dados no SharePoint Online. Você aprenderá como construir vários componentes para ajudar a gerenciar ECM, tais como centros de registros, centros de políticas e configurar políticas no centro de segurança e conformidade para configurar eDiscovery, etiquetas e prevenção contra perda de dados.
+  #### Lições
+  - Uma Introdução ao ECM no SharePoint Online
+  - Componentes do ECM
+  - Office 365 versus conformidade clássica
+  - Entender o gerenciamento de registros no local
+  - Configurar o gerenciamento de registros no local
+  - Entendendo o centro de registros
+  - Construir e configurar um centro de registros
+  - Entendendo o centro de políticas de conformidade
+  - Construir um centro de políticas de conformidade e configurar políticas
+  - Descubrir o centro de segurança e conformidade
+  - Configurar um centro de eDiscovery
+  - Construir um caso de eDiscovery
+  - Entender a prevenção de perda de dados
+  - Construir uma política e consulta de prevenção de perda de dados
+  - Trabalhar com classificação e governança de dados
+
+
+  #### Laboratório &#58; Configuração do ECM no SharePoint Online
+  - Configurar o Gerenciamento de Registros no local
+  - Criar um Centro de Registros
+  - Criar um caso de eDiscovery
+  - Configurar o DLP
+
+  Após completar este módulo, os alunos poderão&#58;
+  - Compreender os componentes do ECM no SharePoint Online
+  - Configurar o gerenciamento de registros no local
+  - Construir uma central de registros
+  - Enviar dados para uma central de registros com base nos valores de propriedade
+  - Descobrir o centro de segurança e conformidade
+  - Construir casos de eDiscovery
+  - Descobrir dados com base nos requisitos de conformidade
+  - Compreender a Data Loss Prevention (DLP)
+  - Compreender a governança e as etiquetas de dados
+  - Construir consultas e políticas de DLP
+  
+  ### Módulo 9&#58; Gerenciar opções para SharePoint Online
+  Há várias opções adicionais disponíveis para SharePoint Online que não estão configuradas em uma categoria específica. Este módulo cobrirá a configuração e as opções disponíveis no SharePoint e no Office 365 para estes componentes. Os componentes específicos podem incluir opções como gerenciamento OneDrive e opções de classificação do site até a habilitação e configuração do Gerenciamento de Direitos de Informação que permite opções adicionais de segurança nos itens do SharePoint. Finalmente, você entenderá a diferença e as razões para usar as opções de funcionalidades de lançamento antecipado para o Office 365 que podem afetar as funcionalidades do SharePoint para seus usuários.
+  #### Lições
+  - Configurar recursos OneDrive
+  - Configurar o uso do Yammer ou Newsfeeds
+  - Entender o Gerenciamento de Direitos de Informação
+  - Configurar o Gerenciamento de Direitos de Informação
+  - Definir as opções de classificação do site
+  - Entender as opções de lançamento antecipado para o Office 365
+  - Configurar as opções de lançamento antecipado para seu locatário do Office 365
+  - Gerenciar Controle de Acesso
+
+
+  #### Lab &#58; Configurar Opções para 
+  SharePoint Online
+  - Configurar opções OneDrive
+  - Definir as opções de criação do site
+  - Configurar o Gerenciamento de Direitos de Informação
+
+  Após completar este módulo, os alunos poderão&#58;
+  - Entender as opções disponíveis para o SharePoint Online no Office 365
+  - Configurar opções de recursos para OneDrive
+  - Entender as diferenças entre as opções Yammer e Newsfeed
+  - Entender o Gerenciamento de Direitos de Informação (IRM)
+  - Configurar o Gerenciamento de Direitos de Informação
+  - Habilitar IRM nas bibliotecas do SharePoint
+  - Aplicar políticas IRM aos itens do SharePoint
+  - Definir opções de classificação do site
+  - Entender a opção para habilitar recursos de liberação antecipada
+  - Habilitar recursos de liberação antecipada
+  - Entender opções de controle de acesso.
+
+  #### Leitura adicional
+  Não se aplica

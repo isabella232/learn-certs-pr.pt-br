@@ -7,7 +7,7 @@ uid: exam.dp-201
 displayName: DP-201
 summary: |-
   <div>
-  <div><font color='red'><strong> UMA NOVA VERSÃO DESTE EXAME, <a href='/learn/certifications/exams/dp-203'>DP-203</a>, ESTÁ DISPONÍVEL. Você poderá fazer este exame até que ele seja retirado em 31 de agosto de 2021. Observação&#58; os exames são retirados às 23h59, Horário Padrão Central PM. </strong></font><br/><br/></div>
+  <div><font color='red'><strong>ESTE EXAME FOI REFORMADO EM 31 DE AGOSTO DE 2021. Um exame de substituição, DP-203, está disponível. Para obter mais informações, visite <a href='/learn/certifications/exams/dp-203'>DP-203 </a>, página de detalhes do exame.</strong></font><br/><br/></div>
   <div><strong>O conteúdo deste exame foi atualizado em, 31 de julho de 2020. Baixe o documento Habilidades verificadas abaixo para ver o que mudou.</strong><br/><br/></div>
   </div>
   
@@ -20,7 +20,6 @@ subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas té
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
 practiceTestUrl: https://www.mindhub.com/p/MU-DP-201?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=DP-201&examname=Exam%20DP-201:%20Designing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-201
 locales:
 - en
 - ja
@@ -60,9 +59,6 @@ paths:
 - uid: learn.data-ai.implement-data-streaming-with-asa
 - uid: learn.data-ai.implement-sql-data-warehouse
 - uid: learn.wwl.data-engineer-azure-databricks
-relatedCertifications:
-- related:
-    uid: certification.azure-data-engineer
 resources:
 - title: Journey to certification
   description: Explore as etapas para obter a certificação Azure Data Engineer Associate e os recursos disponíveis para ajudá-lo a se preparar.

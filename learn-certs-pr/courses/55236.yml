@@ -1,0 +1,100 @@
+### YamlMime:Course
+title: Writing Reports with Report Builder and SSRS Level 3
+metadata:
+  title: 'Course 55236-A: Writing Reports with Report Builder and SSRS Level 3'
+  description: 'Course 55236-A: Writing Reports with Report Builder and SSRS Level 3'
+uid: course.55236
+courseNumber: '55236-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Usar formas para criar visualizações de relatórios personalizados aprimorados.
+- skill: Compreender o uso da programação Visual Basic em relatórios SSRS.
+- skill: Usar e suportar o código Visual Basic no esforço de relatórios SSRS.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  Neste curso de 1 dia, os alunos continuarão a aprender a escrever relatórios com o Microsoft® SQL Server® Report Builder e SSRS. O foco deste curso é melhorar as visualizações de relatórios personalizados e o uso da programação Visual Basic nos relatórios SSRS. Apoiar a programação Visual Basic em relatórios é um requisito normal no cenário atual de relatórios e este curso apresenta as informações necessárias utilizando discussões de grupo, planilhas de trabalho, práticas, demonstrações e atividades de laboratório. O Report Builder está disponível para todas as versões suportadas do Microsoft SQL Server.
+
+  #### Perfil do público
+  O principal público deste curso são pessoas experientes com Report Builder e SSRS. O público secundário para este curso são autores experientes de relatórios Report Designer (SSRS). Os participantes do curso podem ser analistas de negócios, analistas programadores, analistas de dados, administradores de banco de dados ou profissionais de IT. 
+prerequisitesSection: |-
+  Antes de participar deste curso, os alunos devem ter&#58;
+  - Familiaridade com Windows.
+  - Criação e navegação de pastas.
+  - Abertura de programas.
+  - Manipulação de windows.
+  - Cópia, colagem e formatação de textos.
+  - Salvar arquivos.
+  - Course 55128&#58; Writing Reports with Report Builder and SSRS Level 2
+  - Microsoft® Office Access 2013&#58; Level 1 ou ter experiência equivalente com conceitos básicos de banco de dados.
+outlineSection: |-
+  ### Módulo 1&#58; Criar visualizações melhoradas
+  Este módulo introduz técnicas de formatação de relatórios que criam visualizações melhoradas usando formas, retângulos, imagens e regiões de dados. Para suportar visualizações personalizadas e melhoradas de relatórios, este cursorequer uma revisão de propriedades específicas que suportam o controle dos itens exibidos em um relatório.
+  #### Lições
+  - A Importância das Formas em Relatórios
+  - Visualizações Melhoradas Usando o Retângulo
+  - Controle da Exibição de Itens de Relatórios
+  - Criar Pisos em uma Tablix
+
+
+  #### Laboratório &#58; Criar Visualizações Melhoradas
+  - Criar Pisos em um Relatório com Rectângulos
+  - Criar Pisos em uma Tablix com Caixas de Texto
+  - Criar Visualizações Melhoradas com Pisos em Caixa de Texto, Tablix Tiles, e Tablixes
+  Após completar este módulo, os alunos poderão&#58;
+  - Descrever as principais características, usos e abordagens para o uso de formas em relatórios.
+  - Ter uma compreensão mais profunda da ferramenta retângulo.
+  - Manipular as propriedades do item de relatório que têm um impacto na exibição de um item de relatório.
+  - Transformar regiões de dados exibindo azulejos ao invés de caixas de texto.
+
+
+  ### Módulo 2&#58; Visual Basic
+  Este módulo introduz a linguagem de programação Microsoft Visual Basic. O objetivo deste módulo é tornar a linguagem de programação e seu uso significativo para os não-programadores. Este módulo usa omanual do curso, discussões em grupo, folhas de trabalho e revisões para não apenas introduzir a programação Visual Basic, mas também para entender o que o código está fazendo.
+  #### Lições
+  - A Linguagem de Programação Visual Basic
+  - Componentes da Linguagem Visual Basic
+  - Estruturas e Procedimentos de Decisão
+
+
+  #### Laboratório &#58; Trabalhar com Visual Basic
+  - Converter Expressões em Procedimentos Visual Basic
+  - Trabalhar com Tipos de Valor em Relatórios
+  - Trabalhar com Tipos de Referência em Relatórios
+
+  Após completar este módulo, os alunos poderão&#58;
+  - Descrever as principais características do Visual Basic.
+  - Descrever os elementos da linguagem Visual Basic.
+  - Reconhecer as afirmações do Visual Basic e sua finalidade.
+  - Usar a estrutura de decisão para aplicar a lógica do fluxo de trabalho.
+  - Converter a lógica de negócios em código Visual Basic. 
+
+  ### Módulo 3&#58; Usando Visual Basic nos Relatórios SSRS
+
+  Redactores de Relatórios podem aproveitar a linguagem do
+  Visual Basic de três maneiras diferentes na aplicação Criador de Relatórios. Se a linguagem de programação Visual Basic foi incorporada por projeto ou herdada através de relatórios existentes, os redatores de relatórios precisam estar cientes de como as características podem ser aplicadas para atingir o objetivo do relatório. O Visual Basic é a linguagem necessária para o Criador de Relatórios.
+  #### Lições
+  - Visual Basic em Relatórios SSRS
+  - Chamar o código Visual Basic do Relatório
+  - Usar o código Visual Basic externo em um Relatório
+
+
+  #### Lab &#58; Usar Visual Basic em Relatórios
+  - Usar Lógica Condicional com Literais, Campos e Itens do Relatório
+  - Criar um Relatório usando Visual Basic
+  - Atualizar um Relatório para Usar Código Externo
+  - Solucionar Erros do Visual Basic em um Relatório
+
+  Após completar este módulo, os alunos poderão&#58;
+  - Descrever as principais características e usos do Visual Basic em soluções de relatórios SSRS.
+  - Reconhecer as três implementações de código Visual Basic disponíveis para um relatório.
+  - Criar variáveis, constantes, expressões e procedimentos do Visual Basic.
+  - Vincular e consumir uma montagem externa com código personalizado em um relatório.
+  - Resolver problemas de erros do Visual Basic em um relatório. 

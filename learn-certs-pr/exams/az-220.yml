@@ -6,7 +6,7 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div><font color='red'><strong> O conteúdo deste exame foi atualizado em 26 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudou. </strong></font><br/><br/></div>
+  <div><font color='red'><strong>O conteúdo deste exame será atualizado em 24 de setembro de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará.</strong></font><br/><br/></div>
 
   Os candidatos a este exame devem ter experiência no assunto, implementando as tarefas de configuração e codificação necessárias para criar e manter a cloud e as partes de edge de uma solução IoT.
 
@@ -19,12 +19,20 @@ scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=A
 locales:
 - en
 - ja
-- zh-cn
 - ko
+- fr
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-cn
+- it
+- de
+- zh-tw
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 26 de julho de 2021. Faça download do esboço de habilidades do exame abaixo para ver o que mudou.
+- O conteúdo deste exame será atualizado em 24 de setembro de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
 - Configurar a infraestrutura de soluções de IoT (10-15%)
 - Provisão e gerenciamento de dispositivos (15-20%)
 - Implementar IoT Edge (15-20%)

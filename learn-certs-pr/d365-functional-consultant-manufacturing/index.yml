@@ -21,10 +21,10 @@ subTitle: 'Os Consultores Funcionais do Dynamics 365 para Finance and Operations
 levels:
 - intermediate
 skills:
-- Uso de funcionalidade comuns e ferramentas de implementação
-- Configurar segurança, processos e opções
-- Gerir Dados Financeiros e Operacionais
-- Validar e oferecer suporte à solução
+- Descrever aplicativos financeiros e operacionais e estender aplicativos usando tecnologias Microsoft Power Platform
+- Configurar recursos administrativos e fluxos de trabalho
+- Gerenciar dados financeiros e operacionais
+- Validar e apoiar soluções 
 - Configurar Dynamics 365 Supply Chain Management, Manufacturing 
 - Gerir processos de produção 
 - Implementar o planeamento mestre para a produção 
