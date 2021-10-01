@@ -22,7 +22,7 @@ O Microsoft Certification Program exige que os candidatos aceitem os termos de u
 
 ## Segurança do centro de testes
 
-O pessoal nos centros de testes é dotado de políticas de segurança que devem ser aplicadas a fim de adquirir e manter o status de centro de testes. Inspeções contínuas garantem que cada centro de testes mantenha a segurança delineada pela Microsoft e o fornecedor de entrega de exames. Além disso, os profissionais nos centros de testes estão autorizados a tomar imediatamente as medidas apropriadas contra os candidatos que violarem as regras de testes. Se você tiver alguma preocupação com a segurança de sua experiência em exames, envie um e-mail para [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+A equipe dos centros de teste recebe políticas de segurança que devem ser aplicadas para adquirir e manter o status do centro de teste. As inspeções contínuas garantem que cada centro de teste mantenha a segurança descrita pela Microsoft e pelo provedor de entrega do exame. Além disso, os supervisores nos centros de teste estão autorizados a tomar imediatamente as medidas apropriadas contra os candidatos que violarem as regras do teste. Se você estiver preocupado com a segurança de sua experiência no exame, preencha este [formulário](https://aka.ms/wwlcertsecurity).
 
 Para garantir a segurança dos exames de Microsoft Certification, os administradores dos centros de testes garantem que a identificação fornecida é apropriada e verificam se é a ID da pessoa que apareceu para fazer o exame; passeiam pela área de testes periodicamente; mantêm divisórias entre as estações de testes; removem folhas de berço, dispositivos eletrônicos e outros materiais não autorizados, e impedem a remoção do conteúdo do exame em qualquer formato ou forma. Além disso, os administradores do centro de testes e os proctores não podem fornecer qualquer tipo de auxílio com relação a qualquer questão do exame. Eles podem ajudar a resolver questões técnicas, mas não podem ajudar na compreensão ou resposta de qualquer questão do exame.
 
@@ -30,7 +30,7 @@ A Microsoft pode suspender os testes em qualquer centro de testes onde houver su
 
 ### Processo de apelo do centro de testes
 
-Os proprietários de centros de teste podem apelar para o fechamento de um site apresentando um apelo para [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+Os proprietários do centro de teste podem apelar do fechamento de um site preenchendo este [formulário](https://aka.ms/wwlcertsecurity).
 
 ## Testes fora do país
 
@@ -81,7 +81,7 @@ Exemplos de tal má conduta, mau uso e fraude incluem, mas não se limitam a, o 
 
 ## Processo de apelação do candidato
 
-Os candidatos podem recorrer de sua proibição, apresentando um recurso para [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+Os candidatos podem apelar da proibição preenchendo este [formulário](https://aka.ms/wwlcertsecurity).
 
 Um candidato pode apelar da proibição de falsificação de um relatório de pontuação, apresentando o relatório original (sem escaneamentos ou cópias eletrônicas) para:
 
@@ -97,6 +97,6 @@ Atividade fraudulenta é qualquer coisa que permita a um candidato não qualific
 
 O teste por procuração é quando alguém faz um exame para outro candidato. Algumas empresas oferecem testes por procuração, garantindo que você passará no exame sem ter que fazer isso. Esta é uma atividade fraudulenta. 
 
-Um brain dump é uma fonte, como um website, que contém conteúdo de exame de certificação que foi obtido fraudulentamente com a intenção de compartilhá-lo ou vendê-lo aos candidatos ao exame. O conteúdo incluído no brain dump é exatamente o mesmo ou substancialmente similar aos itens que aparecem no exame. Como o conteúdo do exame foi obtido fraudulentamente, o uso deste tipo de material para se preparar para ou durante um exame constitui trapaça. Os fornecedores de lixeiras de cérebros estão violando os direitos de propriedade intelectual da Microsoft e os acordos de não divulgação. Se você acha que descobriu um site de despejo de cérebros com conteúdo da Microsoft, favor nos informar enviando um e-mail para [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+Um despejo cerebral é uma fonte, como um site da Web, que contém conteúdo de exame de certificação obtido de forma fraudulenta com a intenção de compartilhá-lo ou vendê-lo a candidatos a exames. O conteúdo incluído nos despejos cerebrais é exatamente o mesmo ou substancialmente semelhante aos itens que aparecem no exame. Como o conteúdo do exame foi obtido de forma fraudulenta, usar esse tipo de material para se preparar para ou durante um exame constitui trapaça. Os provedores de despejo de cérebro estão violando os  direitos de propriedade intelectual da Microsofte os acordos de não divulgação. Se você acha que descobriu um site de despejo de cérebro com conteúdo da Microsoft preencha este [formulário](https://aka.ms/wwlcertsecurity).
 
 Relatórios de pontuação falsificados são relatórios que a Microsoft considera não autênticos ou que enganam ou defraudam outras pessoas de qualquer forma. Se a Microsoft determinar que um candidato falsificou um relatório de pontuação, o candidato será inelegível para prestar qualquer exame futuro da Microsoft e suas certificações poderão ser revogadas.

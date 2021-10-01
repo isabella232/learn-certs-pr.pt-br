@@ -6,9 +6,7 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div>
-  <div><font color='red'><strong>O conteúdo deste exame foi atualizado em 25 de maio de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudou.</strong></font><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>O conteúdo deste exame será atualizado em 29 de setembro de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará.</strong></font><br/><br/></div>
   
   Os candidatos a este exame devem ter experiência prática com pessoal, processos e tecnologias para fornecer valor comercial de forma contínua.
   
@@ -28,7 +26,7 @@ locales:
 levels:
 - advanced
 skills:
-- O conteúdo deste exame foi atualizado em 25 de maio de 2021. Baixe o esboço de habilidades do exame abaixo para ver o que mudou.
+- O conteúdo deste exame será atualizado em 29 de setembro de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
 - Desenvolver uma estratégia de instrumentação (5-10%)
 - Desenvolver uma estratégia de Engenharia de Confiabilidade do Site (SRE) (5-10%)
 - Desenvolver um plano de segurança e conformidade (10-15%)

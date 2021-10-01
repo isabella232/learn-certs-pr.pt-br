@@ -6,15 +6,17 @@ metadata:
 uid: exam.mb-300
 displayName: MB-300
 summary: |-
-  <div><font color='red'><strong> O conteúdo deste exame será atualizado em 09 de agosto de 2021. Faça download do documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>
-  
-  Os candidatos a este exame analisam os requisitos empresariais e traduzem esses requisitos em processos e soluções empresariais plenamente realizados que implementam as melhores práticas da indústria. Os candidatos servem como um recurso chave na implementação e configuração de candidaturas para satisfazer os requisitos empresariais.
+  <div>
+  <div><font color='red'><strong>O conteúdo deste exame foi atualizado em 9 de agosto de 2021. Faça download do documento de habilidades avaliadas abaixo para ver o que mudou.</strong></font><br/><br/></div>
+  </div>
+
+  Os consultores (funcionais e técnicos) reúnem e analisam os requisitos de negócios e os traduzem em processos e soluções de negócios totalmente realizados que implementam as práticas recomendadas da indústria. Eles servem como um recurso-chave na implementação e configuração de aplicativos para atender aos requisitos de negócios
   <br/>
-  
-  Os candidatos compreendem as características e capacidades comuns dos aplicativos financeiras e operacionais e como configurar e utilizar cada uma delas. Devem também ter consciência de como os aplicativos de Finanças e Operações se integram com sistemas e ferramentas externas, incluindo a Plataforma de Energia. O candidato gere ativamente os ciclos de vida dos aplicativos utilizando os Serviços de Lifecycle (LCS) e outras ferramentas e plataformas Microsoft.
-  
-  Os candidatos a este exame são tipicamente especializados em um ou mais conjuntos de aplicativos financeiras e operacionais, incluindo finanças, produção e gestão da cadeia de fornecimento.
-subTitle: 'Este exame mede a sua capacidade em realizar as seguintes tarefas técnicas: utilizar funcionalidades e ferramentas de implementação comuns; configurar segurança, processos e opções; gerir dados financeiros e operacionais; e validar e apoiar a soluçã".'
+
+  Os consultores devem ser capazes de implementar os principais componentes e recursos dos aplicativos Dynamics 365 Finance and Operations. Eles também devem estar cientes de como os aplicativos Dynamics 365 Finance and Operations se integram a sistemas e ferramentas externas, incluindo Power Platform. O consultor usa o Lifecycle Services (LCS), Azure DevOps e outras ferramentas e plataformas da Microsoft para facilitar o processo de gerenciamento do ciclo de vida do aplicativo (ALM).
+
+  Os consultores buscam educação contínua lendo as notas de lançamento do produto, revisando roteiros do produto, participando de conferências ou continuando a aprender usando o Microsoft Learn, Microsoft Docs treinamento ministrado por instrutor, blogs e comunidades de usuários. Eles também devem buscar certificações e avaliações baseadas em funções para garantir que seu conhecimento seja reconhecido.
+subTitle: "Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: descrever aplicativos de finanças e operações e estender aplicativos usando tecnologias Microsoft Power Platform; configurar recursos administrativos e fluxos de trabalho; gerenciar dados Finance and Operation; e validar e apoiar a solução."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,11 +27,11 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 09 de agosto de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que será alterado.
-- Utilizar ferramentas comuns de funcionalidade e implementação (15-20%)
-- Configurar segurança, processos e opções (30-35%)
-- Gerir dados financeiros e operacionais (25-30%)
-- Validar e oferecer suporte à solução (15-20%)
+- O conteúdo deste exame foi atualizado em 9 de agosto de 2021. Faça download do esboço de habilidades do exame abaixo para ver o que mudou.
+- Descrever aplicativos financeiros e operacionais e estender aplicativos usando tecnologias Microsoft Power Platform (20-25%)
+- Configurar recursos administrativos e fluxos de trabalho (30-35%)
+- Gerenciar dados financeiros e operacionais (25-30%)
+- Validar e apoiar soluções (20-25%)
 roles:
 - functional-consultant
 products:

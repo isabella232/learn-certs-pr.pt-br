@@ -19,6 +19,21 @@ Assim que um curso é retirado, já não estará disponível. O curso não pode 
 
 ## Cursos aposentados: treinamento com instrutor
 
+* Retirada do material de curso em 29 de outubro de 2021
+
+    | Número do curso | Versão | Título | Idioma | Data de reforma|
+    | --- | --- | --- | --- | --- |
+    | 10997 | D | Office 365 Administration and Troubleshooting  | Inglês | 29/10/2021 |
+
+*   Retirada do material de curso em 30 de setembro de 2021
+
+    | Número do curso | Versão | Título | Idioma | Data de reforma|
+    | --- | --- | --- | --- | --- |
+    | 40510 | G | Microsoft Cloud Workshop: SQL Server Hybrid Cloud | Inglês | 30/09/2021 |
+    | 40516 | G | Microsoft Cloud Workshop: Intelligent Analytics | Inglês | 30/09/2021 |
+    | 40561 | G | Microsoft Cloud Workshop: Machine Learning | Inglês | 30/09/2021 |
+    | MS-050T00 | A | SharePoint Hybrid Deployment and Migration | Inglês | 30/09/2021 |
+
 * Retirada do material de curso em 31 de agosto de 2021
 
     | Número do curso | Versão | Título | Idioma | Data de aposentadoria |

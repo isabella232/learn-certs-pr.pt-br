@@ -12,7 +12,6 @@ summary: |-
   Se a sua certificação expirar em seis meses, você está qualificado a renová-la. Mostre que você se manteve atualizado com os conteúdos mais recentes do Azure Machine Learning ao passar na avaliação de renovação. Você também pode se preparar para a renovação com a coleção selecionada de módulos de aprendizagem.
 skills:
 - Introdução ao SDK do Azure Machine Learning
-- Praticar modelos de aprendizado de máquina com o Azure Machine Learning
 - Trabalhar com dados no Azure Machine Learning
 - Trabalhar com computação no Azure Machine Learning
 - Orquestrar aprendizado de máquina com pipelines

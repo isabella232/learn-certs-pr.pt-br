@@ -13,7 +13,24 @@ subTitle: Prove seu domínio do conjunto principal de habilidades do Windows Ser
 levels:
 - intermediate
 skills:
-- none
+- Instalar e configurar Servidor
+- Configurar funções e recursos de servidor 
+- Configurar o Hyper-V 
+- Implementar e configurar serviços de rede básicos
+- Instalar e administrar o Active Directory 
+- Criar e gerenciar Política de Grupo 
+- Implementação, gerenciamento e manutenção de servidores
+- Configurar serviços de arquivo e impressão
+- Configurar Serviços de Rede e Acesso
+- Configurar uma Infraestrutura de Servidor de Política de Rede
+- Configurar e Gerenciar o Diretório Ativo
+- Configurar e Gerenciar Política de Grupo
+- Configurar e Gerenciar Alta Disponibilidade
+- Configurar Soluções de Arquivo e Armazenamento
+- Implementar Continuidade de Negócio e Recuperação de Desastre
+- Configurar Serviços de Rede
+- Configurar a Infraestrutura de Active Directory
+- Configurar as soluções de acesso e proteção de informações
 roles:
 - administrator
 type: mcsa
@@ -23,6 +40,7 @@ courses:
 - uid: course.20410
 - uid: course.20411
 - uid: course.20412
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomH
 exams:
 - uid: exam.70-410
 - uid: exam.70-411

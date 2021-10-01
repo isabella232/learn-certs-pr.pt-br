@@ -13,7 +13,22 @@ subTitle: Prove seu domínio do conjunto principal de habilidades do Windows Ser
 levels:
 - intermediate
 skills:
-- none
+- Instalar Windows Servers em ambientes de host e de cálculo
+- Implementar soluções de armazenamento 
+- Implementar o Hyper-V 
+- Implementar contêineres do Windows
+- Implementar alta disponibilidade
+- Manter e monitorar ambientes de servidor 
+- Implementar sistema de nome de domínio (DNS) 
+- Implementar DHCP e IPAM 
+- Implementar soluções de conectividade de rede e de acesso remoto 
+- Implementar soluções de rede principal e distribuída 
+- Implementar uma infraestrutura avançada de rede 
+- Instalar e configurar Serviços de Domínio do Active Directory (AD DS) 
+- Gerenciar e manter AD DS 
+- Criar e gerenciar Política de Grupo 
+- Implementar Serviços de Certificados do Active Directory (AD CS) 
+- Implementar Federação de Identidade e Soluções de Acesso 
 roles:
 - administrator
 type: mcsa
@@ -23,6 +38,7 @@ courses:
 - uid: course.20740
 - uid: course.20741
 - uid: course.20742
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMC
 exams:
 - uid: exam.70-740
 - uid: exam.70-741

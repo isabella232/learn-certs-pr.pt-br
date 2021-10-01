@@ -31,7 +31,7 @@ Exames Microsoft Certification são projetados para garantir que os candidatos q
 - Desafios que não são apresentados através deste processo.
 - Contestações de metodologias de pontuação (por exemplo: o gráfico de barras não representa a pontuação real).
 - Contestações do formato do exame (padrão, ordenado, adaptável).
-- Desafios para os exames beta; se você tem feedback adicional sobre um exame beta que você não foi capaz de fornecer durante o período de comentário, por favor envie seu feedback para [mslcd@microsoft.com](mailto:mslcd@microsoft.com).
+- Desafios para exames beta. (Como os exames beta destinam-se a identificar problemas por meio da psicometria e da análise dos comentários dos candidatos, as perguntas costumam ser alteradas. Se um item mudar substancialmente, você não receberá pontuação.)
 
 ## Processo de contestação de itens de exame:
 

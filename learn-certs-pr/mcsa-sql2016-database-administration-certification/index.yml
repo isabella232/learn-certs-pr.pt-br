@@ -13,7 +13,13 @@ subTitle: Esta certificação demonstra suas habilidades com instalação de ban
 levels:
 - intermediate
 skills:
-- none
+- Configurar acesso aos dados e auditoria 
+- Gerenciar backup e restauração de bancos de dados 
+- Gerenciar e monitorar instâncias do SQL Server 
+- Gerenciar alta disponibilidade e recuperação de desastres 
+- Implementar SQL no Azure 
+- Gerenciar bancos de dados e instâncias 
+- Gerenciar aplicativos
 roles:
 - database-administrator
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20764
 - uid: course.20765
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlME
 exams:
 - uid: exam.70-764
 - uid: exam.70-765

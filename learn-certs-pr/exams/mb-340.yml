@@ -9,6 +9,8 @@ summary: |-
   Candidatos a este exame configuram e utilizam a funcionalidade do aplicativo no Dynamics 365 Commerce e fornecem suporte para o aplicativo.
   
   Candidatos possuem um alto conhecimento das operações de negócios de comércio unificado. Eles podem ter experiência em configurar, implantar e manter o Dynamics 365 Commerce.
+
+  <div><br/><font color='red'><strong>Os exames beta não são pontuados imediatamente porque estamos coletando dados sobre a qualidade das perguntas e do exame. Saiba mais <a href="/learn/certifications/certification-exams#participating-in-beta-exams">sobre o valor e a importância dos exames beta.</a></strong></font></div>
 subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: configurar Dynamics 365 Commerce Headquarters; configurar produtos, preços, descontos, fidelidade e afiliações; gerenciar Ponto de Vendas (POS) no Dynamics 365 Commerce; configurar e gerenciar centrais de atendimento do Dynamics 365 Commerce; e gerenciar e-commerce.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKn

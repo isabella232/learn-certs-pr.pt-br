@@ -6,9 +6,7 @@ metadata:
 uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: |-
-  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'> EXAME DP-203</a>ESTÁ SUBSTITUINDO OS EXAMES DP-200 E DP-201. DP-200 e DP-201 serão reformados em 31 de agosto de 2021.</strong></font><br/><br/></div
-  
+summary: |-  
   Um candidato à certificação Azure Data Engineer Associate deve ter conhecimento no assunto integrando, transformando e consolidando dados de vários sistemas de dados estruturados e não estruturados em estruturas adequadas para soluções de análise de construção.
   
   As responsabilidades para esse papel incluem ajudar as partes interessadas a entender os dados através da exploração, construção e manutenção de pipelines de processamento de dados seguros e compatíveis, usando diferentes ferramentas e técnicas. Este profissional utiliza vários serviços e idiomas de dados do Azure para armazenar e produzir conjuntos de dados limpos e aprimorados para análise.
@@ -16,11 +14,6 @@ summary: |-
   Um Engenheiro de Dados do Azure também ajuda a garantir que os pipelines de dados e os armazenamentos de dados sejam de alto desempenho, eficientes, organizados e confiáveis, dado um conjunto específico de requisitos e restrições de negócios. Este profissional lida rapidamente com questões inesperadas e minimiza a perda de dados. Um Engenheiro de Dados do Azure também projeta, implementa, monitora e otimiza plataformas de dados para atender às necessidades do pipeline de dados.
   
   Um candidato à esta certificação deve ter conhecimento sólido de linguagens de processamento de dados, tais como SQL, Python ou Scala, e eles precisam entender padrões paralelos de processamento e arquitetura de dados. 
-  
-  <div><br/><strong>Você obterá esta certificação se completar uma das seguintes opções&#58;</strong><br/>
-  <ul>
-  <li>Passe no<a href="/learn/certifications/exams/dp-200"> DP-200</a>e<a href="/learn/certifications/exams/dp-201"> DP-201</a>(reforma em 31 de agosto de 2021)<strong>ou</strong></li>
-  <li>Aprovação em <a href="/learn/certifications/exams/dp-203">DP-203</a> (beta lançado a 23 de Fevereiro de 2021)</li></ul></div>
 subTitle: Os Engenheiros de Dados da Azure integram, transformam e consolidam dados de vários sistemas de dados estruturados e não estruturados em estruturas adequadas para a construção de soluções de análise.
 levels:
 - intermediate

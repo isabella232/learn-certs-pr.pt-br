@@ -13,7 +13,13 @@ subTitle: Esta certificação demonstra suas habilidades essenciais como um prof
 levels:
 - advanced
 skills:
-- none
+- Gerenciar dados com o Transact-SQL 
+- Consultar dados com componentes avançados do Transact-SQL 
+- Programar bancos de dados usando Transact-SQL
+- Projetar e implementar objetos de banco de dados
+- Implementar objetos de programação 
+- Gerenciar simultaneidade do banco de dados 
+- Otimizar os objetos de banco de dados e a infraestrutura de SQL 
 roles:
 - developer
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20761
 - uid: course.20762
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomL
 exams:
 - uid: exam.70-761
 - uid: exam.70-762

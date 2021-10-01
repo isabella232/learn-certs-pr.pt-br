@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-500
 displayName: MS-500
 summary: |-
-  <div><font color='red'><strong> O conteúdo deste exame foi atualizado em 26 de julho de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudou. </strong></font><br/><br/></div>
+  <div><font color='red'><strong>O conteúdo deste exame será atualizado em 24 de setembro de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará.</strong></font><br/><br/></div>
   
   Os candidatos a este exame implementam, gerenciam e monitoram soluções de segurança e conformidade em ambientes do Microsoft 365 e ambientes híbridos. O Microsoft 365 Security Administrator protege ambientes corporativos do Microsoft 365 Enterprise, responde a ameaças, realiza investigações e impõe a governança de dados. O Microsoft 365 Security Administrator colabora com o Microsoft 365 Enterprise Administrator, com partes interessadas e com outros administradores para planejar e implementar estratégias de segurança e garante que as soluções estejam em conformidade com as políticas e regulamentos da organização.
   <br/>
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame foi atualizado em 26 de julho de 2021. Faça download do esboço de habilidades do exame abaixo para ver o que mudou.
+- O conteúdo deste exame será atualizado em 24 de setembro de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
 - Implementar e gerenciar recursos de identidade e acesso (30-35%)
 - Implementar e gerenciar a proteção contra ameaças (20-25%)
 - Implementar e gerenciar a proteção de informações (15-20%)
@@ -41,10 +41,11 @@ products:
 courses:
 - uid: course.ms-500t00
 paths:
-- uid: learn-m365.identity-and-access
+- uid: learn.security.manage-identity-and-access
 - uid: learn-m365.m365-security-threat-protection
 - uid: learn-m365.m365-information-protection
 - uid: learn-m365.m365-security-management
+- uid: learn-m365.m365-compliance-insider
 relatedCertifications:
 - related:
     uid: certification.m365-security-administrator
