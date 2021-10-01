@@ -3,7 +3,7 @@ title: Microsoft Dynamics 365 for Talent
 metadata:
   title: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
   description: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
-uid: exam.mb-6-898
+uid: exam.mb6-898
 displayName: MB6-898
 summary: |-
   <div><font color='red'><strong>Este exame foi reformado em 31 de janeiro de 2021. Para obter as opções disponíveis atualmente, consulte a página <a href='/learn/certifications/browse/?resource_type=examination'> Navegue pela página de Certificações e Exames</a>.<br/><br/></strong></font></div>
@@ -12,7 +12,7 @@ summary: |-
 
   Os candidatos normalmente devem ter um amplo entendimento de gerenciamento de capital humano, processos operacionais de RH e experiência na implantação, manutenção e uso dos Microsoft Dynamics 365 for Talent.
 
-  <div style='font-weight&#58; bold;'><br/>O exame MB6-898 se aplica à versão de abril de 2018 do Dynamics 365 for Talent. Para obter as informações mais atualizadas sobre o produto, consulte&#58; <a href="https://aka.ms/talentdocs">https://aka.ms/talentdocs</a>.</div>
+  <div><strong><br/>O exame MB6-898 se aplica à versão de abril de 2018 do Dynamics 365 for Talent. Para obter as informações mais atualizadas sobre o produto, consulte&#58; <a href="https://aka.ms/talentdocs">https://aka.ms/talentdocs</a>.</strong></div>
 subTitle: Os candidatos para este exame são parceiros do Microsoft Dynamics 365 que configuram e usam a funcionalidade do aplicativo no Microsoft Dynamics 365 for Talent e oferecem suporte para o aplicativo. O exame é também apropriado para a equipe de vendas que possui conhecimento em soluções de negócios e quer demonstrar uma compreensão funcional sobre o aplicativo Microsoft Dynamics 365 for Talent.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kd

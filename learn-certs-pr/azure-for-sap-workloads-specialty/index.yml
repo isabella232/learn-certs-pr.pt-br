@@ -2,20 +2,21 @@
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
   title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
-  description: Os candidatos a este exame devem ser arquitetos ou engenheiros com ampla experiência e conhecimento do sistema SAP e dos padrões do setor específicos para a migração ou integração inicial e a operação de longo prazo de uma solução SAP no Microsoft Azure.
+  description: Arquitetos ou engenheiros para Azure para parceiro de SAP Workloads com os administradores de cloud, administradores de banco de dados em cloud e clientes para implementar soluções.
 uid: certification.azure-for-sap-workloads-specialty
+certificationRenewalUid: renewal.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  Os candidatos a este exame devem ser arquitetos ou engenheiros com ampla experiência e conhecimento do sistema SAP e dos padrões do setor específicos para a migração ou integração inicial e a operação de longo prazo de uma solução SAP no Microsoft Azure.
+  Os candidatos a esta certificação devem ser arquitetos ou engenheiros com ampla experiência e conhecimento do panorama do sistema SAP e padrões do setor que são específicos para a migração ou integração inicial e a operação de longo prazo de uma solução SAP no Microsoft Azure.
 
   As responsabilidades de um arquiteto ou engenheiro do Azure para Cargas de trabalho SAP incluem fazer recomendações sobre serviços e ajustar recursos conforme apropriado para resiliência, desempenho, escala, provisionamento, tamanho e monitoramento ideais.
 
   Arquitetos ou engenheiros para Azure para Cargas de trabalho SAP fazem parceria com os administradores de cloud, administradores de banco de dados em cloud e clientes para implementar soluções.
 
-  Um candidato para este exame deve ter uma vasta experiência e conhecimento de aplicativos SAP&#58; SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, servidores OS para aplicativos e bancos de dados SAP, portal Azure, Azure Marketplace, modelos Azure Resource Manager (modelos ARM), virtualização, infraestrutura em cloud, estruturas de armazenamento, design de alta disponibilidade, design de recuperação de desastres, conceitos de proteção de dados e rede.
+  Um candidato a esta certificação deve ter ampla experiência e conhecimento de aplicativos SAP: SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, servidores OS para aplicativos e bancos de dados SAP, Azure portal, Azure Marketplace, Azure Resource Manager templates (ARM modelos), virtualização, infraestrutura em cloud estruturas de armazenamento, design de alta disponibilidade, design de recuperação de desastres, conceitos de proteção de dados e rede.
 
-  Para este exame, é altamente recomendável que você tenha uma certificação Azure Administrator Associate ou Azure Solutions Architect Expert, para além das certificações SAP.
-subTitle: Os candidatos a este exame devem ser arquitetos ou engenheiros com ampla experiência e conhecimento do sistema SAP e dos padrões do setor específicos para a migração ou integração inicial e a operação de longo prazo de uma solução SAP no Microsoft Azure.
+  Para o exame AZ-120 é altamente recomendável que você tenha uma certificação Azure Administrator Associate ou Azure Solutions Architect Expert além das certificações SAP.
+subTitle: Arquitetos ou engenheiros para Azure para parceiro SAP Workloads com os administradores de cloud, administradores de banco de dados em cloud e clientes para implementar soluções.
 levels:
 - advanced
 skills:

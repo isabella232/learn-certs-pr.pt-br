@@ -7,15 +7,19 @@ uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Os candidatos a este exame analisam os requisitos de negócios e os traduzem em processos e soluções de negócios totalmente realizados que implementam as melhores práticas do setor. Os candidatos servem como um recurso-chave na implementação e configuração de aplicativos para atender aos requisitos de negócios.
+  Os candidatos a esta certificação analisam os requisitos de negócios e os traduzem em processos e soluções de negócios totalmente realizados que implementam as melhores práticas do setor. Os candidatos servem como um recurso-chave na implementação e configuração de aplicativos para atender aos requisitos de negócios.
 
-  Os candidatos a este exame têm uma compreensão fundamental dos princípios contábeis e das operações financeiras de negócios, atendimento ao cliente, serviço de campo, manufatura, varejo e conceitos de gerenciamento da cadeia de suprimentos. Eles normalmente se especializam em um ou mais conjuntos de recursos de aplicativos do Finanças e Operações, incluindo gerenciamento de finanças, manufatura e cadeia de suprimentos.
+  Os candidatos a esta certificação têm um entendimento fundamental dos princípios contábeis e operações financeiras de negócios, atendimento ao cliente, serviço de campo, manufatura, retalho e conceitos de gerenciamento da cadeia de suprimentos. Eles normalmente se especializam em um ou mais conjuntos de recursos de aplicativos do Finance and Operations, incluindo finanças, manufatura e gerenciamento da cadeia de suprimentos.
 
   Os candidatos devem ter algum conhecimento das práticas de gerenciamento da cadeia de suprimentos, incluindo compras, comércio, logística, gerenciamento de armazém e gerenciamento de transporte.
 subTitle: 'Os Consultores Funcionais do Dynamics 365 para Finance and Operations, Supply Chain Management simplificam a contabilidade de custos, gerenciamento de estoque, planejamento mestre e gerenciamento de estoque para seus clientes.'
 levels:
 - intermediate
 skills:
+- Descrever aplicativos financeiros e operacionais e estender aplicativos usando tecnologias Microsoft Power Platform
+- Configurar recursos administrativos e fluxos de trabalho
+- Gerenciar dados financeiros e operacionais
+- Validar e apoiar soluções  
 - Implementar gerenciamento de informações do produto
 - Implementar gerenciamento de estoque
 - Implementar e gerir processos de Supply Chain

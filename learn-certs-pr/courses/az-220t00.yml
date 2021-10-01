@@ -23,6 +23,9 @@ skillsGained:
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - intermediate
 roles:
@@ -42,7 +45,7 @@ prerequisitesSection: |-
     - Experiência em desenvolvimento de software&#58; A experiência em desenvolvimento de software é um pré-requisito para este curso, mas nenhuma linguagem específica de software é necessária, e a experiência não precisa estar em um nível profissional. 
     - Experiência em processamento de dados&#58; A compreensão geral do armazenamento e processamento de dados é recomendada, mas não necessária. 
     - Online grátis&#58; Fundamentos do Azure (https&#58;//docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
-    - Curso dirigido por instrutor&#58; AZ-900&#58; Azure Básico (https&#58;//docs.microsoft.com/en-us/learn/certifications/courses/az-900t01)
+    - Curso dirigido por instrutor&#58; AZ-900&#58; Azure Básico (https&#58;//docs.microsoft.com/learn/certifications/courses/az-900t01)
 outlineSection: |-
   ### Módulo 1&#58; Introdução aos Serviços IoT e Azure IoT
   Neste módulo, os estudantes começarão examinando as considerações comerciais para várias implementações de IdC e revendo como a Arquitetura de Referência de IdC da Azure suporta soluções de IdC. Este módulo também fornece aos estudantes uma visão geral dos serviços Azure comumente usados em uma solução de IoT e fornece uma introdução ao portal Azure.

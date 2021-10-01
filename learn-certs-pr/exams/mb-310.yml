@@ -6,12 +6,16 @@ metadata:
 uid: exam.mb-310
 displayName: MB-310
 summary: |-
-  <div><font color='red'><strong> O conteúdo deste exame será atualizado em 27 de agosto de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará. </strong></font><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>O conteúdo deste exame foi atualizado em 27 de agosto de 2021. Faça download do documento de habilidades avaliadas abaixo para ver o que mudou.</strong></font><br/><br/></div>
+  <div><font color='red'>NOTA: Pontuação para aprovação: 700. Saiba mais sobre as pontuações dos exames <strong><a href="/learn/certifications/exam-scoring-reports#scores-needed-to-pass-exams">aqui </a></strong>.</font><br/><br/></div>
+  </div>
 
-  Os candidatos a este exame são Consultores Funcionais que analisam os requisitos empresariais e traduzem esses requisitos em processos e soluções empresariais plenamente realizados que implementam as melhores práticas da indústria. Os candidatos servem como um recurso chave na implementação e configuração de candidaturas para satisfazer os requisitos empresariais.
+  Os candidatos a este exame analisam os requisitos de negócios e os traduzem em processos e soluções de negócios totalmente realizados que implementam as práticas recomendadas pelo setor. Eles têm uma compreensão fundamental dos princípios contábeis e uma compreensão mais profunda das operações financeiras no que se refere às principais operações financeiras, de manufatura, de retalho e de gerenciamento da cadeia de suprimentos.
+  <br/>
 
-  Os candidatos a este exame devem ter uma compreensão fundamental dos princípios contabilísticos e das operações financeiras das empresas, incluindo contas a pagar e contas a receber, impostos, princípios de custeio, ativos fixos, e orçamento.
-subTitle: 'Este exame mede a sua capacidade em realizar as seguintes tarefas técnicas: criar e configurar a gestão financeira; implementar e gerir contas a pagar e despesas; implementar contas a receber, crédito, cobranças e reconhecimento de receitas; e gerir o orçamento e os ativos fixos.'
+  Os candidatos a este exame geralmente se especializam em um ou mais conjuntos de recursos do Dynamics 365 Finance, incluindo finanças básicas, razão geral, impostos, contabilidade de custos, ativos fixos, orçamento, reconhecimento de receita, consolidação, crédito e cobranças, gerenciamento de caixa e banco, gerenciamento de despesas, e gerenciamento e contabilidade de projetos. Eles entendem as relações entre finanças e manufatura, retalho e gerenciamento da cadeia de suprimentos.
+subTitle: 'Este exame mede sua capacidade de realizar as seguintes tarefas técnicas: definir e configurar o gerenciamento financeiro; implementar e gerenciar contas a pagar e despesas; implementar contas a receber, crédito, cobranças e reconhecimento de receita; gerenciar orçamentos; e gerenciar ativos fixos.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHU
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=MB-310&examname=Exam%20MB-310:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Financials&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-310
@@ -20,11 +24,12 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 27 de agosto de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
-- Criar e configurar a gestão financeira (50-55%)
-- Implementar e gerir as contas a pagar e as despesas (10-15%)
-- Implementar contas a receber, crédito, cobranças e reconhecimento de receitas (20-25%)
-- Gerir orçamento e os ativos fixos (10-15%)
+- O conteúdo deste exame foi atualizado em 27 de agosto de 2021. Faça download do esboço de habilidades do exame abaixo para ver o que mudou.
+- Definir e configurar a gestão financeira (40-45%)
+- Implementar contas a receber, crédito, cobranças e reconhecimento de receita (15-20%)
+- Implementar e gerenciar contas a pagar e despesas (10-15%)
+- Gerenciar orçamentos (10-15%)
+- Gerenciar ativos fixos (10-15%)
 roles:
 - functional-consultant
 products:

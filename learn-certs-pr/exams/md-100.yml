@@ -6,15 +6,13 @@ metadata:
 uid: exam.md-100
 displayName: MD-100
 summary: |-
-  <div><strong> O conteúdo deste exame será atualizado em 5 de agosto de 2021. Faça download do documento de habilidades avaliadas abaixo para ver o que mudará. </strong><br/><br/></div>
+  <div><font color='red'><strong>O conteúdo deste exame foi atualizado em 5 de agosto de 2021. Faça download do documento de habilidades avaliadas abaixo para ver o que mudou.</strong></font><br/><br/></div>
 
-  Se você passou [Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) antes de expirar em 31 de março de 2019, só precisa fazer um exame (MD-101) para receber a certificação Modern Desktop. Os candidatos a este exame são Administradores que implementam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos cliente em um ambiente corporativo. Os candidatos gerenciam identidade, acesso, políticas, atualizações e aplicativos.
+  Os candidatos a este exame são administradores que implantam, configuram, protegem, gerenciam e monitoram dispositivos e aplicativos clientes em um ambiente corporativo. Os candidatos gerenciam identidade, acesso, políticas, atualizações e aplicativos.
 
-  Como administrador, os candidatos normalmente colaboram com um administrador do Microsoft 365 Enterprise para projetar e implementar uma estratégia de dispositivo que atenda às necessidades de negócios de uma organização moderna.
+  Como um administrador, os candidatos normalmente colaboram com o M365 Enterprise Administrator para projetar e implementar uma estratégia de dispositivo que atenda às necessidades de negócios de uma organização moderna.
 
-  Os candidatos devem estar familiarizados com as cargas de trabalho do Microsoft 365 e devem ser proficientes e experientes na implantação, configuração e manutenção de dispositivos e tecnologias do Windows 10 e não Windows.
-
-  Você pode se qualificar para o crédito ACE de faculdade se passar neste exame de certificação. Consulte [ACE crédito de faculdade para exames de certificação](/learn/certifications/ace-credit-for-certification-exams) para obter detalhes.
+  Os candidatos devem estar familiarizados com as M365 workloads e devem ser proficientes e experientes na implantação, configuração e manutenção do Windows 10 e de dispositivos e tecnologias não Windows.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: implantar o Windows; gerenciar dispositivos e dados; configurar armazenamento e conectividade; e manter o Windows. Se você passou no Exame 70-698 antes de expirar em 31 de março de 2019, você só precisa tomar MD-101 para obter a Modern Desktop certification.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVC
@@ -25,11 +23,11 @@ locales:
 levels:
 - intermediate
 skills:
-- O conteúdo deste exame será atualizado em 5 de agosto de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
-- Instalação do Windows (15-20%)
+- O conteúdo deste exame foi atualizado em 5 de agosto de 2021. Faça download do esboço de habilidades do exame abaixo para ver o que mudou.
+- Implantar o Windows (15-20%)
 - Gerenciar dispositivos e dados (25-30%)
-- Configure armazenamento e conectividade (15-20%)
-- Realizar a manutenção do Windows (30-35%)
+- Configurar o armazenamento e a conectividade (15-20%)
+- Manter o Windows (30-35%)
 roles:
 - administrator
 products:

@@ -51,7 +51,7 @@ Caso os seus comentários sejam referentes a um curso da Microsoft ministrado po
 
 - Se você tem uma preocupação sobre a precisão técnica de um determinado item, por favor visite: [Processo de desafio de Item de exame](/learn/certifications/exam-item-challenge-process).
 - Para relatar uma preocupação sobre um centro de testes ou dificuldades técnicas experimentadas durante o seu exame, por favor contacte o serviço ao cliente no fornecedor de entrega de exame apropriado.
-- Para comunicar um problema de segurança, por favor contacte [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com).
+- Para relatar uma preocupação de segurança, preencha este [formulário](https://aka.ms/wwlcertsecurity).
 - Para oferecer outros tipos de feedback, entre em contato com [suporte de certificação.](https://aka.ms/mcpforum)
 
 ## Especificações do exame

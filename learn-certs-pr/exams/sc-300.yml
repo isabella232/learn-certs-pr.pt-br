@@ -6,21 +6,33 @@ metadata:
 uid: exam.sc-300
 displayName: SC-300
 summary: |-
+  <div><font color='red'><strong>O conteúdo deste exame será atualizado em 24 de setembro de 2021. Baixe o documento de habilidades avaliadas abaixo para ver o que mudará.</strong></font><br/><br/></div>
+
   O Administrador de Identidade e Acesso da Microsoft projeta, implementa e opera os sistemas de gerenciamento de identidade e acesso de uma organização usando o Azure Active Directory (Azure AD). Eles gerenciam tarefas como fornecer autenticação segura e acesso de autorização a aplicativos corporativos. O administrador oferece experiências perfeitas e recursos de gerenciamento de autoatendimento para todos os usuários. O acesso e a governança adaptativos são elementos fundamentais para a função. Essa função também é responsável pela solução de problemas, monitoramento e relatórios para o ambiente de identidade e acesso.
   
   O Administrador de Identidade e Acesso pode ser um único indivíduo ou um membro de uma equipe maior. Esse papel colabora com muitas outras funções na organização para impulsionar projetos estratégicos de identidade para modernizar soluções de identidade, implementar soluções de identidade híbrida e implementar a governança de identidade.
 subTitle: 'Este exame avalia sua capacidade de realizar as seguintes tarefas técnicas: implementar uma solução de gerenciamento de identidade; implementar uma solução de gerenciamento de autenticação e acesso; implementar o gerenciamento de acesso para aplicativos; e planejar e implementar uma estratégia de governança de identidade.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Myp5
+practiceTestUrl: https://www.mindhub.com/p/MU-SC-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=pt-br&examcode=SC-300&examname=Exam%20SC-300:%20Microsoft%20Identity%20and%20Access%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-300
 locales:
 - en
 - ja
 - zh-cn
 - ko
+- fr
+- es
+- pt-br
+- ru
+- ar-sa
+- de
+- zh-tw
+- it
 levels:
 - intermediate
 skills:
+- O conteúdo deste exame será atualizado em 24 de setembro de 2021. Faça o download do esboço de habilidades do exame abaixo para ver o que mudará.
 - Implementar uma solução de gestão de identidade (25-30%)
 - Implementar uma solução de gerenciamento de autenticação e acesso (25-30%)
 - Implementar o gerenciamento de acesso para aplicativos (10-15%)

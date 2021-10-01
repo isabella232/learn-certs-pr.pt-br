@@ -1,0 +1,28 @@
+### YamlMime:CertificationRenewal
+title: 'Renovação para Microsoft Certified: Azure for SAP Workloads Specialty'
+metadata:
+  title: 'Renovação para Microsoft Certified: Azure for SAP Workloads Specialty'
+  description: 'Se você tiver esta certificação e ela expirar em seis meses, você está qualificado para renová-la.'
+uid: renewal.azure-for-sap-workloads-specialty
+certificationUid: certification.azure-for-sap-workloads-specialty
+assessmentId: 42630d0d-7b19-4782-8052-99fe7e540f08
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
+summary: |-
+  Se você tiver esta certificação e ela expirar em seis meses, você está qualificado para renová-la. Mostre que você se manteve atualizado com as atualizações mais recentes do Azure para SAP passando na avaliação de renovação. Você também pode se preparar para renovar com a coleção selecionada de módulos de aprendizagem.
+skills:
+- Planejamento para implementação de soluções SAP no Azure
+- Conecte o Power Platform ao SAP no Azure
+- Implementar soluções SAP baseadas em VM do Azure
+- Migrar cargas de trabalho SAP para o Azure
+- SAP HANA no Azure Cálculo, Rede e Armazenamento
+- Usando o suporte IAAS com o Azure para cargas de trabalho SAP
+- Manter o Azure para cargas de trabalho SAP
+- Implementar o monitoramento do Azure para cargas de trabalho SAP em VMs do Azure
+examsPassed:
+- az-120
+studyGuideDescription: 'Use esta coleção de módulos de aprendizagem para ajudá-lo a se preparar para a avaliação de renovação de Microsoft Certified: Azure for SAP Workloads Specialty.'
+resources:
+- title: Sobre a renovação da certificação
+  summary: Entenda o processo e os requisitos para renovar suas certificações online
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

@@ -1,0 +1,109 @@
+### YamlMime:Course
+title: 'Microsoft Security Workshop: Enterprise Security Fundamentals'
+metadata:
+  title: 'Course 40551-A: Microsoft Security Workshop: Enterprise Security Fundamentals'
+  description: 'Course 40551-A: Microsoft Security Workshop: Enterprise Security Fundamentals'
+uid: course.40551
+courseNumber: '40551-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Descrever o cenário atual de segurança cibernética
+- skill: Descrever o suposto compromisso filosofia
+- skill: Identificar fatores que contribuem para o custo de uma brecha
+- skill: Distinguir entre responsabilidades de equipes vermelhas e equipes azuis 
+- skill: Identificar objetivos típicos de atacantes cibernéticos 
+- skill: Descrever uma cadeia de assassinato realizada por equipes lidas 
+- skill: Descrever o papel, objetivos e atividades de matar em cadeia da equipe azul nos exercícios da equipe vermelha 
+- skill: Descrever as formas de limitar como um atacante pode comprometer contas sem privilégios.
+- skill: Descrever os métodos usados para restringir o movimento lateral.
+- skill: Descrever como o monitoramento por telemetria é usado para detectar ataques.
+- skill: Explicar o conceito da tríade Confidencialidade, Integridade e Disponibilidade (CIA).
+- skill: Descrever as principais atividades que devem ser incluídas na preparação da organização 
+- skill: Identificar os princípios principais de desenvolvimento e manutenção de políticas.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  Este workshop de segurança conduzido por um instrutor de 1 dia fornece uma visão sobre as práticas de segurança para melhorar a postura de segurança de uma organização. O workshop examina o conceito de equipe vermelha - profissionais de segurança da equipe azul, onde um grupo de profissionais de segurança - a equipe vermelha - ataca uma parte ou partes da infraestrutura de segurança de uma empresa e um grupo oposto - a equipe azul - defende contra o ataque. Ambas as equipes trabalham para fortalecer as defesas da empresa. Como o objetivo das duas equipes é ajudar a empresa a atingir um nível mais alto de segurança, a indústria de segurança está chamando essa função de equipe roxa.
+
+  Este workshop faz parte de uma série maior de Workshops oferecidos pela Microsoft sobre a prática de Segurança. Embora não seja necessário que você tenha concluído nenhum dos outros cursos da série Workshop de segurança antes de fazer este workshop, é altamente recomendável que você comece com este workshop da série Microsoft Security Workshop&#58; Enterprise Security Fundamentals.
+
+  #### Perfil de público
+  Este workshop de 1 dia destina-se a profissionais de IT que precisam de um conhecimento mais profundo da segurança do Windows e que desejam aumentar seu nível de conhecimento. Este curso também fornece experiência em segurança cibernética antes de fazer os outros cursos de segurança nesta área.
+prerequisitesSection: |-
+  Além da experiência profissional, os alunos que fazem este treinamento já devem possuir os seguintes conhecimentos técnicos&#58;
+  - O atual ecossistema de segurança cibernética
+  - Análise de hacks em computadores e redes
+  - Gerenciamento de Risco Básico
+outlineSection: |-
+  ### Módulo 1&#58; Compreender o panorama da segurança cibernética
+  Neste módulo, você aprenderá sobre o cenário atual de cibersegurança e como, ao adotar a filosofia de compromisso assumido, você pode restringir a capacidade de um invasor de mover-se lateralmente entre sistemas de informação e restringir sua capacidade de escalar privilégios dentro desses sistemas.
+  O panorama atual da segurança cibernética é vasto e provavelmente impossível para qualquer indivíduo compreender em sua totalidade. Existem, no entanto, vários aspectos desse cenário aos quais os interessados nos fundamentos da segurança corporativa devem prestar atenção.
+  #### Lições
+  - Cenário atual de segurança cibernética
+  - Assumir a Filosofia de Compromisso
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Descrever o cenário atual de segurança cibernética.
+  - Descrever a Filosofia Assumir Comprometer.
+  - Identificar os fatores que contribuem para o custo de uma violação.
+
+
+  ### Módulo 2&#58; Equipe Vermelha&#58; Penetração, Movimento Lateral, Escalonamento e Exfiltração
+  Os exercícios de equipe vermelha versus equipe azul envolvem a simulação de um ataque contra o sistema de informações de uma organização. A equipe vermelha simula e, em alguns casos, executa etapas de prova de conceito executadas no ataque aos sistemas de IT da organização. A equipe azul simula a resposta a esse ataque.
+  Essa abordagem adversária não só permite a identificação de vulnerabilidades de segurança na maneira como os sistemas de IT da organização são configurados, mas também permite que os membros da equipe de sistemas de informação da organização aprendam como detectar e responder a ataques.
+  Neste módulo, você aprenderá a abordagem da equipe de prática vermelha versus equipe azul para detectar e responder a ameaças de segurança.
+  #### Lições
+  - Exercícios da Equipe Vermelha versus Equipe Azul
+  - O objetivo dos atacantes
+  - Corrente de matança da equipe vermelha
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Distinguir entre as responsabilidades das equipes vermelhas e azuis.
+  - Identificar objetivos típicos de atacantes cibernéticos.
+  - Descrever uma cadeia de morte realizada por equipes vermelhas.
+
+  ### Módulo 3&#58; Detecção, investigação, resposta e mitigação da equipe azul
+  Neste módulo, você aprenderá sobre os papéis e objetivos do Blue Team nos exercícios de ataque. Você aprenderá a estrutura de um ataque contra um objetivo (Cadeia de Destruição) e as maneiras de limitar como um invasor pode comprometer contas sem privilégios. Você também aprenderá os métodos usados para restringir o movimento lateral que evita que invasores usem um sistema comprometido para atacar outros sistemas e como o monitoramento de telemetria é usado para detectar ataques.
+  #### Lições
+  - A Equipe Azul
+  - Corrente de matança da equipe azul
+  - Restringir o escalonamento de privilégios
+  - Restringir o movimento lateral
+  - Detecção de Ataque
+
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Descrever a função e os objetivos da Equipe Azul e as atividades em cadeia de eliminação da equipe azul nos exercícios da equipe vermelha.
+  - Descrever a estrutura de um ataque contra um objetivo (Cadeia de Destruição).
+  - Descrever as maneiras de limitar como um invasor pode comprometer contas sem privilégios.
+  - Descrever os métodos usados para restringir o movimento lateral.
+  - Descrever como o monitoramento de telemetria é usado para detectar ataques.
+
+
+  ### Módulo 4&#58; Preparações Organizacionais
+  Existem vários preparativos contínuos que uma organização pode realizar para melhorar sua abordagem geral à segurança da informação. Neste módulo, examinaremos mais de perto alguns deles. Você aprenderá sobre um modelo conceitual para pensar sobre a segurança da informação e como abordar a segurança da informação e se preparar adequadamente, incluindo a garantia de que sua organização tenha uma abordagem deliberada da segurança da informação.
+  #### Lições
+  - Tríade da CIA
+  - Preparações Organizacionais
+  - Desenvolvimento e manutenção de políticas
+
+
+  #### Lab&#58; Projetando uma estratégia do Blue Team
+  Depois de concluir este módulo, os alunos serão capazes de&#58;
+  - Explicar o conceito de tríade Confidencialidade, Integridade e Disponibilidade (CIA).
+  - Descrever as atividades primárias que devem ser incluídas nos preparativos da organização.
+  - Identificar os princípios básicos de desenvolvimento e manutenção de políticas.
+
+  Depois de concluir este laboratório, os alunos serão capazes de&#58;
+  - Projetar uma abordagem de alto nível para mitigar ameaças
+  - Recomendar ferramentas e metodologia que facilitem o rastreamento das origens dos ataques cibernéticos
+  - Fornece etapas de alto nível de um esforço de recuperação
+  - Recomendar métodos de prevenção de ataques cibernéticos
+  - Descrever os desafios regulatórios que resultam de explorações de malware

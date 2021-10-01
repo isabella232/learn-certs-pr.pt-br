@@ -20,11 +20,6 @@ A tecnologia e os papéis associados no trabalho mudam mais rapidamente a cada a
 
 Os exames programados para serem aposentados nos próximos 12 meses estão listados aqui por data. (Esta informação está sujeita a alterações.)
 
-| Reforma-se em 31 de agosto de 2021 |
-| --- |
-| [DP-200](/learn/certifications/exams/dp-200): Implementing an Azure Data Solution |
-| [DP-201](/learn/certifications/exams/dp-201): Implementing an Azure Data Solution |
-
 | Aposentado em 30 de junho de 2022 |
 | --- |
 | [98-349](/learn/certifications/exams/98-349): Windows Operating System Fundamentals |
@@ -51,6 +46,8 @@ Estes exames foram retirados no último ano. Para fins de referência, continuar
 | [AZ-203](/learn/certifications/exams/AZ-203) | Developing Solutions for Microsoft Azure | 31 de agosto de 2020.
 | [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | 30 de setembro de 2020
 | [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect Design | 30 de setembro de 2020
+|[DP-200](/learn/certifications/exams/dp-200) | Implementing an Azure Data Solution | 31 de agosto de 2021
+| [DP-201](/learn/certifications/exams/dp-201) | Designing an Azure Data Solution | 31 de agosto de 2021
 | [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 31 de dezembro de, 2020
 | [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 31 de dezembro de, 2020
 | [MB-600](/learn/certifications/exams/mb-600) | Microsoft Dynamics 365 + Power Platform Solution Architect | 30 de junho de, 2021
