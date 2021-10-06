@@ -14,10 +14,7 @@ ms.prod: non-product-specific
 
 ## Reescalonamento e detalhes da Política de cancelamento
 
-- <div><font color='red'>Se você não comparecer ao exame ou não reagendar ou cancelar sua consulta pelo menos 24 horas antes da data marcada, você perderá o valor total do exame. </font></div>
-- Não há custo se você remarcar ou cancelar uma consulta de exame pelo menos seis dias úteis antes da sua consulta.
-- Se você cancelar ou remarcar o seu exame dentro de cinco dias úteis após o seu tempo de exame registrado, uma taxa será aplicada.
-- Se você deixar de se inscrever para seu agendamento de exame ou se você não reagendar ou cancelar seu agendamento pelo menos 24 horas antes do compromisso agendado, você perderá o direito de reembolsar a taxa total de exame. Os dias úteis são de segunda a sexta-feira, sem incluir feriados globais.
+Você deve reagendar e cancelar as datas para o exame pelo menos 24 horas antes da realização do exame. Os candidatos que fizerem o reagendamento ou cancelamento 24 horas antes da data do exame perderão o direito ao valor do exame. Além disso, se os candidatos usarem um voucher adquirido pela empresa, sua empresa pode ser cobrada quando os candidatos fizerem o reagendamento ou cancelamento menos de 24 horas antes da data de realização do exame.
 
 ## Como remarcar ou cancelar o exame
 
